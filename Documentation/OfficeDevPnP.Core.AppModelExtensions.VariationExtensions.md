@@ -1,0 +1,2 @@
+# OfficeDevPnP.Core.AppModelExtensions.VariationExtensions
+

@@ -1,0 +1,2 @@
+# OfficeDevPnP.Core.Properties
+
