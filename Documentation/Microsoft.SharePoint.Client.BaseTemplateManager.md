@@ -6,7 +6,8 @@ This class will be used to provide access to the right base template configurati
 System.Object
 ## Syntax
 ```C#
-public class BaseTemplateManager```
+public class BaseTemplateManager
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

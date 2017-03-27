@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class XMLExtensions```
+public class XMLExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -15,8 +16,7 @@ public class XMLExtensions```
 | [ToXElement(String)](XMLExtensionsToXElementString.md) | Internal extension method to convert a String into an XElement
 | [ToXmlElement(String)](XMLExtensionsToXmlElementString.md) | Internal extension method to convert a String into an XmlElement
 | [ToXmlNode(String)](XMLExtensionsToXmlNodeString.md) | Internal extension method to convert a String into an XmlNode
-| [ToProviderConfiguration(Xml.XmlNode)](XMLExtensionsToProviderConfigurationXml.XmlNode.md) | Internal extension method to convert the XML configuration
-            of a provider into a String
+| [ToProviderConfiguration(Xml.XmlNode)](XMLExtensionsToProviderConfigurationXml.XmlNode.md) | Internal extension method to convert the XML configuration of a provider into a String
 | [FixupElementNamespace(Xml.XmlElement)](XMLExtensionsFixupElementNamespaceXml.XmlElement.md) | Internal extension method to fix XML Namespaces onto a target XML element
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

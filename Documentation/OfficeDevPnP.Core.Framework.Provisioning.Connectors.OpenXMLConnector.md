@@ -31,8 +31,7 @@ public class OpenXMLConnector: FileConnectorBase
 | [DeleteFile(String)](OpenXMLConnectorDeleteFileString.md) | Deletes a file from the default container
 | [DeleteFile(String, String)](OpenXMLConnectorDeleteFileStringString.md) | Deletes a file from the specified container
 | [GetFileFromStorage(String, String)](OpenXMLConnectorGetFileFromStorageStringString.md) | 
-| [GetFileFromInsidePackage(String, String)](OpenXMLConnectorGetFileFromInsidePackageStringString.md) | Will first try to find the file based on container/filename from the mapped file names.
-            As a fallback it will try to find by container/filename in the pnp file structure, which was the original format.
+| [GetFileFromInsidePackage(String, String)](OpenXMLConnectorGetFileFromInsidePackageStringString.md) | Will first try to find the file based on container/filename from the mapped file names. As a fallback it will try to find by container/filename in the pnp file structure, which was the original format.
 | [GetContainer()](OpenXMLConnectorGetContainer.md) | 
 | [Commit()](OpenXMLConnectorCommit.md) | 
 | [<GetFileFromInsidePackage>b__19_1(Collections.Generic.KeyValuePair2<String,String>)](OpenXMLConnector<GetFileFromInsidePackage>b__19_1Collections.Generic.KeyValuePair2<String,String>.md) | 

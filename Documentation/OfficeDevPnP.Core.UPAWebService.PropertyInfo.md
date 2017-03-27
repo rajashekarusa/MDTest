@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PropertyInfo```
+public class PropertyInfo
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ File-based (CAML) deprecated provisioning extensions
 System.Object
 ## Syntax
 ```C#
-public class ProvisioningExtensions```
+public class ProvisioningExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

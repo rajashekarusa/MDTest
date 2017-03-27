@@ -6,7 +6,8 @@ Extension class for PnP OpenXML package files
 System.Object
 ## Syntax
 ```C#
-public class PnPPackageExtensions```
+public class PnPPackageExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

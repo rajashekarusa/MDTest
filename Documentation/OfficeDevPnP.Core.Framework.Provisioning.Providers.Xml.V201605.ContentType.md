@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ContentType```
+public class ContentType
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

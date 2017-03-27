@@ -6,7 +6,8 @@ CustomActionEntity class describes the information for a Custom Action
 System.Object
 ## Syntax
 ```C#
-public class CustomActionEntity```
+public class CustomActionEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

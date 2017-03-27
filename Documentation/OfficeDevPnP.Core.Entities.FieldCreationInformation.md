@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class FieldCreationInformation```
+public class FieldCreationInformation
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

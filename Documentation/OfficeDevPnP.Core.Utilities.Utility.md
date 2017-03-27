@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class Utility```
+public class Utility
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

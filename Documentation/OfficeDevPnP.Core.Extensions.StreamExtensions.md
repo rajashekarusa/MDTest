@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class StreamExtensions```
+public class StreamExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ThemeEntity```
+public class ThemeEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

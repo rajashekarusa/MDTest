@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PublishingDesignPackage```
+public class PublishingDesignPackage
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

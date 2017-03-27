@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PnPCoreUtilities```
+public class PnPCoreUtilities
+```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ Class that holds deprecated information management extension methods
 System.Object
 ## Syntax
 ```C#
-public class InformationManagementExtensions```
+public class InformationManagementExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

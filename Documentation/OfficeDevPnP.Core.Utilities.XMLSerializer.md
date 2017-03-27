@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class XMLSerializer```
+public class XMLSerializer
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

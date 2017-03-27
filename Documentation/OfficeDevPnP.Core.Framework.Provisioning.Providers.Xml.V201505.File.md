@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class File```
+public class File
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

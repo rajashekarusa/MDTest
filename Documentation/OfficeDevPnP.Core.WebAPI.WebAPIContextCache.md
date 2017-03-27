@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class WebAPIContextCache```
+public class WebAPIContextCache
+```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

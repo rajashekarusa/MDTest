@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ValueData```
+public class ValueData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

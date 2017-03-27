@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class LocalizationsLocalization```
+public class LocalizationsLocalization
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ Class holding a collection of client side webparts (retrieved via the _api/web/G
 System.Object
 ## Syntax
 ```C#
-public class AvailableClientSideComponents```
+public class AvailableClientSideComponents
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

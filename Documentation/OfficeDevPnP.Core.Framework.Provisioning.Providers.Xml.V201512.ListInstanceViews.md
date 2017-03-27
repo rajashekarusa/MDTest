@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ListInstanceViews```
+public class ListInstanceViews
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

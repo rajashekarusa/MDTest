@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class RoleAssignment```
+public class RoleAssignment
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

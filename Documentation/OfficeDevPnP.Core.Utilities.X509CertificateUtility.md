@@ -6,7 +6,8 @@ Supporting class for certificate based operations
 System.Object
 ## Syntax
 ```C#
-public class X509CertificateUtility```
+public class X509CertificateUtility
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

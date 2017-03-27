@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class AuditSettingsAudit```
+public class AuditSettingsAudit
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

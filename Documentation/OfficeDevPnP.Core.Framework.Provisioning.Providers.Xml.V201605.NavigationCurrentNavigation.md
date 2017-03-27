@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class NavigationCurrentNavigation```
+public class NavigationCurrentNavigation
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

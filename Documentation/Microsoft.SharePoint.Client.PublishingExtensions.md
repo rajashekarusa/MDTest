@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PublishingExtensions```
+public class PublishingExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class CustomActionCommandUIExtension```
+public class CustomActionCommandUIExtension
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

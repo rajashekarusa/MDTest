@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ObjectSecurity```
+public class ObjectSecurity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

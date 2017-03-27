@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class CredentialManager```
+public class CredentialManager
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

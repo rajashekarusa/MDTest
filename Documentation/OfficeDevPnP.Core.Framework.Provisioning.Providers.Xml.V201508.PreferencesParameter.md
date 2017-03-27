@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PreferencesParameter```
+public class PreferencesParameter
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

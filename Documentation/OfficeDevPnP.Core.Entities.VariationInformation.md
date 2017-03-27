@@ -6,7 +6,8 @@ Class containing variation configuration information
 System.Object
 ## Syntax
 ```C#
-public class VariationInformation```
+public class VariationInformation
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

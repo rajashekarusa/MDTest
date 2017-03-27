@@ -6,7 +6,8 @@ Class that holds the state information that's being stored in the web property b
 System.Object
 ## Syntax
 ```C#
-public class TimerJobRun```
+public class TimerJobRun
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

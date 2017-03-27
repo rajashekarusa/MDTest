@@ -6,7 +6,8 @@ Class for deprecated search extension methods
 System.Object
 ## Syntax
 ```C#
-public class SearchExtensions```
+public class SearchExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

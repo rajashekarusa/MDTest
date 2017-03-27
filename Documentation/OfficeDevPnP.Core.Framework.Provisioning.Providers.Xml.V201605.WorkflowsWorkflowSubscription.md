@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class WorkflowsWorkflowSubscription```
+public class WorkflowsWorkflowSubscription
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

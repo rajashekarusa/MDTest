@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PublishingWebTemplate```
+public class PublishingWebTemplate
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

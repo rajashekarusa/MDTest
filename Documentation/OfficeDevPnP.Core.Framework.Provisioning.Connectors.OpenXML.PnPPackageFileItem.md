@@ -6,7 +6,8 @@ Defines a single file in the PnP Open XML file package
 System.Object
 ## Syntax
 ```C#
-public class PnPPackageFileItem```
+public class PnPPackageFileItem
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class Leader```
+public class Leader
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

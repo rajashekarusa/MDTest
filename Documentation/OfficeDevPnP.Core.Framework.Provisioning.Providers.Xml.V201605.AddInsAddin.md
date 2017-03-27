@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class AddInsAddin```
+public class AddInsAddin
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

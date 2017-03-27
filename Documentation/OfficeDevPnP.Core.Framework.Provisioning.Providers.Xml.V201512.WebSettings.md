@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class WebSettings```
+public class WebSettings
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

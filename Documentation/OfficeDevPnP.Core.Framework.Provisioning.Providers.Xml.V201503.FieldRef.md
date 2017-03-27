@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class FieldRef```
+public class FieldRef
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ Class that holds the deprecated file and folder methods
 System.Object
 ## Syntax
 ```C#
-public class FileFolderExtensions```
+public class FileFolderExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -18,8 +19,7 @@ public class FileFolderExtensions```
 | [ConvertFolderToDocumentSet(List, String)](FileFolderExtensionsConvertFolderToDocumentSetListString.md) | Converts a folder with the given name as a child of the List RootFolder.
 | [ConvertFolderToDocumentSet(List, Folder)](FileFolderExtensionsConvertFolderToDocumentSetListFolder.md) | Converts a folder with the given name as a child of the List RootFolder.
 | [ConvertFolderToDocumentSetImplementation(List, Folder)](FileFolderExtensionsConvertFolderToDocumentSetImplementationListFolder.md) | Internal implementation of the Folder conversion to Document set
-| [CreateFolder(Web, String)](FileFolderExtensionsCreateFolderWebString.md) | Creates a folder with the given name as a child of the Web. 
-            Note it is more common to create folders within an existing Folder, such as the RootFolder of a List.
+| [CreateFolder(Web, String)](FileFolderExtensionsCreateFolderWebString.md) | Creates a folder with the given name as a child of the Web. Note it is more common to create folders within an existing Folder, such as the RootFolder of a List.
 | [CreateFolder(Folder, String)](FileFolderExtensionsCreateFolderFolderString.md) | Creates a folder with the given name.
 | [CreateFolderImplementation(FolderCollection, String, Folder, Linq.Expressions.Expression1<Func2<Folder,Object>>[])](FileFolderExtensionsCreateFolderImplementationFolderCollectionStringFolderLinq.Expressions.Expression1<Func2<Folder,Object>>[].md) | 
 | [DoesFolderExists(Web, String)](FileFolderExtensionsDoesFolderExistsWebString.md) | Checks if a specific folder exists
@@ -42,13 +42,10 @@ public class FileFolderExtensions```
 | [UploadFile(Folder, String, String, Boolean)](FileFolderExtensionsUploadFileFolderStringStringBoolean.md) | Uploads a file to the specified folder.
 | [UploadFile(Folder, String, IO.Stream, Boolean)](FileFolderExtensionsUploadFileFolderStringIO.StreamBoolean.md) | Uploads a file to the specified folder.
 | [UploadFileWebDav(Folder, String, String, Boolean)](FileFolderExtensionsUploadFileWebDavFolderStringStringBoolean.md) | Uploads a file to the specified folder by saving the binary directly (via webdav).
-| [UploadFileWebDav(Folder, String, IO.Stream, Boolean)](FileFolderExtensionsUploadFileWebDavFolderStringIO.StreamBoolean.md) | Uploads a file to the specified folder by saving the binary directly (via webdav).
-            Note: this method does not work using app only token.
+| [UploadFileWebDav(Folder, String, IO.Stream, Boolean)](FileFolderExtensionsUploadFileWebDavFolderStringIO.StreamBoolean.md) | Uploads a file to the specified folder by saving the binary directly (via webdav). Note: this method does not work using app only token.
 | [GetFile(Folder, String)](FileFolderExtensionsGetFileFolderString.md) | Gets a file in a document library.
-| [VerifyIfUploadRequired(File, String)](FileFolderExtensionsVerifyIfUploadRequiredFileString.md) | Used to compare the server file to the local file.
-            This enables users with faster download speeds but slow upload speeds to evaluate if the server file should be overwritten.
-| [VerifyIfUploadRequired(File, IO.Stream)](FileFolderExtensionsVerifyIfUploadRequiredFileIO.Stream.md) | Used to compare the server file to the local file.
-            This enables users with faster download speeds but slow upload speeds to evaluate if the server file should be overwritten.
+| [VerifyIfUploadRequired(File, String)](FileFolderExtensionsVerifyIfUploadRequiredFileString.md) | Used to compare the server file to the local file. This enables users with faster download speeds but slow upload speeds to evaluate if the server file should be overwritten.
+| [VerifyIfUploadRequired(File, IO.Stream)](FileFolderExtensionsVerifyIfUploadRequiredFileIO.Stream.md) | Used to compare the server file to the local file. This enables users with faster download speeds but slow upload speeds to evaluate if the server file should be overwritten.
 | [SetFileProperties(File, Collections.Generic.IDictionary2<String,String>, Boolean)](FileFolderExtensionsSetFilePropertiesFileCollections.Generic.IDictionary2<String,String>Boolean.md) | 
 | [PublishFileToLevel(File, FileLevel)](FileFolderExtensionsPublishFileToLevelFileFileLevel.md) | Publishes a file based on the type of versioning required on the parent library.
 | [WildcardToRegex(String)](FileFolderExtensionsWildcardToRegexString.md) | 

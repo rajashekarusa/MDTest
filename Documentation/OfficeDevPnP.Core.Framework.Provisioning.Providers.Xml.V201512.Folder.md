@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class Folder```
+public class Folder
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class SecurityPermissions```
+public class SecurityPermissions
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

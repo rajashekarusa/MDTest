@@ -6,7 +6,8 @@ Represents a modern client side page with all it's contents
 System.Object
 ## Syntax
 ```C#
-public class ClientSidePage```
+public class ClientSidePage
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

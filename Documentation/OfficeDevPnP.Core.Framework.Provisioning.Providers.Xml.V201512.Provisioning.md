@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class Provisioning```
+public class Provisioning
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

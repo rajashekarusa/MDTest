@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PinnedLinkData```
+public class PinnedLinkData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

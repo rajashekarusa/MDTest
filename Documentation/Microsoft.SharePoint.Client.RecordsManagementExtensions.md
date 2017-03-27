@@ -6,16 +6,15 @@ Class that deals with deprecated records management functionality
 System.Object
 ## Syntax
 ```C#
-public class RecordsManagementExtensions```
+public class RecordsManagementExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [IsInPlaceRecordsManagementActive(Site)](RecordsManagementExtensionsIsInPlaceRecordsManagementActiveSite.md) | Checks if in place records management functionality is enabled for this site collection
 | [ActivateInPlaceRecordsManagementFeature(Site)](RecordsManagementExtensionsActivateInPlaceRecordsManagementFeatureSite.md) | Activate the in place records management feature
 | [DisableInPlaceRecordsManagementFeature(Site)](RecordsManagementExtensionsDisableInPlaceRecordsManagementFeatureSite.md) | Deactivate the in place records management feature
-| [EnableSiteForInPlaceRecordsManagement(Site)](RecordsManagementExtensionsEnableSiteForInPlaceRecordsManagementSite.md) | Enable in place records management. The in place records management feature will be enabled and 
-            the in place record management will be enabled in all locations with record declaration allowed 
-            by all contributors and undeclaration by site admins
+| [EnableSiteForInPlaceRecordsManagement(Site)](RecordsManagementExtensionsEnableSiteForInPlaceRecordsManagementSite.md) | Enable in place records management. The in place records management feature will be enabled and the in place record management will be enabled in all locations with record declaration allowed by all contributors and undeclaration by site admins
 | [SetManualRecordDeclarationInAllLocations(Site, Boolean)](RecordsManagementExtensionsSetManualRecordDeclarationInAllLocationsSiteBoolean.md) | Defines if in place records management is allowed in all places
 | [GetManualRecordDeclarationInAllLocations(Site)](RecordsManagementExtensionsGetManualRecordDeclarationInAllLocationsSite.md) | Get the value of the records management is allowed in all places setting
 | [SetRecordRestrictions(Site, OfficeDevPnP.Core.EcmSiteRecordRestrictions)](RecordsManagementExtensionsSetRecordRestrictionsSiteOfficeDevPnP.Core.EcmSiteRecordRestrictions.md) | Defines the restrictions that are placed on a document once it's declared as a record

@@ -6,7 +6,8 @@ This class holds the information that's passed from the SharePoint app to the "R
 System.Object
 ## Syntax
 ```C#
-public class WebAPIContext```
+public class WebAPIContext
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ Use this class to build your CAML xml and avoid XML issues.
 System.Object
 ## Syntax
 ```C#
-public class CAML```
+public class CAML
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

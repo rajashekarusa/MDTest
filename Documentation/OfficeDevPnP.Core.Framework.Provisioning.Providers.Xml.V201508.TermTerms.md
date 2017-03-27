@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class TermTerms```
+public class TermTerms
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

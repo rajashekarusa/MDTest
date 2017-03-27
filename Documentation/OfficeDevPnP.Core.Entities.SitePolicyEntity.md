@@ -6,7 +6,8 @@ Properties of a site policy object
 System.Object
 ## Syntax
 ```C#
-public class SitePolicyEntity```
+public class SitePolicyEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

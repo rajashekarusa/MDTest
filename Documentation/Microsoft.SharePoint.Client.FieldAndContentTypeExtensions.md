@@ -6,7 +6,8 @@ This class holds deprecated extension methods that will help you work with field
 System.Object
 ## Syntax
 ```C#
-public class FieldAndContentTypeExtensions```
+public class FieldAndContentTypeExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -56,8 +57,7 @@ public class FieldAndContentTypeExtensions```
 | [AddFieldToContentTypeById(Web, String, String, Boolean, Boolean)](FieldAndContentTypeExtensionsAddFieldToContentTypeByIdWebStringStringBooleanBoolean.md) | Associates field to content type
 | [AddFieldToContentTypeByName(Web, String, Guid, Boolean, Boolean)](FieldAndContentTypeExtensionsAddFieldToContentTypeByNameWebStringGuidBooleanBoolean.md) | Associates field to content type
 | [AddFieldToContentType(Web, ContentType, Field, Boolean, Boolean)](FieldAndContentTypeExtensionsAddFieldToContentTypeWebContentTypeFieldBooleanBoolean.md) | Associates field to content type
-| [BestMatchContentTypeId(List, String)](FieldAndContentTypeExtensionsBestMatchContentTypeIdListString.md) | Searches the list content types and returns the content type identifier (ID) that is the 
-            nearest match to the specified content type ID.
+| [BestMatchContentTypeId(List, String)](FieldAndContentTypeExtensionsBestMatchContentTypeIdListString.md) | Searches the list content types and returns the content type identifier (ID) that is the nearest match to the specified content type ID.
 | [BestMatchContentTypeIdImplementation(List, String)](FieldAndContentTypeExtensionsBestMatchContentTypeIdImplementationListString.md) | 
 | [ContentTypeExistsById(Web, String, Boolean)](FieldAndContentTypeExtensionsContentTypeExistsByIdWebStringBoolean.md) | Does content type exists in the web
 | [ContentTypeExistsByName(Web, String, Boolean)](FieldAndContentTypeExtensionsContentTypeExistsByNameWebStringBoolean.md) | Does content type exists in the web
@@ -76,8 +76,7 @@ public class FieldAndContentTypeExtensions```
 | [GetContentTypeById(Web, String, Boolean)](FieldAndContentTypeExtensionsGetContentTypeByIdWebStringBoolean.md) | Return content type by Id
 | [GetContentTypeByName(List, String)](FieldAndContentTypeExtensionsGetContentTypeByNameListString.md) | Return content type by name
 | [GetContentTypeById(List, String)](FieldAndContentTypeExtensionsGetContentTypeByIdListString.md) | Return content type by Id
-| [BestMatch(ContentTypeCollection, String)](FieldAndContentTypeExtensionsBestMatchContentTypeCollectionString.md) | Searches for the content type with the closest match to the value of the specified content type ID. 
-            If the search finds two matches, the shorter ID is returned.
+| [BestMatch(ContentTypeCollection, String)](FieldAndContentTypeExtensionsBestMatchContentTypeCollectionString.md) | Searches for the content type with the closest match to the value of the specified content type ID. If the search finds two matches, the shorter ID is returned.
 | [RemoveContentTypeFromListByName(Web, String, String)](FieldAndContentTypeExtensionsRemoveContentTypeFromListByNameWebStringString.md) | Removes content type from list
 | [RemoveContentTypeFromListByName(Web, List, String)](FieldAndContentTypeExtensionsRemoveContentTypeFromListByNameWebListString.md) | Removes content type from list
 | [RemoveContentTypeFromListById(Web, String, String)](FieldAndContentTypeExtensionsRemoveContentTypeFromListByIdWebStringString.md) | Removes content type from a list

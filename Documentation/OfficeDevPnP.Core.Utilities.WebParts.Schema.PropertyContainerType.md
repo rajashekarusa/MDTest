@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PropertyContainerType```
+public class PropertyContainerType
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

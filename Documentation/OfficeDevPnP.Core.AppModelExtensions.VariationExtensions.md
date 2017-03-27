@@ -6,6 +6,7 @@ Class that holds deprecated methods for variations
 System.Object
 ## Syntax
 ```C#
-public class VariationExtensions```
+public class VariationExtensions
+```
 ## See also
 - [OfficeDevPnP.Core.AppModelExtensions](OfficeDevPnP.Core.AppModelExtensions.md)

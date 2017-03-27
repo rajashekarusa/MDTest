@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class TaxonomyItem```
+public class TaxonomyItem
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

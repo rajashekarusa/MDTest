@@ -6,7 +6,8 @@ Logging class
 System.Object
 ## Syntax
 ```C#
-public class Log```
+public class Log
+```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

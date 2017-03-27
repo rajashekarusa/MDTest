@@ -6,7 +6,8 @@ File descriptor for every single file in the PnP OpenXML file
 System.Object
 ## Syntax
 ```C#
-public class PnPFileInfo```
+public class PnPFileInfo
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ImportSequence```
+public class ImportSequence
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

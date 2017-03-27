@@ -6,7 +6,8 @@ Represents a zone on the canvas
 System.Object
 ## Syntax
 ```C#
-public class CanvasZone```
+public class CanvasZone
+```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

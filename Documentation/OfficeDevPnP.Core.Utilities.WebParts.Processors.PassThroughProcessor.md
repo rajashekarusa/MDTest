@@ -6,7 +6,8 @@ Default processor when others are not resolved
 System.Object
 ## Syntax
 ```C#
-public class PassThroughProcessor```
+public class PassThroughProcessor
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

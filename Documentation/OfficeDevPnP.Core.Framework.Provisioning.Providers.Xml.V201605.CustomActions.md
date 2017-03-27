@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class CustomActions```
+public class CustomActions
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

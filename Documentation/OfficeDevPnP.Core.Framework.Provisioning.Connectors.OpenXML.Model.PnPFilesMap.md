@@ -6,7 +6,8 @@ Defines the mapping between original file names and OpenXML file names
 System.Object
 ## Syntax
 ```C#
-public class PnPFilesMap```
+public class PnPFilesMap
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

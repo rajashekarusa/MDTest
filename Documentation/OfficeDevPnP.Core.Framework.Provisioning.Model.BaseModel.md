@@ -6,7 +6,8 @@ Base type for any Domain Model object (excluded the ProvisioningTemplate type)
 System.Object
 ## Syntax
 ```C#
-public class BaseModel```
+public class BaseModel
+```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

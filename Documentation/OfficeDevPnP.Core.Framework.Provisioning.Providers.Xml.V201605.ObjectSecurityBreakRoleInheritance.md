@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ObjectSecurityBreakRoleInheritance```
+public class ObjectSecurityBreakRoleInheritance
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

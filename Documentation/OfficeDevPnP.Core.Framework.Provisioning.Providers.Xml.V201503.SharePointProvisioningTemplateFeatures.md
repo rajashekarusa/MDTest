@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class SharePointProvisioningTemplateFeatures```
+public class SharePointProvisioningTemplateFeatures
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

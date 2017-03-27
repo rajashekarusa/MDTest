@@ -6,7 +6,8 @@ Class for deprecated workflow extension methods
 System.Object
 ## Syntax
 ```C#
-public class WorkflowExtensions```
+public class WorkflowExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

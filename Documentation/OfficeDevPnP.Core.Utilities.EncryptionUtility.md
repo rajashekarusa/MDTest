@@ -6,7 +6,8 @@ Utility class that support certificate based encryption/decryption
 System.Object
 ## Syntax
 ```C#
-public class EncryptionUtility```
+public class EncryptionUtility
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

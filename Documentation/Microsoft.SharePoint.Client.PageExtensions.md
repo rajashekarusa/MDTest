@@ -6,7 +6,8 @@ Class that holds all deprecated page and web part related operations
 System.Object
 ## Syntax
 ```C#
-public class PageExtensions```
+public class PageExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

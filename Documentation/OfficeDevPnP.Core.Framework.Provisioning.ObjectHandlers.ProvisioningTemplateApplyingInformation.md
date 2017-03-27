@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ProvisioningTemplateApplyingInformation```
+public class ProvisioningTemplateApplyingInformation
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

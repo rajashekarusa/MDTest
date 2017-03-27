@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class SPTimeZone```
+public class SPTimeZone
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

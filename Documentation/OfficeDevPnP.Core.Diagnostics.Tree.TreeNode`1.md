@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class TreeNode`1```
+public class TreeNode`1
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

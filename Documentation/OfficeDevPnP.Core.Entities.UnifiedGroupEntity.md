@@ -6,7 +6,8 @@ Defines a Unified Group
 System.Object
 ## Syntax
 ```C#
-public class UnifiedGroupEntity```
+public class UnifiedGroupEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

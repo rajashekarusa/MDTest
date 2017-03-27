@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class OrderByField```
+public class OrderByField
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

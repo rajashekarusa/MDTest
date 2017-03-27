@@ -7,7 +7,8 @@ Updates view for XsltListViewWebPart using schema definition provided
 System.Object
 ## Syntax
 ```C#
-public class XsltWebPartPostProcessor```
+public class XsltWebPartPostProcessor
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

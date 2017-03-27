@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class UnifiedGroupsUtility```
+public class UnifiedGroupsUtility
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

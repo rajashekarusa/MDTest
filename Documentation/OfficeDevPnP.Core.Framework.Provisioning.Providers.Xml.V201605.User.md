@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class User```
+public class User
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

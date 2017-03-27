@@ -6,7 +6,8 @@ Manifest of a PnP OpenXML file
 System.Object
 ## Syntax
 ```C#
-public class PnPManifest```
+public class PnPManifest
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

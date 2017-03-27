@@ -6,7 +6,8 @@ Json web part data that will be included in each client side web part (de-)seria
 System.Object
 ## Syntax
 ```C#
-public class ClientSideWebPartData```
+public class ClientSideWebPartData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

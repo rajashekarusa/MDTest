@@ -6,7 +6,8 @@ Static methods to modify URL paths.
 System.Object
 ## Syntax
 ```C#
-public class UrlUtility```
+public class UrlUtility
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

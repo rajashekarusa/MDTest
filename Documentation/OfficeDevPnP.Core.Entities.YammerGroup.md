@@ -7,7 +7,8 @@ Represents Yammer Group information
 System.Object
 ## Syntax
 ```C#
-public class YammerGroup```
+public class YammerGroup
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

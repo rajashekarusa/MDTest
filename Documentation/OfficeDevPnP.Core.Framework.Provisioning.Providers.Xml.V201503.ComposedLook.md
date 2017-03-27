@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ComposedLook```
+public class ComposedLook
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

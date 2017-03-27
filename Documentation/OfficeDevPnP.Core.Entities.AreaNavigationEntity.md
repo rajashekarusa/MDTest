@@ -6,7 +6,8 @@ Entity description navigation
 System.Object
 ## Syntax
 ```C#
-public class AreaNavigationEntity```
+public class AreaNavigationEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

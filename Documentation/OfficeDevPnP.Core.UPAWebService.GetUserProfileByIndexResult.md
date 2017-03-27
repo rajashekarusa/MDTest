@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class GetUserProfileByIndexResult```
+public class GetUserProfileByIndexResult
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

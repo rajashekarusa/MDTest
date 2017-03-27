@@ -7,7 +7,8 @@ Abstract base class for creating timer jobs (background processes) that operate 
 System.Object
 ## Syntax
 ```C#
-public class TimerJob```
+public class TimerJob
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
@@ -43,30 +44,18 @@ public class TimerJob```
 | [DoWork(String)](TimerJobDoWorkString.md) | Processes the amount of work that will be done for a single site/web
 | [OnTimerJobRun(TimerJobRunEventArgs)](TimerJobOnTimerJobRunTimerJobRunEventArgs.md) | Triggers the event to fire and deals with all the pre/post processing needed to automatically manage state
 | [CreateWorkBatches()](TimerJobCreateWorkBatches.md) | Creates batches of sites to process. Batch size is based on max number of threads
-| [UseOffice365Authentication(String, String)](TimerJobUseOffice365AuthenticationStringString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType 
-            to AuthenticationType.Office365
-| [UseOffice365Authentication(String, Security.SecureString)](TimerJobUseOffice365AuthenticationStringSecurity.SecureString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType 
-            to AuthenticationType.Office365
-| [UseOffice365Authentication(String)](TimerJobUseOffice365AuthenticationString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials which are retrieved via 
-            the windows Credential Manager. Also sets AuthenticationType to AuthenticationType.Office365
-| [UseNetworkCredentialsAuthentication(String, String, String)](TimerJobUseNetworkCredentialsAuthenticationStringStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType 
-            to AuthenticationType.NetworkCredentials
-| [UseNetworkCredentialsAuthentication(String, Security.SecureString, String)](TimerJobUseNetworkCredentialsAuthenticationStringSecurity.SecureStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType 
-            to AuthenticationType.NetworkCredentials
-| [UseNetworkCredentialsAuthentication(String)](TimerJobUseNetworkCredentialsAuthenticationString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password  credentials which are retrieved via 
-            the windows Credential Manager. Sets AuthenticationType to AuthenticationType.NetworkCredentials
-| [UseAppOnlyAuthentication(String, String)](TimerJobUseAppOnlyAuthenticationStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with app-only credentials. Sets AuthenticationType 
-            to AuthenticationType.AppOnly
-| [UseAzureADAppOnlyAuthentication(String, String, String, String)](TimerJobUseAzureADAppOnlyAuthenticationStringStringStringString.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType 
-            to AuthenticationType.AzureADAppOnly
-| [UseAzureADAppOnlyAuthentication(String, String, String, Security.SecureString)](TimerJobUseAzureADAppOnlyAuthenticationStringStringStringSecurity.SecureString.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType 
-            to AuthenticationType.AzureADAppOnly
-| [UseAzureADAppOnlyAuthentication(String, String, Security.Cryptography.X509Certificates.X509Certificate2)](TimerJobUseAzureADAppOnlyAuthenticationStringStringSecurity.Cryptography.X509Certificates.X509Certificate2.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType 
-            to AuthenticationType.AzureADAppOnly
-| [Clone(TimerJob)](TimerJobCloneTimerJob.md) | Takes over the settings from the passed timer job. Is useful when you run multiple jobs in a row or chain 
-            job execution. Settings that are taken over are all the authentication, enumeration settings and SharePointVersion
-| [GetAuthenticationManager(String)](TimerJobGetAuthenticationManagerString.md) | Get an AuthenticationManager instance per host Url. Needed to make this work properly, else we're getting access denied 
-            because of Invalid audience Uri
+| [UseOffice365Authentication(String, String)](TimerJobUseOffice365AuthenticationStringString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType to AuthenticationType.Office365
+| [UseOffice365Authentication(String, Security.SecureString)](TimerJobUseOffice365AuthenticationStringSecurity.SecureString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType to AuthenticationType.Office365
+| [UseOffice365Authentication(String)](TimerJobUseOffice365AuthenticationString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials which are retrieved via the windows Credential Manager. Also sets AuthenticationType to AuthenticationType.Office365
+| [UseNetworkCredentialsAuthentication(String, String, String)](TimerJobUseNetworkCredentialsAuthenticationStringStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType to AuthenticationType.NetworkCredentials
+| [UseNetworkCredentialsAuthentication(String, Security.SecureString, String)](TimerJobUseNetworkCredentialsAuthenticationStringSecurity.SecureStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType to AuthenticationType.NetworkCredentials
+| [UseNetworkCredentialsAuthentication(String)](TimerJobUseNetworkCredentialsAuthenticationString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials which are retrieved via the windows Credential Manager. Sets AuthenticationType to AuthenticationType.NetworkCredentials
+| [UseAppOnlyAuthentication(String, String)](TimerJobUseAppOnlyAuthenticationStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with app-only credentials. Sets AuthenticationType to AuthenticationType.AppOnly
+| [UseAzureADAppOnlyAuthentication(String, String, String, String)](TimerJobUseAzureADAppOnlyAuthenticationStringStringStringString.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
+| [UseAzureADAppOnlyAuthentication(String, String, String, Security.SecureString)](TimerJobUseAzureADAppOnlyAuthenticationStringStringStringSecurity.SecureString.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
+| [UseAzureADAppOnlyAuthentication(String, String, Security.Cryptography.X509Certificates.X509Certificate2)](TimerJobUseAzureADAppOnlyAuthenticationStringStringSecurity.Cryptography.X509Certificates.X509Certificate2.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
+| [Clone(TimerJob)](TimerJobCloneTimerJob.md) | Takes over the settings from the passed timer job. Is useful when you run multiple jobs in a row or chain job execution. Settings that are taken over are all the authentication, enumeration settings and SharePointVersion
+| [GetAuthenticationManager(String)](TimerJobGetAuthenticationManagerString.md) | Get an AuthenticationManager instance per host Url. Needed to make this work properly, else we're getting access denied because of Invalid audience Uri
 | [SetEnumerationCredentials(String, String)](TimerJobSetEnumerationCredentialsStringString.md) | Provides the timer job with the enumeration credentials. For Office 365 username and password is sufficient
 | [SetEnumerationCredentials(String, Security.SecureString)](TimerJobSetEnumerationCredentialsStringSecurity.SecureString.md) | Provides the timer job with the enumeration credentials. For Office 365 username and password is sufficient
 | [SetEnumerationCredentials(String, String, String)](TimerJobSetEnumerationCredentialsStringStringString.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class DocumentSetTemplate```
+public class DocumentSetTemplate
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

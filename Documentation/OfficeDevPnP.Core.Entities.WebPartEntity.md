@@ -6,7 +6,8 @@ Class that describes information about a web part
 System.Object
 ## Syntax
 ```C#
-public class WebPartEntity```
+public class WebPartEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

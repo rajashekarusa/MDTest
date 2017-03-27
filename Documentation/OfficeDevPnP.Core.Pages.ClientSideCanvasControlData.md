@@ -6,7 +6,8 @@ Abstract base class representing the json control data that will be included in 
 System.Object
 ## Syntax
 ```C#
-public class ClientSideCanvasControlData```
+public class ClientSideCanvasControlData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,6 +6,7 @@ Constants.
 System.Object
 ## Syntax
 ```C#
-public class Constants```
+public class Constants
+```
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

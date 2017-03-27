@@ -7,7 +7,8 @@ Represents YammerUser
 System.Object
 ## Syntax
 ```C#
-public class YammerUser```
+public class YammerUser
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

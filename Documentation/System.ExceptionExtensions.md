@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ExceptionExtensions```
+public class ExceptionExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

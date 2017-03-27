@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class BuiltInFieldId```
+public class BuiltInFieldId
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

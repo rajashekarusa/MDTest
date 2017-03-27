@@ -6,7 +6,8 @@ Client side webpart object (retrieved via the _api/web/GetClientSideWebParts RES
 System.Object
 ## Syntax
 ```C#
-public class ClientSideComponent```
+public class ClientSideComponent
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class PropertyBagEntry```
+public class PropertyBagEntry
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class TokenParser```
+public class TokenParser
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

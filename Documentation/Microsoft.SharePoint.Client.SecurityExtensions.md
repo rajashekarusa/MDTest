@@ -6,7 +6,8 @@ This manager class holds deprecated security related methods
 System.Object
 ## Syntax
 ```C#
-public class SecurityExtensions```
+public class SecurityExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,8 +22,7 @@ public class SecurityExtensions```
 | [GetExternalUsersForSiteTenant(Web, Uri)](SecurityExtensionsGetExternalUsersForSiteTenantWebUri.md) | Returns a list all external users for a given site that have at least the viewpages permission
 | [GetGroupID(Web, String)](SecurityExtensionsGetGroupIDWebString.md) | Returns the integer ID for a given group name
 | [AddGroup(Web, String, String, Boolean, Boolean, Boolean)](SecurityExtensionsAddGroupWebStringStringBooleanBooleanBoolean.md) | Adds a group
-| [AssociateDefaultGroups(Web, Group, Group, Group)](SecurityExtensionsAssociateDefaultGroupsWebGroupGroupGroup.md) | Associate the provided groups as default owners, members or visitors groups. If a group is null then the 
-            association is not done
+| [AssociateDefaultGroups(Web, Group, Group, Group)](SecurityExtensionsAssociateDefaultGroupsWebGroupGroupGroup.md) | Associate the provided groups as default owners, members or visitors groups. If a group is null then the association is not done
 | [AddUserToGroup(Web, String, String)](SecurityExtensionsAddUserToGroupWebStringString.md) | Adds a user to a group
 | [AddUserToGroup(Web, Int32, String)](SecurityExtensionsAddUserToGroupWebInt32String.md) | Adds a user to a group
 | [AddUserToGroup(Web, Group, User)](SecurityExtensionsAddUserToGroupWebGroupUser.md) | Adds a user to a group

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class Templates```
+public class Templates
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

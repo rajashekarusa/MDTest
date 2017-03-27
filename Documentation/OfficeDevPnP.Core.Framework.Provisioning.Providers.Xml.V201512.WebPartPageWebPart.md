@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class WebPartPageWebPart```
+public class WebPartPageWebPart
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

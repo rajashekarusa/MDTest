@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class InCommonData```
+public class InCommonData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

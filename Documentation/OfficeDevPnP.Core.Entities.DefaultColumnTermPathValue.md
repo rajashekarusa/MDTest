@@ -6,7 +6,8 @@ Specifies a default column value for a document library
 System.Object
 ## Syntax
 ```C#
-public class DefaultColumnTermPathValue```
+public class DefaultColumnTermPathValue
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

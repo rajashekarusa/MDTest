@@ -6,7 +6,8 @@ SiteEntity class describes the information for a SharePoint site (collection)
 System.Object
 ## Syntax
 ```C#
-public class SiteEntity```
+public class SiteEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ Helper class that abstracts from any specific version of XMLPnPSchemaFormatter
 System.Object
 ## Syntax
 ```C#
-public class XMLPnPSchemaFormatter```
+public class XMLPnPSchemaFormatter
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

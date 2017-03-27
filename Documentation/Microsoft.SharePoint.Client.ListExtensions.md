@@ -6,7 +6,8 @@ Class that holds deprecated generic list creation and manipulation methods
 System.Object
 ## Syntax
 ```C#
-public class ListExtensions```
+public class ListExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -41,9 +42,7 @@ public class ListExtensions```
 | [GetListByTitle(Web, String, Linq.Expressions.Expression1<Func2<List,Object>>[])](ListExtensionsGetListByTitleWebStringLinq.Expressions.Expression1<Func2<List,Object>>[].md) | 
 | [GetListByUrl(Web, String, Linq.Expressions.Expression1<Func2<List,Object>>[])](ListExtensionsGetListByUrlWebStringLinq.Expressions.Expression1<Func2<List,Object>>[].md) | 
 | [GetPagesLibrary(Web)](ListExtensionsGetPagesLibraryWeb.md) | Gets the publishing pages library of the web based on site language
-| [GetWebRelativeUrl(List)](ListExtensionsGetWebRelativeUrlList.md) | Gets the web relative URL.
-            Allow users to get the web relative URL of a list.  
-            This is useful when exporting lists as it can then be used as a parameter to Web.GetListByUrl().
+| [GetWebRelativeUrl(List)](ListExtensionsGetWebRelativeUrlList.md) | Gets the web relative URL. Allow users to get the web relative URL of a list. This is useful when exporting lists as it can then be used as a parameter to Web.GetListByUrl().
 | [GetWebRelativeUrl(String, String)](ListExtensionsGetWebRelativeUrlStringString.md) | Gets the web relative URL.
 | [SetListPermission(List, OfficeDevPnP.Core.Enums.BuiltInIdentity, RoleType)](ListExtensionsSetListPermissionListOfficeDevPnP.Core.Enums.BuiltInIdentityRoleType.md) | Set custom permission to the list
 | [SetListPermission(List, Principal, RoleType)](ListExtensionsSetListPermissionListPrincipalRoleType.md) | Set custom permission to the list

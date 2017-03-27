@@ -6,7 +6,8 @@ Extension methods to make working with Enum values easier. Copied from http://hu
 System.Object
 ## Syntax
 ```C#
-public class EnumerationExtensions```
+public class EnumerationExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

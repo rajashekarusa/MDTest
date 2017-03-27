@@ -6,7 +6,8 @@ Safely convert strings to specified types.
 System.Object
 ## Syntax
 ```C#
-public class SafeConvertExtensions```
+public class SafeConvertExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

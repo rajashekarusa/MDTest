@@ -6,7 +6,8 @@ Properties of the PnP OpenXML container
 System.Object
 ## Syntax
 ```C#
-public class PnPProperties```
+public class PnPProperties
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

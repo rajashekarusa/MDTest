@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class MailUtility```
+public class MailUtility
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

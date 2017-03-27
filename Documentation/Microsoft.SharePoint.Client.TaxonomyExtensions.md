@@ -6,7 +6,8 @@ Class for deprecated taxonomy extension methods
 System.Object
 ## Syntax
 ```C#
-public class TaxonomyExtensions```
+public class TaxonomyExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,14 +25,8 @@ public class TaxonomyExtensions```
 | [GetTermByName(Site, Guid, String)](TaxonomyExtensionsGetTermByNameSiteGuidString.md) | Gets a Taxonomy Term by Name
 | [AddTermToTermset(Site, Guid, String)](TaxonomyExtensionsAddTermToTermsetSiteGuidString.md) | Adds a term to a given termset
 | [AddTermToTermset(Site, Guid, String, Guid)](TaxonomyExtensionsAddTermToTermsetSiteGuidStringGuid.md) | Adds a term to a given termset
-| [ImportTerms(Site, String[], Int32, String, Boolean)](TaxonomyExtensionsImportTermsSiteString[]Int32StringBoolean.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format:
-             TermGroup|TermSet|Term
-             
-             E.g. "Locations|Nordics|Sweden"
-| [ImportTerms(Site, String[], Int32, Taxonomy.TermStore, String, Boolean)](TaxonomyExtensionsImportTermsSiteString[]Int32Taxonomy.TermStoreStringBoolean.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format:
-             TermGroup|TermSet|Term
-             
-             E.g. "Locations|Nordics|Sweden"
+| [ImportTerms(Site, String[], Int32, String, Boolean)](TaxonomyExtensionsImportTermsSiteString[]Int32StringBoolean.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup|TermSet|Term E.g. "Locations|Nordics|Sweden"
+| [ImportTerms(Site, String[], Int32, Taxonomy.TermStore, String, Boolean)](TaxonomyExtensionsImportTermsSiteString[]Int32Taxonomy.TermStoreStringBoolean.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup|TermSet|Term E.g. "Locations|Nordics|Sweden"
 | [AddTermToTerm(Taxonomy.Term, Int32, String, Guid)](TaxonomyExtensionsAddTermToTermTaxonomy.TermInt32StringGuid.md) | 
 | [ImportTermSet(Taxonomy.TermGroup, String, Guid, Boolean, Nullable1<Boolean>, String, String)](TaxonomyExtensionsImportTermSetTaxonomy.TermGroupStringGuidBooleanNullable1<Boolean>StringString.md) | 
 | [ImportTermSet(Taxonomy.TermGroup, IO.Stream, Guid, Boolean, Nullable1<Boolean>, String, String)](TaxonomyExtensionsImportTermSetTaxonomy.TermGroupIO.StreamGuidBooleanNullable1<Boolean>StringString.md) | 

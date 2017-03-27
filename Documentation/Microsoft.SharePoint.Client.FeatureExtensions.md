@@ -6,7 +6,8 @@ Class that holds deprecated feature activation and deactivation methods
 System.Object
 ## Syntax
 ```C#
-public class FeatureExtensions```
+public class FeatureExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

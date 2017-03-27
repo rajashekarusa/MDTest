@@ -6,7 +6,8 @@ Utility class that supports the serialization from Json to type and vice versa
 System.Object
 ## Syntax
 ```C#
-public class JsonUtility```
+public class JsonUtility
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

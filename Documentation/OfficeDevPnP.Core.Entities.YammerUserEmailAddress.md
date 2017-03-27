@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class YammerUserEmailAddress```
+public class YammerUserEmailAddress
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

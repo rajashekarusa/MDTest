@@ -6,7 +6,8 @@ DefaultColumnValue
 System.Object
 ## Syntax
 ```C#
-public class DefaultColumnValue```
+public class DefaultColumnValue
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

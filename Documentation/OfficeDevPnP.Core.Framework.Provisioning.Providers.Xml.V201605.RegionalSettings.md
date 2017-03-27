@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class RegionalSettings```
+public class RegionalSettings
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

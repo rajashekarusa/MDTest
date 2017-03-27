@@ -6,7 +6,8 @@ Class represents variation label
 System.Object
 ## Syntax
 ```C#
-public class VariationLabelEntity```
+public class VariationLabelEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

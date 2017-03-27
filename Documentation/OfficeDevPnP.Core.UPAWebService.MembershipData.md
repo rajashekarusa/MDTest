@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class MembershipData```
+public class MembershipData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

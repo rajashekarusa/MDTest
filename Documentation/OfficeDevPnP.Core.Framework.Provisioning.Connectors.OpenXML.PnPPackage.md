@@ -6,7 +6,8 @@ Defines a PnP OpenXML package file
 System.Object
 ## Syntax
 ```C#
-public class PnPPackage```
+public class PnPPackage
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

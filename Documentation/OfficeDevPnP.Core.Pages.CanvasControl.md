@@ -6,7 +6,8 @@ Base control
 System.Object
 ## Syntax
 ```C#
-public class CanvasControl```
+public class CanvasControl
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

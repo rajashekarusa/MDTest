@@ -6,7 +6,8 @@ External user entity
 System.Object
 ## Syntax
 ```C#
-public class ExternalUserEntity```
+public class ExternalUserEntity
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class SiteGroup```
+public class SiteGroup
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

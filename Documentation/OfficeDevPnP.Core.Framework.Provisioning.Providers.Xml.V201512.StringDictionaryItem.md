@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class StringDictionaryItem```
+public class StringDictionaryItem
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

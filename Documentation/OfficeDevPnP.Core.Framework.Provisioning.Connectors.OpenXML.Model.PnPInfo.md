@@ -6,7 +6,8 @@ Global container of the PnP OpenXML file
 System.Object
 ## Syntax
 ```C#
-public class PnPInfo```
+public class PnPInfo
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

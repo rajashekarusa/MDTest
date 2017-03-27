@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class DataValue```
+public class DataValue
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

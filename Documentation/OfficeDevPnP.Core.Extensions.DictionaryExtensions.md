@@ -6,7 +6,8 @@ Extension type for Dictionaries
 System.Object
 ## Syntax
 ```C#
-public class DictionaryExtensions```
+public class DictionaryExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

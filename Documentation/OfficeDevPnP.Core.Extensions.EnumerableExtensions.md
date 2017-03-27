@@ -6,7 +6,8 @@ Extension methods to make working with IEnumerable<T> values easier.
 System.Object
 ## Syntax
 ```C#
-public class EnumerableExtensions```
+public class EnumerableExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

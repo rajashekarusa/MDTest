@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ContentTypeBinding```
+public class ContentTypeBinding
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

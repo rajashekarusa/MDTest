@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class Feature```
+public class Feature
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

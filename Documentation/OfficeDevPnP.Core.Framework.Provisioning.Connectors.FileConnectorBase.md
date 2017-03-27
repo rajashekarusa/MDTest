@@ -6,7 +6,8 @@ Base file connector class
 System.Object
 ## Syntax
 ```C#
-public class FileConnectorBase```
+public class FileConnectorBase
+```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

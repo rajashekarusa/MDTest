@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class QuickLinkData```
+public class QuickLinkData
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

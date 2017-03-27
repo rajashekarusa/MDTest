@@ -6,7 +6,8 @@ This manager class can be used to obtain a SharePointContext object
 System.Object
 ## Syntax
 ```C#
-public class AuthenticationManager```
+public class AuthenticationManager
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

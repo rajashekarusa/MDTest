@@ -6,7 +6,8 @@
 System.Object
 ## Syntax
 ```C#
-public class ValidationExtensions```
+public class ValidationExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

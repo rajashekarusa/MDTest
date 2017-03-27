@@ -6,14 +6,14 @@ Class for deprecated tenant extension methods
 System.Object
 ## Syntax
 ```C#
-public class TenantExtensions```
+public class TenantExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [CreateSiteCollection(Microsoft.Online.SharePoint.TenantAdministration.Tenant, OfficeDevPnP.Core.Entities.SiteEntity, Boolean, Boolean, Func2<OfficeDevPnP.Core.TenantOperationMessage,Boolean>)](TenantExtensionsCreateSiteCollectionMicrosoft.Online.SharePoint.TenantAdministration.TenantOfficeDevPnP.Core.Entities.SiteEntityBooleanBooleanFunc2<OfficeDevPnP.Core.TenantOperationMessage,Boolean>.md) | 
 | [CreateSiteCollection(Microsoft.Online.SharePoint.TenantAdministration.Tenant, String, String, String, String, Int32, Int32, Int32, Int32, Int32, UInt32, Boolean, Boolean, Func2<OfficeDevPnP.Core.TenantOperationMessage,Boolean>)](TenantExtensionsCreateSiteCollectionMicrosoft.Online.SharePoint.TenantAdministration.TenantStringStringStringStringInt32Int32Int32Int32Int32UInt32BooleanBooleanFunc2<OfficeDevPnP.Core.TenantOperationMessage,Boolean>.md) | 
-| [CheckIfSiteExists(Microsoft.Online.SharePoint.TenantAdministration.Tenant, String, String)](TenantExtensionsCheckIfSiteExistsMicrosoft.Online.SharePoint.TenantAdministration.TenantStringString.md) | Returns if a site collection is in a particular status. If the url contains a sub site then returns true is the sub site exists, false if not. 
-            Status is irrelevant for sub sites
+| [CheckIfSiteExists(Microsoft.Online.SharePoint.TenantAdministration.Tenant, String, String)](TenantExtensionsCheckIfSiteExistsMicrosoft.Online.SharePoint.TenantAdministration.TenantStringString.md) | Returns if a site collection is in a particular status. If the url contains a sub site then returns true is the sub site exists, false if not. Status is irrelevant for sub sites
 | [IsSiteActive(Microsoft.Online.SharePoint.TenantAdministration.Tenant, String)](TenantExtensionsIsSiteActiveMicrosoft.Online.SharePoint.TenantAdministration.TenantString.md) | Checks if a site collection is Active
 | [SiteExists(Microsoft.Online.SharePoint.TenantAdministration.Tenant, String)](TenantExtensionsSiteExistsMicrosoft.Online.SharePoint.TenantAdministration.TenantString.md) | Checks if a site collection exists, relies on tenant admin API. Sites that are recycled also return as existing sites
 | [SubSiteExists(Microsoft.Online.SharePoint.TenantAdministration.Tenant, String)](TenantExtensionsSubSiteExistsMicrosoft.Online.SharePoint.TenantAdministration.TenantString.md) | Checks if a sub site exists

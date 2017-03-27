@@ -6,7 +6,8 @@ A class that returns strings that represent identifiers (IDs) for built-in conte
 System.Object
 ## Syntax
 ```C#
-public class BuiltInContentTypeId```
+public class BuiltInContentTypeId
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

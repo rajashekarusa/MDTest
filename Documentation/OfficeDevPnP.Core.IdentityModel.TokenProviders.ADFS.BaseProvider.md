@@ -6,7 +6,8 @@ Base class for active SAML based authentication
 System.Object
 ## Syntax
 ```C#
-public class BaseProvider```
+public class BaseProvider
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|

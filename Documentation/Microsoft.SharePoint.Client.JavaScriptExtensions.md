@@ -6,7 +6,8 @@ Deprecated JavaScript related methods
 System.Object
 ## Syntax
 ```C#
-public class JavaScriptExtensions```
+public class JavaScriptExtensions
+```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,7 +6,8 @@ This class holds the information that's being cached as part of the WebAPI servi
 System.Object
 ## Syntax
 ```C#
-public class WebAPIContexCacheItem```
+public class WebAPIContexCacheItem
+```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
