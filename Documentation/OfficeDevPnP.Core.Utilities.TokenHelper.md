@@ -1,2 +1,0 @@
-# OfficeDevPnP.Core.Utilities.TokenHelper
-

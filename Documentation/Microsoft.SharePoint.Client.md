@@ -25,6 +25,7 @@
 |[ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md)||
 |[ListRatingExtensions](Microsoft.SharePoint.Client.ListRatingExtensions.md)|Enables: Ratings / Likes functionality on list in publishing web.|
 |[PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md)||
+|[VariationExtensions](Microsoft.SharePoint.Client.VariationExtensions.md)|Class that provides methods for variations|
 |[BaseTemplateManager](Microsoft.SharePoint.Client.BaseTemplateManager.md)|This class will be used to provide access to the right base template configuration|
 ## Enumerations
 |**Enumeration**|**Description**|
