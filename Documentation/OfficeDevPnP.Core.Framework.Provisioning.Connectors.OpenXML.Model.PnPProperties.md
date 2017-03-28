@@ -1,5 +1,5 @@
 # PnPProperties
-Properties of the PnP OpenXML container
+Properties of the PnP OpenXML container  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

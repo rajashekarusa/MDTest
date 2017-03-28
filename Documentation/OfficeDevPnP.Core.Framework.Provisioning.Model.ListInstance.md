@@ -1,5 +1,5 @@
 # ListInstance
-This class holds deprecated ListInstance properties and methods
+This class holds deprecated ListInstance properties and methods  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

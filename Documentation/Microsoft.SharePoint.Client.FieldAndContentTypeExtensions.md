@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions
-This class holds deprecated extension methods that will help you work with fields and content types.
+This class holds deprecated extension methods that will help you work with fields and content types.  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

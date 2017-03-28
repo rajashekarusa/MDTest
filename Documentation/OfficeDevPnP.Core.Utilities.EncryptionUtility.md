@@ -1,5 +1,5 @@
 # EncryptionUtility
-Utility class that support certificate based encryption/decryption
+Utility class that support certificate based encryption/decryption  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

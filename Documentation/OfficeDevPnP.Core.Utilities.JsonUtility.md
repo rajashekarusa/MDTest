@@ -1,5 +1,5 @@
 # JsonUtility
-Utility class that supports the serialization from Json to type and vice versa
+Utility class that supports the serialization from Json to type and vice versa  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

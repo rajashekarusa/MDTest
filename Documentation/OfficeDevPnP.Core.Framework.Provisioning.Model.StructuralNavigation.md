@@ -1,5 +1,5 @@
 # StructuralNavigation
-Defines the Structural Navigation settings of a site
+Defines the Structural Navigation settings of a site  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,5 @@
 # ListExtensions
-Class that holds deprecated generic list creation and manipulation methods
+Class that holds deprecated generic list creation and manipulation methods  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,5 @@
 # ContentTypeCollection
-Collection of ContentType objects
+Collection of ContentType objects  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

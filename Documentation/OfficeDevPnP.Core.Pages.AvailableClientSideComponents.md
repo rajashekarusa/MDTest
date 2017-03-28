@@ -1,5 +1,5 @@
 # AvailableClientSideComponents
-Class holding a collection of client side webparts (retrieved via the _api/web/GetClientSideWebParts REST call)
+Class holding a collection of client side webparts (retrieved via the _api/web/GetClientSideWebParts REST call)  
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

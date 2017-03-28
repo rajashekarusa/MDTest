@@ -1,5 +1,5 @@
 # XMLPnPSchemaFormatter
-Helper class that abstracts from any specific version of XMLPnPSchemaFormatter
+Helper class that abstracts from any specific version of XMLPnPSchemaFormatter  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

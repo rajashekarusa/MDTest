@@ -1,5 +1,5 @@
 # EnumerationExtensions
-Extension methods to make working with Enum values easier. Copied from http://hugoware.net/blog/enumeration-extensions-2-0.
+Extension methods to make working with Enum values easier. Copied from http://hugoware.net/blog/enumeration-extensions-2-0.  
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

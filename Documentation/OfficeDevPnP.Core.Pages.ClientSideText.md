@@ -1,5 +1,5 @@
 # ClientSideText
-Controls of type 4 ( = text control)
+Controls of type 4 ( = text control)  
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

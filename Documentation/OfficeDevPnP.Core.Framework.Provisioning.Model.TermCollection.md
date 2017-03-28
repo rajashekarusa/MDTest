@@ -1,5 +1,5 @@
 # TermCollection
-Collection of Term objects
+Collection of Term objects  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

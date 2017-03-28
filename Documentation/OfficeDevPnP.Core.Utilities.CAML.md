@@ -1,5 +1,5 @@
 # CAML
-Use this class to build your CAML xml and avoid XML issues.
+Use this class to build your CAML xml and avoid XML issues.  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

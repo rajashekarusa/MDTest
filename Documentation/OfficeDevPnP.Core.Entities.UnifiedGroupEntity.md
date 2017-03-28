@@ -1,5 +1,5 @@
 # UnifiedGroupEntity
-Defines a Unified Group
+Defines a Unified Group  
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

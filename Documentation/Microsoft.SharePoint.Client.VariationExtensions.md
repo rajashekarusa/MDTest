@@ -1,5 +1,5 @@
 # VariationExtensions
-Class that provides methods for variations
+Class that provides methods for variations  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

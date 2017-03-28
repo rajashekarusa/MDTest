@@ -1,5 +1,5 @@
 # SiteEntity
-SiteEntity class describes the information for a SharePoint site (collection)
+SiteEntity class describes the information for a SharePoint site (collection)  
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

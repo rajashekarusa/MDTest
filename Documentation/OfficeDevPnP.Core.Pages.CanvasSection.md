@@ -1,5 +1,5 @@
 # CanvasSection
-Represents a section in a canvas zone
+Represents a section in a canvas zone  
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

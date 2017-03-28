@@ -1,5 +1,5 @@
 # AvailableWebTemplate
-Defines an available Web Template for the current Publishing site
+Defines an available Web Template for the current Publishing site  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

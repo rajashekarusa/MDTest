@@ -1,5 +1,5 @@
 # FileConnectorBase
-Base file connector class
+Base file connector class  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

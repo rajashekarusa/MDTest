@@ -1,5 +1,5 @@
 # X509CertificateUtility
-Supporting class for certificate based operations
+Supporting class for certificate based operations  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

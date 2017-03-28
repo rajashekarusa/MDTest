@@ -1,5 +1,5 @@
 # TenantExtensions
-Class for deprecated tenant extension methods
+Class for deprecated tenant extension methods  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

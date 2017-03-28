@@ -1,5 +1,5 @@
 # Folder
-Defines a folder that will be provisioned into the target list/library
+Defines a folder that will be provisioned into the target list/library  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

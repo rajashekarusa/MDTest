@@ -1,5 +1,5 @@
 # ProvisioningTemplateCollection`1
-Generic collection of items stored in the ProvisioningTemplate graph
+Generic collection of items stored in the ProvisioningTemplate graph  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

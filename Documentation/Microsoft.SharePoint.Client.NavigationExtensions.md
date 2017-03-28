@@ -1,5 +1,5 @@
 # NavigationExtensions
-This class holds deprecated navigation related methods
+This class holds deprecated navigation related methods  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

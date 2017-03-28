@@ -1,5 +1,5 @@
 # WorkflowExtensions
-Class for deprecated workflow extension methods
+Class for deprecated workflow extension methods  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

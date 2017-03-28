@@ -1,5 +1,5 @@
 # MultipleSymmetricKeySecurityToken
-Represents a security token which contains multiple security keys that are generated using symmetric algorithms.
+Represents a security token which contains multiple security keys that are generated using symmetric algorithms.  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

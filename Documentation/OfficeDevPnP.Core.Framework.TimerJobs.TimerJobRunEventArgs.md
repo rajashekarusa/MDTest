@@ -1,5 +1,5 @@
 # TimerJobRunEventArgs
-Event arguments for the TimerJobRun event
+Event arguments for the TimerJobRun event  
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

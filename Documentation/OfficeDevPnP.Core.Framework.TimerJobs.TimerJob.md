@@ -1,6 +1,6 @@
 # TimerJob
 Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs 
-            are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint.
+            are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint.  
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,5 @@
 # BaseProvider
-Base class for active SAML based authentication
+Base class for active SAML based authentication  
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

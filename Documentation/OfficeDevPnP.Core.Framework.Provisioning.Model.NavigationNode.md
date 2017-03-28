@@ -1,5 +1,5 @@
 # NavigationNode
-Defines a Navigation Node for the Structural Navigation of a site
+Defines a Navigation Node for the Structural Navigation of a site  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,5 @@
 # PnPClientContext
-
+  
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

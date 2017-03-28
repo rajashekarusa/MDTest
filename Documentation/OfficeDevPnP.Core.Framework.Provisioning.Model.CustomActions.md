@@ -1,5 +1,5 @@
 # CustomActions
-Domain Object that represents a Collections of Custom Actions
+Domain Object that represents a Collections of Custom Actions  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
