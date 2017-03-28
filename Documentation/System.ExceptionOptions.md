@@ -1,5 +1,6 @@
 # ExceptionOptions
   
+
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

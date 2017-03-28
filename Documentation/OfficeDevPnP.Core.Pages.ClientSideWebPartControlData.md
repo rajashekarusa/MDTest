@@ -1,5 +1,6 @@
 # ClientSideWebPartControlData
 Control data for controls of type 3 (= client side web parts)  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,6 @@
 # DictionaryExtensions
 Extension type for Dictionaries  
+
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

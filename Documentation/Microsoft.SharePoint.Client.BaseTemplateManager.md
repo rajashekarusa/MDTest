@@ -1,5 +1,6 @@
 # BaseTemplateManager
 This class will be used to provide access to the right base template configuration  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

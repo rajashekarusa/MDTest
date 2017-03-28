@@ -1,5 +1,6 @@
 # PnPPackage
 Defines a PnP OpenXML package file  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,6 @@
 # Field
 Represents a Field XML Markup that is used to define information about a field  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

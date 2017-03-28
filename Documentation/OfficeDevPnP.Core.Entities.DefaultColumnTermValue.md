@@ -1,5 +1,6 @@
 # DefaultColumnTermValue
 Specifies a default column value for a document library  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

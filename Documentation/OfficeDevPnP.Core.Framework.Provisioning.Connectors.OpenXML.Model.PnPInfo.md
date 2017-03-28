@@ -1,5 +1,6 @@
 # PnPInfo
 Global container of the PnP OpenXML file  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

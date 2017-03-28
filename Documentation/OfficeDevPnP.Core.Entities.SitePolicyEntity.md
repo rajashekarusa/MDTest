@@ -1,5 +1,6 @@
 # SitePolicyEntity
 Properties of a site policy object  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,6 @@
 # CanvasZone
 Represents a zone on the canvas  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

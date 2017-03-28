@@ -1,5 +1,6 @@
 # File
 Defines a File element, to describe a file that will be provisioned into the target Site  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

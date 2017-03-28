@@ -1,5 +1,6 @@
 # ComposedLook
 Domain Object that defines a Composed Look in the Provision Template  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

@@ -1,5 +1,6 @@
 # SafeConvertExtensions
 Safely convert strings to specified types.  
+
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

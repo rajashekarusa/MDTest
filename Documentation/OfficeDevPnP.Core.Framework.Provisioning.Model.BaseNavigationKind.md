@@ -1,5 +1,6 @@
 # BaseNavigationKind
 Base abstract class for the navigation kinds (global or current)  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes

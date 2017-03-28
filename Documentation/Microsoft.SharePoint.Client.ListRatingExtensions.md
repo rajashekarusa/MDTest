@@ -1,5 +1,6 @@
 # ListRatingExtensions
 Enables: Ratings / Likes functionality on list in publishing web.  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
