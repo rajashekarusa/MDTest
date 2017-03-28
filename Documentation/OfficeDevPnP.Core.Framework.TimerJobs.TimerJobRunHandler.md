@@ -1,9 +1,9 @@
 # TimerJobRunHandler
 TimerJobRun delegate
-**Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#

@@ -1,9 +1,9 @@
 # PageExtensions
 Class that holds all deprecated page and web part related operations
-**Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class PageExtensions

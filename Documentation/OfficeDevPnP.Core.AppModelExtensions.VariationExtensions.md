@@ -1,9 +1,9 @@
 # VariationExtensions
 Class that holds deprecated methods for variations
-**Namespace:** [OfficeDevPnP.Core.AppModelExtensions](OfficeDevPnP.Core.AppModelExtensions.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.AppModelExtensions](OfficeDevPnP.Core.AppModelExtensions.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class VariationExtensions

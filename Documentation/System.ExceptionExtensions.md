@@ -1,9 +1,9 @@
 # ExceptionExtensions
 
-**Namespace:** [System](System.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [System](System.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class ExceptionExtensions

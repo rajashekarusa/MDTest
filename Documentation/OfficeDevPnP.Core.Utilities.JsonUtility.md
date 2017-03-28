@@ -1,9 +1,9 @@
 # JsonUtility
 Utility class that supports the serialization from Json to type and vice versa
-**Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class JsonUtility

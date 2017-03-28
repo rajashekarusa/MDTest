@@ -1,9 +1,9 @@
 # ClientSidePage
 Represents a modern client side page with all it's contents
-**Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class ClientSidePage

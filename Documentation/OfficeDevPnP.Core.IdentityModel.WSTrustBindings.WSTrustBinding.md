@@ -1,9 +1,9 @@
 # WSTrustBinding
 
-**Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.ServiceModel.Channels.Binding](System.ServiceModel.Channels.Binding.md)
 ## Syntax
 ```C#

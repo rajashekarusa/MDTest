@@ -1,9 +1,9 @@
 # ExceptionOptions
 
-**Namespace:** [System](System.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [System](System.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.ValueType](System.ValueType.md)
 ## Syntax
 ```C#

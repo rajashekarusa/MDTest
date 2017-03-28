@@ -1,10 +1,10 @@
 # XsltWebPartPostProcessor
 Updates view for XsltListViewWebPart using schema definition provided
             Instead of using default view for XsltListViewWebPart, it tries to resolve view from schema and updates hidden view created by XsltListViewWebPart
-**Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class XsltWebPartPostProcessor

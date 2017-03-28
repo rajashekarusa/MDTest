@@ -1,9 +1,9 @@
 # EnumerableExtensions
 Extension methods to make working with IEnumerable<T> values easier.
-**Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class EnumerableExtensions

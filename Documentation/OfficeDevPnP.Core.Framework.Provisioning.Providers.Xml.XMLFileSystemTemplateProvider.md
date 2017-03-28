@@ -1,9 +1,9 @@
 # XMLFileSystemTemplateProvider
 
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md)
 ## Syntax
 ```C#

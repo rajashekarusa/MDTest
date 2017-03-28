@@ -1,9 +1,9 @@
 # ProvisioningTemplateDictionary`2
 Generic keyed collection of items stored in the ProvisioningTemplate graph
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Collections.ObjectModel.KeyedCollection`2<TKey,TItem>](System.Collections.ObjectModel.KeyedCollection`2<TKey,TItem>.md)
 ## Syntax
 ```C#

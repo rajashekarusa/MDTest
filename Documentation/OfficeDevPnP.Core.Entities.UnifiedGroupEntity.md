@@ -1,9 +1,9 @@
 # UnifiedGroupEntity
 Defines a Unified Group
-**Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class UnifiedGroupEntity

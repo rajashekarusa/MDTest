@@ -1,9 +1,9 @@
 # WebExtensions
 Class that holds deprecated methods for site (both site collection and web site) creation, status, retrieval and settings
-**Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class WebExtensions

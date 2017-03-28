@@ -1,9 +1,9 @@
 # JsonTemplateProvider
 Provider for JSON based configurations
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)
 ## Syntax
 ```C#

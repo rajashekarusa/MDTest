@@ -1,9 +1,9 @@
 # TreeNodeList`1
 
-**Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Collections.Generic.List`1<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>>.md)
 ## Syntax
 ```C#

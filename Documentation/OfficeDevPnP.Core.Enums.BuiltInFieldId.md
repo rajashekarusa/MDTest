@@ -1,9 +1,9 @@
 # BuiltInFieldId
 
-**Namespace:** [OfficeDevPnP.Core.Enums](OfficeDevPnP.Core.Enums.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Enums](OfficeDevPnP.Core.Enums.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class BuiltInFieldId

@@ -1,10 +1,10 @@
 # ExtensiblityPipelineException
 Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there 
             is an exception invoking a custom Extensibility Providers
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Exception](System.Exception.md)
 ## Syntax
 ```C#

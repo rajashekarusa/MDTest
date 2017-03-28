@@ -1,9 +1,9 @@
 # PnPClientContext
 
-**Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)
 ## Syntax
 ```C#

@@ -1,9 +1,9 @@
 # LogConfigurationTracingSection
 
-**Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Configuration.ConfigurationSection](System.Configuration.ConfigurationSection.md)
 ## Syntax
 ```C#

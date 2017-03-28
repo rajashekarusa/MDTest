@@ -1,9 +1,9 @@
 # WebAPIContextFilterAttribute
 
-**Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Web.Http.Filters.ActionFilterAttribute](System.Web.Http.Filters.ActionFilterAttribute.md)
 ## Syntax
 ```C#

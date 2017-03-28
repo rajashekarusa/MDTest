@@ -1,9 +1,9 @@
 # CertificateWSTrustBinding
 
-**Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md)
 ## Syntax
 ```C#

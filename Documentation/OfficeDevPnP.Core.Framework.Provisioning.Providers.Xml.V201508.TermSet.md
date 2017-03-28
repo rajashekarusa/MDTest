@@ -1,9 +1,9 @@
 # TermSet
 
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermSetItem.md)
 ## Syntax
 ```C#

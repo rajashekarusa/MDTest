@@ -1,9 +1,9 @@
 # GetPropertyChoiceListCompletedEventHandler
 
-**Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#

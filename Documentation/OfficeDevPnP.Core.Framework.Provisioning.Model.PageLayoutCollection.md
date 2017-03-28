@@ -1,9 +1,9 @@
 # PageLayoutCollection
 Collection of PageLayout objects
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout>](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout>.md)
 ## Syntax
 ```C#

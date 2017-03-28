@@ -1,9 +1,9 @@
 # LogConfigurationTracingLoggerElement
 
-**Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Configuration.ConfigurationElement](System.Configuration.ConfigurationElement.md)
 ## Syntax
 ```C#

@@ -1,9 +1,9 @@
 # JsonFileSystemTemplateProvider
 
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md)
 ## Syntax
 ```C#

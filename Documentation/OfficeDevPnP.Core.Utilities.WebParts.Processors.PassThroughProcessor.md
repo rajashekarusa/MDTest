@@ -1,9 +1,9 @@
 # PassThroughProcessor
 Default processor when others are not resolved
-**Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class PassThroughProcessor

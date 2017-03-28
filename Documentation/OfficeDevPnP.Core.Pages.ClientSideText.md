@@ -1,9 +1,9 @@
 # ClientSideText
 Controls of type 4 ( = text control)
-**Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
 ## Syntax
 ```C#

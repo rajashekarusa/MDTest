@@ -1,9 +1,9 @@
 # DictionaryExtensions
 Extension type for Dictionaries
-**Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class DictionaryExtensions

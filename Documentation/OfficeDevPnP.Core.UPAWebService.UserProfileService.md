@@ -1,9 +1,9 @@
 # UserProfileService
 
-**Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [System.Web.Services.Protocols.SoapHttpClientProtocol](System.Web.Services.Protocols.SoapHttpClientProtocol.md)
 ## Syntax
 ```C#

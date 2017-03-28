@@ -1,9 +1,9 @@
 # PnPHttpProvider
 
-**Namespace:** [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 -- [Microsoft.Graph.HttpProvider](Microsoft.Graph.HttpProvider.md)
 ## Syntax
 ```C#

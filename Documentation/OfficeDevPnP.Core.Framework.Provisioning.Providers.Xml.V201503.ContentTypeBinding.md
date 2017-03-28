@@ -1,9 +1,9 @@
 # ContentTypeBinding
 
-**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)
-**Assembly:** OfficeDevPnP.Core.dll
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
 ## Classes
-System.Object
+System.Object  
 ## Syntax
 ```C#
 public class ContentTypeBinding
