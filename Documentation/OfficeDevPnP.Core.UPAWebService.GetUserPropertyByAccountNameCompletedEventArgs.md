@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.ComponentModel.AsyncCompletedEventArgs](System.ComponentModel.AsyncCompletedEventArgs.md)
 ## Syntax
@@ -13,6 +13,6 @@ public class GetUserPropertyByAccountNameCompletedEventArgs: AsyncCompletedEvent
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Result](GetUserPropertyByAccountNameCompletedEventArgs.Result.md) | 
+| [Result](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventArgs.Result.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

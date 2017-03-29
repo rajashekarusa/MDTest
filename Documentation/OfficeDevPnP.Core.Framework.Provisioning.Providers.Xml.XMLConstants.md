@@ -3,11 +3,11 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
-public class XMLConstants
+public static class XMLConstants
 ```
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

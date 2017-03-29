@@ -3,7 +3,7 @@ This class holds the information that's being cached as part of the WebAPI servi
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class WebAPIContexCacheItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContexCacheItem()](WebAPIContexCacheItemconstructor1details.md) | 
+| [WebAPIContexCacheItem()](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [AccessToken](WebAPIContexCacheItem.AccessToken.md) | The SharePoint Access token
-| [RefreshToken](WebAPIContexCacheItem.RefreshToken.md) | The SharePoint Refresh token
-| [SharePointServiceContext](WebAPIContexCacheItem.SharePointServiceContext.md) | The information initially used to register the SharePoint app to the WebAPI service
+| [AccessToken](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.AccessToken.md) | The SharePoint Access token
+| [RefreshToken](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.RefreshToken.md) | The SharePoint Refresh token
+| [SharePointServiceContext](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.SharePointServiceContext.md) | The information initially used to register the SharePoint app to the WebAPI service
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

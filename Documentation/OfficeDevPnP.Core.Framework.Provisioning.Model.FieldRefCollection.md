@@ -3,16 +3,16 @@ Collection of FieldRef objects
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>.md)
+-- [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md)
 ## Syntax
 ```C#
-public class FieldRefCollection: FieldRef>
+public class FieldRefCollection: ProvisioningTemplateCollection<FieldRef>
 ```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefCollection(ProvisioningTemplate)](FieldRefCollectionconstructor1details.md) | 
+| [FieldRefCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.Constructor1details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

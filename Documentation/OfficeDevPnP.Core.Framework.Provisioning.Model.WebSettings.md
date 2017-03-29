@@ -3,7 +3,7 @@ Domain Object used in the Provisioning template that defines a Section of Settin
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
@@ -13,26 +13,26 @@ public class WebSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebSettings()](WebSettingsconstructor1details.md) | 
-| [WebSettings(Boolean, String, String)](WebSettingsconstructor1details.md) | 
-| [WebSettings(Boolean, String, String, String, String, String, String)](WebSettingsconstructor1details.md) | 
+| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Constructor1details.md) | 
+| [WebSettings(Boolean, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Constructor2details.md) | 
+| [WebSettings(Boolean, String, String, String, String, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Constructor3details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [NoCrawl](WebSettings.NoCrawl.md) | Defines whether the site has to be crawled or not
-| [RequestAccessEmail](WebSettings.RequestAccessEmail.md) | The email address to which any access request will be sent
-| [WelcomePage](WebSettings.WelcomePage.md) | Defines the Welcome Page (Home Page) of the site to which the Provisioning Template is applied.
-| [Title](WebSettings.Title.md) | The Title of the Site, optional attribute.
-| [Description](WebSettings.Description.md) | The Description of the Site, optional attribute.
-| [SiteLogo](WebSettings.SiteLogo.md) | The SiteLogo of the Site, optional attribute.
-| [AlternateCSS](WebSettings.AlternateCSS.md) | The AlternateCSS of the Site, optional attribute.
-| [MasterPageUrl](WebSettings.MasterPageUrl.md) | The MasterPage Url of the Site, optional attribute.
-| [CustomMasterPageUrl](WebSettings.CustomMasterPageUrl.md) | The Custom MasterPage Url of the Site, optional attribute.
+| [NoCrawl](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.NoCrawl.md) | Defines whether the site has to be crawled or not
+| [RequestAccessEmail](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.RequestAccessEmail.md) | The email address to which any access request will be sent
+| [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.WelcomePage.md) | Defines the Welcome Page (Home Page) of the site to which the Provisioning Template is applied.
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Title.md) | The Title of the Site, optional attribute.
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Description.md) | The Description of the Site, optional attribute.
+| [SiteLogo](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.SiteLogo.md) | The SiteLogo of the Site, optional attribute.
+| [AlternateCSS](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.AlternateCSS.md) | The AlternateCSS of the Site, optional attribute.
+| [MasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.MasterPageUrl.md) | The MasterPage Url of the Site, optional attribute.
+| [CustomMasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.CustomMasterPageUrl.md) | The Custom MasterPage Url of the Site, optional attribute.
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](WebSettingsGetHashCode.md) | 
-| [Equals(Object)](WebSettingsEqualsObject.md) | 
-| [Equals(WebSettings)](WebSettingsEqualsWebSettings.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.GetHashCode.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.EqualsObject.md) | 
+| [Equals(WebSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.EqualsWebSettings.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

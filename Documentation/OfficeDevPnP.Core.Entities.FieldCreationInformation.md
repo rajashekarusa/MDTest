@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,18 +12,18 @@ public class FieldCreationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldCreationInformation(String)](FieldCreationInformationconstructor1details.md) | 
-| [FieldCreationInformation(Microsoft.SharePoint.Client.FieldType)](FieldCreationInformationconstructor1details.md) | 
+| [FieldCreationInformation(String)](OfficeDevPnP.Core.Entities.FieldCreationInformation.Constructor1details.md) | 
+| [FieldCreationInformation(FieldType)](OfficeDevPnP.Core.Entities.FieldCreationInformation.Constructor2details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Id](FieldCreationInformation.Id.md) | 
-| [DisplayName](FieldCreationInformation.DisplayName.md) | 
-| [InternalName](FieldCreationInformation.InternalName.md) | 
-| [AddToDefaultView](FieldCreationInformation.AddToDefaultView.md) | 
-| [AdditionalAttributes](FieldCreationInformation.AdditionalAttributes.md) | 
-| [FieldType](FieldCreationInformation.FieldType.md) | 
-| [Group](FieldCreationInformation.Group.md) | 
-| [Required](FieldCreationInformation.Required.md) | 
+| [Id](OfficeDevPnP.Core.Entities.FieldCreationInformation.Id.md) | 
+| [DisplayName](OfficeDevPnP.Core.Entities.FieldCreationInformation.DisplayName.md) | 
+| [InternalName](OfficeDevPnP.Core.Entities.FieldCreationInformation.InternalName.md) | 
+| [AddToDefaultView](OfficeDevPnP.Core.Entities.FieldCreationInformation.AddToDefaultView.md) | 
+| [AdditionalAttributes](OfficeDevPnP.Core.Entities.FieldCreationInformation.AdditionalAttributes.md) | 
+| [FieldType](OfficeDevPnP.Core.Entities.FieldCreationInformation.FieldType.md) | 
+| [Group](OfficeDevPnP.Core.Entities.FieldCreationInformation.Group.md) | 
+| [Required](OfficeDevPnP.Core.Entities.FieldCreationInformation.Required.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

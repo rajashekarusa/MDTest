@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,20 +12,20 @@ public class ContentType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentType()](ContentTypeconstructor1details.md) | 
+| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefs](ContentType.FieldRefs.md) | 
-| [DocumentTemplate](ContentType.DocumentTemplate.md) | 
-| [ID](ContentType.ID.md) | 
-| [Name](ContentType.Name.md) | 
-| [Description](ContentType.Description.md) | 
-| [Group](ContentType.Group.md) | 
-| [Hidden](ContentType.Hidden.md) | 
-| [Sealed](ContentType.Sealed.md) | 
-| [ReadOnly](ContentType.ReadOnly.md) | 
-| [Overwrite](ContentType.Overwrite.md) | 
-| [AnyAttr](ContentType.AnyAttr.md) | 
+| [FieldRefs](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.FieldRefs.md) | 
+| [DocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.DocumentTemplate.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.ID.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Name.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Description.md) | 
+| [Group](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Group.md) | 
+| [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Hidden.md) | 
+| [Sealed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Sealed.md) | 
+| [ReadOnly](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.ReadOnly.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Overwrite.md) | 
+| [AnyAttr](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.AnyAttr.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

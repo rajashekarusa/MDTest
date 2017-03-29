@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class SupportedUILanguagesSupportedUILanguage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguagesSupportedUILanguage()](SupportedUILanguagesSupportedUILanguageconstructor1details.md) | 
+| [SupportedUILanguagesSupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedUILanguagesSupportedUILanguage.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [LCID](SupportedUILanguagesSupportedUILanguage.LCID.md) | 
+| [LCID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedUILanguagesSupportedUILanguage.LCID.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

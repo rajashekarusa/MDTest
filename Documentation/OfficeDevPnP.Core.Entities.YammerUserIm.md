@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class YammerUserIm
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserIm()](YammerUserImconstructor1details.md) | 
+| [YammerUserIm()](OfficeDevPnP.Core.Entities.YammerUserIm.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [provider](YammerUserIm.provider.md) | 
-| [username](YammerUserIm.username.md) | 
+| [provider](OfficeDevPnP.Core.Entities.YammerUserIm.provider.md) | 
+| [username](OfficeDevPnP.Core.Entities.YammerUserIm.username.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

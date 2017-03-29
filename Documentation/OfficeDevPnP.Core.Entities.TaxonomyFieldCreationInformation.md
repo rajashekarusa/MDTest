@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)
 ## Syntax
@@ -13,11 +13,11 @@ public class TaxonomyFieldCreationInformation: FieldCreationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TaxonomyFieldCreationInformation()](TaxonomyFieldCreationInformationconstructor1details.md) | 
+| [TaxonomyFieldCreationInformation()](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [MultiValue](TaxonomyFieldCreationInformation.MultiValue.md) | 
-| [TaxonomyItem](TaxonomyFieldCreationInformation.TaxonomyItem.md) | 
+| [MultiValue](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.MultiValue.md) | 
+| [TaxonomyItem](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.TaxonomyItem.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

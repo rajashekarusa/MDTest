@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class SharePointProvisioningTemplateFeatures
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateFeatures()](SharePointProvisioningTemplateFeaturesconstructor1details.md) | 
+| [SharePointProvisioningTemplateFeatures()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateFeatures.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteFeatures](SharePointProvisioningTemplateFeatures.SiteFeatures.md) | 
-| [WebFeatures](SharePointProvisioningTemplateFeatures.WebFeatures.md) | 
+| [SiteFeatures](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateFeatures.SiteFeatures.md) | 
+| [WebFeatures](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateFeatures.WebFeatures.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

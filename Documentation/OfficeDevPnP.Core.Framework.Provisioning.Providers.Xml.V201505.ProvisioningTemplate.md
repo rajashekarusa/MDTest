@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,25 +12,25 @@ public class ProvisioningTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplate()](ProvisioningTemplateconstructor1details.md) | 
+| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SitePolicy](ProvisioningTemplate.SitePolicy.md) | 
-| [PropertyBagEntries](ProvisioningTemplate.PropertyBagEntries.md) | 
-| [Security](ProvisioningTemplate.Security.md) | 
-| [SiteFields](ProvisioningTemplate.SiteFields.md) | 
-| [ContentTypes](ProvisioningTemplate.ContentTypes.md) | 
-| [Lists](ProvisioningTemplate.Lists.md) | 
-| [Features](ProvisioningTemplate.Features.md) | 
-| [CustomActions](ProvisioningTemplate.CustomActions.md) | 
-| [Files](ProvisioningTemplate.Files.md) | 
-| [Pages](ProvisioningTemplate.Pages.md) | 
-| [TermGroups](ProvisioningTemplate.TermGroups.md) | 
-| [ComposedLook](ProvisioningTemplate.ComposedLook.md) | 
-| [Providers](ProvisioningTemplate.Providers.md) | 
-| [ID](ProvisioningTemplate.ID.md) | 
-| [Version](ProvisioningTemplate.Version.md) | 
-| [VersionSpecified](ProvisioningTemplate.VersionSpecified.md) | 
+| [SitePolicy](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.SitePolicy.md) | 
+| [PropertyBagEntries](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.PropertyBagEntries.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Security.md) | 
+| [SiteFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.SiteFields.md) | 
+| [ContentTypes](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.ContentTypes.md) | 
+| [Lists](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Lists.md) | 
+| [Features](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Features.md) | 
+| [CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.CustomActions.md) | 
+| [Files](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Files.md) | 
+| [Pages](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Pages.md) | 
+| [TermGroups](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.TermGroups.md) | 
+| [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.ComposedLook.md) | 
+| [Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Providers.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.ID.md) | 
+| [Version](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.Version.md) | 
+| [VersionSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplate.VersionSpecified.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

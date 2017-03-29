@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class MemberGroupData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MemberGroupData()](MemberGroupDataconstructor1details.md) | 
+| [MemberGroupData()](OfficeDevPnP.Core.UPAWebService.MemberGroupData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SourceInternal](MemberGroupData.SourceInternal.md) | 
-| [SourceReference](MemberGroupData.SourceReference.md) | 
+| [SourceInternal](OfficeDevPnP.Core.UPAWebService.MemberGroupData.SourceInternal.md) | 
+| [SourceReference](OfficeDevPnP.Core.UPAWebService.MemberGroupData.SourceReference.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

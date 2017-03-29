@@ -3,9 +3,9 @@
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|
-|[Tree1](OfficeDevPnP.Core.Diagnostics.Tree.Tree1.md)||
-|[TreeNode1](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode1.md)||
-|[TreeNodeList1](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList1.md)||
+|[Tree](OfficeDevPnP.Core.Diagnostics.Tree.Tree.md)||
+|[TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md)||
+|[TreeNodeList](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.md)||
 ## Interfaces
 |**Interface**|**Description**|
 |:-----|:-----|

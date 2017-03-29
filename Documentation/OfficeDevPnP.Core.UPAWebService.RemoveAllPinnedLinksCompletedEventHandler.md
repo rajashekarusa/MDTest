@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class RemoveAllPinnedLinksCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RemoveAllPinnedLinksCompletedEventHandler(Object, IntPtr)](RemoveAllPinnedLinksCompletedEventHandlerconstructor1details.md) | 
+| [RemoveAllPinnedLinksCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.RemoveAllPinnedLinksCompletedEventHandler.Constructor1details.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](RemoveAllPinnedLinksCompletedEventHandlerInvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
-| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](RemoveAllPinnedLinksCompletedEventHandlerBeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](RemoveAllPinnedLinksCompletedEventHandlerEndInvokeIAsyncResult.md) | 
+| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveAllPinnedLinksCompletedEventHandler.InvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
+| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.RemoveAllPinnedLinksCompletedEventHandler.BeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.RemoveAllPinnedLinksCompletedEventHandler.EndInvokeIAsyncResult.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class ProvisioningTemplateCustomActions
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateCustomActions()](ProvisioningTemplateCustomActionsconstructor1details.md) | 
+| [ProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteCustomActions](ProvisioningTemplateCustomActions.SiteCustomActions.md) | 
-| [WebCustomActions](ProvisioningTemplateCustomActions.WebCustomActions.md) | 
+| [SiteCustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.SiteCustomActions.md) | 
+| [WebCustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.WebCustomActions.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

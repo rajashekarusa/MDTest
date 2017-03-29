@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class Provider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provider()](Providerconstructor1details.md) | 
+| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provider.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Configuration](Provider.Configuration.md) | 
-| [Enabled](Provider.Enabled.md) | 
-| [HandlerType](Provider.HandlerType.md) | 
+| [Configuration](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provider.Configuration.md) | 
+| [Enabled](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provider.Enabled.md) | 
+| [HandlerType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provider.HandlerType.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

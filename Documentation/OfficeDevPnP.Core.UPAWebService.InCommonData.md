@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class InCommonData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [InCommonData()](InCommonDataconstructor1details.md) | 
+| [InCommonData()](OfficeDevPnP.Core.UPAWebService.InCommonData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Manager](InCommonData.Manager.md) | 
-| [Colleagues](InCommonData.Colleagues.md) | 
-| [Memberships](InCommonData.Memberships.md) | 
+| [Manager](OfficeDevPnP.Core.UPAWebService.InCommonData.Manager.md) | 
+| [Colleagues](OfficeDevPnP.Core.UPAWebService.InCommonData.Colleagues.md) | 
+| [Memberships](OfficeDevPnP.Core.UPAWebService.InCommonData.Memberships.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

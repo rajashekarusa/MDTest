@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class File
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [File()](Fileconstructor1details.md) | 
+| [File()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Src](File.Src.md) | 
-| [Folder](File.Folder.md) | 
-| [Overwrite](File.Overwrite.md) | 
+| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.Src.md) | 
+| [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.Folder.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.Overwrite.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

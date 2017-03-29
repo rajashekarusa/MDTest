@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class DocumentSetTemplateDefaultDocument
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplateDefaultDocument()](DocumentSetTemplateDefaultDocumentconstructor1details.md) | 
+| [DocumentSetTemplateDefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](DocumentSetTemplateDefaultDocument.Name.md) | 
-| [ContentTypeID](DocumentSetTemplateDefaultDocument.ContentTypeID.md) | 
-| [FileSourcePath](DocumentSetTemplateDefaultDocument.FileSourcePath.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument.Name.md) | 
+| [ContentTypeID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument.ContentTypeID.md) | 
+| [FileSourcePath](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument.FileSourcePath.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

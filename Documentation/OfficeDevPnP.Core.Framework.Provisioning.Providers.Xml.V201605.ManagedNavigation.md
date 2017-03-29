@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class ManagedNavigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ManagedNavigation()](ManagedNavigationconstructor1details.md) | 
+| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermStoreId](ManagedNavigation.TermStoreId.md) | 
-| [TermSetId](ManagedNavigation.TermSetId.md) | 
+| [TermStoreId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.TermStoreId.md) | 
+| [TermSetId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.TermSetId.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

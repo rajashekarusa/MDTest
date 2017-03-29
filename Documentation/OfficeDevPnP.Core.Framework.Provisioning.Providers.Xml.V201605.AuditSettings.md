@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,14 +12,14 @@ public class AuditSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditSettings()](AuditSettingsconstructor1details.md) | 
+| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Audit](AuditSettings.Audit.md) | 
-| [AuditLogTrimmingRetention](AuditSettings.AuditLogTrimmingRetention.md) | 
-| [AuditLogTrimmingRetentionSpecified](AuditSettings.AuditLogTrimmingRetentionSpecified.md) | 
-| [TrimAuditLog](AuditSettings.TrimAuditLog.md) | 
-| [TrimAuditLogSpecified](AuditSettings.TrimAuditLogSpecified.md) | 
+| [Audit](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.Audit.md) | 
+| [AuditLogTrimmingRetention](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.AuditLogTrimmingRetention.md) | 
+| [AuditLogTrimmingRetentionSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.AuditLogTrimmingRetentionSpecified.md) | 
+| [TrimAuditLog](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.TrimAuditLog.md) | 
+| [TrimAuditLogSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.TrimAuditLogSpecified.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

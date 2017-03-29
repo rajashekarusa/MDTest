@@ -3,15 +3,15 @@
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
-public class PnPCoreUtilities
+public static class PnPCoreUtilities
 ```
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPCoreVersionTag](PnPCoreUtilities.PnPCoreVersionTag.md) | Get's a tag that identifies the PnP Core library
+| [PnPCoreVersionTag](OfficeDevPnP.Core.Utilities.PnPCoreUtilities.PnPCoreVersionTag.md) | Get's a tag that identifies the PnP Core library
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

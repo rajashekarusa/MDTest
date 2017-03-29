@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md)
 ## Syntax
@@ -13,7 +13,7 @@ public class JsonFileSystemTemplateProvider: JsonTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonFileSystemTemplateProvider()](JsonFileSystemTemplateProviderconstructor1details.md) | 
-| [JsonFileSystemTemplateProvider(String, String)](JsonFileSystemTemplateProviderconstructor1details.md) | 
+| [JsonFileSystemTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonFileSystemTemplateProvider.Constructor1details.md) | 
+| [JsonFileSystemTemplateProvider(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonFileSystemTemplateProvider.Constructor2details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

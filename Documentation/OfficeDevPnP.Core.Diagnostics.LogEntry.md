@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,15 +12,15 @@ public class LogEntry
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogEntry()](LogEntryconstructor1details.md) | 
+| [LogEntry()](OfficeDevPnP.Core.Diagnostics.LogEntry.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Message](LogEntry.Message.md) | 
-| [CorrelationId](LogEntry.CorrelationId.md) | 
-| [Source](LogEntry.Source.md) | 
-| [Exception](LogEntry.Exception.md) | 
-| [ThreadId](LogEntry.ThreadId.md) | 
-| [EllapsedMilliseconds](LogEntry.EllapsedMilliseconds.md) | 
+| [Message](OfficeDevPnP.Core.Diagnostics.LogEntry.Message.md) | 
+| [CorrelationId](OfficeDevPnP.Core.Diagnostics.LogEntry.CorrelationId.md) | 
+| [Source](OfficeDevPnP.Core.Diagnostics.LogEntry.Source.md) | 
+| [Exception](OfficeDevPnP.Core.Diagnostics.LogEntry.Exception.md) | 
+| [ThreadId](OfficeDevPnP.Core.Diagnostics.LogEntry.ThreadId.md) | 
+| [EllapsedMilliseconds](OfficeDevPnP.Core.Diagnostics.LogEntry.EllapsedMilliseconds.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

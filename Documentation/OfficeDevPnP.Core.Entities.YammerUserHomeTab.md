@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,17 +12,17 @@ public class YammerUserHomeTab
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserHomeTab()](YammerUserHomeTabconstructor1details.md) | 
+| [YammerUserHomeTab()](OfficeDevPnP.Core.Entities.YammerUserHomeTab.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [name](YammerUserHomeTab.name.md) | 
-| [select_name](YammerUserHomeTab.select_name.md) | 
-| [type](YammerUserHomeTab.type.md) | 
-| [feed_description](YammerUserHomeTab.feed_description.md) | 
-| [ordering_index](YammerUserHomeTab.ordering_index.md) | 
-| [url](YammerUserHomeTab.url.md) | 
-| [group_id](YammerUserHomeTab.group_id.md) | 
-| [private](YammerUserHomeTab.private.md) | 
+| [name](OfficeDevPnP.Core.Entities.YammerUserHomeTab.name.md) | 
+| [select_name](OfficeDevPnP.Core.Entities.YammerUserHomeTab.select_name.md) | 
+| [type](OfficeDevPnP.Core.Entities.YammerUserHomeTab.type.md) | 
+| [feed_description](OfficeDevPnP.Core.Entities.YammerUserHomeTab.feed_description.md) | 
+| [ordering_index](OfficeDevPnP.Core.Entities.YammerUserHomeTab.ordering_index.md) | 
+| [url](OfficeDevPnP.Core.Entities.YammerUserHomeTab.url.md) | 
+| [group_id](OfficeDevPnP.Core.Entities.YammerUserHomeTab.group_id.md) | 
+| [private](OfficeDevPnP.Core.Entities.YammerUserHomeTab.private.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

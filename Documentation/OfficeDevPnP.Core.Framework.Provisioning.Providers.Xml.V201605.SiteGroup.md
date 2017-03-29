@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,22 +12,22 @@ public class SiteGroup
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteGroup()](SiteGroupconstructor1details.md) | 
+| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Members](SiteGroup.Members.md) | 
-| [Title](SiteGroup.Title.md) | 
-| [Description](SiteGroup.Description.md) | 
-| [Owner](SiteGroup.Owner.md) | 
-| [AllowMembersEditMembership](SiteGroup.AllowMembersEditMembership.md) | 
-| [AllowMembersEditMembershipSpecified](SiteGroup.AllowMembersEditMembershipSpecified.md) | 
-| [AllowRequestToJoinLeave](SiteGroup.AllowRequestToJoinLeave.md) | 
-| [AllowRequestToJoinLeaveSpecified](SiteGroup.AllowRequestToJoinLeaveSpecified.md) | 
-| [AutoAcceptRequestToJoinLeave](SiteGroup.AutoAcceptRequestToJoinLeave.md) | 
-| [AutoAcceptRequestToJoinLeaveSpecified](SiteGroup.AutoAcceptRequestToJoinLeaveSpecified.md) | 
-| [OnlyAllowMembersViewMembership](SiteGroup.OnlyAllowMembersViewMembership.md) | 
-| [OnlyAllowMembersViewMembershipSpecified](SiteGroup.OnlyAllowMembersViewMembershipSpecified.md) | 
-| [RequestToJoinLeaveEmailSetting](SiteGroup.RequestToJoinLeaveEmailSetting.md) | 
+| [Members](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.Members.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.Title.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.Description.md) | 
+| [Owner](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.Owner.md) | 
+| [AllowMembersEditMembership](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.AllowMembersEditMembership.md) | 
+| [AllowMembersEditMembershipSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.AllowMembersEditMembershipSpecified.md) | 
+| [AllowRequestToJoinLeave](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.AllowRequestToJoinLeave.md) | 
+| [AllowRequestToJoinLeaveSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.AllowRequestToJoinLeaveSpecified.md) | 
+| [AutoAcceptRequestToJoinLeave](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.AutoAcceptRequestToJoinLeave.md) | 
+| [AutoAcceptRequestToJoinLeaveSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.AutoAcceptRequestToJoinLeaveSpecified.md) | 
+| [OnlyAllowMembersViewMembership](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.OnlyAllowMembersViewMembership.md) | 
+| [OnlyAllowMembersViewMembershipSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.OnlyAllowMembersViewMembershipSpecified.md) | 
+| [RequestToJoinLeaveEmailSetting](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.RequestToJoinLeaveEmailSetting.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

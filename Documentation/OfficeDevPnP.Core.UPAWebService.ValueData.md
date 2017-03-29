@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class ValueData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ValueData()](ValueDataconstructor1details.md) | 
+| [ValueData()](OfficeDevPnP.Core.UPAWebService.ValueData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Value](ValueData.Value.md) | 
+| [Value](OfficeDevPnP.Core.UPAWebService.ValueData.Value.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

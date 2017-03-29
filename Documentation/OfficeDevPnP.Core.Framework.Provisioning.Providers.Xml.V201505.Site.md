@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,24 +12,24 @@ public class Site
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Site()](Siteconstructor1details.md) | 
+| [Site()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Templates](Site.Templates.md) | 
-| [Title](Site.Title.md) | 
-| [CustomJSUrl](Site.CustomJSUrl.md) | 
-| [QuickLaunchEnabled](Site.QuickLaunchEnabled.md) | 
-| [QuickLaunchEnabledSpecified](Site.QuickLaunchEnabledSpecified.md) | 
-| [AlternateCssUrl](Site.AlternateCssUrl.md) | 
-| [Language](Site.Language.md) | 
-| [AllowDesigner](Site.AllowDesigner.md) | 
-| [AllowDesignerSpecified](Site.AllowDesignerSpecified.md) | 
-| [MembersCanShare](Site.MembersCanShare.md) | 
-| [MembersCanShareSpecified](Site.MembersCanShareSpecified.md) | 
-| [TimeZone](Site.TimeZone.md) | 
-| [UseSamePermissionsAsParentSite](Site.UseSamePermissionsAsParentSite.md) | 
-| [UseSamePermissionsAsParentSiteSpecified](Site.UseSamePermissionsAsParentSiteSpecified.md) | 
-| [Url](Site.Url.md) | 
+| [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.Templates.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.Title.md) | 
+| [CustomJSUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.CustomJSUrl.md) | 
+| [QuickLaunchEnabled](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.QuickLaunchEnabled.md) | 
+| [QuickLaunchEnabledSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.QuickLaunchEnabledSpecified.md) | 
+| [AlternateCssUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.AlternateCssUrl.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.Language.md) | 
+| [AllowDesigner](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.AllowDesigner.md) | 
+| [AllowDesignerSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.AllowDesignerSpecified.md) | 
+| [MembersCanShare](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.MembersCanShare.md) | 
+| [MembersCanShareSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.MembersCanShareSpecified.md) | 
+| [TimeZone](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.TimeZone.md) | 
+| [UseSamePermissionsAsParentSite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.UseSamePermissionsAsParentSite.md) | 
+| [UseSamePermissionsAsParentSiteSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.UseSamePermissionsAsParentSiteSpecified.md) | 
+| [Url](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.Url.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

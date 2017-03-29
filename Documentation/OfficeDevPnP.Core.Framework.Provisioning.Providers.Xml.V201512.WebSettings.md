@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,19 +12,19 @@ public class WebSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebSettings()](WebSettingsconstructor1details.md) | 
+| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RequestAccessEmail](WebSettings.RequestAccessEmail.md) | 
-| [NoCrawl](WebSettings.NoCrawl.md) | 
-| [NoCrawlSpecified](WebSettings.NoCrawlSpecified.md) | 
-| [WelcomePage](WebSettings.WelcomePage.md) | 
-| [Title](WebSettings.Title.md) | 
-| [Description](WebSettings.Description.md) | 
-| [SiteLogo](WebSettings.SiteLogo.md) | 
-| [AlternateCSS](WebSettings.AlternateCSS.md) | 
-| [MasterPageUrl](WebSettings.MasterPageUrl.md) | 
-| [CustomMasterPageUrl](WebSettings.CustomMasterPageUrl.md) | 
+| [RequestAccessEmail](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.RequestAccessEmail.md) | 
+| [NoCrawl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.NoCrawl.md) | 
+| [NoCrawlSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.NoCrawlSpecified.md) | 
+| [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.WelcomePage.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Title.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Description.md) | 
+| [SiteLogo](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.SiteLogo.md) | 
+| [AlternateCSS](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.AlternateCSS.md) | 
+| [MasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.MasterPageUrl.md) | 
+| [CustomMasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.CustomMasterPageUrl.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

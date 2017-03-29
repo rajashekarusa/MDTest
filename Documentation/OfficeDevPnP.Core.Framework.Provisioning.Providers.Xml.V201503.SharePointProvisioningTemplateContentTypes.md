@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class SharePointProvisioningTemplateContentTypes
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateContentTypes()](SharePointProvisioningTemplateContentTypesconstructor1details.md) | 
+| [SharePointProvisioningTemplateContentTypes()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Any](SharePointProvisioningTemplateContentTypes.Any.md) | 
+| [Any](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.Any.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

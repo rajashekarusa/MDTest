@@ -3,7 +3,7 @@ Client side webpart object (retrieved via the _api/web/GetClientSideWebParts RES
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,15 +12,15 @@ public class ClientSideComponent
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideComponent()](ClientSideComponentconstructor1details.md) | 
+| [ClientSideComponent()](OfficeDevPnP.Core.Pages.ClientSideComponent.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ComponentType](ClientSideComponent.ComponentType.md) | 
-| [Id](ClientSideComponent.Id.md) | 
-| [Manifest](ClientSideComponent.Manifest.md) | 
-| [ManifestType](ClientSideComponent.ManifestType.md) | 
-| [Name](ClientSideComponent.Name.md) | 
-| [Status](ClientSideComponent.Status.md) | 
+| [ComponentType](OfficeDevPnP.Core.Pages.ClientSideComponent.ComponentType.md) | 
+| [Id](OfficeDevPnP.Core.Pages.ClientSideComponent.Id.md) | 
+| [Manifest](OfficeDevPnP.Core.Pages.ClientSideComponent.Manifest.md) | 
+| [ManifestType](OfficeDevPnP.Core.Pages.ClientSideComponent.ManifestType.md) | 
+| [Name](OfficeDevPnP.Core.Pages.ClientSideComponent.Name.md) | 
+| [Status](OfficeDevPnP.Core.Pages.ClientSideComponent.Status.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,15 +12,15 @@ public class GetUserProfileByIndexResult
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserProfileByIndexResult()](GetUserProfileByIndexResultconstructor1details.md) | 
+| [GetUserProfileByIndexResult()](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [NextValue](GetUserProfileByIndexResult.NextValue.md) | 
-| [UserProfile](GetUserProfileByIndexResult.UserProfile.md) | 
-| [Colleagues](GetUserProfileByIndexResult.Colleagues.md) | 
-| [QuickLinks](GetUserProfileByIndexResult.QuickLinks.md) | 
-| [PinnedLinks](GetUserProfileByIndexResult.PinnedLinks.md) | 
-| [Memberships](GetUserProfileByIndexResult.Memberships.md) | 
+| [NextValue](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.NextValue.md) | 
+| [UserProfile](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.UserProfile.md) | 
+| [Colleagues](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.Colleagues.md) | 
+| [QuickLinks](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.QuickLinks.md) | 
+| [PinnedLinks](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.PinnedLinks.md) | 
+| [Memberships](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.Memberships.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

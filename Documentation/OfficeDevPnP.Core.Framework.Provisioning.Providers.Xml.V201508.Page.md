@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,14 +12,14 @@ public class Page
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Page()](Pageconstructor1details.md) | 
+| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebParts](Page.WebParts.md) | 
-| [Security](Page.Security.md) | 
-| [Url](Page.Url.md) | 
-| [Overwrite](Page.Overwrite.md) | 
-| [Layout](Page.Layout.md) | 
+| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.WebParts.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.Security.md) | 
+| [Url](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.Url.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.Overwrite.md) | 
+| [Layout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.Layout.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -3,7 +3,7 @@ DefaultColumnValue
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnValue()](DefaultColumnValueconstructor1details.md) | 
+| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FolderRelativePath](DefaultColumnValue.FolderRelativePath.md) | The Path of the folder, Rootfolder of the document library is "/"
-| [FieldInternalName](DefaultColumnValue.FieldInternalName.md) | The internal name of the field
+| [FolderRelativePath](OfficeDevPnP.Core.Entities.DefaultColumnValue.FolderRelativePath.md) | The Path of the folder, Rootfolder of the document library is "/"
+| [FieldInternalName](OfficeDevPnP.Core.Entities.DefaultColumnValue.FieldInternalName.md) | The internal name of the field
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

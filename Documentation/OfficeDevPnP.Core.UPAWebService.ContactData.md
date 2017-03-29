@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,19 +12,19 @@ public class ContactData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContactData()](ContactDataconstructor1details.md) | 
+| [ContactData()](OfficeDevPnP.Core.UPAWebService.ContactData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [AccountName](ContactData.AccountName.md) | 
-| [Privacy](ContactData.Privacy.md) | 
-| [Name](ContactData.Name.md) | 
-| [IsInWorkGroup](ContactData.IsInWorkGroup.md) | 
-| [Group](ContactData.Group.md) | 
-| [Email](ContactData.Email.md) | 
-| [Title](ContactData.Title.md) | 
-| [Url](ContactData.Url.md) | 
-| [UserProfileID](ContactData.UserProfileID.md) | 
-| [ID](ContactData.ID.md) | 
+| [AccountName](OfficeDevPnP.Core.UPAWebService.ContactData.AccountName.md) | 
+| [Privacy](OfficeDevPnP.Core.UPAWebService.ContactData.Privacy.md) | 
+| [Name](OfficeDevPnP.Core.UPAWebService.ContactData.Name.md) | 
+| [IsInWorkGroup](OfficeDevPnP.Core.UPAWebService.ContactData.IsInWorkGroup.md) | 
+| [Group](OfficeDevPnP.Core.UPAWebService.ContactData.Group.md) | 
+| [Email](OfficeDevPnP.Core.UPAWebService.ContactData.Email.md) | 
+| [Title](OfficeDevPnP.Core.UPAWebService.ContactData.Title.md) | 
+| [Url](OfficeDevPnP.Core.UPAWebService.ContactData.Url.md) | 
+| [UserProfileID](OfficeDevPnP.Core.UPAWebService.ContactData.UserProfileID.md) | 
+| [ID](OfficeDevPnP.Core.UPAWebService.ContactData.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

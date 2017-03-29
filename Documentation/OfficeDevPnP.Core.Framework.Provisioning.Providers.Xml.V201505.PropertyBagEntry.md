@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.StringDictionaryItem.md)
 ## Syntax
@@ -13,10 +13,10 @@ public class PropertyBagEntry: StringDictionaryItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](PropertyBagEntryconstructor1details.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PropertyBagEntry.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Indexed](PropertyBagEntry.Indexed.md) | 
+| [Indexed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PropertyBagEntry.Indexed.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

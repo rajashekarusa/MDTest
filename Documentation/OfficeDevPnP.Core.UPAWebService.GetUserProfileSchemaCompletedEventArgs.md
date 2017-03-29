@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.ComponentModel.AsyncCompletedEventArgs](System.ComponentModel.AsyncCompletedEventArgs.md)
 ## Syntax
@@ -13,6 +13,6 @@ public class GetUserProfileSchemaCompletedEventArgs: AsyncCompletedEventArgs
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Result](GetUserProfileSchemaCompletedEventArgs.Result.md) | 
+| [Result](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventArgs.Result.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

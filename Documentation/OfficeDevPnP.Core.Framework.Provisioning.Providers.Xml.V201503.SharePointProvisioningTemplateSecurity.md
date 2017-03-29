@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,13 +12,13 @@ public class SharePointProvisioningTemplateSecurity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateSecurity()](SharePointProvisioningTemplateSecurityconstructor1details.md) | 
+| [SharePointProvisioningTemplateSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [AdditionalAdministrators](SharePointProvisioningTemplateSecurity.AdditionalAdministrators.md) | 
-| [AdditionalOwners](SharePointProvisioningTemplateSecurity.AdditionalOwners.md) | 
-| [AdditionalMembers](SharePointProvisioningTemplateSecurity.AdditionalMembers.md) | 
-| [AdditionalVisitors](SharePointProvisioningTemplateSecurity.AdditionalVisitors.md) | 
+| [AdditionalAdministrators](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalAdministrators.md) | 
+| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalOwners.md) | 
+| [AdditionalMembers](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalMembers.md) | 
+| [AdditionalVisitors](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalVisitors.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class Workflows
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Workflows()](Workflowsconstructor1details.md) | 
+| [Workflows()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Workflows.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowDefinitions](Workflows.WorkflowDefinitions.md) | 
-| [WorkflowSubscriptions](Workflows.WorkflowSubscriptions.md) | 
+| [WorkflowDefinitions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Workflows.WorkflowDefinitions.md) | 
+| [WorkflowSubscriptions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Workflows.WorkflowSubscriptions.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class UpdateMembershipPrivacyCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UpdateMembershipPrivacyCompletedEventHandler(Object, IntPtr)](UpdateMembershipPrivacyCompletedEventHandlerconstructor1details.md) | 
+| [UpdateMembershipPrivacyCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.Constructor1details.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](UpdateMembershipPrivacyCompletedEventHandlerInvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
-| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](UpdateMembershipPrivacyCompletedEventHandlerBeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](UpdateMembershipPrivacyCompletedEventHandlerEndInvokeIAsyncResult.md) | 
+| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.InvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
+| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.BeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.EndInvokeIAsyncResult.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

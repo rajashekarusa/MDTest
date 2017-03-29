@@ -3,21 +3,21 @@ Extension class for PnP OpenXML package files
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
-public class PnPPackageExtensions
+public static class PnPPackageExtensions
 ```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [PackTemplateAsStream(Model.PnPInfo)](PnPPackageExtensionsPackTemplateAsStreamModel.PnPInfo.md) | 
-| [PackTemplate(Model.PnPInfo)](PnPPackageExtensionsPackTemplateModel.PnPInfo.md) | 
-| [UnpackTemplate(IO.MemoryStream)](PnPPackageExtensionsUnpackTemplateIO.MemoryStream.md) | 
-| [UnpackTemplate(Byte[])](PnPPackageExtensionsUnpackTemplateByte[].md) | 
-| [AsInternalFilename(String)](PnPPackageExtensionsAsInternalFilenameString.md) | 
-| [LoadPnPPackage(PnPPackage)](PnPPackageExtensionsLoadPnPPackagePnPPackage.md) | 
-| [SavePnPPackage(Model.PnPInfo, PnPPackage)](PnPPackageExtensionsSavePnPPackageModel.PnPInfoPnPPackage.md) | 
+| [PackTemplateAsStream(Model.PnPInfo)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.PackTemplateAsStreamModel.PnPInfo.md) | 
+| [PackTemplate(Model.PnPInfo)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.PackTemplateModel.PnPInfo.md) | 
+| [UnpackTemplate(IO.MemoryStream)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.UnpackTemplateIO.MemoryStream.md) | 
+| [UnpackTemplate(Byte[])](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.UnpackTemplateByte[].md) | 
+| [AsInternalFilename(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.AsInternalFilenameString.md) | 
+| [LoadPnPPackage(PnPPackage)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.LoadPnPPackagePnPPackage.md) | 
+| [SavePnPPackage(Model.PnPInfo, PnPPackage)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.SavePnPPackageModel.PnPInfoPnPPackage.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

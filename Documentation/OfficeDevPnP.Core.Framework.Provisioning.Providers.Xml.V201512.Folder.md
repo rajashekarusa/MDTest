@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class Folder
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Folder()](Folderconstructor1details.md) | 
+| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Folder1](Folder.Folder1.md) | 
-| [Security](Folder.Security.md) | 
-| [Name](Folder.Name.md) | 
+| [Folder1](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Folder1.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Security.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Name.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

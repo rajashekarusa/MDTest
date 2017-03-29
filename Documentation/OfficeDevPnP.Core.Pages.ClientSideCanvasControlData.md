@@ -3,7 +3,7 @@ Abstract base class representing the json control data that will be included in 
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideCanvasControlData()](ClientSideCanvasControlDataconstructor1details.md) | 
+| [ClientSideCanvasControlData()](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ControlType](ClientSideCanvasControlData.ControlType.md) | 
-| [Id](ClientSideCanvasControlData.Id.md) | 
+| [ControlType](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.ControlType.md) | 
+| [Id](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.Id.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

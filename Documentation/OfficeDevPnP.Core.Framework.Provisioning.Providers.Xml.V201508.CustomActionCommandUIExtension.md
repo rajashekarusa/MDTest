@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class CustomActionCommandUIExtension
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActionCommandUIExtension()](CustomActionCommandUIExtensionconstructor1details.md) | 
+| [CustomActionCommandUIExtension()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActionCommandUIExtension.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Any](CustomActionCommandUIExtension.Any.md) | 
+| [Any](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActionCommandUIExtension.Any.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

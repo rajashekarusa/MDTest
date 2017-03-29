@@ -3,38 +3,38 @@
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode`1<OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope>](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode`1<OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope>.md)
+-- [OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md)
 ## Syntax
 ```C#
-public class PnPMonitoredScope: PnPMonitoredScope>
+public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>
 ```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPMonitoredScope()](PnPMonitoredScopeconstructor1details.md) | 
-| [PnPMonitoredScope(String)](PnPMonitoredScopeconstructor1details.md) | 
+| [PnPMonitoredScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Constructor1details.md) | 
+| [PnPMonitoredScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Constructor2details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ThreadId](PnPMonitoredScope.ThreadId.md) | 
-| [Name](PnPMonitoredScope.Name.md) | 
-| [CorrelationId](PnPMonitoredScope.CorrelationId.md) | 
+| [ThreadId](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ThreadId.md) | 
+| [Name](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Name.md) | 
+| [CorrelationId](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.CorrelationId.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [StartScope(String)](PnPMonitoredScopeStartScopeString.md) | 
-| [EndScope()](PnPMonitoredScopeEndScope.md) | 
-| [LogError(String, Object[])](PnPMonitoredScopeLogErrorStringObject[].md) | 
-| [LogError(Exception, String, Object[])](PnPMonitoredScopeLogErrorExceptionStringObject[].md) | 
-| [LogInfo(String, Object[])](PnPMonitoredScopeLogInfoStringObject[].md) | 
-| [LogInfo(Exception, String, Object[])](PnPMonitoredScopeLogInfoExceptionStringObject[].md) | 
-| [LogWarning(String, Object[])](PnPMonitoredScopeLogWarningStringObject[].md) | 
-| [LogWarning(Exception, String, Object[])](PnPMonitoredScopeLogWarningExceptionStringObject[].md) | 
-| [LogDebug(String, Object[])](PnPMonitoredScopeLogDebugStringObject[].md) | 
-| [LogDebug(Exception, String, Object[])](PnPMonitoredScopeLogDebugExceptionStringObject[].md) | 
-| [Dispose(Boolean)](PnPMonitoredScopeDisposeBoolean.md) | 
-| [Dispose()](PnPMonitoredScopeDispose.md) | 
+| [StartScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.StartScopeString.md) | 
+| [EndScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.EndScope.md) | 
+| [LogError(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogErrorStringObject[].md) | 
+| [LogError(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogErrorExceptionStringObject[].md) | 
+| [LogInfo(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogInfoStringObject[].md) | 
+| [LogInfo(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogInfoExceptionStringObject[].md) | 
+| [LogWarning(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogWarningStringObject[].md) | 
+| [LogWarning(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogWarningExceptionStringObject[].md) | 
+| [LogDebug(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogDebugStringObject[].md) | 
+| [LogDebug(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogDebugExceptionStringObject[].md) | 
+| [Dispose(Boolean)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.DisposeBoolean.md) | 
+| [Dispose()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Dispose.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

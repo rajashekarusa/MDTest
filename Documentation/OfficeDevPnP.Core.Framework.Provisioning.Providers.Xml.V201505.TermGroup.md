@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.md)
 ## Syntax
@@ -13,11 +13,11 @@ public class TermGroup: TaxonomyItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermGroup()](TermGroupconstructor1details.md) | 
+| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermSets](TermGroup.TermSets.md) | 
-| [Description](TermGroup.Description.md) | 
+| [TermSets](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.TermSets.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.Description.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

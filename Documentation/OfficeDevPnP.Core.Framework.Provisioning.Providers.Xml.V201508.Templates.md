@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,13 +12,13 @@ public class Templates
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Templates()](Templatesconstructor1details.md) | 
+| [Templates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateFile](Templates.ProvisioningTemplateFile.md) | 
-| [ProvisioningTemplateReference](Templates.ProvisioningTemplateReference.md) | 
-| [ProvisioningTemplate](Templates.ProvisioningTemplate.md) | 
-| [ID](Templates.ID.md) | 
+| [ProvisioningTemplateFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.ProvisioningTemplateFile.md) | 
+| [ProvisioningTemplateReference](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.ProvisioningTemplateReference.md) | 
+| [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.ProvisioningTemplate.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

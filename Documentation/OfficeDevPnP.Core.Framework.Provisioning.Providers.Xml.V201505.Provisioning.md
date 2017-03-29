@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,13 +12,13 @@ public class Provisioning
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provisioning()](Provisioningconstructor1details.md) | 
+| [Provisioning()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provisioning.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Preferences](Provisioning.Preferences.md) | 
-| [Templates](Provisioning.Templates.md) | 
-| [Sequence](Provisioning.Sequence.md) | 
-| [ImportSequence](Provisioning.ImportSequence.md) | 
+| [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provisioning.Preferences.md) | 
+| [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provisioning.Templates.md) | 
+| [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provisioning.Sequence.md) | 
+| [ImportSequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provisioning.ImportSequence.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

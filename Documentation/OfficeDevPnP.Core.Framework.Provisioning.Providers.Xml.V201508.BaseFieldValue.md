@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class BaseFieldValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseFieldValue()](BaseFieldValueconstructor1details.md) | 
+| [BaseFieldValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldName](BaseFieldValue.FieldName.md) | 
-| [Value](BaseFieldValue.Value.md) | 
+| [FieldName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue.FieldName.md) | 
+| [Value](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue.Value.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

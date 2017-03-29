@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class YammerUserSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserSettings()](YammerUserSettingsconstructor1details.md) | 
+| [YammerUserSettings()](OfficeDevPnP.Core.Entities.YammerUserSettings.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [xdr_proxy](YammerUserSettings.xdr_proxy.md) | 
+| [xdr_proxy](OfficeDevPnP.Core.Entities.YammerUserSettings.xdr_proxy.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

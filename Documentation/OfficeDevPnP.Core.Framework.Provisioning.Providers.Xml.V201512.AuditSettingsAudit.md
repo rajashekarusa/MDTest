@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class AuditSettingsAudit
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditSettingsAudit()](AuditSettingsAuditconstructor1details.md) | 
+| [AuditSettingsAudit()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AuditSettingsAudit.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditFlag](AuditSettingsAudit.AuditFlag.md) | 
+| [AuditFlag](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AuditSettingsAudit.AuditFlag.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

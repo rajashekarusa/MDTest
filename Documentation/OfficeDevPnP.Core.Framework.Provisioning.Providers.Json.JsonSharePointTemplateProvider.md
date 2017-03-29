@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md)
 ## Syntax
@@ -13,7 +13,7 @@ public class JsonSharePointTemplateProvider: JsonTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonSharePointTemplateProvider()](JsonSharePointTemplateProviderconstructor1details.md) | 
-| [JsonSharePointTemplateProvider(Microsoft.SharePoint.Client.ClientRuntimeContext, String, String)](JsonSharePointTemplateProviderconstructor1details.md) | 
+| [JsonSharePointTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonSharePointTemplateProvider.Constructor1details.md) | 
+| [JsonSharePointTemplateProvider(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonSharePointTemplateProvider.Constructor2details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

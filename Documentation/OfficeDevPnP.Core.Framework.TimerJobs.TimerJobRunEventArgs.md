@@ -3,7 +3,7 @@ Event arguments for the TimerJobRun event
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.EventArgs](System.EventArgs.md)
 ## Syntax
@@ -13,8 +13,8 @@ public class TimerJobRunEventArgs: EventArgs
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetProperty(String)](TimerJobRunEventArgsGetPropertyString.md) | Gets a property from the custom properties list
-| [SetProperty(String, String)](TimerJobRunEventArgsSetPropertyStringString.md) | Adds or updates a property in the custom properties list
-| [DeleteProperty(String)](TimerJobRunEventArgsDeletePropertyString.md) | Deletes a property from the custom property list
+| [GetProperty(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs.GetPropertyString.md) | Gets a property from the custom properties list
+| [SetProperty(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs.SetPropertyStringString.md) | Adds or updates a property in the custom properties list
+| [DeleteProperty(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs.DeletePropertyString.md) | Deletes a property from the custom property list
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

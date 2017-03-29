@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,18 +12,18 @@ public class BaseFieldValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseFieldValue()](BaseFieldValueconstructor1details.md) | 
+| [BaseFieldValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldName](BaseFieldValue.FieldName.md) | 
-| [Value](BaseFieldValue.Value.md) | 
+| [FieldName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.FieldName.md) | 
+| [Value](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.Value.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetSchema(Xml.Schema.XmlSchemaSet)](BaseFieldValueGetSchemaXml.Schema.XmlSchemaSet.md) | 
-| [System.Xml.Serialization.IXmlSerializable.GetSchema()](BaseFieldValueSystem.Xml.Serialization.IXmlSerializable.GetSchema.md) | 
-| [System.Xml.Serialization.IXmlSerializable.ReadXml(Xml.XmlReader)](BaseFieldValueSystem.Xml.Serialization.IXmlSerializable.ReadXmlXml.XmlReader.md) | 
-| [System.Xml.Serialization.IXmlSerializable.WriteXml(Xml.XmlWriter)](BaseFieldValueSystem.Xml.Serialization.IXmlSerializable.WriteXmlXml.XmlWriter.md) | 
+| [GetSchema(Xml.Schema.XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.GetSchemaXml.Schema.XmlSchemaSet.md) | 
+| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.System.Xml.Serialization.IXmlSerializable.GetSchema.md) | 
+| [System.Xml.Serialization.IXmlSerializable.ReadXml(Xml.XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.System.Xml.Serialization.IXmlSerializable.ReadXmlXml.XmlReader.md) | 
+| [System.Xml.Serialization.IXmlSerializable.WriteXml(Xml.XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.BaseFieldValue.System.Xml.Serialization.IXmlSerializable.WriteXmlXml.XmlWriter.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

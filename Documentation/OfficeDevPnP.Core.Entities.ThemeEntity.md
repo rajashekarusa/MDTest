@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,16 +12,16 @@ public class ThemeEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ThemeEntity()](ThemeEntityconstructor1details.md) | 
+| [ThemeEntity()](OfficeDevPnP.Core.Entities.ThemeEntity.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](ThemeEntity.Name.md) | 
-| [IsCustomComposedLook](ThemeEntity.IsCustomComposedLook.md) | 
-| [MasterPage](ThemeEntity.MasterPage.md) | 
-| [CustomMasterPage](ThemeEntity.CustomMasterPage.md) | 
-| [Theme](ThemeEntity.Theme.md) | 
-| [BackgroundImage](ThemeEntity.BackgroundImage.md) | 
-| [Font](ThemeEntity.Font.md) | 
+| [Name](OfficeDevPnP.Core.Entities.ThemeEntity.Name.md) | 
+| [IsCustomComposedLook](OfficeDevPnP.Core.Entities.ThemeEntity.IsCustomComposedLook.md) | 
+| [MasterPage](OfficeDevPnP.Core.Entities.ThemeEntity.MasterPage.md) | 
+| [CustomMasterPage](OfficeDevPnP.Core.Entities.ThemeEntity.CustomMasterPage.md) | 
+| [Theme](OfficeDevPnP.Core.Entities.ThemeEntity.Theme.md) | 
+| [BackgroundImage](OfficeDevPnP.Core.Entities.ThemeEntity.BackgroundImage.md) | 
+| [Font](OfficeDevPnP.Core.Entities.ThemeEntity.Font.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

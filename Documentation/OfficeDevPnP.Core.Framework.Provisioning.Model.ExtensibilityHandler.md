@@ -3,7 +3,7 @@ Domain Object for Extensiblity Call out
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
@@ -13,19 +13,19 @@ public class ExtensibilityHandler: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityHandler()](ExtensibilityHandlerconstructor1details.md) | 
+| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Enabled](ExtensibilityHandler.Enabled.md) | 
-| [Assembly](ExtensibilityHandler.Assembly.md) | 
-| [Type](ExtensibilityHandler.Type.md) | 
-| [Configuration](ExtensibilityHandler.Configuration.md) | 
+| [Enabled](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Enabled.md) | 
+| [Assembly](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Assembly.md) | 
+| [Type](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Type.md) | 
+| [Configuration](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Configuration.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](ExtensibilityHandlerGetHashCode.md) | 
-| [Equals(Object)](ExtensibilityHandlerEqualsObject.md) | 
-| [Equals(ExtensibilityHandler)](ExtensibilityHandlerEqualsExtensibilityHandler.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.GetHashCode.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.EqualsObject.md) | 
+| [Equals(ExtensibilityHandler)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.EqualsExtensibilityHandler.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

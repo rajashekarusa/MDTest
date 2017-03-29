@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,23 +12,23 @@ public class RoleAssignmentEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignmentEntity()](RoleAssignmentEntityconstructor1details.md) | 
+| [RoleAssignmentEntity()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Path](RoleAssignmentEntity.Path.md) | 
-| [User](RoleAssignmentEntity.User.md) | 
-| [UserTitle](RoleAssignmentEntity.UserTitle.md) | 
-| [UserLoginName](RoleAssignmentEntity.UserLoginName.md) | 
-| [UserEmail](RoleAssignmentEntity.UserEmail.md) | 
-| [Role](RoleAssignmentEntity.Role.md) | 
-| [RoleDefinitionBindings](RoleAssignmentEntity.RoleDefinitionBindings.md) | 
-| [Permissions](RoleAssignmentEntity.Permissions.md) | 
-| [Tag](RoleAssignmentEntity.Tag.md) | 
-| [CreatedDate](RoleAssignmentEntity.CreatedDate.md) | 
+| [Path](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Path.md) | 
+| [User](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.User.md) | 
+| [UserTitle](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserTitle.md) | 
+| [UserLoginName](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserLoginName.md) | 
+| [UserEmail](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserEmail.md) | 
+| [Role](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Role.md) | 
+| [RoleDefinitionBindings](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.RoleDefinitionBindings.md) | 
+| [Permissions](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Permissions.md) | 
+| [Tag](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Tag.md) | 
+| [CreatedDate](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.CreatedDate.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToString()](RoleAssignmentEntityToString.md) | 
+| [ToString()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.ToString.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

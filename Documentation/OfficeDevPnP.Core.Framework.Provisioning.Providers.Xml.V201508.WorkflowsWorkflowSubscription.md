@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,22 +12,22 @@ public class WorkflowsWorkflowSubscription
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowsWorkflowSubscription()](WorkflowsWorkflowSubscriptionconstructor1details.md) | 
+| [WorkflowsWorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyDefinitions](WorkflowsWorkflowSubscription.PropertyDefinitions.md) | 
-| [DefinitionId](WorkflowsWorkflowSubscription.DefinitionId.md) | 
-| [ListId](WorkflowsWorkflowSubscription.ListId.md) | 
-| [Enabled](WorkflowsWorkflowSubscription.Enabled.md) | 
-| [EventSourceId](WorkflowsWorkflowSubscription.EventSourceId.md) | 
-| [WorkflowStartEvent](WorkflowsWorkflowSubscription.WorkflowStartEvent.md) | 
-| [ItemAddedEvent](WorkflowsWorkflowSubscription.ItemAddedEvent.md) | 
-| [ItemUpdatedEvent](WorkflowsWorkflowSubscription.ItemUpdatedEvent.md) | 
-| [ManualStartBypassesActivationLimit](WorkflowsWorkflowSubscription.ManualStartBypassesActivationLimit.md) | 
-| [ManualStartBypassesActivationLimitSpecified](WorkflowsWorkflowSubscription.ManualStartBypassesActivationLimitSpecified.md) | 
-| [Name](WorkflowsWorkflowSubscription.Name.md) | 
-| [ParentContentTypeId](WorkflowsWorkflowSubscription.ParentContentTypeId.md) | 
-| [StatusFieldName](WorkflowsWorkflowSubscription.StatusFieldName.md) | 
+| [PropertyDefinitions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.PropertyDefinitions.md) | 
+| [DefinitionId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.DefinitionId.md) | 
+| [ListId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ListId.md) | 
+| [Enabled](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.Enabled.md) | 
+| [EventSourceId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.EventSourceId.md) | 
+| [WorkflowStartEvent](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.WorkflowStartEvent.md) | 
+| [ItemAddedEvent](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ItemAddedEvent.md) | 
+| [ItemUpdatedEvent](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ItemUpdatedEvent.md) | 
+| [ManualStartBypassesActivationLimit](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ManualStartBypassesActivationLimit.md) | 
+| [ManualStartBypassesActivationLimitSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ManualStartBypassesActivationLimitSpecified.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.Name.md) | 
+| [ParentContentTypeId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ParentContentTypeId.md) | 
+| [StatusFieldName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.StatusFieldName.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

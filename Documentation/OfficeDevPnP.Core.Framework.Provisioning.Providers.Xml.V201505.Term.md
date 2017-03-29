@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem.md)
 ## Syntax
@@ -13,16 +13,16 @@ public class Term: TermSetItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Term()](Termconstructor1details.md) | 
+| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Terms](Term.Terms.md) | 
-| [Labels](Term.Labels.md) | 
-| [CustomProperties](Term.CustomProperties.md) | 
-| [LocalCustomProperties](Term.LocalCustomProperties.md) | 
-| [Language](Term.Language.md) | 
-| [LanguageSpecified](Term.LanguageSpecified.md) | 
-| [CustomSortOrder](Term.CustomSortOrder.md) | 
+| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.Terms.md) | 
+| [Labels](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.Labels.md) | 
+| [CustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.CustomProperties.md) | 
+| [LocalCustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.LocalCustomProperties.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.Language.md) | 
+| [LanguageSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.LanguageSpecified.md) | 
+| [CustomSortOrder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.CustomSortOrder.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

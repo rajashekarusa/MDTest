@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class PublishingPageLayoutsPageLayout
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingPageLayoutsPageLayout()](PublishingPageLayoutsPageLayoutconstructor1details.md) | 
+| [PublishingPageLayoutsPageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayoutsPageLayout.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Path](PublishingPageLayoutsPageLayout.Path.md) | 
+| [Path](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayoutsPageLayout.Path.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

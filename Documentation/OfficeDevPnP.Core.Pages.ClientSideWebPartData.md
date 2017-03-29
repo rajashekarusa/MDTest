@@ -3,7 +3,7 @@ Json web part data that will be included in each client side web part (de-)seria
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,15 +12,15 @@ public class ClientSideWebPartData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPartData()](ClientSideWebPartDataconstructor1details.md) | 
+| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Id](ClientSideWebPartData.Id.md) | 
-| [InstanceId](ClientSideWebPartData.InstanceId.md) | 
-| [Title](ClientSideWebPartData.Title.md) | 
-| [Description](ClientSideWebPartData.Description.md) | 
-| [DataVersion](ClientSideWebPartData.DataVersion.md) | 
-| [Properties](ClientSideWebPartData.Properties.md) | 
+| [Id](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Id.md) | 
+| [InstanceId](OfficeDevPnP.Core.Pages.ClientSideWebPartData.InstanceId.md) | 
+| [Title](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Title.md) | 
+| [Description](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Description.md) | 
+| [DataVersion](OfficeDevPnP.Core.Pages.ClientSideWebPartData.DataVersion.md) | 
+| [Properties](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Properties.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

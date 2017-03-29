@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
@@ -13,31 +13,31 @@ public class Term: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Term()](Termconstructor1details.md) | 
-| [Term(Guid, String, Nullable1<Int32>, Collections.Generic.List1<Term>, Collections.Generic.List1<TermLabel>, Collections.Generic.Dictionary2<String,String>, Collections.Generic.Dictionary2<String,String>)](Termconstructor1details.md) | 
+| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Constructor1details.md) | 
+| [Term(Guid, String, Nullable<Int32>, List<Term>, List<TermLabel>, Dictionary<String, String>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Constructor2details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Id](Term.Id.md) | 
-| [Name](Term.Name.md) | 
-| [Description](Term.Description.md) | 
-| [Owner](Term.Owner.md) | 
-| [IsAvailableForTagging](Term.IsAvailableForTagging.md) | 
-| [IsReused](Term.IsReused.md) | 
-| [IsSourceTerm](Term.IsSourceTerm.md) | 
-| [SourceTermId](Term.SourceTermId.md) | 
-| [IsDeprecated](Term.IsDeprecated.md) | 
-| [Language](Term.Language.md) | 
-| [CustomSortOrder](Term.CustomSortOrder.md) | 
-| [Terms](Term.Terms.md) | 
-| [Labels](Term.Labels.md) | 
-| [Properties](Term.Properties.md) | 
-| [LocalProperties](Term.LocalProperties.md) | 
+| [Id](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Id.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Name.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Description.md) | 
+| [Owner](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Owner.md) | 
+| [IsAvailableForTagging](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.IsAvailableForTagging.md) | 
+| [IsReused](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.IsReused.md) | 
+| [IsSourceTerm](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.IsSourceTerm.md) | 
+| [SourceTermId](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.SourceTermId.md) | 
+| [IsDeprecated](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.IsDeprecated.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Language.md) | 
+| [CustomSortOrder](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.CustomSortOrder.md) | 
+| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Terms.md) | 
+| [Labels](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Labels.md) | 
+| [Properties](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Properties.md) | 
+| [LocalProperties](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.LocalProperties.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](TermGetHashCode.md) | 
-| [Equals(Object)](TermEqualsObject.md) | 
-| [Equals(Term)](TermEqualsTerm.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.GetHashCode.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.EqualsObject.md) | 
+| [Equals(Term)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.EqualsTerm.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

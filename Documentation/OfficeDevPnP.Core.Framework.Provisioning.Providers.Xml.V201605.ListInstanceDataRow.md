@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class ListInstanceDataRow
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceDataRow()](ListInstanceDataRowconstructor1details.md) | 
+| [ListInstanceDataRow()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceDataRow.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataValue](ListInstanceDataRow.DataValue.md) | 
-| [Security](ListInstanceDataRow.Security.md) | 
+| [DataValue](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceDataRow.DataValue.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceDataRow.Security.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md)
 ## Syntax
@@ -13,7 +13,7 @@ public class JsonOpenXMLTemplateProvider: JsonTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonOpenXMLTemplateProvider(String, OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase, String, Security.Cryptography.X509Certificates.X509Certificate2)](JsonOpenXMLTemplateProviderconstructor1details.md) | 
-| [JsonOpenXMLTemplateProvider(OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector)](JsonOpenXMLTemplateProviderconstructor1details.md) | 
+| [JsonOpenXMLTemplateProvider(String, FileConnectorBase, String, X509Certificate2)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonOpenXMLTemplateProvider.Constructor1details.md) | 
+| [JsonOpenXMLTemplateProvider(OpenXMLConnector)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonOpenXMLTemplateProvider.Constructor2details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

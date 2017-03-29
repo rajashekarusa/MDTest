@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class CustomActions
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActions()](CustomActionsconstructor1details.md) | 
+| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActions.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteCustomActions](CustomActions.SiteCustomActions.md) | 
-| [WebCustomActions](CustomActions.WebCustomActions.md) | 
+| [SiteCustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActions.SiteCustomActions.md) | 
+| [WebCustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActions.WebCustomActions.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

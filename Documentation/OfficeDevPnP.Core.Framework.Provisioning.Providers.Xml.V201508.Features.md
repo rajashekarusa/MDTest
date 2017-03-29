@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class Features
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Features()](Featuresconstructor1details.md) | 
+| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Features.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteFeatures](Features.SiteFeatures.md) | 
-| [WebFeatures](Features.WebFeatures.md) | 
+| [SiteFeatures](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Features.SiteFeatures.md) | 
+| [WebFeatures](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Features.WebFeatures.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

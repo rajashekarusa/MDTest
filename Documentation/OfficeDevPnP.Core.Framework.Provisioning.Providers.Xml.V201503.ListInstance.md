@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,27 +12,27 @@ public class ListInstance
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstance()](ListInstanceconstructor1details.md) | 
+| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBindings](ListInstance.ContentTypeBindings.md) | 
-| [Views](ListInstance.Views.md) | 
-| [Fields](ListInstance.Fields.md) | 
-| [FieldRefs](ListInstance.FieldRefs.md) | 
-| [Title](ListInstance.Title.md) | 
-| [Description](ListInstance.Description.md) | 
-| [DocumentTemplate](ListInstance.DocumentTemplate.md) | 
-| [OnQuickLaunch](ListInstance.OnQuickLaunch.md) | 
-| [TemplateType](ListInstance.TemplateType.md) | 
-| [Url](ListInstance.Url.md) | 
-| [EnableVersioning](ListInstance.EnableVersioning.md) | 
-| [MinorVersionLimit](ListInstance.MinorVersionLimit.md) | 
-| [MinorVersionLimitSpecified](ListInstance.MinorVersionLimitSpecified.md) | 
-| [MaxVersionLimit](ListInstance.MaxVersionLimit.md) | 
-| [MaxVersionLimitSpecified](ListInstance.MaxVersionLimitSpecified.md) | 
-| [RemoveDefaultContentType](ListInstance.RemoveDefaultContentType.md) | 
-| [ContentTypesEnabled](ListInstance.ContentTypesEnabled.md) | 
-| [Hidden](ListInstance.Hidden.md) | 
+| [ContentTypeBindings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.ContentTypeBindings.md) | 
+| [Views](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Views.md) | 
+| [Fields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Fields.md) | 
+| [FieldRefs](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.FieldRefs.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Title.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Description.md) | 
+| [DocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.DocumentTemplate.md) | 
+| [OnQuickLaunch](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.OnQuickLaunch.md) | 
+| [TemplateType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.TemplateType.md) | 
+| [Url](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Url.md) | 
+| [EnableVersioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.EnableVersioning.md) | 
+| [MinorVersionLimit](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.MinorVersionLimit.md) | 
+| [MinorVersionLimitSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.MinorVersionLimitSpecified.md) | 
+| [MaxVersionLimit](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.MaxVersionLimit.md) | 
+| [MaxVersionLimitSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.MaxVersionLimitSpecified.md) | 
+| [RemoveDefaultContentType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.RemoveDefaultContentType.md) | 
+| [ContentTypesEnabled](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.ContentTypesEnabled.md) | 
+| [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.Hidden.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

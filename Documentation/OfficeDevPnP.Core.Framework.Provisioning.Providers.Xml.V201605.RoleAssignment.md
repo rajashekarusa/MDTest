@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class RoleAssignment
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignment()](RoleAssignmentconstructor1details.md) | 
+| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleAssignment.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Principal](RoleAssignment.Principal.md) | 
-| [RoleDefinition](RoleAssignment.RoleDefinition.md) | 
+| [Principal](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleAssignment.Principal.md) | 
+| [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleAssignment.RoleDefinition.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

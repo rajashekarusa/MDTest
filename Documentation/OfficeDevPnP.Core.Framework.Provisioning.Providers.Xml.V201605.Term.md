@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermSetItem.md)
 ## Syntax
@@ -13,20 +13,20 @@ public class Term: TermSetItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Term()](Termconstructor1details.md) | 
+| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Terms](Term.Terms.md) | 
-| [Labels](Term.Labels.md) | 
-| [CustomProperties](Term.CustomProperties.md) | 
-| [LocalCustomProperties](Term.LocalCustomProperties.md) | 
-| [Language](Term.Language.md) | 
-| [LanguageSpecified](Term.LanguageSpecified.md) | 
-| [CustomSortOrder](Term.CustomSortOrder.md) | 
-| [IsReused](Term.IsReused.md) | 
-| [IsSourceTerm](Term.IsSourceTerm.md) | 
-| [IsDeprecated](Term.IsDeprecated.md) | 
-| [SourceTermId](Term.SourceTermId.md) | 
+| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.Terms.md) | 
+| [Labels](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.Labels.md) | 
+| [CustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.CustomProperties.md) | 
+| [LocalCustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.LocalCustomProperties.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.Language.md) | 
+| [LanguageSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.LanguageSpecified.md) | 
+| [CustomSortOrder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.CustomSortOrder.md) | 
+| [IsReused](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.IsReused.md) | 
+| [IsSourceTerm](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.IsSourceTerm.md) | 
+| [IsDeprecated](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.IsDeprecated.md) | 
+| [SourceTermId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.SourceTermId.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

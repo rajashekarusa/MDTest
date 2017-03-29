@@ -4,7 +4,7 @@ Initializes a new instance of the ExtensiblityPipelineException class. This Exce
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.Exception](System.Exception.md)
 ## Syntax
@@ -14,8 +14,8 @@ public class ExtensiblityPipelineException: Exception
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensiblityPipelineException()](ExtensiblityPipelineExceptionconstructor1details.md) | 
-| [ExtensiblityPipelineException(String)](ExtensiblityPipelineExceptionconstructor1details.md) | 
-| [ExtensiblityPipelineException(String, Exception)](ExtensiblityPipelineExceptionconstructor1details.md) | 
+| [ExtensiblityPipelineException()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.Constructor1details.md) | 
+| [ExtensiblityPipelineException(String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.Constructor2details.md) | 
+| [ExtensiblityPipelineException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.Constructor3details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

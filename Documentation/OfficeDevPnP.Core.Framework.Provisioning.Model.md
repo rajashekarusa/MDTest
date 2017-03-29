@@ -60,8 +60,8 @@
 |[PropertyBagEntryCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.md)|Collection of PropertyBagEntry objects|
 |[ExtensibilityHandlerCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection.md)|Collection of ExtensibilityHandler objects|
 |[ProviderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection.md)|Collection of Provider objects|
-|[ProvisioningTemplateDictionary2](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary2.md)|Generic keyed collection of items stored in the ProvisioningTemplate graph|
-|[ProvisioningTemplateCollection1](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection1.md)|Generic collection of items stored in the ProvisioningTemplate graph|
+|[ProvisioningTemplateDictionary](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.md)|Generic keyed collection of items stored in the ProvisioningTemplate graph|
+|[ProvisioningTemplateCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection.md)|Generic collection of items stored in the ProvisioningTemplate graph|
 |[Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md)|Defines the Publishing configuration to provision|
 |[RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md)|Role Assignment for a target Principal|
 |[RoleAssignmentCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection.md)|Collection of RoleAssignment objects|

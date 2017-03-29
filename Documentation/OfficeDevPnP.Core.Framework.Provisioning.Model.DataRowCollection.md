@@ -3,16 +3,16 @@ Collection of DataRow objects
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>.md)
+-- [OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.md)
 ## Syntax
 ```C#
-public class DataRowCollection: DataRow>
+public class DataRowCollection: ProvisioningTemplateCollection<DataRow>
 ```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataRowCollection(ProvisioningTemplate)](DataRowCollectionconstructor1details.md) | 
+| [DataRowCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.Constructor1details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

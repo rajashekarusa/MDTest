@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class TermStore
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermStore()](TermStoreconstructor1details.md) | 
+| [TermStore()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStore.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermGroup](TermStore.TermGroup.md) | 
-| [Scope](TermStore.Scope.md) | 
+| [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStore.TermGroup.md) | 
+| [Scope](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStore.Scope.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

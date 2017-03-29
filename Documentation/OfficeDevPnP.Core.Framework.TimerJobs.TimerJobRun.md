@@ -3,7 +3,7 @@ Class that holds the state information that's being stored in the web property b
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,6 +12,6 @@ public class TimerJobRun
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJobRun()](TimerJobRunconstructor1details.md) | 
+| [TimerJobRun()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRun.Constructor1details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

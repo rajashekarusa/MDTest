@@ -3,7 +3,7 @@ External user entity
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,15 +12,15 @@ public class ExternalUserEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExternalUserEntity()](ExternalUserEntityconstructor1details.md) | 
+| [ExternalUserEntity()](OfficeDevPnP.Core.Entities.ExternalUserEntity.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [AcceptedAs](ExternalUserEntity.AcceptedAs.md) | 
-| [DisplayName](ExternalUserEntity.DisplayName.md) | 
-| [InvitedAs](ExternalUserEntity.InvitedAs.md) | 
-| [InvitedBy](ExternalUserEntity.InvitedBy.md) | 
-| [UniqueId](ExternalUserEntity.UniqueId.md) | 
-| [WhenCreated](ExternalUserEntity.WhenCreated.md) | 
+| [AcceptedAs](OfficeDevPnP.Core.Entities.ExternalUserEntity.AcceptedAs.md) | 
+| [DisplayName](OfficeDevPnP.Core.Entities.ExternalUserEntity.DisplayName.md) | 
+| [InvitedAs](OfficeDevPnP.Core.Entities.ExternalUserEntity.InvitedAs.md) | 
+| [InvitedBy](OfficeDevPnP.Core.Entities.ExternalUserEntity.InvitedBy.md) | 
+| [UniqueId](OfficeDevPnP.Core.Entities.ExternalUserEntity.UniqueId.md) | 
+| [WhenCreated](OfficeDevPnP.Core.Entities.ExternalUserEntity.WhenCreated.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

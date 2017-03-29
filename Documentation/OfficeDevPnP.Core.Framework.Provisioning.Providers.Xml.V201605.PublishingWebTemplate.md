@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class PublishingWebTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingWebTemplate()](PublishingWebTemplateconstructor1details.md) | 
+| [PublishingWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingWebTemplate.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [LanguageCode](PublishingWebTemplate.LanguageCode.md) | 
-| [LanguageCodeSpecified](PublishingWebTemplate.LanguageCodeSpecified.md) | 
-| [TemplateName](PublishingWebTemplate.TemplateName.md) | 
+| [LanguageCode](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingWebTemplate.LanguageCode.md) | 
+| [LanguageCodeSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingWebTemplate.LanguageCodeSpecified.md) | 
+| [TemplateName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingWebTemplate.TemplateName.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

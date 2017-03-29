@@ -3,7 +3,7 @@ Manifest of a PnP OpenXML file
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class PnPManifest
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPManifest()](PnPManifestconstructor1details.md) | 
+| [PnPManifest()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Type](PnPManifest.Type.md) | The Type of the package file defined by the current manifest
-| [Version](PnPManifest.Version.md) | 
+| [Type](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.Type.md) | The Type of the package file defined by the current manifest
+| [Version](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.Version.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

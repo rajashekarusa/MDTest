@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class PropertyBagEntry: StringDictionaryItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](PropertyBagEntryconstructor1details.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Overwrite](PropertyBagEntry.Overwrite.md) | 
-| [OverwriteSpecified](PropertyBagEntry.OverwriteSpecified.md) | 
-| [Indexed](PropertyBagEntry.Indexed.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.Overwrite.md) | 
+| [OverwriteSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.OverwriteSpecified.md) | 
+| [Indexed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.Indexed.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

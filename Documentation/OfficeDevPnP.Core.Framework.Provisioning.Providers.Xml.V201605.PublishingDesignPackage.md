@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,16 +12,16 @@ public class PublishingDesignPackage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingDesignPackage()](PublishingDesignPackageconstructor1details.md) | 
+| [PublishingDesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [DesignPackagePath](PublishingDesignPackage.DesignPackagePath.md) | 
-| [MajorVersion](PublishingDesignPackage.MajorVersion.md) | 
-| [MajorVersionSpecified](PublishingDesignPackage.MajorVersionSpecified.md) | 
-| [MinorVersion](PublishingDesignPackage.MinorVersion.md) | 
-| [MinorVersionSpecified](PublishingDesignPackage.MinorVersionSpecified.md) | 
-| [PackageGuid](PublishingDesignPackage.PackageGuid.md) | 
-| [PackageName](PublishingDesignPackage.PackageName.md) | 
+| [DesignPackagePath](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.DesignPackagePath.md) | 
+| [MajorVersion](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.MajorVersion.md) | 
+| [MajorVersionSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.MajorVersionSpecified.md) | 
+| [MinorVersion](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.MinorVersion.md) | 
+| [MinorVersionSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.MinorVersionSpecified.md) | 
+| [PackageGuid](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.PackageGuid.md) | 
+| [PackageName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.PackageName.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

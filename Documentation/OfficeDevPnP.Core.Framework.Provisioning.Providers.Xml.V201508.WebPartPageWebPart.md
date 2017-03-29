@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,13 +12,13 @@ public class WebPartPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartPageWebPart()](WebPartPageWebPartconstructor1details.md) | 
+| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Contents](WebPartPageWebPart.Contents.md) | 
-| [Title](WebPartPageWebPart.Title.md) | 
-| [Zone](WebPartPageWebPart.Zone.md) | 
-| [Order](WebPartPageWebPart.Order.md) | 
+| [Contents](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.Contents.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.Title.md) | 
+| [Zone](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.Zone.md) | 
+| [Order](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.Order.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class WebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPart()](WebPartconstructor1details.md) | 
+| [WebPart()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [MetaData](WebPart.MetaData.md) | 
-| [Data](WebPart.Data.md) | 
+| [MetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.MetaData.md) | 
+| [Data](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.Data.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

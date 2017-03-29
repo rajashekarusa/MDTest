@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,27 +12,27 @@ public class WorkflowsWorkflowDefinition
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowsWorkflowDefinition()](WorkflowsWorkflowDefinitionconstructor1details.md) | 
+| [WorkflowsWorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Properties](WorkflowsWorkflowDefinition.Properties.md) | 
-| [FormField](WorkflowsWorkflowDefinition.FormField.md) | 
-| [Id](WorkflowsWorkflowDefinition.Id.md) | 
-| [AssociationUrl](WorkflowsWorkflowDefinition.AssociationUrl.md) | 
-| [Description](WorkflowsWorkflowDefinition.Description.md) | 
-| [DisplayName](WorkflowsWorkflowDefinition.DisplayName.md) | 
-| [DraftVersion](WorkflowsWorkflowDefinition.DraftVersion.md) | 
-| [InitiationUrl](WorkflowsWorkflowDefinition.InitiationUrl.md) | 
-| [Published](WorkflowsWorkflowDefinition.Published.md) | 
-| [PublishedSpecified](WorkflowsWorkflowDefinition.PublishedSpecified.md) | 
-| [RequiresAssociationForm](WorkflowsWorkflowDefinition.RequiresAssociationForm.md) | 
-| [RequiresAssociationFormSpecified](WorkflowsWorkflowDefinition.RequiresAssociationFormSpecified.md) | 
-| [RequiresInitiationForm](WorkflowsWorkflowDefinition.RequiresInitiationForm.md) | 
-| [RequiresInitiationFormSpecified](WorkflowsWorkflowDefinition.RequiresInitiationFormSpecified.md) | 
-| [RestrictToScope](WorkflowsWorkflowDefinition.RestrictToScope.md) | 
-| [RestrictToType](WorkflowsWorkflowDefinition.RestrictToType.md) | 
-| [RestrictToTypeSpecified](WorkflowsWorkflowDefinition.RestrictToTypeSpecified.md) | 
-| [XamlPath](WorkflowsWorkflowDefinition.XamlPath.md) | 
+| [Properties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.Properties.md) | 
+| [FormField](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.FormField.md) | 
+| [Id](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.Id.md) | 
+| [AssociationUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.AssociationUrl.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.Description.md) | 
+| [DisplayName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.DisplayName.md) | 
+| [DraftVersion](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.DraftVersion.md) | 
+| [InitiationUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.InitiationUrl.md) | 
+| [Published](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.Published.md) | 
+| [PublishedSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.PublishedSpecified.md) | 
+| [RequiresAssociationForm](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RequiresAssociationForm.md) | 
+| [RequiresAssociationFormSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RequiresAssociationFormSpecified.md) | 
+| [RequiresInitiationForm](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RequiresInitiationForm.md) | 
+| [RequiresInitiationFormSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RequiresInitiationFormSpecified.md) | 
+| [RestrictToScope](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RestrictToScope.md) | 
+| [RestrictToType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RestrictToType.md) | 
+| [RestrictToTypeSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.RestrictToTypeSpecified.md) | 
+| [XamlPath](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.XamlPath.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

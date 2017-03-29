@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.Configuration.ConfigurationSection](System.Configuration.ConfigurationSection.md)
 ## Syntax
@@ -13,11 +13,11 @@ public class LogConfigurationTracingSection: ConfigurationSection
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogConfigurationTracingSection()](LogConfigurationTracingSectionconstructor1details.md) | 
+| [LogConfigurationTracingSection()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogLevel](LogConfigurationTracingSection.LogLevel.md) | 
-| [Logger](LogConfigurationTracingSection.Logger.md) | 
+| [LogLevel](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.LogLevel.md) | 
+| [Logger](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.Logger.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

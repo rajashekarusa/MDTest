@@ -3,7 +3,7 @@ Defines a single file in the PnP Open XML file package
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class PnPPackageFileItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackageFileItem()](PnPPackageFileItemconstructor1details.md) | 
+| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](PnPPackageFileItem.Name.md) | 
-| [Folder](PnPPackageFileItem.Folder.md) | 
-| [Content](PnPPackageFileItem.Content.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Name.md) | 
+| [Folder](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Folder.md) | 
+| [Content](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Content.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

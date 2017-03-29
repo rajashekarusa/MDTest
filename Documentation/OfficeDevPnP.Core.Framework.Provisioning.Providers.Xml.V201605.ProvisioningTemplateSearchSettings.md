@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class ProvisioningTemplateSearchSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateSearchSettings()](ProvisioningTemplateSearchSettingsconstructor1details.md) | 
+| [ProvisioningTemplateSearchSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteSearchSettings](ProvisioningTemplateSearchSettings.SiteSearchSettings.md) | 
-| [WebSearchSettings](ProvisioningTemplateSearchSettings.WebSearchSettings.md) | 
+| [SiteSearchSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.SiteSearchSettings.md) | 
+| [WebSearchSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.WebSearchSettings.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

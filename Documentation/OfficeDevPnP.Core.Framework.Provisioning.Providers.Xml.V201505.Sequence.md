@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,15 +12,15 @@ public class Sequence
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Sequence()](Sequenceconstructor1details.md) | 
+| [Sequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteCollection](Sequence.SiteCollection.md) | 
-| [Site](Sequence.Site.md) | 
-| [TermStore](Sequence.TermStore.md) | 
-| [Extensions](Sequence.Extensions.md) | 
-| [SequenceType](Sequence.SequenceType.md) | 
-| [ID](Sequence.ID.md) | 
+| [SiteCollection](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.SiteCollection.md) | 
+| [Site](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.Site.md) | 
+| [TermStore](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.TermStore.md) | 
+| [Extensions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.Extensions.md) | 
+| [SequenceType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.SequenceType.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Sequence.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

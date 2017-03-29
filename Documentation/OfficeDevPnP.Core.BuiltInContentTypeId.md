@@ -3,15 +3,15 @@ A class that returns strings that represent identifiers (IDs) for built-in conte
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
-public class BuiltInContentTypeId
+public static class BuiltInContentTypeId
 ```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Contains(String)](BuiltInContentTypeIdContainsString.md) | 
+| [Contains(String)](OfficeDevPnP.Core.BuiltInContentTypeId.ContainsString.md) | 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

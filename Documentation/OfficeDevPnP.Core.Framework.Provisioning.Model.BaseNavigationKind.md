@@ -3,7 +3,7 @@ Base abstract class for the navigation kinds (global or current)
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
@@ -13,18 +13,18 @@ public class BaseNavigationKind: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseNavigationKind()](BaseNavigationKindconstructor1details.md) | 
-| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](BaseNavigationKindconstructor1details.md) | 
+| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.Constructor1details.md) | 
+| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.Constructor2details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation](BaseNavigationKind.StructuralNavigation.md) | Defines the Structural Navigation settings of the site
-| [ManagedNavigation](BaseNavigationKind.ManagedNavigation.md) | Defines the Managed Navigation settings of the site
+| [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.StructuralNavigation.md) | Defines the Structural Navigation settings of the site
+| [ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ManagedNavigation.md) | Defines the Managed Navigation settings of the site
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](BaseNavigationKindGetHashCode.md) | 
-| [Equals(Object)](BaseNavigationKindEqualsObject.md) | 
-| [Equals(BaseNavigationKind)](BaseNavigationKindEqualsBaseNavigationKind.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.GetHashCode.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.EqualsObject.md) | 
+| [Equals(BaseNavigationKind)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.EqualsBaseNavigationKind.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

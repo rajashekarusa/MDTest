@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class GetProfileSchemaNameByAccountNameCompletedEventHandler: MulticastDe
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetProfileSchemaNameByAccountNameCompletedEventHandler(Object, IntPtr)](GetProfileSchemaNameByAccountNameCompletedEventHandlerconstructor1details.md) | 
+| [GetProfileSchemaNameByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.Constructor1details.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs)](GetProfileSchemaNameByAccountNameCompletedEventHandlerInvokeObjectGetProfileSchemaNameByAccountNameCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs, AsyncCallback, Object)](GetProfileSchemaNameByAccountNameCompletedEventHandlerBeginInvokeObjectGetProfileSchemaNameByAccountNameCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](GetProfileSchemaNameByAccountNameCompletedEventHandlerEndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.InvokeObjectGetProfileSchemaNameByAccountNameCompletedEventArgs.md) | 
+| [BeginInvoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.BeginInvokeObjectGetProfileSchemaNameByAccountNameCompletedEventArgsAsyncCallbackObject.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.EndInvokeIAsyncResult.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

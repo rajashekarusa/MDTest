@@ -3,7 +3,7 @@ Controls of type 4 ( = text control)
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
 ## Syntax
@@ -13,17 +13,17 @@ public class ClientSideText: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideText()](ClientSideTextconstructor1details.md) | 
+| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Text](ClientSideText.Text.md) | 
-| [Rte](ClientSideText.Rte.md) | 
-| [Type](ClientSideText.Type.md) | 
+| [Text](OfficeDevPnP.Core.Pages.ClientSideText.Text.md) | 
+| [Rte](OfficeDevPnP.Core.Pages.ClientSideText.Rte.md) | 
+| [Type](OfficeDevPnP.Core.Pages.ClientSideText.Type.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToHtml()](ClientSideTextToHtml.md) | 
-| [FromHtml(AngleSharp.Dom.IElement)](ClientSideTextFromHtmlAngleSharp.Dom.IElement.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.ToHtml.md) | 
+| [FromHtml(AngleSharp.Dom.IElement)](OfficeDevPnP.Core.Pages.ClientSideText.FromHtmlAngleSharp.Dom.IElement.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

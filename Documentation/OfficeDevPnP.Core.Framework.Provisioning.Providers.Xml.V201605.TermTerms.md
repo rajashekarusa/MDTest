@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class TermTerms
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermTerms()](TermTermsconstructor1details.md) | 
+| [TermTerms()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Items](TermTerms.Items.md) | 
+| [Items](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms.Items.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

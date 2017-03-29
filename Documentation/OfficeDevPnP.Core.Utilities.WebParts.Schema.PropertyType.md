@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,14 +12,14 @@ public class PropertyType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyType()](PropertyTypeconstructor1details.md) | 
+| [PropertyType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Value](PropertyType.Value.md) | 
-| [Name](PropertyType.Name.md) | 
-| [Type](PropertyType.Type.md) | 
-| [Null](PropertyType.Null.md) | 
-| [NullSpecified](PropertyType.NullSpecified.md) | 
+| [Value](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Value.md) | 
+| [Name](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Name.md) | 
+| [Type](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Type.md) | 
+| [Null](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Null.md) | 
+| [NullSpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.NullSpecified.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

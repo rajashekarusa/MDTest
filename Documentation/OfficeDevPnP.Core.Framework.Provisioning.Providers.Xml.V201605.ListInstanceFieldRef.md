@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefFull](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefFull.md)
 ## Syntax
@@ -13,10 +13,10 @@ public class ListInstanceFieldRef: FieldRefFull
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceFieldRef()](ListInstanceFieldRefconstructor1details.md) | 
+| [ListInstanceFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceFieldRef.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [DisplayName](ListInstanceFieldRef.DisplayName.md) | 
+| [DisplayName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceFieldRef.DisplayName.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

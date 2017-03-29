@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class UserEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserEntity()](UserEntityconstructor1details.md) | 
+| [UserEntity()](OfficeDevPnP.Core.Entities.UserEntity.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Title](UserEntity.Title.md) | 
-| [Email](UserEntity.Email.md) | 
-| [LoginName](UserEntity.LoginName.md) | 
+| [Title](OfficeDevPnP.Core.Entities.UserEntity.Title.md) | 
+| [Email](OfficeDevPnP.Core.Entities.UserEntity.Email.md) | 
+| [LoginName](OfficeDevPnP.Core.Entities.UserEntity.LoginName.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

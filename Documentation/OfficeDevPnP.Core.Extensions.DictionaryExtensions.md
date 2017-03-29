@@ -3,15 +3,15 @@ Extension type for Dictionaries
 
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
-public class DictionaryExtensions
+public static class DictionaryExtensions
 ```
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddRange(Collections.Generic.IDictionary2<TKey,TValue>, Collections.Generic.IDictionary2<TKey,TValue>)](DictionaryExtensionsAddRangeCollections.Generic.IDictionary2<TKey,TValue>Collections.Generic.IDictionary2<TKey,TValue>.md) | 
+| [AddRange(Collections.Generic.IDictionary<TKey,TValue>, Collections.Generic.IDictionary<TKey,TValue>)](OfficeDevPnP.Core.Extensions.DictionaryExtensions.AddRangeCollections.Generic.IDictionary<TKey,TValue>Collections.Generic.IDictionary<TKey,TValue>.md) | 
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

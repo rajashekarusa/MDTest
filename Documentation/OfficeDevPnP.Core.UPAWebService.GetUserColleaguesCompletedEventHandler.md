@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class GetUserColleaguesCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserColleaguesCompletedEventHandler(Object, IntPtr)](GetUserColleaguesCompletedEventHandlerconstructor1details.md) | 
+| [GetUserColleaguesCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.Constructor1details.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserColleaguesCompletedEventArgs)](GetUserColleaguesCompletedEventHandlerInvokeObjectGetUserColleaguesCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetUserColleaguesCompletedEventArgs, AsyncCallback, Object)](GetUserColleaguesCompletedEventHandlerBeginInvokeObjectGetUserColleaguesCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](GetUserColleaguesCompletedEventHandlerEndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetUserColleaguesCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.InvokeObjectGetUserColleaguesCompletedEventArgs.md) | 
+| [BeginInvoke(Object, GetUserColleaguesCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.BeginInvokeObjectGetUserColleaguesCompletedEventArgsAsyncCallbackObject.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.EndInvokeIAsyncResult.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,13 +12,13 @@ public class PropertyContainerType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyContainerType()](PropertyContainerTypeconstructor1details.md) | 
+| [PropertyContainerType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Property](PropertyContainerType.Property.md) | 
-| [PropertySpecified](PropertyContainerType.PropertySpecified.md) | 
-| [Ipersonalizable](PropertyContainerType.Ipersonalizable.md) | 
-| [IpersonalizableSpecified](PropertyContainerType.IpersonalizableSpecified.md) | 
+| [Property](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Property.md) | 
+| [PropertySpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.PropertySpecified.md) | 
+| [Ipersonalizable](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Ipersonalizable.md) | 
+| [IpersonalizableSpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.IpersonalizableSpecified.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

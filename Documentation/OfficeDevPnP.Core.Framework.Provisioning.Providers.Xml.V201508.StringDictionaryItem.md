@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,11 +12,11 @@ public class StringDictionaryItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StringDictionaryItem()](StringDictionaryItemconstructor1details.md) | 
+| [StringDictionaryItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Key](StringDictionaryItem.Key.md) | 
-| [Value](StringDictionaryItem.Value.md) | 
+| [Key](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.Key.md) | 
+| [Value](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.Value.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

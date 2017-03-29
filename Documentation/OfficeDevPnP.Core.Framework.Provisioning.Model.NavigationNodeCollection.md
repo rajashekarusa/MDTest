@@ -3,16 +3,16 @@ A collection of NavigationNode objects
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode>](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection`1<OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode>.md)
+-- [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md)
 ## Syntax
 ```C#
-public class NavigationNodeCollection: NavigationNode>
+public class NavigationNodeCollection: ProvisioningTemplateCollection<NavigationNode>
 ```
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNodeCollection(ProvisioningTemplate)](NavigationNodeCollectionconstructor1details.md) | 
+| [NavigationNodeCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.Constructor1details.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

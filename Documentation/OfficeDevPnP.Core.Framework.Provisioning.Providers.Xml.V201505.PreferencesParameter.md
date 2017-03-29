@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class PreferencesParameter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PreferencesParameter()](PreferencesParameterconstructor1details.md) | 
+| [PreferencesParameter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PreferencesParameter.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Key](PreferencesParameter.Key.md) | 
-| [Required](PreferencesParameter.Required.md) | 
-| [Text](PreferencesParameter.Text.md) | 
+| [Key](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PreferencesParameter.Key.md) | 
+| [Required](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PreferencesParameter.Required.md) | 
+| [Text](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PreferencesParameter.Text.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class YammerUserStats
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserStats()](YammerUserStatsconstructor1details.md) | 
+| [YammerUserStats()](OfficeDevPnP.Core.Entities.YammerUserStats.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [following](YammerUserStats.following.md) | 
-| [followers](YammerUserStats.followers.md) | 
-| [updates](YammerUserStats.updates.md) | 
+| [following](OfficeDevPnP.Core.Entities.YammerUserStats.following.md) | 
+| [followers](OfficeDevPnP.Core.Entities.YammerUserStats.followers.md) | 
+| [updates](OfficeDevPnP.Core.Entities.YammerUserStats.updates.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

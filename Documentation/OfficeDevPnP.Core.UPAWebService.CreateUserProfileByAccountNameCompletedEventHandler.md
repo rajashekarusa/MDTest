@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class CreateUserProfileByAccountNameCompletedEventHandler: MulticastDeleg
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CreateUserProfileByAccountNameCompletedEventHandler(Object, IntPtr)](CreateUserProfileByAccountNameCompletedEventHandlerconstructor1details.md) | 
+| [CreateUserProfileByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.Constructor1details.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, CreateUserProfileByAccountNameCompletedEventArgs)](CreateUserProfileByAccountNameCompletedEventHandlerInvokeObjectCreateUserProfileByAccountNameCompletedEventArgs.md) | 
-| [BeginInvoke(Object, CreateUserProfileByAccountNameCompletedEventArgs, AsyncCallback, Object)](CreateUserProfileByAccountNameCompletedEventHandlerBeginInvokeObjectCreateUserProfileByAccountNameCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](CreateUserProfileByAccountNameCompletedEventHandlerEndInvokeIAsyncResult.md) | 
+| [Invoke(Object, CreateUserProfileByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.InvokeObjectCreateUserProfileByAccountNameCompletedEventArgs.md) | 
+| [BeginInvoke(Object, CreateUserProfileByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.BeginInvokeObjectCreateUserProfileByAccountNameCompletedEventArgsAsyncCallbackObject.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.EndInvokeIAsyncResult.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

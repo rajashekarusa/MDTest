@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,12 +12,12 @@ public class PinnedLinkData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PinnedLinkData()](PinnedLinkDataconstructor1details.md) | 
+| [PinnedLinkData()](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](PinnedLinkData.Name.md) | 
-| [Url](PinnedLinkData.Url.md) | 
-| [ID](PinnedLinkData.ID.md) | 
+| [Name](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.Name.md) | 
+| [Url](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.Url.md) | 
+| [ID](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

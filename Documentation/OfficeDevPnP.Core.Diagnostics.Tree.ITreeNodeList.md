@@ -1,19 +1,15 @@
-# Tree`1
+# ITreeNodeList
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
-System.Object  
--- [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode`1<T>](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode`1<T>.md)
 ## Syntax
 ```C#
-public class Tree`1: TreeNode`1<T>
+public interface ITreeNodeList
 ```
-## Constructors
+## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Tree`1()](Tree`1constructor1details.md) | 
-| [Tree`1(T)](Tree`1constructor1details.md) | 
+| [Add(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeList.AddITreeNode.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

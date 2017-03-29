@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 -- [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
@@ -13,12 +13,12 @@ public class GetUserProfileSchemaCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserProfileSchemaCompletedEventHandler(Object, IntPtr)](GetUserProfileSchemaCompletedEventHandlerconstructor1details.md) | 
+| [GetUserProfileSchemaCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.Constructor1details.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserProfileSchemaCompletedEventArgs)](GetUserProfileSchemaCompletedEventHandlerInvokeObjectGetUserProfileSchemaCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetUserProfileSchemaCompletedEventArgs, AsyncCallback, Object)](GetUserProfileSchemaCompletedEventHandlerBeginInvokeObjectGetUserProfileSchemaCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](GetUserProfileSchemaCompletedEventHandlerEndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetUserProfileSchemaCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.InvokeObjectGetUserProfileSchemaCompletedEventArgs.md) | 
+| [BeginInvoke(Object, GetUserProfileSchemaCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.BeginInvokeObjectGetUserProfileSchemaCompletedEventArgsAsyncCallbackObject.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.EndInvokeIAsyncResult.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

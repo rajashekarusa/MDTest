@@ -3,7 +3,7 @@
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
-## Classes
+## Inheritance Hierarchy
 System.Object  
 ## Syntax
 ```C#
@@ -12,10 +12,10 @@ public class SPTimeZone
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SPTimeZone()](SPTimeZoneconstructor1details.md) | 
+| [SPTimeZone()](OfficeDevPnP.Core.UPAWebService.SPTimeZone.Constructor1details.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ID](SPTimeZone.ID.md) | 
+| [ID](OfficeDevPnP.Core.UPAWebService.SPTimeZone.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
