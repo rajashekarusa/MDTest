@@ -1,0 +1,9 @@
+# TemplateProviderBase.TemplateProviderBase members 
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
+## Syntax
+```C#
+public TemplateProviderBase()
+```
+## See also
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
