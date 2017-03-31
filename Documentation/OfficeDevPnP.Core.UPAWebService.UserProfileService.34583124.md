@@ -1,22 +1,29 @@
-String, Guid, String# UserProfileService.RemoveMembership members
+# UserProfileService.RemoveMembership Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RemoveMembership(String, Guid, String)
+public void RemoveMembership(String accountName,Guid sourceInternal,String sourceReference)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### sourceInternal
-Type: [System.Guid](System.Guid.md) 
-#### 
-#### sourceReference
-Type: [System.String](System.String.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*sourceInternal*  
+&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;  
+  
+*sourceReference*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

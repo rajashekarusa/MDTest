@@ -5,7 +5,7 @@ Represents a security token which contains multiple security keys that are gener
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.IdentityModel.Tokens.SecurityToken](System.IdentityModel.Tokens.SecurityToken.md)
+--  [System.IdentityModel.Tokens.SecurityToken](System.IdentityModel.Tokens.SecurityToken.md)
 ## Syntax
 ```C#
 public class MultipleSymmetricKeySecurityToken: SecurityToken
@@ -13,8 +13,8 @@ public class MultipleSymmetricKeySecurityToken: SecurityToken
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MultipleSymmetricKeySecurityToken(IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.ctor1.md) | 
-| [MultipleSymmetricKeySecurityToken(String, IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.ctor2.md) | 
+| [MultipleSymmetricKeySecurityToken(IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.ctor1.md) |  Represents a security token which contains multiple security keys that are generated using symmetric algorithms. 
+| [MultipleSymmetricKeySecurityToken(String, IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.ctor2.md) |  Represents a security token which contains multiple security keys that are generated using symmetric algorithms. 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,7 +25,6 @@ public class MultipleSymmetricKeySecurityToken: SecurityToken
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [MatchesKeyIdentifierClause(SecurityKeyIdentifierClause)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.E7DCE578.md) | Returns a value that indicates whether the key identifier for this instance can be resolved to the specified key identifier.
-| [CreateSymmetricSecurityKeys(IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.4035F3E.md) | 
+| [MatchesKeyIdentifierClause(SecurityKeyIdentifierClause)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.e7dce578.md) | Returns a value that indicates whether the key identifier for this instance can be resolved to the specified key identifier.
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

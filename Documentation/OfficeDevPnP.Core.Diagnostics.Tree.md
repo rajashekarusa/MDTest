@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Diagnostics.Tree
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

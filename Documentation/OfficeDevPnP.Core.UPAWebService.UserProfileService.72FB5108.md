@@ -1,4 +1,4 @@
-# UserProfileService.GetUserProfileSchema members
+# UserProfileService.GetUserProfileSchema Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
@@ -8,5 +8,9 @@
 public  GetUserProfileSchema()
 ```
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]](OfficeDevPnP.Core.UPAWebService.PropertyInfo[].md)## See also
+Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]](OfficeDevPnP.Core.UPAWebService.PropertyInfo[].md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

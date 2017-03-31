@@ -1,16 +1,17 @@
-Term# Term.Equals members
-  
-
+# Term.Equals Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(Term)
+public boolean Equals(Term other)
 ```
 ### Parameters
-#### other
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
-#### 
+*other*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

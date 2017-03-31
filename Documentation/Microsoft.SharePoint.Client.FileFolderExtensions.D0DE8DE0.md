@@ -1,4 +1,4 @@
-File, String# FileFolderExtensions.VerifyIfUploadRequired members
+# FileFolderExtensions.VerifyIfUploadRequired Method  
 Used to compare the server file to the local file.
             This enables users with faster download speeds but slow upload speeds to evaluate if the server file should be overwritten.  
 
@@ -6,15 +6,19 @@ Used to compare the server file to the local file.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean VerifyIfUploadRequired(File, String)
+public static boolean VerifyIfUploadRequired(File serverFile,String localFile)
 ```
 ### Parameters
-#### serverFile
-Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md) 
-#### 
-#### localFile
-Type: [System.String](System.String.md) 
-#### 
+*serverFile*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md) 
+&emsp;&emsp;  
+  
+*localFile*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -1,22 +1,29 @@
-String, String, String# UserProfileService.AddPinnedLinkAsync members
+# UserProfileService.AddPinnedLinkAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddPinnedLinkAsync(String, String, String)
+public void AddPinnedLinkAsync(String accountName,String name,String url)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### name
-Type: [System.String](System.String.md) 
-#### 
-#### url
-Type: [System.String](System.String.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*name*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*url*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

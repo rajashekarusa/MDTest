@@ -5,7 +5,7 @@ Collection of ContentType objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md)
 ## Syntax
 ```C#
 public class ContentTypeCollection: ProvisioningTemplateCollection<ContentType>
@@ -13,6 +13,6 @@ public class ContentTypeCollection: ProvisioningTemplateCollection<ContentType>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection.ctor1.md) | 
+| [ContentTypeCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection.ctor1.md) |  Collection of ContentType objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,19 +1,21 @@
-String, ProvisioningMessageType# ProvisioningMessagesDelegate.Invoke members
-  
-
+# ProvisioningMessagesDelegate.Invoke Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Invoke(String, ProvisioningMessageType)
+public void Invoke(String message,ProvisioningMessageType messageType)
 ```
 ### Parameters
-#### message
-Type: [System.String](System.String.md) 
-#### 
-#### messageType
-Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType.md) 
-#### 
+*message*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*messageType*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

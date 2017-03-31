@@ -1,28 +1,37 @@
-String, MembershipData, String, Privacy, Object# UserProfileService.AddMembershipAsync members
+# UserProfileService.AddMembershipAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddMembershipAsync(String, MembershipData, String, Privacy, Object)
+public void AddMembershipAsync(String accountName,MembershipData membershipInfo,String group,Privacy privacy,Object userState)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### membershipInfo
-Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
-#### 
-#### group
-Type: [System.String](System.String.md) 
-#### 
-#### privacy
-Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
-#### 
-#### userState
-Type: [System.Object](System.Object.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*membershipInfo*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
+&emsp;&emsp;  
+  
+*group*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*privacy*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
+&emsp;&emsp;  
+  
+*userState*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

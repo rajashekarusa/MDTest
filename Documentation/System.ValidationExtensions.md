@@ -1,6 +1,4 @@
 # ValidationExtensions
-  
-
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -12,6 +10,6 @@ public static class ValidationExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ValidateNotNullOrEmpty(T, String)](System.ValidationExtensions.4B2EC538.md) | Validates an object for not being null or not being the default value
+| [ValidateNotNullOrEmpty(T, String)](System.ValidationExtensions.4b2ec538.md) | Validates an object for not being null or not being the default value
 ## See also
 - [System](System.md)

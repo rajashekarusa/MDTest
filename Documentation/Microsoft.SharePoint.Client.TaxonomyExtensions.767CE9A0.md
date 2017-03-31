@@ -1,4 +1,4 @@
-Site, String[], Int32, String, Boolean# TaxonomyExtensions.ImportTerms members
+# TaxonomyExtensions.ImportTerms Method  
 Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format:
              TermGroup|TermSet|Term
              
@@ -8,24 +8,31 @@ Imports an array of | delimited strings into the deafult site collection termsto
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ImportTerms(Site, String[], Int32, String, Boolean)
+public static void ImportTerms(Site site,String[] termLines,Int32 lcid,String delimiter,Boolean synchronizeDeletions)
 ```
 ### Parameters
-#### site
-Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-#### 
-#### termLines
-Type: [System.String[]](System.String[].md) 
-#### 
-#### lcid
-Type: [System.Int32](System.Int32.md) 
-#### 
-#### (optional) delimiter
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) synchronizeDeletions
-Type: [System.Boolean](System.Boolean.md) 
-#### 
+*site*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
+&emsp;&emsp;  
+  
+*termLines*  
+&emsp;&emsp;Type: [System.String[]](System.String[].md) 
+&emsp;&emsp;  
+  
+*lcid*  
+&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;  
+  
+*(optional) delimiter*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) synchronizeDeletions*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

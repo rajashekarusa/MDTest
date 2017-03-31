@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class GetInCommonCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class GetInCommonCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetInCommonCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.B42C12BB.md) | 
-| [BeginInvoke(Object, GetInCommonCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.4A5EA0B5.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, GetInCommonCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.b42c12bb.md) | 
+| [BeginInvoke(Object, GetInCommonCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.4a5ea0b5.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

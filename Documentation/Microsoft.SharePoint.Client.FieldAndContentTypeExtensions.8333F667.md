@@ -1,22 +1,27 @@
-Web, String, String# FieldAndContentTypeExtensions.RemoveContentTypeFromListByName members
+# FieldAndContentTypeExtensions.RemoveContentTypeFromListByName Method  
 Removes content type from list  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveContentTypeFromListByName(Web, String, String)
+public static void RemoveContentTypeFromListByName(Web web,String listTitle,String contentTypeName)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### listTitle
-Type: [System.String](System.String.md) 
-#### 
-#### contentTypeName
-Type: [System.String](System.String.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*listTitle*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*contentTypeName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

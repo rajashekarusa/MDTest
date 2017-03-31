@@ -1,16 +1,17 @@
-JsonWebSecurityToken# SharePointContextToken.Create members
-  
-
+# SharePointContextToken.Create Method  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Create(JsonWebSecurityToken)
+public static  Create(JsonWebSecurityToken contextToken)
 ```
 ### Parameters
-#### contextToken
-Type: [SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken](SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken.md) 
-#### 
+*contextToken*  
+&emsp;&emsp;Type: [SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken](SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [OfficeDevPnP.Core.Utilities.SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md)## See also
+Type: [OfficeDevPnP.Core.Utilities.SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md 
+)
+## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

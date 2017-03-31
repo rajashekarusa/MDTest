@@ -5,7 +5,7 @@ Domain Object used in the Provisioning template that defines a Localization item
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class Localization: BaseModel
@@ -13,8 +13,8 @@ public class Localization: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Localization()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor1.md) | 
-| [Localization(Int32, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor2.md) | 
+| [Localization()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor1.md) |  Domain Object used in the Provisioning template that defines a Localization item 
+| [Localization(Int32, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor2.md) |  Domain Object used in the Provisioning template that defines a Localization item 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class Localization: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.3520DDBB.md) | 
-| [Equals(Localization)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.8AE42B7D.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.3520ddbb.md) | 
+| [Equals(Localization)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.8ae42b7d.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

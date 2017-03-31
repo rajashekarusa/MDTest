@@ -1,17 +1,20 @@
-String# CredentialManager.GetCredential members
+# CredentialManager.GetCredential Method  
 Returns a NetworkCredential given a certain name. Add the credential in the Windows Credential Manager and create a new Windows Credential. Then add a new GENERIC Credential. The name parameter in the method maps to the Internet or network address field.  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static net.networkcredential GetCredential(String)
+public static net.networkcredential GetCredential(String name)
 ```
 ### Parameters
-#### name
-Type: [System.String](System.String.md) 
-#### 
+*name*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Net.NetworkCredential](System.Net.NetworkCredential.md)System.Net.NetworkCredential
+Type: [System.Net.NetworkCredential](System.Net.NetworkCredential.md 
+)System.Net.NetworkCredential
+
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

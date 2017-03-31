@@ -1,25 +1,29 @@
-Web, String, IEnumerable<String>, Int32# JavaScriptExtensions.AddJsLink members
-  
-
+# JavaScriptExtensions.AddJsLink Method  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddJsLink(Web, String, IEnumerable<String>, Int32)
+public static boolean AddJsLink(Web web,String key,IEnumerable<String> scriptLinks,Int32 sequence)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### key
-Type: [System.String](System.String.md) 
-#### 
-#### scriptLinks
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md) 
-#### 
-#### (optional) sequence
-Type: [System.Int32](System.Int32.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*key*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*scriptLinks*  
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>](System.Collections.Generic.IEnumerable<System.String>.md) 
+&emsp;&emsp;  
+  
+*(optional) sequence*  
+&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

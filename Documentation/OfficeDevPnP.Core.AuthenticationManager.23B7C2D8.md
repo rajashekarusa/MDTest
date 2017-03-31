@@ -1,34 +1,43 @@
-String, String, String, String, String, String, Int32# AuthenticationManager.RefreshADFSUserNameMixedAuthenticatedContext members
+# AuthenticationManager.RefreshADFSUserNameMixedAuthenticatedContext Method  
 Refreshes the SharePoint FedAuth cookie  
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RefreshADFSUserNameMixedAuthenticatedContext(String, String, String, String, String, String, Int32)
+public void RefreshADFSUserNameMixedAuthenticatedContext(String siteUrl,String user,String password,String domain,String sts,String idpId,Int32 logonTokenCacheExpirationWindow)
 ```
 ### Parameters
-#### siteUrl
-Type: [System.String](System.String.md) 
-#### 
-#### user
-Type: [System.String](System.String.md) 
-#### 
-#### password
-Type: [System.String](System.String.md) 
-#### 
-#### domain
-Type: [System.String](System.String.md) 
-#### 
-#### sts
-Type: [System.String](System.String.md) 
-#### 
-#### idpId
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) logonTokenCacheExpirationWindow
-Type: [System.Int32](System.Int32.md) 
-#### 
+*siteUrl*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*user*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*password*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*domain*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*sts*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*idpId*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) logonTokenCacheExpirationWindow*  
+&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

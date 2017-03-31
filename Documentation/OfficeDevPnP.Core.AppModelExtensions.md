@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.AppModelExtensions
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

@@ -13,7 +13,7 @@ public class YammerUser
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUser()](OfficeDevPnP.Core.Entities.YammerUser.ctor1.md) | 
+| [YammerUser()](OfficeDevPnP.Core.Entities.YammerUser.ctor1.md) |  Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

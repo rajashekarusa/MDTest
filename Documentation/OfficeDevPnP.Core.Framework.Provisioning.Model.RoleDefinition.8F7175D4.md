@@ -1,16 +1,17 @@
-RoleDefinition# RoleDefinition.Equals members
-  
-
+# RoleDefinition.Equals Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(RoleDefinition)
+public boolean Equals(RoleDefinition other)
 ```
 ### Parameters
-#### other
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
-#### 
+*other*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

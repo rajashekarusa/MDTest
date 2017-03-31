@@ -1,22 +1,29 @@
-String, Int32, Object# UserProfileService.RemoveLinkAsync members
+# UserProfileService.RemoveLinkAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RemoveLinkAsync(String, Int32, Object)
+public void RemoveLinkAsync(String accountName,Int32 id,Object userState)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### id
-Type: [System.Int32](System.Int32.md) 
-#### 
-#### userState
-Type: [System.Object](System.Object.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*id*  
+&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;  
+  
+*userState*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Provisioning.Providers
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

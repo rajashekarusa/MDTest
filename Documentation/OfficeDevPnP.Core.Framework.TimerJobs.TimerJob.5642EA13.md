@@ -1,4 +1,4 @@
-String, String# TimerJob.UseOffice365Authentication members
+# TimerJob.UseOffice365Authentication Method  
 Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType 
             to AuthenticationType.Office365  
 
@@ -6,15 +6,19 @@ Prepares the timerjob to operate against Office 365 with user and password crede
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UseOffice365Authentication(String, String)
+public void UseOffice365Authentication(String userUPN,String password)
 ```
 ### Parameters
-#### userUPN
-Type: [System.String](System.String.md) 
-#### 
-#### password
-Type: [System.String](System.String.md) 
-#### 
+*userUPN*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*password*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

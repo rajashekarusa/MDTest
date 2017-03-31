@@ -5,7 +5,7 @@ Defines a Workflow Definition to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class WorkflowDefinition: BaseModel
@@ -13,8 +13,8 @@ public class WorkflowDefinition: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) | 
-| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) | 
+| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) |  Defines a Workflow Definition to provision 
+| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) |  Defines a Workflow Definition to provision 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -35,8 +35,8 @@ public class WorkflowDefinition: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.3520DDBB.md) | 
-| [Equals(WorkflowDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ACEE4A32.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.3520ddbb.md) | 
+| [Equals(WorkflowDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.acee4a32.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

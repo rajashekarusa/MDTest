@@ -12,8 +12,7 @@ public static class BaseTemplateManager
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetBaseTemplate(Web)](Microsoft.SharePoint.Client.BaseTemplateManager.3FE26ED8.md) | 
-| [GetBaseTemplate(Web, String, Int16)](Microsoft.SharePoint.Client.BaseTemplateManager.A2EC7474.md) | 
-| [GetSharePointVersion()](Microsoft.SharePoint.Client.BaseTemplateManager.907A52ED.md) | 
+| [GetBaseTemplate(Web)](Microsoft.SharePoint.Client.BaseTemplateManager.3fe26ed8.md) | 
+| [GetBaseTemplate(Web, String, Int16)](Microsoft.SharePoint.Client.BaseTemplateManager.a2ec7474.md) | 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -1,0 +1,20 @@
+# CustomAction.Properties Url
+  
+
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
+## Syntax
+```C#
+public string Url { get; }
+public string Url { set; }
+```
+
+### Property Value
+Type: [System.String](System.String.md) 
+
+## Remarks 
+
+## See also
+- [CustomAction](CustomAction.md) 
+
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

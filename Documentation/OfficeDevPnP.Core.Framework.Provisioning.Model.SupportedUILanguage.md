@@ -5,7 +5,7 @@ Defines a single Supported UI Language for a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class SupportedUILanguage: BaseModel
@@ -13,7 +13,7 @@ public class SupportedUILanguage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) | 
+| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) |  Defines a single Supported UI Language for a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,8 +21,8 @@ public class SupportedUILanguage: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.3520DDBB.md) | 
-| [Equals(SupportedUILanguage)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.D3E6FEEE.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.3520ddbb.md) | 
+| [Equals(SupportedUILanguage)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.d3e6feee.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

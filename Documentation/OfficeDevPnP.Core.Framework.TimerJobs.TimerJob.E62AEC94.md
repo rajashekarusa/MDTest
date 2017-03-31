@@ -1,22 +1,27 @@
-String, SecureString, String# TimerJob.SetEnumerationCredentials members
+# TimerJob.SetEnumerationCredentials Method  
 Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void SetEnumerationCredentials(String, SecureString, String)
+public void SetEnumerationCredentials(String samAccountName,SecureString password,String domain)
 ```
 ### Parameters
-#### samAccountName
-Type: [System.String](System.String.md) 
-#### 
-#### password
-Type: [System.Security.SecureString](System.Security.SecureString.md) 
-#### 
-#### domain
-Type: [System.String](System.String.md) 
-#### 
+*samAccountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*password*  
+&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
+&emsp;&emsp;  
+  
+*domain*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

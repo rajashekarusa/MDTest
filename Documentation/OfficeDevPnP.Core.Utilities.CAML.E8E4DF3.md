@@ -1,20 +1,22 @@
-OrderByField[]# CAML.OrderBy members
-  
-
+# CAML.OrderBy Method  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string OrderBy(OrderByField[])
+public static string OrderBy(OrderByField[] fieldRefs)
 ```
 ### Parameters
-#### fieldRefs
-Type: [OfficeDevPnP.Core.Utilities.OrderByField[]](OfficeDevPnP.Core.Utilities.OrderByField[].md) 
-#### 
+*fieldRefs*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Utilities.OrderByField[]](OfficeDevPnP.Core.Utilities.OrderByField[].md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.String](System.String.md)## Examples
+Type: [System.String](System.String.md 
+)
+## Examples
 ```C#
  CAML.ViewQuery( CAML.Where( CAML.And( CAML.Eq(CAML.FieldValue("Project", "Integer", "{0}")), CAML.Geq(CAML.FieldValue("StartDate","DateTime", CAML.Today())) ) ), CAML.OrderBy( new OrderByField("StartDate", false), new OrderByField("Title") ), rowLimit: 5 ); 
 ```
+
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

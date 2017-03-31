@@ -1,16 +1,17 @@
-GetUserLinksCompletedEventHandler# UserProfileService.remove_GetUserLinksCompleted members
-  
-
+# UserProfileService.remove_GetUserLinksCompleted Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_GetUserLinksCompleted(GetUserLinksCompletedEventHandler)
+public void remove_GetUserLinksCompleted(GetUserLinksCompletedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

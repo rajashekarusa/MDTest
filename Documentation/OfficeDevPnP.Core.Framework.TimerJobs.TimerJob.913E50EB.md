@@ -1,4 +1,4 @@
-String, String# TimerJob.UseAppOnlyAuthentication members
+# TimerJob.UseAppOnlyAuthentication Method  
 Prepares the timerjob to operate against SharePoint on-premises with app-only credentials. Sets AuthenticationType 
             to AuthenticationType.AppOnly  
 
@@ -6,15 +6,19 @@ Prepares the timerjob to operate against SharePoint on-premises with app-only cr
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UseAppOnlyAuthentication(String, String)
+public void UseAppOnlyAuthentication(String clientId,String clientSecret)
 ```
 ### Parameters
-#### clientId
-Type: [System.String](System.String.md) 
-#### 
-#### clientSecret
-Type: [System.String](System.String.md) 
-#### 
+*clientId*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*clientSecret*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

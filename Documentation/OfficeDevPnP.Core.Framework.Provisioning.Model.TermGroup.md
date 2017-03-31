@@ -1,11 +1,9 @@
 # TermGroup
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class TermGroup: BaseModel
@@ -28,8 +26,8 @@ public class TermGroup: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.3520DDBB.md) | 
-| [Equals(TermGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.2061D3D1.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.3520ddbb.md) | 
+| [Equals(TermGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.2061d3d1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

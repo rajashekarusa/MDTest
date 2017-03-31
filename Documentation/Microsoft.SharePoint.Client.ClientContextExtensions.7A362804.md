@@ -1,4 +1,4 @@
-ClientRuntimeContext# ClientContextExtensions.GetSiteCollectionContext members
+# ClientContextExtensions.GetSiteCollectionContext Method  
 Gets a site collection context for the passed web. This site collection client context uses the same credentials
             as the passed client context  
 
@@ -6,13 +6,16 @@ Gets a site collection context for the passed web. This site collection client c
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetSiteCollectionContext(ClientRuntimeContext)
+public static  GetSiteCollectionContext(ClientRuntimeContext clientContext)
 ```
 ### Parameters
-#### clientContext
-Type: [Microsoft.SharePoint.Client.ClientRuntimeContext](Microsoft.SharePoint.Client.ClientRuntimeContext.md) 
-#### 
+*clientContext*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext](Microsoft.SharePoint.Client.ClientRuntimeContext.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)A site collection client context object for the site collection
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md 
+)A site collection client context object for the site collection
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

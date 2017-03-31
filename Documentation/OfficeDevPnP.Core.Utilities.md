@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Utilities
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

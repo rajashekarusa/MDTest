@@ -1,6 +1,4 @@
-# ClientSidePage.Delete members
-  
-
+# ClientSidePage.Delete Method  
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,5 +6,7 @@
 public void Delete()
 ```
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

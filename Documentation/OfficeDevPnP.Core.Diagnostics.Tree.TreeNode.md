@@ -1,6 +1,4 @@
 # TreeNode
-  
-
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -32,7 +30,7 @@ public class TreeNode
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [SetParent(ITreeNode, Boolean)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.BA4C22D7.md) | 
-| [ToString()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.B40365CF.md) | 
+| [SetParent(ITreeNode, Boolean)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ba4c22d7.md) | 
+| [ToString()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.b40365cf.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

@@ -5,7 +5,7 @@ Collection of RoleDefinition objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md)
 ## Syntax
 ```C#
 public class RoleDefinitionCollection: ProvisioningTemplateCollection<RoleDefinition>
@@ -13,6 +13,6 @@ public class RoleDefinitionCollection: ProvisioningTemplateCollection<RoleDefini
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinitionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection.ctor1.md) | 
+| [RoleDefinitionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection.ctor1.md) |  Collection of RoleDefinition objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

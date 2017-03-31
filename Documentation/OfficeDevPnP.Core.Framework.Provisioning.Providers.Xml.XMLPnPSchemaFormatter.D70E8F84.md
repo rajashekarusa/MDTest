@@ -1,16 +1,17 @@
-Stream# XMLPnPSchemaFormatter.ToProvisioningTemplate members
-  
-
+# XMLPnPSchemaFormatter.ToProvisioningTemplate Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  ToProvisioningTemplate(Stream)
+public  ToProvisioningTemplate(Stream template)
 ```
 ### Parameters
-#### template
-Type: [System.IO.Stream](System.IO.Stream.md) 
-#### 
+*template*  
+&emsp;&emsp;Type: [System.IO.Stream](System.IO.Stream.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)## See also
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

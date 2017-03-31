@@ -1,4 +1,4 @@
-ClientContext, VariationInformation# VariationExtensions.ConfigureVariationsSettings members
+# VariationExtensions.ConfigureVariationsSettings Method  
 Configures the variation settings
             1. Go to "Site Actions" -> "Site settings"
             2. Under "Site collection administration", click "Variation Settings".
@@ -8,15 +8,19 @@ Configures the variation settings
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ConfigureVariationsSettings(ClientContext, VariationInformation)
+public static void ConfigureVariationsSettings(ClientContext context,VariationInformation variationSettings)
 ```
 ### Parameters
-#### context
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
-#### 
-#### variationSettings
-Type: [OfficeDevPnP.Core.Entities.VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
-#### 
+*context*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
+&emsp;&emsp;  
+  
+*variationSettings*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -1,16 +1,17 @@
-ITreeNode# TreeNodeList.Remove members
-  
-
+# TreeNodeList.Remove Method  
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove(ITreeNode)
+public boolean Remove(ITreeNode node)
 ```
 ### Parameters
-#### node
-Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>.md) 
-#### 
+*node*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

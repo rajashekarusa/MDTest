@@ -1,0 +1,18 @@
+# SitePolicyEntity.Properties EmailBodyWithTeamMailbox
+The body of the notification email if there is a site mailbox associated with the site.  
+
+**Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
+## Syntax
+```C#
+public string EmailBodyWithTeamMailbox { get; }
+public string EmailBodyWithTeamMailbox { set; }
+```
+
+### Property Value
+Type: [System.String](System.String.md) 
+
+## See also
+- [SitePolicyEntity](SitePolicyEntity.md) 
+
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,7 +5,7 @@ Domain Object for Content Type Binding in the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class ContentTypeBinding: BaseModel
@@ -13,7 +13,7 @@ public class ContentTypeBinding: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) | 
+| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) |  Domain Object for Content Type Binding in the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class ContentTypeBinding: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.3520DDBB.md) | 
-| [Equals(ContentTypeBinding)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.5D983B29.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.3520ddbb.md) | 
+| [Equals(ContentTypeBinding)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.5d983b29.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,22 +1,25 @@
-Web, String, Expression<Func<List, Object>>[]# ListExtensions.GetListByTitle members
-  
-
+# ListExtensions.GetListByTitle Method  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetListByTitle(Web, String, Expression<Func<List, Object>>[])
+public static  GetListByTitle(Web web,String listTitle,Expression<Func<List, Object>>[] expressions)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### listTitle
-Type: [System.String](System.String.md) 
-#### 
-#### expressions
-Type: [System.Linq.Expressions.Expression`1<System.Func`2<Microsoft.SharePoint.Client.List,System.Object>>[]](System.Linq.Expressions.Expression`1<System.Func`2<Microsoft.SharePoint.Client.List,System.Object>>[].md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*listTitle*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*expressions*  
+&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.List,System.Object>>[]](System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.List,System.Object>>[].md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md)## See also
+Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

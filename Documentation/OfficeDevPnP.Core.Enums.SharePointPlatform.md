@@ -1,6 +1,4 @@
 # SharePointPlatform  enumeration
-  
-
 **Namespace:** [OfficeDevPnP.Core.Enums](OfficeDevPnP.Core.Enums.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax

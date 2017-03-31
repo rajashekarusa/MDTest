@@ -1,16 +1,17 @@
-Byte# SafeConvertExtensions.ToEnum members
-  
-
+# SafeConvertExtensions.ToEnum Method  
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ToEnum(Byte)
+public static  ToEnum(Byte enumValue)
 ```
 ### Parameters
-#### enumValue
-Type: [System.Byte](System.Byte.md) 
-#### 
+*enumValue*  
+&emsp;&emsp;Type: [System.Byte](System.Byte.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [T](T.md)## See also
+Type: [T](T.md 
+)
+## See also
 - [System](System.md)

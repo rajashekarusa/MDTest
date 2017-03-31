@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class GetUserPropertyByAccountNameCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class GetUserPropertyByAccountNameCompletedEventHandler: MulticastDelegat
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserPropertyByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.DFDB8666.md) | 
-| [BeginInvoke(Object, GetUserPropertyByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.B28F3599.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, GetUserPropertyByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.dfdb8666.md) | 
+| [BeginInvoke(Object, GetUserPropertyByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.b28f3599.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

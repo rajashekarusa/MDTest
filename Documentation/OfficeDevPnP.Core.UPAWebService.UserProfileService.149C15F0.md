@@ -1,4 +1,4 @@
-# UserProfileService.GetProfileSchemaNamesAsync members
+# UserProfileService.GetProfileSchemaNamesAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
@@ -8,5 +8,9 @@
 public void GetProfileSchemaNamesAsync()
 ```
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

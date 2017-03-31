@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

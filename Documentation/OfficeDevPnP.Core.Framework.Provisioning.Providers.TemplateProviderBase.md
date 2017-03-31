@@ -1,6 +1,4 @@
 # TemplateProviderBase
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -25,27 +23,22 @@ public class TemplateProviderBase
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetTemplates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.637E3E6B.md) | 
-| [GetTemplates(ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.57D85359.md) | 
-| [GetTemplate(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.63314BCB.md) | 
-| [GetTemplate(String, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.87E64E45.md) | 
-| [GetTemplate(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.787AC00E.md) | 
-| [GetTemplate(String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.5AB3AFB3.md) | 
-| [GetTemplate(String, String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.250DCB85.md) | 
-| [GetTemplate(String, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.CC9B66FA.md) | 
-| [Save(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.DA61C130.md) | 
-| [Save(ProvisioningTemplate, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.1C9D227E.md) | 
-| [Save(ProvisioningTemplate, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.36E39E3.md) | 
-| [Save(ProvisioningTemplate, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.575209B6.md) | 
-| [SaveAs(ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.C088C3C5.md) | 
-| [SaveAs(ProvisioningTemplate, String, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.3B2E8CC2.md) | 
-| [SaveAs(ProvisioningTemplate, String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.3AE34207.md) | 
-| [SaveAs(ProvisioningTemplate, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.C9910F96.md) | 
-| [Delete(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.CF3D39FD.md) | 
-| [SaveToConnector(ProvisioningTemplate, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.5EF84863.md) | 
-| [PreProcessSaveTemplateExtensions(ITemplateProviderExtension[], ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.71CB4232.md) | This method is invoked before calling the formatter to serialize the template
-| [PostProcessSaveTemplateExtensions(ITemplateProviderExtension[], Stream)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.95345B95.md) | 
-| [PreProcessGetTemplateExtensions(ITemplateProviderExtension[], Stream)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.99FE2C00.md) | 
-| [PostProcessGetTemplateExtensions(ITemplateProviderExtension[], ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.822BA624.md) | 
+| [GetTemplates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.637e3e6b.md) | 
+| [GetTemplates(ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.57d85359.md) | 
+| [GetTemplate(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.63314bcb.md) | 
+| [GetTemplate(String, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.87e64e45.md) | 
+| [GetTemplate(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.787ac00e.md) | 
+| [GetTemplate(String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.5ab3afb3.md) | 
+| [GetTemplate(String, String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.250dcb85.md) | 
+| [GetTemplate(String, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.cc9b66fa.md) | 
+| [Save(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.da61c130.md) | 
+| [Save(ProvisioningTemplate, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.1c9d227e.md) | 
+| [Save(ProvisioningTemplate, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.36e39e3.md) | 
+| [Save(ProvisioningTemplate, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.575209b6.md) | 
+| [SaveAs(ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.c088c3c5.md) | 
+| [SaveAs(ProvisioningTemplate, String, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.3b2e8cc2.md) | 
+| [SaveAs(ProvisioningTemplate, String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.3ae34207.md) | 
+| [SaveAs(ProvisioningTemplate, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.c9910f96.md) | 
+| [Delete(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.cf3d39fd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

@@ -5,7 +5,7 @@ Defines the Regional Settings for a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class RegionalSettings: BaseModel
@@ -13,7 +13,7 @@ public class RegionalSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) | 
+| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) |  Defines the Regional Settings for a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -33,8 +33,8 @@ public class RegionalSettings: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.3520DDBB.md) | 
-| [Equals(RegionalSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.40755D5C.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.3520ddbb.md) | 
+| [Equals(RegionalSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.40755d5c.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

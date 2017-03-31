@@ -5,7 +5,7 @@ Domain Object for custom actions  associated with a SharePoint list, Web site, o
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class CustomAction: BaseModel
@@ -13,7 +13,7 @@ public class CustomAction: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomAction()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.ctor1.md) | 
+| [CustomAction()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.ctor1.md) |  Domain Object for custom actions associated with a SharePoint list, Web site, or subsite. 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -37,9 +37,9 @@ public class CustomAction: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.3520DDBB.md) | 
-| [Equals(CustomAction)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.41D3EF4C.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.3520ddbb.md) | 
+| [Equals(CustomAction)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.41d3ef4c.md) | 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.IdentityModel.WSTrustBindings
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

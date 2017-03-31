@@ -1,25 +1,33 @@
-String, Guid, String, Object# UserProfileService.RemoveMembershipAsync members
+# UserProfileService.RemoveMembershipAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RemoveMembershipAsync(String, Guid, String, Object)
+public void RemoveMembershipAsync(String accountName,Guid sourceInternal,String sourceReference,Object userState)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### sourceInternal
-Type: [System.Guid](System.Guid.md) 
-#### 
-#### sourceReference
-Type: [System.String](System.String.md) 
-#### 
-#### userState
-Type: [System.Object](System.Object.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*sourceInternal*  
+&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;  
+  
+*sourceReference*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*userState*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

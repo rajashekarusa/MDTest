@@ -12,7 +12,7 @@ public class ExternalUserEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExternalUserEntity()](OfficeDevPnP.Core.Entities.ExternalUserEntity.ctor1.md) | 
+| [ExternalUserEntity()](OfficeDevPnP.Core.Entities.ExternalUserEntity.ctor1.md) |  External user entity 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

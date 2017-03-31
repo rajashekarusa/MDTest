@@ -1,16 +1,17 @@
-String# XMLTemplateProvider.Delete members
-  
-
+# XMLTemplateProvider.Delete Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Delete(String)
+public void Delete(String uri)
 ```
 ### Parameters
-#### uri
-Type: [System.String](System.String.md) 
-#### 
+*uri*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

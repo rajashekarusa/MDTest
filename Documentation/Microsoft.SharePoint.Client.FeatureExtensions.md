@@ -12,15 +12,11 @@ public static class FeatureExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ActivateFeature(Web, Guid, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.F271BE19.md) | Activates a site collection or site scoped feature
-| [ActivateFeature(Site, Guid, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.EFFD1D56.md) | Activates a site collection or site scoped feature
-| [DeactivateFeature(Web, Guid, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.6458F3D3.md) | Deactivates a site collection or site scoped feature
-| [DeactivateFeature(Site, Guid, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.7920B763.md) | Deactivates a site collection or site scoped feature
-| [IsFeatureActive(Site, Guid)](Microsoft.SharePoint.Client.FeatureExtensions.CC2EFBD1.md) | Checks if a feature is active
-| [IsFeatureActive(Web, Guid)](Microsoft.SharePoint.Client.FeatureExtensions.F83BA9CD.md) | Checks if a feature is active
-| [IsFeatureActiveInternal(FeatureCollection, Guid, Boolean)](Microsoft.SharePoint.Client.FeatureExtensions.29323498.md) | Checks if a feature is active in the given FeatureCollection.
-| [ProcessFeature(Site, Guid, Boolean, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.53560780.md) | Activates or deactivates a site collection scoped feature
-| [ProcessFeature(Web, Guid, Boolean, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.FFF6EA88.md) | Activates or deactivates a web scoped feature
-| [ProcessFeatureInternal(FeatureCollection, Guid, Boolean, FeatureDefinitionScope, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.8517EB78.md) | Activates or deactivates a site collection or web scoped feature
+| [ActivateFeature(Web, Guid, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.f271be19.md) | Activates a site collection or site scoped feature
+| [ActivateFeature(Site, Guid, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.effd1d56.md) | Activates a site collection or site scoped feature
+| [DeactivateFeature(Web, Guid, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.6458f3d3.md) | Deactivates a site collection or site scoped feature
+| [DeactivateFeature(Site, Guid, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.7920b763.md) | Deactivates a site collection or site scoped feature
+| [IsFeatureActive(Site, Guid)](Microsoft.SharePoint.Client.FeatureExtensions.cc2efbd1.md) | Checks if a feature is active
+| [IsFeatureActive(Web, Guid)](Microsoft.SharePoint.Client.FeatureExtensions.f83ba9cd.md) | Checks if a feature is active
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

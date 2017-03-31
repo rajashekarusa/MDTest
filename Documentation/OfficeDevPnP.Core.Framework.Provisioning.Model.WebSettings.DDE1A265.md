@@ -1,16 +1,17 @@
-WebSettings# WebSettings.Equals members
-  
-
+# WebSettings.Equals Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(WebSettings)
+public boolean Equals(WebSettings other)
 ```
 ### Parameters
-#### other
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
-#### 
+*other*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

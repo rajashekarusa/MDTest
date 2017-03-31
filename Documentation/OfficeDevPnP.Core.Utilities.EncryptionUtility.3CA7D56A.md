@@ -1,17 +1,20 @@
-SecureString# EncryptionUtility.ToInsecureString members
+# EncryptionUtility.ToInsecureString Method  
 Converts a SecureString to a "regular" string  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ToInsecureString(SecureString)
+public static string ToInsecureString(SecureString input)
 ```
 ### Parameters
-#### input
-Type: [System.Security.SecureString](System.Security.SecureString.md) 
-#### 
+*input*  
+&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.String](System.String.md)A "regular" string representation of the passed SecureString
+Type: [System.String](System.String.md 
+)A "regular" string representation of the passed SecureString
+
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -5,7 +5,7 @@ Role Assignment for a target Principal
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class RoleAssignment: BaseModel
@@ -13,7 +13,7 @@ public class RoleAssignment: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) | 
+| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) |  Role Assignment for a target Principal 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class RoleAssignment: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.3520DDBB.md) | 
-| [Equals(RoleAssignment)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.29B90BE5.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.3520ddbb.md) | 
+| [Equals(RoleAssignment)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.29b90be5.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

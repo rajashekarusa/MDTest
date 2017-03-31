@@ -5,7 +5,7 @@ Base abstract class for the navigation kinds (global or current)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class BaseNavigationKind: BaseModel
@@ -13,8 +13,8 @@ public class BaseNavigationKind: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) | 
-| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) | 
+| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) |  Base abstract class for the navigation kinds (global or current) 
+| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) |  Base abstract class for the navigation kinds (global or current) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class BaseNavigationKind: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.3520DDBB.md) | 
-| [Equals(BaseNavigationKind)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.888778A.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.3520ddbb.md) | 
+| [Equals(BaseNavigationKind)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.888778a.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

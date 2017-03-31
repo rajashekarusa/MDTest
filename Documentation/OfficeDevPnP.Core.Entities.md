@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Entities
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

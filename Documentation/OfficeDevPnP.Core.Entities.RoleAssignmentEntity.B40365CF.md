@@ -1,6 +1,4 @@
-# RoleAssignmentEntity.ToString members
-  
-
+# RoleAssignmentEntity.ToString Method  
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,5 +6,7 @@
 public string ToString()
 ```
 ### Return Value
-Type: [System.String](System.String.md)## See also
+Type: [System.String](System.String.md 
+)
+## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

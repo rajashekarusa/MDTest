@@ -1,16 +1,21 @@
-Object# UserProfileService.CancelAsync members
+# UserProfileService.CancelAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void CancelAsync(Object)
+public void CancelAsync(Object userState)
 ```
 ### Parameters
-#### userState
-Type: [System.Object](System.Object.md) 
-#### 
+*userState*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

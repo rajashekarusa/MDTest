@@ -1,16 +1,19 @@
-Web# BrandingExtensions.DisableReponsiveUI members
+# BrandingExtensions.DisableReponsiveUI Method  
 Disables the Responsive UI on a Classic SharePoint Web  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DisableReponsiveUI(Web)
+public static void DisableReponsiveUI(Web web)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

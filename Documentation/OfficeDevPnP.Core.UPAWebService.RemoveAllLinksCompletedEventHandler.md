@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class RemoveAllLinksCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class RemoveAllLinksCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.26851C57.md) | 
-| [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.F6352AB0.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.26851c57.md) | 
+| [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.f6352ab0.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

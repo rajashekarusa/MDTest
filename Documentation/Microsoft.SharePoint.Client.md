@@ -1,5 +1,4 @@
 # Microsoft.SharePoint.Client
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

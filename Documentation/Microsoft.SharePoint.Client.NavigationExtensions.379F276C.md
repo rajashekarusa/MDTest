@@ -1,4 +1,4 @@
-Web, String, Uri, String, NavigationType, Boolean, Boolean# NavigationExtensions.AddNavigationNode members
+# NavigationExtensions.AddNavigationNode Method  
 Add a node to quick launch, top navigation bar or search navigation. The node will be added as the last node in the
             collection.  
 
@@ -6,31 +6,40 @@ Add a node to quick launch, top navigation bar or search navigation. The node wi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  AddNavigationNode(Web, String, Uri, String, NavigationType, Boolean, Boolean)
+public static  AddNavigationNode(Web web,String nodeTitle,Uri nodeUri,String parentNodeTitle,NavigationType navigationType,Boolean isExternal,Boolean asLastNode)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### nodeTitle
-Type: [System.String](System.String.md) 
-#### 
-#### nodeUri
-Type: [System.Uri](System.Uri.md) 
-#### 
-#### parentNodeTitle
-Type: [System.String](System.String.md) 
-#### 
-#### navigationType
-Type: [OfficeDevPnP.Core.Enums.NavigationType](OfficeDevPnP.Core.Enums.NavigationType.md) 
-#### 
-#### (optional) isExternal
-Type: [System.Boolean](System.Boolean.md) 
-#### 
-#### (optional) asLastNode
-Type: [System.Boolean](System.Boolean.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*nodeTitle*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*nodeUri*  
+&emsp;&emsp;Type: [System.Uri](System.Uri.md) 
+&emsp;&emsp;  
+  
+*parentNodeTitle*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*navigationType*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.NavigationType](OfficeDevPnP.Core.Enums.NavigationType.md) 
+&emsp;&emsp;  
+  
+*(optional) isExternal*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
+*(optional) asLastNode*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [Microsoft.SharePoint.Client.NavigationNode](Microsoft.SharePoint.Client.NavigationNode.md)Newly added NavigationNode
+Type: [Microsoft.SharePoint.Client.NavigationNode](Microsoft.SharePoint.Client.NavigationNode.md 
+)Newly added NavigationNode
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

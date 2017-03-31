@@ -1,19 +1,21 @@
-Object, GetPropertyChoiceListCompletedEventArgs# GetPropertyChoiceListCompletedEventHandler.Invoke members
-  
-
+# GetPropertyChoiceListCompletedEventHandler.Invoke Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Invoke(Object, GetPropertyChoiceListCompletedEventArgs)
+public void Invoke(Object sender,GetPropertyChoiceListCompletedEventArgs e)
 ```
 ### Parameters
-#### sender
-Type: [System.Object](System.Object.md) 
-#### 
-#### e
-Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs.md) 
-#### 
+*sender*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
+*e*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

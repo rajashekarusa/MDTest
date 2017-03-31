@@ -1,16 +1,17 @@
-GetUserPinnedLinksCompletedEventHandler# UserProfileService.add_GetUserPinnedLinksCompleted members
-  
-
+# UserProfileService.add_GetUserPinnedLinksCompleted Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetUserPinnedLinksCompleted(GetUserPinnedLinksCompletedEventHandler)
+public void add_GetUserPinnedLinksCompleted(GetUserPinnedLinksCompletedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

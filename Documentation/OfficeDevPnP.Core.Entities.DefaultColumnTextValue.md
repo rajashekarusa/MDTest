@@ -5,7 +5,7 @@ DefaultColumnTextValue
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
+--  [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
 ## Syntax
 ```C#
 public class DefaultColumnTextValue: DefaultColumnValue
@@ -13,7 +13,7 @@ public class DefaultColumnTextValue: DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnTextValue()](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.ctor1.md) | 
+| [DefaultColumnTextValue()](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.ctor1.md) |  DefaultColumnTextValue 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

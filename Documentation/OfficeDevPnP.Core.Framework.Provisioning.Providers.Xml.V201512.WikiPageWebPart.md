@@ -23,9 +23,6 @@ public class WikiPageWebPart
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.B4F30151.md) | 
-| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.A1A04AFB.md) | 
-| [System.Xml.Serialization.IXmlSerializable.ReadXml(XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.C1E80F72.md) | 
-| [System.Xml.Serialization.IXmlSerializable.WriteXml(XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.8F7A6518.md) | 
+| [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.b4f30151.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

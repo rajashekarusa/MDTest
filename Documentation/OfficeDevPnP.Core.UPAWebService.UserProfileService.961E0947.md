@@ -1,16 +1,17 @@
-GetUserProfileByGuidCompletedEventHandler# UserProfileService.add_GetUserProfileByGuidCompleted members
-  
-
+# UserProfileService.add_GetUserProfileByGuidCompleted Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetUserProfileByGuidCompleted(GetUserProfileByGuidCompletedEventHandler)
+public void add_GetUserProfileByGuidCompleted(GetUserProfileByGuidCompletedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

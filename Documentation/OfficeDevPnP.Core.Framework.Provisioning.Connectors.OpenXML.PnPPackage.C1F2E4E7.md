@@ -1,19 +1,21 @@
-String, Byte[]# PnPPackage.AddFile members
-  
-
+# PnPPackage.AddFile Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddFile(String, Byte[])
+public void AddFile(String fileName,Byte[] value)
 ```
 ### Parameters
-#### fileName
-Type: [System.String](System.String.md) 
-#### 
-#### value
-Type: [System.Byte[]](System.Byte[].md) 
-#### 
+*fileName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*value*  
+&emsp;&emsp;Type: [System.Byte[]](System.Byte[].md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

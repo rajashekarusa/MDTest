@@ -1,19 +1,25 @@
-Guid, Object# UserProfileService.GetUserProfileByGuidAsync members
+# UserProfileService.GetUserProfileByGuidAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetUserProfileByGuidAsync(Guid, Object)
+public void GetUserProfileByGuidAsync(Guid guid,Object userState)
 ```
 ### Parameters
-#### guid
-Type: [System.Guid](System.Guid.md) 
-#### 
-#### userState
-Type: [System.Object](System.Object.md) 
-#### 
+*guid*  
+&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;  
+  
+*userState*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

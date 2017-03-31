@@ -1,19 +1,21 @@
-ClientObject, String# JavaScriptExtensions.ExistsJsLinkImplementation members
-  
-
+# JavaScriptExtensions.ExistsJsLinkImplementation Method  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ExistsJsLinkImplementation(ClientObject, String)
+public static boolean ExistsJsLinkImplementation(ClientObject clientObject,String key)
 ```
 ### Parameters
-#### clientObject
-Type: [Microsoft.SharePoint.Client.ClientObject](Microsoft.SharePoint.Client.ClientObject.md) 
-#### 
-#### key
-Type: [System.String](System.String.md) 
-#### 
+*clientObject*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientObject](Microsoft.SharePoint.Client.ClientObject.md) 
+&emsp;&emsp;  
+  
+*key*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

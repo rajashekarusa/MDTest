@@ -5,7 +5,7 @@ Defines a Navigation Node for the Structural Navigation of a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class NavigationNode: BaseModel
@@ -13,7 +13,7 @@ public class NavigationNode: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) | 
+| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) |  Defines a Navigation Node for the Structural Navigation of a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class NavigationNode: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.3520DDBB.md) | 
-| [Equals(NavigationNode)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.D9F2B69A.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.3520ddbb.md) | 
+| [Equals(NavigationNode)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.d9f2b69a.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

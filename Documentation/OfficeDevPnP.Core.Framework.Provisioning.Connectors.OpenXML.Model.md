@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

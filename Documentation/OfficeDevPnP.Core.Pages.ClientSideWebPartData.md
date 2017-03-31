@@ -12,7 +12,7 @@ public class ClientSideWebPartData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.ctor1.md) | 
+| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.ctor1.md) |  Json web part data that will be included in each client side web part (de-)serialization (data-sp-webpartdata) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

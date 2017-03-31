@@ -6,7 +6,7 @@ Defines a Directory element, to describe a folder in the current
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class Directory: BaseModel
@@ -14,8 +14,8 @@ public class Directory: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor1.md) | 
-| [Directory(String, String, Boolean, FileLevel, Boolean, String, String, String, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor2.md) | 
+| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor1.md) |  Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site 
+| [Directory(String, String, Boolean, FileLevel, Boolean, String, String, String, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor2.md) |  Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,8 +31,8 @@ public class Directory: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.3520DDBB.md) | 
-| [Equals(Directory)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.DBC03230.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.3520ddbb.md) | 
+| [Equals(Directory)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.dbc03230.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

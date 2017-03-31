@@ -1,4 +1,4 @@
-String, String, String, SecureString# TimerJob.UseAzureADAppOnlyAuthentication members
+# TimerJob.UseAzureADAppOnlyAuthentication Method  
 Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType 
             to AuthenticationType.AzureADAppOnly  
 
@@ -6,21 +6,27 @@ Prepares the timerjob to operate against SharePoint Only with Azure AD app-only 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UseAzureADAppOnlyAuthentication(String, String, String, SecureString)
+public void UseAzureADAppOnlyAuthentication(String clientId,String azureTenant,String certificatePath,SecureString certificatePassword)
 ```
 ### Parameters
-#### clientId
-Type: [System.String](System.String.md) 
-#### 
-#### azureTenant
-Type: [System.String](System.String.md) 
-#### 
-#### certificatePath
-Type: [System.String](System.String.md) 
-#### 
-#### certificatePassword
-Type: [System.Security.SecureString](System.Security.SecureString.md) 
-#### 
+*clientId*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*azureTenant*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*certificatePath*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*certificatePassword*  
+&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -5,7 +5,7 @@ Defines a Design Package to import into the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class DesignPackage: BaseModel
@@ -13,7 +13,7 @@ public class DesignPackage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) | 
+| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) |  Defines a Design Package to import into the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,8 +25,8 @@ public class DesignPackage: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.3520DDBB.md) | 
-| [Equals(DesignPackage)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.7760E741.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.3520ddbb.md) | 
+| [Equals(DesignPackage)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.7760e741.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

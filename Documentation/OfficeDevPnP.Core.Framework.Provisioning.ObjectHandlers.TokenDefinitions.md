@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

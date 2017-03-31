@@ -5,7 +5,7 @@ Defines a Workflow Subscription to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class WorkflowSubscription: BaseModel
@@ -13,8 +13,8 @@ public class WorkflowSubscription: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor1.md) | 
-| [WorkflowSubscription(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor2.md) | 
+| [WorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor1.md) |  Defines a Workflow Subscription to provision 
+| [WorkflowSubscription(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor2.md) |  Defines a Workflow Subscription to provision 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,8 +31,8 @@ public class WorkflowSubscription: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.3520DDBB.md) | 
-| [Equals(WorkflowSubscription)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ED86DF1.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.3520ddbb.md) | 
+| [Equals(WorkflowSubscription)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ed86df1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

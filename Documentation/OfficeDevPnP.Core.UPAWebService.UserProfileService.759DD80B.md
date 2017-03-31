@@ -1,16 +1,21 @@
-String# UserProfileService.GetPropertyChoiceList members
+# UserProfileService.GetPropertyChoiceList Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string[] GetPropertyChoiceList(String)
+public string[] GetPropertyChoiceList(String propertyName)
 ```
 ### Parameters
-#### propertyName
-Type: [System.String](System.String.md) 
-#### 
+*propertyName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.String[]](System.String[].md)## See also
+Type: [System.String[]](System.String[].md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

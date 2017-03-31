@@ -1,19 +1,21 @@
-IDictionary<TKey, TValue>, IDictionary<TKey, TValue># DictionaryExtensions.AddRange members
-  
-
+# DictionaryExtensions.AddRange Method  
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddRange(IDictionary<TKey, TValue>, IDictionary<TKey, TValue>)
+public static void AddRange(IDictionary<TKey, TValue> dictionary,IDictionary<TKey, TValue> range)
 ```
 ### Parameters
-#### dictionary
-Type: [System.Collections.Generic.IDictionary`2<TKey,TValue>](System.Collections.Generic.IDictionary`2<TKey,TValue>.md) 
-#### 
-#### range
-Type: [System.Collections.Generic.IDictionary`2<TKey,TValue>](System.Collections.Generic.IDictionary`2<TKey,TValue>.md) 
-#### 
+*dictionary*  
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>](System.Collections.Generic.IDictionary<TKey,TValue>.md) 
+&emsp;&emsp;  
+  
+*range*  
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>](System.Collections.Generic.IDictionary<TKey,TValue>.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

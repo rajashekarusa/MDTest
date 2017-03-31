@@ -12,17 +12,15 @@ public static class SearchExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExportSearchSettings(ClientContext, String, SearchObjectLevel)](Microsoft.SharePoint.Client.SearchExtensions.BCE58149.md) | Exports the search settings to file.
-| [GetSearchConfiguration(Web)](Microsoft.SharePoint.Client.SearchExtensions.774CCEAC.md) | Returns the current search configuration as as string
-| [GetSearchConfiguration(Site)](Microsoft.SharePoint.Client.SearchExtensions.6415FC2A.md) | Returns the current search configuration as as string
-| [GetSearchConfigurationImplementation(ClientRuntimeContext, SearchObjectLevel)](Microsoft.SharePoint.Client.SearchExtensions.50B4BF68.md) | Returns the current search configuration for the specified object level
-| [ImportSearchSettings(ClientContext, String, SearchObjectLevel)](Microsoft.SharePoint.Client.SearchExtensions.E502CBF7.md) | Imports search settings from file.
-| [SetSearchConfiguration(Web, String)](Microsoft.SharePoint.Client.SearchExtensions.794E5E80.md) | Sets the search configuration
-| [SetSearchConfiguration(Site, String)](Microsoft.SharePoint.Client.SearchExtensions.78CF98A1.md) | Sets the search configuration
-| [SetSearchConfigurationImplementation(ClientRuntimeContext, SearchObjectLevel, String)](Microsoft.SharePoint.Client.SearchExtensions.7C7F2904.md) | Sets the search configuration at the specified object level
-| [SetSiteCollectionSearchCenterUrl(Web, String)](Microsoft.SharePoint.Client.SearchExtensions.5B917B24.md) | Sets the search center url on site collection (Site Settings -> Site collection administration --> Search Settings)
-| [GetSiteCollectionSearchCenterUrl(Web)](Microsoft.SharePoint.Client.SearchExtensions.4C633A6B.md) | Get the search center url for the site collection (Site Settings -> Site collection administration --> Search Settings)
-| [SetWebSearchCenterUrl(Web, String)](Microsoft.SharePoint.Client.SearchExtensions.2ED7EF27.md) | Sets the search results page url on current web (Site Settings -> Search --> Search Settings)
-| [GetWebSearchCenterUrl(Web)](Microsoft.SharePoint.Client.SearchExtensions.917023F3.md) | Get the search results page url for the web (Site Settings -> Search --> Search Settings)
+| [ExportSearchSettings(ClientContext, String, SearchObjectLevel)](Microsoft.SharePoint.Client.SearchExtensions.bce58149.md) | Exports the search settings to file.
+| [GetSearchConfiguration(Web)](Microsoft.SharePoint.Client.SearchExtensions.774cceac.md) | Returns the current search configuration as as string
+| [GetSearchConfiguration(Site)](Microsoft.SharePoint.Client.SearchExtensions.6415fc2a.md) | Returns the current search configuration as as string
+| [ImportSearchSettings(ClientContext, String, SearchObjectLevel)](Microsoft.SharePoint.Client.SearchExtensions.e502cbf7.md) | Imports search settings from file.
+| [SetSearchConfiguration(Web, String)](Microsoft.SharePoint.Client.SearchExtensions.794e5e80.md) | Sets the search configuration
+| [SetSearchConfiguration(Site, String)](Microsoft.SharePoint.Client.SearchExtensions.78cf98a1.md) | Sets the search configuration
+| [SetSiteCollectionSearchCenterUrl(Web, String)](Microsoft.SharePoint.Client.SearchExtensions.5b917b24.md) | Sets the search center url on site collection (Site Settings -> Site collection administration --> Search Settings)
+| [GetSiteCollectionSearchCenterUrl(Web)](Microsoft.SharePoint.Client.SearchExtensions.4c633a6b.md) | Get the search center url for the site collection (Site Settings -> Site collection administration --> Search Settings)
+| [SetWebSearchCenterUrl(Web, String)](Microsoft.SharePoint.Client.SearchExtensions.2ed7ef27.md) | Sets the search results page url on current web (Site Settings -> Search --> Search Settings)
+| [GetWebSearchCenterUrl(Web)](Microsoft.SharePoint.Client.SearchExtensions.917023f3.md) | Get the search results page url for the web (Site Settings -> Search --> Search Settings)
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -1,28 +1,35 @@
-Web, String, String, Boolean, Boolean# FieldAndContentTypeExtensions.AddFieldToContentTypeById members
+# FieldAndContentTypeExtensions.AddFieldToContentTypeById Method  
 Associates field to content type  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddFieldToContentTypeById(Web, String, String, Boolean, Boolean)
+public static void AddFieldToContentTypeById(Web web,String contentTypeID,String fieldId,Boolean required,Boolean hidden)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### contentTypeID
-Type: [System.String](System.String.md) 
-#### 
-#### fieldId
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) required
-Type: [System.Boolean](System.Boolean.md) 
-#### 
-#### (optional) hidden
-Type: [System.Boolean](System.Boolean.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*contentTypeID*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*fieldId*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) required*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
+*(optional) hidden*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -1,0 +1,18 @@
+# CustomActionEntity.Properties RegistrationId
+Gets or sets the value that specifies the identifier of the object associated with the custom action.  
+
+**Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
+## Syntax
+```C#
+public string RegistrationId { get; }
+public string RegistrationId { set; }
+```
+
+### Property Value
+Type: [System.String](System.String.md) 
+
+## See also
+- [CustomActionEntity](CustomActionEntity.md) 
+
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

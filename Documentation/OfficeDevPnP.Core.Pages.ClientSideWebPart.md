@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
+--  [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
 ## Syntax
 ```C#
 public class ClientSideWebPart: CanvasControl
@@ -13,8 +13,8 @@ public class ClientSideWebPart: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPart()](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor1.md) | 
-| [ClientSideWebPart(ClientSideComponent)](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor2.md) | 
+| [ClientSideWebPart()](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor1.md) |  This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a . 
+| [ClientSideWebPart(ClientSideComponent)](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor2.md) |  This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a . 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,9 +31,7 @@ public class ClientSideWebPart: CanvasControl
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Import(ClientSideComponent, Func<String, String>)](OfficeDevPnP.Core.Pages.ClientSideWebPart.587FFFCF.md) | 
-| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideWebPart.7C2B006F.md) | Returns a HTML representation of the client side web part
-| [FromHtml(IElement)](OfficeDevPnP.Core.Pages.ClientSideWebPart.B95074D8.md) | 
-| [SetPropertiesJson(String)](OfficeDevPnP.Core.Pages.ClientSideWebPart.8A30A62D.md) | 
+| [Import(ClientSideComponent, Func<String, String>)](OfficeDevPnP.Core.Pages.ClientSideWebPart.587fffcf.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideWebPart.7c2b006f.md) | Returns a HTML representation of the client side web part
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

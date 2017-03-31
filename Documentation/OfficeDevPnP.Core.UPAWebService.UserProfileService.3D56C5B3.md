@@ -1,4 +1,4 @@
-# UserProfileService.GetLeaders members
+# UserProfileService.GetLeaders Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
@@ -8,5 +8,9 @@
 public  GetLeaders()
 ```
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.Leader[]](OfficeDevPnP.Core.UPAWebService.Leader[].md)## See also
+Type: [OfficeDevPnP.Core.UPAWebService.Leader[]](OfficeDevPnP.Core.UPAWebService.Leader[].md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

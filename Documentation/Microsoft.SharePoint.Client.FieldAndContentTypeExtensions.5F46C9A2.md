@@ -1,19 +1,23 @@
-Field, String# FieldAndContentTypeExtensions.SetJsLinkCustomizations members
+# FieldAndContentTypeExtensions.SetJsLinkCustomizations Method  
 Adds jsLink to a field.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetJsLinkCustomizations(Field, String)
+public static void SetJsLinkCustomizations(Field field,String jsLink)
 ```
 ### Parameters
-#### field
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md) 
-#### 
-#### jsLink
-Type: [System.String](System.String.md) 
-#### 
+*field*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md) 
+&emsp;&emsp;  
+  
+*jsLink*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

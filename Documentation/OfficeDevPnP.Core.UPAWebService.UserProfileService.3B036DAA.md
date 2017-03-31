@@ -1,4 +1,4 @@
-# UserProfileService.GetUserProfileCount members
+# UserProfileService.GetUserProfileCount Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
@@ -8,5 +8,9 @@
 public long GetUserProfileCount()
 ```
 ### Return Value
-Type: [System.Int64](System.Int64.md)## See also
+Type: [System.Int64](System.Int64.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

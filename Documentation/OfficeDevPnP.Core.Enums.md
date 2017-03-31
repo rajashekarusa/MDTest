@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Enums
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

@@ -1,26 +1,32 @@
-Folder, String, Stream, Boolean# FileFolderExtensions.UploadFile members
+# FileFolderExtensions.UploadFile Method  
 Uploads a file to the specified folder.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  UploadFile(Folder, String, Stream, Boolean)
+public static  UploadFile(Folder folder,String fileName,Stream stream,Boolean overwriteIfExists)
 ```
 ### Parameters
-#### folder
-Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md) 
-#### 
-#### fileName
-Type: [System.String](System.String.md) 
-#### 
-#### stream
-Type: [System.IO.Stream](System.IO.Stream.md) 
-#### 
-#### overwriteIfExists
-Type: [System.Boolean](System.Boolean.md) 
-#### 
+*folder*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md) 
+&emsp;&emsp;  
+  
+*fileName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*stream*  
+&emsp;&emsp;Type: [System.IO.Stream](System.IO.Stream.md) 
+&emsp;&emsp;  
+  
+*overwriteIfExists*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md)The uploaded File, so that additional operations (such as setting properties) can be done.
+Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md 
+)The uploaded File, so that additional operations (such as setting properties) can be done.
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

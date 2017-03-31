@@ -5,7 +5,7 @@ Domain Object that defines a Composed Look in the Provision Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class ComposedLook: BaseModel
@@ -13,7 +13,7 @@ public class ComposedLook: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) | 
+| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) |  Domain Object that defines a Composed Look in the Provision Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -29,8 +29,8 @@ public class ComposedLook: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.3520DDBB.md) | 
-| [Equals(ComposedLook)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.F79612E1.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.3520ddbb.md) | 
+| [Equals(ComposedLook)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.f79612e1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

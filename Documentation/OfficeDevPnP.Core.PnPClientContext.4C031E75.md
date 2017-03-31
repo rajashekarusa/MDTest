@@ -1,17 +1,20 @@
-String# PnPClientContext.Clone members
+# PnPClientContext.Clone Method  
 Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance  
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  Clone(String)
+public  Clone(String siteUrl)
 ```
 ### Parameters
-#### siteUrl
-Type: [System.String](System.String.md) 
-#### 
+*siteUrl*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md)A PnPClientContext object created for the passed site url
+Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md 
+)A PnPClientContext object created for the passed site url
+
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

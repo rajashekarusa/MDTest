@@ -5,7 +5,7 @@ Domain Object that is used in the site template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class SiteSecurity: BaseModel
@@ -13,7 +13,7 @@ public class SiteSecurity: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.ctor1.md) | 
+| [SiteSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.ctor1.md) |  Domain Object that is used in the site template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -29,8 +29,8 @@ public class SiteSecurity: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.3520DDBB.md) | 
-| [Equals(SiteSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.98BA844A.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.3520ddbb.md) | 
+| [Equals(SiteSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.98ba844a.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

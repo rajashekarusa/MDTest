@@ -1,4 +1,4 @@
-# UserProfileService.GetUserProfileCountAsync members
+# UserProfileService.GetUserProfileCountAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
@@ -8,5 +8,9 @@
 public void GetUserProfileCountAsync()
 ```
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

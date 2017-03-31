@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Utilities.WebParts.Processors
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

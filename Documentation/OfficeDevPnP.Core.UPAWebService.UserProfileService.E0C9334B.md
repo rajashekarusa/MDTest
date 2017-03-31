@@ -1,25 +1,33 @@
-String, Guid, String, Privacy# UserProfileService.UpdateMembershipPrivacyAsync members
+# UserProfileService.UpdateMembershipPrivacyAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UpdateMembershipPrivacyAsync(String, Guid, String, Privacy)
+public void UpdateMembershipPrivacyAsync(String accountName,Guid sourceInternal,String sourceReference,Privacy newPrivacy)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### sourceInternal
-Type: [System.Guid](System.Guid.md) 
-#### 
-#### sourceReference
-Type: [System.String](System.String.md) 
-#### 
-#### newPrivacy
-Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*sourceInternal*  
+&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;  
+  
+*sourceReference*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*newPrivacy*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

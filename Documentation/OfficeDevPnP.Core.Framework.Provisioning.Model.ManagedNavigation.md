@@ -5,7 +5,7 @@ Defines the Managed Navigation settings of a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class ManagedNavigation: BaseModel
@@ -13,7 +13,7 @@ public class ManagedNavigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.ctor1.md) | 
+| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.ctor1.md) |  Defines the Managed Navigation settings of a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class ManagedNavigation: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.3520DDBB.md) | 
-| [Equals(ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.F7DEC79C.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.3520ddbb.md) | 
+| [Equals(ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.f7dec79c.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,16 +1,17 @@
-GetUserOrganizationsCompletedEventHandler# UserProfileService.remove_GetUserOrganizationsCompleted members
-  
-
+# UserProfileService.remove_GetUserOrganizationsCompleted Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_GetUserOrganizationsCompleted(GetUserOrganizationsCompletedEventHandler)
+public void remove_GetUserOrganizationsCompleted(GetUserOrganizationsCompletedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

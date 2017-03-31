@@ -1,16 +1,17 @@
-String# BuiltInContentTypeId.Contains members
-  
-
+# BuiltInContentTypeId.Contains Method  
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean Contains(String)
+public static boolean Contains(String id)
 ```
 ### Parameters
-#### id
-Type: [System.String](System.String.md) 
-#### 
+*id*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

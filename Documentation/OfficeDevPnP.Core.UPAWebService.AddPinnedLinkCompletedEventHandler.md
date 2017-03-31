@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class AddPinnedLinkCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class AddPinnedLinkCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddPinnedLinkCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.D0B00FBE.md) | 
-| [BeginInvoke(Object, AddPinnedLinkCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.B237EF49.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, AddPinnedLinkCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.d0b00fbe.md) | 
+| [BeginInvoke(Object, AddPinnedLinkCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.b237ef49.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

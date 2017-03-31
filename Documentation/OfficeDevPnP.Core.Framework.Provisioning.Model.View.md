@@ -1,11 +1,9 @@
 # View
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class View: BaseModel
@@ -21,9 +19,8 @@ public class View: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.3520DDBB.md) | 
-| [Equals(View)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.D29F207D.md) | 
-| [PrepareViewForCompare(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.52A1FA59.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.3520ddbb.md) | 
+| [Equals(View)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.d29f207d.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

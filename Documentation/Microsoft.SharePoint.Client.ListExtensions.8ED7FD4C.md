@@ -1,25 +1,31 @@
-List, String, String, String# ListExtensions.SetLocalizationLabelsForList members
+# ListExtensions.SetLocalizationLabelsForList Method  
 Can be used to set translations for different cultures.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetLocalizationLabelsForList(List, String, String, String)
+public static void SetLocalizationLabelsForList(List list,String cultureName,String titleResource,String descriptionResource)
 ```
 ### Parameters
-#### list
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-#### 
-#### cultureName
-Type: [System.String](System.String.md) 
-#### 
-#### titleResource
-Type: [System.String](System.String.md) 
-#### 
-#### descriptionResource
-Type: [System.String](System.String.md) 
-#### 
+*list*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
+&emsp;&emsp;  
+  
+*cultureName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*titleResource*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*descriptionResource*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

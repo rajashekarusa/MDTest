@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class GetUserMembershipsCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class GetUserMembershipsCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserMembershipsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.D6955039.md) | 
-| [BeginInvoke(Object, GetUserMembershipsCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.F4ADBE55.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, GetUserMembershipsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.d6955039.md) | 
+| [BeginInvoke(Object, GetUserMembershipsCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.f4adbe55.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -1,6 +1,4 @@
 # TokenParser
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -20,11 +18,11 @@ public class TokenParser
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddToken(TokenDefinition)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.D615C417.md) | 
-| [GetResourceTokenResourceValues(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.3DA9E64.md) | 
-| [Rebase(Web)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.19EF0323.md) | 
-| [ParseString(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.82A519CF.md) | 
-| [GetLeftOverTokens(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.A15F93CE.md) | 
-| [ParseString(String, String[])](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.129EBD72.md) | 
+| [AddToken(TokenDefinition)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.d615c417.md) | 
+| [GetResourceTokenResourceValues(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.3da9e64.md) | 
+| [Rebase(Web)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.19ef0323.md) | 
+| [ParseString(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.82a519cf.md) | 
+| [GetLeftOverTokens(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.a15f93ce.md) | 
+| [ParseString(String, String[])](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.129ebd72.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

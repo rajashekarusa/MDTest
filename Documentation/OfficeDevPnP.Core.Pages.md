@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Pages
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

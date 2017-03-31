@@ -5,7 +5,7 @@ Defines an available Page Layout for the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class PageLayout: BaseModel
@@ -13,7 +13,7 @@ public class PageLayout: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) | 
+| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) |  Defines an available Page Layout for the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class PageLayout: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.3520DDBB.md) | 
-| [Equals(PageLayout)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.410A89F2.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.3520ddbb.md) | 
+| [Equals(PageLayout)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.410a89f2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

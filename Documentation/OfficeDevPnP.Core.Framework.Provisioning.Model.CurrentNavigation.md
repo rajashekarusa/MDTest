@@ -5,7 +5,7 @@ The Current Navigation settings for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md)
 ## Syntax
 ```C#
 public class CurrentNavigation: BaseNavigationKind
@@ -13,8 +13,8 @@ public class CurrentNavigation: BaseNavigationKind
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor1.md) | 
-| [CurrentNavigation(CurrentNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor2.md) | 
+| [CurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor1.md) |  The Current Navigation settings for the Provisioning Template 
+| [CurrentNavigation(CurrentNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor2.md) |  The Current Navigation settings for the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class CurrentNavigation: BaseNavigationKind
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.3520DDBB.md) | 
-| [Equals(CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.8DF81D21.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.3520ddbb.md) | 
+| [Equals(CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.8df81d21.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Graph
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

@@ -1,4 +1,4 @@
-Web# WebExtensions.IsNoScriptSite members
+# WebExtensions.IsNoScriptSite Method  
 Detects if the site in question has no script enabled or not. Detection is done by verifying if the AddAndCustomizePages permission is missing.
             
             See https://support.office.com/en-us/article/Turn-scripting-capabilities-on-or-off-1f2c515f-5d7e-448a-9fd7-835da935584f
@@ -8,13 +8,16 @@ Detects if the site in question has no script enabled or not. Detection is done 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsNoScriptSite(Web)
+public static boolean IsNoScriptSite(Web web)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)True if noscript, false otherwise
+Type: [System.Boolean](System.Boolean.md 
+)True if noscript, false otherwise
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

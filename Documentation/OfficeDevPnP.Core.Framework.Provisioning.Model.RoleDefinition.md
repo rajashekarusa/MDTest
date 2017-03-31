@@ -1,11 +1,9 @@
 # RoleDefinition
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class RoleDefinition: BaseModel
@@ -24,8 +22,8 @@ public class RoleDefinition: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.3520DDBB.md) | 
-| [Equals(RoleDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.8F7175D4.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.3520ddbb.md) | 
+| [Equals(RoleDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.8f7175d4.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

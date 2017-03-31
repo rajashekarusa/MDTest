@@ -5,7 +5,7 @@ Generic keyed collection of items stored in the ProvisioningTemplate graph
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [TKey,TItem](TKey,TItem.md)
+--  [TKey,TItem](TKey,TItem.md)
 ## Syntax
 ```C#
 public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
@@ -13,7 +13,7 @@ public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateDictionary(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ctor1.md) | 
+| [ProvisioningTemplateDictionary(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ctor1.md) |  Generic keyed collection of items stored in the ProvisioningTemplate graph 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,9 +21,5 @@ public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [InsertItem(Int32, TItem)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ECBDA1A9.md) | 
-| [SetItem(Int32, TItem)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.E04F421.md) | 
-| [RemoveItem(Int32)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.834EFE0B.md) | 
-| [ClearItems()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.7FA8F394.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

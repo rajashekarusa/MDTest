@@ -1,4 +1,4 @@
-HttpControllerContext# WebAPIHelper.GetClientContext members
+# WebAPIHelper.GetClientContext Method  
 Creates a ClientContext token for the incoming WebAPI request. This is done by 
             - looking up the servicesToken
             - extracting the cacheKey 
@@ -9,13 +9,16 @@ Creates a ClientContext token for the incoming WebAPI request. This is done by
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetClientContext(HttpControllerContext)
+public static  GetClientContext(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
-#### httpControllerContext
-Type: [System.Web.Http.Controllers.HttpControllerContext](System.Web.Http.Controllers.HttpControllerContext.md) 
-#### 
+*httpControllerContext*  
+&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpControllerContext](System.Web.Http.Controllers.HttpControllerContext.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)A valid ClientContext object
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md 
+)A valid ClientContext object
+
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

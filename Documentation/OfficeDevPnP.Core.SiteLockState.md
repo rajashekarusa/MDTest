@@ -1,6 +1,4 @@
 # SiteLockState  enumeration
-  
-
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax

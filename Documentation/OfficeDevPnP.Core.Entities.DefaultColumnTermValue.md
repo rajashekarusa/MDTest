@@ -5,7 +5,7 @@ Specifies a default column value for a document library
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
+--  [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
 ## Syntax
 ```C#
 public class DefaultColumnTermValue: DefaultColumnValue
@@ -13,7 +13,7 @@ public class DefaultColumnTermValue: DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnTermValue()](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.ctor1.md) | 
+| [DefaultColumnTermValue()](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.ctor1.md) |  Specifies a default column value for a document library 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

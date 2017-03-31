@@ -1,11 +1,9 @@
 # WebPart
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class WebPart: BaseModel
@@ -26,8 +24,8 @@ public class WebPart: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.3520DDBB.md) | 
-| [Equals(WebPart)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.686E59E6.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.3520ddbb.md) | 
+| [Equals(WebPart)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.686e59e6.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

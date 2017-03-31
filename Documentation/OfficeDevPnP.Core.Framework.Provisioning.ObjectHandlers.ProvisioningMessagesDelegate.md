@@ -1,11 +1,9 @@
 # ProvisioningMessagesDelegate
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class ProvisioningMessagesDelegate: MulticastDelegate
@@ -17,8 +15,8 @@ public class ProvisioningMessagesDelegate: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(String, ProvisioningMessageType)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.451333D8.md) | 
-| [BeginInvoke(String, ProvisioningMessageType, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.1D42F485.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.C9867657.md) | 
+| [Invoke(String, ProvisioningMessageType)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.451333d8.md) | 
+| [BeginInvoke(String, ProvisioningMessageType, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.1d42f485.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

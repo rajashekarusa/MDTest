@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.TimerJobs.Enums
-
 ## Enumerations
 |**Enumeration**|**Description**|
 |:-----|:-----|

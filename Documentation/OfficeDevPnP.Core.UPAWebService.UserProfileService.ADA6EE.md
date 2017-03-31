@@ -1,31 +1,41 @@
-String, String, String, Privacy, Boolean, Object# UserProfileService.AddColleagueWithoutEmailNotificationAsync members
+# UserProfileService.AddColleagueWithoutEmailNotificationAsync Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddColleagueWithoutEmailNotificationAsync(String, String, String, Privacy, Boolean, Object)
+public void AddColleagueWithoutEmailNotificationAsync(String accountName,String colleagueAccountName,String group,Privacy privacy,Boolean isInWorkGroup,Object userState)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### colleagueAccountName
-Type: [System.String](System.String.md) 
-#### 
-#### group
-Type: [System.String](System.String.md) 
-#### 
-#### privacy
-Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
-#### 
-#### isInWorkGroup
-Type: [System.Boolean](System.Boolean.md) 
-#### 
-#### userState
-Type: [System.Object](System.Object.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*colleagueAccountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*group*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*privacy*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
+&emsp;&emsp;  
+  
+*isInWorkGroup*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
+*userState*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

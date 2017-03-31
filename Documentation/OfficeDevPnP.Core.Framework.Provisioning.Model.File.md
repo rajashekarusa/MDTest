@@ -5,7 +5,7 @@ Defines a File element, to describe a file that will be provisioned into the tar
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class File: BaseModel
@@ -13,8 +13,8 @@ public class File: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [File()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor1.md) | 
-| [File(String, String, Boolean, IEnumerable<WebPart>, IDictionary<String, String>, ObjectSecurity, FileLevel)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor2.md) | 
+| [File()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor1.md) |  Defines a File element, to describe a file that will be provisioned into the target Site 
+| [File(String, String, Boolean, IEnumerable<WebPart>, IDictionary<String, String>, ObjectSecurity, FileLevel)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor2.md) |  Defines a File element, to describe a file that will be provisioned into the target Site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -28,8 +28,8 @@ public class File: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.3520DDBB.md) | 
-| [Equals(File)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.FD046A34.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.3520ddbb.md) | 
+| [Equals(File)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.fd046a34.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

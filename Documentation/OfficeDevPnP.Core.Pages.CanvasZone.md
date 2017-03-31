@@ -21,9 +21,8 @@ public class CanvasZone
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddSection(CanvasSection)](OfficeDevPnP.Core.Pages.CanvasZone.57197C24.md) | 
-| [AddSection(CanvasSection, Int32)](OfficeDevPnP.Core.Pages.CanvasZone.98A27E52.md) | 
-| [ToHtml()](OfficeDevPnP.Core.Pages.CanvasZone.7C2B006F.md) | 
-| [<get_Controls>b__17_0(CanvasControl)](OfficeDevPnP.Core.Pages.CanvasZone.2674E540.md) | 
+| [AddSection(CanvasSection)](OfficeDevPnP.Core.Pages.CanvasZone.57197c24.md) | 
+| [AddSection(CanvasSection, Int32)](OfficeDevPnP.Core.Pages.CanvasZone.98a27e52.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.CanvasZone.7c2b006f.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

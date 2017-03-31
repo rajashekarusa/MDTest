@@ -1,11 +1,9 @@
 # CertificateWSTrustBinding
-  
-
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md)
+--  [OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md)
 ## Syntax
 ```C#
 public class CertificateWSTrustBinding: WSTrustBinding
@@ -23,8 +21,5 @@ public class CertificateWSTrustBinding: WSTrustBinding
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ApplyTransportSecurity(HttpTransportBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.87AFDE74.md) | 
-| [CreateSecurityBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.BEEBE927.md) | 
-| [IsHttpClientCredentialTypeDefined(HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.6BD7E79A.md) | 
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

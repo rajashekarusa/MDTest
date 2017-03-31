@@ -1,6 +1,4 @@
 # MailUtility
-  
-
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -16,8 +14,8 @@ public class MailUtility
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [SendEmail(String, String, String, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.9D2D16FF.md) | 
-| [SendEmail(String, String, SecureString, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.A9E1C8F5.md) | 
-| [SendEmail(ClientContext, IEnumerable<String>, IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.71209E1D.md) | 
+| [SendEmail(String, String, String, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.9d2d16ff.md) | 
+| [SendEmail(String, String, SecureString, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.a9e1c8f5.md) | 
+| [SendEmail(ClientContext, IEnumerable<String>, IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.71209e1d.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -1,16 +1,17 @@
-Field# Field.Equals members
-  
-
+# Field.Equals Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(Field)
+public boolean Equals(Field other)
 ```
 ### Parameters
-#### other
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Field](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.md) 
-#### 
+*other*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Field](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)## See also
+Type: [System.Boolean](System.Boolean.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

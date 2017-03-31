@@ -16,7 +16,7 @@ public class WebAPIContextCache
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Put(String, WebAPIContexCacheItem)](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.47CA96E2.md) | Adds an item to the cache. Updates if the item already existed
-| [Get(String)](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.C451AEC8.md) | Gets an item from the cache
+| [Put(String, WebAPIContexCacheItem)](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.47ca96e2.md) | Adds an item to the cache. Updates if the item already existed
+| [Get(String)](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.c451aec8.md) | Gets an item from the cache
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

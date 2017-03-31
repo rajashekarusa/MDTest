@@ -5,7 +5,7 @@ Domain Object that represents an Feature.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class Feature: BaseModel
@@ -13,7 +13,7 @@ public class Feature: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) | 
+| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) |  Domain Object that represents an Feature. 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class Feature: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.3520DDBB.md) | 
-| [Equals(Feature)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.662EF537.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.3520ddbb.md) | 
+| [Equals(Feature)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.662ef537.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

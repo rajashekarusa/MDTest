@@ -1,6 +1,4 @@
 # RoleAssignmentEntity
-  
-
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -29,6 +27,6 @@ public class RoleAssignmentEntity
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToString()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.B40365CF.md) | 
+| [ToString()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.b40365cf.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

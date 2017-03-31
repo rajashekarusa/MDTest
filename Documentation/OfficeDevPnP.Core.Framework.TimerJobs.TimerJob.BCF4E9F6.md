@@ -1,4 +1,4 @@
-String, String, String# TimerJob.UseNetworkCredentialsAuthentication members
+# TimerJob.UseNetworkCredentialsAuthentication Method  
 Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType 
             to AuthenticationType.NetworkCredentials  
 
@@ -6,18 +6,23 @@ Prepares the timerjob to operate against SharePoint on-premises with user name p
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UseNetworkCredentialsAuthentication(String, String, String)
+public void UseNetworkCredentialsAuthentication(String samAccountName,String password,String domain)
 ```
 ### Parameters
-#### samAccountName
-Type: [System.String](System.String.md) 
-#### 
-#### password
-Type: [System.String](System.String.md) 
-#### 
-#### domain
-Type: [System.String](System.String.md) 
-#### 
+*samAccountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*password*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*domain*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

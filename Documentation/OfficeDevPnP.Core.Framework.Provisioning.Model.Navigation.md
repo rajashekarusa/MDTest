@@ -5,7 +5,7 @@ The Navigation configurations of the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class Navigation: BaseModel
@@ -13,8 +13,8 @@ public class Navigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) | 
-| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) | 
+| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) |  The Navigation configurations of the Provisioning Template 
+| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) |  The Navigation configurations of the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class Navigation: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.3520DDBB.md) | 
-| [Equals(Navigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.D107522B.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.3520ddbb.md) | 
+| [Equals(Navigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.d107522b.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

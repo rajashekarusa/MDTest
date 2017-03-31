@@ -1,6 +1,4 @@
 # OrderByField
-  
-
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -22,6 +20,6 @@ public class OrderByField
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToString()](OfficeDevPnP.Core.Utilities.OrderByField.B40365CF.md) | 
+| [ToString()](OfficeDevPnP.Core.Utilities.OrderByField.b40365cf.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

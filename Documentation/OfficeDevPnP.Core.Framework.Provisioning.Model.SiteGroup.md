@@ -5,7 +5,7 @@ The base type for a Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class SiteGroup: BaseModel
@@ -13,8 +13,8 @@ public class SiteGroup: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor1.md) | 
-| [SiteGroup(IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor2.md) | 
+| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor1.md) |  The base type for a Site Group 
+| [SiteGroup(IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor2.md) |  The base type for a Site Group 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -30,8 +30,8 @@ public class SiteGroup: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.3520DDBB.md) | 
-| [Equals(SiteGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.3AE0CC70.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.3520ddbb.md) | 
+| [Equals(SiteGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.3ae0cc70.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

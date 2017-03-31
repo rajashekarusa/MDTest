@@ -1,16 +1,17 @@
-PropertyChangedEventHandler# TreeNodeList.remove_PropertyChanged members
-  
-
+# TreeNodeList.remove_PropertyChanged Method  
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_PropertyChanged(PropertyChangedEventHandler)
+public void remove_PropertyChanged(PropertyChangedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [System.ComponentModel.PropertyChangedEventHandler](System.ComponentModel.PropertyChangedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [System.ComponentModel.PropertyChangedEventHandler](System.ComponentModel.PropertyChangedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

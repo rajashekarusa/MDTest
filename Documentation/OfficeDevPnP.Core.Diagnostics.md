@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Diagnostics
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

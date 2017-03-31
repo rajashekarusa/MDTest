@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class GetUserProfileByIndexCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class GetUserProfileByIndexCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserProfileByIndexCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.B4FDC4E4.md) | 
-| [BeginInvoke(Object, GetUserProfileByIndexCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.4D35BAAE.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, GetUserProfileByIndexCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.b4fdc4e4.md) | 
+| [BeginInvoke(Object, GetUserProfileByIndexCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.4d35baae.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

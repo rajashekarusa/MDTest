@@ -1,19 +1,21 @@
-Stream, String# JsonPnPFormatter.ToProvisioningTemplate members
-  
-
+# JsonPnPFormatter.ToProvisioningTemplate Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  ToProvisioningTemplate(Stream, String)
+public  ToProvisioningTemplate(Stream template,String identifier)
 ```
 ### Parameters
-#### template
-Type: [System.IO.Stream](System.IO.Stream.md) 
-#### 
-#### identifier
-Type: [System.String](System.String.md) 
-#### 
+*template*  
+&emsp;&emsp;Type: [System.IO.Stream](System.IO.Stream.md) 
+&emsp;&emsp;  
+  
+*identifier*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)## See also
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

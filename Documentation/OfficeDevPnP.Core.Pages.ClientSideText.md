@@ -5,7 +5,7 @@ Controls of type 4 ( = text control)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
+--  [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
 ## Syntax
 ```C#
 public class ClientSideText: CanvasControl
@@ -13,7 +13,7 @@ public class ClientSideText: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.ctor1.md) | 
+| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.ctor1.md) |  Controls of type 4 ( = text control) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,7 +23,6 @@ public class ClientSideText: CanvasControl
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.7C2B006F.md) | 
-| [FromHtml(IElement)](OfficeDevPnP.Core.Pages.ClientSideText.B95074D8.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.7c2b006f.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

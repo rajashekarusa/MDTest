@@ -5,7 +5,7 @@ Represents a Field XML Markup that is used to define information about a field
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class FieldRef: BaseModel
@@ -13,8 +13,8 @@ public class FieldRef: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor1.md) | 
-| [FieldRef(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor2.md) | 
+| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor1.md) |  Represents a Field XML Markup that is used to define information about a field 
+| [FieldRef(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor2.md) |  Represents a Field XML Markup that is used to define information about a field 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -26,8 +26,8 @@ public class FieldRef: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.3520DDBB.md) | 
-| [Equals(FieldRef)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.492A3778.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.3520ddbb.md) | 
+| [Equals(FieldRef)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.492a3778.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

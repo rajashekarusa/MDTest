@@ -1,29 +1,36 @@
-String, String, String, TokenCache, AzureEnvironment# AuthenticationManager.GetAzureADNativeApplicationAuthenticatedContext members
+# AuthenticationManager.GetAzureADNativeApplicationAuthenticatedContext Method  
 Returns a SharePoint ClientContext using Azure Active Directory authentication. This requires that you have a Azure AD Native Application registered. The user will be prompted for authentication.  
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetAzureADNativeApplicationAuthenticatedContext(String, String, String, TokenCache, AzureEnvironment)
+public  GetAzureADNativeApplicationAuthenticatedContext(String siteUrl,String clientId,String redirectUrl,TokenCache tokenCache,AzureEnvironment environment)
 ```
 ### Parameters
-#### siteUrl
-Type: [System.String](System.String.md) 
-#### 
-#### clientId
-Type: [System.String](System.String.md) 
-#### 
-#### redirectUrl
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) tokenCache
-Type: [Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache](Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache.md) 
-#### 
-#### (optional) environment
-Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md) 
-#### 
+*siteUrl*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*clientId*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*redirectUrl*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) tokenCache*  
+&emsp;&emsp;Type: [Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache](Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache.md) 
+&emsp;&emsp;  
+  
+*(optional) environment*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)Client context object
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md 
+)Client context object
+
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

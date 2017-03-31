@@ -12,7 +12,7 @@ public class PnPManifest
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPManifest()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.ctor1.md) | 
+| [PnPManifest()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.ctor1.md) |  Manifest of a PnP OpenXML file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

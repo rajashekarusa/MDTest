@@ -12,7 +12,7 @@ public class PnPInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.ctor1.md) | 
+| [PnPInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.ctor1.md) |  Global container of the PnP OpenXML file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

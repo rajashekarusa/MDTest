@@ -12,7 +12,7 @@ public class ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideCanvasControlData()](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.ctor1.md) | 
+| [ClientSideCanvasControlData()](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.ctor1.md) |  Abstract base class representing the json control data that will be included in each client side control (de-)serialization (data-sp-controldata attribute) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.UPAWebService
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

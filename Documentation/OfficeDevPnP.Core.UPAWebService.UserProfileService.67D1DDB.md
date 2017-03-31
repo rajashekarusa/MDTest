@@ -1,19 +1,25 @@
-String, String# UserProfileService.GetUserPropertyByAccountName members
+# UserProfileService.GetUserPropertyByAccountName Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetUserPropertyByAccountName(String, String)
+public  GetUserPropertyByAccountName(String accountName,String propertyName)
 ```
 ### Parameters
-#### accountName
-Type: [System.String](System.String.md) 
-#### 
-#### propertyName
-Type: [System.String](System.String.md) 
-#### 
+*accountName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*propertyName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyData](OfficeDevPnP.Core.UPAWebService.PropertyData.md)## See also
+Type: [OfficeDevPnP.Core.UPAWebService.PropertyData](OfficeDevPnP.Core.UPAWebService.PropertyData.md 
+)
+## Remarks 
+
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

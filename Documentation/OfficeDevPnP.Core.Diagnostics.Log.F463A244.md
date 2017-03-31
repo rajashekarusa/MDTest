@@ -1,25 +1,29 @@
-String, Exception, String, Object[]# Log.Warning members
-  
-
+# Log.Warning Method  
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void Warning(String, Exception, String, Object[])
+public static void Warning(String source,Exception ex,String message,Object[] args)
 ```
 ### Parameters
-#### source
-Type: [System.String](System.String.md) 
-#### 
-#### ex
-Type: [System.Exception](System.Exception.md) 
-#### 
-#### message
-Type: [System.String](System.String.md) 
-#### 
-#### args
-Type: [System.Object[]](System.Object[].md) 
-#### 
+*source*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*ex*  
+&emsp;&emsp;Type: [System.Exception](System.Exception.md) 
+&emsp;&emsp;  
+  
+*message*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*args*  
+&emsp;&emsp;Type: [System.Object[]](System.Object[].md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

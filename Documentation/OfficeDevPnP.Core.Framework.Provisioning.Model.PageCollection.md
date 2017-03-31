@@ -5,7 +5,7 @@ Collection of Page objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md)
 ## Syntax
 ```C#
 public class PageCollection: ProvisioningTemplateCollection<Page>
@@ -13,6 +13,6 @@ public class PageCollection: ProvisioningTemplateCollection<Page>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.ctor1.md) | 
+| [PageCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.ctor1.md) |  Collection of Page objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,11 +1,9 @@
 # ObjectSecurity
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class ObjectSecurity: BaseModel
@@ -24,8 +22,8 @@ public class ObjectSecurity: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.3520DDBB.md) | 
-| [Equals(ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.7E96C81B.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.3520ddbb.md) | 
+| [Equals(ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.7e96c81b.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

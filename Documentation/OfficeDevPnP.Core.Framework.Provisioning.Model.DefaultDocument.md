@@ -5,7 +5,7 @@ A default document for a Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class DefaultDocument: BaseModel
@@ -13,7 +13,7 @@ public class DefaultDocument: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) | 
+| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) |  A default document for a Document Set 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class DefaultDocument: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.3520DDBB.md) | 
-| [Equals(DefaultDocument)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.449EA3B3.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.3520ddbb.md) | 
+| [Equals(DefaultDocument)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.449ea3b3.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

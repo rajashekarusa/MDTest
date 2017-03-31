@@ -1,6 +1,4 @@
 # ProvisioningTemplateCreationInformation
-  
-
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -29,7 +27,6 @@ public class ProvisioningTemplateCreationInformation
 | [IncludeAllTermGroups](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.IncludeAllTermGroups.md) | 
 | [IncludeSiteCollectionTermGroup](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.IncludeSiteCollectionTermGroup.md) | 
 | [IncludeTermGroupsSecurity](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.IncludeTermGroupsSecurity.md) | 
-| [PropertyBagPropertiesToPreserve](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.PropertyBagPropertiesToPreserve.md) | 
 | [IncludeSiteGroups](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.IncludeSiteGroups.md) | 
 | [IncludeSearchConfiguration](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.IncludeSearchConfiguration.md) | 
 | [HandlersToProcess](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.HandlersToProcess.md) | 

@@ -1,22 +1,25 @@
-String, String, Object[]# Log.Debug members
-  
-
+# Log.Debug Method  
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void Debug(String, String, Object[])
+public static void Debug(String source,String message,Object[] args)
 ```
 ### Parameters
-#### source
-Type: [System.String](System.String.md) 
-#### 
-#### message
-Type: [System.String](System.String.md) 
-#### 
-#### args
-Type: [System.Object[]](System.Object[].md) 
-#### 
+*source*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*message*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*args*  
+&emsp;&emsp;Type: [System.Object[]](System.Object[].md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

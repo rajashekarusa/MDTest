@@ -1,6 +1,4 @@
 # CredentialManager
-  
-
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
@@ -12,7 +10,7 @@ public static class CredentialManager
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetSharePointOnlineCredential(String)](OfficeDevPnP.Core.Utilities.CredentialManager.79DC3E98.md) | Returns a SharePoint Online Credential given a certain name. Add the credential in the Windows Credential Manager and create a new Windows Credential. Then add a new GENERIC Credential. The name parameter in the method maps to the Internet or network address field.
-| [GetCredential(String)](OfficeDevPnP.Core.Utilities.CredentialManager.9BE51D8D.md) | Returns a NetworkCredential given a certain name. Add the credential in the Windows Credential Manager and create a new Windows Credential. Then add a new GENERIC Credential. The name parameter in the method maps to the Internet or network address field.
+| [GetSharePointOnlineCredential(String)](OfficeDevPnP.Core.Utilities.CredentialManager.79dc3e98.md) | Returns a SharePoint Online Credential given a certain name. Add the credential in the Windows Credential Manager and create a new Windows Credential. Then add a new GENERIC Credential. The name parameter in the method maps to the Internet or network address field.
+| [GetCredential(String)](OfficeDevPnP.Core.Utilities.CredentialManager.9be51d8d.md) | Returns a NetworkCredential given a certain name. Add the credential in the Windows Credential Manager and create a new Windows Credential. Then add a new GENERIC Credential. The name parameter in the method maps to the Internet or network address field.
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

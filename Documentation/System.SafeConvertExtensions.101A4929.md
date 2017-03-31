@@ -1,16 +1,17 @@
-String# SafeConvertExtensions.ToEnum members
-  
-
+# SafeConvertExtensions.ToEnum Method  
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ToEnum(String)
+public static  ToEnum(String name)
 ```
 ### Parameters
-#### name
-Type: [System.String](System.String.md) 
-#### 
+*name*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [T](T.md)## See also
+Type: [T](T.md 
+)
+## See also
 - [System](System.md)

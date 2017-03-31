@@ -1,25 +1,31 @@
-String, String, Int32, Int32# UnifiedGroupsUtility.DeleteUnifiedGroup members
+# UnifiedGroupsUtility.DeleteUnifiedGroup Method  
 Deletes an Office 365 Group (i.e. Unified Group)  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteUnifiedGroup(String, String, Int32, Int32)
+public static void DeleteUnifiedGroup(String groupId,String accessToken,Int32 retryCount,Int32 delay)
 ```
 ### Parameters
-#### groupId
-Type: [System.String](System.String.md) 
-#### 
-#### accessToken
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) retryCount
-Type: [System.Int32](System.Int32.md) 
-#### 
-#### (optional) delay
-Type: [System.Int32](System.Int32.md) 
-#### 
+*groupId*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*accessToken*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) retryCount*  
+&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;  
+  
+*(optional) delay*  
+&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

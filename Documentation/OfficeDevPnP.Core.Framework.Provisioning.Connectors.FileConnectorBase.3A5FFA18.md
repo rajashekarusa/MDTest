@@ -1,19 +1,21 @@
-String, String# FileConnectorBase.AddParameterAsString members
-  
-
+# FileConnectorBase.AddParameterAsString Method  
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddParameterAsString(String, String)
+public void AddParameterAsString(String key,String value)
 ```
 ### Parameters
-#### key
-Type: [System.String](System.String.md) 
-#### 
-#### value
-Type: [System.String](System.String.md) 
-#### 
+*key*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*value*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

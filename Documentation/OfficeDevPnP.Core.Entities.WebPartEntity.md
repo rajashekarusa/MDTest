@@ -12,7 +12,7 @@ public class WebPartEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartEntity()](OfficeDevPnP.Core.Entities.WebPartEntity.ctor1.md) | 
+| [WebPartEntity()](OfficeDevPnP.Core.Entities.WebPartEntity.ctor1.md) |  Class that describes information about a web part 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,28 +1,35 @@
-Web, Field, String, String, Boolean# TaxonomyExtensions.WireUpTaxonomyField members
+# TaxonomyExtensions.WireUpTaxonomyField Method  
 Wires up MMS field to the specified term set.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void WireUpTaxonomyField(Web, Field, String, String, Boolean)
+public static void WireUpTaxonomyField(Web web,Field field,String mmsGroupName,String mmsTermSetName,Boolean multiValue)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### field
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md) 
-#### 
-#### mmsGroupName
-Type: [System.String](System.String.md) 
-#### 
-#### mmsTermSetName
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) multiValue
-Type: [System.Boolean](System.Boolean.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*field*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md) 
+&emsp;&emsp;  
+  
+*mmsGroupName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*mmsTermSetName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) multiValue*  
+&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

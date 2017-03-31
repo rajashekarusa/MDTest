@@ -1,4 +1,4 @@
-# ClientSideText.ToHtml members
+# ClientSideText.ToHtml Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
@@ -8,6 +8,8 @@
 public string ToHtml()
 ```
 ### Return Value
-Type: [System.String](System.String.md)Html representation of this  control
+Type: [System.String](System.String.md 
+)Html representation of this  control
+
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

@@ -1,22 +1,27 @@
-Web, String, String# BrandingExtensions.SetMasterPagesByName members
+# BrandingExtensions.SetMasterPagesByName Method  
 Can be used to set master page and custom master page in single command  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetMasterPagesByName(Web, String, String)
+public static void SetMasterPagesByName(Web web,String masterPageName,String customMasterPageName)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### masterPageName
-Type: [System.String](System.String.md) 
-#### 
-#### customMasterPageName
-Type: [System.String](System.String.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*masterPageName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*customMasterPageName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

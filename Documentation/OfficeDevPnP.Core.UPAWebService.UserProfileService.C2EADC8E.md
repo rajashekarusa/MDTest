@@ -1,16 +1,17 @@
-GetCommonColleaguesCompletedEventHandler# UserProfileService.remove_GetCommonColleaguesCompleted members
-  
-
+# UserProfileService.remove_GetCommonColleaguesCompleted Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_GetCommonColleaguesCompleted(GetCommonColleaguesCompletedEventHandler)
+public void remove_GetCommonColleaguesCompleted(GetCommonColleaguesCompletedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [System.MulticastDelegate](System.MulticastDelegate.md)
+--  [System.MulticastDelegate](System.MulticastDelegate.md)
 ## Syntax
 ```C#
 public class AddColleagueCompletedEventHandler: MulticastDelegate
@@ -17,8 +17,8 @@ public class AddColleagueCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddColleagueCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.8798BEB2.md) | 
-| [BeginInvoke(Object, AddColleagueCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.842F29A4.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.C9867657.md) | 
+| [Invoke(Object, AddColleagueCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.8798beb2.md) | 
+| [BeginInvoke(Object, AddColleagueCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.842f29a4.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.c9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

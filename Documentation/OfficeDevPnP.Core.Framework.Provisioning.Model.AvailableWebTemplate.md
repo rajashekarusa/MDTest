@@ -5,7 +5,7 @@ Defines an available Web Template for the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class AvailableWebTemplate: BaseModel
@@ -13,7 +13,7 @@ public class AvailableWebTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) | 
+| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) |  Defines an available Web Template for the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class AvailableWebTemplate: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.3520DDBB.md) | 
-| [Equals(AvailableWebTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.B6A22B29.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.3520ddbb.md) | 
+| [Equals(AvailableWebTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.b6a22b29.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Provisioning.Connectors
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

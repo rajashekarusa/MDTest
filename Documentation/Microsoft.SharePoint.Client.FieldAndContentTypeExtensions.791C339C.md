@@ -1,28 +1,35 @@
-List, String, String, String, String# FieldAndContentTypeExtensions.SetLocalizationForField members
+# FieldAndContentTypeExtensions.SetLocalizationForField Method  
 Set localized labels for field  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetLocalizationForField(List, String, String, String, String)
+public static void SetLocalizationForField(List list,String siteColumnName,String cultureName,String titleResource,String descriptionResource)
 ```
 ### Parameters
-#### list
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-#### 
-#### siteColumnName
-Type: [System.String](System.String.md) 
-#### 
-#### cultureName
-Type: [System.String](System.String.md) 
-#### 
-#### titleResource
-Type: [System.String](System.String.md) 
-#### 
-#### descriptionResource
-Type: [System.String](System.String.md) 
-#### 
+*list*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
+&emsp;&emsp;  
+  
+*siteColumnName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*cultureName*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*titleResource*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*descriptionResource*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

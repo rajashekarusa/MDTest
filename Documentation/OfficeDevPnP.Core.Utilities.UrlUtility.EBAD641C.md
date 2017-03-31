@@ -1,19 +1,21 @@
-String, String# UrlUtility.ReplaceInvalidUrlChars members
-  
-
+# UrlUtility.ReplaceInvalidUrlChars Method  
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ReplaceInvalidUrlChars(String, String)
+public static string ReplaceInvalidUrlChars(String content,String replacer)
 ```
 ### Parameters
-#### content
-Type: [System.String](System.String.md) 
-#### 
-#### replacer
-Type: [System.String](System.String.md) 
-#### 
+*content*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*replacer*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.String](System.String.md)## See also
+Type: [System.String](System.String.md 
+)
+## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

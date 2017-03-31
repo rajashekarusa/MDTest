@@ -5,7 +5,7 @@ Defines the Publishing configuration to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class Publishing: BaseModel
@@ -13,8 +13,8 @@ public class Publishing: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor1.md) | 
-| [Publishing(AutoCheckRequirementsOptions, DesignPackage, IEnumerable<AvailableWebTemplate>, IEnumerable<PageLayout>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor2.md) | 
+| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor1.md) |  Defines the Publishing configuration to provision 
+| [Publishing(AutoCheckRequirementsOptions, DesignPackage, IEnumerable<AvailableWebTemplate>, IEnumerable<PageLayout>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor2.md) |  Defines the Publishing configuration to provision 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,8 +25,8 @@ public class Publishing: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.3520DDBB.md) | 
-| [Equals(Publishing)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.200C6540.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.3520ddbb.md) | 
+| [Equals(Publishing)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.200c6540.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.WebAPI
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

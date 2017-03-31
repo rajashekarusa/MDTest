@@ -1,22 +1,25 @@
-ListItem, Guid, IDictionary<String, Object># WorkflowExtensions.StartWorkflowInstance members
-  
-
+# WorkflowExtensions.StartWorkflowInstance Method  
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid StartWorkflowInstance(ListItem, Guid, IDictionary<String, Object>)
+public static guid StartWorkflowInstance(ListItem item,Guid subscriptionId,IDictionary<String, Object> payload)
 ```
 ### Parameters
-#### item
-Type: [Microsoft.SharePoint.Client.ListItem](Microsoft.SharePoint.Client.ListItem.md) 
-#### 
-#### subscriptionId
-Type: [System.Guid](System.Guid.md) 
-#### 
-#### payload
-Type: [System.Collections.Generic.IDictionary`2<System.String,System.Object>](System.Collections.Generic.IDictionary`2<System.String,System.Object>.md) 
-#### 
+*item*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ListItem](Microsoft.SharePoint.Client.ListItem.md) 
+&emsp;&emsp;  
+  
+*subscriptionId*  
+&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;  
+  
+*payload*  
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<System.String,System.Object>](System.Collections.Generic.IDictionary<System.String,System.Object>.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Guid](System.Guid.md)## See also
+Type: [System.Guid](System.Guid.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

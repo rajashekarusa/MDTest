@@ -1,19 +1,21 @@
-Object, GetUserColleaguesCompletedEventArgs# GetUserColleaguesCompletedEventHandler.Invoke members
-  
-
+# GetUserColleaguesCompletedEventHandler.Invoke Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Invoke(Object, GetUserColleaguesCompletedEventArgs)
+public void Invoke(Object sender,GetUserColleaguesCompletedEventArgs e)
 ```
 ### Parameters
-#### sender
-Type: [System.Object](System.Object.md) 
-#### 
-#### e
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs.md) 
-#### 
+*sender*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
+*e*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

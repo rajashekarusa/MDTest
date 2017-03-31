@@ -5,7 +5,7 @@ Defines a DocumentSet Template for creating multiple DocumentSet instances
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
 ## Syntax
 ```C#
 public class DocumentSetTemplate: BaseModel
@@ -13,8 +13,8 @@ public class DocumentSetTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor1.md) | 
-| [DocumentSetTemplate(String, IEnumerable<String>, IEnumerable<DefaultDocument>, IEnumerable<Guid>, IEnumerable<Guid>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor2.md) | 
+| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor1.md) |  Defines a DocumentSet Template for creating multiple DocumentSet instances 
+| [DocumentSetTemplate(String, IEnumerable<String>, IEnumerable<DefaultDocument>, IEnumerable<Guid>, IEnumerable<Guid>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor2.md) |  Defines a DocumentSet Template for creating multiple DocumentSet instances 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -26,8 +26,8 @@ public class DocumentSetTemplate: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.1C6872BD.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.3520DDBB.md) | 
-| [Equals(DocumentSetTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.9B91D7BE.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.3520ddbb.md) | 
+| [Equals(DocumentSetTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.9b91d7be.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

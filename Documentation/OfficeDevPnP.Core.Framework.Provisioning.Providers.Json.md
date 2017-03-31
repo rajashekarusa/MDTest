@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Framework.Provisioning.Providers.Json
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

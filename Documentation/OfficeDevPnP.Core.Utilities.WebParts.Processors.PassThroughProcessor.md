@@ -12,10 +12,10 @@ public class PassThroughProcessor
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PassThroughProcessor()](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.ctor1.md) | 
+| [PassThroughProcessor()](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.ctor1.md) |  Default processor when others are not resolved 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Process(WebPartDefinition, File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.BEDADEAC.md) | 
+| [Process(WebPartDefinition, File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.bedadeac.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)

@@ -1,25 +1,29 @@
-Object, GetUserColleaguesCompletedEventArgs, AsyncCallback, Object# GetUserColleaguesCompletedEventHandler.BeginInvoke members
-  
-
+# GetUserColleaguesCompletedEventHandler.BeginInvoke Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public iasyncresult BeginInvoke(Object, GetUserColleaguesCompletedEventArgs, AsyncCallback, Object)
+public iasyncresult BeginInvoke(Object sender,GetUserColleaguesCompletedEventArgs e,AsyncCallback callback,Object object)
 ```
 ### Parameters
-#### sender
-Type: [System.Object](System.Object.md) 
-#### 
-#### e
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs.md) 
-#### 
-#### callback
-Type: [System.AsyncCallback](System.AsyncCallback.md) 
-#### 
-#### object
-Type: [System.Object](System.Object.md) 
-#### 
+*sender*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
+*e*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs.md) 
+&emsp;&emsp;  
+  
+*callback*  
+&emsp;&emsp;Type: [System.AsyncCallback](System.AsyncCallback.md) 
+&emsp;&emsp;  
+  
+*object*  
+&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.IAsyncResult](System.IAsyncResult.md)## See also
+Type: [System.IAsyncResult](System.IAsyncResult.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

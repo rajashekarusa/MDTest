@@ -1,20 +1,24 @@
-String, String# UrlUtility.AppendQueryString members
+# UrlUtility.AppendQueryString Method  
   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string AppendQueryString(String, String)
+public static string AppendQueryString(String path,String queryString)
 ```
 ### Parameters
-#### path
-Type: [System.String](System.String.md) 
-#### 
-#### queryString
-Type: [System.String](System.String.md) 
-#### 
+*path*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*queryString*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.String](System.String.md)
+Type: [System.String](System.String.md 
+)
+
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

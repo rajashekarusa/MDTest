@@ -1,5 +1,4 @@
 # OfficeDevPnP.Core.Utilities.WebParts.Schema
-
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|

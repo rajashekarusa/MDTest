@@ -1,16 +1,17 @@
-UpdateColleaguePrivacyCompletedEventHandler# UserProfileService.remove_UpdateColleaguePrivacyCompleted members
-  
-
+# UserProfileService.remove_UpdateColleaguePrivacyCompleted Method  
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_UpdateColleaguePrivacyCompleted(UpdateColleaguePrivacyCompletedEventHandler)
+public void remove_UpdateColleaguePrivacyCompleted(UpdateColleaguePrivacyCompletedEventHandler value)
 ```
 ### Parameters
-#### value
-Type: [OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler.md) 
-#### 
+*value*  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

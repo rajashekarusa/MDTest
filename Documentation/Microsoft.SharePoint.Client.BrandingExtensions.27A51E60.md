@@ -1,31 +1,39 @@
-Web, String, String, String, String, String# BrandingExtensions.DeployPageLayout members
+# BrandingExtensions.DeployPageLayout Method  
   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeployPageLayout(Web, String, String, String, String, String)
+public static void DeployPageLayout(Web web,String sourceFilePath,String title,String description,String associatedContentTypeID,String folderHierarchy)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### sourceFilePath
-Type: [System.String](System.String.md) 
-#### 
-#### title
-Type: [System.String](System.String.md) 
-#### 
-#### description
-Type: [System.String](System.String.md) 
-#### 
-#### associatedContentTypeID
-Type: [System.String](System.String.md) 
-#### 
-#### (optional) folderHierarchy
-Type: [System.String](System.String.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*sourceFilePath*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*title*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*description*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*associatedContentTypeID*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
+*(optional) folderHierarchy*  
+&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

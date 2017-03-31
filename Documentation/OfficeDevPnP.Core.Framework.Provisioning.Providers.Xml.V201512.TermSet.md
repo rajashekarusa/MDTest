@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem.md)
+--  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem.md)
 ## Syntax
 ```C#
 public class TermSet: TermSetItem

@@ -1,0 +1,20 @@
+# Security.Properties SiteGroups
+  
+
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
+## Syntax
+```C#
+public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[] SiteGroups { get; }
+public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[] SiteGroups { set; }
+```
+
+### Property Value
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[].md) 
+
+## Remarks 
+
+## See also
+- [Security](Security.md) 
+
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

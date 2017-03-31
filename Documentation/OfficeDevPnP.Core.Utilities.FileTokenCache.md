@@ -1,11 +1,9 @@
 # FileTokenCache
-  
-
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
--- [Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache](Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache.md)
+--  [Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache](Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache.md)
 ## Syntax
 ```C#
 public class FileTokenCache: TokenCache
@@ -17,8 +15,6 @@ public class FileTokenCache: TokenCache
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Clear()](OfficeDevPnP.Core.Utilities.FileTokenCache.87DB2.md) | 
-| [BeforeAccessNotification(TokenCacheNotificationArgs)](OfficeDevPnP.Core.Utilities.FileTokenCache.8EC175D9.md) | 
-| [AfterAccessNotification(TokenCacheNotificationArgs)](OfficeDevPnP.Core.Utilities.FileTokenCache.82C187BD.md) | 
+| [Clear()](OfficeDevPnP.Core.Utilities.FileTokenCache.87db2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

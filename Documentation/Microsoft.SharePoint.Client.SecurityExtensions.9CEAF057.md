@@ -1,4 +1,4 @@
-Web, Group, Group, Group# SecurityExtensions.AssociateDefaultGroups members
+# SecurityExtensions.AssociateDefaultGroups Method  
 Associate the provided groups as default owners, members or visitors groups. If a group is null then the 
             association is not done  
 
@@ -6,21 +6,27 @@ Associate the provided groups as default owners, members or visitors groups. If 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AssociateDefaultGroups(Web, Group, Group, Group)
+public static void AssociateDefaultGroups(Web web,Group owners,Group members,Group visitors)
 ```
 ### Parameters
-#### web
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-#### 
-#### owners
-Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
-#### 
-#### members
-Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
-#### 
-#### visitors
-Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
-#### 
+*web*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;  
+  
+*owners*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
+&emsp;&emsp;  
+  
+*members*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
+&emsp;&emsp;  
+  
+*visitors*  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
+&emsp;&emsp;  
+  
 ### Return Value
-Type: [System.Void](System.Void.md)## See also
+Type: [System.Void](System.Void.md 
+)
+## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
