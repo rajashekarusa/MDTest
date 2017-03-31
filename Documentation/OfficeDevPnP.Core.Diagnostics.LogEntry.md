@@ -12,7 +12,7 @@ public class LogEntry
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogEntry()](OfficeDevPnP.Core.Diagnostics.LogEntry.Constructor1details.md) | 
+| [LogEntry()](OfficeDevPnP.Core.Diagnostics.LogEntry.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

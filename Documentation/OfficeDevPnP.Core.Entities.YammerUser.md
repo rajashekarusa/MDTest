@@ -13,7 +13,7 @@ public class YammerUser
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUser()](OfficeDevPnP.Core.Entities.YammerUser.Constructor1details.md) | 
+| [YammerUser()](OfficeDevPnP.Core.Entities.YammerUser.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

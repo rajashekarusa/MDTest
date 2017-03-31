@@ -13,12 +13,12 @@ public class TimerJobRunHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJobRunHandler(Object, IntPtr)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.Constructor1details.md) | 
+| [TimerJobRunHandler(Object, IntPtr)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, TimerJobRunEventArgs)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.InvokeObjectTimerJobRunEventArgs.md) | 
-| [BeginInvoke(Object, TimerJobRunEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.BeginInvokeObjectTimerJobRunEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, TimerJobRunEventArgs)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.F1618DF4.md) | 
+| [BeginInvoke(Object, TimerJobRunEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.5D9CA054.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

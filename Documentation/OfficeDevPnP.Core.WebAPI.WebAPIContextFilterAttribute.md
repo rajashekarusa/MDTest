@@ -13,10 +13,10 @@ public class WebAPIContextFilterAttribute: ActionFilterAttribute
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContextFilterAttribute()](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.Constructor1details.md) | 
+| [WebAPIContextFilterAttribute()](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [OnActionExecuting(Web.Http.Controllers.HttpActionContext)](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.OnActionExecutingWeb.Http.Controllers.HttpActionContext.md) | 
+| [OnActionExecuting(HttpActionContext)](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.2983F523.md) | 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

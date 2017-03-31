@@ -13,7 +13,7 @@ public class Term: TermSetItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Term.Constructor1details.md) | 
+| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Term.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

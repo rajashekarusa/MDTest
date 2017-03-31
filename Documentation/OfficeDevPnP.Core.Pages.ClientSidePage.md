@@ -12,8 +12,8 @@ public class ClientSidePage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSidePage()](OfficeDevPnP.Core.Pages.ClientSidePage.Constructor1details.md) | 
-| [ClientSidePage(ClientContext)](OfficeDevPnP.Core.Pages.ClientSidePage.Constructor2details.md) | 
+| [ClientSidePage()](OfficeDevPnP.Core.Pages.ClientSidePage.ctor1.md) | 
+| [ClientSidePage(ClientContext)](OfficeDevPnP.Core.Pages.ClientSidePage.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -26,27 +26,27 @@ public class ClientSidePage
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddZone(CanvasZone)](OfficeDevPnP.Core.Pages.ClientSidePage.AddZoneCanvasZone.md) | 
-| [AddZone(CanvasZone, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.AddZoneCanvasZoneInt32.md) | 
-| [AddControl(CanvasControl)](OfficeDevPnP.Core.Pages.ClientSidePage.AddControlCanvasControl.md) | 
-| [AddControl(CanvasControl, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.AddControlCanvasControlInt32.md) | 
-| [AddControl(CanvasControl, CanvasZone)](OfficeDevPnP.Core.Pages.ClientSidePage.AddControlCanvasControlCanvasZone.md) | 
-| [AddControl(CanvasControl, CanvasZone, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.AddControlCanvasControlCanvasZoneInt32.md) | 
-| [AddControl(CanvasControl, CanvasSection)](OfficeDevPnP.Core.Pages.ClientSidePage.AddControlCanvasControlCanvasSection.md) | 
-| [AddControl(CanvasControl, CanvasSection, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.AddControlCanvasControlCanvasSectionInt32.md) | 
-| [Delete()](OfficeDevPnP.Core.Pages.ClientSidePage.Delete.md) | 
-| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSidePage.ToHtml.md) | 
-| [Load(Microsoft.SharePoint.Client.ClientContext, String)](OfficeDevPnP.Core.Pages.ClientSidePage.LoadMicrosoft.SharePoint.Client.ClientContextString.md) | 
-| [Save(String)](OfficeDevPnP.Core.Pages.ClientSidePage.SaveString.md) | 
-| [FromHtml(String)](OfficeDevPnP.Core.Pages.ClientSidePage.FromHtmlString.md) | 
-| [InstantiateDefaultWebPart(DefaultClientSideWebParts)](OfficeDevPnP.Core.Pages.ClientSidePage.InstantiateDefaultWebPartDefaultClientSideWebParts.md) | 
-| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.ClientSidePage.AvailableClientSideComponents.md) | 
-| [AvailableClientSideComponents(DefaultClientSideWebParts)](OfficeDevPnP.Core.Pages.ClientSidePage.AvailableClientSideComponentsDefaultClientSideWebParts.md) | 
-| [AvailableClientSideComponents(String)](OfficeDevPnP.Core.Pages.ClientSidePage.AvailableClientSideComponentsString.md) | 
-| [LoadFromHtml(String)](OfficeDevPnP.Core.Pages.ClientSidePage.LoadFromHtmlString.md) | 
-| [GetClientSideWebPartsAsync(String, Microsoft.SharePoint.Client.ClientContext)](OfficeDevPnP.Core.Pages.ClientSidePage.GetClientSideWebPartsAsyncStringMicrosoft.SharePoint.Client.ClientContext.md) | 
-| [InitializeSecurity()](OfficeDevPnP.Core.Pages.ClientSidePage.InitializeSecurity.md) | 
-| [Context_ExecutingWebRequest(Object, Microsoft.SharePoint.Client.WebRequestEventArgs)](OfficeDevPnP.Core.Pages.ClientSidePage.Context_ExecutingWebRequestObjectMicrosoft.SharePoint.Client.WebRequestEventArgs.md) | 
-| [ClientSideWebPartEnumToName(DefaultClientSideWebParts)](OfficeDevPnP.Core.Pages.ClientSidePage.ClientSideWebPartEnumToNameDefaultClientSideWebParts.md) | 
+| [AddZone(CanvasZone)](OfficeDevPnP.Core.Pages.ClientSidePage.4617FCA2.md) | 
+| [AddZone(CanvasZone, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.A747BFBE.md) | 
+| [AddControl(CanvasControl)](OfficeDevPnP.Core.Pages.ClientSidePage.6602702A.md) | 
+| [AddControl(CanvasControl, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.25BD9616.md) | 
+| [AddControl(CanvasControl, CanvasZone)](OfficeDevPnP.Core.Pages.ClientSidePage.38A1E3B9.md) | 
+| [AddControl(CanvasControl, CanvasZone, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.CC95A39B.md) | 
+| [AddControl(CanvasControl, CanvasSection)](OfficeDevPnP.Core.Pages.ClientSidePage.DF7F51FA.md) | 
+| [AddControl(CanvasControl, CanvasSection, Int32)](OfficeDevPnP.Core.Pages.ClientSidePage.721601F8.md) | 
+| [Delete()](OfficeDevPnP.Core.Pages.ClientSidePage.19CB6464.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSidePage.7C2B006F.md) | 
+| [Load(ClientContext, String)](OfficeDevPnP.Core.Pages.ClientSidePage.83CD9DEC.md) | 
+| [Save(String)](OfficeDevPnP.Core.Pages.ClientSidePage.679AE7D1.md) | 
+| [FromHtml(String)](OfficeDevPnP.Core.Pages.ClientSidePage.5145F098.md) | 
+| [InstantiateDefaultWebPart(DefaultClientSideWebParts)](OfficeDevPnP.Core.Pages.ClientSidePage.C91A53C3.md) | 
+| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.ClientSidePage.B6DDDE41.md) | 
+| [AvailableClientSideComponents(DefaultClientSideWebParts)](OfficeDevPnP.Core.Pages.ClientSidePage.6BEEFF0E.md) | 
+| [AvailableClientSideComponents(String)](OfficeDevPnP.Core.Pages.ClientSidePage.FD6341CA.md) | 
+| [LoadFromHtml(String)](OfficeDevPnP.Core.Pages.ClientSidePage.B544B05C.md) | 
+| [GetClientSideWebPartsAsync(String, ClientContext)](OfficeDevPnP.Core.Pages.ClientSidePage.FA05BADF.md) | 
+| [InitializeSecurity()](OfficeDevPnP.Core.Pages.ClientSidePage.D642971C.md) | 
+| [Context_ExecutingWebRequest(Object, WebRequestEventArgs)](OfficeDevPnP.Core.Pages.ClientSidePage.C4F74249.md) | 
+| [ClientSideWebPartEnumToName(DefaultClientSideWebParts)](OfficeDevPnP.Core.Pages.ClientSidePage.6DE96379.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

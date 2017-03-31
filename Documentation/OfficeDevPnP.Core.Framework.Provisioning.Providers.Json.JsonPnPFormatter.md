@@ -12,14 +12,14 @@ public class JsonPnPFormatter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonPnPFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.Constructor1details.md) | 
+| [JsonPnPFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Initialize(OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.InitializeOfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md) | 
-| [IsValid(IO.Stream)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.IsValidIO.Stream.md) | 
-| [ToFormattedTemplate(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ToFormattedTemplateOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) | 
-| [ToProvisioningTemplate(IO.Stream)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ToProvisioningTemplateIO.Stream.md) | 
-| [ToProvisioningTemplate(IO.Stream, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ToProvisioningTemplateIO.StreamString.md) | 
+| [Initialize(TemplateProviderBase)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.D92F5067.md) | 
+| [IsValid(Stream)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.13870F06.md) | 
+| [ToFormattedTemplate(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.34498A5D.md) | 
+| [ToProvisioningTemplate(Stream)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.D70E8F84.md) | 
+| [ToProvisioningTemplate(Stream, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.FEF913EF.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

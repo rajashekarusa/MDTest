@@ -13,12 +13,12 @@ public class GetPropertyChoiceListCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetPropertyChoiceListCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.Constructor1details.md) | 
+| [GetPropertyChoiceListCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetPropertyChoiceListCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.InvokeObjectGetPropertyChoiceListCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetPropertyChoiceListCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.BeginInvokeObjectGetPropertyChoiceListCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetPropertyChoiceListCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.DF37731E.md) | 
+| [BeginInvoke(Object, GetPropertyChoiceListCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.E0C4BFFE.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -12,7 +12,7 @@ public class SiteEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteEntity()](OfficeDevPnP.Core.Entities.SiteEntity.Constructor1details.md) | 
+| [SiteEntity()](OfficeDevPnP.Core.Entities.SiteEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

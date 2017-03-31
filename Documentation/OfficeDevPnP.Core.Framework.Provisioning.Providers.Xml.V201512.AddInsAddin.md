@@ -12,7 +12,7 @@ public class AddInsAddin
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddInsAddin()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AddInsAddin.Constructor1details.md) | 
+| [AddInsAddin()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AddInsAddin.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

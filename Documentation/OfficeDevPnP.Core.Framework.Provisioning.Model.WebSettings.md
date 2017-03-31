@@ -13,9 +13,9 @@ public class WebSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Constructor1details.md) | 
-| [WebSettings(Boolean, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Constructor2details.md) | 
-| [WebSettings(Boolean, String, String, String, String, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.Constructor3details.md) | 
+| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor1.md) | 
+| [WebSettings(Boolean, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor2.md) | 
+| [WebSettings(Boolean, String, String, String, String, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor3.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,8 +31,8 @@ public class WebSettings: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.EqualsObject.md) | 
-| [Equals(WebSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.EqualsWebSettings.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.3520DDBB.md) | 
+| [Equals(WebSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.DDE1A265.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

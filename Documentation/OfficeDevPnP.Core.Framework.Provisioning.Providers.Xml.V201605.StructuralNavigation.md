@@ -12,7 +12,7 @@ public class StructuralNavigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation.Constructor1details.md) | 
+| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,7 +12,7 @@ public class PnPPackageFileItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Constructor1details.md) | 
+| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

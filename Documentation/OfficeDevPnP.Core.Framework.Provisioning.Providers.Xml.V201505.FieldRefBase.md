@@ -12,7 +12,7 @@ public class FieldRefBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.Constructor1details.md) | 
+| [FieldRefBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

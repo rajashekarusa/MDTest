@@ -12,13 +12,13 @@ public static class ExceptionExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToDetailedString(Exception)](System.ExceptionExtensions.ToDetailedStringException.md) | 
-| [ToDetailedString(Exception, Microsoft.SharePoint.Client.ClientRuntimeContext)](System.ExceptionExtensions.ToDetailedStringExceptionMicrosoft.SharePoint.Client.ClientRuntimeContext.md) | 
-| [ToDetailedString(Exception, ExceptionOptions)](System.ExceptionExtensions.ToDetailedStringExceptionExceptionOptions.md) | 
-| [ToDetailedString(Exception, Microsoft.SharePoint.Client.ClientRuntimeContext, ExceptionOptions)](System.ExceptionExtensions.ToDetailedStringExceptionMicrosoft.SharePoint.Client.ClientRuntimeContextExceptionOptions.md) | 
-| [AppendCollection(Text.StringBuilder, String, Collections.IEnumerable, ExceptionOptions)](System.ExceptionExtensions.AppendCollectionText.StringBuilderStringCollections.IEnumerableExceptionOptions.md) | 
-| [AppendException(Text.StringBuilder, String, Exception, ExceptionOptions)](System.ExceptionExtensions.AppendExceptionText.StringBuilderStringExceptionExceptionOptions.md) | 
-| [IndentString(String, ExceptionOptions)](System.ExceptionExtensions.IndentStringStringExceptionOptions.md) | 
-| [AppendValue(Text.StringBuilder, String, Object, ExceptionOptions)](System.ExceptionExtensions.AppendValueText.StringBuilderStringObjectExceptionOptions.md) | 
+| [ToDetailedString(Exception)](System.ExceptionExtensions.6E941FA.md) | 
+| [ToDetailedString(Exception, ClientRuntimeContext)](System.ExceptionExtensions.6222EEB0.md) | 
+| [ToDetailedString(Exception, ExceptionOptions)](System.ExceptionExtensions.D8E5764E.md) | 
+| [ToDetailedString(Exception, ClientRuntimeContext, ExceptionOptions)](System.ExceptionExtensions.2EC4636B.md) | 
+| [AppendCollection(StringBuilder, String, IEnumerable, ExceptionOptions)](System.ExceptionExtensions.A34F6658.md) | 
+| [AppendException(StringBuilder, String, Exception, ExceptionOptions)](System.ExceptionExtensions.79B997D9.md) | 
+| [IndentString(String, ExceptionOptions)](System.ExceptionExtensions.E0EB6481.md) | 
+| [AppendValue(StringBuilder, String, Object, ExceptionOptions)](System.ExceptionExtensions.682E1B43.md) | 
 ## See also
 - [System](System.md)

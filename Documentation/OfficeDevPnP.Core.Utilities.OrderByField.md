@@ -12,8 +12,8 @@ public class OrderByField
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [OrderByField(String)](OfficeDevPnP.Core.Utilities.OrderByField.Constructor1details.md) | 
-| [OrderByField(String, Boolean)](OfficeDevPnP.Core.Utilities.OrderByField.Constructor2details.md) | 
+| [OrderByField(String)](OfficeDevPnP.Core.Utilities.OrderByField.ctor1.md) | 
+| [OrderByField(String, Boolean)](OfficeDevPnP.Core.Utilities.OrderByField.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,6 +22,6 @@ public class OrderByField
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToString()](OfficeDevPnP.Core.Utilities.OrderByField.ToString.md) | 
+| [ToString()](OfficeDevPnP.Core.Utilities.OrderByField.B40365CF.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

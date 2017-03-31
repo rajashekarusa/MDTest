@@ -13,8 +13,8 @@ public class File: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [File()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Constructor1details.md) | 
-| [File(String, String, Boolean, IEnumerable<WebPart>, IDictionary<String, String>, ObjectSecurity, FileLevel)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Constructor2details.md) | 
+| [File()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor1.md) | 
+| [File(String, String, Boolean, IEnumerable<WebPart>, IDictionary<String, String>, ObjectSecurity, FileLevel)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -28,8 +28,8 @@ public class File: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.EqualsObject.md) | 
-| [Equals(File)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.EqualsFile.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.3520DDBB.md) | 
+| [Equals(File)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.FD046A34.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

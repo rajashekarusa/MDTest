@@ -20,13 +20,13 @@ public class WSTrustBinding: Binding
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ApplyTransportSecurity(ServiceModel.Channels.HttpTransportBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.ApplyTransportSecurityServiceModel.Channels.HttpTransportBindingElement.md) | 
-| [CreateSecurityBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.CreateSecurityBindingElement.md) | 
-| [ApplyMessageSecurity(ServiceModel.Channels.SecurityBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.ApplyMessageSecurityServiceModel.Channels.SecurityBindingElement.md) | 
-| [CreateBindingElements()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.CreateBindingElements.md) | 
-| [CreateEncodingBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.CreateEncodingBindingElement.md) | 
-| [CreateTransportBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.CreateTransportBindingElement.md) | 
-| [ValidateSecurityMode(ServiceModel.SecurityMode)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.ValidateSecurityModeServiceModel.SecurityMode.md) | 
-| [ValidateTrustVersion(ServiceModel.Security.TrustVersion)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.ValidateTrustVersionServiceModel.Security.TrustVersion.md) | 
+| [ApplyTransportSecurity(HttpTransportBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.87AFDE74.md) | 
+| [CreateSecurityBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.BEEBE927.md) | 
+| [ApplyMessageSecurity(SecurityBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.B1CF9081.md) | 
+| [CreateBindingElements()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.9D1675CD.md) | 
+| [CreateEncodingBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.DC6440B8.md) | 
+| [CreateTransportBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.C1232E95.md) | 
+| [ValidateSecurityMode(SecurityMode)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.A90675FE.md) | 
+| [ValidateTrustVersion(TrustVersion)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.F36918BB.md) | 
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

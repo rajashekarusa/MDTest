@@ -13,6 +13,6 @@ public class ProviderCollection: ProvisioningTemplateCollection<Provider>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProviderCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection.Constructor1details.md) | 
+| [ProviderCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

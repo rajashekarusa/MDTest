@@ -13,12 +13,12 @@ public class AddSuggestionsCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddSuggestionsCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.Constructor1details.md) | 
+| [AddSuggestionsCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.InvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
-| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.BeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.26851C57.md) | 
+| [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.F6352AB0.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

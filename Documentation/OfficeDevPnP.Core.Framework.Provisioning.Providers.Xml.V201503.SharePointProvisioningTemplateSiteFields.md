@@ -12,7 +12,7 @@ public class SharePointProvisioningTemplateSiteFields
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSiteFields.Constructor1details.md) | 
+| [SharePointProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSiteFields.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

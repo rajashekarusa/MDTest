@@ -12,7 +12,7 @@ public class PublishingDesignPackage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingDesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage.Constructor1details.md) | 
+| [PublishingDesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

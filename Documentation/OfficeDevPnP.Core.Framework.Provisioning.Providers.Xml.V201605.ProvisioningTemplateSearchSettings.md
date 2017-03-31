@@ -12,7 +12,7 @@ public class ProvisioningTemplateSearchSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateSearchSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.Constructor1details.md) | 
+| [ProvisioningTemplateSearchSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

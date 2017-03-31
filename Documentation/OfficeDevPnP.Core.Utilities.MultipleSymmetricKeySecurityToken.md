@@ -13,8 +13,8 @@ public class MultipleSymmetricKeySecurityToken: SecurityToken
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MultipleSymmetricKeySecurityToken(IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.Constructor1details.md) | 
-| [MultipleSymmetricKeySecurityToken(String, IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.Constructor2details.md) | 
+| [MultipleSymmetricKeySecurityToken(IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.ctor1.md) | 
+| [MultipleSymmetricKeySecurityToken(String, IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,7 +25,7 @@ public class MultipleSymmetricKeySecurityToken: SecurityToken
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [MatchesKeyIdentifierClause(IdentityModel.Tokens.SecurityKeyIdentifierClause)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.MatchesKeyIdentifierClauseIdentityModel.Tokens.SecurityKeyIdentifierClause.md) | Returns a value that indicates whether the key identifier for this instance can be resolved to the specified key identifier.
-| [CreateSymmetricSecurityKeys(Collections.Generic.IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.CreateSymmetricSecurityKeysCollections.Generic.IEnumerable<Byte[]>.md) | 
+| [MatchesKeyIdentifierClause(SecurityKeyIdentifierClause)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.E7DCE578.md) | Returns a value that indicates whether the key identifier for this instance can be resolved to the specified key identifier.
+| [CreateSymmetricSecurityKeys(IEnumerable<Byte[]>)](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.4035F3E.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

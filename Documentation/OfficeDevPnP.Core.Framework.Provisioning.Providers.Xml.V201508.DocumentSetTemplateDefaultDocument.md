@@ -12,7 +12,7 @@ public class DocumentSetTemplateDefaultDocument
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplateDefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DocumentSetTemplateDefaultDocument.Constructor1details.md) | 
+| [DocumentSetTemplateDefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DocumentSetTemplateDefaultDocument.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

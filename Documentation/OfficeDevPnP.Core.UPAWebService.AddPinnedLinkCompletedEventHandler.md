@@ -13,12 +13,12 @@ public class AddPinnedLinkCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddPinnedLinkCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.Constructor1details.md) | 
+| [AddPinnedLinkCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddPinnedLinkCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.InvokeObjectAddPinnedLinkCompletedEventArgs.md) | 
-| [BeginInvoke(Object, AddPinnedLinkCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.BeginInvokeObjectAddPinnedLinkCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, AddPinnedLinkCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.D0B00FBE.md) | 
+| [BeginInvoke(Object, AddPinnedLinkCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.B237EF49.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

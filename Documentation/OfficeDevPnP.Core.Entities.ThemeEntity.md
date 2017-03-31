@@ -12,7 +12,7 @@ public class ThemeEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ThemeEntity()](OfficeDevPnP.Core.Entities.ThemeEntity.Constructor1details.md) | 
+| [ThemeEntity()](OfficeDevPnP.Core.Entities.ThemeEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,7 +12,7 @@ public class Security
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Security()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.Constructor1details.md) | 
+| [Security()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

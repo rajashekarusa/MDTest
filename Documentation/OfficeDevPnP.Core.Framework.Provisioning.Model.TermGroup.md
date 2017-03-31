@@ -13,8 +13,8 @@ public class TermGroup: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Constructor1details.md) | 
-| [TermGroup(Guid, String, List<TermSet>, Boolean, IEnumerable<User>, IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Constructor2details.md) | 
+| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.ctor1.md) | 
+| [TermGroup(Guid, String, List<TermSet>, Boolean, IEnumerable<User>, IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -28,8 +28,8 @@ public class TermGroup: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.EqualsObject.md) | 
-| [Equals(TermGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.EqualsTermGroup.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.3520DDBB.md) | 
+| [Equals(TermGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.2061D3D1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

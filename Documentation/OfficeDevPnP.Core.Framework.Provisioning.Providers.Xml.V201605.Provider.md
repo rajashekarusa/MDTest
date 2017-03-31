@@ -12,7 +12,7 @@ public class Provider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provider.Constructor1details.md) | 
+| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provider.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

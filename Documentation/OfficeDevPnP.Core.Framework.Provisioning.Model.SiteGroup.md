@@ -13,8 +13,8 @@ public class SiteGroup: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.Constructor1details.md) | 
-| [SiteGroup(IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.Constructor2details.md) | 
+| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor1.md) | 
+| [SiteGroup(IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -30,8 +30,8 @@ public class SiteGroup: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.EqualsObject.md) | 
-| [Equals(SiteGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.EqualsSiteGroup.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.3520DDBB.md) | 
+| [Equals(SiteGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.3AE0CC70.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

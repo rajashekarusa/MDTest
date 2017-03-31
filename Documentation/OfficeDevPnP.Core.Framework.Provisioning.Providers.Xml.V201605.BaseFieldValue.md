@@ -12,7 +12,7 @@ public class BaseFieldValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseFieldValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.Constructor1details.md) | 
+| [BaseFieldValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,9 +21,9 @@ public class BaseFieldValue
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetSchema(Xml.Schema.XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.GetSchemaXml.Schema.XmlSchemaSet.md) | 
-| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.System.Xml.Serialization.IXmlSerializable.GetSchema.md) | 
-| [System.Xml.Serialization.IXmlSerializable.ReadXml(Xml.XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.System.Xml.Serialization.IXmlSerializable.ReadXmlXml.XmlReader.md) | 
-| [System.Xml.Serialization.IXmlSerializable.WriteXml(Xml.XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.System.Xml.Serialization.IXmlSerializable.WriteXmlXml.XmlWriter.md) | 
+| [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.B4F30151.md) | 
+| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.A1A04AFB.md) | 
+| [System.Xml.Serialization.IXmlSerializable.ReadXml(XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.C1E80F72.md) | 
+| [System.Xml.Serialization.IXmlSerializable.WriteXml(XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.8F7A6518.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

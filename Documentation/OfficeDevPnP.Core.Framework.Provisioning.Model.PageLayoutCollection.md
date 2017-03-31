@@ -13,6 +13,6 @@ public class PageLayoutCollection: ProvisioningTemplateCollection<PageLayout>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageLayoutCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection.Constructor1details.md) | 
+| [PageLayoutCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

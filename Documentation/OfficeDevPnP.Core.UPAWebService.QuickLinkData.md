@@ -12,7 +12,7 @@ public class QuickLinkData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [QuickLinkData()](OfficeDevPnP.Core.UPAWebService.QuickLinkData.Constructor1details.md) | 
+| [QuickLinkData()](OfficeDevPnP.Core.UPAWebService.QuickLinkData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

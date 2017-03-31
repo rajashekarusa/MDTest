@@ -12,7 +12,7 @@ public class YammerUserEmailAddress
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserEmailAddress()](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.Constructor1details.md) | 
+| [YammerUserEmailAddress()](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

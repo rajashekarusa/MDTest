@@ -12,7 +12,7 @@ public class PropertyContainerType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyContainerType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Constructor1details.md) | 
+| [PropertyContainerType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

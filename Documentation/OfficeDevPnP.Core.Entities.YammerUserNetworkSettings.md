@@ -12,7 +12,7 @@ public class YammerUserNetworkSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserNetworkSettings()](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.Constructor1details.md) | 
+| [YammerUserNetworkSettings()](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

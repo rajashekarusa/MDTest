@@ -12,7 +12,7 @@ public class YammerUserIm
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserIm()](OfficeDevPnP.Core.Entities.YammerUserIm.Constructor1details.md) | 
+| [YammerUserIm()](OfficeDevPnP.Core.Entities.YammerUserIm.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

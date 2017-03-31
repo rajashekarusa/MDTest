@@ -13,7 +13,7 @@ public class AvailableWebTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.Constructor1details.md) | 
+| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class AvailableWebTemplate: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.EqualsObject.md) | 
-| [Equals(AvailableWebTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.EqualsAvailableWebTemplate.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.3520DDBB.md) | 
+| [Equals(AvailableWebTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.B6A22B29.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

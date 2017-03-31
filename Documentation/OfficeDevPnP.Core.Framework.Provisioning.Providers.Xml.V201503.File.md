@@ -12,7 +12,7 @@ public class File
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [File()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.Constructor1details.md) | 
+| [File()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

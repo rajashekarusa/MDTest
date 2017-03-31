@@ -13,7 +13,7 @@ public class XMLSharePointTemplateProvider: XMLTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XMLSharePointTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLSharePointTemplateProvider.Constructor1details.md) | 
-| [XMLSharePointTemplateProvider(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLSharePointTemplateProvider.Constructor2details.md) | 
+| [XMLSharePointTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLSharePointTemplateProvider.ctor1.md) | 
+| [XMLSharePointTemplateProvider(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLSharePointTemplateProvider.ctor2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

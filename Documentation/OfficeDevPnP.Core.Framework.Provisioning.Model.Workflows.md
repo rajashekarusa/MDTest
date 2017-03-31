@@ -13,8 +13,8 @@ public class Workflows: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Workflows()](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.Constructor1details.md) | 
-| [Workflows(IEnumerable<WorkflowDefinition>, IEnumerable<WorkflowSubscription>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.Constructor2details.md) | 
+| [Workflows()](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.ctor1.md) | 
+| [Workflows(IEnumerable<WorkflowDefinition>, IEnumerable<WorkflowSubscription>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,8 +12,8 @@ public class PnPFilesMap
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPFilesMap()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFilesMap.Constructor1details.md) | 
-| [PnPFilesMap(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFilesMap.Constructor2details.md) | 
+| [PnPFilesMap()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFilesMap.ctor1.md) | 
+| [PnPFilesMap(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFilesMap.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -13,7 +13,7 @@ public class NavigationNode: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.Constructor1details.md) | 
+| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class NavigationNode: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.EqualsObject.md) | 
-| [Equals(NavigationNode)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.EqualsNavigationNode.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.3520DDBB.md) | 
+| [Equals(NavigationNode)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.D9F2B69A.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

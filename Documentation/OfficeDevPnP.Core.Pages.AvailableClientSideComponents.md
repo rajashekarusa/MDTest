@@ -12,7 +12,7 @@ public class AvailableClientSideComponents
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.Constructor1details.md) | 
+| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

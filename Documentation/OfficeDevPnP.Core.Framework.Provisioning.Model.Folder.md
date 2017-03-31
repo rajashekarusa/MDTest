@@ -13,8 +13,8 @@ public class Folder: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.Constructor1details.md) | 
-| [Folder(String, List<Folder>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.Constructor2details.md) | 
+| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.ctor1.md) | 
+| [Folder(String, List<Folder>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class Folder: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.EqualsObject.md) | 
-| [Equals(Folder)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.EqualsFolder.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.3520DDBB.md) | 
+| [Equals(Folder)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.4B857F24.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

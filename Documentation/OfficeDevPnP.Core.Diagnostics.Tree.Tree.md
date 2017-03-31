@@ -13,7 +13,7 @@ public class Tree: TreeNode
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Tree()](OfficeDevPnP.Core.Diagnostics.Tree.Tree.Constructor1details.md) | 
-| [Tree(T)](OfficeDevPnP.Core.Diagnostics.Tree.Tree.Constructor2details.md) | 
+| [Tree()](OfficeDevPnP.Core.Diagnostics.Tree.Tree.ctor1.md) | 
+| [Tree(T)](OfficeDevPnP.Core.Diagnostics.Tree.Tree.ctor2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

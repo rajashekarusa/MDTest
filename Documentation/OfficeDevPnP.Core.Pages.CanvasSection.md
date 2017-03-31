@@ -19,8 +19,8 @@ public class CanvasSection
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToHtml()](OfficeDevPnP.Core.Pages.CanvasSection.ToHtml.md) | 
-| [<get_Controls>b__14_0(CanvasControl)](OfficeDevPnP.Core.Pages.CanvasSection.<get_Controls>b__14_0CanvasControl.md) | 
-| [<ToHtml>b__15_0(CanvasControl)](OfficeDevPnP.Core.Pages.CanvasSection.<ToHtml>b__15_0CanvasControl.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.CanvasSection.7C2B006F.md) | 
+| [<get_Controls>b__14_0(CanvasControl)](OfficeDevPnP.Core.Pages.CanvasSection.50B75145.md) | 
+| [<ToHtml>b__15_0(CanvasControl)](OfficeDevPnP.Core.Pages.CanvasSection.182F3410.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

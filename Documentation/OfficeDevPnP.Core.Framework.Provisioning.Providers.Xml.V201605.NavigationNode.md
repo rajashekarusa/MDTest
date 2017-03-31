@@ -12,7 +12,7 @@ public class NavigationNode
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.Constructor1details.md) | 
+| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,7 +12,7 @@ public class ContentType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentType.Constructor1details.md) | 
+| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentType.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

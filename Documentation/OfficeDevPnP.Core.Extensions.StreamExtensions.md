@@ -12,6 +12,6 @@ public static class StreamExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToMemoryStream(IO.Stream)](OfficeDevPnP.Core.Extensions.StreamExtensions.ToMemoryStreamIO.Stream.md) | 
+| [ToMemoryStream(Stream)](OfficeDevPnP.Core.Extensions.StreamExtensions.B7FB4A7.md) | 
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

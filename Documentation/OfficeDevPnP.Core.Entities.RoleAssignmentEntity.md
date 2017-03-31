@@ -12,7 +12,7 @@ public class RoleAssignmentEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignmentEntity()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Constructor1details.md) | 
+| [RoleAssignmentEntity()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -29,6 +29,6 @@ public class RoleAssignmentEntity
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToString()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.ToString.md) | 
+| [ToString()](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.B40365CF.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

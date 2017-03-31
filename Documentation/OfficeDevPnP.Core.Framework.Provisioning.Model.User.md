@@ -13,7 +13,7 @@ public class User: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [User()](OfficeDevPnP.Core.Framework.Provisioning.Model.User.Constructor1details.md) | 
+| [User()](OfficeDevPnP.Core.Framework.Provisioning.Model.User.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,8 +21,8 @@ public class User: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.User.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.User.EqualsObject.md) | 
-| [Equals(User)](OfficeDevPnP.Core.Framework.Provisioning.Model.User.EqualsUser.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.User.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.User.3520DDBB.md) | 
+| [Equals(User)](OfficeDevPnP.Core.Framework.Provisioning.Model.User.30EB9518.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

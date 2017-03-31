@@ -13,12 +13,12 @@ public class GetUserProfileByGuidCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserProfileByGuidCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.Constructor1details.md) | 
+| [GetUserProfileByGuidCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserProfileByGuidCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.InvokeObjectGetUserProfileByGuidCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetUserProfileByGuidCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.BeginInvokeObjectGetUserProfileByGuidCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetUserProfileByGuidCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.D84F62F5.md) | 
+| [BeginInvoke(Object, GetUserProfileByGuidCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.76FC2C30.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

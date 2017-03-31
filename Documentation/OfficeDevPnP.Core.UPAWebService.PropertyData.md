@@ -12,7 +12,7 @@ public class PropertyData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyData()](OfficeDevPnP.Core.UPAWebService.PropertyData.Constructor1details.md) | 
+| [PropertyData()](OfficeDevPnP.Core.UPAWebService.PropertyData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

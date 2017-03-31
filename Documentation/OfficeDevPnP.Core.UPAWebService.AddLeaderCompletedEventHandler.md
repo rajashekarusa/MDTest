@@ -13,12 +13,12 @@ public class AddLeaderCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddLeaderCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.Constructor1details.md) | 
+| [AddLeaderCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.InvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
-| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.BeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.26851C57.md) | 
+| [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.F6352AB0.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

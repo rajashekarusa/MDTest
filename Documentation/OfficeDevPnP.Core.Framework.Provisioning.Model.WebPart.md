@@ -13,7 +13,7 @@ public class WebPart: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPart()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Constructor1details.md) | 
+| [WebPart()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -26,8 +26,8 @@ public class WebPart: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.EqualsObject.md) | 
-| [Equals(WebPart)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.EqualsWebPart.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.3520DDBB.md) | 
+| [Equals(WebPart)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.686E59E6.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

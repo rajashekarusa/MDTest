@@ -12,7 +12,7 @@ public class StructuralNavigationEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigationEntity()](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.Constructor1details.md) | 
+| [StructuralNavigationEntity()](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

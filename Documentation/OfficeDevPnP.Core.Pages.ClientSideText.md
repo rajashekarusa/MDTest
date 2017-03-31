@@ -13,7 +13,7 @@ public class ClientSideText: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.Constructor1details.md) | 
+| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,7 +23,7 @@ public class ClientSideText: CanvasControl
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.ToHtml.md) | 
-| [FromHtml(AngleSharp.Dom.IElement)](OfficeDevPnP.Core.Pages.ClientSideText.FromHtmlAngleSharp.Dom.IElement.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.7C2B006F.md) | 
+| [FromHtml(IElement)](OfficeDevPnP.Core.Pages.ClientSideText.B95074D8.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

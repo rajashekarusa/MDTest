@@ -13,8 +13,8 @@ public class Publishing: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.Constructor1details.md) | 
-| [Publishing(AutoCheckRequirementsOptions, DesignPackage, IEnumerable<AvailableWebTemplate>, IEnumerable<PageLayout>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.Constructor2details.md) | 
+| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor1.md) | 
+| [Publishing(AutoCheckRequirementsOptions, DesignPackage, IEnumerable<AvailableWebTemplate>, IEnumerable<PageLayout>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,8 +25,8 @@ public class Publishing: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.EqualsObject.md) | 
-| [Equals(Publishing)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.EqualsPublishing.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.3520DDBB.md) | 
+| [Equals(Publishing)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.200C6540.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

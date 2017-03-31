@@ -12,7 +12,7 @@ public class Navigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.Constructor1details.md) | 
+| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

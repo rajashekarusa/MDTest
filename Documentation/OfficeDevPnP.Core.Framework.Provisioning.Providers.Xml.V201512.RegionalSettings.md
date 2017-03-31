@@ -12,7 +12,7 @@ public class RegionalSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RegionalSettings.Constructor1details.md) | 
+| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RegionalSettings.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

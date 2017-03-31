@@ -13,12 +13,12 @@ public class GetProfileSchemaNameByAccountNameCompletedEventHandler: MulticastDe
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetProfileSchemaNameByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.Constructor1details.md) | 
+| [GetProfileSchemaNameByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.InvokeObjectGetProfileSchemaNameByAccountNameCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.BeginInvokeObjectGetProfileSchemaNameByAccountNameCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.94706D63.md) | 
+| [BeginInvoke(Object, GetProfileSchemaNameByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.945A2911.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -13,14 +13,14 @@ public static class WebAPIHelper
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [HasCacheEntry(Web.Http.Controllers.HttpControllerContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.HasCacheEntryWeb.Http.Controllers.HttpControllerContext.md) | Checks if this request has a servicesToken cookie. To be used from inside the WebAPI.
-| [GetCacheKeyValue(Web.Http.Controllers.HttpControllerContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.GetCacheKeyValueWeb.Http.Controllers.HttpControllerContext.md) | 
-| [GetClientContext(Web.Http.Controllers.HttpControllerContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.GetClientContextWeb.Http.Controllers.HttpControllerContext.md) | Creates a ClientContext token for the incoming WebAPI request. This is done by - looking up the servicesToken - extracting the cacheKey - get the AccessToken from cache. If the AccessToken is expired a new one is requested using the refresh token - creation of a ClientContext object based on the AccessToken
-| [AddToCache(WebAPIContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.AddToCacheWebAPIContext.md) | Uses the information regarding the requesting app to obtain an access token and caches that using the cachekey. This method is called from the Register WebAPI service api.
-| [RegisterWebAPIService(Web.UI.Page, String, Uri)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.RegisterWebAPIServiceWeb.UI.PageStringUri.md) | This method needs to be called from a code behind of the SharePoint app startup page (default.aspx). It registers the calling SharePoint app by calling a specific "Register" api in your WebAPI service. Note: Given that method is async you'll need to add the Async="true" page directive to the page that uses this method.
-| [GetQueryString(Collections.Specialized.NameValueCollection, String, Func<String,T>, T)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.GetQueryStringCollections.Specialized.NameValueCollectionStringFunc<String,T>T.md) | 
-| [AsString(Collections.Specialized.NameValueCollection, String, String)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.AsStringCollections.Specialized.NameValueCollectionStringString.md) | 
-| [GetClaimValue(SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken, String)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.GetClaimValueSharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityTokenString.md) | 
-| [RemoveSpecialCharacters(String)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.RemoveSpecialCharactersString.md) | 
+| [HasCacheEntry(HttpControllerContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.C4059705.md) | Checks if this request has a servicesToken cookie. To be used from inside the WebAPI.
+| [GetCacheKeyValue(HttpControllerContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.2EFDE7BE.md) | 
+| [GetClientContext(HttpControllerContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.291CCA75.md) | Creates a ClientContext token for the incoming WebAPI request. This is done by - looking up the servicesToken - extracting the cacheKey - get the AccessToken from cache. If the AccessToken is expired a new one is requested using the refresh token - creation of a ClientContext object based on the AccessToken
+| [AddToCache(WebAPIContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.10FA47CC.md) | Uses the information regarding the requesting app to obtain an access token and caches that using the cachekey. This method is called from the Register WebAPI service api.
+| [RegisterWebAPIService(Page, String, Uri)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.CA213228.md) | This method needs to be called from a code behind of the SharePoint app startup page (default.aspx). It registers the calling SharePoint app by calling a specific "Register" api in your WebAPI service. Note: Given that method is async you'll need to add the Async="true" page directive to the page that uses this method.
+| [GetQueryString(NameValueCollection, String, Func<String, T>, T)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.1E79F613.md) | 
+| [AsString(NameValueCollection, String, String)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.74C40F4B.md) | 
+| [GetClaimValue(JsonWebSecurityToken, String)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.3B66CFE7.md) | 
+| [RemoveSpecialCharacters(String)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.27A0375A.md) | 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

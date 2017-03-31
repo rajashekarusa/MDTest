@@ -12,7 +12,7 @@ public class WebPartPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.Constructor1details.md) | 
+| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WebPartPageWebPart.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

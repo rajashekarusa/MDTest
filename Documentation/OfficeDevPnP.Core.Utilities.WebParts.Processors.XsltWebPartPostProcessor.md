@@ -13,18 +13,18 @@ public class XsltWebPartPostProcessor
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XsltWebPartPostProcessor(WebPart)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.Constructor1details.md) | 
+| [XsltWebPartPostProcessor(WebPart)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Process(Microsoft.SharePoint.Client.WebParts.WebPartDefinition, Microsoft.SharePoint.Client.File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.ProcessMicrosoft.SharePoint.Client.WebParts.WebPartDefinitionMicrosoft.SharePoint.Client.File.md) | 
-| [UpdateHiddenViewFromWebPartSchema(Microsoft.SharePoint.Client.View)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.UpdateHiddenViewFromWebPartSchemaMicrosoft.SharePoint.Client.View.md) | 
-| [UpdateHiddenView(Microsoft.SharePoint.Client.View, String)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.UpdateHiddenViewMicrosoft.SharePoint.Client.ViewString.md) | 
-| [GetViewFromSchemaProperties(Microsoft.SharePoint.Client.List)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.GetViewFromSchemaPropertiesMicrosoft.SharePoint.Client.List.md) | 
-| [TryGetView(Func<Microsoft.SharePoint.Client.View>, Microsoft.SharePoint.Client.View&)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.TryGetViewFunc<Microsoft.SharePoint.Client.View>Microsoft.SharePoint.Client.View&.md) | 
-| [GetList(Microsoft.SharePoint.Client.Web)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.GetListMicrosoft.SharePoint.Client.Web.md) | 
-| [GetWeb(Microsoft.SharePoint.Client.File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.GetWebMicrosoft.SharePoint.Client.File.md) | 
-| [TryParseGuidProperty(OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType, Guid&)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.TryParseGuidPropertyOfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyTypeGuid&.md) | 
-| [GetProperty(String)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.GetPropertyString.md) | 
+| [Process(WebPartDefinition, File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.BEDADEAC.md) | 
+| [UpdateHiddenViewFromWebPartSchema(View)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.D756E4F7.md) | 
+| [UpdateHiddenView(View, String)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.7E8CAC0D.md) | 
+| [GetViewFromSchemaProperties(List)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.E4AA6A6B.md) | 
+| [TryGetView(Func<View>, View&)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.1A1A68FB.md) | 
+| [GetList(Web)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.1CEA7D7A.md) | 
+| [GetWeb(File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.1D534917.md) | 
+| [TryParseGuidProperty(PropertyType, Guid&)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.DEA33BE6.md) | 
+| [GetProperty(String)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.1AC163D0.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)

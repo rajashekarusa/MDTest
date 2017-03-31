@@ -12,7 +12,7 @@ public class SharePointProvisioningTemplateContentTypes
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateContentTypes()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.Constructor1details.md) | 
+| [SharePointProvisioningTemplateContentTypes()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

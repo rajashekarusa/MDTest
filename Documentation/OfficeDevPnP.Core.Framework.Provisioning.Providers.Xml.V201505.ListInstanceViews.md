@@ -12,7 +12,7 @@ public class ListInstanceViews
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceViews()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceViews.Constructor1details.md) | 
+| [ListInstanceViews()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceViews.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

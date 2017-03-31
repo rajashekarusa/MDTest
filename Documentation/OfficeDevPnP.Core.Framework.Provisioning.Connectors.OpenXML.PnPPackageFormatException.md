@@ -13,7 +13,7 @@ public class PnPPackageFormatException: ApplicationException
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackageFormatException(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.Constructor1details.md) | 
-| [PnPPackageFormatException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.Constructor2details.md) | 
+| [PnPPackageFormatException(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.ctor1.md) | 
+| [PnPPackageFormatException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.ctor2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

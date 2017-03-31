@@ -12,7 +12,7 @@ public class PreferencesParameter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PreferencesParameter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PreferencesParameter.Constructor1details.md) | 
+| [PreferencesParameter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.PreferencesParameter.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

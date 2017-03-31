@@ -13,11 +13,11 @@ public class ListInstance: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.Constructor1details.md) | 
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.Constructor2details.md) | 
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.Constructor3details.md) | 
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.Constructor4details.md) | 
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>, List<CustomAction>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.Constructor5details.md) | 
+| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor1.md) | 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor2.md) | 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor3.md) | 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor4.md) | 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>, List<CustomAction>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor5.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -53,8 +53,8 @@ public class ListInstance: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.EqualsObject.md) | 
-| [Equals(ListInstance)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.EqualsListInstance.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.3520DDBB.md) | 
+| [Equals(ListInstance)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.F4A95136.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

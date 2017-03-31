@@ -12,7 +12,7 @@ public class StringDictionaryItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StringDictionaryItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.Constructor1details.md) | 
+| [StringDictionaryItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

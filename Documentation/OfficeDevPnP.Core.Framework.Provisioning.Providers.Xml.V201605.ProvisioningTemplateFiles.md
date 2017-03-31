@@ -12,7 +12,7 @@ public class ProvisioningTemplateFiles
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateFiles()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateFiles.Constructor1details.md) | 
+| [ProvisioningTemplateFiles()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateFiles.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

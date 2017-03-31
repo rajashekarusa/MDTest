@@ -12,7 +12,7 @@ public class CustomActionCommandUIExtension
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActionCommandUIExtension()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension.Constructor1details.md) | 
+| [CustomActionCommandUIExtension()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

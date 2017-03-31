@@ -13,7 +13,7 @@ public class RegionalSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.Constructor1details.md) | 
+| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -33,8 +33,8 @@ public class RegionalSettings: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.EqualsObject.md) | 
-| [Equals(RegionalSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.EqualsRegionalSettings.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.3520DDBB.md) | 
+| [Equals(RegionalSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.40755D5C.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -12,7 +12,7 @@ public class Folder
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Folder.Constructor1details.md) | 
+| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Folder.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

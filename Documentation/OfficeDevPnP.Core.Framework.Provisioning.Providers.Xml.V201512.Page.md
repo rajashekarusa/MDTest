@@ -12,7 +12,7 @@ public class Page
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Constructor1details.md) | 
+| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

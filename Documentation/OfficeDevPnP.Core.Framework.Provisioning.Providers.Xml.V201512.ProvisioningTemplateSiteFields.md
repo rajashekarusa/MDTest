@@ -12,7 +12,7 @@ public class ProvisioningTemplateSiteFields
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplateSiteFields.Constructor1details.md) | 
+| [ProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplateSiteFields.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

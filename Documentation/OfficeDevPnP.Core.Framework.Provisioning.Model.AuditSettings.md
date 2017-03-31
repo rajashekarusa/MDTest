@@ -13,7 +13,7 @@ public class AuditSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.Constructor1details.md) | 
+| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class AuditSettings: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.EqualsObject.md) | 
-| [Equals(AuditSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.EqualsAuditSettings.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.3520DDBB.md) | 
+| [Equals(AuditSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.2F7E554C.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

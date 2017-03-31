@@ -12,7 +12,7 @@ public class PropertyInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyInfo()](OfficeDevPnP.Core.UPAWebService.PropertyInfo.Constructor1details.md) | 
+| [PropertyInfo()](OfficeDevPnP.Core.UPAWebService.PropertyInfo.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

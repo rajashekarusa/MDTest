@@ -13,7 +13,7 @@ public class TermGroup: TaxonomyItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermGroup.Constructor1details.md) | 
+| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermGroup.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

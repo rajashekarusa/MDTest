@@ -12,7 +12,7 @@ public class ContentTypeBinding
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding.Constructor1details.md) | 
+| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

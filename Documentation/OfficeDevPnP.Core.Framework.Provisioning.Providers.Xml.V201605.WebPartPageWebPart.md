@@ -12,7 +12,7 @@ public class WebPartPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.Constructor1details.md) | 
+| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,9 +23,9 @@ public class WebPartPageWebPart
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetSchema(Xml.Schema.XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.GetSchemaXml.Schema.XmlSchemaSet.md) | 
-| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.System.Xml.Serialization.IXmlSerializable.GetSchema.md) | 
-| [System.Xml.Serialization.IXmlSerializable.ReadXml(Xml.XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.System.Xml.Serialization.IXmlSerializable.ReadXmlXml.XmlReader.md) | 
-| [System.Xml.Serialization.IXmlSerializable.WriteXml(Xml.XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.System.Xml.Serialization.IXmlSerializable.WriteXmlXml.XmlWriter.md) | 
+| [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.B4F30151.md) | 
+| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.A1A04AFB.md) | 
+| [System.Xml.Serialization.IXmlSerializable.ReadXml(XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.C1E80F72.md) | 
+| [System.Xml.Serialization.IXmlSerializable.WriteXml(XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.8F7A6518.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

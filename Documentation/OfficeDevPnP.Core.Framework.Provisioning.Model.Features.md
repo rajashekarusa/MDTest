@@ -13,7 +13,7 @@ public class Features: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.Constructor1details.md) | 
+| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

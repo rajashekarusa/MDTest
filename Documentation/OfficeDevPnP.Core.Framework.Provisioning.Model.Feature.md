@@ -13,7 +13,7 @@ public class Feature: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.Constructor1details.md) | 
+| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class Feature: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.EqualsObject.md) | 
-| [Equals(Feature)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.EqualsFeature.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.3520DDBB.md) | 
+| [Equals(Feature)](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.662EF537.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

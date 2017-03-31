@@ -13,9 +13,9 @@ public class SharePointContextToken: JsonWebSecurityToken
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointContextToken(String, String, DateTime, DateTime, IEnumerable<JsonWebTokenClaim>)](OfficeDevPnP.Core.Utilities.SharePointContextToken.Constructor1details.md) | 
-| [SharePointContextToken(String, String, DateTime, DateTime, IEnumerable<JsonWebTokenClaim>, SecurityToken, JsonWebSecurityToken)](OfficeDevPnP.Core.Utilities.SharePointContextToken.Constructor2details.md) | 
-| [SharePointContextToken(String, String, DateTime, DateTime, IEnumerable<JsonWebTokenClaim>, SigningCredentials)](OfficeDevPnP.Core.Utilities.SharePointContextToken.Constructor3details.md) | 
+| [SharePointContextToken(String, String, DateTime, DateTime, IEnumerable<JsonWebTokenClaim>)](OfficeDevPnP.Core.Utilities.SharePointContextToken.ctor1.md) | 
+| [SharePointContextToken(String, String, DateTime, DateTime, IEnumerable<JsonWebTokenClaim>, SecurityToken, JsonWebSecurityToken)](OfficeDevPnP.Core.Utilities.SharePointContextToken.ctor2.md) | 
+| [SharePointContextToken(String, String, DateTime, DateTime, IEnumerable<JsonWebTokenClaim>, SigningCredentials)](OfficeDevPnP.Core.Utilities.SharePointContextToken.ctor3.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -28,7 +28,7 @@ public class SharePointContextToken: JsonWebSecurityToken
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Create(SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken)](OfficeDevPnP.Core.Utilities.SharePointContextToken.CreateSharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken.md) | 
-| [GetClaimValue(SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken, String)](OfficeDevPnP.Core.Utilities.SharePointContextToken.GetClaimValueSharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityTokenString.md) | 
+| [Create(JsonWebSecurityToken)](OfficeDevPnP.Core.Utilities.SharePointContextToken.34DF5D13.md) | 
+| [GetClaimValue(JsonWebSecurityToken, String)](OfficeDevPnP.Core.Utilities.SharePointContextToken.3B66CFE7.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

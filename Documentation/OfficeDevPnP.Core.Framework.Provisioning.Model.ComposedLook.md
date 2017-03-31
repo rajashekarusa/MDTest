@@ -13,7 +13,7 @@ public class ComposedLook: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.Constructor1details.md) | 
+| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -29,8 +29,8 @@ public class ComposedLook: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.EqualsObject.md) | 
-| [Equals(ComposedLook)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.EqualsComposedLook.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.3520DDBB.md) | 
+| [Equals(ComposedLook)](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.F79612E1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

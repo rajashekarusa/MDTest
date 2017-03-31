@@ -13,7 +13,7 @@ public class PropertyBagEntry: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Constructor1details.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class PropertyBagEntry: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.EqualsObject.md) | 
-| [Equals(PropertyBagEntry)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.EqualsPropertyBagEntry.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.3520DDBB.md) | 
+| [Equals(PropertyBagEntry)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.1216FB2C.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -12,7 +12,7 @@ public class ContactData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContactData()](OfficeDevPnP.Core.UPAWebService.ContactData.Constructor1details.md) | 
+| [ContactData()](OfficeDevPnP.Core.UPAWebService.ContactData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

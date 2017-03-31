@@ -13,7 +13,7 @@ public class CustomAction: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomAction()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.Constructor1details.md) | 
+| [CustomAction()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -37,9 +37,9 @@ public class CustomAction: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.EqualsObject.md) | 
-| [Equals(CustomAction)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.EqualsCustomAction.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.3520DDBB.md) | 
+| [Equals(CustomAction)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.41D3EF4C.md) | 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

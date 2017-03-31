@@ -12,7 +12,7 @@ public class ProvisioningTemplateReference
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateReference()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplateReference.Constructor1details.md) | 
+| [ProvisioningTemplateReference()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplateReference.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

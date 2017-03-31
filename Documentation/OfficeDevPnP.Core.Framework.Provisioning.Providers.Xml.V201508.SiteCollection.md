@@ -12,7 +12,7 @@ public class SiteCollection
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteCollection()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SiteCollection.Constructor1details.md) | 
+| [SiteCollection()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SiteCollection.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

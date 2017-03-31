@@ -13,8 +13,8 @@ public class BaseNavigationKind: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.Constructor1details.md) | 
-| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.Constructor2details.md) | 
+| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) | 
+| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class BaseNavigationKind: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.EqualsObject.md) | 
-| [Equals(BaseNavigationKind)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.EqualsBaseNavigationKind.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.3520DDBB.md) | 
+| [Equals(BaseNavigationKind)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.888778A.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

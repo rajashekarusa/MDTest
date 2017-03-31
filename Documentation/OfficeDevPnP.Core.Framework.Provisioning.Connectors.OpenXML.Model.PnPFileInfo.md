@@ -12,7 +12,7 @@ public class PnPFileInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.Constructor1details.md) | 
+| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

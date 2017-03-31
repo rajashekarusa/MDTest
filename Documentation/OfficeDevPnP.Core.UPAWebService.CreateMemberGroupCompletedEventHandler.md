@@ -13,12 +13,12 @@ public class CreateMemberGroupCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CreateMemberGroupCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.Constructor1details.md) | 
+| [CreateMemberGroupCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.InvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
-| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.BeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.26851C57.md) | 
+| [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.F6352AB0.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

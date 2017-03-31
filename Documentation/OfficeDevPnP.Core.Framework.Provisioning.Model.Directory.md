@@ -14,8 +14,8 @@ public class Directory: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.Constructor1details.md) | 
-| [Directory(String, String, Boolean, FileLevel, Boolean, String, String, String, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.Constructor2details.md) | 
+| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor1.md) | 
+| [Directory(String, String, Boolean, FileLevel, Boolean, String, String, String, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,8 +31,8 @@ public class Directory: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.EqualsObject.md) | 
-| [Equals(Directory)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.EqualsDirectory.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.3520DDBB.md) | 
+| [Equals(Directory)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.DBC03230.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

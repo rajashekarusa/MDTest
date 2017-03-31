@@ -12,7 +12,7 @@ public class Directory
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Constructor1details.md) | 
+| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

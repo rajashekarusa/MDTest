@@ -12,6 +12,6 @@ public class TimerJobRun
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJobRun()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRun.Constructor1details.md) | 
+| [TimerJobRun()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRun.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

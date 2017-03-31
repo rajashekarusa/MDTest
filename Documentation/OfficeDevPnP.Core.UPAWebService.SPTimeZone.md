@@ -12,7 +12,7 @@ public class SPTimeZone
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SPTimeZone()](OfficeDevPnP.Core.UPAWebService.SPTimeZone.Constructor1details.md) | 
+| [SPTimeZone()](OfficeDevPnP.Core.UPAWebService.SPTimeZone.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

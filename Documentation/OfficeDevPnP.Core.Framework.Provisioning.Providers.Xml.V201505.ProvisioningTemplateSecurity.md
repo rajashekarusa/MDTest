@@ -12,7 +12,7 @@ public class ProvisioningTemplateSecurity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateSecurity.Constructor1details.md) | 
+| [ProvisioningTemplateSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateSecurity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

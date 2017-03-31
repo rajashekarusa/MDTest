@@ -13,7 +13,7 @@ public class JsonSharePointTemplateProvider: JsonTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonSharePointTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonSharePointTemplateProvider.Constructor1details.md) | 
-| [JsonSharePointTemplateProvider(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonSharePointTemplateProvider.Constructor2details.md) | 
+| [JsonSharePointTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonSharePointTemplateProvider.ctor1.md) | 
+| [JsonSharePointTemplateProvider(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonSharePointTemplateProvider.ctor2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

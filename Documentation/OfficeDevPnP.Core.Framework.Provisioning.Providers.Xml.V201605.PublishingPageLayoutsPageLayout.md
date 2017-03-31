@@ -12,7 +12,7 @@ public class PublishingPageLayoutsPageLayout
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingPageLayoutsPageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayoutsPageLayout.Constructor1details.md) | 
+| [PublishingPageLayoutsPageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayoutsPageLayout.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

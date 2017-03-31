@@ -12,7 +12,7 @@ public class ObjectSecurityBreakRoleInheritance
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ObjectSecurityBreakRoleInheritance()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ObjectSecurityBreakRoleInheritance.Constructor1details.md) | 
+| [ObjectSecurityBreakRoleInheritance()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ObjectSecurityBreakRoleInheritance.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -13,7 +13,7 @@ public class RoleAssignment: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.Constructor1details.md) | 
+| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class RoleAssignment: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.EqualsObject.md) | 
-| [Equals(RoleAssignment)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.EqualsRoleAssignment.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.3520DDBB.md) | 
+| [Equals(RoleAssignment)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.29B90BE5.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

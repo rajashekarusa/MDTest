@@ -13,12 +13,12 @@ public class GetCommonMembershipsCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetCommonMembershipsCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.Constructor1details.md) | 
+| [GetCommonMembershipsCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetCommonMembershipsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.InvokeObjectGetCommonMembershipsCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetCommonMembershipsCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.BeginInvokeObjectGetCommonMembershipsCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetCommonMembershipsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.CE37470A.md) | 
+| [BeginInvoke(Object, GetCommonMembershipsCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.36B3D3A.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

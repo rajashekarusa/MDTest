@@ -12,7 +12,7 @@ public class UnifiedGroupEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UnifiedGroupEntity()](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.Constructor1details.md) | 
+| [UnifiedGroupEntity()](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

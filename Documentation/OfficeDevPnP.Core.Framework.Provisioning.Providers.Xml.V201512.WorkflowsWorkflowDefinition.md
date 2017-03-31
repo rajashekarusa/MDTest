@@ -12,7 +12,7 @@ public class WorkflowsWorkflowDefinition
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowsWorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowDefinition.Constructor1details.md) | 
+| [WorkflowsWorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowDefinition.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

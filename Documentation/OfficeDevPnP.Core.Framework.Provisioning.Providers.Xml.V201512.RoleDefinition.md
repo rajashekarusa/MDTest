@@ -12,7 +12,7 @@ public class RoleDefinition
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleDefinition.Constructor1details.md) | 
+| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleDefinition.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

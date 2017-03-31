@@ -12,7 +12,7 @@ public class WebSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebSettings.Constructor1details.md) | 
+| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebSettings.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

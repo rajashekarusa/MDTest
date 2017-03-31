@@ -12,7 +12,7 @@ public class ObjectSecurity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ObjectSecurity.Constructor1details.md) | 
+| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ObjectSecurity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

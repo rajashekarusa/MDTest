@@ -12,7 +12,7 @@ public class Leader
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Leader()](OfficeDevPnP.Core.UPAWebService.Leader.Constructor1details.md) | 
+| [Leader()](OfficeDevPnP.Core.UPAWebService.Leader.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

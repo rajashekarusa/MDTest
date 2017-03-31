@@ -12,7 +12,7 @@ public class WikiPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.Constructor1details.md) | 
+| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,9 +23,9 @@ public class WikiPageWebPart
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetSchema(Xml.Schema.XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.GetSchemaXml.Schema.XmlSchemaSet.md) | 
-| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.System.Xml.Serialization.IXmlSerializable.GetSchema.md) | 
-| [System.Xml.Serialization.IXmlSerializable.ReadXml(Xml.XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.System.Xml.Serialization.IXmlSerializable.ReadXmlXml.XmlReader.md) | 
-| [System.Xml.Serialization.IXmlSerializable.WriteXml(Xml.XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.System.Xml.Serialization.IXmlSerializable.WriteXmlXml.XmlWriter.md) | 
+| [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.B4F30151.md) | 
+| [System.Xml.Serialization.IXmlSerializable.GetSchema()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.A1A04AFB.md) | 
+| [System.Xml.Serialization.IXmlSerializable.ReadXml(XmlReader)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.C1E80F72.md) | 
+| [System.Xml.Serialization.IXmlSerializable.WriteXml(XmlWriter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.8F7A6518.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -13,7 +13,7 @@ public class TermLabel: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermLabel()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.Constructor1details.md) | 
+| [TermLabel()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class TermLabel: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.EqualsObject.md) | 
-| [Equals(TermLabel)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.EqualsTermLabel.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.3520DDBB.md) | 
+| [Equals(TermLabel)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.7FC226D.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

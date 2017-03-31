@@ -13,9 +13,9 @@ public class DataRow: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataRow()](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.Constructor1details.md) | 
-| [DataRow(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.Constructor2details.md) | 
-| [DataRow(Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.Constructor3details.md) | 
+| [DataRow()](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor1.md) | 
+| [DataRow(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor2.md) | 
+| [DataRow(Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor3.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class DataRow: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.EqualsObject.md) | 
-| [Equals(DataRow)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.EqualsDataRow.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.3520DDBB.md) | 
+| [Equals(DataRow)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.26D55D27.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

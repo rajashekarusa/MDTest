@@ -13,7 +13,7 @@ public class LogConfigurationTracingSection: ConfigurationSection
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogConfigurationTracingSection()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.Constructor1details.md) | 
+| [LogConfigurationTracingSection()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

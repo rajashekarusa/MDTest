@@ -13,8 +13,8 @@ public class ClientSideWebPart: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPart()](OfficeDevPnP.Core.Pages.ClientSideWebPart.Constructor1details.md) | 
-| [ClientSideWebPart(ClientSideComponent)](OfficeDevPnP.Core.Pages.ClientSideWebPart.Constructor2details.md) | 
+| [ClientSideWebPart()](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor1.md) | 
+| [ClientSideWebPart(ClientSideComponent)](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,9 +31,9 @@ public class ClientSideWebPart: CanvasControl
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Import(ClientSideComponent, Func<String,String>)](OfficeDevPnP.Core.Pages.ClientSideWebPart.ImportClientSideComponentFunc<String,String>.md) | 
-| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideWebPart.ToHtml.md) | Returns a HTML representation of the client side web part
-| [FromHtml(AngleSharp.Dom.IElement)](OfficeDevPnP.Core.Pages.ClientSideWebPart.FromHtmlAngleSharp.Dom.IElement.md) | 
-| [SetPropertiesJson(String)](OfficeDevPnP.Core.Pages.ClientSideWebPart.SetPropertiesJsonString.md) | 
+| [Import(ClientSideComponent, Func<String, String>)](OfficeDevPnP.Core.Pages.ClientSideWebPart.587FFFCF.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideWebPart.7C2B006F.md) | Returns a HTML representation of the client side web part
+| [FromHtml(IElement)](OfficeDevPnP.Core.Pages.ClientSideWebPart.B95074D8.md) | 
+| [SetPropertiesJson(String)](OfficeDevPnP.Core.Pages.ClientSideWebPart.8A30A62D.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

@@ -13,6 +13,6 @@ public class DocumentSetFieldRef: FieldRefBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef.Constructor1details.md) | 
+| [DocumentSetFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

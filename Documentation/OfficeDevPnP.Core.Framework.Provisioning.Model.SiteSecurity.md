@@ -13,7 +13,7 @@ public class SiteSecurity: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.Constructor1details.md) | 
+| [SiteSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -29,8 +29,8 @@ public class SiteSecurity: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.EqualsObject.md) | 
-| [Equals(SiteSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.EqualsSiteSecurity.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.3520DDBB.md) | 
+| [Equals(SiteSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.98BA844A.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

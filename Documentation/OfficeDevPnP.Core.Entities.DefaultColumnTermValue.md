@@ -13,7 +13,7 @@ public class DefaultColumnTermValue: DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnTermValue()](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.Constructor1details.md) | 
+| [DefaultColumnTermValue()](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

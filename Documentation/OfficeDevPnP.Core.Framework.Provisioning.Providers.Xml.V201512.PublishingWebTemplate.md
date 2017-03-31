@@ -12,7 +12,7 @@ public class PublishingWebTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate.Constructor1details.md) | 
+| [PublishingWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

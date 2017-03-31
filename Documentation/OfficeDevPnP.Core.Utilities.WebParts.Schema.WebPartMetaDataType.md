@@ -12,7 +12,7 @@ public class WebPartMetaDataType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartMetaDataType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.Constructor1details.md) | 
+| [WebPartMetaDataType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

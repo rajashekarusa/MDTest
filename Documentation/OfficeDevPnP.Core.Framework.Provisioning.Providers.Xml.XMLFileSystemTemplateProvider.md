@@ -13,7 +13,7 @@ public class XMLFileSystemTemplateProvider: XMLTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XMLFileSystemTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLFileSystemTemplateProvider.Constructor1details.md) | 
-| [XMLFileSystemTemplateProvider(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLFileSystemTemplateProvider.Constructor2details.md) | 
+| [XMLFileSystemTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLFileSystemTemplateProvider.ctor1.md) | 
+| [XMLFileSystemTemplateProvider(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLFileSystemTemplateProvider.ctor2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

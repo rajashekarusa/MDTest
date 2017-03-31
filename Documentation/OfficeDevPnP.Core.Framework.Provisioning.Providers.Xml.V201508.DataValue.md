@@ -13,6 +13,6 @@ public class DataValue: BaseFieldValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DataValue.Constructor1details.md) | 
+| [DataValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DataValue.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

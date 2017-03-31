@@ -12,7 +12,7 @@ public class WebAPIContext
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContext()](OfficeDevPnP.Core.WebAPI.WebAPIContext.Constructor1details.md) | 
+| [WebAPIContext()](OfficeDevPnP.Core.WebAPI.WebAPIContext.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

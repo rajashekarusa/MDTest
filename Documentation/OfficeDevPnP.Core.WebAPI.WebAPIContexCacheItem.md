@@ -12,7 +12,7 @@ public class WebAPIContexCacheItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContexCacheItem()](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.Constructor1details.md) | 
+| [WebAPIContexCacheItem()](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

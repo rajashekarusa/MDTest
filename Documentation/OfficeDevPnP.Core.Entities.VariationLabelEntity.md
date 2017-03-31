@@ -12,7 +12,7 @@ public class VariationLabelEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [VariationLabelEntity()](OfficeDevPnP.Core.Entities.VariationLabelEntity.Constructor1details.md) | 
+| [VariationLabelEntity()](OfficeDevPnP.Core.Entities.VariationLabelEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

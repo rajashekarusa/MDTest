@@ -13,7 +13,7 @@ public class JsonFileSystemTemplateProvider: JsonTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonFileSystemTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonFileSystemTemplateProvider.Constructor1details.md) | 
-| [JsonFileSystemTemplateProvider(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonFileSystemTemplateProvider.Constructor2details.md) | 
+| [JsonFileSystemTemplateProvider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonFileSystemTemplateProvider.ctor1.md) | 
+| [JsonFileSystemTemplateProvider(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonFileSystemTemplateProvider.ctor2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

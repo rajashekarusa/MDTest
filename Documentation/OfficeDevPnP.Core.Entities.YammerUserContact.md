@@ -12,7 +12,7 @@ public class YammerUserContact
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserContact()](OfficeDevPnP.Core.Entities.YammerUserContact.Constructor1details.md) | 
+| [YammerUserContact()](OfficeDevPnP.Core.Entities.YammerUserContact.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,7 +12,7 @@ public class CustomActionEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActionEntity()](OfficeDevPnP.Core.Entities.CustomActionEntity.Constructor1details.md) | 
+| [CustomActionEntity()](OfficeDevPnP.Core.Entities.CustomActionEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

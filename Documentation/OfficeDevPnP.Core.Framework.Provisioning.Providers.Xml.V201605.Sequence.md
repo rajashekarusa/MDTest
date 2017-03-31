@@ -12,7 +12,7 @@ public class Sequence
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Sequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Sequence.Constructor1details.md) | 
+| [Sequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Sequence.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

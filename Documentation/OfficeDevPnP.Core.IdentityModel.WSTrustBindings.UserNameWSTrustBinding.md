@@ -13,9 +13,9 @@ public class UserNameWSTrustBinding: WSTrustBinding
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserNameWSTrustBinding()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.Constructor1details.md) | 
-| [UserNameWSTrustBinding(SecurityMode)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.Constructor2details.md) | 
-| [UserNameWSTrustBinding(SecurityMode, HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.Constructor3details.md) | 
+| [UserNameWSTrustBinding()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor1.md) | 
+| [UserNameWSTrustBinding(SecurityMode)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor2.md) | 
+| [UserNameWSTrustBinding(SecurityMode, HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor3.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class UserNameWSTrustBinding: WSTrustBinding
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ApplyTransportSecurity(ServiceModel.Channels.HttpTransportBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ApplyTransportSecurityServiceModel.Channels.HttpTransportBindingElement.md) | 
-| [CreateSecurityBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.CreateSecurityBindingElement.md) | 
-| [IsHttpClientCredentialTypeDefined(ServiceModel.HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.IsHttpClientCredentialTypeDefinedServiceModel.HttpClientCredentialType.md) | 
+| [ApplyTransportSecurity(HttpTransportBindingElement)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.87AFDE74.md) | 
+| [CreateSecurityBindingElement()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.BEEBE927.md) | 
+| [IsHttpClientCredentialTypeDefined(HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.6BD7E79A.md) | 
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

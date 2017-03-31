@@ -13,6 +13,6 @@ public class SiteGroupCollection: ProvisioningTemplateCollection<SiteGroup>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteGroupCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection.Constructor1details.md) | 
+| [SiteGroupCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

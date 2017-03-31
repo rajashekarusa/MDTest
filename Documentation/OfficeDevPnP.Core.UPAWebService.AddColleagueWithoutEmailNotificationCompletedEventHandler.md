@@ -13,12 +13,12 @@ public class AddColleagueWithoutEmailNotificationCompletedEventHandler: Multicas
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddColleagueWithoutEmailNotificationCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.Constructor1details.md) | 
+| [AddColleagueWithoutEmailNotificationCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.InvokeObjectAddColleagueWithoutEmailNotificationCompletedEventArgs.md) | 
-| [BeginInvoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.BeginInvokeObjectAddColleagueWithoutEmailNotificationCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.5B32BFC2.md) | 
+| [BeginInvoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.D70AE3D2.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -13,12 +13,12 @@ public class GetUserPinnedLinksCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserPinnedLinksCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.Constructor1details.md) | 
+| [GetUserPinnedLinksCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserPinnedLinksCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.InvokeObjectGetUserPinnedLinksCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetUserPinnedLinksCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.BeginInvokeObjectGetUserPinnedLinksCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetUserPinnedLinksCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.5691D3C5.md) | 
+| [BeginInvoke(Object, GetUserPinnedLinksCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.1501A3C.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

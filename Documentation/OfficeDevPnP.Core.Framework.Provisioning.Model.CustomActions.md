@@ -13,7 +13,7 @@ public class CustomActions: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.Constructor1details.md) | 
+| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

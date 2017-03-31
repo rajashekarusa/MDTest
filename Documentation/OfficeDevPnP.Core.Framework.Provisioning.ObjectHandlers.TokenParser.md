@@ -12,7 +12,7 @@ public class TokenParser
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TokenParser(Web, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.Constructor1details.md) | 
+| [TokenParser(Web, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -20,11 +20,11 @@ public class TokenParser
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddToken(TokenDefinitions.TokenDefinition)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.AddTokenTokenDefinitions.TokenDefinition.md) | 
-| [GetResourceTokenResourceValues(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.GetResourceTokenResourceValuesString.md) | 
-| [Rebase(Microsoft.SharePoint.Client.Web)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.RebaseMicrosoft.SharePoint.Client.Web.md) | 
-| [ParseString(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.ParseStringString.md) | 
-| [GetLeftOverTokens(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.GetLeftOverTokensString.md) | 
-| [ParseString(String, String[])](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.ParseStringStringString[].md) | 
+| [AddToken(TokenDefinition)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.D615C417.md) | 
+| [GetResourceTokenResourceValues(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.3DA9E64.md) | 
+| [Rebase(Web)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.19EF0323.md) | 
+| [ParseString(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.82A519CF.md) | 
+| [GetLeftOverTokens(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.A15F93CE.md) | 
+| [ParseString(String, String[])](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.129EBD72.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

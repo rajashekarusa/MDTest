@@ -13,7 +13,7 @@ public class YammerGroup
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerGroup()](OfficeDevPnP.Core.Entities.YammerGroup.Constructor1details.md) | 
+| [YammerGroup()](OfficeDevPnP.Core.Entities.YammerGroup.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

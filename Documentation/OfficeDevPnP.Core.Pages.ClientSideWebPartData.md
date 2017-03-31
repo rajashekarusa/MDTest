@@ -12,7 +12,7 @@ public class ClientSideWebPartData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Constructor1details.md) | 
+| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

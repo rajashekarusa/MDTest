@@ -12,7 +12,7 @@ public class CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CanvasControl()](OfficeDevPnP.Core.Pages.CanvasControl.Constructor1details.md) | 
+| [CanvasControl()](OfficeDevPnP.Core.Pages.CanvasControl.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -28,9 +28,9 @@ public class CanvasControl
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToHtml()](OfficeDevPnP.Core.Pages.CanvasControl.ToHtml.md) | Converts a control object to it's html representation
-| [Delete()](OfficeDevPnP.Core.Pages.CanvasControl.Delete.md) | Removes the control from the page
-| [GetType(String)](OfficeDevPnP.Core.Pages.CanvasControl.GetTypeString.md) | Receives data-sp-controldata content and detects the type of the control
-| [FromHtml(AngleSharp.Dom.IElement)](OfficeDevPnP.Core.Pages.CanvasControl.FromHtmlAngleSharp.Dom.IElement.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.CanvasControl.7C2B006F.md) | Converts a control object to it's html representation
+| [Delete()](OfficeDevPnP.Core.Pages.CanvasControl.19CB6464.md) | Removes the control from the page
+| [GetType(String)](OfficeDevPnP.Core.Pages.CanvasControl.C4F3D927.md) | Receives data-sp-controldata content and detects the type of the control
+| [FromHtml(IElement)](OfficeDevPnP.Core.Pages.CanvasControl.B95074D8.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

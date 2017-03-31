@@ -13,7 +13,7 @@ public class SupportedUILanguage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.Constructor1details.md) | 
+| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,8 +21,8 @@ public class SupportedUILanguage: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.EqualsObject.md) | 
-| [Equals(SupportedUILanguage)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.EqualsSupportedUILanguage.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.3520DDBB.md) | 
+| [Equals(SupportedUILanguage)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.D3E6FEEE.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

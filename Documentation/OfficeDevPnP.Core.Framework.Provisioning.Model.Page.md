@@ -13,10 +13,10 @@ public class Page: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Constructor1details.md) | 
-| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Constructor2details.md) | 
-| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Constructor3details.md) | 
-| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Constructor4details.md) | 
+| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor1.md) | 
+| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor2.md) | 
+| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor3.md) | 
+| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor4.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -30,8 +30,8 @@ public class Page: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.EqualsObject.md) | 
-| [Equals(Page)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.EqualsPage.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.3520DDBB.md) | 
+| [Equals(Page)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.FDA1DC1D.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

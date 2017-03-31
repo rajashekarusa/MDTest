@@ -13,8 +13,8 @@ public class DocumentSetTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.Constructor1details.md) | 
-| [DocumentSetTemplate(String, IEnumerable<String>, IEnumerable<DefaultDocument>, IEnumerable<Guid>, IEnumerable<Guid>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.Constructor2details.md) | 
+| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor1.md) | 
+| [DocumentSetTemplate(String, IEnumerable<String>, IEnumerable<DefaultDocument>, IEnumerable<Guid>, IEnumerable<Guid>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -26,8 +26,8 @@ public class DocumentSetTemplate: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.EqualsObject.md) | 
-| [Equals(DocumentSetTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.EqualsDocumentSetTemplate.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.3520DDBB.md) | 
+| [Equals(DocumentSetTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.9B91D7BE.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -13,8 +13,8 @@ public class PnPClientContext: ClientContext
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPClientContext(String, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.Constructor1details.md) | 
-| [PnPClientContext(Uri, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.Constructor2details.md) | 
+| [PnPClientContext(String, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ctor1.md) | 
+| [PnPClientContext(Uri, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,9 +23,9 @@ public class PnPClientContext: ClientContext
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ConvertFrom(Microsoft.SharePoint.Client.ClientContext, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ConvertFromMicrosoft.SharePoint.Client.ClientContextInt32Int32.md) | 
-| [Clone(String)](OfficeDevPnP.Core.PnPClientContext.CloneString.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
-| [Clone(Uri)](OfficeDevPnP.Core.PnPClientContext.CloneUri.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
-| [<Clone>b__12_0(Object, Microsoft.SharePoint.Client.WebRequestEventArgs)](OfficeDevPnP.Core.PnPClientContext.<Clone>b__12_0ObjectMicrosoft.SharePoint.Client.WebRequestEventArgs.md) | 
+| [ConvertFrom(ClientContext, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.DFE6B5B7.md) | 
+| [Clone(String)](OfficeDevPnP.Core.PnPClientContext.4C031E75.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
+| [Clone(Uri)](OfficeDevPnP.Core.PnPClientContext.D4F8ECBB.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
+| [<Clone>b__12_0(Object, WebRequestEventArgs)](OfficeDevPnP.Core.PnPClientContext.26A73FBC.md) | 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

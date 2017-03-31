@@ -13,6 +13,6 @@ public class Provider: ExtensibilityHandler
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Model.Provider.Constructor1details.md) | 
+| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Model.Provider.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

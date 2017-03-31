@@ -13,8 +13,8 @@ public class ObjectSecurity: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.Constructor1details.md) | 
-| [ObjectSecurity(IEnumerable<RoleAssignment>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.Constructor2details.md) | 
+| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.ctor1.md) | 
+| [ObjectSecurity(IEnumerable<RoleAssignment>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class ObjectSecurity: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.EqualsObject.md) | 
-| [Equals(ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.EqualsObjectSecurity.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.3520DDBB.md) | 
+| [Equals(ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.7E96C81B.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

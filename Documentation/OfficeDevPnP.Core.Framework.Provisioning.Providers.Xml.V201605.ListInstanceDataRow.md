@@ -12,7 +12,7 @@ public class ListInstanceDataRow
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceDataRow()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceDataRow.Constructor1details.md) | 
+| [ListInstanceDataRow()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceDataRow.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

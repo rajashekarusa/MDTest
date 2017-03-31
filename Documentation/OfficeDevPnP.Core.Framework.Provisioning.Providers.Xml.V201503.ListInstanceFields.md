@@ -12,7 +12,7 @@ public class ListInstanceFields
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstanceFields.Constructor1details.md) | 
+| [ListInstanceFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstanceFields.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

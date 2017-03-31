@@ -13,6 +13,6 @@ public class ContentTypeFieldRef: FieldRefFull
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentTypeFieldRef.Constructor1details.md) | 
+| [ContentTypeFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentTypeFieldRef.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

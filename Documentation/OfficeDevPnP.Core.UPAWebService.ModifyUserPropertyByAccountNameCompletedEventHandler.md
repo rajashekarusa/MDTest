@@ -13,12 +13,12 @@ public class ModifyUserPropertyByAccountNameCompletedEventHandler: MulticastDele
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ModifyUserPropertyByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.Constructor1details.md) | 
+| [ModifyUserPropertyByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, ComponentModel.AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.InvokeObjectComponentModel.AsyncCompletedEventArgs.md) | 
-| [BeginInvoke(Object, ComponentModel.AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.BeginInvokeObjectComponentModel.AsyncCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.26851C57.md) | 
+| [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.F6352AB0.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

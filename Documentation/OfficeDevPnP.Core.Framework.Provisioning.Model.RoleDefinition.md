@@ -13,8 +13,8 @@ public class RoleDefinition: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.Constructor1details.md) | 
-| [RoleDefinition(IEnumerable<PermissionKind>)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.Constructor2details.md) | 
+| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.ctor1.md) | 
+| [RoleDefinition(IEnumerable<PermissionKind>)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class RoleDefinition: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.EqualsObject.md) | 
-| [Equals(RoleDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.EqualsRoleDefinition.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.3520DDBB.md) | 
+| [Equals(RoleDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.8F7175D4.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

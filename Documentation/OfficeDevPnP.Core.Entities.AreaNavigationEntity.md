@@ -12,7 +12,7 @@ public class AreaNavigationEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AreaNavigationEntity()](OfficeDevPnP.Core.Entities.AreaNavigationEntity.Constructor1details.md) | 
+| [AreaNavigationEntity()](OfficeDevPnP.Core.Entities.AreaNavigationEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

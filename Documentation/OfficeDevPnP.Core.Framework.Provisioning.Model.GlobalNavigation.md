@@ -13,8 +13,8 @@ public class GlobalNavigation: BaseNavigationKind
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GlobalNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.Constructor1details.md) | 
-| [GlobalNavigation(GlobalNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.Constructor2details.md) | 
+| [GlobalNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.ctor1.md) | 
+| [GlobalNavigation(GlobalNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class GlobalNavigation: BaseNavigationKind
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.EqualsObject.md) | 
-| [Equals(GlobalNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.EqualsGlobalNavigation.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.3520DDBB.md) | 
+| [Equals(GlobalNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.58417704.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

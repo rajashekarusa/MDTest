@@ -13,8 +13,8 @@ public class TermSet: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermSet()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Constructor1details.md) | 
-| [TermSet(Guid, String, Nullable<Int32>, Boolean, Boolean, List<Term>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Constructor2details.md) | 
+| [TermSet()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.ctor1.md) | 
+| [TermSet(Guid, String, Nullable<Int32>, Boolean, Boolean, List<Term>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -30,8 +30,8 @@ public class TermSet: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.EqualsObject.md) | 
-| [Equals(TermSet)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.EqualsTermSet.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.3520DDBB.md) | 
+| [Equals(TermSet)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.3057BD77.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

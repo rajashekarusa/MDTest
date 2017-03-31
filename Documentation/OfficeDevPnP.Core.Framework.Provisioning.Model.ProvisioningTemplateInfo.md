@@ -12,7 +12,7 @@ public class ProvisioningTemplateInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateInfo()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateInfo.Constructor1details.md) | 
+| [ProvisioningTemplateInfo()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateInfo.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

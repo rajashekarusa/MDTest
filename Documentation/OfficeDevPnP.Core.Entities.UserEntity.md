@@ -12,7 +12,7 @@ public class UserEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserEntity()](OfficeDevPnP.Core.Entities.UserEntity.Constructor1details.md) | 
+| [UserEntity()](OfficeDevPnP.Core.Entities.UserEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

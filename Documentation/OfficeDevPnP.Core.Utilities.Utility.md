@@ -12,6 +12,6 @@ public static class Utility
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHealthScore(String)](OfficeDevPnP.Core.Utilities.Utility.GetHealthScoreString.md) | Returns the healthscore for a SharePoint Server
+| [GetHealthScore(String)](OfficeDevPnP.Core.Utilities.Utility.F79703A9.md) | Returns the healthscore for a SharePoint Server
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

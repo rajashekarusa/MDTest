@@ -13,12 +13,12 @@ public class CreateUserProfileByAccountNameCompletedEventHandler: MulticastDeleg
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CreateUserProfileByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.Constructor1details.md) | 
+| [CreateUserProfileByAccountNameCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, CreateUserProfileByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.InvokeObjectCreateUserProfileByAccountNameCompletedEventArgs.md) | 
-| [BeginInvoke(Object, CreateUserProfileByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.BeginInvokeObjectCreateUserProfileByAccountNameCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, CreateUserProfileByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.F57EF7A2.md) | 
+| [BeginInvoke(Object, CreateUserProfileByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.1C80FA48.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

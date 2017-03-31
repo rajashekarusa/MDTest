@@ -12,7 +12,7 @@ public class MemberGroupData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MemberGroupData()](OfficeDevPnP.Core.UPAWebService.MemberGroupData.Constructor1details.md) | 
+| [MemberGroupData()](OfficeDevPnP.Core.UPAWebService.MemberGroupData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

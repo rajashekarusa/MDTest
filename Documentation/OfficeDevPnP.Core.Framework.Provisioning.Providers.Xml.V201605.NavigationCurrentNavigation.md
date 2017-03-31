@@ -12,7 +12,7 @@ public class NavigationCurrentNavigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationCurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.Constructor1details.md) | 
+| [NavigationCurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

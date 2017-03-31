@@ -12,7 +12,7 @@ public class DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.Constructor1details.md) | 
+| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

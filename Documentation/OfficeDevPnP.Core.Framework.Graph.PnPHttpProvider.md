@@ -13,10 +13,10 @@ public class PnPHttpProvider: HttpProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPHttpProvider(Int32, Int32)](OfficeDevPnP.Core.Framework.Graph.PnPHttpProvider.Constructor1details.md) | 
+| [PnPHttpProvider(Int32, Int32)](OfficeDevPnP.Core.Framework.Graph.PnPHttpProvider.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Microsoft.Graph.IHttpProvider.SendAsync(Net.Http.HttpRequestMessage, Net.Http.HttpCompletionOption, Threading.CancellationToken)](OfficeDevPnP.Core.Framework.Graph.PnPHttpProvider.Microsoft.Graph.IHttpProvider.SendAsyncNet.Http.HttpRequestMessageNet.Http.HttpCompletionOptionThreading.CancellationToken.md) | 
+| [Microsoft.Graph.IHttpProvider.SendAsync(HttpRequestMessage, HttpCompletionOption, CancellationToken)](OfficeDevPnP.Core.Framework.Graph.PnPHttpProvider.A1FFF99B.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

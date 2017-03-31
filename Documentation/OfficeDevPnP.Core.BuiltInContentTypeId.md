@@ -12,6 +12,6 @@ public static class BuiltInContentTypeId
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Contains(String)](OfficeDevPnP.Core.BuiltInContentTypeId.ContainsString.md) | 
+| [Contains(String)](OfficeDevPnP.Core.BuiltInContentTypeId.30C4004E.md) | 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

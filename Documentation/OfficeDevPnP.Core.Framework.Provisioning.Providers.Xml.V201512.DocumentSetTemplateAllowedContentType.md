@@ -12,7 +12,7 @@ public class DocumentSetTemplateAllowedContentType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplateAllowedContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateAllowedContentType.Constructor1details.md) | 
+| [DocumentSetTemplateAllowedContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateAllowedContentType.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

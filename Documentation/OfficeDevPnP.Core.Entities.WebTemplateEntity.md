@@ -12,7 +12,7 @@ public class WebTemplateEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebTemplateEntity()](OfficeDevPnP.Core.Entities.WebTemplateEntity.Constructor1details.md) | 
+| [WebTemplateEntity()](OfficeDevPnP.Core.Entities.WebTemplateEntity.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

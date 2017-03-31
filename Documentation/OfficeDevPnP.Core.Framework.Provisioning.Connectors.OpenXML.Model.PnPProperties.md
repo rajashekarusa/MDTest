@@ -12,7 +12,7 @@ public class PnPProperties
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPProperties()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.Constructor1details.md) | 
+| [PnPProperties()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

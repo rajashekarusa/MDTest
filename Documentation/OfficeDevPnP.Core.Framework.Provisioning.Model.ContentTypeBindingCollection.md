@@ -13,6 +13,6 @@ public class ContentTypeBindingCollection: ProvisioningTemplateCollection<Conten
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBindingCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.Constructor1details.md) | 
+| [ContentTypeBindingCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

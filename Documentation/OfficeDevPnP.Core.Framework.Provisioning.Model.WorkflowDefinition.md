@@ -13,8 +13,8 @@ public class WorkflowDefinition: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.Constructor1details.md) | 
-| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.Constructor2details.md) | 
+| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) | 
+| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -35,8 +35,8 @@ public class WorkflowDefinition: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.EqualsObject.md) | 
-| [Equals(WorkflowDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.EqualsWorkflowDefinition.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.3520DDBB.md) | 
+| [Equals(WorkflowDefinition)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ACEE4A32.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

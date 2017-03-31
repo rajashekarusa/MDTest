@@ -13,7 +13,7 @@ public class ClientSideTextControlData: ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideTextControlData()](OfficeDevPnP.Core.Pages.ClientSideTextControlData.Constructor1details.md) | 
+| [ClientSideTextControlData()](OfficeDevPnP.Core.Pages.ClientSideTextControlData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

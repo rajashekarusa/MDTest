@@ -12,7 +12,7 @@ public class Site
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Site()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Site.Constructor1details.md) | 
+| [Site()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Site.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

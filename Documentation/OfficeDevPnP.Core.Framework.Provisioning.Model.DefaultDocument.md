@@ -13,7 +13,7 @@ public class DefaultDocument: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.Constructor1details.md) | 
+| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class DefaultDocument: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.EqualsObject.md) | 
-| [Equals(DefaultDocument)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.EqualsDefaultDocument.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.3520DDBB.md) | 
+| [Equals(DefaultDocument)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.449EA3B3.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -12,7 +12,7 @@ public class TaxonomyItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TaxonomyItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TaxonomyItem.Constructor1details.md) | 
+| [TaxonomyItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TaxonomyItem.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -13,12 +13,12 @@ public class FileTokenCache: TokenCache
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FileTokenCache(String)](OfficeDevPnP.Core.Utilities.FileTokenCache.Constructor1details.md) | 
+| [FileTokenCache(String)](OfficeDevPnP.Core.Utilities.FileTokenCache.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Clear()](OfficeDevPnP.Core.Utilities.FileTokenCache.Clear.md) | 
-| [BeforeAccessNotification(Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCacheNotificationArgs)](OfficeDevPnP.Core.Utilities.FileTokenCache.BeforeAccessNotificationMicrosoft.IdentityModel.Clients.ActiveDirectory.TokenCacheNotificationArgs.md) | 
-| [AfterAccessNotification(Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCacheNotificationArgs)](OfficeDevPnP.Core.Utilities.FileTokenCache.AfterAccessNotificationMicrosoft.IdentityModel.Clients.ActiveDirectory.TokenCacheNotificationArgs.md) | 
+| [Clear()](OfficeDevPnP.Core.Utilities.FileTokenCache.87DB2.md) | 
+| [BeforeAccessNotification(TokenCacheNotificationArgs)](OfficeDevPnP.Core.Utilities.FileTokenCache.8EC175D9.md) | 
+| [AfterAccessNotification(TokenCacheNotificationArgs)](OfficeDevPnP.Core.Utilities.FileTokenCache.82C187BD.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -13,8 +13,8 @@ public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPMonitoredScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Constructor1details.md) | 
-| [PnPMonitoredScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Constructor2details.md) | 
+| [PnPMonitoredScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ctor1.md) | 
+| [PnPMonitoredScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,17 +24,17 @@ public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [StartScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.StartScopeString.md) | 
-| [EndScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.EndScope.md) | 
-| [LogError(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogErrorStringObject[].md) | 
-| [LogError(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogErrorExceptionStringObject[].md) | 
-| [LogInfo(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogInfoStringObject[].md) | 
-| [LogInfo(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogInfoExceptionStringObject[].md) | 
-| [LogWarning(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogWarningStringObject[].md) | 
-| [LogWarning(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogWarningExceptionStringObject[].md) | 
-| [LogDebug(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogDebugStringObject[].md) | 
-| [LogDebug(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.LogDebugExceptionStringObject[].md) | 
-| [Dispose(Boolean)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.DisposeBoolean.md) | 
-| [Dispose()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.Dispose.md) | 
+| [StartScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.C7ED729D.md) | 
+| [EndScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.208C04E8.md) | 
+| [LogError(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.742D12F.md) | 
+| [LogError(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.A4747726.md) | 
+| [LogInfo(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.5E0E4F17.md) | 
+| [LogInfo(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.77D35E53.md) | 
+| [LogWarning(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.F79E7F01.md) | 
+| [LogWarning(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.422EF9CE.md) | 
+| [LogDebug(String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.9BF78176.md) | 
+| [LogDebug(Exception, String, Object[])](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.739389BB.md) | 
+| [Dispose(Boolean)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.399E7C4D.md) | 
+| [Dispose()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.AB5A39E1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

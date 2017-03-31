@@ -12,7 +12,7 @@ public class GetUserProfileByIndexResult
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserProfileByIndexResult()](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.Constructor1details.md) | 
+| [GetUserProfileByIndexResult()](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

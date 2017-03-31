@@ -14,8 +14,8 @@ public class ExtensiblityPipelineException: Exception
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensiblityPipelineException()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.Constructor1details.md) | 
-| [ExtensiblityPipelineException(String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.Constructor2details.md) | 
-| [ExtensiblityPipelineException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.Constructor3details.md) | 
+| [ExtensiblityPipelineException()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor1.md) | 
+| [ExtensiblityPipelineException(String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor2.md) | 
+| [ExtensiblityPipelineException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor3.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

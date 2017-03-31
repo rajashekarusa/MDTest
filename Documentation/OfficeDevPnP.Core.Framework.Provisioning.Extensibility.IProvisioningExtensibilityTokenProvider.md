@@ -10,6 +10,6 @@ public interface IProvisioningExtensibilityTokenProvider
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetTokens(Microsoft.SharePoint.Client.ClientContext, OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityTokenProvider.GetTokensMicrosoft.SharePoint.Client.ClientContextOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateString.md) | Provides Token Definitions to the template provisioning pipeline
+| [GetTokens(ClientContext, ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityTokenProvider.GetTokensClientContextProvisioningTemplateString.md) | Provides Token Definitions to the template provisioning pipeline
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

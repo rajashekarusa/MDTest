@@ -13,7 +13,7 @@ public class AddIn: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddIn()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.Constructor1details.md) | 
+| [AddIn()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class AddIn: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.EqualsObject.md) | 
-| [Equals(AddIn)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.EqualsAddIn.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.3520DDBB.md) | 
+| [Equals(AddIn)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.29788FDE.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

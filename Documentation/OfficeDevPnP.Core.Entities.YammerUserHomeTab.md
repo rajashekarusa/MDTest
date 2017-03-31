@@ -12,7 +12,7 @@ public class YammerUserHomeTab
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserHomeTab()](OfficeDevPnP.Core.Entities.YammerUserHomeTab.Constructor1details.md) | 
+| [YammerUserHomeTab()](OfficeDevPnP.Core.Entities.YammerUserHomeTab.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

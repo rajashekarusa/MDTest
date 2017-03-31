@@ -12,7 +12,7 @@ public class YammerUserWebPreferences
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserWebPreferences()](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.Constructor1details.md) | 
+| [YammerUserWebPreferences()](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

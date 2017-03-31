@@ -13,22 +13,22 @@ public class JsonTemplateProvider: TemplateProviderBase
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetTemplates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplates.md) | 
-| [GetTemplates(OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplatesOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) | 
-| [GetTemplate(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplateString.md) | 
-| [GetTemplate(String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplateStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[].md) | 
-| [GetTemplate(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplateStringString.md) | 
-| [GetTemplate(String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplateStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) | 
-| [GetTemplate(String, String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplateStringStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) | 
-| [GetTemplate(String, String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.GetTemplateStringStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatterOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[].md) | 
-| [Save(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) | 
-| [Save(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[].md) | 
-| [Save(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) | 
-| [Save(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatterOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[].md) | 
-| [SaveAs(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveAsOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateString.md) | 
-| [SaveAs(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveAsOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[].md) | 
-| [SaveAs(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveAsOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) | 
-| [SaveAs(OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate, String, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter, OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.SaveAsOfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateStringOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatterOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[].md) | 
-| [Delete(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.DeleteString.md) | 
+| [GetTemplates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.637E3E6B.md) | 
+| [GetTemplates(ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.57D85359.md) | 
+| [GetTemplate(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.63314BCB.md) | 
+| [GetTemplate(String, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.87E64E45.md) | 
+| [GetTemplate(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.787AC00E.md) | 
+| [GetTemplate(String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.5AB3AFB3.md) | 
+| [GetTemplate(String, String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.250DCB85.md) | 
+| [GetTemplate(String, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.CC9B66FA.md) | 
+| [Save(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.DA61C130.md) | 
+| [Save(ProvisioningTemplate, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.1C9D227E.md) | 
+| [Save(ProvisioningTemplate, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.36E39E3.md) | 
+| [Save(ProvisioningTemplate, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.575209B6.md) | 
+| [SaveAs(ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.C088C3C5.md) | 
+| [SaveAs(ProvisioningTemplate, String, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.3B2E8CC2.md) | 
+| [SaveAs(ProvisioningTemplate, String, ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.3AE34207.md) | 
+| [SaveAs(ProvisioningTemplate, String, ITemplateFormatter, ITemplateProviderExtension[])](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.C9910F96.md) | 
+| [Delete(String)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.CF3D39FD.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

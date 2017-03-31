@@ -12,7 +12,7 @@ public class ProvisioningTemplateCustomActions
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.Constructor1details.md) | 
+| [ProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

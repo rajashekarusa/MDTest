@@ -13,6 +13,6 @@ public class DirectoryCollection: ProvisioningTemplateCollection<Directory>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DirectoryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection.Constructor1details.md) | 
+| [DirectoryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -12,7 +12,7 @@ public class AuditSettingsAudit
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditSettingsAudit()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettingsAudit.Constructor1details.md) | 
+| [AuditSettingsAudit()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettingsAudit.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

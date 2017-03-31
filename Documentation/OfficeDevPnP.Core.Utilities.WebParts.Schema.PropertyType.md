@@ -12,7 +12,7 @@ public class PropertyType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Constructor1details.md) | 
+| [PropertyType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

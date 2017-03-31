@@ -12,8 +12,8 @@ public class ProvisioningTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.Constructor1details.md) | 
-| [ProvisioningTemplate(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.Constructor2details.md) | 
+| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor1.md) | 
+| [ProvisioningTemplate(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -56,9 +56,9 @@ public class ProvisioningTemplate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.EqualsObject.md) | 
-| [Equals(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.EqualsProvisioningTemplate.md) | 
-| [ToXML(OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ToXMLOfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) | Serializes a template to XML
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.3520DDBB.md) | 
+| [Equals(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.89C2B310.md) | 
+| [ToXML(ITemplateFormatter)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.F3DA680E.md) | Serializes a template to XML
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

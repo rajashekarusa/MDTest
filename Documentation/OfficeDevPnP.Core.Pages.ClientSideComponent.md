@@ -12,7 +12,7 @@ public class ClientSideComponent
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideComponent()](OfficeDevPnP.Core.Pages.ClientSideComponent.Constructor1details.md) | 
+| [ClientSideComponent()](OfficeDevPnP.Core.Pages.ClientSideComponent.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

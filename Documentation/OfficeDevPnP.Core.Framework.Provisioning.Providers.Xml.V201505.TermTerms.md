@@ -12,7 +12,7 @@ public class TermTerms
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermTerms()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermTerms.Constructor1details.md) | 
+| [TermTerms()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermTerms.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

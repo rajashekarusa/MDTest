@@ -13,8 +13,8 @@ public class FieldRef: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.Constructor1details.md) | 
-| [FieldRef(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.Constructor2details.md) | 
+| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor1.md) | 
+| [FieldRef(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -26,8 +26,8 @@ public class FieldRef: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.EqualsObject.md) | 
-| [Equals(FieldRef)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.EqualsFieldRef.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.3520DDBB.md) | 
+| [Equals(FieldRef)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.492A3778.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

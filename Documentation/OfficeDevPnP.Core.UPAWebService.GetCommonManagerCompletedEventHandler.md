@@ -13,12 +13,12 @@ public class GetCommonManagerCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetCommonManagerCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.Constructor1details.md) | 
+| [GetCommonManagerCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetCommonManagerCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.InvokeObjectGetCommonManagerCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetCommonManagerCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.BeginInvokeObjectGetCommonManagerCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetCommonManagerCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.874AC70A.md) | 
+| [BeginInvoke(Object, GetCommonManagerCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.EC2C1E18.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

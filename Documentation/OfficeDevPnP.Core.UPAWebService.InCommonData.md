@@ -12,7 +12,7 @@ public class InCommonData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [InCommonData()](OfficeDevPnP.Core.UPAWebService.InCommonData.Constructor1details.md) | 
+| [InCommonData()](OfficeDevPnP.Core.UPAWebService.InCommonData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,7 +12,7 @@ public class SupportedUILanguagesSupportedUILanguage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguagesSupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedUILanguagesSupportedUILanguage.Constructor1details.md) | 
+| [SupportedUILanguagesSupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedUILanguagesSupportedUILanguage.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -13,8 +13,8 @@ public class ContentType: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.Constructor1details.md) | 
-| [ContentType(String, String, String, String, Boolean, Boolean, Boolean, String, Boolean, IEnumerable<FieldRef>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.Constructor2details.md) | 
+| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.ctor1.md) | 
+| [ContentType(String, String, String, String, Boolean, Boolean, Boolean, String, Boolean, IEnumerable<FieldRef>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -35,9 +35,9 @@ public class ContentType: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.EqualsObject.md) | 
-| [Equals(ContentType)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.EqualsContentType.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.3520DDBB.md) | 
+| [Equals(ContentType)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.F2A50643.md) | 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

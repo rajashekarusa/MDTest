@@ -12,7 +12,7 @@ public class ImportSequence
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ImportSequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ImportSequence.Constructor1details.md) | 
+| [ImportSequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ImportSequence.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

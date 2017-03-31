@@ -13,7 +13,7 @@ public class ContentTypeBinding: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.Constructor1details.md) | 
+| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class ContentTypeBinding: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.EqualsObject.md) | 
-| [Equals(ContentTypeBinding)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.EqualsContentTypeBinding.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.3520DDBB.md) | 
+| [Equals(ContentTypeBinding)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.5D983B29.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -13,7 +13,7 @@ public class DesignPackage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.Constructor1details.md) | 
+| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,8 +25,8 @@ public class DesignPackage: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.EqualsObject.md) | 
-| [Equals(DesignPackage)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.EqualsDesignPackage.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.3520DDBB.md) | 
+| [Equals(DesignPackage)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.7760E741.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

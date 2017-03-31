@@ -12,7 +12,7 @@ public class ProvisioningTemplateApplyingInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateApplyingInformation()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.Constructor1details.md) | 
+| [ProvisioningTemplateApplyingInformation()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

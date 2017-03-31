@@ -12,7 +12,7 @@ public class Provisioning
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provisioning()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Constructor1details.md) | 
+| [Provisioning()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

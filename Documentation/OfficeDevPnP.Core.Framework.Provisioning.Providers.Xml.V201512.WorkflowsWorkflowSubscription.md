@@ -12,7 +12,7 @@ public class WorkflowsWorkflowSubscription
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowsWorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowSubscription.Constructor1details.md) | 
+| [WorkflowsWorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowSubscription.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

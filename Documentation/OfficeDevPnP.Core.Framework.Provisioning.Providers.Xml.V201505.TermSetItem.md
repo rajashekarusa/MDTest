@@ -13,7 +13,7 @@ public class TermSetItem: TaxonomyItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermSetItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem.Constructor1details.md) | 
+| [TermSetItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

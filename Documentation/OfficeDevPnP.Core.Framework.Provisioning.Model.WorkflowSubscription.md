@@ -13,8 +13,8 @@ public class WorkflowSubscription: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.Constructor1details.md) | 
-| [WorkflowSubscription(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.Constructor2details.md) | 
+| [WorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor1.md) | 
+| [WorkflowSubscription(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -31,8 +31,8 @@ public class WorkflowSubscription: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.EqualsObject.md) | 
-| [Equals(WorkflowSubscription)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.EqualsWorkflowSubscription.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.3520DDBB.md) | 
+| [Equals(WorkflowSubscription)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ED86DF1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

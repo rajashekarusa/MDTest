@@ -13,6 +13,6 @@ public class WorkflowDefinitionCollection: ProvisioningTemplateCollection<Workfl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowDefinitionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.Constructor1details.md) | 
+| [WorkflowDefinitionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

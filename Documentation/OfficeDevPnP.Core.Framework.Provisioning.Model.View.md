@@ -13,7 +13,7 @@ public class View: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [View()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.Constructor1details.md) | 
+| [View()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,9 +21,9 @@ public class View: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.EqualsObject.md) | 
-| [Equals(View)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.EqualsView.md) | 
-| [PrepareViewForCompare(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.PrepareViewForCompareString.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.3520DDBB.md) | 
+| [Equals(View)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.D29F207D.md) | 
+| [PrepareViewForCompare(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.52A1FA59.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

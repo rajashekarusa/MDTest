@@ -13,6 +13,6 @@ public class FieldCollection: ProvisioningTemplateCollection<Field>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.Constructor1details.md) | 
+| [FieldCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

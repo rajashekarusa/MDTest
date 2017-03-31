@@ -12,7 +12,7 @@ public class OrganizationProfileData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [OrganizationProfileData()](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData.Constructor1details.md) | 
+| [OrganizationProfileData()](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

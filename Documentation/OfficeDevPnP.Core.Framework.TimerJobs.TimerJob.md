@@ -13,9 +13,9 @@ public class TimerJob
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJob(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.Constructor1details.md) | 
-| [TimerJob(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.Constructor2details.md) | 
-| [TimerJob(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.Constructor3details.md) | 
+| [TimerJob(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor1.md) | 
+| [TimerJob(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor2.md) | 
+| [TimerJob(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor3.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -34,47 +34,47 @@ public class TimerJob
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [add_TimerJobRun(TimerJobRunHandler)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.add_TimerJobRunTimerJobRunHandler.md) | 
-| [remove_TimerJobRun(TimerJobRunHandler)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.remove_TimerJobRunTimerJobRunHandler.md) | 
-| [Run()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.Run.md) | Triggers the timer job to start running
-| [DoWorkBatch(Collections.Generic.List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.DoWorkBatchCollections.Generic.List<String>.md) | 
-| [DoWork(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.DoWorkString.md) | Processes the amount of work that will be done for a single site/web
-| [OnTimerJobRun(TimerJobRunEventArgs)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.OnTimerJobRunTimerJobRunEventArgs.md) | Triggers the event to fire and deals with all the pre/post processing needed to automatically manage state
-| [CreateWorkBatches()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.CreateWorkBatches.md) | Creates batches of sites to process. Batch size is based on max number of threads
-| [UseOffice365Authentication(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseOffice365AuthenticationStringString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType to AuthenticationType.Office365
-| [UseOffice365Authentication(String, Security.SecureString)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseOffice365AuthenticationStringSecurity.SecureString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType to AuthenticationType.Office365
-| [UseOffice365Authentication(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseOffice365AuthenticationString.md) | Prepares the timerjob to operate against Office 365 with user and password credentials which are retrieved via the windows Credential Manager. Also sets AuthenticationType to AuthenticationType.Office365
-| [UseNetworkCredentialsAuthentication(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseNetworkCredentialsAuthenticationStringStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType to AuthenticationType.NetworkCredentials
-| [UseNetworkCredentialsAuthentication(String, Security.SecureString, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseNetworkCredentialsAuthenticationStringSecurity.SecureStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType to AuthenticationType.NetworkCredentials
-| [UseNetworkCredentialsAuthentication(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseNetworkCredentialsAuthenticationString.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials which are retrieved via the windows Credential Manager. Sets AuthenticationType to AuthenticationType.NetworkCredentials
-| [UseAppOnlyAuthentication(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseAppOnlyAuthenticationStringString.md) | Prepares the timerjob to operate against SharePoint on-premises with app-only credentials. Sets AuthenticationType to AuthenticationType.AppOnly
-| [UseAzureADAppOnlyAuthentication(String, String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseAzureADAppOnlyAuthenticationStringStringStringString.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
-| [UseAzureADAppOnlyAuthentication(String, String, String, Security.SecureString)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseAzureADAppOnlyAuthenticationStringStringStringSecurity.SecureString.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
-| [UseAzureADAppOnlyAuthentication(String, String, Security.Cryptography.X509Certificates.X509Certificate2)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UseAzureADAppOnlyAuthenticationStringStringSecurity.Cryptography.X509Certificates.X509Certificate2.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
-| [Clone(TimerJob)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.CloneTimerJob.md) | Takes over the settings from the passed timer job. Is useful when you run multiple jobs in a row or chain job execution. Settings that are taken over are all the authentication, enumeration settings and SharePointVersion
-| [GetAuthenticationManager(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.GetAuthenticationManagerString.md) | Get an AuthenticationManager instance per host Url. Needed to make this work properly, else we're getting access denied because of Invalid audience Uri
-| [SetEnumerationCredentials(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.SetEnumerationCredentialsStringString.md) | Provides the timer job with the enumeration credentials. For Office 365 username and password is sufficient
-| [SetEnumerationCredentials(String, Security.SecureString)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.SetEnumerationCredentialsStringSecurity.SecureString.md) | Provides the timer job with the enumeration credentials. For Office 365 username and password is sufficient
-| [SetEnumerationCredentials(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.SetEnumerationCredentialsStringStringString.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed
-| [SetEnumerationCredentials(String, Security.SecureString, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.SetEnumerationCredentialsStringSecurity.SecureStringString.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed
-| [SetEnumerationCredentials(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.SetEnumerationCredentialsString.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed
-| [AddSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.AddSiteString.md) | Adds a site Url or wildcard site Url to the collection of sites that the timer job will process
-| [ClearAddedSites()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ClearAddedSites.md) | Clears the list of added site Url's and/or wildcard site Url's
-| [UpdateAddedSites(Collections.Generic.List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.UpdateAddedSitesCollections.Generic.List<String>.md) | 
-| [ResolveAddedSites(Collections.Generic.List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ResolveAddedSitesCollections.Generic.List<String>.md) | 
-| [DoExpandBatch(Collections.Generic.List<String>, Collections.Generic.List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.DoExpandBatchCollections.Generic.List<String>Collections.Generic.List<String>.md) | 
-| [CreateExpandBatches(Collections.Generic.List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.CreateExpandBatchesCollections.Generic.List<String>.md) | 
-| [ExpandSite(Collections.Generic.List<String>, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ExpandSiteCollections.Generic.List<String>String.md) | 
-| [CreateClientContext(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.CreateClientContextString.md) | Creates a ClientContext object based on the set AuthenticationType and the used version of SharePoint
-| [ResolveSite(String, Collections.Generic.List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ResolveSiteStringCollections.Generic.List<String>.md) | 
-| [GetAllSubSites(Microsoft.SharePoint.Client.Site)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.GetAllSubSitesMicrosoft.SharePoint.Client.Site.md) | Gets all sub sites for a given site
-| [IsValidUrl(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.IsValidUrlString.md) | Verifies if the passed Url has a valid structure
-| [GetSharePointVersion()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.GetSharePointVersion.md) | Gets the current SharePoint version based on the loaded assembly
-| [GetTenantAdminSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.GetTenantAdminSiteString.md) | Gets the tenant admin site based on the tenant name provided when setting the authentication details
-| [GetTopLevelSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.GetTopLevelSiteString.md) | Gets the top level site for the given url
-| [GetRootSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.GetRootSiteString.md) | Gets the root site for a given site Url
-| [NormalizedTimerJobName(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.NormalizedTimerJobNameString.md) | Normalizes the timer job name
-| [IsInternalServerErrorException(Exception)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.IsInternalServerErrorExceptionException.md) | Returns true if the exception was a "The remote server returned an error: (500) Internal Server Error"
-| [IsNotFoundException(Exception)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.IsNotFoundExceptionException.md) | Returns true if the exception was a "The remote server returned an error: (404) Not Found"
+| [add_TimerJobRun(TimerJobRunHandler)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.FD4EE791.md) | 
+| [remove_TimerJobRun(TimerJobRunHandler)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.C2EAF49.md) | 
+| [Run()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.F2C99142.md) | Triggers the timer job to start running
+| [DoWorkBatch(List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.62F103D7.md) | 
+| [DoWork(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.4729686.md) | Processes the amount of work that will be done for a single site/web
+| [OnTimerJobRun(TimerJobRunEventArgs)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.41FD93D5.md) | Triggers the event to fire and deals with all the pre/post processing needed to automatically manage state
+| [CreateWorkBatches()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.27524470.md) | Creates batches of sites to process. Batch size is based on max number of threads
+| [UseOffice365Authentication(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.5642EA13.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType to AuthenticationType.Office365
+| [UseOffice365Authentication(String, SecureString)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.A0893D75.md) | Prepares the timerjob to operate against Office 365 with user and password credentials. Sets AuthenticationType to AuthenticationType.Office365
+| [UseOffice365Authentication(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.AA62EC03.md) | Prepares the timerjob to operate against Office 365 with user and password credentials which are retrieved via the windows Credential Manager. Also sets AuthenticationType to AuthenticationType.Office365
+| [UseNetworkCredentialsAuthentication(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.BCF4E9F6.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType to AuthenticationType.NetworkCredentials
+| [UseNetworkCredentialsAuthentication(String, SecureString, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.66B99329.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials. Sets AuthenticationType to AuthenticationType.NetworkCredentials
+| [UseNetworkCredentialsAuthentication(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.413FA6C7.md) | Prepares the timerjob to operate against SharePoint on-premises with user name password credentials which are retrieved via the windows Credential Manager. Sets AuthenticationType to AuthenticationType.NetworkCredentials
+| [UseAppOnlyAuthentication(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.913E50EB.md) | Prepares the timerjob to operate against SharePoint on-premises with app-only credentials. Sets AuthenticationType to AuthenticationType.AppOnly
+| [UseAzureADAppOnlyAuthentication(String, String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.9437A92D.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
+| [UseAzureADAppOnlyAuthentication(String, String, String, SecureString)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.E55B0812.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
+| [UseAzureADAppOnlyAuthentication(String, String, X509Certificate2)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.D6643E5D.md) | Prepares the timerjob to operate against SharePoint Only with Azure AD app-only credentials. Sets AuthenticationType to AuthenticationType.AzureADAppOnly
+| [Clone(TimerJob)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.660F2217.md) | Takes over the settings from the passed timer job. Is useful when you run multiple jobs in a row or chain job execution. Settings that are taken over are all the authentication, enumeration settings and SharePointVersion
+| [GetAuthenticationManager(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.16777985.md) | Get an AuthenticationManager instance per host Url. Needed to make this work properly, else we're getting access denied because of Invalid audience Uri
+| [SetEnumerationCredentials(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.99EA514B.md) | Provides the timer job with the enumeration credentials. For Office 365 username and password is sufficient
+| [SetEnumerationCredentials(String, SecureString)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.A5806529.md) | Provides the timer job with the enumeration credentials. For Office 365 username and password is sufficient
+| [SetEnumerationCredentials(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.58034B34.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed
+| [SetEnumerationCredentials(String, SecureString, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.E62AEC94.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed
+| [SetEnumerationCredentials(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.B1B2B33A.md) | Provides the timer job with the enumeration credentials. For SharePoint on-premises username, password and domain are needed
+| [AddSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.C9F16B09.md) | Adds a site Url or wildcard site Url to the collection of sites that the timer job will process
+| [ClearAddedSites()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.4F33069D.md) | Clears the list of added site Url's and/or wildcard site Url's
+| [UpdateAddedSites(List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.1AD1D570.md) | 
+| [ResolveAddedSites(List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.F0D1233.md) | 
+| [DoExpandBatch(List<String>, List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.A6B3E7B1.md) | 
+| [CreateExpandBatches(List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.8A6FCD53.md) | 
+| [ExpandSite(List<String>, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.D1C76BF3.md) | 
+| [CreateClientContext(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ECEA7641.md) | Creates a ClientContext object based on the set AuthenticationType and the used version of SharePoint
+| [ResolveSite(String, List<String>)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.D7B68099.md) | 
+| [GetAllSubSites(Site)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.6810E1DF.md) | Gets all sub sites for a given site
+| [IsValidUrl(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.9EDE3CB9.md) | Verifies if the passed Url has a valid structure
+| [GetSharePointVersion()](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.907A52ED.md) | Gets the current SharePoint version based on the loaded assembly
+| [GetTenantAdminSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.9BCD1EC3.md) | Gets the tenant admin site based on the tenant name provided when setting the authentication details
+| [GetTopLevelSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.E91D1D5A.md) | Gets the top level site for the given url
+| [GetRootSite(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.7C96276.md) | Gets the root site for a given site Url
+| [NormalizedTimerJobName(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.222278EB.md) | Normalizes the timer job name
+| [IsInternalServerErrorException(Exception)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.248E29AE.md) | Returns true if the exception was a "The remote server returned an error: (500) Internal Server Error"
+| [IsNotFoundException(Exception)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.D9F476EE.md) | Returns true if the exception was a "The remote server returned an error: (404) Not Found"
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

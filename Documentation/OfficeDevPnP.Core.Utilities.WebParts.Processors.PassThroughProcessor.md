@@ -12,10 +12,10 @@ public class PassThroughProcessor
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PassThroughProcessor()](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.Constructor1details.md) | 
+| [PassThroughProcessor()](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Process(Microsoft.SharePoint.Client.WebParts.WebPartDefinition, Microsoft.SharePoint.Client.File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.ProcessMicrosoft.SharePoint.Client.WebParts.WebPartDefinitionMicrosoft.SharePoint.Client.File.md) | 
+| [Process(WebPartDefinition, File)](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.BEDADEAC.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)

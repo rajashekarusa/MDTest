@@ -12,9 +12,9 @@ public class TreeNode
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TreeNode()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Constructor1details.md) | 
-| [TreeNode(T)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Constructor2details.md) | 
-| [TreeNode(T, TreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Constructor3details.md) | 
+| [TreeNode()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor1.md) | 
+| [TreeNode(T)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor2.md) | 
+| [TreeNode(T, TreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor3.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -32,7 +32,7 @@ public class TreeNode
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [SetParent(ITreeNode, Boolean)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.SetParentITreeNodeBoolean.md) | 
-| [ToString()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ToString.md) | 
+| [SetParent(ITreeNode, Boolean)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.BA4C22D7.md) | 
+| [ToString()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.B40365CF.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

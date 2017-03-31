@@ -12,7 +12,7 @@ public class CustomActions
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActions.Constructor1details.md) | 
+| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActions.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

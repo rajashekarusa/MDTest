@@ -13,7 +13,7 @@ public class PageLayout: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.Constructor1details.md) | 
+| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class PageLayout: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.EqualsObject.md) | 
-| [Equals(PageLayout)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.EqualsPageLayout.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.3520DDBB.md) | 
+| [Equals(PageLayout)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.410A89F2.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

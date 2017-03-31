@@ -12,7 +12,7 @@ public class VariationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.Constructor1details.md) | 
+| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

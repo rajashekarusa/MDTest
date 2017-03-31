@@ -12,7 +12,7 @@ public class User
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [User()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User.Constructor1details.md) | 
+| [User()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

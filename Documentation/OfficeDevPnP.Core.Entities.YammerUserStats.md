@@ -12,7 +12,7 @@ public class YammerUserStats
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserStats()](OfficeDevPnP.Core.Entities.YammerUserStats.Constructor1details.md) | 
+| [YammerUserStats()](OfficeDevPnP.Core.Entities.YammerUserStats.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

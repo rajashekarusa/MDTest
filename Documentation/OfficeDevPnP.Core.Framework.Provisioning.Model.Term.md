@@ -13,8 +13,8 @@ public class Term: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Constructor1details.md) | 
-| [Term(Guid, String, Nullable<Int32>, List<Term>, List<TermLabel>, Dictionary<String, String>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.Constructor2details.md) | 
+| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.ctor1.md) | 
+| [Term(Guid, String, Nullable<Int32>, List<Term>, List<TermLabel>, Dictionary<String, String>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -36,8 +36,8 @@ public class Term: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.EqualsObject.md) | 
-| [Equals(Term)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.EqualsTerm.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.3520DDBB.md) | 
+| [Equals(Term)](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.456809BC.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

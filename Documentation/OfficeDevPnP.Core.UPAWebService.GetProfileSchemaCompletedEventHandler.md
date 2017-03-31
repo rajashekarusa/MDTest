@@ -13,12 +13,12 @@ public class GetProfileSchemaCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetProfileSchemaCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.Constructor1details.md) | 
+| [GetProfileSchemaCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetProfileSchemaCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.InvokeObjectGetProfileSchemaCompletedEventArgs.md) | 
-| [BeginInvoke(Object, GetProfileSchemaCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.BeginInvokeObjectGetProfileSchemaCompletedEventArgsAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.EndInvokeIAsyncResult.md) | 
+| [Invoke(Object, GetProfileSchemaCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.185807B.md) | 
+| [BeginInvoke(Object, GetProfileSchemaCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.F6867F55.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

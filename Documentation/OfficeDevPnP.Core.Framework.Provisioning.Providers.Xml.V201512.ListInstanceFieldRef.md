@@ -13,7 +13,7 @@ public class ListInstanceFieldRef: FieldRefFull
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ListInstanceFieldRef.Constructor1details.md) | 
+| [ListInstanceFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ListInstanceFieldRef.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

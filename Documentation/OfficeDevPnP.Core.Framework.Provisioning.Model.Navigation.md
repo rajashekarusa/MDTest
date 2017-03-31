@@ -13,8 +13,8 @@ public class Navigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.Constructor1details.md) | 
-| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.Constructor2details.md) | 
+| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) | 
+| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +23,8 @@ public class Navigation: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.EqualsObject.md) | 
-| [Equals(Navigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.EqualsNavigation.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.3520DDBB.md) | 
+| [Equals(Navigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.D107522B.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -13,7 +13,7 @@ public class PropertyBagEntry: StringDictionaryItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.Constructor1details.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

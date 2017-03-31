@@ -12,7 +12,7 @@ public class ListInstance
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstance.Constructor1details.md) | 
+| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstance.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

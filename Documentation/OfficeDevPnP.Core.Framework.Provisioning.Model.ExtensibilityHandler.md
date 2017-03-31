@@ -13,7 +13,7 @@ public class ExtensibilityHandler: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Constructor1details.md) | 
+| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class ExtensibilityHandler: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.EqualsObject.md) | 
-| [Equals(ExtensibilityHandler)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.EqualsExtensibilityHandler.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.3520DDBB.md) | 
+| [Equals(ExtensibilityHandler)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.C3F425D0.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

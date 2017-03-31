@@ -12,7 +12,7 @@ public class WikiPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Constructor1details.md) | 
+| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

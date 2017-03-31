@@ -12,7 +12,7 @@ public class Features
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Features.Constructor1details.md) | 
+| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Features.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

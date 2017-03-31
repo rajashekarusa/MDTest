@@ -13,12 +13,12 @@ public class ProvisioningMessagesDelegate: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningMessagesDelegate(Object, IntPtr)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.Constructor1details.md) | 
+| [ProvisioningMessagesDelegate(Object, IntPtr)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(String, ProvisioningMessageType)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.InvokeStringProvisioningMessageType.md) | 
-| [BeginInvoke(String, ProvisioningMessageType, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.BeginInvokeStringProvisioningMessageTypeAsyncCallbackObject.md) | 
-| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.EndInvokeIAsyncResult.md) | 
+| [Invoke(String, ProvisioningMessageType)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.451333D8.md) | 
+| [BeginInvoke(String, ProvisioningMessageType, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.1D42F485.md) | 
+| [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.C9867657.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

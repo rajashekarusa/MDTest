@@ -13,6 +13,6 @@ public class FeatureCollection: ProvisioningTemplateCollection<Feature>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FeatureCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.Constructor1details.md) | 
+| [FeatureCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.ctor1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

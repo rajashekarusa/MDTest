@@ -13,7 +13,7 @@ public class LogConfigurationTracingLoggerElement: ConfigurationElement
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogConfigurationTracingLoggerElement()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.Constructor1details.md) | 
+| [LogConfigurationTracingLoggerElement()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

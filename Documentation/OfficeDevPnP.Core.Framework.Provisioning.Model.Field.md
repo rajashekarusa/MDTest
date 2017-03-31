@@ -13,7 +13,7 @@ public class Field: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Field()](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.Constructor1details.md) | 
+| [Field()](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,10 +21,10 @@ public class Field: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.EqualsObject.md) | 
-| [Equals(Field)](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.EqualsField.md) | 
-| [PrepareFieldForCompare(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.PrepareFieldForCompareString.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.3520DDBB.md) | 
+| [Equals(Field)](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.38660A82.md) | 
+| [PrepareFieldForCompare(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.E6F02D94.md) | 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ff407271.aspx](https://msdn.microsoft.com/en-us/library/office/ff407271.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

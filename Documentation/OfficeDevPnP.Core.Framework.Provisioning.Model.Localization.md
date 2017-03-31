@@ -13,8 +13,8 @@ public class Localization: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Localization()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.Constructor1details.md) | 
-| [Localization(Int32, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.Constructor2details.md) | 
+| [Localization()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor1.md) | 
+| [Localization(Int32, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,8 +24,8 @@ public class Localization: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.EqualsObject.md) | 
-| [Equals(Localization)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.EqualsLocalization.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.3520DDBB.md) | 
+| [Equals(Localization)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.8AE42B7D.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -12,8 +12,8 @@ public class FieldCreationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldCreationInformation(String)](OfficeDevPnP.Core.Entities.FieldCreationInformation.Constructor1details.md) | 
-| [FieldCreationInformation(FieldType)](OfficeDevPnP.Core.Entities.FieldCreationInformation.Constructor2details.md) | 
+| [FieldCreationInformation(String)](OfficeDevPnP.Core.Entities.FieldCreationInformation.ctor1.md) | 
+| [FieldCreationInformation(FieldType)](OfficeDevPnP.Core.Entities.FieldCreationInformation.ctor2.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,12 +12,12 @@ public class MailUtility
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MailUtility()](OfficeDevPnP.Core.Utilities.MailUtility.Constructor1details.md) | 
+| [MailUtility()](OfficeDevPnP.Core.Utilities.MailUtility.ctor1.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [SendEmail(String, String, String, Collections.Generic.IEnumerable<String>, Collections.Generic.IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.SendEmailStringStringStringCollections.Generic.IEnumerable<String>Collections.Generic.IEnumerable<String>StringStringBooleanObject.md) | 
-| [SendEmail(String, String, Security.SecureString, Collections.Generic.IEnumerable<String>, Collections.Generic.IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.SendEmailStringStringSecurity.SecureStringCollections.Generic.IEnumerable<String>Collections.Generic.IEnumerable<String>StringStringBooleanObject.md) | 
-| [SendEmail(Microsoft.SharePoint.Client.ClientContext, Collections.Generic.IEnumerable<String>, Collections.Generic.IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.SendEmailMicrosoft.SharePoint.Client.ClientContextCollections.Generic.IEnumerable<String>Collections.Generic.IEnumerable<String>StringString.md) | 
+| [SendEmail(String, String, String, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.9D2D16FF.md) | 
+| [SendEmail(String, String, SecureString, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.A9E1C8F5.md) | 
+| [SendEmail(ClientContext, IEnumerable<String>, IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.71209E1D.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

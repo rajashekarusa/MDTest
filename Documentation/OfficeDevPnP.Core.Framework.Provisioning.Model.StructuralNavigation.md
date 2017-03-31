@@ -13,7 +13,7 @@ public class StructuralNavigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.Constructor1details.md) | 
+| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.ctor1.md) | 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +22,8 @@ public class StructuralNavigation: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.GetHashCode.md) | 
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.EqualsObject.md) | 
-| [Equals(StructuralNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.EqualsStructuralNavigation.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.1C6872BD.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.3520DDBB.md) | 
+| [Equals(StructuralNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.4D36F90D.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
