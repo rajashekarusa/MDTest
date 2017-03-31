@@ -19,7 +19,7 @@ public static  ConvertFrom(ClientContext clientContext,Int32 retryCount,Int32 de
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md  
-)
+Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md)  
+
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

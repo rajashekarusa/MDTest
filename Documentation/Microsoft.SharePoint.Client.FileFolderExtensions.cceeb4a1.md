@@ -21,8 +21,8 @@ public static  CreateDocumentSet(Folder folder,String documentSetName,ContentTyp
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md  
-)The created Folder representing the document set, so that additional operations (such as setting properties) can be done.
+Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md)  
+The created Folder representing the document set, so that additional operations (such as setting properties) can be done.
 
 ## Remarks 
 

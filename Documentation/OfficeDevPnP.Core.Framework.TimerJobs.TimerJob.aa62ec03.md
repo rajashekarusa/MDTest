@@ -14,7 +14,7 @@ public void UseOffice365Authentication(String credentialName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

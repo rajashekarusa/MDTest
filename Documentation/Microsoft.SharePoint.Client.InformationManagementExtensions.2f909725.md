@@ -13,8 +13,8 @@ public static boolean HasSitePolicyApplied(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if a policy has been applied, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if a policy has been applied, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -13,8 +13,8 @@ public static net.networkcredential GetCredential(String name)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Net.NetworkCredential](System.Net.NetworkCredential.md  
-)System.Net.NetworkCredential
+Type: [System.Net.NetworkCredential](System.Net.NetworkCredential.md)  
+System.Net.NetworkCredential
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

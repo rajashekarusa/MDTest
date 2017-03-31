@@ -13,8 +13,8 @@ public static linq.expressions.expression`1<system.func`2<tinput,system.object>>
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>>](System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>>.md  
-)New Expression where return type is object and not generic
+Type: [System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>>](System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>>.md)  
+New Expression where return type is object and not generic
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

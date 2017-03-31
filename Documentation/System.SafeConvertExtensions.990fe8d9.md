@@ -17,7 +17,7 @@ public static guid ToGuid(String input,Guid defaultValue)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md  
-)
+Type: [System.Guid](System.Guid.md)  
+
 ## See also
 - [System](System.md)

@@ -13,8 +13,8 @@ public static collections.generic.list`1<officedevpnp.core.entities.yammergroup>
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.YammerGroup>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.YammerGroup>.md  
-)All groups in the network
+Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.YammerGroup>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.YammerGroup>.md)  
+All groups in the network
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

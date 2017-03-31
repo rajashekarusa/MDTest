@@ -11,7 +11,7 @@ public boolean Remove(ITreeNode node)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)
+Type: [System.Boolean](System.Boolean.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

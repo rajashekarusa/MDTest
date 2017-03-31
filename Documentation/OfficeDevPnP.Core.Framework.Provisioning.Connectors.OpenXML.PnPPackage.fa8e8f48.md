@@ -19,7 +19,7 @@ public static  Open(Stream stream,FileMode mode,FileAccess access)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md  
-)
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

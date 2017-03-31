@@ -17,8 +17,8 @@ public static boolean RemoveAppInstanceByTitle(Web web,String appTitle)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)true if the the app instance was removed; false if it does not exist
+Type: [System.Boolean](System.Boolean.md)  
+true if the the app instance was removed; false if it does not exist
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

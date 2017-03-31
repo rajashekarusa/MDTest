@@ -21,7 +21,7 @@ public static void ApproveFile(Web web,String serverRelativeUrl,String comment)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -29,7 +29,7 @@ public static void AddFieldToContentTypeById(Web web,String contentTypeID,String
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

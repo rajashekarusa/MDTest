@@ -13,8 +13,8 @@ public static boolean GetListAutoRecordDeclaration(List list)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if auto record declaration is active, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if auto record declaration is active, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

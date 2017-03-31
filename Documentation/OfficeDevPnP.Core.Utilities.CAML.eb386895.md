@@ -29,8 +29,8 @@ public static string ViewQuery(ViewScope scope,String whereClause,String orderBy
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)String to be used in CAML queries
+Type: [System.String](System.String.md)  
+String to be used in CAML queries
 
 ## Examples
 ```C#

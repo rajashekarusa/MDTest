@@ -29,8 +29,8 @@ public  ExecuteExtensibilityExtractionCallOut(ClientContext ctx,ExtensibilityHan
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md  
-)
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+
 ## Remarks 
 
             Ensure the ClientContext is not disposed in the custom provider.

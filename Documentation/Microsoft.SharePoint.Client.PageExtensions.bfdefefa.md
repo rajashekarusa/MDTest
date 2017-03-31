@@ -17,8 +17,8 @@ public static string GetWikiPageContent(Web web,String serverRelativePageUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)
+Type: [System.String](System.String.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

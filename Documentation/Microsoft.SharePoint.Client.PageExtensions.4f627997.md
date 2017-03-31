@@ -21,7 +21,7 @@ public static  GetWebPartProperties(Web web,Guid id,String serverRelativePageUrl
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.PropertyValues](Microsoft.SharePoint.Client.PropertyValues.md  
-)
+Type: [Microsoft.SharePoint.Client.PropertyValues](Microsoft.SharePoint.Client.PropertyValues.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

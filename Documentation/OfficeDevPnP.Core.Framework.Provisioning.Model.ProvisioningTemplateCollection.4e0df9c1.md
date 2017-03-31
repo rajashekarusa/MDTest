@@ -15,7 +15,7 @@ public int FindIndex(Int32 startIndex,Predicate match)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Int32](System.Int32.md  
-)
+Type: [System.Int32](System.Int32.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

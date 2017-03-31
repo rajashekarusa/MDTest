@@ -33,8 +33,8 @@ public static  AddWebPartToWikiPage(Web web,String serverRelativePageUrl,WebPart
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition](Microsoft.SharePoint.Client.WebParts.WebPartDefinition.md  
-)Returns the added  object
+Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition](Microsoft.SharePoint.Client.WebParts.WebPartDefinition.md)  
+Returns the added  object
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

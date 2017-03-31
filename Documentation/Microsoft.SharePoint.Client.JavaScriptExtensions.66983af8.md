@@ -17,8 +17,8 @@ public static boolean DeleteJsLink(Web web,String key)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if action was ok
+Type: [System.Boolean](System.Boolean.md)  
+True if action was ok
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

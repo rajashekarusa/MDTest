@@ -25,7 +25,7 @@ public static void DeleteWebPart(Web web,String folder,String title,String page)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -13,8 +13,8 @@ public static boolean SetClosedBySitePolicy(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if site was closed, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if site was closed, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

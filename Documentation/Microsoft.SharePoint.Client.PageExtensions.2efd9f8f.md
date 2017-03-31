@@ -21,8 +21,8 @@ public static string EnsureWikiPage(Web web,String wikiPageLibraryName,String wi
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)The relative URL of the added wiki page
+Type: [System.String](System.String.md)  
+The relative URL of the added wiki page
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

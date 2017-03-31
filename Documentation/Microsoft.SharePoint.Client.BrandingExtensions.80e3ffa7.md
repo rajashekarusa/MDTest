@@ -26,8 +26,8 @@ public static  UploadThemeFile(Web web,String fileName,String localFilePath,Stri
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md  
-)The uploaded file, with at least the ServerRelativeUrl property available
+Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md)  
+The uploaded file, with at least the ServerRelativeUrl property available
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

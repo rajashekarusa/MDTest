@@ -17,8 +17,8 @@ public static collections.generic.list`1<microsoft.sharepoint.client.file> FindF
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File>](System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File>.md  
-)A list with the found  objects
+Type: [System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File>](System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File>.md)  
+A list with the found  objects
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

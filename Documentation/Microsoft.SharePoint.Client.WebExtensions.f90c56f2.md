@@ -13,8 +13,8 @@ public static string GetBaseTemplateId(Web parentWeb)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)The Base Template ID for the current web
+Type: [System.String](System.String.md)  
+The Base Template ID for the current web
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

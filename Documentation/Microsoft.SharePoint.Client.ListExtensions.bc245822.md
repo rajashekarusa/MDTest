@@ -41,8 +41,8 @@ public static  CreateList(Web web,Guid featureId,Int32 listType,String listName,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md  
-)The newly created list
+Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md)  
+The newly created list
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

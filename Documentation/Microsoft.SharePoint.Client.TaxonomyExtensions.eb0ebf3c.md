@@ -21,8 +21,8 @@ public static collections.generic.list`1<system.string> ExportAllTerms(Site site
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<System.String>](System.Collections.Generic.List`1<System.String>.md  
-)
+Type: [System.Collections.Generic.List`1<System.String>](System.Collections.Generic.List`1<System.String>.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

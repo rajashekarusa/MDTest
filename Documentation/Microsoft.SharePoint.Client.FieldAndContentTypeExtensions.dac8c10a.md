@@ -21,8 +21,8 @@ public static  GetContentTypeByName(Web web,String contentTypeName,Boolean searc
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType](Microsoft.SharePoint.Client.ContentType.md  
-)Content type object or null if was not found
+Type: [Microsoft.SharePoint.Client.ContentType](Microsoft.SharePoint.Client.ContentType.md)  
+Content type object or null if was not found
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -15,7 +15,7 @@ public void Import(ClientSideComponent component,Func<String, String> clientSide
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

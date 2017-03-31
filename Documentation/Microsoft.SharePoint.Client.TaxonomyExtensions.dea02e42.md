@@ -35,7 +35,7 @@ public static  ImportTermSet(TermGroup termGroup,Stream termSetData,Guid termSet
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermSet](Microsoft.SharePoint.Client.Taxonomy.TermSet.md  
-)
+Type: [Microsoft.SharePoint.Client.Taxonomy.TermSet](Microsoft.SharePoint.Client.Taxonomy.TermSet.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

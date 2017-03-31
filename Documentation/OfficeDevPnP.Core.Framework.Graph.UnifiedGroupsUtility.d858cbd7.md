@@ -25,8 +25,8 @@ public static string GetUnifiedGroupSiteUrl(String groupId,String accessToken,In
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)The URL of the modern site backing the Office 365 Group
+Type: [System.String](System.String.md)  
+The URL of the modern site backing the Office 365 Group
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

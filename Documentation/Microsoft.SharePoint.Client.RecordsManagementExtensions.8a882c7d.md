@@ -13,8 +13,8 @@ public static  GetRecordDeclarationBy(Site site)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md  
-) enum that defines who can declare a record
+Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)  
+ enum that defines who can declare a record
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

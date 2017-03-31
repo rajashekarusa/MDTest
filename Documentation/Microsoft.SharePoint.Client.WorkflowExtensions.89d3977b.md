@@ -21,8 +21,8 @@ public static  GetWorkflowDefinition(Web web,String displayName,Boolean publishe
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition](Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition.md  
-)
+Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition](Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

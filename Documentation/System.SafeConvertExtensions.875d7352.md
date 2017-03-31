@@ -17,7 +17,7 @@ public static double ToDouble(String input,Double defaultValue)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Double](System.Double.md  
-)
+Type: [System.Double](System.Double.md)  
+
 ## See also
 - [System](System.md)

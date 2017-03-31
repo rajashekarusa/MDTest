@@ -17,8 +17,8 @@ public static  GetComposedLook(Web web,String composedLookName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Entities.ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md  
-)Entity with the attributes of the composed look, or null if the composed look does not exists or cannot be determined
+Type: [OfficeDevPnP.Core.Entities.ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md)  
+Entity with the attributes of the composed look, or null if the composed look does not exists or cannot be determined
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

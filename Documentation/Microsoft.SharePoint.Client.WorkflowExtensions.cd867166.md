@@ -17,8 +17,8 @@ public static  GetWorkflowSubscription(Web web,Guid id)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription](Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription.md  
-)
+Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription](Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

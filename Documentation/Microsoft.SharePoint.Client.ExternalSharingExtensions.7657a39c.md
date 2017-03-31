@@ -17,8 +17,8 @@ public static string ResolvePeoplePickerValueForEmail(Web web,String emailAddres
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)Resolves people picker value which can be used for sharing objects in the SharePoint site
+Type: [System.String](System.String.md)  
+Resolves people picker value which can be used for sharing objects in the SharePoint site
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

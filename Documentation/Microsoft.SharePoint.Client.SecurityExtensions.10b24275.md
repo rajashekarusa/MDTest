@@ -13,8 +13,8 @@ public static collections.generic.list`1<officedevpnp.core.entities.userentity> 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity>.md  
-)List of  objects
+Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity>.md)  
+List of  objects
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

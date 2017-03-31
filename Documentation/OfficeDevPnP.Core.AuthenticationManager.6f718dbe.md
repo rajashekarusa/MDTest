@@ -13,8 +13,8 @@ public string GetAzureADACSEndPoint(AzureEnvironment environment)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)Azure ASC login endpoint
+Type: [System.String](System.String.md)  
+Azure ASC login endpoint
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

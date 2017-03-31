@@ -13,8 +13,8 @@ public collections.generic.ienumerable`1<system.string> GetAllSubSites(Site site
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md  
-)IEnumerable of strings holding the sub site urls
+Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+IEnumerable of strings holding the sub site urls
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

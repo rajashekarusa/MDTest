@@ -13,8 +13,8 @@ public static security.securestring DecryptStringWithDPAPI(String encryptedData)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Security.SecureString](System.Security.SecureString.md  
-)Decrypted (SecureString)string
+Type: [System.Security.SecureString](System.Security.SecureString.md)  
+Decrypted (SecureString)string
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

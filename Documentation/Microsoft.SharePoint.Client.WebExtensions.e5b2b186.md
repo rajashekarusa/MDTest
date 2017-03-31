@@ -16,8 +16,8 @@ public static boolean IsNoScriptSite(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if noscript, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if noscript, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

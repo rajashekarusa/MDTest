@@ -17,7 +17,7 @@ public static int ToInt32(String input,Int32 defaultValue)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Int32](System.Int32.md  
-)
+Type: [System.Int32](System.Int32.md)  
+
 ## See also
 - [System](System.md)

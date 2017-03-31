@@ -17,8 +17,8 @@ public static int GetWssIdForTerm(Web web,Term term)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Int32](System.Int32.md  
-)
+Type: [System.Int32](System.Int32.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

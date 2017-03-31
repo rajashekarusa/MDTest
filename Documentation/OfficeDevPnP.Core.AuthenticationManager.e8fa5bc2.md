@@ -21,8 +21,8 @@ public  GetSharePointOnlineAuthenticatedContextTenant(String siteUrl,String tena
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md  
-)ClientContext to be used by CSOM code
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+ClientContext to be used by CSOM code
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

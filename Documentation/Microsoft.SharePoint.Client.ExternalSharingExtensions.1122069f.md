@@ -37,7 +37,7 @@ public static  ShareDocumentWithPeoplePickerValue(Web web,String urlToDocument,S
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md  
-)
+Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

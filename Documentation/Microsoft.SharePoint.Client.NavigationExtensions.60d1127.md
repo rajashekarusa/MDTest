@@ -17,8 +17,8 @@ public static boolean IsManagedNavigationEnabled(Web web,ManagedNavigationKind n
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)A boolean result of the test.
+Type: [System.Boolean](System.Boolean.md)  
+A boolean result of the test.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

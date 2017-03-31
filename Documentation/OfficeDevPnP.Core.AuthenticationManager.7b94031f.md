@@ -13,8 +13,8 @@ public string GetAzureADACSEndPointPrefix(AzureEnvironment environment)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)Azure ACS login endpoint prefix
+Type: [System.String](System.String.md)  
+Azure ACS login endpoint prefix
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

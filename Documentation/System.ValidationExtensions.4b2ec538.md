@@ -17,7 +17,7 @@ public static void ValidateNotNullOrEmpty(T input,String variableName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## See also
 - [System](System.md)

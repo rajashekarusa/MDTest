@@ -13,8 +13,8 @@ public  GetUserProfileByGuid(Guid guid)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]](OfficeDevPnP.Core.UPAWebService.PropertyData[].md  
-)
+Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]](OfficeDevPnP.Core.UPAWebService.PropertyData[].md)  
+
 ## Remarks 
 
 ## See also

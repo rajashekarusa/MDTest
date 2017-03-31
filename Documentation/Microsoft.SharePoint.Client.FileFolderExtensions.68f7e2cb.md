@@ -17,8 +17,8 @@ public static  GetFile(Folder folder,String fileName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md  
-)The target file if found, null if no file is found.
+Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md)  
+The target file if found, null if no file is found.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

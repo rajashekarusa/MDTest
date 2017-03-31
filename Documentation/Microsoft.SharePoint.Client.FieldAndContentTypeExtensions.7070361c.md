@@ -21,7 +21,7 @@ public static boolean AddContentTypeToList(List list,ContentType contentType,Boo
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)
+Type: [System.Boolean](System.Boolean.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

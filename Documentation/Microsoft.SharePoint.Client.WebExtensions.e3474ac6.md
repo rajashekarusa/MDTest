@@ -13,8 +13,8 @@ public static collections.generic.ienumerable`1<system.string> GetRequestAccessE
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md  
-)The request access e-mail addresses of the web.
+Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+The request access e-mail addresses of the web.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

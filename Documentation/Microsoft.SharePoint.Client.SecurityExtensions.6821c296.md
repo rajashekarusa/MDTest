@@ -33,8 +33,8 @@ public static  AddGroup(Web web,String groupName,String groupDescription,Boolean
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md  
-)The created group
+Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md)  
+The created group
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -21,8 +21,8 @@ public static boolean FieldExistsByNameInContentType(Web web,String contentTypeN
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if exists, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if exists, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

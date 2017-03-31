@@ -17,8 +17,8 @@ public static  GetEditableNavigationTermSet(Web web,ManagedNavigationKind naviga
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Publishing.Navigation.NavigationTermSet](Microsoft.SharePoint.Client.Publishing.Navigation.NavigationTermSet.md  
-)The editable Global Navigation TermSet
+Type: [Microsoft.SharePoint.Client.Publishing.Navigation.NavigationTermSet](Microsoft.SharePoint.Client.Publishing.Navigation.NavigationTermSet.md)  
+The editable Global Navigation TermSet
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -13,8 +13,8 @@ public  Clone(String siteUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md  
-)A PnPClientContext object created for the passed site url
+Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md)  
+A PnPClientContext object created for the passed site url
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

@@ -13,8 +13,8 @@ public string ToXML(ITemplateFormatter formatter)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)
+Type: [System.String](System.String.md)  
+
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

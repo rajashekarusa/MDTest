@@ -17,8 +17,8 @@ public io.stream GetFileStream(String fileName,String container)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.Stream](System.IO.Stream.md  
-)String containing the file contents
+Type: [System.IO.Stream](System.IO.Stream.md)  
+String containing the file contents
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

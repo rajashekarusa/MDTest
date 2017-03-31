@@ -13,8 +13,8 @@ public static string GetSearchConfiguration(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)
+Type: [System.String](System.String.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

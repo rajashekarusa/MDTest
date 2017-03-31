@@ -17,8 +17,8 @@ public void UpdateLink(String accountName,QuickLinkData data)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## Remarks 
 
 ## See also

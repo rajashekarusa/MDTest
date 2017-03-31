@@ -49,8 +49,8 @@ public static boolean UpdateUnifiedGroup(String groupId,String accessToken,Int32
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)Declares whether the Office 365 Group has been updated or not
+Type: [System.Boolean](System.Boolean.md)  
+Declares whether the Office 365 Group has been updated or not
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

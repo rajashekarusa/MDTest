@@ -29,8 +29,8 @@ public static string CreateYammerGroupDiscussionPartXml(String yammerNetworkName
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)The constructed web part XML
+Type: [System.String](System.String.md)  
+The constructed web part XML
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

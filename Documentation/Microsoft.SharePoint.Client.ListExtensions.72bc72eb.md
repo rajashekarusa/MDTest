@@ -13,8 +13,8 @@ public static  GetPagesLibrary(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md  
-)The publishing pages library. Returns null if library was not found.
+Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md)  
+The publishing pages library. Returns null if library was not found.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

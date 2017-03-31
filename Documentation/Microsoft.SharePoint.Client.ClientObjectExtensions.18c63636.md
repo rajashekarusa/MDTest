@@ -17,8 +17,8 @@ public static boolean IsPropertyAvailable(T clientObject,Expression<Func<T, Obje
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if the property is available, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if the property is available, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

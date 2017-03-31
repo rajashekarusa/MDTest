@@ -11,7 +11,7 @@ public static  Create(JsonWebSecurityToken contextToken)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Utilities.SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md  
-)
+Type: [OfficeDevPnP.Core.Utilities.SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -17,7 +17,7 @@ public static collections.generic.ienumerable`1<microsoft.sharepoint.client.webp
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.WebParts.WebPartDefinition>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.WebParts.WebPartDefinition>.md  
-)
+Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.WebParts.WebPartDefinition>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.WebParts.WebPartDefinition>.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

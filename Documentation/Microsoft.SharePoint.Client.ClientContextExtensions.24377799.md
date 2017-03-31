@@ -17,8 +17,8 @@ public static  Clone(ClientRuntimeContext clientContext,Uri siteUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md  
-)A ClientContext object created for the passed site url
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+A ClientContext object created for the passed site url
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

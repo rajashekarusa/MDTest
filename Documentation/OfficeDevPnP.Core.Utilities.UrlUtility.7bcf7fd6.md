@@ -11,7 +11,7 @@ public static boolean ContainsInvalidUrlChars(String content)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)
+Type: [System.Boolean](System.Boolean.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

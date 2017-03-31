@@ -13,8 +13,8 @@ public static string EncryptStringWithDPAPI(SecureString input)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)Encrypted string
+Type: [System.String](System.String.md)  
+Encrypted string
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

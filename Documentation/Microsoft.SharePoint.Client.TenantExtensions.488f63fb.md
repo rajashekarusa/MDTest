@@ -17,8 +17,8 @@ public static boolean SubSiteExists(Tenant tenant,String siteFullUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if existing, false if not
+Type: [System.Boolean](System.Boolean.md)  
+True if existing, false if not
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

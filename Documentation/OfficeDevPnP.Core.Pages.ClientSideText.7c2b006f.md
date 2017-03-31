@@ -8,8 +8,8 @@
 public string ToHtml()
 ```
 ### Return Value
-Type: [System.String](System.String.md  
-)Html representation of this  control
+Type: [System.String](System.String.md)  
+Html representation of this  control
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

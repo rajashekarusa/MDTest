@@ -13,8 +13,8 @@ public static  LoadSearchNavigation(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.NavigationNodeCollection](Microsoft.SharePoint.Client.NavigationNodeCollection.md  
-)Collection of NavigationNode instances
+Type: [Microsoft.SharePoint.Client.NavigationNodeCollection](Microsoft.SharePoint.Client.NavigationNodeCollection.md)  
+Collection of NavigationNode instances
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

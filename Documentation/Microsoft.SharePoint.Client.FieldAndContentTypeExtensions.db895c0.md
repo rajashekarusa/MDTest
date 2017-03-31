@@ -21,8 +21,8 @@ public static  CreateField(List list,String fieldAsXml,Boolean executeQuery)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md  
-)The newly created field or existing field.
+Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md)  
+The newly created field or existing field.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -17,8 +17,8 @@ public static boolean AddIndexedPropertyBagKey(Web web,String key)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)Returns True if succeeded
+Type: [System.Boolean](System.Boolean.md)  
+Returns True if succeeded
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

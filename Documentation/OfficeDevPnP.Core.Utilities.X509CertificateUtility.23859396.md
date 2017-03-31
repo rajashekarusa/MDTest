@@ -21,8 +21,8 @@ public static security.cryptography.x509certificates.x509certificate2 LoadCertif
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Security.Cryptography.X509Certificates.X509Certificate2](System.Security.Cryptography.X509Certificates.X509Certificate2.md  
-)An  certificate
+Type: [System.Security.Cryptography.X509Certificates.X509Certificate2](System.Security.Cryptography.X509Certificates.X509Certificate2.md)  
+An  certificate
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

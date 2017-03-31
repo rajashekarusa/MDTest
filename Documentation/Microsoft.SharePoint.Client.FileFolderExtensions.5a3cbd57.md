@@ -18,8 +18,8 @@ public static  CreateFolder(Web web,String folderName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md  
-)The newly created Folder, so that additional operations (such as setting properties) can be done.
+Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md)  
+The newly created Folder, so that additional operations (such as setting properties) can be done.
 
 ## Remarks 
 

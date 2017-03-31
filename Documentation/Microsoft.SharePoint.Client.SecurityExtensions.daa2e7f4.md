@@ -17,8 +17,8 @@ public static collections.generic.ienumerable`1<officedevpnp.core.entities.rolea
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>.md  
-)
+Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

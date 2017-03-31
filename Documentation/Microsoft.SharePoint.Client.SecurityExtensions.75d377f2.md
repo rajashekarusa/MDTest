@@ -21,8 +21,8 @@ public static boolean IsUserInGroup(Web web,String groupName,String userLoginNam
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if the user is in the group, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if the user is in the group, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

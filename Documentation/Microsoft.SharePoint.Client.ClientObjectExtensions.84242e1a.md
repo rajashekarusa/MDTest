@@ -17,8 +17,8 @@ public static  EnsureProperty(T clientObject,Expression<Func<T, TResult>> proper
 &emsp;&emsp;  
   
 ### Return Value
-Type: [TResult](TResult.md  
-)Property value
+Type: [TResult](TResult.md)  
+Property value
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

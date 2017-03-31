@@ -13,7 +13,7 @@ public static collections.generic.ilist`1<microsoft.sharepoint.client.publishing
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IList`1<Microsoft.SharePoint.Client.Publishing.ImageRendition>](System.Collections.Generic.IList`1<Microsoft.SharePoint.Client.Publishing.ImageRendition>.md  
-)
+Type: [System.Collections.Generic.IList`1<Microsoft.SharePoint.Client.Publishing.ImageRendition>](System.Collections.Generic.IList`1<Microsoft.SharePoint.Client.Publishing.ImageRendition>.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -17,8 +17,8 @@ public static  GetObjectSharingSettingsForSite(Web web,Boolean useSimplifiedPoli
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ObjectSharingSettings](Microsoft.SharePoint.Client.ObjectSharingSettings.md  
-)
+Type: [Microsoft.SharePoint.Client.ObjectSharingSettings](Microsoft.SharePoint.Client.ObjectSharingSettings.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

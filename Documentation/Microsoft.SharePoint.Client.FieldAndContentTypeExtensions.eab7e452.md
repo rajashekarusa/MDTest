@@ -18,8 +18,8 @@ public static  BestMatchContentTypeId(List list,String baseContentTypeId)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentTypeId](Microsoft.SharePoint.Client.ContentTypeId.md  
-)The value of the Id property for the content type with the closest match to the value 
+Type: [Microsoft.SharePoint.Client.ContentTypeId](Microsoft.SharePoint.Client.ContentTypeId.md)  
+The value of the Id property for the content type with the closest match to the value 
             of the specified content type ID. 
 
 ## Remarks 

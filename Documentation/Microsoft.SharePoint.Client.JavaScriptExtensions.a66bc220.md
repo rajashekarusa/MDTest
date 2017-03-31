@@ -15,7 +15,7 @@ public static boolean ExistsJsLinkImplementation(ClientObject clientObject,Strin
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)
+Type: [System.Boolean](System.Boolean.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

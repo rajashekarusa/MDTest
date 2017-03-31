@@ -13,8 +13,8 @@ public string GetAzureADLoginEndPoint(AzureEnvironment environment)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)Azure AD login endpoint
+Type: [System.String](System.String.md)  
+Azure AD login endpoint
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

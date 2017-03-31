@@ -45,7 +45,7 @@ public static  CreateView(List list,String viewName,ViewType viewType,String[] v
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.View](Microsoft.SharePoint.Client.View.md  
-)
+Type: [Microsoft.SharePoint.Client.View](Microsoft.SharePoint.Client.View.md)  
+
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

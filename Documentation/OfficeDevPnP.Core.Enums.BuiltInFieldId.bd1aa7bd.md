@@ -13,8 +13,8 @@ public static boolean Contains(Guid fid)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)
+Type: [System.Boolean](System.Boolean.md)  
+
             Returns a GUID.
             
 

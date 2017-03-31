@@ -13,8 +13,8 @@ public static boolean GetManualRecordDeclarationInAllLocations(Site site)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)True if records management is allowed in all places, false otherwise
+Type: [System.Boolean](System.Boolean.md)  
+True if records management is allowed in all places, false otherwise
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

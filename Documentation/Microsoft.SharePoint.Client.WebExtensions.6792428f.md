@@ -25,8 +25,8 @@ public static  CreateWeb(Web parentWeb,SiteEntity subsite,Boolean inheritPermiss
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md  
-)
+Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

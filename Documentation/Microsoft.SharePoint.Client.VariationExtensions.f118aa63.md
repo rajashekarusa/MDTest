@@ -13,8 +13,8 @@ public static collections.generic.ienumerable`1<officedevpnp.core.entities.varia
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.VariationLabelEntity>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.VariationLabelEntity>.md  
-)Collection of VariationLabelEntity objects
+Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.VariationLabelEntity>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.VariationLabelEntity>.md)  
+Collection of VariationLabelEntity objects
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

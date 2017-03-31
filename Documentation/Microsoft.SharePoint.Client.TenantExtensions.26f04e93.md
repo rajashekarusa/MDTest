@@ -21,8 +21,8 @@ public static  GetWebTemplates(Tenant tenant,UInt32 lcid,Int32 compatibilityLeve
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection](Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection.md  
-)
+Type: [Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection](Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

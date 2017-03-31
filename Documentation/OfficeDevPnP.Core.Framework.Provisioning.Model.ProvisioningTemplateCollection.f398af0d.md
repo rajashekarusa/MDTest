@@ -13,8 +13,8 @@ public  Find(Predicate match)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md  
-)The target item matching the find predicate
+Type: [T](T.md)  
+The target item matching the find predicate
 
 ## Remarks 
 We implemented this to adhere to the generic List of T behavior

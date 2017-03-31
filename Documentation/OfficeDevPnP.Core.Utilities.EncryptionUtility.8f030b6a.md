@@ -13,8 +13,8 @@ public static security.securestring ToSecureString(String input)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Security.SecureString](System.Security.SecureString.md  
-)SecureString representation of the passed in string
+Type: [System.Security.SecureString](System.Security.SecureString.md)  
+SecureString representation of the passed in string
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

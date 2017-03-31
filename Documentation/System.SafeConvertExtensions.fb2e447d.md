@@ -17,7 +17,7 @@ public static long ToInt64(String input,Int32 defaultValue)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Int64](System.Int64.md  
-)
+Type: [System.Int64](System.Int64.md)  
+
 ## See also
 - [System](System.md)

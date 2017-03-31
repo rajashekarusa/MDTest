@@ -37,8 +37,8 @@ public static string AddNavigationFriendlyUrl(PublishingPage page,Web web,String
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md  
-)The simple link URL just created.
+Type: [System.String](System.String.md)  
+The simple link URL just created.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

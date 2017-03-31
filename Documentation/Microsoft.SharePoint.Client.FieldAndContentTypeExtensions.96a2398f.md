@@ -17,8 +17,8 @@ public static collections.generic.ienumerable`1<microsoft.sharepoint.client.fiel
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.Field>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.Field>.md  
-)List of fields requested.
+Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.Field>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.Field>.md)  
+List of fields requested.
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

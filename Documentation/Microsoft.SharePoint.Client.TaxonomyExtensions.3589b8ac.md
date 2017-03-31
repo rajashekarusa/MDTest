@@ -25,8 +25,8 @@ public static  AddTermToTermset(Site site,Guid termSetId,String term,Guid termId
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.Term](Microsoft.SharePoint.Client.Taxonomy.Term.md  
-)
+Type: [Microsoft.SharePoint.Client.Taxonomy.Term](Microsoft.SharePoint.Client.Taxonomy.Term.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

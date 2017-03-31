@@ -13,8 +13,8 @@ public static guid GetAuthenticationRealm(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md  
-)
+Type: [System.Guid](System.Guid.md)  
+
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

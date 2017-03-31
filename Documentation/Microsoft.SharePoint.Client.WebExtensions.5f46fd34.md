@@ -17,8 +17,8 @@ public static boolean WebExistsFullUrl(ClientRuntimeContext context,String webFu
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md  
-)true if the Web (site) exists; otherwise false
+Type: [System.Boolean](System.Boolean.md)  
+true if the Web (site) exists; otherwise false
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

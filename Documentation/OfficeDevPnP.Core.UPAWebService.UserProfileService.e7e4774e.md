@@ -21,8 +21,8 @@ public void UpdateLinkAsync(String accountName,QuickLinkData data,Object userSta
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md  
-)
+Type: [System.Void](System.Void.md)  
+
 ## Remarks 
 
 ## See also

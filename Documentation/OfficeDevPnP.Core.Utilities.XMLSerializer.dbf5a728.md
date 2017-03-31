@@ -13,8 +13,8 @@ public static io.stream SerializeToStream(T objectToSerialize)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.Stream](System.IO.Stream.md  
-)An string that represents the serialized object.
+Type: [System.IO.Stream](System.IO.Stream.md)  
+An string that represents the serialized object.
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

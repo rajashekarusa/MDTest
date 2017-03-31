@@ -13,8 +13,8 @@ public  GetCommonColleagues(String accountName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.ContactData[]](OfficeDevPnP.Core.UPAWebService.ContactData[].md  
-)
+Type: [OfficeDevPnP.Core.UPAWebService.ContactData[]](OfficeDevPnP.Core.UPAWebService.ContactData[].md)  
+
 ## Remarks 
 
 ## See also

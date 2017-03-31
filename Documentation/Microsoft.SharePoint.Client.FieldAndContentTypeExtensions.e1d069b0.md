@@ -18,8 +18,8 @@ public static  BestMatch(ContentTypeCollection contentTypes,String contentTypeId
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentTypeId](Microsoft.SharePoint.Client.ContentTypeId.md  
-)Content type Id object or null if was not found
+Type: [Microsoft.SharePoint.Client.ContentTypeId](Microsoft.SharePoint.Client.ContentTypeId.md)  
+Content type Id object or null if was not found
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

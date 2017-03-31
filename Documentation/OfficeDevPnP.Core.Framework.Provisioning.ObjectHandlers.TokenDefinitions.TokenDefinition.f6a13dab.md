@@ -11,7 +11,7 @@ public text.regularexpressions.regex GetRegexForToken(String token)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Text.RegularExpressions.Regex](System.Text.RegularExpressions.Regex.md  
-)
+Type: [System.Text.RegularExpressions.Regex](System.Text.RegularExpressions.Regex.md)  
+
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

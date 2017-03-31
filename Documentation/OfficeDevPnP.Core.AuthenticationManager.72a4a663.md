@@ -33,8 +33,8 @@ public  GetAppOnlyAuthenticatedContext(String siteUrl,String realm,String appId,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md  
-)ClientContext to be used by CSOM code
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+ClientContext to be used by CSOM code
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
