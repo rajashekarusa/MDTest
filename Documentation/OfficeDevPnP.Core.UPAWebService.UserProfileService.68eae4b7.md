@@ -8,7 +8,7 @@
 public string[] GetProfileSchemaNames()
 ```
 ### Return Value
-Type: [System.String[]](System.String[].md 
+Type: [System.String[]](System.String[].md  
 )
 ## Remarks 
 

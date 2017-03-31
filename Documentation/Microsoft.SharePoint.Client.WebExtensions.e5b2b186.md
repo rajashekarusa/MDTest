@@ -16,7 +16,7 @@ public static boolean IsNoScriptSite(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if noscript, false otherwise
 
 ## See also

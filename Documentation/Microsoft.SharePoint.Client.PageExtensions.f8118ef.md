@@ -37,7 +37,7 @@ public static  AddWebPartToWikiPage(Web web,String folder,WebPartEntity webPart,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition](Microsoft.SharePoint.Client.WebParts.WebPartDefinition.md 
+Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition](Microsoft.SharePoint.Client.WebParts.WebPartDefinition.md  
 )Returns the added  object
 
 ## See also

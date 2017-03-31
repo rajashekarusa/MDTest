@@ -6,7 +6,7 @@
 public servicemodel.channels.bindingelementcollection CreateBindingElements()
 ```
 ### Return Value
-Type: [System.ServiceModel.Channels.BindingElementCollection](System.ServiceModel.Channels.BindingElementCollection.md 
+Type: [System.ServiceModel.Channels.BindingElementCollection](System.ServiceModel.Channels.BindingElementCollection.md  
 )
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

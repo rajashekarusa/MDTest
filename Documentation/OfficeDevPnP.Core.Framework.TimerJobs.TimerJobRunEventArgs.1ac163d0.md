@@ -13,7 +13,7 @@ public string GetProperty(String propertyKey)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Value of the requested property
 
 ## See also

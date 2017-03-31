@@ -13,7 +13,7 @@ public static string Serialize(T obj)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )json string
 
 ## See also

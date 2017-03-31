@@ -13,7 +13,7 @@ public static  GetRecordUnDeclarationBy(Site site)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md 
+Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md  
 ) enum that defines who can undeclare a record
 
 ## See also

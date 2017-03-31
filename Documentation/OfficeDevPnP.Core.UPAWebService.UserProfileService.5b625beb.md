@@ -13,7 +13,7 @@ public  GetUserOrganizations(String accountName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[].md 
+Type: [OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[].md  
 )
 ## Remarks 
 

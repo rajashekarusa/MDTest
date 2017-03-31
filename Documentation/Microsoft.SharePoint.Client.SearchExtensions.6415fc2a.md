@@ -13,7 +13,7 @@ public static string GetSearchConfiguration(Site site)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )
 
 ## See also

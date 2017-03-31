@@ -8,7 +8,7 @@
 public long GetUserProfileCount()
 ```
 ### Return Value
-Type: [System.Int64](System.Int64.md 
+Type: [System.Int64](System.Int64.md  
 )
 ## Remarks 
 

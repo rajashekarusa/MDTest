@@ -17,7 +17,7 @@ public static boolean FieldExistsByNameInContentType(ContentType contentType,Str
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if field exists in content type, otherwise false
 
 ## See also

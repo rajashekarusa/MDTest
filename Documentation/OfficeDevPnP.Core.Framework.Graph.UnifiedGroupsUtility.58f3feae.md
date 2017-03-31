@@ -41,7 +41,7 @@ public static collections.generic.list`1<officedevpnp.core.entities.unifiedgroup
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>.md 
+Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>.md  
 )An IList of SiteEntity objects
 
 ## See also

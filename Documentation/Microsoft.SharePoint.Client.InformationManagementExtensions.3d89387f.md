@@ -13,7 +13,7 @@ public static datetime GetSiteExpirationDate(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.DateTime](System.DateTime.md 
+Type: [System.DateTime](System.DateTime.md  
 )DateTime value holding the expiration date, DateTime.MinValue in case there was no policy applied
 
 ## See also

@@ -17,7 +17,7 @@ public static boolean DeleteWeb(Web parentWeb,String leafUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )true if the web was deleted; otherwise false if nothing was done
 
 ## See also

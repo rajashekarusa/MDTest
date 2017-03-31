@@ -15,7 +15,7 @@ public void Invoke(String message,ProvisioningMessageType messageType)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

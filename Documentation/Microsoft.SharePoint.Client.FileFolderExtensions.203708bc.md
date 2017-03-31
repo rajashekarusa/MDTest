@@ -25,7 +25,7 @@ public static  UploadFile(Folder folder,String fileName,Stream stream,Boolean ov
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md 
+Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md  
 )The uploaded File, so that additional operations (such as setting properties) can be done.
 
 ## See also

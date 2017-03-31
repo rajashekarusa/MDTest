@@ -13,7 +13,7 @@ public static collections.generic.list`1<officedevpnp.core.entities.externaluser
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity>.md 
+Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity>.md  
 )A list of  objects
 
 ## See also

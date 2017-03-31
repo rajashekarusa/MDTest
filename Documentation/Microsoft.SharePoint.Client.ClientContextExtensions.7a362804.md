@@ -14,7 +14,7 @@ public static  GetSiteCollectionContext(ClientRuntimeContext clientContext)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md 
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md  
 )A site collection client context object for the site collection
 
 ## See also

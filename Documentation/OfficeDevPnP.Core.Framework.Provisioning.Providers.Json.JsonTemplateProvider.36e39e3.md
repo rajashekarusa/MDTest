@@ -15,7 +15,7 @@ public void Save(ProvisioningTemplate template,ITemplateFormatter formatter)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

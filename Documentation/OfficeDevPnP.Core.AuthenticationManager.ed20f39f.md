@@ -29,7 +29,7 @@ public void RefreshADFSCertificateMixedAuthenticationContext(String siteUrl,Stri
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )ClientContext to be used by CSOM code
 
 ## See also

@@ -25,7 +25,7 @@ public static  CreateDocumentLibrary(Web web,String listName,Boolean enableVersi
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md 
+Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md  
 )
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

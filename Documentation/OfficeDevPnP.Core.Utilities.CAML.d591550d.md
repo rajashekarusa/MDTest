@@ -25,7 +25,7 @@ public static string FieldValue(String fieldName,String fieldValueType,String va
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )
 
 ## Examples

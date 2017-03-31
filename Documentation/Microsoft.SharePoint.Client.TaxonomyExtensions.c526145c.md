@@ -21,7 +21,7 @@ public static  GetTaxonomyItemByPath(Site site,String path,String delimiter)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem](Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem.md 
+Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem](Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem.md  
 )
 
 ## See also

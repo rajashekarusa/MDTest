@@ -21,7 +21,7 @@ public static boolean ContentTypeExistsByName(Web web,String contentTypeName,Boo
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if the content type exists, false otherwise
 
 ## See also

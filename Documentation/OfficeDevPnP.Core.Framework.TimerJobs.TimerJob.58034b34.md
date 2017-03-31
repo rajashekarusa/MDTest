@@ -21,7 +21,7 @@ public void SetEnumerationCredentials(String samAccountName,String password,Stri
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -29,7 +29,7 @@ public static  ShareSite(Web web,String email,Group group,Boolean sendEmail,Stri
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md 
+Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md  
 )
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

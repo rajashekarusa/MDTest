@@ -13,7 +13,7 @@ public static boolean SetOpenBySitePolicy(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if site was opened, false otherwise
 
 ## See also

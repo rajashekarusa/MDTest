@@ -13,7 +13,7 @@ public string[] GetPropertyChoiceList(String propertyName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String[]](System.String[].md 
+Type: [System.String[]](System.String[].md  
 )
 ## Remarks 
 

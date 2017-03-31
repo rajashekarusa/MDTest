@@ -11,7 +11,7 @@ public static byte[] PackTemplate(PnPInfo pnpInfo)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Byte[]](System.Byte[].md 
+Type: [System.Byte[]](System.Byte[].md  
 )
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

@@ -21,7 +21,7 @@ public static  GetTermSetsByName(Site site,String name,Int32 lcid)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermSetCollection](Microsoft.SharePoint.Client.Taxonomy.TermSetCollection.md 
+Type: [Microsoft.SharePoint.Client.Taxonomy.TermSetCollection](Microsoft.SharePoint.Client.Taxonomy.TermSetCollection.md  
 )
 
 ## See also

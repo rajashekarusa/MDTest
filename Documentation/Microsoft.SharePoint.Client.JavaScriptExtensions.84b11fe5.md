@@ -17,7 +17,7 @@ public static boolean ExistsJsLink(Site site,String key)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )
 
 ## See also

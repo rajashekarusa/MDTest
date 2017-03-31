@@ -13,7 +13,7 @@ public static  Deserialize(String xmlString)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md 
+Type: [T](T.md  
 )An object instance of T
 
 ## See also

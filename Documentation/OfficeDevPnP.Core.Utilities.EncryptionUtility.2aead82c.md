@@ -17,7 +17,7 @@ public static string Decrypt(String stringToDecrypt,String thumbPrint)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Decrypted text
 
 ## See also

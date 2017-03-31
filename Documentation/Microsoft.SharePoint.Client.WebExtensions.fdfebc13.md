@@ -21,7 +21,7 @@ public static nullable`1<system.datetime> GetPropertyBagValueDateTime(Web web,St
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Nullable`1<System.DateTime>](System.Nullable`1<System.DateTime>.md 
+Type: [System.Nullable`1<System.DateTime>](System.Nullable`1<System.DateTime>.md  
 )Value of the property bag entry as integer
 
 ## See also

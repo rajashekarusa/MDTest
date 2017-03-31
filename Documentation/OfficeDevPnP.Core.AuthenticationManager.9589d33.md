@@ -37,7 +37,7 @@ public  GetAzureADAppOnlyAuthenticatedContext(String siteUrl,String clientId,Str
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md 
+Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md  
 )ClientContext being used
 
 ## See also

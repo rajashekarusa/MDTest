@@ -17,7 +17,7 @@ public static boolean IsFeatureActive(Web web,Guid featureID)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if active, false otherwise
 
 ## See also

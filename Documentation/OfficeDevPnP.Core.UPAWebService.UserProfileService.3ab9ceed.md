@@ -25,7 +25,7 @@ public  AddMembership(String accountName,MembershipData membershipInfo,String gr
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md 
+Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md  
 )
 ## Remarks 
 

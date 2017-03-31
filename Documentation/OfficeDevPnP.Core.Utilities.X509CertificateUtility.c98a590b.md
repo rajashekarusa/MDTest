@@ -13,7 +13,7 @@ public static string GetPublicKey(X509Certificate2 certificate)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Public key of the certificate
 
 ## See also

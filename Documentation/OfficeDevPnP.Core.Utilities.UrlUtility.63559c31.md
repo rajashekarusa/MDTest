@@ -17,7 +17,7 @@ public static string Combine(String path,String relative)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )
 
 ## See also

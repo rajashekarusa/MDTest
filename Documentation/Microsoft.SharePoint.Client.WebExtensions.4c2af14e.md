@@ -37,7 +37,7 @@ public static  AddRemoteEventReceiver(Web web,String name,String url,EventReceiv
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.EventReceiverDefinition](Microsoft.SharePoint.Client.EventReceiverDefinition.md 
+Type: [Microsoft.SharePoint.Client.EventReceiverDefinition](Microsoft.SharePoint.Client.EventReceiverDefinition.md  
 )Returns an EventReceiverDefinition if succeeded. Returns null if failed.
 
 ## See also

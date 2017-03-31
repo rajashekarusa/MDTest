@@ -13,7 +13,7 @@ public  Find(Predicate match)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md 
+Type: [T](T.md  
 )The target item matching the find predicate
 
 ## Remarks 

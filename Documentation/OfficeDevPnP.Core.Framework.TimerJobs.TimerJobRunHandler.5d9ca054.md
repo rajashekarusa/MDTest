@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,TimerJobRunEventArgs e,AsyncCallba
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult](System.IAsyncResult.md 
+Type: [System.IAsyncResult](System.IAsyncResult.md  
 )
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

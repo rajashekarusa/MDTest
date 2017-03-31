@@ -8,7 +8,7 @@
 public  GetUserProfileSchema()
 ```
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]](OfficeDevPnP.Core.UPAWebService.PropertyInfo[].md 
+Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]](OfficeDevPnP.Core.UPAWebService.PropertyInfo[].md  
 )
 ## Remarks 
 

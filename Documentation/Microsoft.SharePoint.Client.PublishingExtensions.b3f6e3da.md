@@ -21,7 +21,7 @@ public static  GetPublishingPage(Web web,String fileLeafRef,Folder folder)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Publishing.PublishingPage](Microsoft.SharePoint.Client.Publishing.PublishingPage.md 
+Type: [Microsoft.SharePoint.Client.Publishing.PublishingPage](Microsoft.SharePoint.Client.Publishing.PublishingPage.md  
 )The PublishingPage object, if any. Otherwise null.
 
 ## See also

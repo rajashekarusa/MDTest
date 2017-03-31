@@ -18,7 +18,7 @@ public static boolean AddCustomAction(Web web,CustomActionEntity customAction)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if action was successfull
 
 ## See also

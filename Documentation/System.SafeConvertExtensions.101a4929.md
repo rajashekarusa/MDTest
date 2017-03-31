@@ -11,7 +11,7 @@ public static  ToEnum(String name)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md 
+Type: [T](T.md  
 )
 ## See also
 - [System](System.md)

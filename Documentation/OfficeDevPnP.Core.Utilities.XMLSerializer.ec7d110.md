@@ -13,7 +13,7 @@ public static  Deserialize(XDocument xdoc)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md 
+Type: [T](T.md  
 )
 
 ## See also

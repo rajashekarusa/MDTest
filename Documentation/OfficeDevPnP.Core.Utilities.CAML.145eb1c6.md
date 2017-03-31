@@ -13,7 +13,7 @@ public static string FieldRef(String fieldName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )
 
 ## Examples

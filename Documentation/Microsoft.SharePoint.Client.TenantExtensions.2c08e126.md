@@ -13,7 +13,7 @@ public static collections.generic.ilist`1<officedevpnp.core.entities.siteentity>
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity>](System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity>.md 
+Type: [System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity>](System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity>.md  
 )List of  objects containing site collection info.
 
 ## See also

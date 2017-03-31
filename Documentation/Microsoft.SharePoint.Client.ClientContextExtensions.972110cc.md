@@ -17,7 +17,7 @@ public static boolean HasMinimalServerLibraryVersion(ClientRuntimeContext client
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )
 
 ## See also

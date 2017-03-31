@@ -17,7 +17,7 @@ public static boolean DeepEquals(IEnumerable source,IEnumerable target)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )Wether the two enumerations are deep equal
 
 ## See also

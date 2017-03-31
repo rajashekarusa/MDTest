@@ -37,7 +37,7 @@ public static  CreateList(Web web,ListTemplateType listType,String listName,Bool
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md 
+Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md  
 )The newly created list
 
 ## See also

@@ -17,7 +17,7 @@ public static string GetFileAsString(Web web,String serverRelativeUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )The file contents as a string
 
 ## See also

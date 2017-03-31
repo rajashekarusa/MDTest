@@ -17,7 +17,7 @@ public static  AddReaderAccess(Web web,BuiltInIdentity user)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.User](Microsoft.SharePoint.Client.User.md 
+Type: [Microsoft.SharePoint.Client.User](Microsoft.SharePoint.Client.User.md  
 )
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -25,7 +25,7 @@ public static string CreateAnonymousLinkWithExpirationForDocument(Web web,String
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Anonymous URL to the file as string
 
 ## See also

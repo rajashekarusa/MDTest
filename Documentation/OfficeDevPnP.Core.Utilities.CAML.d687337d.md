@@ -15,7 +15,7 @@ public static string Or(String clause1,String[] conditionClauses)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )
 ## Examples
 ```C#

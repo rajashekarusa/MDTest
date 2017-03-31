@@ -17,7 +17,7 @@ public static  EnsureProperty(T clientObject,Expression<Func<T, TResult>> proper
 &emsp;&emsp;  
   
 ### Return Value
-Type: [TResult](TResult.md 
+Type: [TResult](TResult.md  
 )Property value
 
 ## See also

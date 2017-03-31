@@ -17,7 +17,7 @@ public static boolean WebExists(Web parentWeb,String leafUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )true if the Web (site) exists; otherwise false
 
 ## See also

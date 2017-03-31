@@ -21,7 +21,7 @@ public void UpdatePinnedLinkAsync(String accountName,PinnedLinkData data,Object 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )
 ## Remarks 
 

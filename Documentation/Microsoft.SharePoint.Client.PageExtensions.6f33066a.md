@@ -21,7 +21,7 @@ public static  AddClientSidePage(Web web,String pageName,Boolean alreadyPersist)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md 
+Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md  
 )A  instance
 
 ## See also

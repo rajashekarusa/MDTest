@@ -13,7 +13,7 @@ public static  GetListManualRecordDeclaration(List list)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md 
+Type: [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md  
 ) enum that defines the manual in place record declaration settings for this list
 
 ## See also

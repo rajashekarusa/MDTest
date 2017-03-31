@@ -17,7 +17,7 @@ public static boolean ApplySitePolicy(Web web,String sitePolicy)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if applied, false otherwise
 
 ## See also

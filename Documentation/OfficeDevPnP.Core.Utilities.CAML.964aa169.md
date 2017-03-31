@@ -11,7 +11,7 @@ public static string Today(Nullable<Int32> offset)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )
 ## Examples
 ```C#

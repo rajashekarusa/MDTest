@@ -21,7 +21,7 @@ public static boolean FieldExistsById(Web web,String fieldId,Boolean searchInSit
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if exists, false otherwise
 
 ## See also

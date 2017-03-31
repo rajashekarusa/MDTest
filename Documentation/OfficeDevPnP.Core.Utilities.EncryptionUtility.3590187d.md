@@ -17,7 +17,7 @@ public static string Encrypt(String stringToEncrypt,String thumbPrint)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Encrypted text
 
 ## See also

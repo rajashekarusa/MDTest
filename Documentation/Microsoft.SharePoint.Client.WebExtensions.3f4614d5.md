@@ -13,7 +13,7 @@ public static boolean IsSubSite(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True is sub site, false otherwise
 
 ## See also

@@ -13,7 +13,7 @@ public static  GetSharePointOnlineCredential(String name)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharePointOnlineCredentials](Microsoft.SharePoint.Client.SharePointOnlineCredentials.md 
+Type: [Microsoft.SharePoint.Client.SharePointOnlineCredentials](Microsoft.SharePoint.Client.SharePointOnlineCredentials.md  
 )Microsoft.SharePoint.Client.SharePointOnlineCredentials
 
 ## See also

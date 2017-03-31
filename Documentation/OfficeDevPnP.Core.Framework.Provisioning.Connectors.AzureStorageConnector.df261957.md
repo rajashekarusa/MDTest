@@ -13,7 +13,7 @@ public string GetFile(String fileName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )String containing the file contents
 
 ## See also

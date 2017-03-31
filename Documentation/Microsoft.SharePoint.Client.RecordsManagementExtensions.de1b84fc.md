@@ -13,7 +13,7 @@ public static boolean IsListRecordSettingDefined(List list)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if in place records management settings are active for this list
 
 ## See also

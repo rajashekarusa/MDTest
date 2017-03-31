@@ -8,7 +8,7 @@ Returns a HTML representation of the client side web part
 public string ToHtml()
 ```
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )HTML representation of the client side web part
 
 ## See also

@@ -23,7 +23,7 @@ public static boolean AddJsLink(Web web,String key,IEnumerable<String> scriptLin
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

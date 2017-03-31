@@ -13,7 +13,7 @@ public static string GetSiteCollectionSearchCenterUrl(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Search center url for web
 
 ## See also

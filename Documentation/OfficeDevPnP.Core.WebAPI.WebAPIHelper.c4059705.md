@@ -13,7 +13,7 @@ public static boolean HasCacheEntry(HttpControllerContext httpControllerContext)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if cookie is available and not empty, false otherwise
 
 ## See also

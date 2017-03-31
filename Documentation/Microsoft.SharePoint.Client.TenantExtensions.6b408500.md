@@ -17,7 +17,7 @@ public static guid GetSiteGuidByUrl(Tenant tenant,String siteFullUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md 
+Type: [System.Guid](System.Guid.md  
 )The Guid of a site collection
 
 ## See also

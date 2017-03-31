@@ -21,7 +21,7 @@ public static string AddWikiPage(Web web,String wikiPageLibraryName,String wikiP
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )The relative URL of the added wiki page
 
 ## See also

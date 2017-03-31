@@ -17,7 +17,7 @@ public static  GetWeb(Web parentWeb,String leafUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md 
+Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md  
 )The requested Web, if it exists, otherwise null.
 
 ## Remarks 

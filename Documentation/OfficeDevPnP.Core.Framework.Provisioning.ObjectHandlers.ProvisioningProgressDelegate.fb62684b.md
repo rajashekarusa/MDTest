@@ -27,7 +27,7 @@ public iasyncresult BeginInvoke(String message,Int32 step,Int32 total,AsyncCallb
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult](System.IAsyncResult.md 
+Type: [System.IAsyncResult](System.IAsyncResult.md  
 )
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

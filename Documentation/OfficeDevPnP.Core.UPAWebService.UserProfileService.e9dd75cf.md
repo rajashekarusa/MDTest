@@ -21,7 +21,7 @@ public void UpdateColleaguePrivacy(String accountName,String colleagueAccountNam
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )
 ## Remarks 
 

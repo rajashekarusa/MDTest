@@ -17,7 +17,7 @@ public static boolean DoesFolderExists(Web web,String serverRelativeFolderUrl)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )
 
 ## See also

@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,GetCommonColleaguesCompletedEventA
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult](System.IAsyncResult.md 
+Type: [System.IAsyncResult](System.IAsyncResult.md  
 )
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

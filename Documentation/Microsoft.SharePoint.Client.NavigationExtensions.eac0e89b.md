@@ -15,7 +15,7 @@ public static collections.generic.ienumerable`1<microsoft.sharepoint.client.user
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.UserCustomAction>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.UserCustomAction>.md 
+Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.UserCustomAction>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.UserCustomAction>.md  
 )
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

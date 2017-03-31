@@ -21,7 +21,7 @@ public static byte[] Encrypt(Byte[] plainData,Boolean fOAEP,X509Certificate2 cer
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Byte[]](System.Byte[].md 
+Type: [System.Byte[]](System.Byte[].md  
 )Encrypted bytes
 
 ## See also

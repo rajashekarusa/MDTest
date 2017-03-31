@@ -13,7 +13,7 @@ public void GetUserMembershipsAsync(String accountName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md 
+Type: [System.Void](System.Void.md  
 )
 ## Remarks 
 

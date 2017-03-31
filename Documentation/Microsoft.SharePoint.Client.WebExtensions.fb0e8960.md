@@ -21,7 +21,7 @@ public static nullable`1<system.int32> GetPropertyBagValueInt(Web web,String key
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Nullable`1<System.Int32>](System.Nullable`1<System.Int32>.md 
+Type: [System.Nullable`1<System.Int32>](System.Nullable`1<System.Int32>.md  
 )Value of the property bag entry as integer
 
 ## See also

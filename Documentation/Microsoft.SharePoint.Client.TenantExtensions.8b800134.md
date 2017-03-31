@@ -33,7 +33,7 @@ public static  DeployApplicationPackageToAppCatalog(Tenant tenant,String appCata
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ListItem](Microsoft.SharePoint.Client.ListItem.md 
+Type: [Microsoft.SharePoint.Client.ListItem](Microsoft.SharePoint.Client.ListItem.md  
 )The ListItem of the added package row
 
 ## See also

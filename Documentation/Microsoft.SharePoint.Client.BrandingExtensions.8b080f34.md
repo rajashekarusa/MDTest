@@ -17,7 +17,7 @@ public static boolean ComposedLookExists(Web web,String composedLookName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )true if it exists; otherwise false
 
 ## See also

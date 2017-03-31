@@ -13,7 +13,7 @@ public static boolean IsAppOnly(ClientRuntimeContext clientContext)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md 
+Type: [System.Boolean](System.Boolean.md  
 )True if app-only, false otherwise
 
 ## See also

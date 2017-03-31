@@ -17,7 +17,7 @@ public static  CreateTaxonomyField(List list,TaxonomyFieldCreationInformation fi
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md 
+Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md  
 )New taxonomy field
 
 ## See also

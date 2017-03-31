@@ -8,7 +8,7 @@
 public string ToHtml()
 ```
 ### Return Value
-Type: [System.String](System.String.md 
+Type: [System.String](System.String.md  
 )Html representation of this  control
 
 ## See also

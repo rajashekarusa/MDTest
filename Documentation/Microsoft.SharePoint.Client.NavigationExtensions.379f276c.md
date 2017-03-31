@@ -38,7 +38,7 @@ public static  AddNavigationNode(Web web,String nodeTitle,Uri nodeUri,String par
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.NavigationNode](Microsoft.SharePoint.Client.NavigationNode.md 
+Type: [Microsoft.SharePoint.Client.NavigationNode](Microsoft.SharePoint.Client.NavigationNode.md  
 )Newly added NavigationNode
 
 ## See also
