@@ -1,0 +1,20 @@
+# PreferencesParameter.Properties Text
+  
+
+**Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
+**Assembly:** OfficeDevPnP.Core.dll  
+## Syntax
+```C#
+public string[] Text { get; }
+public string[] Text { set; }
+```
+
+### Property Value
+Type: [System.String[]](System.String[].md) 
+
+## Remarks 
+
+## See also
+- [PreferencesParameter](PreferencesParameter.md) 
+
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
