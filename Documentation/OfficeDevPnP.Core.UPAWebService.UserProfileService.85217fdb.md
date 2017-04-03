@@ -9,11 +9,11 @@ public void RemoveLinkAsync(String accountName,Int32 id)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *id*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 ### Return Value

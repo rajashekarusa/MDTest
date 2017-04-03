@@ -7,7 +7,7 @@ public collections.generic.ienumerable<officedevpnp.core.pages.clientsidecompone
 ```
 ### Parameters
 *webPart*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Pages.DefaultClientSideWebParts  
 &emsp;&emsp;  
   
 ### Return Value

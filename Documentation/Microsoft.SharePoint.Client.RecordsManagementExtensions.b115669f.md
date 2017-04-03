@@ -9,7 +9,7 @@ public static  GetListManualRecordDeclaration(List list)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
   
 ### Return Value

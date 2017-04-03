@@ -9,7 +9,7 @@ public static  GetSpecificFormatter(XMLPnPSchemaVersion version)
 ```
 ### Parameters
 *version*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaVersion] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaVersion  
 &emsp;&emsp;  
   
 ### Return Value

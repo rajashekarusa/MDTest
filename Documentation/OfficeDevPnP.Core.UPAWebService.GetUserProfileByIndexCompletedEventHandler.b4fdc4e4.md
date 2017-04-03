@@ -7,7 +7,7 @@ public void Invoke(Object sender,GetUserProfileByIndexCompletedEventArgs e)
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 *e*  

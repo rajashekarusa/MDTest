@@ -9,7 +9,7 @@ public static  GetDefaultSiteCollectionTermStore(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;  
   
 ### Return Value

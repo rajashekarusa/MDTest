@@ -9,43 +9,43 @@ public static boolean UpdateUnifiedGroup(String groupId,String accessToken,Int32
 ```
 ### Parameters
 *groupId*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The ID of the Office 365 Group  
   
 *accessToken*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The OAuth 2.0 Access Token to use for invoking the Microsoft Graph  
   
 *(optional) retryCount*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Number of times to retry the request in case of throttling  
   
 *(optional) delay*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
   
 *(optional) displayName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Display Name for the Office 365 Group  
   
 *(optional) description*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Description for the Office 365 Group  
   
 *(optional) owners*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;A list of UPNs for group owners, if any, to be added to the site  
   
 *(optional) members*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;A list of UPNs for group members, if any, to be added to the site  
   
 *(optional) groupLogo*  
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The binary stream of the logo for the Office 365 Group  
   
 *(optional) isPrivate*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether the group will be private or public, optional with default false (i.e. public)  
   
 ### Return Value

@@ -9,11 +9,11 @@ public static  AddWebPartToWikiPage(Web web,String folder,WebPartEntity webPart,
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *folder*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;System name of the wiki page library - typically sitepages  
   
 *webPart*  
@@ -21,19 +21,19 @@ public static  AddWebPartToWikiPage(Web web,String folder,WebPartEntity webPart,
 &emsp;&emsp;Information about the web part to insert  
   
 *page*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to add the web part on  
   
 *row*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Row of the wiki table that should hold the inserted web part  
   
 *col*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Column of the wiki table that should hold the inserted web part  
   
 *addSpace*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Does a blank line need to be added after the web part (to space web parts)  
   
 ### Return Value

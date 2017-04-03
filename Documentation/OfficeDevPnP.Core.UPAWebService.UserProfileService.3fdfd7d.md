@@ -9,7 +9,7 @@ public void GetLeadersAsync(Object userState)
 ```
 ### Parameters
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

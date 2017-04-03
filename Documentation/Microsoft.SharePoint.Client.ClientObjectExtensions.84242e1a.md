@@ -9,11 +9,11 @@ public static  EnsureProperty(T clientObject,Expression<Func<T, TResult>> proper
 ```
 ### Parameters
 *clientObject*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 *propertySelector*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<T,TResult>>] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T,TResult>>  
 &emsp;&emsp;Lamda expression containing the property to ensure (e.g. w => w.HasUniqueRoleAssignments)  
   
 ### Return Value

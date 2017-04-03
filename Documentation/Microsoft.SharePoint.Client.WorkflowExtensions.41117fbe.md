@@ -9,7 +9,7 @@ public static  GetInstances(WorkflowSubscription subscription)
 ```
 ### Parameters
 *subscription*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
 &emsp;&emsp;  
   
 ### Return Value

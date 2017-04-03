@@ -7,7 +7,7 @@ public text.regularexpressions.regex GetRegexForToken(String token)
 ```
 ### Parameters
 *token*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

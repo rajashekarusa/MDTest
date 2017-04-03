@@ -7,19 +7,19 @@ public iasyncresult BeginInvoke(String message,ProvisioningMessageType messageTy
 ```
 ### Parameters
 *message*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *messageType*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType  
 &emsp;&emsp;  
   
 *callback*  
-&emsp;&emsp;Type: [System.AsyncCallback] 
+&emsp;&emsp;Type: System.AsyncCallback  
 &emsp;&emsp;  
   
 *object*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,31 +9,31 @@ public static  AddRemoteEventReceiver(Web web,String name,String url,EventReceiv
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
   
 *name*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the event receiver (needs to be unique among the event receivers registered on this list)  
   
 *url*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The URL of the remote WCF service that handles the event  
   
 *eventReceiverType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.EventReceiverType] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.EventReceiverType  
 &emsp;&emsp;  
   
 *synchronization*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.EventReceiverSynchronization] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.EventReceiverSynchronization  
 &emsp;&emsp;  
   
 *sequenceNumber*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 *force*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If True any event already registered with the same name will be removed first.  
   
 ### Return Value

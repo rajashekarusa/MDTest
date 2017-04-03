@@ -9,7 +9,7 @@ public string GetProperty(String propertyKey)
 ```
 ### Parameters
 *propertyKey*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property to retrieve  
   
 ### Return Value

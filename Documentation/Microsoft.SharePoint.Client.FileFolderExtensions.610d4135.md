@@ -9,11 +9,11 @@ public static collections.generic.list<microsoft.sharepoint.client.file> FindFil
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to process  
   
 *match*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;a wildcard pattern to match  
   
 ### Return Value

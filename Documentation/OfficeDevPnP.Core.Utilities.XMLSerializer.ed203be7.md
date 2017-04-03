@@ -9,7 +9,7 @@ public static string Serialize(T objectToSerialize)
 ```
 ### Parameters
 *objectToSerialize*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 ### Return Value

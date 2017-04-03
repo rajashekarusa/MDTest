@@ -9,11 +9,11 @@ public static  ConvertFolderToDocumentSet(List list,Folder folder)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List in which the folder exists  
   
 *folder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder to convert  
   
 ### Return Value

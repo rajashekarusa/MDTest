@@ -9,7 +9,7 @@ public void Put(String cacheKey,WebAPIContexCacheItem sharePointServiceContextCa
 ```
 ### Parameters
 *cacheKey*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key to cache the item  
   
 *sharePointServiceContextCacheItem*  

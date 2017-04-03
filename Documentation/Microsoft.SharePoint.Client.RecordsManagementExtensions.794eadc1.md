@@ -9,11 +9,11 @@ public static void SetRecordUnDeclarationBy(Site site,EcmRecordDeclarationBy by)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
   
 *by*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.EcmRecordDeclarationBy  
 &emsp;&emsp; enum that defines who can undeclare a record  
   
 ### Return Value

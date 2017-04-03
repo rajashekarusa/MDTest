@@ -7,7 +7,7 @@ public static guid CreateSiteCollection(Tenant tenant,SiteEntity properties,Bool
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;  
   
 *properties*  
@@ -15,15 +15,15 @@ public static guid CreateSiteCollection(Tenant tenant,SiteEntity properties,Bool
 &emsp;&emsp;  
   
 *(optional) removeFromRecycleBin*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 *(optional) wait*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 *(optional) timeoutFunction*  
-&emsp;&emsp;Type: [System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>] 
+&emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>  
 &emsp;&emsp;  
   
 ### Return Value

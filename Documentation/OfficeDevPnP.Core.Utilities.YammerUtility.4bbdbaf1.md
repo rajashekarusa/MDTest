@@ -9,23 +9,23 @@ public static string CreateYammerDiscussionPartXml(String yammerNetworkName,Int3
 ```
 ### Parameters
 *yammerNetworkName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the network  
   
 *yammerGroupId*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Group ID  
   
 *showHeader*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 *showFooter*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 *(optional) useSSO*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 ### Return Value

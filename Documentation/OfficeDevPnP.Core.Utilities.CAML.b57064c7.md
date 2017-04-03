@@ -7,7 +7,7 @@ public static string Lt(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

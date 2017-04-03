@@ -7,11 +7,11 @@ public void AddParameter(String key,Object value)
 ```
 ### Parameters
 *key*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *value*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

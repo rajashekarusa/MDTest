@@ -9,7 +9,7 @@ public static string EncryptStringWithDPAPI(SecureString input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;String (SecureString) to encrypt  
   
 ### Return Value

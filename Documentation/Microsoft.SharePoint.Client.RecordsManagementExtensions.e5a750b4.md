@@ -9,11 +9,11 @@ public static void SetManualRecordDeclarationInAllLocations(Site site,Boolean in
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
   
 *inAllPlaces*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if allowed in all places, false otherwise  
   
 ### Return Value

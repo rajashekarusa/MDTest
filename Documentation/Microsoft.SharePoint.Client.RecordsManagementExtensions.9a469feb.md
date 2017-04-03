@@ -9,11 +9,11 @@ public static void SetListManualRecordDeclaration(List list,EcmListManualRecordD
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
   
 *settings*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.EcmListManualRecordDeclaration] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.EcmListManualRecordDeclaration  
 &emsp;&emsp; enum that defines the manual in place record declaration settings for this list  
   
 ### Return Value

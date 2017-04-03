@@ -9,7 +9,7 @@ public void SetEnumerationCredentials(String credentialName)
 ```
 ### Parameters
 *credentialName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the credential manager registration  
   
 ### Return Value

@@ -7,11 +7,11 @@ public static void SetDefaultColumnValues(List list,IEnumerable<IDefaultColumnVa
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;  
   
 *columnValues*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>  
 &emsp;&emsp;  
   
 ### Return Value

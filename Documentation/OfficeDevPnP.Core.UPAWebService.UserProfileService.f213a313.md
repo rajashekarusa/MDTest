@@ -9,7 +9,7 @@ public  GetUserPinnedLinks(String accountName)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

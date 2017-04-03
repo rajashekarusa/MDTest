@@ -9,11 +9,11 @@ public static guid ToGuid(String input,Guid defaultValue)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;A default value to return for a null input value.  
   
 ### Return Value

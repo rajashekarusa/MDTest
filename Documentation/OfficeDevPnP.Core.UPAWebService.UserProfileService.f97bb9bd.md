@@ -9,11 +9,11 @@ public void ModifyUserPropertyByAccountName(String accountName,PropertyData[] ne
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *newData*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
 &emsp;&emsp;  
   
 ### Return Value

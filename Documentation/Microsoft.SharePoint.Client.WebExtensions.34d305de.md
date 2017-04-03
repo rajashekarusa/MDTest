@@ -9,11 +9,11 @@ public static boolean DeleteWeb(Web parentWeb,String leafUrl)
 ```
 ### Parameters
 *parentWeb*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The parent Web (site) to delete from  
   
 *leafUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
   
 ### Return Value

@@ -9,15 +9,15 @@ public void SaveFileStream(String fileName,String container,Stream stream)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to save  
   
 *container*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to save the file to  
   
 *stream*  
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;Stream containing the file contents  
   
 ### Return Value

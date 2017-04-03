@@ -9,11 +9,11 @@ public static  Include(Enum value,T append)
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [System.Enum] 
+&emsp;&emsp;Type: System.Enum  
 &emsp;&emsp;  
   
 *append*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 ### Return Value

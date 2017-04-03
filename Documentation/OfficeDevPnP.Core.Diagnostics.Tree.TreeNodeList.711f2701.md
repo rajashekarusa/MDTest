@@ -7,7 +7,7 @@ public  Add(ITreeNode node)
 ```
 ### Parameters
 *node*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode  
 &emsp;&emsp;  
   
 ### Return Value

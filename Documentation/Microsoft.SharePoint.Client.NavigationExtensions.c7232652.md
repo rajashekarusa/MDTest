@@ -9,11 +9,11 @@ public static void UpdateNavigationInheritance(Web web,Boolean inheritNavigation
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *inheritNavigation*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;boolean indicating if navigation inheritance is needed or not  
   
 ### Return Value

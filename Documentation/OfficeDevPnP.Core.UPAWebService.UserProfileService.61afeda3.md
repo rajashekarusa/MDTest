@@ -9,7 +9,7 @@ public void GetUserProfileByGuidAsync(Guid guid)
 ```
 ### Parameters
 *guid*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;  
   
 ### Return Value

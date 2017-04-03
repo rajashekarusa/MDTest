@@ -9,11 +9,11 @@ public static boolean Missing(Enum obj,T value)
 ```
 ### Parameters
 *obj*  
-&emsp;&emsp;Type: [System.Enum] 
+&emsp;&emsp;Type: System.Enum  
 &emsp;&emsp;  
   
 *value*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 ### Return Value

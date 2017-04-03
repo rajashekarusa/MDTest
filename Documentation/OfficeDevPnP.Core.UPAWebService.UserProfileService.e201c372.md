@@ -9,7 +9,7 @@ public void AddMembershipAsync(String accountName,MembershipData membershipInfo,
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *membershipInfo*  
@@ -17,15 +17,15 @@ public void AddMembershipAsync(String accountName,MembershipData membershipInfo,
 &emsp;&emsp;  
   
 *group*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *privacy*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.Privacy  
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

@@ -7,7 +7,7 @@ public static string MakeRelativeUrl(String urlToProcess)
 ```
 ### Parameters
 *urlToProcess*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

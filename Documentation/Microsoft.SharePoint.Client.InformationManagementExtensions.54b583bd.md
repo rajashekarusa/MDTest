@@ -9,7 +9,7 @@ public static boolean SetClosedBySitePolicy(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 ### Return Value

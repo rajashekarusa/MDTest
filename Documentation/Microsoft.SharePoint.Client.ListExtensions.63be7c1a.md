@@ -9,11 +9,11 @@ public static  GetEventReceiverById(List list,Guid id)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;  
   
 *id*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;  
   
 ### Return Value

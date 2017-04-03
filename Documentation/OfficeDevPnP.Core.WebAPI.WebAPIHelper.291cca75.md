@@ -13,7 +13,7 @@ public static  GetClientContext(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
 *httpControllerContext*  
-&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpControllerContext] 
+&emsp;&emsp;Type: System.Web.Http.Controllers.HttpControllerContext  
 &emsp;&emsp;Information about the HTTP request that reached the WebAPI controller  
   
 ### Return Value

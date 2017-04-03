@@ -9,11 +9,11 @@ public  GetAzureADAccessTokenAuthenticatedContext(String siteUrl,String accessTo
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *accessToken*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;An explicit value for the AccessToken  
   
 ### Return Value

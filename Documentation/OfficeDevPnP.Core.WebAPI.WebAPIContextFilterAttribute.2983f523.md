@@ -7,7 +7,7 @@ public void OnActionExecuting(HttpActionContext actionContext)
 ```
 ### Parameters
 *actionContext*  
-&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpActionContext] 
+&emsp;&emsp;Type: System.Web.Http.Controllers.HttpActionContext  
 &emsp;&emsp;  
   
 ### Return Value

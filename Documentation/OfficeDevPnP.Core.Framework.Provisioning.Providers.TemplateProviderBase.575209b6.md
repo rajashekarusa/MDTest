@@ -11,11 +11,11 @@ public void Save(ProvisioningTemplate template,ITemplateFormatter formatter,ITem
 &emsp;&emsp;  
   
 *formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 &emsp;&emsp;  
   
 *extensions*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 &emsp;&emsp;  
   
 ### Return Value

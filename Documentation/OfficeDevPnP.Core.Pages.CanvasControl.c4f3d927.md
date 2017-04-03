@@ -9,7 +9,7 @@ public static type GetType(String controlDataJson)
 ```
 ### Parameters
 *controlDataJson*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;data-sp-controldata json string  
   
 ### Return Value

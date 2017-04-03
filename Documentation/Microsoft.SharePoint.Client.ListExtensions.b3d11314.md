@@ -9,7 +9,7 @@ public static collections.generic.list<system.collections.generic.dictionary<sys
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;  
   
 ### Return Value

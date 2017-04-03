@@ -7,15 +7,15 @@ public static  GetViewByName(List list,String name,Expression<Func<View, Object>
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;  
   
 *name*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *expressions*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View,System.Object>>[]] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View,System.Object>>[]  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public void UpdatePinnedLinkAsync(String accountName,PinnedLinkData data,Object 
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *data*  
@@ -17,7 +17,7 @@ public void UpdatePinnedLinkAsync(String accountName,PinnedLinkData data,Object 
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

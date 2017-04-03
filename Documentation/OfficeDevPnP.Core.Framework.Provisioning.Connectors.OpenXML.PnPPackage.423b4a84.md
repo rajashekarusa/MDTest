@@ -7,15 +7,15 @@ public static  Open(String path,FileMode mode,FileAccess access)
 ```
 ### Parameters
 *path*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *mode*  
-&emsp;&emsp;Type: [System.IO.FileMode] 
+&emsp;&emsp;Type: System.IO.FileMode  
 &emsp;&emsp;  
   
 *access*  
-&emsp;&emsp;Type: [System.IO.FileAccess] 
+&emsp;&emsp;Type: System.IO.FileAccess  
 &emsp;&emsp;  
   
 ### Return Value

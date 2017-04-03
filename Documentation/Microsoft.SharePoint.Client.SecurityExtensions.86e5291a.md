@@ -9,15 +9,15 @@ public static void AddUserToGroup(Web web,Group group,User user)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
   
 *group*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group object representing the group  
   
 *user*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.User] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.User  
 &emsp;&emsp;User object representing the user  
   
 ### Return Value

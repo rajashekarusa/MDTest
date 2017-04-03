@@ -9,7 +9,7 @@ public static void RemoveAdministrator(Web web,UserEntity admin)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
   
 *admin*  

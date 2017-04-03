@@ -9,7 +9,7 @@ public static security.securestring DecryptStringWithDPAPI(String encryptedData)
 ```
 ### Parameters
 *encryptedData*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Encrypted string  
   
 ### Return Value

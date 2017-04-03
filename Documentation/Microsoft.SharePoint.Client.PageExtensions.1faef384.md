@@ -9,7 +9,7 @@ public static  AddWebPartToWebPartPage(Web web,WebPartEntity webPart,String page
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *webPart*  
@@ -17,7 +17,7 @@ public static  AddWebPartToWebPartPage(Web web,WebPartEntity webPart,String page
 &emsp;&emsp;Information about the web part to insert  
   
 *page*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to add the web part on  
   
 ### Return Value

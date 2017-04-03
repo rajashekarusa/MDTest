@@ -9,35 +9,35 @@ public static  CreateWeb(Web parentWeb,String title,String leafUrl,String descri
 ```
 ### Parameters
 *parentWeb*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The parent Web (site) to create under  
   
 *title*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The title of the new site.   
   
 *leafUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
   
 *description*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The description of the new site.   
   
 *template*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the site template to be used for creating the new site.   
   
 *language*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The locale ID that specifies the language of the new site.   
   
 *(optional) inheritPermissions*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specifies whether the new site will inherit permissions from its parent site.  
   
 *(optional) inheritNavigation*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specifies whether the site inherits navigation.  
   
 ### Return Value

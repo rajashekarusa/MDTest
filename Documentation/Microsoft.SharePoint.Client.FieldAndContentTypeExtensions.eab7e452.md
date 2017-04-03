@@ -10,11 +10,11 @@ public static  BestMatchContentTypeId(List list,String baseContentTypeId)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to check for content types  
   
 *baseContentTypeId*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string with the base content type ID to match.  
   
 ### Return Value

@@ -12,11 +12,11 @@ public static void SetRating(List list,VotingExperience experience)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;Current List  
   
 *experience*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.VotingExperience] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.VotingExperience  
 &emsp;&emsp;Likes/Ratings  
   
 ### Return Value

@@ -7,11 +7,11 @@ public  ToProvisioningTemplate(Stream template,String identifier)
 ```
 ### Parameters
 *template*  
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;  
   
 *identifier*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

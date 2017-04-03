@@ -7,7 +7,7 @@ public boolean Equals(Object obj)
 ```
 ### Parameters
 *obj*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

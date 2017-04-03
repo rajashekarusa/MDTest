@@ -7,11 +7,11 @@ public static  GetFieldByName(FieldCollection fields,String internalName)
 ```
 ### Parameters
 *fields*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.FieldCollection] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.FieldCollection  
 &emsp;&emsp;  
   
 *internalName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

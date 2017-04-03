@@ -9,11 +9,11 @@ public void GetUserProfileByNameAsync(String AccountName,Object userState)
 ```
 ### Parameters
 *AccountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

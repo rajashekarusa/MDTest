@@ -9,7 +9,7 @@ public static boolean Contains(Guid fid)
 ```
 ### Parameters
 *fid*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;File identifier.  
   
 ### Return Value

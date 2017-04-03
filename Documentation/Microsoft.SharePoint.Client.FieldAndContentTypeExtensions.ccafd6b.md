@@ -9,11 +9,11 @@ public static  CreateContentTypeFromXML(Web web,XDocument xDocument)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
   
 *xDocument*  
-&emsp;&emsp;Type: [System.Xml.Linq.XDocument] 
+&emsp;&emsp;Type: System.Xml.Linq.XDocument  
 &emsp;&emsp;Actual XML document  
   
 ### Return Value

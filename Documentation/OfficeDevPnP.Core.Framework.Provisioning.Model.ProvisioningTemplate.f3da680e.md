@@ -9,7 +9,7 @@ public string ToXML(ITemplateFormatter formatter)
 ```
 ### Parameters
 *(optional) formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 &emsp;&emsp;  
   
 ### Return Value

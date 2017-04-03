@@ -9,11 +9,11 @@ public static void RemovePublishingImageRendition(Web web,String imageRenditionN
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
   
 *imageRenditionName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the image rendition  
   
 ### Return Value

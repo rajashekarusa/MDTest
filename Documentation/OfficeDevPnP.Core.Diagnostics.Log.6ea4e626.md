@@ -7,19 +7,19 @@ public static void Info(Exception ex,String source,String message,Object[] args)
 ```
 ### Parameters
 *ex*  
-&emsp;&emsp;Type: [System.Exception] 
+&emsp;&emsp;Type: System.Exception  
 &emsp;&emsp;  
   
 *source*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *message*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *args*  
-&emsp;&emsp;Type: [System.Object[]] 
+&emsp;&emsp;Type: System.Object[]  
 &emsp;&emsp;  
   
 ### Return Value

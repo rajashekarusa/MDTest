@@ -9,23 +9,23 @@ public static collections.generic.ilist<officedevpnp.core.entities.siteentity> G
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;Tenant object to operate against  
   
 *(optional) startIndex*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Not relevant anymore  
   
 *(optional) endIndex*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Not relevant anymore  
   
 *(optional) includeDetail*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Option to return a limited set of data  
   
 *(optional) includeOD4BSites*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Also return the OD4B sites  
   
 ### Return Value

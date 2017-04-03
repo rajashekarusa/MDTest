@@ -7,7 +7,7 @@ public static string Where(String conditionClause)
 ```
 ### Parameters
 *conditionClause*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

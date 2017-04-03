@@ -9,11 +9,11 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> Si
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Base URL for which sites can be returned  
   
 ### Return Value

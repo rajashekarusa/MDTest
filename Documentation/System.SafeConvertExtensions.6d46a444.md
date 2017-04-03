@@ -9,7 +9,7 @@ public static long ToInt64(String input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
   
 ### Return Value

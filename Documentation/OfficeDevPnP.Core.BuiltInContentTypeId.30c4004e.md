@@ -7,7 +7,7 @@ public static boolean Contains(String id)
 ```
 ### Parameters
 *id*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

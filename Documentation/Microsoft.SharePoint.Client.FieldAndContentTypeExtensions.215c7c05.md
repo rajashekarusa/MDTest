@@ -7,11 +7,11 @@ public static void ReorderContentTypes(List list,IEnumerable<String> contentType
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;  
   
 *contentTypeNamesOrIds*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 &emsp;&emsp;  
   
 ### Return Value

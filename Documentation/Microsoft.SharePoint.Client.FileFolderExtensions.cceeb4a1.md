@@ -9,15 +9,15 @@ public static  CreateDocumentSet(Folder folder,String documentSetName,ContentTyp
 ```
 ### Parameters
 *folder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;  
   
 *documentSetName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *contentTypeId*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ContentTypeId] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentTypeId  
 &emsp;&emsp;Content type of the document set  
   
 ### Return Value

@@ -10,19 +10,19 @@ public static void AssociateDefaultGroups(Web web,Group owners,Group members,Gro
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
   
 *owners*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Owners group  
   
 *members*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Members group  
   
 *visitors*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Visitors group  
   
 ### Return Value

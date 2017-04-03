@@ -9,7 +9,7 @@ public static linq.expressions.expression<system.func<tinput,system.object>> ToU
 ```
 ### Parameters
 *expression*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<TInput,TOutput>>] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<TInput,TOutput>>  
 &emsp;&emsp; to convert   
   
 ### Return Value

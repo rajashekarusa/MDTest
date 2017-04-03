@@ -9,15 +9,15 @@ public static collections.generic.list<system.string> ExportAllTerms(Site site,B
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The site to process  
   
 *includeId*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;if true, Ids of the the taxonomy items will be included  
   
 *(optional) delimiter*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;if specified, this delimiter will be used. Notice that IDs will be delimited with ;# from the label  
   
 ### Return Value

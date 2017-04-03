@@ -7,7 +7,7 @@ public static  Resolve(String wpXml)
 ```
 ### Parameters
 *wpXml*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

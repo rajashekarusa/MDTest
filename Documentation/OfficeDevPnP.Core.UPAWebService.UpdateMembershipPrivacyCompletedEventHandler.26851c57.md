@@ -7,11 +7,11 @@ public void Invoke(Object sender,AsyncCompletedEventArgs e)
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [System.ComponentModel.AsyncCompletedEventArgs] 
+&emsp;&emsp;Type: System.ComponentModel.AsyncCompletedEventArgs  
 &emsp;&emsp;  
   
 ### Return Value

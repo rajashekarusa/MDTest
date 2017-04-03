@@ -9,7 +9,7 @@ public static  Deserialize(XDocument xdoc)
 ```
 ### Parameters
 *xdoc*  
-&emsp;&emsp;Type: [System.Xml.Linq.XDocument] 
+&emsp;&emsp;Type: System.Xml.Linq.XDocument  
 &emsp;&emsp;  
   
 ### Return Value

@@ -7,7 +7,7 @@ public boolean IsValid(Stream template)
 ```
 ### Parameters
 *template*  
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;  
   
 ### Return Value

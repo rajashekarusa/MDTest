@@ -9,11 +9,11 @@ public static string AppendQueryString(String path,String queryString)
 ```
 ### Parameters
 *path*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *queryString*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

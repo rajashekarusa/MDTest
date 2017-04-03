@@ -9,11 +9,11 @@ public static boolean Has(Enum value,T check)
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [System.Enum] 
+&emsp;&emsp;Type: System.Enum  
 &emsp;&emsp;  
   
 *check*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 ### Return Value

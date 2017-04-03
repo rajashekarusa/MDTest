@@ -9,7 +9,7 @@ public static collections.generic.list<officedevpnp.core.entities.userentity> Ge
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
   
 ### Return Value

@@ -7,15 +7,15 @@ public static void Error(String source,String message,Object[] args)
 ```
 ### Parameters
 *source*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *message*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *args*  
-&emsp;&emsp;Type: [System.Object[]] 
+&emsp;&emsp;Type: System.Object[]  
 &emsp;&emsp;  
   
 ### Return Value

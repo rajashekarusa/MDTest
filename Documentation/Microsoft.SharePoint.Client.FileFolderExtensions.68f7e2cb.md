@@ -9,11 +9,11 @@ public static  GetFile(Folder folder,String fileName)
 ```
 ### Parameters
 *folder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder containing the target file.  
   
 *fileName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;File name.  
   
 ### Return Value

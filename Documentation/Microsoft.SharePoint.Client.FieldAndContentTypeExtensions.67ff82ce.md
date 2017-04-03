@@ -9,11 +9,11 @@ public static boolean FieldExistsByName(List list,String fieldName)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
   
 *fieldName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Internal name of the field  
   
 ### Return Value

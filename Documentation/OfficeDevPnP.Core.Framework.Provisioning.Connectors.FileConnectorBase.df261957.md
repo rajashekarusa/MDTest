@@ -9,7 +9,7 @@ public string GetFile(String fileName)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
   
 ### Return Value

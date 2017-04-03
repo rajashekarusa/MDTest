@@ -9,23 +9,23 @@ public static void UpdateListVersioning(Web web,String listName,Boolean enableVe
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *listName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;List to operate on  
   
 *enableVersioning*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to enable versioning, false to disable  
   
 *(optional) enableMinorVersioning*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Enable/Disable minor versioning  
   
 *(optional) updateAndExecuteQuery*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Perform list update and executequery, defaults to true  
   
 ### Return Value

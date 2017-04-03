@@ -11,11 +11,11 @@ public void SaveAs(ProvisioningTemplate template,String uri,ITemplateProviderExt
 &emsp;&emsp;  
   
 *uri*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) extensions*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 &emsp;&emsp;  
   
 ### Return Value

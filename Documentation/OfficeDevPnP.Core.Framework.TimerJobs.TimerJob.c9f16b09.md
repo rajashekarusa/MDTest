@@ -9,7 +9,7 @@ public void AddSite(String site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site Url or wildcard site Url to be processed by the timer job  
   
 ### Return Value

@@ -7,7 +7,7 @@ public string ParseString(String input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

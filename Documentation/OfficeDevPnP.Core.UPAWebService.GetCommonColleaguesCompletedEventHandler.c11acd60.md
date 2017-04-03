@@ -7,7 +7,7 @@ public void Invoke(Object sender,GetCommonColleaguesCompletedEventArgs e)
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 *e*  

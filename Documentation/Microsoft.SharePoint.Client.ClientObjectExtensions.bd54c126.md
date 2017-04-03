@@ -9,7 +9,7 @@ public static boolean ServerObjectIsNull(T clientObject)
 ```
 ### Parameters
 *clientObject*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
   
 ### Return Value

@@ -9,15 +9,15 @@ public void ModifyUserPropertyByAccountNameAsync(String accountName,PropertyData
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *newData*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

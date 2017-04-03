@@ -9,7 +9,7 @@ public collections.generic.list<system.string> GetFiles(String container)
 ```
 ### Parameters
 *container*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the files from (something like: "\images\subfolder")  
   
 ### Return Value

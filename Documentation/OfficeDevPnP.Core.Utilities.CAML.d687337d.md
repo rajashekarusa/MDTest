@@ -7,11 +7,11 @@ public static string Or(String clause1,String[] conditionClauses)
 ```
 ### Parameters
 *clause1*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *conditionClauses*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;  
   
 ### Return Value

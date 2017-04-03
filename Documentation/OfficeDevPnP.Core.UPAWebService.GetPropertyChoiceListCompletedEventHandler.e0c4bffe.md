@@ -7,7 +7,7 @@ public iasyncresult BeginInvoke(Object sender,GetPropertyChoiceListCompletedEven
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 *e*  
@@ -15,11 +15,11 @@ public iasyncresult BeginInvoke(Object sender,GetPropertyChoiceListCompletedEven
 &emsp;&emsp;  
   
 *callback*  
-&emsp;&emsp;Type: [System.AsyncCallback] 
+&emsp;&emsp;Type: System.AsyncCallback  
 &emsp;&emsp;  
   
 *object*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,15 +9,15 @@ public static  CreateField(List list,String fieldAsXml,Boolean executeQuery)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
   
 *fieldAsXml*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The XML declaration of SiteColumn definition  
   
 *(optional) executeQuery*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally skip the executeQuery action  
   
 ### Return Value

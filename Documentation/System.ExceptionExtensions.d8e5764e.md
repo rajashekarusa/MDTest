@@ -7,7 +7,7 @@ public static string ToDetailedString(Exception exception,ExceptionOptions optio
 ```
 ### Parameters
 *exception*  
-&emsp;&emsp;Type: [System.Exception] 
+&emsp;&emsp;Type: System.Exception  
 &emsp;&emsp;  
   
 *options*  

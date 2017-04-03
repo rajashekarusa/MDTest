@@ -7,7 +7,7 @@ public collections.generic.list<system.string> ResolveAddedSites(List<String> ad
 ```
 ### Parameters
 *addedSites*  
-&emsp;&emsp;Type: [System.Collections.Generic.List<System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.List<System.String>  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public void GetUserProfileByNameAsync(String AccountName)
 ```
 ### Parameters
 *AccountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

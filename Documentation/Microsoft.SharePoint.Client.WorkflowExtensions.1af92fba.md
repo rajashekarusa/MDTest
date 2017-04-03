@@ -7,15 +7,15 @@ public static guid StartWorkflowInstance(Web web,String subscriptionName,IDictio
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *subscriptionName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *payload*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<System.String,System.Object>] 
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String,System.Object>  
 &emsp;&emsp;  
   
 ### Return Value

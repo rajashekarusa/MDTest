@@ -9,7 +9,7 @@ public static net.networkcredential GetCredential(String name)
 ```
 ### Parameters
 *name*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

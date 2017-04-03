@@ -9,11 +9,11 @@ public  GetWebLoginClientContext(String siteUrl,Icon icon)
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *(optional) icon*  
-&emsp;&emsp;Type: [System.Drawing.Icon] 
+&emsp;&emsp;Type: System.Drawing.Icon  
 &emsp;&emsp;Optional icon to use for the popup form  
   
 ### Return Value

@@ -9,11 +9,11 @@ public static void CreateFieldsFromXMLFile(Web web,String xmlFilePath)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
   
 *xmlFilePath*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Absolute path to the xml location  
   
 ### Return Value

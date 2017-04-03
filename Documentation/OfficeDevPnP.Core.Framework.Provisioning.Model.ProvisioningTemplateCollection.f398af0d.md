@@ -9,7 +9,7 @@ public  Find(Predicate match)
 ```
 ### Parameters
 *match*  
-&emsp;&emsp;Type: [System.Predicate] 
+&emsp;&emsp;Type: System.Predicate  
 &emsp;&emsp;The matching predicate to use for finding any target item  
   
 ### Return Value

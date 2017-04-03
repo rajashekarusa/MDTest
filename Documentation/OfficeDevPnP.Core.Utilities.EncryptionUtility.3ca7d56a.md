@@ -9,7 +9,7 @@ public static string ToInsecureString(SecureString input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;SecureString to convert  
   
 ### Return Value

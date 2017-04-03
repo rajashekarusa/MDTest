@@ -7,31 +7,31 @@ public static  ImportTermSet(TermGroup termGroup,Stream termSetData,Guid termSet
 ```
 ### Parameters
 *termGroup*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 &emsp;&emsp;  
   
 *termSetData*  
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;  
   
 *(optional) termSetId*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;  
   
 *(optional) synchroniseDeletions*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 *(optional) termSetIsOpen*  
-&emsp;&emsp;Type: [System.Nullable<System.Boolean>] 
+&emsp;&emsp;Type: System.Nullable<System.Boolean>  
 &emsp;&emsp;  
   
 *(optional) termSetContact*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) termSetOwner*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

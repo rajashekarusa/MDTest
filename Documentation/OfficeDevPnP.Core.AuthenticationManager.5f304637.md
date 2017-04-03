@@ -7,11 +7,11 @@ public  GetAzureADWebApplicationAuthenticatedContext(String siteUrl,Func<String,
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *accessTokenGetter*  
-&emsp;&emsp;Type: [System.Func<System.String,System.String>] 
+&emsp;&emsp;Type: System.Func<System.String,System.String>  
 &emsp;&emsp;  
   
 ### Return Value

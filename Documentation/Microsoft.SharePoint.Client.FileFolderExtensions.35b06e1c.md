@@ -7,15 +7,15 @@ public static  EnsureFolderPath(Web web,String webRelativeUrl,Expression<Func<Fo
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *webRelativeUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *expressions*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder,System.Object>>[]] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder,System.Object>>[]  
 &emsp;&emsp;  
   
 ### Return Value

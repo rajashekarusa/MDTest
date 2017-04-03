@@ -9,23 +9,23 @@ public  GetAzureADNativeApplicationAuthenticatedContext(String siteUrl,String cl
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *clientId*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Azure AD Native Application Client ID  
   
 *redirectUri*  
-&emsp;&emsp;Type: [System.Uri] 
+&emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;The Azure AD Native Application Redirect Uri  
   
 *(optional) tokenCache*  
-&emsp;&emsp;Type: [Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache] 
+&emsp;&emsp;Type: Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache  
 &emsp;&emsp;Optional token cache. If not specified an in-memory token cache will be used  
   
 *(optional) environment*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.AzureEnvironment  
 &emsp;&emsp;SharePoint environment being used  
   
 ### Return Value

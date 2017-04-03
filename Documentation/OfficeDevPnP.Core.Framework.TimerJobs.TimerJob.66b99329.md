@@ -10,15 +10,15 @@ public void UseNetworkCredentialsAuthentication(String samAccountName,SecureStri
 ```
 ### Parameters
 *samAccountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;samAccontName of the windows user  
   
 *password*  
-&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password of the windows user  
   
 *domain*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;NT domain of the windows user  
   
 ### Return Value

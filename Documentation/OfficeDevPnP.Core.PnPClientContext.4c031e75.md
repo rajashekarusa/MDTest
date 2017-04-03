@@ -9,7 +9,7 @@ public  Clone(String siteUrl)
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site url to be used for cloned ClientContext  
   
 ### Return Value

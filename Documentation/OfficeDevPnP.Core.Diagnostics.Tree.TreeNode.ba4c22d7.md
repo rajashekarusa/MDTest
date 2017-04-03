@@ -7,11 +7,11 @@ public void SetParent(ITreeNode node,Boolean updateChildNodes)
 ```
 ### Parameters
 *node*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode  
 &emsp;&emsp;  
   
 *(optional) updateChildNodes*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 ### Return Value

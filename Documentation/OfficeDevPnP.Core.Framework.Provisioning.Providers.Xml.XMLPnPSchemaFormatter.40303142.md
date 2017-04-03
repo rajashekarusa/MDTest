@@ -9,7 +9,7 @@ public static  GetSpecificFormatter(String namespaceUri)
 ```
 ### Parameters
 *namespaceUri*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

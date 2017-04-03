@@ -10,7 +10,7 @@ public static collections.generic.ienumerable<system.string> GetAllWebUrls(Site 
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to retrieve the URLs for.  
   
 ### Return Value

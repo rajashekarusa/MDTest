@@ -9,23 +9,23 @@ public static collections.generic.list<system.string> ExportTermSet(Site site,Gu
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The site to export the termsets from  
   
 *termSetId*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termset to export  
   
 *includeId*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;if true, Ids of the the taxonomy items will be included  
   
 *termStore*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermStore] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermStore  
 &emsp;&emsp;The term store to export the termset from  
   
 *(optional) delimiter*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;if specified, this delimiter will be used. Notice that IDs will be delimited with ;# from the label  
   
 ### Return Value

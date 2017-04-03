@@ -7,7 +7,7 @@ public collections.generic.list<system.string> UpdateAddedSites(List<String> add
 ```
 ### Parameters
 *addedSites*  
-&emsp;&emsp;Type: [System.Collections.Generic.List<System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.List<System.String>  
 &emsp;&emsp;  
   
 ### Return Value

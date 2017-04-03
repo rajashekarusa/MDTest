@@ -9,15 +9,15 @@ public  GetSharePointOnlineAuthenticatedContextTenant(String siteUrl,String tena
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *tenantUser*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;User to be used to instantiate the ClientContext object  
   
 *tenantUserPassword*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Password of the user used to instantiate the ClientContext object  
   
 ### Return Value

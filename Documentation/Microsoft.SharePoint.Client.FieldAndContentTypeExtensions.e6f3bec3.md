@@ -9,11 +9,11 @@ public static boolean FieldExistsById(List list,Guid fieldId)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
   
 *fieldId*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Guid of the field ID  
   
 ### Return Value

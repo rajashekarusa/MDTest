@@ -7,7 +7,7 @@ public collections.generic.ienumerable<officedevpnp.core.pages.clientsidecompone
 ```
 ### Parameters
 *name*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

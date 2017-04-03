@@ -7,15 +7,15 @@ public static void SetAvailablePageLayouts(Web web,Web rootWeb,IEnumerable<Strin
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *rootWeb*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *pageLayouts*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 &emsp;&emsp;  
   
 ### Return Value

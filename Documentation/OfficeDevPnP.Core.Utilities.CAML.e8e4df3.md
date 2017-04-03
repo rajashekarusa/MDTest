@@ -7,7 +7,7 @@ public static string OrderBy(OrderByField[] fieldRefs)
 ```
 ### Parameters
 *fieldRefs*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Utilities.OrderByField[]] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Utilities.OrderByField[]  
 &emsp;&emsp;  
   
 ### Return Value

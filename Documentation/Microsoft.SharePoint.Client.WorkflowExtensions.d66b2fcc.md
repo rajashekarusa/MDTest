@@ -9,11 +9,11 @@ public static  GetWorkflowInstances(Web web,ListItem item)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *item*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ListItem] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public  Clone(Uri siteUri)
 ```
 ### Parameters
 *siteUri*  
-&emsp;&emsp;Type: [System.Uri] 
+&emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site url to be used for cloned ClientContext  
   
 ### Return Value

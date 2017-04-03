@@ -9,27 +9,27 @@ public static  ShareSite(Web web,String email,ExternalSharingSiteOption shareOpt
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context of the site to be shared.  
   
 *email*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Email of the person to whom site should be shared.  
   
 *shareOption*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingSiteOption] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ExternalSharingSiteOption  
 &emsp;&emsp;Sharing style - View, Edit, Owner  
   
 *(optional) sendEmail*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Should we send email for the given address.  
   
 *(optional) emailBody*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added on share email sent to receiver.  
   
 *(optional) useSimplifiedRoles*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
   
 ### Return Value

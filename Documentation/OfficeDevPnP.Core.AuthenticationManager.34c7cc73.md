@@ -9,19 +9,19 @@ public  GetNetworkCredentialAuthenticatedContext(String siteUrl,String user,Secu
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *user*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;User to be used to instantiate the ClientContext object  
   
 *password*  
-&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password (SecureString) of the user used to instantiate the ClientContext object  
   
 *domain*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Domain of the user used to instantiate the ClientContext object  
   
 ### Return Value

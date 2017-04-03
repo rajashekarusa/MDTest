@@ -7,15 +7,15 @@ public int FindIndex(Int32 startIndex,Int32 count,Predicate match)
 ```
 ### Parameters
 *startIndex*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 *count*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 *match*  
-&emsp;&emsp;Type: [System.Predicate] 
+&emsp;&emsp;Type: System.Predicate  
 &emsp;&emsp;  
   
 ### Return Value

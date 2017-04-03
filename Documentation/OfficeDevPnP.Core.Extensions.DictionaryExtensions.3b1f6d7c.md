@@ -7,11 +7,11 @@ public static void AddRange(IDictionary<TKey, TValue> dictionary,IDictionary<TKe
 ```
 ### Parameters
 *dictionary*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>] 
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey,TValue>  
 &emsp;&emsp;  
   
 *range*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>] 
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey,TValue>  
 &emsp;&emsp;  
   
 ### Return Value

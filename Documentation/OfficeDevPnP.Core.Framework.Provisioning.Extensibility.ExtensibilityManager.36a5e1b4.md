@@ -10,7 +10,7 @@ public void ExecuteExtensibilityCallOut(ClientContext ctx,ExtensibilityHandler h
 ```
 ### Parameters
 *ctx*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Authenticated ClientContext that is passed to the custom provider.  
   
 *handler*  

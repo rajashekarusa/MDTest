@@ -7,7 +7,7 @@ public static  CreateField(Web web,FieldCreationInformation fieldCreationInforma
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *fieldCreationInformation*  
@@ -15,7 +15,7 @@ public static  CreateField(Web web,FieldCreationInformation fieldCreationInforma
 &emsp;&emsp;  
   
 *(optional) executeQuery*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 ### Return Value

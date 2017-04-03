@@ -9,11 +9,11 @@ public static boolean DoesFolderExists(Web web,String serverRelativeFolderUrl)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
   
 *serverRelativeFolderUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder to check  
   
 ### Return Value

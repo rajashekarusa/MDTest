@@ -7,35 +7,35 @@ public static  EnsureTermSet(TermGroup parentGroup,String termSetName,Guid termS
 ```
 ### Parameters
 *parentGroup*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 &emsp;&emsp;  
   
 *termSetName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) termSetId*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;  
   
 *(optional) lcid*  
-&emsp;&emsp;Type: [System.Nullable<System.Int32>] 
+&emsp;&emsp;Type: System.Nullable<System.Int32>  
 &emsp;&emsp;  
   
 *(optional) description*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) isOpen*  
-&emsp;&emsp;Type: [System.Nullable<System.Boolean>] 
+&emsp;&emsp;Type: System.Nullable<System.Boolean>  
 &emsp;&emsp;  
   
 *(optional) termSetContact*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) termSetOwner*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

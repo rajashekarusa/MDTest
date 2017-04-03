@@ -7,15 +7,15 @@ public static  GetListByTitle(Web web,String listTitle,Expression<Func<List, Obj
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *listTitle*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *expressions*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.List,System.Object>>[]] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.List,System.Object>>[]  
 &emsp;&emsp;  
   
 ### Return Value

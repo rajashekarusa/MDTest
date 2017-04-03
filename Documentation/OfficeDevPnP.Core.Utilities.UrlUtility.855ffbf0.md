@@ -9,11 +9,11 @@ public static string Combine(String path,String[] relativePaths)
 ```
 ### Parameters
 *path*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *relativePaths*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public  GetProfileSchema(String schemaName)
 ```
 ### Parameters
 *schemaName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

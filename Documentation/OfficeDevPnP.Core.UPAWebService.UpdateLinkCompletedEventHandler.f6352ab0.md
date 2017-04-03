@@ -7,19 +7,19 @@ public iasyncresult BeginInvoke(Object sender,AsyncCompletedEventArgs e,AsyncCal
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [System.ComponentModel.AsyncCompletedEventArgs] 
+&emsp;&emsp;Type: System.ComponentModel.AsyncCompletedEventArgs  
 &emsp;&emsp;  
   
 *callback*  
-&emsp;&emsp;Type: [System.AsyncCallback] 
+&emsp;&emsp;Type: System.AsyncCallback  
 &emsp;&emsp;  
   
 *object*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

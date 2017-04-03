@@ -9,7 +9,7 @@ public void DeleteProperty(String propertyKey)
 ```
 ### Parameters
 *propertyKey*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the property to delete  
   
 ### Return Value

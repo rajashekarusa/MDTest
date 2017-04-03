@@ -9,11 +9,11 @@ public static  GetPublishingPage(Web web,String fileLeafRef)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web.  
   
 *fileLeafRef*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The file leaf reference.  
   
 ### Return Value

@@ -9,7 +9,7 @@ public static boolean IsAppOnly(ClientRuntimeContext clientContext)
 ```
 ### Parameters
 *clientContext*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;The ClientContext to inspect  
   
 ### Return Value

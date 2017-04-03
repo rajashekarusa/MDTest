@@ -9,7 +9,7 @@ public static int GetHealthScore(String url)
 ```
 ### Parameters
 *url*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

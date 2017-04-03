@@ -9,35 +9,35 @@ public static collections.generic.list<officedevpnp.core.entities.unifiedgroupen
 ```
 ### Parameters
 *accessToken*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The OAuth 2.0 Access Token to use for invoking the Microsoft Graph  
   
 *(optional) displayName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The DisplayName of the Office 365 Group  
   
 *(optional) mailNickname*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The MailNickname of the Office 365 Group  
   
 *(optional) startIndex*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Not relevant anymore  
   
 *(optional) endIndex*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Not relevant anymore  
   
 *(optional) includeSite*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether to return details about the Modern SharePoint Site backing the group. Default is true.  
   
 *(optional) retryCount*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Number of times to retry the request in case of throttling  
   
 *(optional) delay*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
   
 ### Return Value

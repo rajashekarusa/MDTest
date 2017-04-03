@@ -9,7 +9,7 @@ public string GetAzureADACSEndPointPrefix(AzureEnvironment environment)
 ```
 ### Parameters
 *environment*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.AzureEnvironment  
 &emsp;&emsp;Environment to get the login information for  
   
 ### Return Value

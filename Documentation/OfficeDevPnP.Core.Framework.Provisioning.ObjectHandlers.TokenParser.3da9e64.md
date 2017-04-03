@@ -7,7 +7,7 @@ public collections.generic.list<system.tuple<system.string,system.string>> GetRe
 ```
 ### Parameters
 *tokenValue*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

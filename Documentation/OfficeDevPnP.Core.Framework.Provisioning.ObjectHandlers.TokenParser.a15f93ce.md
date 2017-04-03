@@ -7,7 +7,7 @@ public collections.generic.ienumerable<system.string> GetLeftOverTokens(String i
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

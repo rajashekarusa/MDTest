@@ -9,11 +9,11 @@ public void GetUserProfileByGuidAsync(Guid guid,Object userState)
 ```
 ### Parameters
 *guid*  
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

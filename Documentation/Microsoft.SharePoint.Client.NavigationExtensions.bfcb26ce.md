@@ -9,11 +9,11 @@ public static void DeleteAllNavigationNodes(Web web,NavigationType navigationTyp
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *navigationType*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.NavigationType] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Enums.NavigationType  
 &emsp;&emsp;The type of navigation to support  
   
 ### Return Value

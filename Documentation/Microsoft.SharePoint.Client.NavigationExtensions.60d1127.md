@@ -9,11 +9,11 @@ public static boolean IsManagedNavigationEnabled(Web web,ManagedNavigationKind n
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target web.  
   
 *navigationKind*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ManagedNavigationKind] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ManagedNavigationKind  
 &emsp;&emsp;The kind of navigation (Current or Global).  
   
 ### Return Value

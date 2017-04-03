@@ -9,11 +9,11 @@ public static string GetSharingCapabilitiesTenant(Web web,Uri siteUrl)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
   
 *siteUrl*  
-&emsp;&emsp;Type: [System.Uri] 
+&emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site to get the sharing capabilities from  
   
 ### Return Value

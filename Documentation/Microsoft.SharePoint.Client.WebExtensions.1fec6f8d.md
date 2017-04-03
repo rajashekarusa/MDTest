@@ -9,7 +9,7 @@ public static void DisableRequestAccess(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to disable request access.  
   
 ### Return Value

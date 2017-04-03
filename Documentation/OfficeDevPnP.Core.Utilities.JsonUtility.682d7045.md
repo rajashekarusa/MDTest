@@ -9,7 +9,7 @@ public static  Deserialize(String json)
 ```
 ### Parameters
 *json*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;json string  
   
 ### Return Value

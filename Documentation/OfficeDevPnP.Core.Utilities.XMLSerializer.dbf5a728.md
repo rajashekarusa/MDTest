@@ -9,7 +9,7 @@ public static io.stream SerializeToStream(T objectToSerialize)
 ```
 ### Parameters
 *objectToSerialize*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 ### Return Value

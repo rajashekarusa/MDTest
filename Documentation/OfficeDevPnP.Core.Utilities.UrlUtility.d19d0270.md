@@ -7,7 +7,7 @@ public static boolean IsIisVirtualDirectory(String url)
 ```
 ### Parameters
 *url*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public void UpdateLinkAsync(String accountName,QuickLinkData data,Object userSta
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *data*  
@@ -17,7 +17,7 @@ public void UpdateLinkAsync(String accountName,QuickLinkData data,Object userSta
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public static collections.generic.ilist<microsoft.sharepoint.client.publishing.i
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
   
 ### Return Value

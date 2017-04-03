@@ -9,7 +9,7 @@ public static collections.generic.ilist<officedevpnp.core.entities.siteentity> G
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public void UpdateLink(String accountName,QuickLinkData data)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *data*  

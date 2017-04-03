@@ -7,11 +7,11 @@ public void AddFile(String fileName,Byte[] value)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *value*  
-&emsp;&emsp;Type: [System.Byte[]] 
+&emsp;&emsp;Type: System.Byte[]  
 &emsp;&emsp;  
   
 ### Return Value

@@ -7,7 +7,7 @@ public void remove_PropertyChanged(PropertyChangedEventHandler value)
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [System.ComponentModel.PropertyChangedEventHandler] 
+&emsp;&emsp;Type: System.ComponentModel.PropertyChangedEventHandler  
 &emsp;&emsp;  
   
 ### Return Value

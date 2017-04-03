@@ -9,11 +9,11 @@ public static void ValidateNotNullOrEmpty(T input,String variableName)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;The objec tto check  
   
 *variableName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the variable name to report in the error  
   
 ### Return Value

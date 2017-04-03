@@ -7,11 +7,11 @@ public static collections.generic.ienumerable<microsoft.sharepoint.client.usercu
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;  
   
 *expressions*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.UserCustomAction,System.Object>>[]] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.UserCustomAction,System.Object>>[]  
 &emsp;&emsp;  
   
 ### Return Value

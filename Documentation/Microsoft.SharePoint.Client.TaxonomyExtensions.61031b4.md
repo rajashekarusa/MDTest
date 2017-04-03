@@ -9,7 +9,7 @@ public static  CreateTaxonomyField(List list,TaxonomyFieldCreationInformation fi
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
   
 *fieldCreationInformation*  

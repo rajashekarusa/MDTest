@@ -9,15 +9,15 @@ public static  GetWebTemplates(Tenant tenant,UInt32 lcid,Int32 compatibilityLeve
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
   
 *lcid*  
-&emsp;&emsp;Type: [System.UInt32] 
+&emsp;&emsp;Type: System.UInt32  
 &emsp;&emsp;  
   
 *compatibilityLevel*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;14 for SharePoint 2010, 15 for SharePoint 2013/SharePoint Online  
   
 ### Return Value

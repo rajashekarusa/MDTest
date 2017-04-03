@@ -7,39 +7,39 @@ public static void AddPublishingPage(Web web,String pageName,String pageTemplate
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *pageName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *pageTemplateName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) title*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *(optional) publish*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 *(optional) folder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;  
   
 *(optional) startDate*  
-&emsp;&emsp;Type: [System.Nullable<System.DateTime>] 
+&emsp;&emsp;Type: System.Nullable<System.DateTime>  
 &emsp;&emsp;  
   
 *(optional) endDate*  
-&emsp;&emsp;Type: [System.Nullable<System.DateTime>] 
+&emsp;&emsp;Type: System.Nullable<System.DateTime>  
 &emsp;&emsp;  
   
 *(optional) schedule*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 ### Return Value

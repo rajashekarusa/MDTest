@@ -11,7 +11,7 @@ public void Import(ClientSideComponent component,Func<String, String> clientSide
 &emsp;&emsp;  
   
 *(optional) clientSideWebPartPropertiesUpdater*  
-&emsp;&emsp;Type: [System.Func<System.String,System.String>] 
+&emsp;&emsp;Type: System.Func<System.String,System.String>  
 &emsp;&emsp;  
   
 ### Return Value

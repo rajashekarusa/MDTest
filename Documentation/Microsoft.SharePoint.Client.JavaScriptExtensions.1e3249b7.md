@@ -7,19 +7,19 @@ public static boolean AddJsLink(Site site,String key,IEnumerable<String> scriptL
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;  
   
 *key*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *scriptLinks*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 &emsp;&emsp;  
   
 *(optional) sequence*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 ### Return Value

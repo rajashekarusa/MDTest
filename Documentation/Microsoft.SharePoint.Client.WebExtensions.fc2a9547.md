@@ -9,7 +9,7 @@ public static collections.generic.ienumerable<system.string> GetIndexedPropertyB
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The site to process  
   
 ### Return Value

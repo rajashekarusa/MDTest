@@ -9,7 +9,7 @@ public static void Delete(WorkflowDefinition definition)
 ```
 ### Parameters
 *definition*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
 &emsp;&emsp;  
   
 ### Return Value

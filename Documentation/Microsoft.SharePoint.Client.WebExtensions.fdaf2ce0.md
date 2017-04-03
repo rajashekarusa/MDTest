@@ -9,15 +9,15 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> Si
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *keywordQueryValue*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Keyword query  
   
 *(optional) trimDuplicates*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Indicates if dublicates should be trimmed or not  
   
 ### Return Value

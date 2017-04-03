@@ -9,11 +9,11 @@ public static  CreateContentTypeFromXMLString(Web web,String xmlStructure)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
   
 *xmlStructure*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;XML structure in string format  
   
 ### Return Value

@@ -9,11 +9,11 @@ public static boolean ApplySitePolicy(Web web,String sitePolicy)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
   
 *sitePolicy*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Policy to apply  
   
 ### Return Value

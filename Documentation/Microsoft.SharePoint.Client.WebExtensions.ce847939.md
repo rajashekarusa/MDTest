@@ -9,11 +9,11 @@ public static boolean RemoveAppInstanceByTitle(Web web,String appTitle)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to remove the app instance from  
   
 *appTitle*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the app instance to remove  
   
 ### Return Value

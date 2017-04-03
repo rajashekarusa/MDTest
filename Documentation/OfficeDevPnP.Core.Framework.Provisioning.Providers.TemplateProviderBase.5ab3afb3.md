@@ -7,11 +7,11 @@ public  GetTemplate(String uri,ITemplateFormatter formatter)
 ```
 ### Parameters
 *uri*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 &emsp;&emsp;  
   
 ### Return Value

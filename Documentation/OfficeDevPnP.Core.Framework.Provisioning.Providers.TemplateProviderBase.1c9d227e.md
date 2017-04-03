@@ -11,7 +11,7 @@ public void Save(ProvisioningTemplate template,ITemplateProviderExtension[] exte
 &emsp;&emsp;  
   
 *extensions*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 &emsp;&emsp;  
   
 ### Return Value

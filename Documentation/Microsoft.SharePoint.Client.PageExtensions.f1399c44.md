@@ -9,31 +9,31 @@ public static string AddNavigationFriendlyUrl(PublishingPage page,Web web,String
 ```
 ### Parameters
 *page*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Publishing.PublishingPage] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Publishing.PublishingPage  
 &emsp;&emsp;The target page to add to managed navigation.  
   
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target web.  
   
 *navigationTitle*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The title for the navigation item.  
   
 *friendlyUrlSegment*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The user-friendly text to use as the URL segment.  
   
 *editableParent*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Publishing.Navigation.NavigationTermSetItem] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Publishing.Navigation.NavigationTermSetItem  
 &emsp;&emsp;The parent NavigationTermSetItem object below which this new friendly URL should be created.  
   
 *(optional) showInGlobalNavigation*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether the navigation item has to be shown in the Global Navigation, optional and default to true.  
   
 *(optional) showInCurrentNavigation*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether the navigation item has to be shown in the Current Navigation, optional and default to true.  
   
 ### Return Value

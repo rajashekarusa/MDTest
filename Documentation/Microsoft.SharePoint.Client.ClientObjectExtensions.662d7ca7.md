@@ -7,11 +7,11 @@ public static void EnsureProperties(T clientObject,Expression<Func<T, Object>>[]
 ```
 ### Parameters
 *clientObject*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 *propertySelector*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<T,System.Object>>[]] 
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T,System.Object>>[]  
 &emsp;&emsp;  
   
 ### Return Value

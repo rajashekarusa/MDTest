@@ -9,7 +9,7 @@ public static collections.generic.ienumerable<officedevpnp.core.entities.variati
 ```
 ### Parameters
 *context*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
   
 ### Return Value

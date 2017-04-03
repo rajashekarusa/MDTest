@@ -7,7 +7,7 @@ public collections.generic.list<officedevpnp.core.framework.provisioning.model.p
 ```
 ### Parameters
 *formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 &emsp;&emsp;  
   
 ### Return Value

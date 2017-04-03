@@ -9,7 +9,7 @@ public static collections.generic.list<officedevpnp.core.entities.yammergroup> G
 ```
 ### Parameters
 *accessToken*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Access token to the Yammer network  
   
 ### Return Value

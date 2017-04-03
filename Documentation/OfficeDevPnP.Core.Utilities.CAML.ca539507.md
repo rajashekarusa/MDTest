@@ -9,15 +9,15 @@ public static string ViewQuery(String whereClause,String orderByClause,Int32 row
 ```
 ### Parameters
 *(optional) whereClause*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;<Where> node.  
   
 *(optional) orderByClause*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;<OrderBy> node.  
   
 *(optional) rowLimit*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;<RowLimit> node.  
   
 ### Return Value

@@ -9,11 +9,11 @@ public static boolean DeepEquals(IEnumerable source,IEnumerable target)
 ```
 ### Parameters
 *source*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Source enumeration  
   
 *target*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Target enumeration  
   
 ### Return Value

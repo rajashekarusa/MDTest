@@ -7,7 +7,7 @@ public static  UnpackTemplate(Byte[] packageBytes)
 ```
 ### Parameters
 *packageBytes*  
-&emsp;&emsp;Type: [System.Byte[]] 
+&emsp;&emsp;Type: System.Byte[]  
 &emsp;&emsp;  
   
 ### Return Value

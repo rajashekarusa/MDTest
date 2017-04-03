@@ -10,7 +10,7 @@ public static boolean AddCustomAction(Site site,CustomActionEntity customAction)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to be processed  
   
 *customAction*  

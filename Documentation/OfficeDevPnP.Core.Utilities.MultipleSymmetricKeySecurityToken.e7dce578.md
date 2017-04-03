@@ -9,7 +9,7 @@ public boolean MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentif
 ```
 ### Parameters
 *keyIdentifierClause*  
-&emsp;&emsp;Type: [System.IdentityModel.Tokens.SecurityKeyIdentifierClause] 
+&emsp;&emsp;Type: System.IdentityModel.Tokens.SecurityKeyIdentifierClause  
 &emsp;&emsp;A SecurityKeyIdentifierClause to compare to this instance  
   
 ### Return Value

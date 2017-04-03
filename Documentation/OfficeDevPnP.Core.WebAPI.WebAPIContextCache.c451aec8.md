@@ -9,7 +9,7 @@ public  Get(String cacheKey)
 ```
 ### Parameters
 *cacheKey*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key to retrieve an item from cache  
   
 ### Return Value

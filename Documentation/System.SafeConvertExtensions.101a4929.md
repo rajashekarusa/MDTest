@@ -7,7 +7,7 @@ public static  ToEnum(String name)
 ```
 ### Parameters
 *name*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

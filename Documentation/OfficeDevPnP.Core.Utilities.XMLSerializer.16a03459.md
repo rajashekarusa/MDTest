@@ -9,11 +9,11 @@ public static io.stream SerializeToStream(T objectToSerialize,XmlSerializerNames
 ```
 ### Parameters
 *objectToSerialize*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 *ns*  
-&emsp;&emsp;Type: [System.Xml.Serialization.XmlSerializerNamespaces] 
+&emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
 &emsp;&emsp;  
   
 ### Return Value

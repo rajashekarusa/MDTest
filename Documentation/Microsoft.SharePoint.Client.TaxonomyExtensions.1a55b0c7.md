@@ -9,19 +9,19 @@ public static void WireUpTaxonomyField(List list,Field field,TermSet termSet,Boo
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
   
 *field*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Field] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to be wired up  
   
 *termSet*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermSet] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermSet  
 &emsp;&emsp;Taxonomy TermSet  
   
 *(optional) multiValue*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Term set name  
   
 ### Return Value

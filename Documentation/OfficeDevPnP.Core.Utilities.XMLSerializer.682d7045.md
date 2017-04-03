@@ -9,7 +9,7 @@ public static  Deserialize(String xmlString)
 ```
 ### Parameters
 *xmlString*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string in XML format that representing the serialized object  
   
 ### Return Value

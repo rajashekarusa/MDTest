@@ -9,11 +9,11 @@ public static string GetRelativeUrlForMasterByName(Web web,String masterPageName
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *masterPageName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the masterpage, e.g. 'default' or 'seattle'  
   
 ### Return Value

@@ -7,15 +7,15 @@ public static void SetFileProperties(File file,IDictionary<String, String> prope
 ```
 ### Parameters
 *file*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.File] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
 &emsp;&emsp;  
   
 *properties*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<System.String,System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String,System.String>  
 &emsp;&emsp;  
   
 *(optional) checkoutIfRequired*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 ### Return Value

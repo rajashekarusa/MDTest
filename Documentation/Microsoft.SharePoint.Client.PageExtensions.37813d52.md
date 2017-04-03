@@ -9,11 +9,11 @@ public static collections.generic.ienumerable<microsoft.sharepoint.client.webpar
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *serverRelativePageUrl*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative url of the page containing the webparts  
   
 ### Return Value

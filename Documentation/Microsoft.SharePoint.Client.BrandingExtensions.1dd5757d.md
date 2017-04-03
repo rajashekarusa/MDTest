@@ -10,15 +10,15 @@ public static  UploadThemeFile(Web web,String localFilePath,String themeFolderVe
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web site to upload to  
   
 *localFilePath*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Location of the file to be uploaded  
   
 *(optional) themeFolderVersion*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Leaf folder name to upload to; default is "15"  
   
 ### Return Value

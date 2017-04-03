@@ -11,7 +11,7 @@ public void Save(ProvisioningTemplate template,ITemplateFormatter formatter)
 &emsp;&emsp;  
   
 *formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 &emsp;&emsp;  
   
 ### Return Value

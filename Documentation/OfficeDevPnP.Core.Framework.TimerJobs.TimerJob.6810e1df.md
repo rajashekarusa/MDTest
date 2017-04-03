@@ -9,7 +9,7 @@ public collections.generic.ienumerable<system.string> GetAllSubSites(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to find all sub site for  
   
 ### Return Value

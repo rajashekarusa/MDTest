@@ -9,7 +9,7 @@ public void GetPropertyChoiceListAsync(String propertyName)
 ```
 ### Parameters
 *propertyName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

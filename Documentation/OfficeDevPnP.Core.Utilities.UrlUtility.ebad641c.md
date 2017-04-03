@@ -7,11 +7,11 @@ public static string ReplaceInvalidUrlChars(String content,String replacer)
 ```
 ### Parameters
 *content*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *replacer*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

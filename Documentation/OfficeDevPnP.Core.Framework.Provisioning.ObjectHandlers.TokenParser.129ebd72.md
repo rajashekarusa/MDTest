@@ -7,11 +7,11 @@ public string ParseString(String input,String[] tokensToSkip)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *tokensToSkip*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;  
   
 ### Return Value

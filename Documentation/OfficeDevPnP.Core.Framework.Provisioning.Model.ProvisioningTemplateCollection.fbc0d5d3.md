@@ -7,7 +7,7 @@ public void AddRange(IEnumerable collection)
 ```
 ### Parameters
 *collection*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;  
   
 ### Return Value

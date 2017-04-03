@@ -7,7 +7,7 @@ public static boolean ContainsInvalidUrlChars(String content)
 ```
 ### Parameters
 *content*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

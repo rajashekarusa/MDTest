@@ -12,7 +12,7 @@ public static boolean IsNoScriptSite(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;site to verify  
   
 ### Return Value

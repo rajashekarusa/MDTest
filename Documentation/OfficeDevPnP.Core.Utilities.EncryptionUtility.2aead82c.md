@@ -9,11 +9,11 @@ public static string Decrypt(String stringToDecrypt,String thumbPrint)
 ```
 ### Parameters
 *stringToDecrypt*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to decrypt  
   
 *thumbPrint*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to use  
   
 ### Return Value

@@ -7,7 +7,7 @@ public int RemoveAll(Predicate match)
 ```
 ### Parameters
 *match*  
-&emsp;&emsp;Type: [System.Predicate] 
+&emsp;&emsp;Type: System.Predicate  
 &emsp;&emsp;  
   
 ### Return Value

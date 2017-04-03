@@ -9,19 +9,19 @@ public void UpdateColleaguePrivacyAsync(String accountName,String colleagueAccou
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *colleagueAccountName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *newPrivacy*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.Privacy  
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,7 +9,7 @@ public string GetFilenamePart(String fileName)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Path to the file to retrieve the filename from  
   
 ### Return Value

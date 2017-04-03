@@ -7,15 +7,15 @@ public static  Open(Stream stream,FileMode mode,FileAccess access)
 ```
 ### Parameters
 *stream*  
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;  
   
 *mode*  
-&emsp;&emsp;Type: [System.IO.FileMode] 
+&emsp;&emsp;Type: System.IO.FileMode  
 &emsp;&emsp;  
   
 *access*  
-&emsp;&emsp;Type: [System.IO.FileAccess] 
+&emsp;&emsp;Type: System.IO.FileAccess  
 &emsp;&emsp;  
   
 ### Return Value

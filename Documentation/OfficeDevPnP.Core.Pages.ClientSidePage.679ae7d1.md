@@ -7,7 +7,7 @@ public void Save(String pageName)
 ```
 ### Parameters
 *(optional) pageName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 ### Return Value

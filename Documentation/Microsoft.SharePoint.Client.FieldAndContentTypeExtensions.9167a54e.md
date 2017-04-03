@@ -7,7 +7,7 @@ public static  CreateField(List list,FieldCreationInformation fieldCreationInfor
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;  
   
 *fieldCreationInformation*  
@@ -15,7 +15,7 @@ public static  CreateField(List list,FieldCreationInformation fieldCreationInfor
 &emsp;&emsp;  
   
 *(optional) executeQuery*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;  
   
 ### Return Value

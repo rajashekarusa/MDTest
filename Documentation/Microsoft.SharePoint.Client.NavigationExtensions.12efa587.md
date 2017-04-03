@@ -9,11 +9,11 @@ public static  GetEditableNavigationTermSet(Web web,ManagedNavigationKind naviga
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target web.  
   
 *navigationKind*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ManagedNavigationKind] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ManagedNavigationKind  
 &emsp;&emsp;Declares whether to look for Current or Global Navigation  
   
 ### Return Value

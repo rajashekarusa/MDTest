@@ -9,7 +9,7 @@ public static collections.generic.list<officedevpnp.core.entities.externaluseren
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
   
 ### Return Value

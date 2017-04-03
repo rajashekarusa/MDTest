@@ -9,11 +9,11 @@ public static string Serialize(T objectToSerialize,XmlSerializerNamespaces ns)
 ```
 ### Parameters
 *objectToSerialize*  
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 &emsp;&emsp;  
   
 *ns*  
-&emsp;&emsp;Type: [System.Xml.Serialization.XmlSerializerNamespaces] 
+&emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
 &emsp;&emsp;  
   
 ### Return Value

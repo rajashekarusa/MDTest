@@ -9,11 +9,11 @@ public void GetUserProfileByIndexAsync(Int32 index,Object userState)
 ```
 ### Parameters
 *index*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 *userState*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 ### Return Value

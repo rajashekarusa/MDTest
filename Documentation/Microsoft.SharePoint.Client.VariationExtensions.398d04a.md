@@ -9,7 +9,7 @@ public static void ProvisionSourceVariationLabel(ClientContext context,Variation
 ```
 ### Parameters
 *context*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
   
 *sourceVariationLabel*  

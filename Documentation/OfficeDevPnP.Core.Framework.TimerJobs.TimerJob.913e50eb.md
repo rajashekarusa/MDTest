@@ -10,11 +10,11 @@ public void UseAppOnlyAuthentication(String clientId,String clientSecret)
 ```
 ### Parameters
 *clientId*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Client ID of the app  
   
 *clientSecret*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Client Secret of the app  
   
 ### Return Value

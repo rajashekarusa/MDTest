@@ -7,7 +7,7 @@ public void Invoke(Object sender,GetProfileSchemaNameByAccountNameCompletedEvent
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 &emsp;&emsp;  
   
 *e*  

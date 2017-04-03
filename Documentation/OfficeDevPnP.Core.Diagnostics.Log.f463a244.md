@@ -7,19 +7,19 @@ public static void Warning(String source,Exception ex,String message,Object[] ar
 ```
 ### Parameters
 *source*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *ex*  
-&emsp;&emsp;Type: [System.Exception] 
+&emsp;&emsp;Type: System.Exception  
 &emsp;&emsp;  
   
 *message*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *args*  
-&emsp;&emsp;Type: [System.Object[]] 
+&emsp;&emsp;Type: System.Object[]  
 &emsp;&emsp;  
   
 ### Return Value

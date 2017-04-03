@@ -9,19 +9,19 @@ public static void RemovePermissionLevelFromGroup(SecurableObject securableObjec
 ```
 ### Parameters
 *securableObject*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.SecurableObject] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.SecurableObject  
 &emsp;&emsp;Web/List/Item to operate against  
   
 *groupName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;name of the group  
   
 *permissionLevel*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.RoleType  
 &emsp;&emsp;Permission level to remove. If null all permission levels are removed  
   
 *(optional) removeAllPermissionLevels*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true to remove all permission level.  
   
 ### Return Value

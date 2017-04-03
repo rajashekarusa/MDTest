@@ -9,19 +9,19 @@ public static void AddFieldByName(ContentType contentType,String fieldName,Boole
 ```
 ### Parameters
 *contentType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ContentType] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content Type to add the field to  
   
 *fieldName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;The title or internal name of the field  
   
 *(optional) required*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is required  
   
 *(optional) hidden*  
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is hidden  
   
 ### Return Value

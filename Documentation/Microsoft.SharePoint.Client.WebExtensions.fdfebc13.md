@@ -9,15 +9,15 @@ public static nullable<system.datetime> GetPropertyBagValueDateTime(Web web,Stri
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to read the property bag value from  
   
 *key*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to return  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.DateTime] 
+&emsp;&emsp;Type: System.DateTime  
 &emsp;&emsp;  
   
 ### Return Value

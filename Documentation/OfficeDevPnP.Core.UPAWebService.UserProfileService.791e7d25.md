@@ -9,7 +9,7 @@ public void GetUserProfileByIndexAsync(Int32 index)
 ```
 ### Parameters
 *index*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 ### Return Value

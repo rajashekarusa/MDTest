@@ -9,15 +9,15 @@ public static void ProvisionElementXml(Web web,String baseFolder,XElement elemen
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to provision the elements to  
   
 *baseFolder*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Base local folder to find any referenced items, e.g. files  
   
 *elementsXml*  
-&emsp;&emsp;Type: [System.Xml.Linq.XElement] 
+&emsp;&emsp;Type: System.Xml.Linq.XElement  
 &emsp;&emsp;Elements (CAML) XML element that defines the items to provision; currently only supports modules (files)  
   
 ### Return Value

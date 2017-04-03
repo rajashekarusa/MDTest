@@ -11,7 +11,7 @@ public static string GetWebRelativeUrl(List list)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to export the URL of.  
   
 ### Return Value

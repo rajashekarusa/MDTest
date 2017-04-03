@@ -9,7 +9,7 @@ public static void ResumeWorkflow(WorkflowInstance instance)
 ```
 ### Parameters
 *instance*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
 &emsp;&emsp;  
   
 ### Return Value

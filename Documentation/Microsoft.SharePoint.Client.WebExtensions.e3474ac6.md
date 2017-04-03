@@ -9,7 +9,7 @@ public static collections.generic.ienumerable<system.string> GetRequestAccessEma
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to get the request access e-mail addresses from.  
   
 ### Return Value

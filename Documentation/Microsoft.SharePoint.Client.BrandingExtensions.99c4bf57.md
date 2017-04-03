@@ -7,11 +7,11 @@ public static void SetAvailableWebTemplates(Web web,List<WebTemplateEntity> avai
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *availableTemplates*  
-&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.WebTemplateEntity>] 
+&emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.WebTemplateEntity>  
 &emsp;&emsp;  
   
 ### Return Value

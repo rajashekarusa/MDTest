@@ -9,15 +9,15 @@ public void AddSuggestionsAsync(SuggestionType type,String[] suggestions,Double[
 ```
 ### Parameters
 *type*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.SuggestionType] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.SuggestionType  
 &emsp;&emsp;  
   
 *suggestions*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;  
   
 *weights*  
-&emsp;&emsp;Type: [System.Double[]] 
+&emsp;&emsp;Type: System.Double[]  
 &emsp;&emsp;  
   
 ### Return Value

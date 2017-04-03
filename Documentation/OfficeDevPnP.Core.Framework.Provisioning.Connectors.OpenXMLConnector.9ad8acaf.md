@@ -9,7 +9,7 @@ public void DeleteFile(String fileName)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to delete  
   
 ### Return Value

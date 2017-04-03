@@ -9,11 +9,11 @@ public static collections.generic.ienumerable<microsoft.sharepoint.client.field>
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The target list containing the fields.  
   
 *fieldInternalNames*  
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;List of field names to retreieve.  
   
 ### Return Value

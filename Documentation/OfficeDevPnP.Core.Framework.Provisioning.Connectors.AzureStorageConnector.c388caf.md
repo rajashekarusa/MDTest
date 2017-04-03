@@ -9,7 +9,7 @@ public collections.generic.list<system.string> GetFolders(String container)
 ```
 ### Parameters
 *container*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the folders from  
   
 ### Return Value

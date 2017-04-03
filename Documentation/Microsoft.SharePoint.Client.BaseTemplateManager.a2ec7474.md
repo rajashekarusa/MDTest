@@ -7,15 +7,15 @@ public static  GetBaseTemplate(Web web,String webTemplate,Int16 configuration)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;  
   
 *webTemplate*  
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 &emsp;&emsp;  
   
 *configuration*  
-&emsp;&emsp;Type: [System.Int16] 
+&emsp;&emsp;Type: System.Int16  
 &emsp;&emsp;  
   
 ### Return Value

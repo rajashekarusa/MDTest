@@ -15,7 +15,7 @@ public void AddControl(CanvasControl control,CanvasSection section,Int32 order)
 &emsp;&emsp;  
   
 *order*  
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;  
   
 ### Return Value
