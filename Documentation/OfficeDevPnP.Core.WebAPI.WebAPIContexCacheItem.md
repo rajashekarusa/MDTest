@@ -5,6 +5,7 @@ This class holds the information that's being cached as part of the WebAPI servi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class WebAPIContexCacheItem

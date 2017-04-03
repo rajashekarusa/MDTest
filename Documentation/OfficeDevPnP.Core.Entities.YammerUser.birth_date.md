@@ -8,7 +8,7 @@ public string birth_date { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [YammerUser](YammerUser.md) 

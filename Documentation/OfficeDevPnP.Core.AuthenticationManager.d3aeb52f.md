@@ -9,23 +9,23 @@ public  GetNetworkCredentialAuthenticatedContext(String siteUrl,String user,Stri
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *user*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;User to be used to instantiate the ClientContext object  
   
 *password*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Password of the user used to instantiate the ClientContext object  
   
 *domain*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Domain of the user used to instantiate the ClientContext object  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+Type: [Microsoft.SharePoint.Client.ClientContext]  
 ClientContext to be used by CSOM code
 
 ## See also

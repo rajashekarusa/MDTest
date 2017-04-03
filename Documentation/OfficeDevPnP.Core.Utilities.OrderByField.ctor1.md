@@ -7,7 +7,7 @@ public OrderByField(String name)
 ```
 ### Parameters
 #### name
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

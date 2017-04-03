@@ -10,8 +10,8 @@ public static  GetProvisioningTemplate(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to get template from  
   
 ### Return Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  

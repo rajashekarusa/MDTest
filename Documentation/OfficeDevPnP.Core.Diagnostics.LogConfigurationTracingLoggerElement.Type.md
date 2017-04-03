@@ -8,7 +8,7 @@ public string Type { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [LogConfigurationTracingLoggerElement](LogConfigurationTracingLoggerElement.md) 

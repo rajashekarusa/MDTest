@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour W
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour] 
 
 ## Remarks 
 

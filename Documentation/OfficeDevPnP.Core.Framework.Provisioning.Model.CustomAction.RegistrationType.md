@@ -8,7 +8,7 @@ public Microsoft.SharePoint.Client.UserCustomActionRegistrationType Registration
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.UserCustomActionRegistrationType](Microsoft.SharePoint.Client.UserCustomActionRegistrationType.md) 
+Type: [Microsoft.SharePoint.Client.UserCustomActionRegistrationType] 
 
 ## See also
 - [CustomAction](CustomAction.md) 

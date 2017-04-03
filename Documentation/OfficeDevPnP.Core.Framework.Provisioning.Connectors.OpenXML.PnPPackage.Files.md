@@ -5,11 +5,11 @@ The Files of the package
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.idictionary`2<system.string,officedevpnp.core.framework.provisioning.connectors.openxml.pnppackagefileitem> Files { get; }
+public collections.generic.idictionary<system.string,officedevpnp.core.framework.provisioning.connectors.openxml.pnppackagefileitem> Files { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IDictionary`2<System.String,OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem>](System.Collections.Generic.IDictionary`2<System.String,OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem>.md) 
+Type: [System.Collections.Generic.IDictionary<System.String,OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem>] 
 
 ## See also
 - [PnPPackage](PnPPackage.md) 

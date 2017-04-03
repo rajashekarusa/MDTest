@@ -7,7 +7,7 @@ public type Type { get; }
 ```
 
 ### Property Value
-Type: [System.Type](System.Type.md) 
+Type: [System.Type] 
 
 ## See also
 - [ClientSideText](ClientSideText.md) 

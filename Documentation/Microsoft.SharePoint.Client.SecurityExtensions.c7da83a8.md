@@ -9,15 +9,15 @@ public static  AddReaderAccess(Web web,BuiltInIdentity user)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *user*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.BuiltInIdentity](OfficeDevPnP.Core.Enums.BuiltInIdentity.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.BuiltInIdentity] 
+&emsp;&emsp;Built in user to add to the visitors group  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.User](Microsoft.SharePoint.Client.User.md)  
+Type: [Microsoft.SharePoint.Client.User]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -9,23 +9,23 @@ public static void SetTaxonomyFieldDefaultValue(Field field,TaxonomyItem taxonom
 ```
 ### Parameters
 *field*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Field] 
+&emsp;&emsp;Field to be wired up  
   
 *taxonomyItem*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem](Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem] 
+&emsp;&emsp;Taxonomy TermSet or Term  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;default value for the field  
   
 *(optional) pushChangesToLists*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;push changes to lists  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

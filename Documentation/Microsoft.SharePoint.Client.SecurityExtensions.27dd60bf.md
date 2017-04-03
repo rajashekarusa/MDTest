@@ -9,23 +9,23 @@ public static void AddPermissionLevelToPrincipal(SecurableObject securableObject
 ```
 ### Parameters
 *securableObject*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.SecurableObject](Microsoft.SharePoint.Client.SecurableObject.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.SecurableObject] 
+&emsp;&emsp;Web/List/Item to operate against  
   
 *principal*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Principal](Microsoft.SharePoint.Client.Principal.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Principal] 
+&emsp;&emsp;Principal to add permission to  
   
 *permissionLevel*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType](Microsoft.SharePoint.Client.RoleType.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType] 
+&emsp;&emsp;Permission level to add  
   
 *(optional) removeExistingPermissionLevels*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Set to true to remove all other permission levels for that group  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

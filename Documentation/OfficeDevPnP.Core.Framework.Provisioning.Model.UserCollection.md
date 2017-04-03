@@ -5,7 +5,7 @@ Collection of User objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.User](OfficeDevPnP.Core.Framework.Provisioning.Model.User.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.User](OfficeDevPnP.Core.Framework.Provisioning.Model.User.md)
 ## Syntax
 ```C#
 public class UserCollection: ProvisioningTemplateCollection<User>

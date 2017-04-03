@@ -10,7 +10,7 @@ public uint16 ID { set; }
 ```
 
 ### Property Value
-Type: [System.UInt16](System.UInt16.md) 
+Type: [System.UInt16] 
 
 ## Remarks 
 

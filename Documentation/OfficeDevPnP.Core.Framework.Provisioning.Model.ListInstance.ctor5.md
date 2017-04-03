@@ -7,31 +7,31 @@ public ListInstance(IEnumerable<ContentTypeBinding> contentTypeBindings, IEnumer
 ```
 ### Parameters
 #### contentTypeBindings
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding>] 
 #### 
 #### views
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.View>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.View>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.View>] 
 #### 
 #### fields
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Field>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Field>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.Field>] 
 #### 
 #### fieldRefs
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>] 
 #### 
 #### dataRows
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>] 
 #### 
 #### fieldDefaults
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 #### 
 #### security
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
 #### 
 #### folders
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Folder>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Folder>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.Folder>] 
 #### 
 #### userCustomActions
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

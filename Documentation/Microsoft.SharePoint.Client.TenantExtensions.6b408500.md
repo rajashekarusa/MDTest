@@ -9,15 +9,15 @@ public static guid GetSiteGuidByUrl(Tenant tenant,String siteFullUrl)
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
   
 *siteFullUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;A URL that specifies a site collection to get ID.  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md)  
+Type: [System.Guid]  
 The Guid of a site collection
 
 ## See also

@@ -9,15 +9,15 @@ public static  CreateContentTypeFromXMLString(Web web,String xmlStructure)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to operate against  
   
 *xmlStructure*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;XML structure in string format  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType](Microsoft.SharePoint.Client.ContentType.md)  
+Type: [Microsoft.SharePoint.Client.ContentType]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

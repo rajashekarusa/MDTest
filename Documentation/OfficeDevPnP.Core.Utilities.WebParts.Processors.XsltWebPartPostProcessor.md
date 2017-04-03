@@ -6,6 +6,7 @@ Updates view for XsltListViewWebPart using schema definition provided
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class XsltWebPartPostProcessor

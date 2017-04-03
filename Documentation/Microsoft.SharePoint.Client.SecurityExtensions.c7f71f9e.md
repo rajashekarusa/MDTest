@@ -9,11 +9,11 @@ public static guid GetAuthenticationRealm(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md)  
+Type: [System.Guid]  
 
 
 ## See also

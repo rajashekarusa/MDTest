@@ -7,19 +7,19 @@ public static guid StartWorkflowInstance(ListItem item,Guid subscriptionId,IDict
 ```
 ### Parameters
 *item*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ListItem](Microsoft.SharePoint.Client.ListItem.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ListItem] 
 &emsp;&emsp;  
   
 *subscriptionId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 &emsp;&emsp;  
   
 *payload*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<System.String,System.Object>](System.Collections.Generic.IDictionary<System.String,System.Object>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<System.String,System.Object>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md)  
+Type: [System.Guid]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

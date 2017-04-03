@@ -9,15 +9,15 @@ public void SaveFileStream(String fileName,Stream stream)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the file to save  
   
 *stream*  
-&emsp;&emsp;Type: [System.IO.Stream](System.IO.Stream.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Stream containing the file contents  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

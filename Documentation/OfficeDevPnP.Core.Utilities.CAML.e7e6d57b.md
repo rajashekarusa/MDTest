@@ -9,23 +9,23 @@ public static string FieldValue(Guid fieldId,String fieldValueType,String value,
 ```
 ### Parameters
 *fieldId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 &emsp;&emsp;  
   
 *fieldValueType*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *value*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) additionalFieldRefParams*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 
 ## Examples

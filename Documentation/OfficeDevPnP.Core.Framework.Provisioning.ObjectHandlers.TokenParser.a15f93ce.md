@@ -3,15 +3,15 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ienumerable`1<system.string> GetLeftOverTokens(String input)
+public collections.generic.ienumerable<system.string> GetLeftOverTokens(String input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+Type: [System.Collections.Generic.IEnumerable<System.String>]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

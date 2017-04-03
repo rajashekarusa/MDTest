@@ -5,6 +5,7 @@ Extension methods to make working with IEnumerable<T> values easier.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class EnumerableExtensions

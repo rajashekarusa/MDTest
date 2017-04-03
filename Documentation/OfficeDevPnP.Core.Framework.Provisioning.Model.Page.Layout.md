@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.WikiPageLayout Layout { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.WikiPageLayout](OfficeDevPnP.Core.WikiPageLayout.md) 
+Type: [OfficeDevPnP.Core.WikiPageLayout] 
 
 ## See also
 - [Page](Page.md) 

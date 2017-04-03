@@ -9,11 +9,11 @@ public static  GetTaxonomySession(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomySession](Microsoft.SharePoint.Client.Taxonomy.TaxonomySession.md)  
+Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomySession]  
 
 
 ## See also

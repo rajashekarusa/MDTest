@@ -10,7 +10,7 @@ public double Version { set; }
 ```
 
 ### Property Value
-Type: [System.Double](System.Double.md) 
+Type: [System.Double] 
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

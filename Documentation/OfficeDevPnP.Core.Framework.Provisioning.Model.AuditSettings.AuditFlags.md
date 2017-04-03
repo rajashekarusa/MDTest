@@ -10,7 +10,7 @@ public Microsoft.SharePoint.Client.AuditMaskType AuditFlags { set; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.AuditMaskType](Microsoft.SharePoint.Client.AuditMaskType.md) 
+Type: [Microsoft.SharePoint.Client.AuditMaskType] 
 
 ## See also
 - [AuditSettings](AuditSettings.md) 

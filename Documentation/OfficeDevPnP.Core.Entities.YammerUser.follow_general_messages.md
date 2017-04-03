@@ -8,7 +8,7 @@ public boolean follow_general_messages { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [YammerUser](YammerUser.md) 

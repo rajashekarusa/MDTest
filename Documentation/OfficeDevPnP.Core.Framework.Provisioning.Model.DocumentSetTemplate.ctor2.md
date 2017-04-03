@@ -7,19 +7,19 @@ public DocumentSetTemplate(String welcomePage, IEnumerable<String> allowedConten
 ```
 ### Parameters
 #### welcomePage
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### (optional) allowedContentTypes
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
 #### 
 #### (optional) defaultDocuments
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument>] 
 #### 
 #### (optional) sharedFields
-Type: [System.Collections.Generic.IEnumerable`1<System.Guid>](System.Collections.Generic.IEnumerable`1<System.Guid>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.Guid>] 
 #### 
 #### (optional) welcomePageFields
-Type: [System.Collections.Generic.IEnumerable`1<System.Guid>](System.Collections.Generic.IEnumerable`1<System.Guid>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.Guid>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

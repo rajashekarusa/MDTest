@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary`2<system.string,system.object> Parameters { get; }
+public collections.generic.dictionary<system.string,system.object> Parameters { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.Object>](System.Collections.Generic.Dictionary`2<System.String,System.Object>.md) 
+Type: [System.Collections.Generic.Dictionary<System.String,System.Object>] 
 
 ## See also
 - [FileConnectorBase](FileConnectorBase.md) 

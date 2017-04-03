@@ -9,23 +9,23 @@ public static void RemovePermissionLevelFromPrincipal(SecurableObject securableO
 ```
 ### Parameters
 *securableObject*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.SecurableObject](Microsoft.SharePoint.Client.SecurableObject.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.SecurableObject] 
+&emsp;&emsp;Web/List/Item to operate against  
   
 *principal*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Principal](Microsoft.SharePoint.Client.Principal.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Principal] 
+&emsp;&emsp;Principal to remove permission from  
   
 *roleDefinitionName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the role definition to add, Full Control|Design|Contribute|Read|Approve|Manage Heirarchy|Restricted Read. Use the correct name of the language of the site you are using  
   
 *(optional) removeAllPermissionLevels*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Set to true to remove all permission level.  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

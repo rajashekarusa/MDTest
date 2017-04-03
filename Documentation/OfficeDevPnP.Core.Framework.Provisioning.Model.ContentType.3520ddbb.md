@@ -7,11 +7,11 @@ public boolean Equals(Object obj)
 ```
 ### Parameters
 *obj*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)

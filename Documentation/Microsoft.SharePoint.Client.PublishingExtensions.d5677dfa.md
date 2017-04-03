@@ -7,43 +7,43 @@ public static void AddPublishingPage(Web web,String pageName,String pageTemplate
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *pageName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *pageTemplateName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) title*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) publish*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 *(optional) folder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
 &emsp;&emsp;  
   
 *(optional) startDate*  
-&emsp;&emsp;Type: [System.Nullable<System.DateTime>](System.Nullable<System.DateTime>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.DateTime>] 
 &emsp;&emsp;  
   
 *(optional) endDate*  
-&emsp;&emsp;Type: [System.Nullable<System.DateTime>](System.Nullable<System.DateTime>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.DateTime>] 
 &emsp;&emsp;  
   
 *(optional) schedule*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

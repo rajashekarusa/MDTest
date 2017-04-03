@@ -9,23 +9,23 @@ public static boolean AddJsLink(Site site,String key,String scriptLinks,Int32 se
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Site to be processed  
   
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Identifier (key) for the custom action that will be created  
   
 *scriptLinks*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;semi colon delimited list of links to javascript files  
   
 *(optional) sequence*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 True if action was ok
 
 ## See also

@@ -11,15 +11,15 @@ public void SaveAs(ProvisioningTemplate template,String uri,ITemplateFormatter f
 &emsp;&emsp;  
   
 *uri*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

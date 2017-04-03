@@ -7,10 +7,10 @@ public ProvisioningProgressDelegate(Object object, IntPtr method)
 ```
 ### Parameters
 #### object
-Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 #### 
 #### method
-Type: [System.IntPtr](System.IntPtr.md) 
+&emsp;&emsp;Type: [System.IntPtr] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

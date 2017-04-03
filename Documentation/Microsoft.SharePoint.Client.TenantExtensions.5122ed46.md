@@ -7,63 +7,63 @@ public static guid CreateSiteCollection(Tenant tenant,String siteFullUrl,String 
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
 &emsp;&emsp;  
   
 *siteFullUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *title*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *siteOwnerLogin*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *template*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *storageMaximumLevel*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *storageWarningLevel*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *timeZoneId*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *userCodeMaximumLevel*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *userCodeWarningLevel*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *lcid*  
-&emsp;&emsp;Type: [System.UInt32](System.UInt32.md) 
+&emsp;&emsp;Type: [System.UInt32] 
 &emsp;&emsp;  
   
 *(optional) removeFromRecycleBin*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 *(optional) wait*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 *(optional) timeoutFunction*  
-&emsp;&emsp;Type: [System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>](System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>.md) 
+&emsp;&emsp;Type: [System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md)  
+Type: [System.Guid]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

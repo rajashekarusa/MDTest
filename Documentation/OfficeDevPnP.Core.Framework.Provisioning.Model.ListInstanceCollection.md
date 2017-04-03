@@ -5,7 +5,7 @@ Collection of ListInstance objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md)
 ## Syntax
 ```C#
 public class ListInstanceCollection: ProvisioningTemplateCollection<ListInstance>

@@ -9,19 +9,19 @@ public static void SetDefaultPageLayoutForSite(Web web,Web rootWeb,String pageLa
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *rootWeb*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *pageLayoutName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

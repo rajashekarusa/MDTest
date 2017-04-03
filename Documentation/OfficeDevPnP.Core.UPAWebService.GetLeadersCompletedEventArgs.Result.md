@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.Leader[] Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.Leader[]](OfficeDevPnP.Core.UPAWebService.Leader[].md) 
+Type: [OfficeDevPnP.Core.UPAWebService.Leader[]] 
 
 ## Remarks 
 

@@ -9,19 +9,21 @@ public static void ExportSearchSettings(ClientContext context,String exportFileP
 ```
 ### Parameters
 *context*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Context for SharePoint objects and operations  
   
 *exportFilePath*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Path where to export the search settings  
   
 *searchSettingsExportLevel*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Search.Administration.SearchObjectLevel](Microsoft.SharePoint.Client.Search.Administration.SearchObjectLevel.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Search.Administration.SearchObjectLevel] 
+&emsp;&emsp;Search settings export level
+            Reference: http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.client.search.administration.searchobjectlevel(v=office.15).aspx
+              
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

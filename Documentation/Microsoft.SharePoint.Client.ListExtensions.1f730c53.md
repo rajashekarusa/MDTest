@@ -9,19 +9,19 @@ public static void SetListPermission(List list,BuiltInIdentity user,RoleType rol
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;List on which permission to be set  
   
 *user*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.BuiltInIdentity](OfficeDevPnP.Core.Enums.BuiltInIdentity.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.BuiltInIdentity] 
+&emsp;&emsp;Built in user  
   
 *roleType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType](Microsoft.SharePoint.Client.RoleType.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType] 
+&emsp;&emsp;Role type  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

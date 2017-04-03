@@ -7,7 +7,7 @@ public string Rte { get; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [ClientSideText](ClientSideText.md) 

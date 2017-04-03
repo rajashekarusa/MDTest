@@ -9,7 +9,7 @@ public string CacheKey { get; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [SharePointContextToken](SharePointContextToken.md) 

@@ -10,15 +10,15 @@ public static  CreateFolder(Web web,String folderName)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to check for the named folder  
   
 *folderName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Folder name to retrieve or create  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md)  
+Type: [Microsoft.SharePoint.Client.Folder]  
 The newly created Folder, so that additional operations (such as setting properties) can be done.
 
 ## Remarks 

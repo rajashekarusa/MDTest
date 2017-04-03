@@ -10,7 +10,7 @@ public string SearchSettings { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

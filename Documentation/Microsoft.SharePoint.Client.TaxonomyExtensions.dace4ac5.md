@@ -9,11 +9,11 @@ public static  GetDefaultSiteCollectionTermStore(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermStore](Microsoft.SharePoint.Client.Taxonomy.TermStore.md)  
+Type: [Microsoft.SharePoint.Client.Taxonomy.TermStore]  
 
 
 ## See also

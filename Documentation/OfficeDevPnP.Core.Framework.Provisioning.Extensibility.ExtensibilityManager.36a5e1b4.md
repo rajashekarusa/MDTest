@@ -10,19 +10,19 @@ public void ExecuteExtensibilityCallOut(ClientContext ctx,ExtensibilityHandler h
 ```
 ### Parameters
 *ctx*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Authenticated ClientContext that is passed to the custom provider.  
   
 *handler*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md) 
-&emsp;&emsp;  
+&emsp;&emsp;A custom Extensibility Provisioning Provider  
   
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
-&emsp;&emsp;  
+&emsp;&emsp;ProvisioningTemplate that is passed to the custom provider  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

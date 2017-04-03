@@ -5,7 +5,7 @@ Collection of ExtensibilityHandler objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md)
 ## Syntax
 ```C#
 public class ExtensibilityHandlerCollection: ProvisioningTemplateCollection<ExtensibilityHandler>

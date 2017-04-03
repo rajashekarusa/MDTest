@@ -9,15 +9,15 @@ public static void CreateViewsFromXMLFile(List list,String filePath)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
 &emsp;&emsp;  
   
 *filePath*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

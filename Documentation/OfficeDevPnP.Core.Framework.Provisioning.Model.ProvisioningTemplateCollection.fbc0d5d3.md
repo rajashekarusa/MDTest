@@ -7,11 +7,11 @@ public void AddRange(IEnumerable collection)
 ```
 ### Parameters
 *collection*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable](System.Collections.Generic.IEnumerable.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,6 +5,7 @@ Represents a zone on the canvas
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class CanvasZone

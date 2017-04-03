@@ -7,7 +7,7 @@ public XsltWebPartPostProcessor(WebPart schema)
 ```
 ### Parameters
 #### schema
-Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md) 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)

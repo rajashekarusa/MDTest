@@ -7,13 +7,13 @@ public PnPClientContext(Uri uri, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 #### uri
-Type: [System.Uri](System.Uri.md) 
+&emsp;&emsp;Type: [System.Uri] 
 #### 
 #### (optional) retryCount
-Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 #### 
 #### (optional) delay
-Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 #### 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

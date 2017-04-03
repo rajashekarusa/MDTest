@@ -5,43 +5,43 @@ Returns all the Office 365 Groups in the current Tenant based on a startIndex. I
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<officedevpnp.core.entities.unifiedgroupentity> ListUnifiedGroups(String accessToken,String displayName,String mailNickname,Int32 startIndex,Int32 endIndex,Boolean includeSite,Int32 retryCount,Int32 delay)
+public static collections.generic.list<officedevpnp.core.entities.unifiedgroupentity> ListUnifiedGroups(String accessToken,String displayName,String mailNickname,Int32 startIndex,Int32 endIndex,Boolean includeSite,Int32 retryCount,Int32 delay)
 ```
 ### Parameters
 *accessToken*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The OAuth 2.0 Access Token to use for invoking the Microsoft Graph  
   
 *(optional) displayName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The DisplayName of the Office 365 Group  
   
 *(optional) mailNickname*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The MailNickname of the Office 365 Group  
   
 *(optional) startIndex*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Not relevant anymore  
   
 *(optional) endIndex*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Not relevant anymore  
   
 *(optional) includeSite*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Defines whether to return details about the Modern SharePoint Site backing the group. Default is true.  
   
 *(optional) retryCount*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Number of times to retry the request in case of throttling  
   
 *(optional) delay*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>]  
 An IList of SiteEntity objects
 
 ## See also

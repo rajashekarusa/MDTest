@@ -5,6 +5,7 @@ A class that returns strings that represent identifiers (IDs) for built-in conte
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class BuiltInContentTypeId

@@ -9,19 +9,19 @@ public static void ExecuteQueryRetry(ClientRuntimeContext clientContext,Int32 re
 ```
 ### Parameters
 *clientContext*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext](Microsoft.SharePoint.Client.ClientRuntimeContext.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
 &emsp;&emsp;  
   
 *(optional) retryCount*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Number of times to retry the request  
   
 *(optional) delay*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

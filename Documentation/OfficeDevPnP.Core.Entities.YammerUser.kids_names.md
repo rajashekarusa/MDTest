@@ -8,7 +8,7 @@ public object kids_names { set; }
 ```
 
 ### Property Value
-Type: [System.Object](System.Object.md) 
+Type: [System.Object] 
 
 ## See also
 - [YammerUser](YammerUser.md) 

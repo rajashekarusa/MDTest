@@ -7,55 +7,55 @@ public static void SetSiteProperties(Tenant tenant,String siteFullUrl,String tit
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
 &emsp;&emsp;  
   
 *siteFullUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) title*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) allowSelfServiceUpgrade*  
-&emsp;&emsp;Type: [System.Nullable<System.Boolean>](System.Nullable<System.Boolean>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Boolean>] 
 &emsp;&emsp;  
   
 *(optional) sharingCapability*  
-&emsp;&emsp;Type: [System.Nullable<Microsoft.Online.SharePoint.TenantManagement.SharingCapabilities>](System.Nullable<Microsoft.Online.SharePoint.TenantManagement.SharingCapabilities>.md) 
+&emsp;&emsp;Type: [System.Nullable<Microsoft.Online.SharePoint.TenantManagement.SharingCapabilities>] 
 &emsp;&emsp;  
   
 *(optional) storageMaximumLevel*  
-&emsp;&emsp;Type: [System.Nullable<System.Int64>](System.Nullable<System.Int64>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Int64>] 
 &emsp;&emsp;  
   
 *(optional) storageWarningLevel*  
-&emsp;&emsp;Type: [System.Nullable<System.Int64>](System.Nullable<System.Int64>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Int64>] 
 &emsp;&emsp;  
   
 *(optional) userCodeMaximumLevel*  
-&emsp;&emsp;Type: [System.Nullable<System.Double>](System.Nullable<System.Double>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Double>] 
 &emsp;&emsp;  
   
 *(optional) userCodeWarningLevel*  
-&emsp;&emsp;Type: [System.Nullable<System.Double>](System.Nullable<System.Double>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Double>] 
 &emsp;&emsp;  
   
 *(optional) noScriptSite*  
-&emsp;&emsp;Type: [System.Nullable<System.Boolean>](System.Nullable<System.Boolean>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Boolean>] 
 &emsp;&emsp;  
   
 *(optional) wait*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 *(optional) timeoutFunction*  
-&emsp;&emsp;Type: [System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>](System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>.md) 
+&emsp;&emsp;Type: [System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

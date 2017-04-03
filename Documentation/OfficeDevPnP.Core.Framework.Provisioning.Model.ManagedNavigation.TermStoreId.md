@@ -10,7 +10,7 @@ public string TermStoreId { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [ManagedNavigation](ManagedNavigation.md) 

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.File[] Fil
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.File[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.File[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.File[]] 
 
 ## Remarks 
 

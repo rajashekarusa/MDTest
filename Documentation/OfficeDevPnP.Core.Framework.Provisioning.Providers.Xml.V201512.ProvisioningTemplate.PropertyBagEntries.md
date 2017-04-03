@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PropertyBa
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PropertyBagEntry[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PropertyBagEntry[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PropertyBagEntry[]] 
 
 ## Remarks 
 

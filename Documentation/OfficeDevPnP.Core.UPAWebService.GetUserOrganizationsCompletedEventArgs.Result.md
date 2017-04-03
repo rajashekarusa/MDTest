@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[] Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[].md) 
+Type: [OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]] 
 
 ## Remarks 
 

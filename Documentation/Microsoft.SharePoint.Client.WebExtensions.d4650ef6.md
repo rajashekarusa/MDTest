@@ -9,15 +9,15 @@ public static boolean RemoveIndexedPropertyBagKey(Web web,String key)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The site to process  
   
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The key to unmark for indexed. Case-sensitive  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 Returns True if succeeded
 
 ## See also

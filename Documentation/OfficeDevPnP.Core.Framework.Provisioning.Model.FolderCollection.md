@@ -5,7 +5,7 @@ Collection of Folder objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.Folder](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.Folder](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.md)
 ## Syntax
 ```C#
 public class FolderCollection: ProvisioningTemplateCollection<Folder>

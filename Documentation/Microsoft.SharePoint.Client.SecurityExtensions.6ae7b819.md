@@ -7,19 +7,19 @@ public static void AddAdministrators(Web web,List<UserEntity> adminLogins,Boolea
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *adminLogins*  
-&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>](System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>] 
 &emsp;&emsp;  
   
 *(optional) addToOwnersGroup*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

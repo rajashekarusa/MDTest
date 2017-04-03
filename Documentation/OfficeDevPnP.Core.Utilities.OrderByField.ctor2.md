@@ -7,10 +7,10 @@ public OrderByField(String name, Boolean ascending)
 ```
 ### Parameters
 #### name
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### ascending
-Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

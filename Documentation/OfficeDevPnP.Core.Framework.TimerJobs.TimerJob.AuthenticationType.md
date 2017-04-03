@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType Authentica
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType](OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType.md) 
+Type: [OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType] 
 
 ## See also
 - [TimerJob](TimerJob.md) 

@@ -9,11 +9,11 @@ public static  GetWorkflowSubscriptions(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The target Web  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription[]](Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription[].md)  
+Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription[]]  
 
 
 ## See also

@@ -9,7 +9,7 @@ public string[] Result { get; }
 ```
 
 ### Property Value
-Type: [System.String[]](System.String[].md) 
+Type: [System.String[]] 
 
 ## Remarks 
 

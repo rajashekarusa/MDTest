@@ -5,6 +5,7 @@ Class containing variation configuration information
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class VariationInformation

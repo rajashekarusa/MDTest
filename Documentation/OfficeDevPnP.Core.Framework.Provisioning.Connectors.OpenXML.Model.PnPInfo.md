@@ -5,6 +5,7 @@ Global container of the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class PnPInfo

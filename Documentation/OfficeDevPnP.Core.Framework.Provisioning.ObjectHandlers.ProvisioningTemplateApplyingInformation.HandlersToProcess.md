@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers HandlersToProcess
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers](OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers] 
 
 ## See also
 - [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 

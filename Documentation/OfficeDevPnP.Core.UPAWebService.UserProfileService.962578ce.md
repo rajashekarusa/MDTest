@@ -9,11 +9,11 @@ public  GetProfileSchema(String schemaName)
 ```
 ### Parameters
 *schemaName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]](OfficeDevPnP.Core.UPAWebService.PropertyInfo[].md)  
+Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]]  
 
 ## Remarks 
 

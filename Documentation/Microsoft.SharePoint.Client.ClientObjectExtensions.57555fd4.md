@@ -5,15 +5,15 @@ Converts generic  Expression<Func<TInput, TOutput>>  to Expression with object r
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static linq.expressions.expression`1<system.func`2<tinput,system.object>> ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>> expression)
+public static linq.expressions.expression<system.func<tinput,system.object>> ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>> expression)
 ```
 ### Parameters
 *expression*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<TInput,TOutput>>](System.Linq.Expressions.Expression<System.Func<TInput,TOutput>>.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<TInput,TOutput>>] 
+&emsp;&emsp; to convert   
   
 ### Return Value
-Type: [System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>>](System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>>.md)  
+Type: [System.Linq.Expressions.Expression<System.Func<TInput,System.Object>>]  
 New Expression where return type is object and not generic
 
 ## See also

@@ -5,11 +5,11 @@ The list of Welcome Page Fields for the Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<system.guid> WelcomePageFields { get; }
+public collections.generic.list<system.guid> WelcomePageFields { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List`1<System.Guid>](System.Collections.Generic.List`1<System.Guid>.md) 
+Type: [System.Collections.Generic.List<System.Guid>] 
 
 ## See also
 - [DocumentSetTemplate](DocumentSetTemplate.md) 

@@ -9,11 +9,11 @@ public static string GetSearchConfiguration(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 
 ## See also

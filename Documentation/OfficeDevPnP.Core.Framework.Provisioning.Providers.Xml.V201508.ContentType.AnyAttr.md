@@ -10,7 +10,7 @@ public xml.xmlattribute[] AnyAttr { set; }
 ```
 
 ### Property Value
-Type: [System.Xml.XmlAttribute[]](System.Xml.XmlAttribute[].md) 
+Type: [System.Xml.XmlAttribute[]] 
 
 ## Remarks 
 

@@ -9,11 +9,11 @@ public void GetProfileSchemaAsync(String schemaName)
 ```
 ### Parameters
 *schemaName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## Remarks 
 

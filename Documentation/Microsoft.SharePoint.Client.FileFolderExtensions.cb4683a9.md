@@ -7,19 +7,19 @@ public static  EnsureFolder(Folder parentFolder,String folderName,Expression<Fun
 ```
 ### Parameters
 *parentFolder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
 &emsp;&emsp;  
   
 *folderName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *expressions*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder,System.Object>>[]](System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder,System.Object>>[].md) 
+&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder,System.Object>>[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md)  
+Type: [Microsoft.SharePoint.Client.Folder]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

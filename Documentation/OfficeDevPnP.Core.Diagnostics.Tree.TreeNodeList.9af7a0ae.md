@@ -7,11 +7,11 @@ public void add_PropertyChanged(PropertyChangedEventHandler value)
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [System.ComponentModel.PropertyChangedEventHandler](System.ComponentModel.PropertyChangedEventHandler.md) 
+&emsp;&emsp;Type: [System.ComponentModel.PropertyChangedEventHandler] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

@@ -9,15 +9,15 @@ public static void RemoveTaxonomyFieldById(Web web,Guid id)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web object were the field (site column) exists  
   
 *id*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Guid representing the id of the taxonomy field (site column) to be removed  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

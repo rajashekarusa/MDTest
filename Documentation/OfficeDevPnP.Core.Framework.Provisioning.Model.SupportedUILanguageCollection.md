@@ -5,7 +5,7 @@ Collection of SupportedUILanguage objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.md)
 ## Syntax
 ```C#
 public class SupportedUILanguageCollection: ProvisioningTemplateCollection<SupportedUILanguage>

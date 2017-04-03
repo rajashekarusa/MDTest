@@ -8,7 +8,7 @@ public boolean PersistBrandingFiles { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 

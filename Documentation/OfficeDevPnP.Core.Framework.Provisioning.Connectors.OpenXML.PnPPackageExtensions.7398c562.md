@@ -11,7 +11,7 @@ public static io.memorystream PackTemplateAsStream(PnPInfo pnpInfo)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.MemoryStream](System.IO.MemoryStream.md)  
+Type: [System.IO.MemoryStream]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

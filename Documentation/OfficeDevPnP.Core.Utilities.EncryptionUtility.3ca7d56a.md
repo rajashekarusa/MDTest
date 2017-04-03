@@ -9,11 +9,11 @@ public static string ToInsecureString(SecureString input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;SecureString to convert  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 A "regular" string representation of the passed SecureString
 
 ## See also

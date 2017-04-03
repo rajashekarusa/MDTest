@@ -9,11 +9,11 @@ public static  GetYammerGroupByName(String groupName,String accessToken)
 ```
 ### Parameters
 *groupName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Group name to search for  
   
 *accessToken*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value

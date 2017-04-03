@@ -6,6 +6,7 @@ Abstract base class for creating timer jobs (background processes) that operate 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class TimerJob

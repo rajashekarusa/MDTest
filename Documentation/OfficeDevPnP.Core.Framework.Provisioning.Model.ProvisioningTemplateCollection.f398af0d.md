@@ -9,11 +9,11 @@ public  Find(Predicate match)
 ```
 ### Parameters
 *match*  
-&emsp;&emsp;Type: [System.Predicate](System.Predicate.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Predicate] 
+&emsp;&emsp;The matching predicate to use for finding any target item  
   
 ### Return Value
-Type: [T](T.md)  
+Type: [T]  
 The target item matching the find predicate
 
 ## Remarks 

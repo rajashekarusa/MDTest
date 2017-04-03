@@ -9,27 +9,27 @@ public static void SetWebPartProperty(Web web,String key,Int32 value,Guid id,Str
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The web to process  
   
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The key to update  
   
 *value*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;The value to set  
   
 *id*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;The id of the webpart  
   
 *serverRelativePageUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

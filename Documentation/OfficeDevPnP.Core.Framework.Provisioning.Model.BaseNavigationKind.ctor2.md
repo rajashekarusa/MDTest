@@ -7,10 +7,10 @@ public BaseNavigationKind(StructuralNavigation structuralNavigation, ManagedNavi
 ```
 ### Parameters
 #### (optional) structuralNavigation
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 
 #### 
 #### (optional) managedNavigation
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md) 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

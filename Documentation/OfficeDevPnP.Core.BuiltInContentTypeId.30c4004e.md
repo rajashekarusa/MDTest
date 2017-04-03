@@ -7,11 +7,11 @@ public static boolean Contains(String id)
 ```
 ### Parameters
 *id*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

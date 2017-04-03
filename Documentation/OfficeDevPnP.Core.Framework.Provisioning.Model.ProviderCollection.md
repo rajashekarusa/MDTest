@@ -5,7 +5,7 @@ Collection of Provider objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.Provider](OfficeDevPnP.Core.Framework.Provisioning.Model.Provider.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.Provider](OfficeDevPnP.Core.Framework.Provisioning.Model.Provider.md)
 ## Syntax
 ```C#
 public class ProviderCollection: ProvisioningTemplateCollection<Provider>

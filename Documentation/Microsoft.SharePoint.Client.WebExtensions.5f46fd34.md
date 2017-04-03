@@ -9,15 +9,15 @@ public static boolean WebExistsFullUrl(ClientRuntimeContext context,String webFu
 ```
 ### Parameters
 *context*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext](Microsoft.SharePoint.Client.ClientRuntimeContext.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
+&emsp;&emsp;Existing context, used to provide credentials.  
   
 *webFullUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Full URL of the site to check.  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 true if the Web (site) exists; otherwise false
 
 ## See also

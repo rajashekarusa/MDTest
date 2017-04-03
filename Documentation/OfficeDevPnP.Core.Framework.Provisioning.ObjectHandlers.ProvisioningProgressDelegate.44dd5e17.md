@@ -7,19 +7,19 @@ public void Invoke(String message,Int32 step,Int32 total)
 ```
 ### Parameters
 *message*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *step*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *total*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

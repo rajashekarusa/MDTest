@@ -6,7 +6,7 @@ Initializes a new instance of the ExtensiblityPipelineException class. This Exce
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [System.Exception](System.Exception.md)
+    [System.Exception](System.Exception.md)
 ## Syntax
 ```C#
 public class ExtensiblityPipelineException: Exception

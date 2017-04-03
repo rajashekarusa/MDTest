@@ -5,6 +5,7 @@ Class that holds deprecated information management extension methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class InformationManagementExtensions

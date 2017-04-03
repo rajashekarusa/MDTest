@@ -5,23 +5,23 @@ Get int typed property bag value. If does not contain, returns default value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static nullable`1<system.int32> GetPropertyBagValueInt(List list,String key,Int32 defaultValue)
+public static nullable<system.int32> GetPropertyBagValueInt(List list,String key,Int32 defaultValue)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;List to read the property bag value from  
   
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Key of the property bag entry to return  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Nullable`1<System.Int32>](System.Nullable`1<System.Int32>.md)  
+Type: [System.Nullable<System.Int32>]  
 Value of the property bag entry as integer
 
 ## See also

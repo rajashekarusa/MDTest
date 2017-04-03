@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTyp
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding[]] 
 
 ## Remarks 
 

@@ -7,11 +7,11 @@ public text.regularexpressions.regex GetRegexForToken(String token)
 ```
 ### Parameters
 *token*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Text.RegularExpressions.Regex](System.Text.RegularExpressions.Regex.md)  
+Type: [System.Text.RegularExpressions.Regex]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

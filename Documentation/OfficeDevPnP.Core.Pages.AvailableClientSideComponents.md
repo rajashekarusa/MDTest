@@ -5,6 +5,7 @@ Class holding a collection of client side webparts (retrieved via the _api/web/G
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class AvailableClientSideComponents

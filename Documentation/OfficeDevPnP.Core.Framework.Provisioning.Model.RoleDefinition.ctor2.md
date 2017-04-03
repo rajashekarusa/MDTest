@@ -7,7 +7,7 @@ public RoleDefinition(IEnumerable<PermissionKind> permissions)
 ```
 ### Parameters
 #### permissions
-Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.PermissionKind>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.PermissionKind>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.PermissionKind>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

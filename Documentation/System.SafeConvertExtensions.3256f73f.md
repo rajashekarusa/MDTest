@@ -7,11 +7,11 @@ public static  ToEnum(Byte enumValue)
 ```
 ### Parameters
 *enumValue*  
-&emsp;&emsp;Type: [System.Byte](System.Byte.md) 
+&emsp;&emsp;Type: [System.Byte] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md)  
+Type: [T]  
 
 ## See also
 - [System](System.md)

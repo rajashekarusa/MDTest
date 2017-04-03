@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [System.Web.Http.Filters.ActionFilterAttribute](System.Web.Http.Filters.ActionFilterAttribute.md)
+    [System.Web.Http.Filters.ActionFilterAttribute](System.Web.Http.Filters.ActionFilterAttribute.md)
 ## Syntax
 ```C#
 public class WebAPIContextFilterAttribute: ActionFilterAttribute

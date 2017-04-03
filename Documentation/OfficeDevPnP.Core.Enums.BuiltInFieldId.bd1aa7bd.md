@@ -9,11 +9,11 @@ public static boolean Contains(Guid fid)
 ```
 ### Parameters
 *fid*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;File identifier.  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
             Returns a GUID.
             

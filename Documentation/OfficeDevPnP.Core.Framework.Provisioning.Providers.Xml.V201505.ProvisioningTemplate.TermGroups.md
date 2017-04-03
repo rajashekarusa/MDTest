@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup[
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup[]] 
 
 ## Remarks 
 

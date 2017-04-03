@@ -9,15 +9,15 @@ public static  GetTermGroupById(Site site,Guid termGroupId)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;The current site  
   
 *termGroupId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;The ID of the termgroup  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup](Microsoft.SharePoint.Client.Taxonomy.TermGroup.md)  
+Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup]  
 
 
 ## See also

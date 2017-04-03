@@ -9,15 +9,15 @@ public static string Combine(String path,String relative)
 ```
 ### Parameters
 *path*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *relative*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 
 ## See also

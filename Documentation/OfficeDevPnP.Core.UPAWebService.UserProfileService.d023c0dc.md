@@ -11,7 +11,7 @@ public void add_GetProfileSchemaNameByAccountNameCompleted(GetProfileSchemaNameB
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -9,15 +9,15 @@ public void SetEnumerationCredentials(String userUPN,SecureString password)
 ```
 ### Parameters
 *userUPN*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *password*  
-&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Password of the enumeration user  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

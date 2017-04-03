@@ -7,25 +7,25 @@ public File(String src, String folder, Boolean overwrite, IEnumerable<WebPart> w
 ```
 ### Parameters
 #### src
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### folder
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### overwrite
-Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 #### 
 #### webParts
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart>] 
 #### 
 #### properties
-Type: [System.Collections.Generic.IDictionary`2<System.String,System.String>](System.Collections.Generic.IDictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<System.String,System.String>] 
 #### 
 #### (optional) security
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
 #### 
 #### (optional) level
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel](OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

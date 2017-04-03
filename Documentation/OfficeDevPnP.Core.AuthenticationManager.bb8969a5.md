@@ -9,31 +9,31 @@ public  GetAzureADAppOnlyAuthenticatedContext(String siteUrl,String clientId,Str
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *clientId*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The Azure AD Application Client ID  
   
 *tenant*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The Azure AD Tenant, e.g. mycompany.onmicrosoft.com  
   
 *certificatePath*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The path to the certificate (*.pfx) file on the file system  
   
 *certificatePassword*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Password to the certificate  
   
 *(optional) environment*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment] 
+&emsp;&emsp;SharePoint environment being used  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+Type: [Microsoft.SharePoint.Client.ClientContext]  
 Client context object
 
 ## See also

@@ -7,7 +7,7 @@ public UserNameWSTrustBinding(SecurityMode securityMode)
 ```
 ### Parameters
 #### securityMode
-Type: [System.ServiceModel.SecurityMode](System.ServiceModel.SecurityMode.md) 
+&emsp;&emsp;Type: [System.ServiceModel.SecurityMode] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

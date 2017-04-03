@@ -7,7 +7,7 @@ public SiteGroup(IEnumerable<User> members)
 ```
 ### Parameters
 #### members
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.User>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.User>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.User>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

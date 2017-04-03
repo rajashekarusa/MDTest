@@ -9,11 +9,11 @@ public static  Deserialize(String xmlString)
 ```
 ### Parameters
 *xmlString*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;A string in XML format that representing the serialized object  
   
 ### Return Value
-Type: [T](T.md)  
+Type: [T]  
 An object instance of T
 
 ## See also

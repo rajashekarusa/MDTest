@@ -5,6 +5,7 @@ This manager class holds deprecated security related methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class SecurityExtensions

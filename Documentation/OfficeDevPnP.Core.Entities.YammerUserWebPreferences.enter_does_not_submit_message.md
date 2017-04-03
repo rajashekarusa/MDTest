@@ -8,7 +8,7 @@ public string enter_does_not_submit_message { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

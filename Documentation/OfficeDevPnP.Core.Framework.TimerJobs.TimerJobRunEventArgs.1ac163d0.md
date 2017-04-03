@@ -9,11 +9,11 @@ public string GetProperty(String propertyKey)
 ```
 ### Parameters
 *propertyKey*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Key of the property to retrieve  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 Value of the requested property
 
 ## See also

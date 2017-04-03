@@ -5,19 +5,19 @@ Returns a list all external users for a given site that have at least the viewpa
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<officedevpnp.core.entities.externaluserentity> GetExternalUsersForSiteTenant(Web web,Uri siteUrl)
+public static collections.generic.list<officedevpnp.core.entities.externaluserentity> GetExternalUsersForSiteTenant(Web web,Uri siteUrl)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Tenant administration web  
   
 *siteUrl*  
-&emsp;&emsp;Type: [System.Uri](System.Uri.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Uri] 
+&emsp;&emsp;Url of the site fetch the external users for  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.ExternalUserEntity>]  
 A list of  objects
 
 ## See also

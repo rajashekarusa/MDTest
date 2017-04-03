@@ -7,15 +7,15 @@ public static  GetFieldByName(FieldCollection fields,String internalName)
 ```
 ### Parameters
 *fields*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.FieldCollection](Microsoft.SharePoint.Client.FieldCollection.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.FieldCollection] 
 &emsp;&emsp;  
   
 *internalName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md)  
+Type: [Microsoft.SharePoint.Client.Field]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

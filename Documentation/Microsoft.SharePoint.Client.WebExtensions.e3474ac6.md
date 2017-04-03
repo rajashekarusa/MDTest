@@ -5,15 +5,15 @@ Gets the request access e-mail addresses of the web.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable`1<system.string> GetRequestAccessEmails(Web web)
+public static collections.generic.ienumerable<system.string> GetRequestAccessEmails(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The web to get the request access e-mail addresses from.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+Type: [System.Collections.Generic.IEnumerable<System.String>]  
 The request access e-mail addresses of the web.
 
 ## See also

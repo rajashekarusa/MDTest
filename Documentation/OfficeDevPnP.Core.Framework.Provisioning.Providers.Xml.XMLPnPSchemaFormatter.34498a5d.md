@@ -11,7 +11,7 @@ public io.stream ToFormattedTemplate(ProvisioningTemplate template)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.Stream](System.IO.Stream.md)  
+Type: [System.IO.Stream]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

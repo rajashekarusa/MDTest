@@ -10,7 +10,7 @@ public boolean QuickLaunchEnabledSpecified { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## Remarks 
 

@@ -9,15 +9,15 @@ public static void WaitForVariationLabelCreation(ClientContext context,Variation
 ```
 ### Parameters
 *context*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Context for SharePoint objects and operations  
   
 *variationLabel*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Variation label  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

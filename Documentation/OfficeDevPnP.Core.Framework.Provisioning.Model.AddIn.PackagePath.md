@@ -10,7 +10,7 @@ public string PackagePath { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [AddIn](AddIn.md) 

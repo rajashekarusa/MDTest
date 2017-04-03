@@ -5,31 +5,31 @@ Returns all site collections in the current Tenant based on a startIndex. Includ
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ilist`1<officedevpnp.core.entities.siteentity> GetSiteCollections(Tenant tenant,Int32 startIndex,Int32 endIndex,Boolean includeDetail,Boolean includeOD4BSites)
+public static collections.generic.ilist<officedevpnp.core.entities.siteentity> GetSiteCollections(Tenant tenant,Int32 startIndex,Int32 endIndex,Boolean includeDetail,Boolean includeOD4BSites)
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;Tenant object to operate against  
   
 *(optional) startIndex*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Not relevant anymore  
   
 *(optional) endIndex*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Not relevant anymore  
   
 *(optional) includeDetail*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Option to return a limited set of data  
   
 *(optional) includeOD4BSites*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Also return the OD4B sites  
   
 ### Return Value
-Type: [System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity>](System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity>.md)  
+Type: [System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.SiteEntity>]  
 An IList of SiteEntity objects
 
 ## See also

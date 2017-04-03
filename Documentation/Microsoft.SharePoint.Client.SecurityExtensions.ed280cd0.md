@@ -9,11 +9,11 @@ public static  AddReaderAccess(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.User](Microsoft.SharePoint.Client.User.md)  
+Type: [Microsoft.SharePoint.Client.User]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -8,7 +8,7 @@ public object significant_other { set; }
 ```
 
 ### Property Value
-Type: [System.Object](System.Object.md) 
+Type: [System.Object] 
 
 ## See also
 - [YammerUser](YammerUser.md) 

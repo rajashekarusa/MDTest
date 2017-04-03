@@ -7,11 +7,11 @@ public  Add(ITreeNode node)
 ```
 ### Parameters
 *node*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>.md)  
+Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode]  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

@@ -8,7 +8,7 @@ public string GroupId { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [UnifiedGroupEntity](UnifiedGroupEntity.md) 

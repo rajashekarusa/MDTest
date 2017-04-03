@@ -7,11 +7,11 @@ public static  ToEnum(Int32 enumValue)
 ```
 ### Parameters
 *enumValue*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md)  
+Type: [T]  
 
 ## See also
 - [System](System.md)

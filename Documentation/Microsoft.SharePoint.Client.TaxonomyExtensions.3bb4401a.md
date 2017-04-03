@@ -7,35 +7,35 @@ public static  ImportTermSet(TermGroup termGroup,String filePath,Guid termSetId,
 ```
 ### Parameters
 *termGroup*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup](Microsoft.SharePoint.Client.Taxonomy.TermGroup.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup] 
 &emsp;&emsp;  
   
 *filePath*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) termSetId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 &emsp;&emsp;  
   
 *(optional) synchroniseDeletions*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 *(optional) termSetIsOpen*  
-&emsp;&emsp;Type: [System.Nullable<System.Boolean>](System.Nullable<System.Boolean>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Boolean>] 
 &emsp;&emsp;  
   
 *(optional) termSetContact*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) termSetOwner*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermSet](Microsoft.SharePoint.Client.Taxonomy.TermSet.md)  
+Type: [Microsoft.SharePoint.Client.Taxonomy.TermSet]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -3,10 +3,10 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<officedevpnp.core.framework.provisioning.model.provisioningtemplate> GetTemplates()
+public collections.generic.list<officedevpnp.core.framework.provisioning.model.provisioningtemplate> GetTemplates()
 ```
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

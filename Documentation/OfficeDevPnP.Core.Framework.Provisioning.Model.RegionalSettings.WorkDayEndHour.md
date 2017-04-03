@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour WorkDayEndHour { 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour] 
 
 ## See also
 - [RegionalSettings](RegionalSettings.md) 

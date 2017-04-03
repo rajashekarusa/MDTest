@@ -5,6 +5,7 @@ Class that holds deprecated generic list creation and manipulation methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class ListExtensions

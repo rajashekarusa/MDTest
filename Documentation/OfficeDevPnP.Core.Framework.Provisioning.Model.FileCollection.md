@@ -5,7 +5,7 @@ Collection of File objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md)
 ## Syntax
 ```C#
 public class FileCollection: ProvisioningTemplateCollection<File>

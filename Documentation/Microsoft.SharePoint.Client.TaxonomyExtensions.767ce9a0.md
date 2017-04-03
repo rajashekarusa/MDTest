@@ -12,27 +12,27 @@ public static void ImportTerms(Site site,String[] termLines,Int32 lcid,String de
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
 &emsp;&emsp;  
   
 *termLines*  
-&emsp;&emsp;Type: [System.String[]](System.String[].md) 
+&emsp;&emsp;Type: [System.String[]] 
 &emsp;&emsp;  
   
 *lcid*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *(optional) delimiter*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) synchronizeDeletions*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Remove tags that are not present in the import  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

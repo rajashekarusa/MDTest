@@ -3,15 +3,15 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<officedevpnp.core.framework.provisioning.model.provisioningtemplate> GetTemplates(ITemplateFormatter formatter)
+public collections.generic.list<officedevpnp.core.framework.provisioning.model.provisioningtemplate> GetTemplates(ITemplateFormatter formatter)
 ```
 ### Parameters
 *formatter*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

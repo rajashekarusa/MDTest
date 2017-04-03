@@ -5,7 +5,7 @@ Collection of CustomAction objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md)
 ## Syntax
 ```C#
 public class CustomActionCollection: ProvisioningTemplateCollection<CustomAction>

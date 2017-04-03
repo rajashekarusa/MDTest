@@ -9,11 +9,11 @@ public static string Serialize(T obj)
 ```
 ### Parameters
 *obj*  
-&emsp;&emsp;Type: [T](T.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Object to serialize  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 json string
 
 ## See also

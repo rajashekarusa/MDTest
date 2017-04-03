@@ -10,7 +10,7 @@ public boolean ShowWeeks { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [RegionalSettings](RegionalSettings.md) 

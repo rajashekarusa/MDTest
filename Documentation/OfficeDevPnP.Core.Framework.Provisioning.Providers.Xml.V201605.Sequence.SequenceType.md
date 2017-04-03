@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SequenceSe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SequenceSequenceType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SequenceSequenceType.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SequenceSequenceType] 
 
 ## Remarks 
 

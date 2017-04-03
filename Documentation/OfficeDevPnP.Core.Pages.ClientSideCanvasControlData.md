@@ -5,6 +5,9 @@ Abstract base class representing the json control data that will be included in 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+--  [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)
+----  [OfficeDevPnP.Core.Pages.ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md)
+----  [OfficeDevPnP.Core.Pages.ClientSideWebPartControlData](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.md)
 ## Syntax
 ```C#
 public class ClientSideCanvasControlData

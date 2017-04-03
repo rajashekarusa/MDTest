@@ -9,31 +9,31 @@ public static  AddGroup(Web web,String groupName,String groupDescription,Boolean
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to add the group to  
   
 *groupName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the group  
   
 *groupDescription*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Description of the group  
   
 *groupIsOwner*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Sets the created group as group owner if true  
   
 *(optional) updateAndExecuteQuery*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Set to false to postpone the executequery call  
   
 *(optional) onlyAllowMembersViewMembership*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Set whether members are allowed to see group membership, defaults to false  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md)  
+Type: [Microsoft.SharePoint.Client.Group]  
 The created group
 
 ## See also

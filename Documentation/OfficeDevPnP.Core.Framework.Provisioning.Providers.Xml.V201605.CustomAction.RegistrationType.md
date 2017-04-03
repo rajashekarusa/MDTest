@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Registrati
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegistrationType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegistrationType.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegistrationType] 
 
 ## Remarks 
 

@@ -7,15 +7,15 @@ public void AddParameter(String key,Object value)
 ```
 ### Parameters
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *value*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

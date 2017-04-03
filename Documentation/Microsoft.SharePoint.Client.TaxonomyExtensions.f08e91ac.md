@@ -9,15 +9,15 @@ public static  GetTermGroupByName(TermStore termStore,String groupName)
 ```
 ### Parameters
 *termStore*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermStore](Microsoft.SharePoint.Client.Taxonomy.TermStore.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Taxonomy.TermStore] 
+&emsp;&emsp;The term store to use  
   
 *groupName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the term group  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup](Microsoft.SharePoint.Client.Taxonomy.TermGroup.md)  
+Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup]  
 The requested term group, or null if it does not exist
 
 ## See also

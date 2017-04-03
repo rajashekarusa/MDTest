@@ -7,23 +7,23 @@ public static void AddAdministrators(Tenant tenant,IEnumerable<UserEntity> admin
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
 &emsp;&emsp;  
   
 *adminLogins*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.UserEntity>](System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.UserEntity>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.UserEntity>] 
 &emsp;&emsp;  
   
 *siteUrl*  
-&emsp;&emsp;Type: [System.Uri](System.Uri.md) 
+&emsp;&emsp;Type: [System.Uri] 
 &emsp;&emsp;  
   
 *(optional) addToOwnersGroup*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

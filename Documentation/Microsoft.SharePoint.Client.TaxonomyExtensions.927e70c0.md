@@ -7,19 +7,19 @@ public static void SetTaxonomyFieldValues(ListItem item,Guid fieldId,IEnumerable
 ```
 ### Parameters
 *item*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ListItem](Microsoft.SharePoint.Client.ListItem.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ListItem] 
 &emsp;&emsp;  
   
 *fieldId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 &emsp;&emsp;  
   
 *termValues*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.Guid,System.String>>](System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.Guid,System.String>>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.Guid,System.String>>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

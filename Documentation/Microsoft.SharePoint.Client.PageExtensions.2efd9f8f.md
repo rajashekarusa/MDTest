@@ -9,19 +9,19 @@ public static string EnsureWikiPage(Web web,String wikiPageLibraryName,String wi
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *wikiPageLibraryName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the wiki page library  
   
 *wikiPageName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Wiki page to operate on  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 The relative URL of the added wiki page
 
 ## See also

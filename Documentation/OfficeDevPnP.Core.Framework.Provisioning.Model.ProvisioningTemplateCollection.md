@@ -5,7 +5,7 @@ Generic collection of items stored in the ProvisioningTemplate graph
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [System.Collections.ObjectModel.Collection](System.Collections.ObjectModel.Collection.md)
+    [System.Collections.ObjectModel.Collection](System.Collections.ObjectModel.Collection.md)
 ## Syntax
 ```C#
 public class ProvisioningTemplateCollection: Collection

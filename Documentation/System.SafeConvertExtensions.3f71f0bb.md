@@ -9,15 +9,15 @@ public static boolean ToBoolean(String input,Boolean defaultValue)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Input string.  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;A default value to return for a null input value.  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [System](System.md)

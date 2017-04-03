@@ -5,7 +5,7 @@ Collection of WebPart objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.md)
 ## Syntax
 ```C#
 public class WebPartCollection: ProvisioningTemplateCollection<WebPart>

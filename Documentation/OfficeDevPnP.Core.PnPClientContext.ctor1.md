@@ -7,13 +7,13 @@ public PnPClientContext(String url, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 #### url
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### (optional) retryCount
-Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 #### 
 #### (optional) delay
-Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 #### 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

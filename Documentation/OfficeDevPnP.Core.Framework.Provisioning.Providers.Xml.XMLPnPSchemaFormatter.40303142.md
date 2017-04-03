@@ -9,11 +9,11 @@ public static  GetSpecificFormatter(String namespaceUri)
 ```
 ### Parameters
 *namespaceUri*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter]  
 
 
 ## See also

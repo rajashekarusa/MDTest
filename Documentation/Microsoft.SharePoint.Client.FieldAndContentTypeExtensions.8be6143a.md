@@ -9,19 +9,19 @@ public static  CreateField(Web web,String fieldAsXml,Boolean executeQuery)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *fieldAsXml*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The XML declaration of SiteColumn definition  
   
 *(optional) executeQuery*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md)  
+Type: [Microsoft.SharePoint.Client.Field]  
 The newly created field or existing field.
 
 ## See also

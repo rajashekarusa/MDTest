@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.DataValue[
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.DataValue[][]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.DataValue[][].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.DataValue[][]] 
 
 ## Remarks 
 

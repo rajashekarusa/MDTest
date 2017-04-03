@@ -5,6 +5,7 @@ Safely convert strings to specified types.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class SafeConvertExtensions

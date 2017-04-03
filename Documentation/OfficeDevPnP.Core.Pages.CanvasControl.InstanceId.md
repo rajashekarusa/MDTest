@@ -7,7 +7,7 @@ public guid InstanceId { get; }
 ```
 
 ### Property Value
-Type: [System.Guid](System.Guid.md) 
+Type: [System.Guid] 
 
 ## See also
 - [CanvasControl](CanvasControl.md) 

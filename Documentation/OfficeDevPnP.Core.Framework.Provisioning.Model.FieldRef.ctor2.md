@@ -7,7 +7,7 @@ public FieldRef(String fieldRefName)
 ```
 ### Parameters
 #### fieldRefName
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

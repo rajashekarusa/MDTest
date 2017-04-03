@@ -9,11 +9,11 @@ public string GetAzureADACSEndPoint(AzureEnvironment environment)
 ```
 ### Parameters
 *environment*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment] 
+&emsp;&emsp;Environment to get the login information for  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 Azure ASC login endpoint
 
 ## See also

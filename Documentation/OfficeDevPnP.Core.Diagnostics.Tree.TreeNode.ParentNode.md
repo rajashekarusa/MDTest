@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode ParentNode { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode] 
 
 ## See also
 - [TreeNode](TreeNode.md) 

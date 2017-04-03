@@ -9,11 +9,11 @@ public static string GetSiteCollectionSearchCenterUrl(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;SharePoint site - root web  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 Search center url for web
 
 ## See also

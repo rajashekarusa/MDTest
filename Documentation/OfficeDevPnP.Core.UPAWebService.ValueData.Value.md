@@ -10,7 +10,7 @@ public object Value { set; }
 ```
 
 ### Property Value
-Type: [System.Object](System.Object.md) 
+Type: [System.Object] 
 
 ## Remarks 
 

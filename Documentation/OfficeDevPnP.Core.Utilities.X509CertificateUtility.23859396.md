@@ -9,19 +9,19 @@ public static security.cryptography.x509certificates.x509certificate2 LoadCertif
 ```
 ### Parameters
 *storeName*  
-&emsp;&emsp;Type: [System.Security.Cryptography.X509Certificates.StoreName](System.Security.Cryptography.X509Certificates.StoreName.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.Cryptography.X509Certificates.StoreName] 
+&emsp;&emsp;Name of the certificate store  
   
 *storeLocation*  
-&emsp;&emsp;Type: [System.Security.Cryptography.X509Certificates.StoreLocation](System.Security.Cryptography.X509Certificates.StoreLocation.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.Cryptography.X509Certificates.StoreLocation] 
+&emsp;&emsp;Location of the certificate store  
   
 *thumbprint*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Thumbprint of the certificate to load  
   
 ### Return Value
-Type: [System.Security.Cryptography.X509Certificates.X509Certificate2](System.Security.Cryptography.X509Certificates.X509Certificate2.md)  
+Type: [System.Security.Cryptography.X509Certificates.X509Certificate2]  
 An  certificate
 
 ## See also

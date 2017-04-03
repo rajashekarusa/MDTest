@@ -5,6 +5,7 @@ Use this class to build your CAML xml and avoid XML issues.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class CAML

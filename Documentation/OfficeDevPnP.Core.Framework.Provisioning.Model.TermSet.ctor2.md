@@ -7,25 +7,25 @@ public TermSet(Guid id, String name, Nullable<Int32> language, Boolean isAvailab
 ```
 ### Parameters
 #### id
-Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 #### 
 #### name
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### language
-Type: [System.Nullable`1<System.Int32>](System.Nullable`1<System.Int32>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Int32>] 
 #### 
 #### isAvailableForTagging
-Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 #### 
 #### isOpenForTermCreation
-Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 #### 
 #### terms
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>] 
 #### 
 #### properties
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -7,7 +7,7 @@ public FieldCreationInformation(String fieldType)
 ```
 ### Parameters
 #### fieldType
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

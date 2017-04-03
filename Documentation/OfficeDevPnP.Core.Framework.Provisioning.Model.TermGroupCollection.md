@@ -5,7 +5,7 @@ Collection of TermGroup objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md)
 ## Syntax
 ```C#
 public class TermGroupCollection: ProvisioningTemplateCollection<TermGroup>

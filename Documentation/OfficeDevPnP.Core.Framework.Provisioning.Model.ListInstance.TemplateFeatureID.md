@@ -8,7 +8,7 @@ public guid TemplateFeatureID { set; }
 ```
 
 ### Property Value
-Type: [System.Guid](System.Guid.md) 
+Type: [System.Guid] 
 
 ## See also
 - [ListInstance](ListInstance.md) 

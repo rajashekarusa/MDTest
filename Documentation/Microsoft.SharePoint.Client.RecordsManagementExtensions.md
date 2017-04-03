@@ -5,6 +5,7 @@ Class that deals with deprecated records management functionality
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class RecordsManagementExtensions

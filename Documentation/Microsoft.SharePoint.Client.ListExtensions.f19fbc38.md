@@ -9,35 +9,35 @@ public static  AddRemoteEventReceiver(List list,String name,String url,EventRece
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;The list to process  
   
 *name*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The name of the event receiver (needs to be unique among the event receivers registered on this list)  
   
 *url*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The URL of the remote WCF service that handles the event  
   
 *eventReceiverType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.EventReceiverType](Microsoft.SharePoint.Client.EventReceiverType.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.EventReceiverType] 
 &emsp;&emsp;  
   
 *synchronization*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.EventReceiverSynchronization](Microsoft.SharePoint.Client.EventReceiverSynchronization.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.EventReceiverSynchronization] 
 &emsp;&emsp;  
   
 *sequenceNumber*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *force*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;If True any event already registered with the same name will be removed first.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.EventReceiverDefinition](Microsoft.SharePoint.Client.EventReceiverDefinition.md)  
+Type: [Microsoft.SharePoint.Client.EventReceiverDefinition]  
 Returns an EventReceiverDefinition if succeeded. Returns null if failed.
 
 ## See also

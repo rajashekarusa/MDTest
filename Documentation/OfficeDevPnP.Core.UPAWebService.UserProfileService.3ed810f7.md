@@ -9,7 +9,7 @@ public void UpdateLink(String accountName,QuickLinkData data)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *data*  
@@ -17,7 +17,7 @@ public void UpdateLink(String accountName,QuickLinkData data)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## Remarks 
 

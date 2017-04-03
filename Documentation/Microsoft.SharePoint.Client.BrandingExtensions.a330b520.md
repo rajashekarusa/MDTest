@@ -9,12 +9,12 @@ public static  GetComposedLook(Web web,String composedLookName)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to check  
   
 *composedLookName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the composed look to retrieve  
   
 ### Return Value
 Type: [OfficeDevPnP.Core.Entities.ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md)  

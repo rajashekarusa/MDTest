@@ -9,23 +9,23 @@ public static void CheckInFile(Web web,String serverRelativeUrl,CheckinType chec
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The web to process  
   
 *serverRelativeUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The server relative url of the file to checkin  
   
 *checkinType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.CheckinType](Microsoft.SharePoint.Client.CheckinType.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.CheckinType] 
+&emsp;&emsp;The type of the checkin  
   
 *comment*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Message to be recorded with the approval  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

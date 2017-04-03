@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldDefau
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldDefault[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldDefault[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldDefault[]] 
 
 ## Remarks 
 

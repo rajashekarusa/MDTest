@@ -9,11 +9,11 @@ public static datetime GetSiteExpirationDate(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to operate on  
   
 ### Return Value
-Type: [System.DateTime](System.DateTime.md)  
+Type: [System.DateTime]  
 DateTime value holding the expiration date, DateTime.MinValue in case there was no policy applied
 
 ## See also

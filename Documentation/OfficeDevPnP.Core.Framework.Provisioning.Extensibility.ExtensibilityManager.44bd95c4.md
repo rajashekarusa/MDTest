@@ -9,24 +9,24 @@ public  ExecuteExtensibilityExtractionCallOut(ClientContext ctx,ExtensibilityHan
 ```
 ### Parameters
 *ctx*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Authenticated ClientContext that is passed to the custom provider.  
   
 *handler*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md) 
-&emsp;&emsp;  
+&emsp;&emsp;A custom Extensibility Provisioning Provider  
   
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
-&emsp;&emsp;  
+&emsp;&emsp;ProvisioningTemplate that is passed to the custom provider  
   
 *creationInformation*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
-&emsp;&emsp;  
+&emsp;&emsp;The Provisioning Template creation information object  
   
 *scope*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md) 
-&emsp;&emsp;  
+&emsp;&emsp;The PnPMonitoredScope of the current step in the pipeline  
   
 ### Return Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  

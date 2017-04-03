@@ -9,15 +9,15 @@ public static boolean CustomActionExists(Site site,String name)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
 &emsp;&emsp;  
   
 *name*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the custom action  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 
 ## See also

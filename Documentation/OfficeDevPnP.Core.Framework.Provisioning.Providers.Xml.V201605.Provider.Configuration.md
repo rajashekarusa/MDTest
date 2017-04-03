@@ -10,7 +10,7 @@ public xml.xmlnode Configuration { set; }
 ```
 
 ### Property Value
-Type: [System.Xml.XmlNode](System.Xml.XmlNode.md) 
+Type: [System.Xml.XmlNode] 
 
 ## Remarks 
 

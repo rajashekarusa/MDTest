@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md)
 ## Syntax
 ```C#
 public class XMLOpenXMLTemplateProvider: XMLTemplateProvider

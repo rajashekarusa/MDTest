@@ -5,27 +5,27 @@ Exports the full list of terms from all termsets in all termstores.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<system.string> ExportTermSet(Site site,Guid termSetId,Boolean includeId,String delimiter)
+public static collections.generic.list<system.string> ExportTermSet(Site site,Guid termSetId,Boolean includeId,String delimiter)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;The site to process  
   
 *termSetId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;The ID of the termset to export  
   
 *includeId*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;if true, Ids of the the taxonomy items will be included  
   
 *(optional) delimiter*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;if specified, this delimiter will be used. Notice that IDs will be delimited with ;# from the label  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<System.String>](System.Collections.Generic.List`1<System.String>.md)  
+Type: [System.Collections.Generic.List<System.String>]  
 
 
 ## See also

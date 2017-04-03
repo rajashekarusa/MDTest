@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [System.ComponentModel.AsyncCompletedEventArgs](System.ComponentModel.AsyncCompletedEventArgs.md)
+    [System.ComponentModel.AsyncCompletedEventArgs](System.ComponentModel.AsyncCompletedEventArgs.md)
 ## Syntax
 ```C#
 public class GetUserLinksCompletedEventArgs: AsyncCompletedEventArgs

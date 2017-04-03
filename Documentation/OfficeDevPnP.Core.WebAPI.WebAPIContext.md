@@ -5,6 +5,7 @@ This class holds the information that's passed from the SharePoint app to the "R
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class WebAPIContext

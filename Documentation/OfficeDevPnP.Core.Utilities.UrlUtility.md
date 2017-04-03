@@ -5,6 +5,7 @@ Static methods to modify URL paths.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class UrlUtility

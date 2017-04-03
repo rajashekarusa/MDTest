@@ -5,6 +5,7 @@ This class holds deprecated navigation related methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class NavigationExtensions

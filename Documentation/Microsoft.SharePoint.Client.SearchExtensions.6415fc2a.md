@@ -9,11 +9,11 @@ public static string GetSearchConfiguration(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 
 ## See also

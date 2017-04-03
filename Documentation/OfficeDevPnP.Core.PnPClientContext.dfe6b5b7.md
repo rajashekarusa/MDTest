@@ -7,15 +7,15 @@ public static  ConvertFrom(ClientContext clientContext,Int32 retryCount,Int32 de
 ```
 ### Parameters
 *clientContext*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
 &emsp;&emsp;  
   
 *(optional) retryCount*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 *(optional) delay*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 ### Return Value

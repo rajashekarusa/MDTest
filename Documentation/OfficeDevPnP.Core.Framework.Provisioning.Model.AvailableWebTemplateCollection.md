@@ -5,7 +5,7 @@ A collection of AvailableWebTemplate objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.md)
 ## Syntax
 ```C#
 public class AvailableWebTemplateCollection: ProvisioningTemplateCollection<AvailableWebTemplate>

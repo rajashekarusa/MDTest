@@ -7,11 +7,11 @@ public static string OrderBy(OrderByField[] fieldRefs)
 ```
 ### Parameters
 *fieldRefs*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Utilities.OrderByField[]](OfficeDevPnP.Core.Utilities.OrderByField[].md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Utilities.OrderByField[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 ## Examples
 ```C#

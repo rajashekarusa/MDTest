@@ -9,15 +9,15 @@ public static boolean SubSiteExists(Tenant tenant,String siteFullUrl)
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
+&emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
   
 *siteFullUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;URL to the sub site  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 True if existing, false if not
 
 ## See also

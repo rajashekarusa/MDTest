@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek] 
 
 ## Remarks 
 

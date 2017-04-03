@@ -5,7 +5,7 @@ Control data for controls of type 3 (= client side web parts)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)
+    [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)
 ## Syntax
 ```C#
 public class ClientSideWebPartControlData: ClientSideCanvasControlData

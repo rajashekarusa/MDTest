@@ -9,11 +9,11 @@ public static string Serialize(T objectToSerialize)
 ```
 ### Parameters
 *objectToSerialize*  
-&emsp;&emsp;Type: [T](T.md) 
+&emsp;&emsp;Type: [T] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 An string that represents the serialized object.
 
 ## See also

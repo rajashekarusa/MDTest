@@ -9,15 +9,15 @@ public static io.stream SerializeToStream(T objectToSerialize,XmlSerializerNames
 ```
 ### Parameters
 *objectToSerialize*  
-&emsp;&emsp;Type: [T](T.md) 
+&emsp;&emsp;Type: [T] 
 &emsp;&emsp;  
   
 *ns*  
-&emsp;&emsp;Type: [System.Xml.Serialization.XmlSerializerNamespaces](System.Xml.Serialization.XmlSerializerNamespaces.md) 
+&emsp;&emsp;Type: [System.Xml.Serialization.XmlSerializerNamespaces] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.Stream](System.IO.Stream.md)  
+Type: [System.IO.Stream]  
 An string that represents the serialized object.
 
 ## See also

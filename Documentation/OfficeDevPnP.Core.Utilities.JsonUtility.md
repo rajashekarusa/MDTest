@@ -5,6 +5,7 @@ Utility class that supports the serialization from Json to type and vice versa
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class JsonUtility

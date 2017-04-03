@@ -5,6 +5,7 @@ Extension class for PnP OpenXML package files
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class PnPPackageExtensions

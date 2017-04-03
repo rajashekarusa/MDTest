@@ -7,7 +7,7 @@ public string Scheme { get; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [WSTrustBinding](WSTrustBinding.md) 

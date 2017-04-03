@@ -5,7 +5,7 @@ Collection of TermLabel objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md)
 ## Syntax
 ```C#
 public class TermLabelCollection: ProvisioningTemplateCollection<TermLabel>

@@ -5,6 +5,7 @@ Json web part data that will be included in each client side web part (de-)seria
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class ClientSideWebPartData

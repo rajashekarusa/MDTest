@@ -9,11 +9,11 @@ public static  GetSharePointOnlineCredential(String name)
 ```
 ### Parameters
 *name*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharePointOnlineCredentials](Microsoft.SharePoint.Client.SharePointOnlineCredentials.md)  
+Type: [Microsoft.SharePoint.Client.SharePointOnlineCredentials]  
 Microsoft.SharePoint.Client.SharePointOnlineCredentials
 
 ## See also

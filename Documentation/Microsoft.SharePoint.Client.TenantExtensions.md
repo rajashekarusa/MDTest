@@ -5,6 +5,7 @@ Class for deprecated tenant extension methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class TenantExtensions

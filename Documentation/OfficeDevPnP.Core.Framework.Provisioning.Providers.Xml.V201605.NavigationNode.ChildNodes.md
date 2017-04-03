@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[]] 
 
 ## See also
 - [NavigationNode](NavigationNode.md) 

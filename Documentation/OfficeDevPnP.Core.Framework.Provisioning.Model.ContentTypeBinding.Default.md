@@ -10,7 +10,7 @@ public boolean Default { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [ContentTypeBinding](ContentTypeBinding.md) 

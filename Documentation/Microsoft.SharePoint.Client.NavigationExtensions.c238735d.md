@@ -10,15 +10,15 @@ public static boolean AddCustomAction(Site site,CustomActionEntity customAction)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Site collection to be processed  
   
 *customAction*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Information about the custom action be added or deleted  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 True if action was successfull
 
 ## See also

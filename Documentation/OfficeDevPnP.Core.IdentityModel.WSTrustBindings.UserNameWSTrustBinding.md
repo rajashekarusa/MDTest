@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md)
+    [OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md)
 ## Syntax
 ```C#
 public class UserNameWSTrustBinding: WSTrustBinding

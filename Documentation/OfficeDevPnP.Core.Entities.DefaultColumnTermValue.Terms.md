@@ -5,11 +5,11 @@ Taxonomy paths in the shape of "TermGroup|TermSet|Term"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist`1<microsoft.sharepoint.client.taxonomy.term> Terms { get; }
+public collections.generic.ilist<microsoft.sharepoint.client.taxonomy.term> Terms { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList`1<Microsoft.SharePoint.Client.Taxonomy.Term>](System.Collections.Generic.IList`1<Microsoft.SharePoint.Client.Taxonomy.Term>.md) 
+Type: [System.Collections.Generic.IList<Microsoft.SharePoint.Client.Taxonomy.Term>] 
 
 ## See also
 - [DefaultColumnTermValue](DefaultColumnTermValue.md) 

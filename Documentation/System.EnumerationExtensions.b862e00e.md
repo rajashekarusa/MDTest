@@ -9,15 +9,15 @@ public static boolean Has(Enum value,T check)
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [System.Enum](System.Enum.md) 
+&emsp;&emsp;Type: [System.Enum] 
 &emsp;&emsp;  
   
 *check*  
-&emsp;&emsp;Type: [T](T.md) 
+&emsp;&emsp;Type: [T] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [System](System.md)

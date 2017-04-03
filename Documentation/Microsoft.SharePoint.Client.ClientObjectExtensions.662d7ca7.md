@@ -7,15 +7,15 @@ public static void EnsureProperties(T clientObject,Expression<Func<T, Object>>[]
 ```
 ### Parameters
 *clientObject*  
-&emsp;&emsp;Type: [T](T.md) 
+&emsp;&emsp;Type: [T] 
 &emsp;&emsp;  
   
 *propertySelector*  
-&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<T,System.Object>>[]](System.Linq.Expressions.Expression<System.Func<T,System.Object>>[].md) 
+&emsp;&emsp;Type: [System.Linq.Expressions.Expression<System.Func<T,System.Object>>[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

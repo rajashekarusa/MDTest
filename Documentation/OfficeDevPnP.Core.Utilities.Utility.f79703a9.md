@@ -9,11 +9,11 @@ public static int GetHealthScore(String url)
 ```
 ### Parameters
 *url*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Int32](System.Int32.md)  
+Type: [System.Int32]  
 
 
 ## See also

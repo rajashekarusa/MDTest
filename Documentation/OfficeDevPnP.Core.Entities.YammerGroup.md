@@ -6,6 +6,7 @@ Represents Yammer Group information
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class YammerGroup

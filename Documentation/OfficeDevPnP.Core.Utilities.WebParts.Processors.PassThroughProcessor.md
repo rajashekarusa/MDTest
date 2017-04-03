@@ -5,6 +5,7 @@ Default processor when others are not resolved
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class PassThroughProcessor

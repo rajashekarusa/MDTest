@@ -7,11 +7,11 @@ public boolean IsValid(Stream template)
 ```
 ### Parameters
 *template*  
-&emsp;&emsp;Type: [System.IO.Stream](System.IO.Stream.md) 
+&emsp;&emsp;Type: [System.IO.Stream] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

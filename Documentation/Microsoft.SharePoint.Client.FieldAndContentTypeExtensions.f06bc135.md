@@ -13,7 +13,7 @@ public static string FormatFieldXml(FieldCreationInformation fieldCreationInform
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 
 ## See also

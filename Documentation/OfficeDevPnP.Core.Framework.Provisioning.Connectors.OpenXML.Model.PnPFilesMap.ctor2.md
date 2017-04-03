@@ -7,7 +7,7 @@ public PnPFilesMap(Dictionary<String, String> items)
 ```
 ### Parameters
 #### items
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

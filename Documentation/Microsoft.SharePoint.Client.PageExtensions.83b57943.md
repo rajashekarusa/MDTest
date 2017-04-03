@@ -9,31 +9,31 @@ public static  AddWebPartToWikiPage(Web web,String serverRelativePageUrl,WebPart
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *serverRelativePageUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Server relative url of the page to add the webpart to  
   
 *webPart*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Information about the web part to insert  
   
 *row*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Row of the wiki table that should hold the inserted web part  
   
 *col*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Column of the wiki table that should hold the inserted web part  
   
 *addSpace*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Does a blank line need to be added after the web part (to space web parts)  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition](Microsoft.SharePoint.Client.WebParts.WebPartDefinition.md)  
+Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition]  
 Returns the added  object
 
 ## See also

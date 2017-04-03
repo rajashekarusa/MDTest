@@ -5,19 +5,19 @@ Gets a list of fields from a list by names.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable`1<microsoft.sharepoint.client.field> GetFields(List list,String[] fieldInternalNames)
+public static collections.generic.ienumerable<microsoft.sharepoint.client.field> GetFields(List list,String[] fieldInternalNames)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;The target list containing the fields.  
   
 *fieldInternalNames*  
-&emsp;&emsp;Type: [System.String[]](System.String[].md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;List of field names to retreieve.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.Field>](System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.Field>.md)  
+Type: [System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.Field>]  
 List of fields requested.
 
 ## See also

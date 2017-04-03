@@ -5,6 +5,7 @@ This manager class can be used to obtain a SharePointContext object
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class AuthenticationManager

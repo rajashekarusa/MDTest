@@ -5,6 +5,7 @@ File descriptor for every single file in the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class PnPFileInfo

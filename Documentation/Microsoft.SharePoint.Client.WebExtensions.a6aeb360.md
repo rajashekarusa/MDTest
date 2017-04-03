@@ -9,15 +9,15 @@ public static void EnableRequestAccess(Web web,String[] emails)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The web to enable request access.  
   
 *emails*  
-&emsp;&emsp;Type: [System.String[]](System.String[].md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;The e-mail addresses to send access requests to.  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

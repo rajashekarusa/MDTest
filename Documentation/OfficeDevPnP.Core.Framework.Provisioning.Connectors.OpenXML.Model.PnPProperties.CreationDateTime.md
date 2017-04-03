@@ -10,7 +10,7 @@ public datetime CreationDateTime { set; }
 ```
 
 ### Property Value
-Type: [System.DateTime](System.DateTime.md) 
+Type: [System.DateTime] 
 
 ## See also
 - [PnPProperties](PnPProperties.md) 

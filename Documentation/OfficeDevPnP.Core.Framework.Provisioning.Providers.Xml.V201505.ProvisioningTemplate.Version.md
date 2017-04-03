@@ -10,7 +10,7 @@ public decimal Version { set; }
 ```
 
 ### Property Value
-Type: [System.Decimal](System.Decimal.md) 
+Type: [System.Decimal] 
 
 ## Remarks 
 

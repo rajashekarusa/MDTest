@@ -9,15 +9,15 @@ public static  UnshareDocument(Web web,String urlToDocument)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web for the context used for people picker search  
   
 *urlToDocument*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Full URL to the file which is shared  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md)  
+Type: [Microsoft.SharePoint.Client.SharingResult]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

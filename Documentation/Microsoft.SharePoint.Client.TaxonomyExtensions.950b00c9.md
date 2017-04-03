@@ -9,19 +9,19 @@ public static  GetTermByName(Site site,Guid termSetId,String term)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;The site to process  
   
 *termSetId*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 &emsp;&emsp;  
   
 *term*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.Term](Microsoft.SharePoint.Client.Taxonomy.Term.md)  
+Type: [Microsoft.SharePoint.Client.Taxonomy.Term]  
 
 
 ## See also

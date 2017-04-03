@@ -9,11 +9,11 @@ public static string GetBaseTemplateId(Web parentWeb)
 ```
 ### Parameters
 *parentWeb*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The parent Web (site) to get the base template from  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 The Base Template ID for the current web
 
 ## See also

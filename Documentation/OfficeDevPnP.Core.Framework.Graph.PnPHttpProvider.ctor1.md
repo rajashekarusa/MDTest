@@ -7,10 +7,10 @@ public PnPHttpProvider(Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 #### (optional) retryCount
-Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 #### 
 #### (optional) delay
-Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

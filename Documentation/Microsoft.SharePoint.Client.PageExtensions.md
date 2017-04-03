@@ -5,6 +5,7 @@ Class that holds all deprecated page and web part related operations
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class PageExtensions

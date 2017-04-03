@@ -7,7 +7,7 @@ public FieldCreationInformation(FieldType fieldType)
 ```
 ### Parameters
 #### fieldType
-Type: [Microsoft.SharePoint.Client.FieldType](Microsoft.SharePoint.Client.FieldType.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.FieldType] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

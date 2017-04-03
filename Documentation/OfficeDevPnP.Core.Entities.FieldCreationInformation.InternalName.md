@@ -8,7 +8,7 @@ public string InternalName { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [FieldCreationInformation](FieldCreationInformation.md) 

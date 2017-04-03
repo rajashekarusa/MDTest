@@ -11,11 +11,11 @@ public static string GetWebRelativeUrl(List list)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;The list to export the URL of.  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 The web relative URL of the list.
 
 ## See also

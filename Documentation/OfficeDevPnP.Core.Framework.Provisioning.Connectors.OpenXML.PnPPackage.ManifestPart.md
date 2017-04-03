@@ -9,7 +9,7 @@ public io.packaging.packagepart ManifestPart { get; }
 ```
 
 ### Property Value
-Type: [System.IO.Packaging.PackagePart](System.IO.Packaging.PackagePart.md) 
+Type: [System.IO.Packaging.PackagePart] 
 
 ## See also
 - [PnPPackage](PnPPackage.md) 

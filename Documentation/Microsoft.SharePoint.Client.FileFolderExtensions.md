@@ -5,6 +5,7 @@ Class that holds the deprecated file and folder methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class FileFolderExtensions

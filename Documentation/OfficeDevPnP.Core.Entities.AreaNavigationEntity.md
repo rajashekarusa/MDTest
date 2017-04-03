@@ -5,6 +5,7 @@ Entity description navigation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class AreaNavigationEntity

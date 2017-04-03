@@ -10,7 +10,7 @@ public guid PackageGuid { set; }
 ```
 
 ### Property Value
-Type: [System.Guid](System.Guid.md) 
+Type: [System.Guid] 
 
 ## See also
 - [DesignPackage](DesignPackage.md) 

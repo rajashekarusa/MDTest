@@ -5,7 +5,7 @@ Defines a collection of objects of type WorkflowDefinition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.md)
 ## Syntax
 ```C#
 public class WorkflowDefinitionCollection: ProvisioningTemplateCollection<WorkflowDefinition>

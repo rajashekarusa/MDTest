@@ -8,7 +8,7 @@ public double TemplateVersion { set; }
 ```
 
 ### Property Value
-Type: [System.Double](System.Double.md) 
+Type: [System.Double] 
 
 ## See also
 - [ProvisioningTemplateInfo](ProvisioningTemplateInfo.md) 

@@ -5,23 +5,23 @@ Get DateTime typed property bag value. If does not contain, returns default valu
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static nullable`1<system.datetime> GetPropertyBagValueDateTime(Web web,String key,DateTime defaultValue)
+public static nullable<system.datetime> GetPropertyBagValueDateTime(Web web,String key,DateTime defaultValue)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to read the property bag value from  
   
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Key of the property bag entry to return  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.DateTime](System.DateTime.md) 
+&emsp;&emsp;Type: [System.DateTime] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Nullable`1<System.DateTime>](System.Nullable`1<System.DateTime>.md)  
+Type: [System.Nullable<System.DateTime>]  
 Value of the property bag entry as integer
 
 ## See also

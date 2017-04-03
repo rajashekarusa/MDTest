@@ -7,15 +7,15 @@ public static string And(String clause1,String[] conditionClauses)
 ```
 ### Parameters
 *clause1*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *conditionClauses*  
-&emsp;&emsp;Type: [System.String[]](System.String[].md) 
+&emsp;&emsp;Type: [System.String[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 ## Examples
 ```C#

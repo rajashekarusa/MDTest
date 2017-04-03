@@ -9,23 +9,23 @@ public static  UploadFileWebDav(Folder folder,String fileName,String localFilePa
 ```
 ### Parameters
 *folder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
+&emsp;&emsp;Folder to upload file to.  
   
 *fileName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *localFilePath*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Location of the file to be uploaded.  
   
 *overwriteIfExists*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;true (default) to overwite existing files  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md)  
+Type: [Microsoft.SharePoint.Client.File]  
 The uploaded File, so that additional operations (such as setting properties) can be done.
 
 ## See also

@@ -7,11 +7,11 @@ public static string ToDetailedString(Exception exception,ClientRuntimeContext c
 ```
 ### Parameters
 *exception*  
-&emsp;&emsp;Type: [System.Exception](System.Exception.md) 
+&emsp;&emsp;Type: [System.Exception] 
 &emsp;&emsp;  
   
 *cc*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext](Microsoft.SharePoint.Client.ClientRuntimeContext.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
 &emsp;&emsp;  
   
 *options*  
@@ -19,7 +19,7 @@ public static string ToDetailedString(Exception exception,ClientRuntimeContext c
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 ## See also
 - [System](System.md)

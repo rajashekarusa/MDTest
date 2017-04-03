@@ -7,7 +7,7 @@ public io.packaging.package Package { get; }
 ```
 
 ### Property Value
-Type: [System.IO.Packaging.Package](System.IO.Packaging.Package.md) 
+Type: [System.IO.Packaging.Package] 
 
 ## See also
 - [PnPPackage](PnPPackage.md) 

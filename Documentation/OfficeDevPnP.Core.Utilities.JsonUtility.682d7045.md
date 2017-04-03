@@ -9,11 +9,11 @@ public static  Deserialize(String json)
 ```
 ### Parameters
 *json*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;json string  
   
 ### Return Value
-Type: [T](T.md)  
+Type: [T]  
 Object of type T
 
 ## See also

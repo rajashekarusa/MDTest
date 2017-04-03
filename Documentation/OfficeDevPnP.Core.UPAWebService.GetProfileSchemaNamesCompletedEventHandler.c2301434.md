@@ -7,7 +7,7 @@ public void Invoke(Object sender,GetProfileSchemaNamesCompletedEventArgs e)
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 *e*  
@@ -15,7 +15,7 @@ public void Invoke(Object sender,GetProfileSchemaNamesCompletedEventArgs e)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -5,6 +5,7 @@ Utility class that support certificate based encryption/decryption
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class EncryptionUtility

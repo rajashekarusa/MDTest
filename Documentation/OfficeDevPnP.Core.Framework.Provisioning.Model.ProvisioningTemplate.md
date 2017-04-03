@@ -5,6 +5,7 @@ Domain Object for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class ProvisioningTemplate

@@ -5,11 +5,11 @@ Gets the cryptographic keys associated with the security token.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.objectmodel.readonlycollection`1<system.identitymodel.tokens.securitykey> SecurityKeys { get; }
+public collections.objectmodel.readonlycollection<system.identitymodel.tokens.securitykey> SecurityKeys { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.ObjectModel.ReadOnlyCollection`1<System.IdentityModel.Tokens.SecurityKey>](System.Collections.ObjectModel.ReadOnlyCollection`1<System.IdentityModel.Tokens.SecurityKey>.md) 
+Type: [System.Collections.ObjectModel.ReadOnlyCollection<System.IdentityModel.Tokens.SecurityKey>] 
 
 ## See also
 - [MultipleSymmetricKeySecurityToken](MultipleSymmetricKeySecurityToken.md) 

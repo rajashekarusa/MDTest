@@ -9,15 +9,15 @@ public static void CreateViewsFromXML(List list,XmlDocument xmlDoc)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
 &emsp;&emsp;  
   
 *xmlDoc*  
-&emsp;&emsp;Type: [System.Xml.XmlDocument](System.Xml.XmlDocument.md) 
+&emsp;&emsp;Type: [System.Xml.XmlDocument] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

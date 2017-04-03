@@ -5,7 +5,7 @@ A collection of AddIn objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md)
 ## Syntax
 ```C#
 public class AddInCollection: ProvisioningTemplateCollection<AddIn>

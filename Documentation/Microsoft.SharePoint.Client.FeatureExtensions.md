@@ -5,6 +5,7 @@ Class that holds deprecated feature activation and deactivation methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class FeatureExtensions

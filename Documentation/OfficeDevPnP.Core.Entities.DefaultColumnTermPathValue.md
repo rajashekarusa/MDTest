@@ -5,6 +5,7 @@ Specifies a default column value for a document library
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class DefaultColumnTermPathValue

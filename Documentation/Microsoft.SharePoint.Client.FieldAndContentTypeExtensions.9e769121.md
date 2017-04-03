@@ -9,19 +9,19 @@ public static  GetContentTypeById(Web web,String contentTypeId,Boolean searchInS
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to be processed  
   
 *contentTypeId*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Complete ID for the content type  
   
 *(optional) searchInSiteHierarchy*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Searches accross all content types in the site up to the root site  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType](Microsoft.SharePoint.Client.ContentType.md)  
+Type: [Microsoft.SharePoint.Client.ContentType]  
 Content type object or null if was not found
 
 ## See also

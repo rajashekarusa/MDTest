@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermLabels
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermLabelsLabel[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermLabelsLabel[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermLabelsLabel[]] 
 
 ## Remarks 
 

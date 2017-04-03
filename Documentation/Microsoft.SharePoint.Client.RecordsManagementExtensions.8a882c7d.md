@@ -9,11 +9,11 @@ public static  GetRecordDeclarationBy(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Site collection to operate on  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)  
+Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy]  
  enum that defines who can declare a record
 
 ## See also

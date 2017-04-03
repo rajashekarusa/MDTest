@@ -8,7 +8,7 @@ public string Value { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [TermLabel](TermLabel.md) 

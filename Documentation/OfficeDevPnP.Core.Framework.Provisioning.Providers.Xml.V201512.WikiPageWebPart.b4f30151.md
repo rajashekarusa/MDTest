@@ -7,11 +7,11 @@ public static xml.xmlqualifiedname GetSchema(XmlSchemaSet schemaSet)
 ```
 ### Parameters
 *schemaSet*  
-&emsp;&emsp;Type: [System.Xml.Schema.XmlSchemaSet](System.Xml.Schema.XmlSchemaSet.md) 
+&emsp;&emsp;Type: [System.Xml.Schema.XmlSchemaSet] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Xml.XmlQualifiedName](System.Xml.XmlQualifiedName.md)  
+Type: [System.Xml.XmlQualifiedName]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -7,7 +7,7 @@ public  InstantiateDefaultWebPart(DefaultClientSideWebParts webPart)
 ```
 ### Parameters
 *webPart*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts](OfficeDevPnP.Core.Pages.DefaultClientSideWebParts.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts] 
 &emsp;&emsp;  
   
 ### Return Value

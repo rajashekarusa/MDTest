@@ -9,11 +9,11 @@ public static void Delete(WorkflowSubscription subscription)
 ```
 ### Parameters
 *subscription*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription](Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

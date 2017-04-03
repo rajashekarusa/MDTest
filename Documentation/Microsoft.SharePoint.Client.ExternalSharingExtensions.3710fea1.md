@@ -9,27 +9,27 @@ public static  ShareSite(Web web,String email,Group group,Boolean sendEmail,Stri
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web for the context of the site to be shared.  
   
 *email*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Email of the person to whom site should be shared.  
   
 *group*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group] 
+&emsp;&emsp;Group to invite the external user to  
   
 *(optional) sendEmail*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Should we send email for the given address.  
   
 *(optional) emailBody*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Text to be added on share email sent to receiver.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md)  
+Type: [Microsoft.SharePoint.Client.SharingResult]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

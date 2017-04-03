@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<officedevpnp.core.framework.provisioning.objecthandlers.tokendefinitions.tokendefinition> Tokens { get; }
+public collections.generic.list<officedevpnp.core.framework.provisioning.objecthandlers.tokendefinitions.tokendefinition> Tokens { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition>.md) 
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition>] 
 
 ## See also
 - [TokenParser](TokenParser.md) 

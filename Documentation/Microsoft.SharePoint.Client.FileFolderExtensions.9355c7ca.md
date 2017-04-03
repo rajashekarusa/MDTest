@@ -5,19 +5,19 @@ Finds files in the web. Can be slow.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<microsoft.sharepoint.client.file> FindFiles(Web web,String match)
+public static collections.generic.list<microsoft.sharepoint.client.file> FindFiles(Web web,String match)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The web to process  
   
 *match*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;a wildcard pattern to match  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File>](System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File>.md)  
+Type: [System.Collections.Generic.List<Microsoft.SharePoint.Client.File>]  
 A list with the found  objects
 
 ## See also

@@ -9,8 +9,8 @@ public  Get(String cacheKey)
 ```
 ### Parameters
 *cacheKey*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Key to retrieve an item from cache  
   
 ### Return Value
 Type: [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)  

@@ -7,15 +7,15 @@ public void AddFile(String fileName,Byte[] value)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *value*  
-&emsp;&emsp;Type: [System.Byte[]](System.Byte[].md) 
+&emsp;&emsp;Type: [System.Byte[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

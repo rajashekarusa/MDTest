@@ -9,11 +9,11 @@ public string GetFile(String fileName)
 ```
 ### Parameters
 *fileName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Name of the file to get  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 String containing the file contents
 
 ## See also

@@ -9,27 +9,27 @@ public static void SetPageOutputCache(Web web,Boolean enableOutputCache,Int32 an
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;SharePoint web  
   
 *enableOutputCache*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Specify true to enable output cache. False otherwise.  
   
 *anonymousCacheProfileId*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Applies for anonymous users access for a site in Site Collection. Id of the profile specified in "Cache Profiles" list.  
   
 *authenticatedCacheProfileId*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Applies for authenticated users access for a site in the Site Collection. Id of the profile specified in "Cache Profiles" list.  
   
 *debugCacheInformation*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Specify true to enable the display of additional cache information on pages in this site collection. False otherwise.  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

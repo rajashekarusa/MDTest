@@ -5,6 +5,9 @@ DefaultColumnValue
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+--  [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
+----  [OfficeDevPnP.Core.Entities.DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md)
+----  [OfficeDevPnP.Core.Entities.DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md)
 ## Syntax
 ```C#
 public class DefaultColumnValue

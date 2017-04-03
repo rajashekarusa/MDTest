@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [Microsoft.Graph.HttpProvider](Microsoft.Graph.HttpProvider.md)
+    [Microsoft.Graph.HttpProvider](Microsoft.Graph.HttpProvider.md)
 ## Syntax
 ```C#
 public class PnPHttpProvider: HttpProvider

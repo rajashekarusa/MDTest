@@ -3,12 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist`1<officedevpnp.core.entities.yammeruserhometab> home_tabs { get; }
-public collections.generic.ilist`1<officedevpnp.core.entities.yammeruserhometab> home_tabs { set; }
+public collections.generic.ilist<officedevpnp.core.entities.yammeruserhometab> home_tabs { get; }
+public collections.generic.ilist<officedevpnp.core.entities.yammeruserhometab> home_tabs { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.YammerUserHomeTab>](System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.YammerUserHomeTab>.md) 
+Type: [System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserHomeTab>] 
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

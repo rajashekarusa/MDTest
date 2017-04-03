@@ -7,23 +7,23 @@ public static void Warning(String source,Exception ex,String message,Object[] ar
 ```
 ### Parameters
 *source*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *ex*  
-&emsp;&emsp;Type: [System.Exception](System.Exception.md) 
+&emsp;&emsp;Type: [System.Exception] 
 &emsp;&emsp;  
   
 *message*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *args*  
-&emsp;&emsp;Type: [System.Object[]](System.Object[].md) 
+&emsp;&emsp;Type: [System.Object[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

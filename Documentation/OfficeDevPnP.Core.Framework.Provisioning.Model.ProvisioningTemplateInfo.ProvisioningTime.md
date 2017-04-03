@@ -8,7 +8,7 @@ public datetime ProvisioningTime { set; }
 ```
 
 ### Property Value
-Type: [System.DateTime](System.DateTime.md) 
+Type: [System.DateTime] 
 
 ## See also
 - [ProvisioningTemplateInfo](ProvisioningTemplateInfo.md) 

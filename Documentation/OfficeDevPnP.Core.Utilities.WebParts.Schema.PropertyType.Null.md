@@ -10,7 +10,7 @@ public boolean Null { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [PropertyType](PropertyType.md) 

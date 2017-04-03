@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.ValueData[] Values { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.ValueData[]](OfficeDevPnP.Core.UPAWebService.ValueData[].md) 
+Type: [OfficeDevPnP.Core.UPAWebService.ValueData[]] 
 
 ## Remarks 
 

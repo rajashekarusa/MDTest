@@ -5,6 +5,7 @@ Class that holds the deprecated clientcontext methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class ClientContextExtensions

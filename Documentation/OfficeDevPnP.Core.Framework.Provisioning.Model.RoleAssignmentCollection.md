@@ -5,7 +5,7 @@ Collection of RoleAssignment objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md)
 ## Syntax
 ```C#
 public class RoleAssignmentCollection: ProvisioningTemplateCollection<RoleAssignment>

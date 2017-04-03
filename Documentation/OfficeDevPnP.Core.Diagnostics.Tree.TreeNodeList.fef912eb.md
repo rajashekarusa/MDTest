@@ -7,11 +7,11 @@ public boolean Remove(ITreeNode node)
 ```
 ### Parameters
 *node*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

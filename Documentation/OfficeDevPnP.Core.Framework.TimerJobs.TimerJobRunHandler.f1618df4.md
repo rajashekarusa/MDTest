@@ -7,7 +7,7 @@ public void Invoke(Object sender,TimerJobRunEventArgs e)
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 *e*  
@@ -15,7 +15,7 @@ public void Invoke(Object sender,TimerJobRunEventArgs e)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

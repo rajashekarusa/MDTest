@@ -8,7 +8,7 @@ public boolean allow_inline_document_view { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

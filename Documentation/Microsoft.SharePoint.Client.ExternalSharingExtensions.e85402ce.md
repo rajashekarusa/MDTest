@@ -9,31 +9,31 @@ public static  ShareSite(Web web,String email,ExternalSharingSiteOption shareOpt
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web for the context of the site to be shared.  
   
 *email*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Email of the person to whom site should be shared.  
   
 *shareOption*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingSiteOption](Microsoft.SharePoint.Client.ExternalSharingSiteOption.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingSiteOption] 
+&emsp;&emsp;Sharing style - View, Edit, Owner  
   
 *(optional) sendEmail*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Should we send email for the given address.  
   
 *(optional) emailBody*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Text to be added on share email sent to receiver.  
   
 *(optional) useSimplifiedRoles*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md)  
+Type: [Microsoft.SharePoint.Client.SharingResult]  
 
 
 ## See also

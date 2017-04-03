@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Preference
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PreferencesParameter[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PreferencesParameter[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PreferencesParameter[]] 
 
 ## Remarks 
 

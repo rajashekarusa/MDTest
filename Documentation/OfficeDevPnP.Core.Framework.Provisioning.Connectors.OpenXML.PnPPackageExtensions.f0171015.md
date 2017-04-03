@@ -7,7 +7,7 @@ public static  UnpackTemplate(MemoryStream stream)
 ```
 ### Parameters
 *stream*  
-&emsp;&emsp;Type: [System.IO.MemoryStream](System.IO.MemoryStream.md) 
+&emsp;&emsp;Type: [System.IO.MemoryStream] 
 &emsp;&emsp;  
   
 ### Return Value

@@ -7,13 +7,13 @@ public XMLSharePointTemplateProvider(ClientRuntimeContext cc, String connectionS
 ```
 ### Parameters
 #### cc
-Type: [Microsoft.SharePoint.Client.ClientRuntimeContext](Microsoft.SharePoint.Client.ClientRuntimeContext.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
 #### 
 #### connectionString
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### container
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

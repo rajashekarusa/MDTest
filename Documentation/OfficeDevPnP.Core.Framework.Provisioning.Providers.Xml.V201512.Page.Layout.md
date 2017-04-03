@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLa
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLayout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLayout.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLayout] 
 
 ## Remarks 
 

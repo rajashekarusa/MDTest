@@ -5,6 +5,7 @@ Extension type for Dictionaries
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class DictionaryExtensions

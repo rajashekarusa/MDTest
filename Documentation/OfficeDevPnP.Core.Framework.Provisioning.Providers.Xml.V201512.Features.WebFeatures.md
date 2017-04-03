@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature[] 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature[]] 
 
 ## Remarks 
 

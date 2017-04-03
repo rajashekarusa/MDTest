@@ -10,7 +10,7 @@ public string DraftVersion { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [WorkflowDefinition](WorkflowDefinition.md) 

@@ -5,7 +5,7 @@ Provider for JSON based configurations
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)
 ## Syntax
 ```C#
 public class JsonTemplateProvider: TemplateProviderBase

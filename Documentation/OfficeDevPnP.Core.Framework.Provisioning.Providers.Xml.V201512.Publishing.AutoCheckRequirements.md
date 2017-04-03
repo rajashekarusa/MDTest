@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingAutoCheckRequirements](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingAutoCheckRequirements.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingAutoCheckRequirements] 
 
 ## Remarks 
 

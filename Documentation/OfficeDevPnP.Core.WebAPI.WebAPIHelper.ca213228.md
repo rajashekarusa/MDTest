@@ -13,19 +13,19 @@ public static void RegisterWebAPIService(Page page,String apiRequest,Uri service
 ```
 ### Parameters
 *page*  
-&emsp;&emsp;Type: [System.Web.UI.Page](System.Web.UI.Page.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Web.UI.Page] 
+&emsp;&emsp;The page object, needed to insert the services token cookie and read the querystring  
   
 *apiRequest*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Route to the "Register" API  
   
 *(optional) serviceEndPoint*  
-&emsp;&emsp;Type: [System.Uri](System.Uri.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Uri] 
+&emsp;&emsp;Optional Uri to the WebAPI service endpoint. If null then the assumption is taken that the WebAPI is hosted together with the page making this call  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

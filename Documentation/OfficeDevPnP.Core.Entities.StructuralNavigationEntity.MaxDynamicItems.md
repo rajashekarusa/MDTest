@@ -8,7 +8,7 @@ public int MaxDynamicItems { set; }
 ```
 
 ### Property Value
-Type: [System.Int32](System.Int32.md) 
+Type: [System.Int32] 
 
 ## See also
 - [StructuralNavigationEntity](StructuralNavigationEntity.md) 

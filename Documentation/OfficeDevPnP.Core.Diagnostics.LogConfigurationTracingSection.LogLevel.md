@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Diagnostics.LogLevel LogLevel { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Diagnostics.LogLevel](OfficeDevPnP.Core.Diagnostics.LogLevel.md) 
+Type: [OfficeDevPnP.Core.Diagnostics.LogLevel] 
 
 ## See also
 - [LogConfigurationTracingSection](LogConfigurationTracingSection.md) 

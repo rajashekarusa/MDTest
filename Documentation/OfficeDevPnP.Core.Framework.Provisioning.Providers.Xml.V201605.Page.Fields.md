@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldV
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue[]] 
 
 ## Remarks 
 

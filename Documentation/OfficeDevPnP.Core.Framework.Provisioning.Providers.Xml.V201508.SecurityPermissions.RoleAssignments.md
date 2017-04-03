@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RoleAssign
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RoleAssignment[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RoleAssignment[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RoleAssignment[]] 
 
 ## Remarks 
 

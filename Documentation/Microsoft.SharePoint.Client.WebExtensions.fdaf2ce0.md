@@ -5,23 +5,23 @@ Returns the site collections that comply with the passed keyword query
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<officedevpnp.core.entities.siteentity> SiteSearch(Web web,String keywordQueryValue,Boolean trimDuplicates)
+public static collections.generic.list<officedevpnp.core.entities.siteentity> SiteSearch(Web web,String keywordQueryValue,Boolean trimDuplicates)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *keywordQueryValue*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Keyword query  
   
 *(optional) trimDuplicates*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Indicates if dublicates should be trimmed or not  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SiteEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SiteEntity>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>]  
 All found site collections
 
 ## See also

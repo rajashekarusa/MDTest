@@ -7,19 +7,19 @@ public static void Info(String source,String message,Object[] args)
 ```
 ### Parameters
 *source*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *message*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *args*  
-&emsp;&emsp;Type: [System.Object[]](System.Object[].md) 
+&emsp;&emsp;Type: [System.Object[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

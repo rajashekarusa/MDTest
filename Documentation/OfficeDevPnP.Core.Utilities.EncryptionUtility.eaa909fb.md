@@ -9,11 +9,11 @@ public static security.securestring DecryptStringWithDPAPI(String encryptedData)
 ```
 ### Parameters
 *encryptedData*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Encrypted string  
   
 ### Return Value
-Type: [System.Security.SecureString](System.Security.SecureString.md)  
+Type: [System.Security.SecureString]  
 Decrypted (SecureString)string
 
 ## See also

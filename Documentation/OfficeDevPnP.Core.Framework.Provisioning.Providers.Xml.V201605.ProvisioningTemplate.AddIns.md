@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AddInsAddi
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AddInsAddin[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AddInsAddin[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AddInsAddin[]] 
 
 ## Remarks 
 

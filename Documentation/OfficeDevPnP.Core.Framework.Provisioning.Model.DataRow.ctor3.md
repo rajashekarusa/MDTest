@@ -7,10 +7,10 @@ public DataRow(Dictionary<String, String> values, ObjectSecurity security)
 ```
 ### Parameters
 #### values
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 #### 
 #### security
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

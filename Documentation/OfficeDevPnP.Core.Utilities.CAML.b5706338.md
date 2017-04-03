@@ -7,11 +7,11 @@ public static string Gt(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 ## Examples
 ```C#

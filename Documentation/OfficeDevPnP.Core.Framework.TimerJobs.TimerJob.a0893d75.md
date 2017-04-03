@@ -10,15 +10,15 @@ public void UseOffice365Authentication(String userUPN,SecureString password)
 ```
 ### Parameters
 *userUPN*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *password*  
-&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Password of the user that will be used to operate the timer job work  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

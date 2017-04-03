@@ -8,7 +8,7 @@ public string mugshot_url { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [YammerGroup](YammerGroup.md) 

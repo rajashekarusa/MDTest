@@ -9,7 +9,7 @@ public long Result { get; }
 ```
 
 ### Property Value
-Type: [System.Int64](System.Int64.md) 
+Type: [System.Int64] 
 
 ## Remarks 
 

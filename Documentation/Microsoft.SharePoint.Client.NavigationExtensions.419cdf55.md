@@ -9,7 +9,7 @@ public static void UpdateNavigationSettings(Web web,AreaNavigationEntity navigat
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *navigationSettings*  
@@ -17,7 +17,7 @@ public static void UpdateNavigationSettings(Web web,AreaNavigationEntity navigat
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

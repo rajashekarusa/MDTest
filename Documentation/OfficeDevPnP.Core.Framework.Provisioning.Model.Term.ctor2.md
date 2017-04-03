@@ -7,25 +7,25 @@ public Term(Guid id, String name, Nullable<Int32> language, List<Term> terms, Li
 ```
 ### Parameters
 #### id
-Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 #### 
 #### name
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### language
-Type: [System.Nullable`1<System.Int32>](System.Nullable`1<System.Int32>.md) 
+&emsp;&emsp;Type: [System.Nullable<System.Int32>] 
 #### 
 #### terms
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>] 
 #### 
 #### labels
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel>] 
 #### 
 #### properties
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 #### 
 #### localProperties
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

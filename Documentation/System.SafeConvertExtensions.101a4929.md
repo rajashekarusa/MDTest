@@ -7,11 +7,11 @@ public static  ToEnum(String name)
 ```
 ### Parameters
 *name*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T](T.md)  
+Type: [T]  
 
 ## See also
 - [System](System.md)

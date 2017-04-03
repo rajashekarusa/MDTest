@@ -9,7 +9,7 @@ public  AddMembership(String accountName,MembershipData membershipInfo,String gr
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *membershipInfo*  
@@ -17,11 +17,11 @@ public  AddMembership(String accountName,MembershipData membershipInfo,String gr
 &emsp;&emsp;  
   
 *group*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *privacy*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy] 
 &emsp;&emsp;  
   
 ### Return Value

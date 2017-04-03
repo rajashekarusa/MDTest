@@ -7,15 +7,15 @@ public  GetAzureADWebApplicationAuthenticatedContext(String siteUrl,Func<String,
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *accessTokenGetter*  
-&emsp;&emsp;Type: [System.Func<System.String,System.String>](System.Func<System.String,System.String>.md) 
+&emsp;&emsp;Type: [System.Func<System.String,System.String>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+Type: [Microsoft.SharePoint.Client.ClientContext]  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

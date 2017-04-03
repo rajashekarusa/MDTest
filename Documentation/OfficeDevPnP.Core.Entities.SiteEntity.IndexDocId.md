@@ -10,7 +10,7 @@ public double IndexDocId { set; }
 ```
 
 ### Property Value
-Type: [System.Double](System.Double.md) 
+Type: [System.Double] 
 
 ## See also
 - [SiteEntity](SiteEntity.md) 

@@ -5,6 +5,7 @@ Provisioning Framework Component that is used for invoking custom providers duri
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class ExtensibilityManager

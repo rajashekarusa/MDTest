@@ -7,16 +7,16 @@ public Publishing(AutoCheckRequirementsOptions autoCheckRequirements, DesignPack
 ```
 ### Parameters
 #### autoCheckRequirements
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions](OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions] 
 #### 
 #### (optional) designPackage
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
 #### 
 #### (optional) availableWebTemplates
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate>] 
 #### 
 #### (optional) pageLayouts
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout>] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

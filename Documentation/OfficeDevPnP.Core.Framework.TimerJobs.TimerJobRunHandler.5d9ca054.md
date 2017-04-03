@@ -7,7 +7,7 @@ public iasyncresult BeginInvoke(Object sender,TimerJobRunEventArgs e,AsyncCallba
 ```
 ### Parameters
 *sender*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 *e*  
@@ -15,15 +15,15 @@ public iasyncresult BeginInvoke(Object sender,TimerJobRunEventArgs e,AsyncCallba
 &emsp;&emsp;  
   
 *callback*  
-&emsp;&emsp;Type: [System.AsyncCallback](System.AsyncCallback.md) 
+&emsp;&emsp;Type: [System.AsyncCallback] 
 &emsp;&emsp;  
   
 *object*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult](System.IAsyncResult.md)  
+Type: [System.IAsyncResult]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

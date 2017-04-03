@@ -9,8 +9,8 @@ public  Clone(Uri siteUri)
 ```
 ### Parameters
 *siteUri*  
-&emsp;&emsp;Type: [System.Uri](System.Uri.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Uri] 
+&emsp;&emsp;Site url to be used for cloned ClientContext  
   
 ### Return Value
 Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md)  

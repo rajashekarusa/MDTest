@@ -7,19 +7,19 @@ public static guid AddWorkflowDefinition(Web web,WorkflowDefinition definition,B
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *definition*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition](Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition] 
 &emsp;&emsp;  
   
 *(optional) publish*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid](System.Guid.md)  
+Type: [System.Guid]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -7,23 +7,23 @@ public static boolean AddJsLink(Web web,String key,IEnumerable<String> scriptLin
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *key*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *scriptLinks*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>](System.Collections.Generic.IEnumerable<System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
 &emsp;&emsp;  
   
 *(optional) sequence*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
+&emsp;&emsp;Type: [System.Int32] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

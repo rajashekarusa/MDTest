@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef[]] 
 
 ## Remarks 
 

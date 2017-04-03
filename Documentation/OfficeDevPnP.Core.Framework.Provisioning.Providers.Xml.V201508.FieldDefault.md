@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.BaseFieldValue.md)
 ## Syntax
 ```C#
 public class FieldDefault: BaseFieldValue

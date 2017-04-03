@@ -3,6 +3,8 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+--  [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.md)
+----  [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken.md)
 ## Syntax
 ```C#
 public class TokenDefinition

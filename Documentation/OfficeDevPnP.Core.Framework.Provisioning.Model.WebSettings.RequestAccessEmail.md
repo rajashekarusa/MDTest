@@ -10,7 +10,7 @@ public string RequestAccessEmail { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [WebSettings](WebSettings.md) 

@@ -8,7 +8,7 @@ public T Value { set; }
 ```
 
 ### Property Value
-Type: [T](T.md) 
+Type: [T] 
 
 ## See also
 - [TreeNode](TreeNode.md) 

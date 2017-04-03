@@ -7,7 +7,7 @@ public static  FromHtml(String html)
 ```
 ### Parameters
 *html*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,8 +9,8 @@ public static  GetCurrentComposedLook(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to check  
   
 ### Return Value
 Type: [OfficeDevPnP.Core.Entities.ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md)  

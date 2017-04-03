@@ -10,7 +10,7 @@ public xml.xmlelement[] Extensions { set; }
 ```
 
 ### Property Value
-Type: [System.Xml.XmlElement[]](System.Xml.XmlElement[].md) 
+Type: [System.Xml.XmlElement[]] 
 
 ## Remarks 
 

@@ -10,7 +10,7 @@ public boolean EnableMinorVersions { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [ListInstance](ListInstance.md) 

@@ -7,43 +7,43 @@ public static void SendEmail(String servername,String fromAddress,SecureString f
 ```
 ### Parameters
 *servername*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *fromAddress*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *fromUserPassword*  
-&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
+&emsp;&emsp;Type: [System.Security.SecureString] 
 &emsp;&emsp;  
   
 *to*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>](System.Collections.Generic.IEnumerable<System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
 &emsp;&emsp;  
   
 *cc*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>](System.Collections.Generic.IEnumerable<System.String>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.String>] 
 &emsp;&emsp;  
   
 *subject*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *body*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) sendAsync*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 *(optional) asyncUserToken*  
-&emsp;&emsp;Type: [System.Object](System.Object.md) 
+&emsp;&emsp;Type: [System.Object] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

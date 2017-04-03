@@ -5,15 +5,15 @@ Gets a list of the available site policies
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<officedevpnp.core.entities.sitepolicyentity> GetSitePolicies(Web web)
+public static collections.generic.list<officedevpnp.core.entities.sitepolicyentity> GetSitePolicies(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to operate on  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SitePolicyEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SitePolicyEntity>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SitePolicyEntity>]  
 A list of  objects
 
 ## See also

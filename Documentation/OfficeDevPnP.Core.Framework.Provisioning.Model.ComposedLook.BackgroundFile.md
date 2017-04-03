@@ -10,7 +10,7 @@ public string BackgroundFile { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [ComposedLook](ComposedLook.md) 

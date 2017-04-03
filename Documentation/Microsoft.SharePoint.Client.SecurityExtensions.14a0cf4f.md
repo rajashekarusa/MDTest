@@ -9,15 +9,15 @@ public static int GetGroupID(Web web,String groupName)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *groupName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;SharePoint group name  
   
 ### Return Value
-Type: [System.Int32](System.Int32.md)  
+Type: [System.Int32]  
 Integer group ID
 
 ## See also

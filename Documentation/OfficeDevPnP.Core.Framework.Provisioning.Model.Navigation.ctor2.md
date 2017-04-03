@@ -7,10 +7,10 @@ public Navigation(GlobalNavigation globalNavigation, CurrentNavigation currentNa
 ```
 ### Parameters
 #### (optional) globalNavigation
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md) 
 #### 
 #### (optional) currentNavigation
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md) 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -9,15 +9,15 @@ public static boolean FieldExistsByNameInContentType(ContentType contentType,Str
 ```
 ### Parameters
 *contentType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ContentType](Microsoft.SharePoint.Client.ContentType.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ContentType] 
+&emsp;&emsp;The content type to check  
   
 *fieldName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The name of the field to look for  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 True if field exists in content type, otherwise false
 
 ## See also

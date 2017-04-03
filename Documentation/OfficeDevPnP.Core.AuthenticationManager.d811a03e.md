@@ -9,19 +9,19 @@ public  GetAppOnlyAuthenticatedContext(String siteUrl,String appId,String appSec
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *appId*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Application ID which is requesting the ClientContext object  
   
 *appSecret*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Application secret of the Application which is requesting the ClientContext object  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+Type: [Microsoft.SharePoint.Client.ClientContext]  
 ClientContext to be used by CSOM code
 
 ## See also

@@ -5,6 +5,7 @@ Deprecated JavaScript related methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class JavaScriptExtensions

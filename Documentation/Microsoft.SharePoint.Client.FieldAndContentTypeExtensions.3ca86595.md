@@ -9,19 +9,19 @@ public static  GetFieldByInternalName(Web web,String internalName,Boolean search
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web to be processed  
   
 *internalName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;If true, search parent sites and root site  
   
 *(optional) searchInSiteHierarchy*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md)  
+Type: [Microsoft.SharePoint.Client.Field]  
 
 
 ## See also

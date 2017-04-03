@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarTy
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarType.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarType] 
 
 ## Remarks 
 

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory[
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory[]] 
 
 ## Remarks 
 

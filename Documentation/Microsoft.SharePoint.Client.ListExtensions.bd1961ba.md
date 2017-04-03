@@ -9,19 +9,19 @@ public static void SetListPermission(List list,Principal principal,RoleType role
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;List on which permission to be set  
   
 *principal*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Principal](Microsoft.SharePoint.Client.Principal.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Principal] 
+&emsp;&emsp;SharePoint Group or User  
   
 *roleType*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType](Microsoft.SharePoint.Client.RoleType.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.RoleType] 
+&emsp;&emsp;Role type  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

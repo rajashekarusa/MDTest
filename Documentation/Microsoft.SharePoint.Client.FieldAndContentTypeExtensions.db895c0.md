@@ -9,19 +9,19 @@ public static  CreateField(List list,String fieldAsXml,Boolean executeQuery)
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;List to process  
   
 *fieldAsXml*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The XML declaration of SiteColumn definition  
   
 *(optional) executeQuery*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Optionally skip the executeQuery action  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md)  
+Type: [Microsoft.SharePoint.Client.Field]  
 The newly created field or existing field.
 
 ## See also

@@ -9,11 +9,11 @@ public static int ToInt32(String input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Input string.  
   
 ### Return Value
-Type: [System.Int32](System.Int32.md)  
+Type: [System.Int32]  
 
 ## See also
 - [System](System.md)

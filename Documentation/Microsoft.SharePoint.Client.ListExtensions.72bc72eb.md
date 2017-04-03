@@ -9,11 +9,11 @@ public static  GetPagesLibrary(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The web.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md)  
+Type: [Microsoft.SharePoint.Client.List]  
 The publishing pages library. Returns null if library was not found.
 
 ## See also

@@ -5,7 +5,7 @@ A collection of NavigationNode objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md)
 ## Syntax
 ```C#
 public class NavigationNodeCollection: ProvisioningTemplateCollection<NavigationNode>

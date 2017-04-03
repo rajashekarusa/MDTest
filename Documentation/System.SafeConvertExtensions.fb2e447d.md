@@ -9,15 +9,15 @@ public static long ToInt64(String input,Int32 defaultValue)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Input string.  
   
 *defaultValue*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;A default value to return for a null input value.  
   
 ### Return Value
-Type: [System.Int64](System.Int64.md)  
+Type: [System.Int64]  
 
 ## See also
 - [System](System.md)

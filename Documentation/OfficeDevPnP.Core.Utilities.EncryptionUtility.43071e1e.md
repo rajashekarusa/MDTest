@@ -9,11 +9,11 @@ public static string EncryptStringWithDPAPI(SecureString input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;String (SecureString) to encrypt  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 Encrypted string
 
 ## See also

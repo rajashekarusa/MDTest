@@ -8,7 +8,7 @@ public staticOfficeDevPnP.Core.Diagnostics.ILogger Logger { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Diagnostics.ILogger](OfficeDevPnP.Core.Diagnostics.ILogger.md) 
+Type: [OfficeDevPnP.Core.Diagnostics.ILogger] 
 
 ## See also
 - [Log](Log.md) 

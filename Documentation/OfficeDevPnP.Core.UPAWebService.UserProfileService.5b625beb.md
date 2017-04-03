@@ -9,11 +9,11 @@ public  GetUserOrganizations(String accountName)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[].md)  
+Type: [OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]]  
 
 ## Remarks 
 

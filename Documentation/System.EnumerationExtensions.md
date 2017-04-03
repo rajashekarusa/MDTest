@@ -5,6 +5,7 @@ Extension methods to make working with Enum values easier. Copied from http://hu
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class EnumerationExtensions

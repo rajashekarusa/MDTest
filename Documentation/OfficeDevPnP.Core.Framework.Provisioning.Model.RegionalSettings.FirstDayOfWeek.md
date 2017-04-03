@@ -10,7 +10,7 @@ public dayofweek FirstDayOfWeek { set; }
 ```
 
 ### Property Value
-Type: [System.DayOfWeek](System.DayOfWeek.md) 
+Type: [System.DayOfWeek] 
 
 ## See also
 - [RegionalSettings](RegionalSettings.md) 

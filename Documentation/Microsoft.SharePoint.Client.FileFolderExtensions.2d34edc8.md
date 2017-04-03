@@ -9,15 +9,15 @@ public static  CreateFolder(Folder parentFolder,String folderName)
 ```
 ### Parameters
 *parentFolder*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Folder] 
+&emsp;&emsp;Parent folder to create under  
   
 *folderName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Folder name to retrieve or create  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder](Microsoft.SharePoint.Client.Folder.md)  
+Type: [Microsoft.SharePoint.Client.Folder]  
 The newly created folder
 
 ## Remarks 

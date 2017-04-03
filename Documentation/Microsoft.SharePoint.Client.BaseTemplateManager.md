@@ -5,6 +5,7 @@ This class will be used to provide access to the right base template configurati
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class BaseTemplateManager

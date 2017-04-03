@@ -9,27 +9,27 @@ public static string ViewQuery(ViewScope scope,String whereClause,String orderBy
 ```
 ### Parameters
 *scope*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ViewScope](Microsoft.SharePoint.Client.ViewScope.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ViewScope] 
+&emsp;&emsp;View scope  
   
 *(optional) whereClause*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;<Where> node.  
   
 *(optional) orderByClause*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;<OrderBy> node.  
   
 *(optional) viewFields*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;<ViewFields> node.  
   
 *(optional) rowLimit*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;<RowLimit> node.  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 String to be used in CAML queries
 
 ## Examples

@@ -5,6 +5,7 @@ Properties of the PnP OpenXML container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class PnPProperties

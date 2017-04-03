@@ -5,6 +5,7 @@ Defines a single file in the PnP Open XML file package
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class PnPPackageFileItem

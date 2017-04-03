@@ -9,11 +9,11 @@ public  GetUserLinks(String accountName)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData[]](OfficeDevPnP.Core.UPAWebService.QuickLinkData[].md)  
+Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData[]]  
 
 ## Remarks 
 

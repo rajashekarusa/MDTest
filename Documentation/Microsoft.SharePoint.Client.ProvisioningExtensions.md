@@ -5,6 +5,7 @@ File-based (CAML) deprecated provisioning extensions
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class ProvisioningExtensions

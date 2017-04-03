@@ -5,15 +5,15 @@ Gets all sub sites for a given site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ienumerable`1<system.string> GetAllSubSites(Site site)
+public collections.generic.ienumerable<system.string> GetAllSubSites(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Site to find all sub site for  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+Type: [System.Collections.Generic.IEnumerable<System.String>]  
 IEnumerable of strings holding the sub site urls
 
 ## See also

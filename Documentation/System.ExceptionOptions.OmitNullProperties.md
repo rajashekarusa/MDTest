@@ -8,7 +8,7 @@ public boolean OmitNullProperties { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [ExceptionOptions](ExceptionOptions.md) 

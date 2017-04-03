@@ -9,11 +9,11 @@ public static string FieldRef(String fieldName)
 ```
 ### Parameters
 *fieldName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 
 ## Examples

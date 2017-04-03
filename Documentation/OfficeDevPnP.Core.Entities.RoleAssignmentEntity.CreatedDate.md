@@ -8,7 +8,7 @@ public datetime CreatedDate { set; }
 ```
 
 ### Property Value
-Type: [System.DateTime](System.DateTime.md) 
+Type: [System.DateTime] 
 
 ## See also
 - [RoleAssignmentEntity](RoleAssignmentEntity.md) 

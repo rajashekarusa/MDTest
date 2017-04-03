@@ -9,11 +9,11 @@ public static boolean HasCacheEntry(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
 *httpControllerContext*  
-&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpControllerContext](System.Web.Http.Controllers.HttpControllerContext.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpControllerContext] 
+&emsp;&emsp;Information about the HTTP request that reached the WebAPI controller  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 True if cookie is available and not empty, false otherwise
 
 ## See also

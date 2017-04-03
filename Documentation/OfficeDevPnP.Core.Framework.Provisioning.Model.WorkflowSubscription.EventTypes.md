@@ -5,12 +5,12 @@ Defines the list of events that will start the workflow instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<system.string> EventTypes { get; }
-public collections.generic.list`1<system.string> EventTypes { set; }
+public collections.generic.list<system.string> EventTypes { get; }
+public collections.generic.list<system.string> EventTypes { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List`1<System.String>](System.Collections.Generic.List`1<System.String>.md) 
+Type: [System.Collections.Generic.List<System.String>] 
 
 ## Remarks 
 

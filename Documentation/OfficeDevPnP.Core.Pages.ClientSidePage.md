@@ -5,6 +5,7 @@ Represents a modern client side page with all it's contents
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class ClientSidePage

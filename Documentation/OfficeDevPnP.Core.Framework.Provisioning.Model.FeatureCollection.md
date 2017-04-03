@@ -5,7 +5,7 @@ Collection of Feature objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md)
 ## Syntax
 ```C#
 public class FeatureCollection: ProvisioningTemplateCollection<Feature>

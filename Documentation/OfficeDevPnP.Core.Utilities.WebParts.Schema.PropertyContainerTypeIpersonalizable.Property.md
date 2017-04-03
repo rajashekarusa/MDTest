@@ -5,11 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.objectmodel.collection`1<officedevpnp.core.utilities.webparts.schema.propertytype> Property { get; }
+public collections.objectmodel.collection<officedevpnp.core.utilities.webparts.schema.propertytype> Property { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.ObjectModel.Collection`1<OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType>](System.Collections.ObjectModel.Collection`1<OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType>.md) 
+Type: [System.Collections.ObjectModel.Collection<OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType>] 
 
 ## See also
 - [PropertyContainerTypeIpersonalizable](PropertyContainerTypeIpersonalizable.md) 

@@ -7,15 +7,15 @@ public static void SetDefaultColumnValues(List list,IEnumerable<IDefaultColumnVa
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
 &emsp;&emsp;  
   
 *columnValues*  
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>](System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -9,11 +9,11 @@ public static  GetYammerGroupById(Int32 groupId,String accessToken)
 ```
 ### Parameters
 *groupId*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Group Id to search for  
   
 *accessToken*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value

@@ -10,7 +10,7 @@ public string LanguageCode { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [WebTemplateEntity](WebTemplateEntity.md) 

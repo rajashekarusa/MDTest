@@ -8,7 +8,7 @@ public datetime WhenCreated { set; }
 ```
 
 ### Property Value
-Type: [System.DateTime](System.DateTime.md) 
+Type: [System.DateTime] 
 
 ## See also
 - [ExternalUserEntity](ExternalUserEntity.md) 

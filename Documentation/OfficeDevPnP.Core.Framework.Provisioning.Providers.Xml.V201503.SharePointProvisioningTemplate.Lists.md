@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstan
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance[]] 
 
 ## Remarks 
 

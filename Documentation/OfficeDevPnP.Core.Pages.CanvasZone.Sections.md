@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<officedevpnp.core.pages.canvassection> Sections { get; }
+public collections.generic.list<officedevpnp.core.pages.canvassection> Sections { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Pages.CanvasSection>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Pages.CanvasSection>.md) 
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasSection>] 
 
 ## See also
 - [CanvasZone](CanvasZone.md) 

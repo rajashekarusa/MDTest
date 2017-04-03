@@ -5,19 +5,19 @@ Get all unique role assignments for a web object and all its descendents down to
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable`1<officedevpnp.core.entities.roleassignmententity> GetAllUniqueRoleAssignments(Web web,Int32 leafBreadthLimit)
+public static collections.generic.ienumerable<officedevpnp.core.entities.roleassignmententity> GetAllUniqueRoleAssignments(Web web,Int32 leafBreadthLimit)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The current web object to be processed.  
   
 *(optional) leafBreadthLimit*  
-&emsp;&emsp;Type: [System.Int32](System.Int32.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Skip further visiting on this branch if the number of child items or documents with unique role assignments exceeded leafBreadthLimit. When setting to 0, the process will stop at list / document library level.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>.md)  
+Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>]  
 
 
 ## See also

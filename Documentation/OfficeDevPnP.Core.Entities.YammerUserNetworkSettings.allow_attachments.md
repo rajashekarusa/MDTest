@@ -8,7 +8,7 @@ public string allow_attachments { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

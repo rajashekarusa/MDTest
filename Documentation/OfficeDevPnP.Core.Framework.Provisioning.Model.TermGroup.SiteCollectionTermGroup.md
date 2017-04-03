@@ -10,7 +10,7 @@ public boolean SiteCollectionTermGroup { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean](System.Boolean.md) 
+Type: [System.Boolean] 
 
 ## See also
 - [TermGroup](TermGroup.md) 

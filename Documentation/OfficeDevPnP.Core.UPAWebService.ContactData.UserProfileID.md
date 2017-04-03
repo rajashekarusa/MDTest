@@ -10,7 +10,7 @@ public guid UserProfileID { set; }
 ```
 
 ### Property Value
-Type: [System.Guid](System.Guid.md) 
+Type: [System.Guid] 
 
 ## Remarks 
 

@@ -5,7 +5,7 @@ Collection of FieldRef objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md)
 ## Syntax
 ```C#
 public class FieldRefCollection: ProvisioningTemplateCollection<FieldRef>

@@ -9,11 +9,11 @@ public boolean MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentif
 ```
 ### Parameters
 *keyIdentifierClause*  
-&emsp;&emsp;Type: [System.IdentityModel.Tokens.SecurityKeyIdentifierClause](System.IdentityModel.Tokens.SecurityKeyIdentifierClause.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.IdentityModel.Tokens.SecurityKeyIdentifierClause] 
+&emsp;&emsp;A SecurityKeyIdentifierClause to compare to this instance  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 true if keyIdentifierClause is a SecurityKeyIdentifierClause and it has the same unique identifier as the Id property; otherwise, false.
 
 ## See also

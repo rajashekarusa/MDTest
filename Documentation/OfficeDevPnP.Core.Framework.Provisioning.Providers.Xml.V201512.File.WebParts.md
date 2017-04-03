@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPag
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart[]] 
 
 ## Remarks 
 

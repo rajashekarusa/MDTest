@@ -5,6 +5,9 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+--  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefBase.md)
+----  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefFull](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefFull.md)
+----  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetFieldRef.md)
 ## Syntax
 ```C#
 public class FieldRefBase

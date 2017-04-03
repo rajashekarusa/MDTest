@@ -7,11 +7,11 @@ public void EndInvoke(IAsyncResult result)
 ```
 ### Parameters
 *result*  
-&emsp;&emsp;Type: [System.IAsyncResult](System.IAsyncResult.md) 
+&emsp;&emsp;Type: [System.IAsyncResult] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

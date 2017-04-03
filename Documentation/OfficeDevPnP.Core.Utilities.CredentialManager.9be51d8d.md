@@ -9,11 +9,11 @@ public static net.networkcredential GetCredential(String name)
 ```
 ### Parameters
 *name*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Net.NetworkCredential](System.Net.NetworkCredential.md)  
+Type: [System.Net.NetworkCredential]  
 System.Net.NetworkCredential
 
 ## See also

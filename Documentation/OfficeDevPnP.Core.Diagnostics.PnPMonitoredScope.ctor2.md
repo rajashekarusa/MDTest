@@ -7,7 +7,7 @@ public PnPMonitoredScope(String name)
 ```
 ### Parameters
 #### name
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

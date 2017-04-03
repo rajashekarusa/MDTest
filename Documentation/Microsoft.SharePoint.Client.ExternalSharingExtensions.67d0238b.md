@@ -9,15 +9,15 @@ public static  GetObjectSharingSettingsForSite(Web web,Boolean useSimplifiedPoli
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web for the context  
   
 *(optional) useSimplifiedPolicies*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ObjectSharingSettings](Microsoft.SharePoint.Client.ObjectSharingSettings.md)  
+Type: [Microsoft.SharePoint.Client.ObjectSharingSettings]  
 
 
 ## See also

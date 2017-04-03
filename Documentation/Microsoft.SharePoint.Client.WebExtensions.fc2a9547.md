@@ -5,15 +5,15 @@ Returns all keys in the property bag that have been marked for indexing
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable`1<system.string> GetIndexedPropertyBagKeys(Web web)
+public static collections.generic.ienumerable<system.string> GetIndexedPropertyBagKeys(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The site to process  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+Type: [System.Collections.Generic.IEnumerable<System.String>]  
 
 
 ## See also

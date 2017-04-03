@@ -5,7 +5,7 @@ ADFS Active authentication based on username + password. Uses the trust/13/usern
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider.md)
+    [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider.md)
 ## Syntax
 ```C#
 public class UsernameMixed: BaseProvider

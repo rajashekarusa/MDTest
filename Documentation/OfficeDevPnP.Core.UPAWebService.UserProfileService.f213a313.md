@@ -9,11 +9,11 @@ public  GetUserPinnedLinks(String accountName)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]](OfficeDevPnP.Core.UPAWebService.PinnedLinkData[].md)  
+Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]]  
 
 ## Remarks 
 

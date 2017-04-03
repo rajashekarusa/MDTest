@@ -7,15 +7,15 @@ public static void AddRange(IDictionary<TKey, TValue> dictionary,IDictionary<TKe
 ```
 ### Parameters
 *dictionary*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>](System.Collections.Generic.IDictionary<TKey,TValue>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>] 
 &emsp;&emsp;  
   
 *range*  
-&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>](System.Collections.Generic.IDictionary<TKey,TValue>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IDictionary<TKey,TValue>] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

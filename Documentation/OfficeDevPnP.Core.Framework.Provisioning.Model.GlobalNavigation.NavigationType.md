@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType Navig
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType] 
 
 ## See also
 - [GlobalNavigation](GlobalNavigation.md) 

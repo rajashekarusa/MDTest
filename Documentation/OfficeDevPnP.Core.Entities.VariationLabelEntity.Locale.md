@@ -10,7 +10,7 @@ public uint32 Locale { set; }
 ```
 
 ### Property Value
-Type: [System.UInt32](System.UInt32.md) 
+Type: [System.UInt32] 
 
 ## See also
 - [VariationLabelEntity](VariationLabelEntity.md) 

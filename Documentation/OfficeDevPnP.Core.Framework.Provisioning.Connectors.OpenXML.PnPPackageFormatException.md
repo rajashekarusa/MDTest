@@ -5,7 +5,7 @@ Custom Exception type for PnP Packaging handling
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [System.ApplicationException](System.ApplicationException.md)
+    [System.ApplicationException](System.ApplicationException.md)
 ## Syntax
 ```C#
 public class PnPPackageFormatException: ApplicationException

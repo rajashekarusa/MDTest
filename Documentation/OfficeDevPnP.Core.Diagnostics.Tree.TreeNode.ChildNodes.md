@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ienumerable`1<officedevpnp.core.diagnostics.tree.itreenode> ChildNodes { get; }
+public collections.generic.ienumerable<officedevpnp.core.diagnostics.tree.itreenode> ChildNodes { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>](System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>.md) 
+Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>] 
 
 ## See also
 - [TreeNode](TreeNode.md) 

@@ -5,7 +5,7 @@ Collection of Field objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.Field](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.Field](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.md)
 ## Syntax
 ```C#
 public class FieldCollection: ProvisioningTemplateCollection<Field>

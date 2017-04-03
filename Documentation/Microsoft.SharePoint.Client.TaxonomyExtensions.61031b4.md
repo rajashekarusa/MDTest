@@ -9,15 +9,15 @@ public static  CreateTaxonomyField(List list,TaxonomyFieldCreationInformation fi
 ```
 ### Parameters
 *list*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List](Microsoft.SharePoint.Client.List.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.List] 
+&emsp;&emsp;List to be processed  
   
 *fieldCreationInformation*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Creation information of the field  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field](Microsoft.SharePoint.Client.Field.md)  
+Type: [Microsoft.SharePoint.Client.Field]  
 New taxonomy field
 
 ## See also

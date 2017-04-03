@@ -9,15 +9,15 @@ public static string ResolvePeoplePickerValueForEmail(Web web,String emailAddres
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web for the context used for people picker search  
   
 *emailAddress*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Email address to be used as the query parameter. Should be pointing to unique person which is then searched using people picker capability programatically.  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 Resolves people picker value which can be used for sharing objects in the SharePoint site
 
 ## See also

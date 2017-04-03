@@ -5,6 +5,7 @@ Class that holds the state information that's being stored in the web property b
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class TimerJobRun

@@ -5,7 +5,7 @@ Collection of Localization objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md)
 ## Syntax
 ```C#
 public class LocalizationCollection: ProvisioningTemplateCollection<Localization>

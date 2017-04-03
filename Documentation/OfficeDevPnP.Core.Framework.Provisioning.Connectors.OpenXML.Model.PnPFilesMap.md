@@ -5,6 +5,7 @@ Defines the mapping between original file names and OpenXML file names
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class PnPFilesMap

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel] 
 
 ## Remarks 
 

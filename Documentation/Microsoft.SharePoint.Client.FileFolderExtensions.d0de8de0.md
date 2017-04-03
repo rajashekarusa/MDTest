@@ -10,15 +10,15 @@ public static boolean VerifyIfUploadRequired(File serverFile,String localFile)
 ```
 ### Parameters
 *serverFile*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.File] 
+&emsp;&emsp;File located on the server.  
   
 *localFile*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;File to validate against.  
   
 ### Return Value
-Type: [System.Boolean](System.Boolean.md)  
+Type: [System.Boolean]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

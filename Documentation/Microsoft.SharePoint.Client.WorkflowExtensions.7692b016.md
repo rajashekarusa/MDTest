@@ -9,15 +9,15 @@ public static  GetWorkflowDefinitions(Web web,Boolean publishedOnly)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;The target Web  
   
 *publishedOnly*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Defines whether to include only published definition, or all the definitions  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition[]](Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition[].md)  
+Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition[]]  
 
 
 ## See also

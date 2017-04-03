@@ -9,15 +9,15 @@ public static string Encrypt(String stringToEncrypt,String thumbPrint)
 ```
 ### Parameters
 *stringToEncrypt*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Text to encrypt  
   
 *thumbPrint*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Thumbprint of the certificate to use  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 Encrypted text
 
 ## See also

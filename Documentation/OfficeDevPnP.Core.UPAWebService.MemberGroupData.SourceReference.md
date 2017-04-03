@@ -10,7 +10,7 @@ public string SourceReference { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## Remarks 
 

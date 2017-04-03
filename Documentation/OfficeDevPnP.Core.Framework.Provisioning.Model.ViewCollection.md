@@ -5,7 +5,7 @@ Collection of View objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.View](OfficeDevPnP.Core.Framework.Provisioning.Model.View.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.View](OfficeDevPnP.Core.Framework.Provisioning.Model.View.md)
 ## Syntax
 ```C#
 public class ViewCollection: ProvisioningTemplateCollection<View>

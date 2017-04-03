@@ -5,11 +5,11 @@ Taxonomy paths in the shape of "TermGroup|TermSet|Term"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist`1<system.string> TermPaths { get; }
+public collections.generic.ilist<system.string> TermPaths { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList`1<System.String>](System.Collections.Generic.IList`1<System.String>.md) 
+Type: [System.Collections.Generic.IList<System.String>] 
 
 ## See also
 - [DefaultColumnTermPathValue](DefaultColumnTermPathValue.md) 

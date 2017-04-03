@@ -9,19 +9,19 @@ public static  GetWorkflowDefinition(Web web,String displayName,Boolean publishe
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
 &emsp;&emsp;  
   
 *displayName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *(optional) publishedOnly*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
+&emsp;&emsp;Type: [System.Boolean] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition](Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition.md)  
+Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition]  
 
 
 ## See also

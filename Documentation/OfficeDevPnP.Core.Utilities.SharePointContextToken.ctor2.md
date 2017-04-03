@@ -7,25 +7,25 @@ public SharePointContextToken(String issuer, String audience, DateTime validFrom
 ```
 ### Parameters
 #### issuer
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### audience
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### validFrom
-Type: [System.DateTime](System.DateTime.md) 
+&emsp;&emsp;Type: [System.DateTime] 
 #### 
 #### validTo
-Type: [System.DateTime](System.DateTime.md) 
+&emsp;&emsp;Type: [System.DateTime] 
 #### 
 #### claims
-Type: [System.Collections.Generic.IEnumerable`1<SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebTokenClaim>](System.Collections.Generic.IEnumerable`1<SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebTokenClaim>.md) 
+&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebTokenClaim>] 
 #### 
 #### issuerToken
-Type: [System.IdentityModel.Tokens.SecurityToken](System.IdentityModel.Tokens.SecurityToken.md) 
+&emsp;&emsp;Type: [System.IdentityModel.Tokens.SecurityToken] 
 #### 
 #### actorToken
-Type: [SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken](SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken.md) 
+&emsp;&emsp;Type: [SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -9,11 +9,11 @@ public static double ToDouble(String input)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Input string.  
   
 ### Return Value
-Type: [System.Double](System.Double.md)  
+Type: [System.Double]  
 
 ## See also
 - [System](System.md)

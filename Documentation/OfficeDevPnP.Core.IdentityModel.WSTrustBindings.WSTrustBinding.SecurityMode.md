@@ -8,7 +8,7 @@ public servicemodel.securitymode SecurityMode { set; }
 ```
 
 ### Property Value
-Type: [System.ServiceModel.SecurityMode](System.ServiceModel.SecurityMode.md) 
+Type: [System.ServiceModel.SecurityMode] 
 
 ## See also
 - [WSTrustBinding](WSTrustBinding.md) 

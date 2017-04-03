@@ -9,7 +9,7 @@ public static  GetUserProfileServiceClient(Tenant tenant)
 ```
 ### Parameters
 *tenant*  
-&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant](Microsoft.Online.SharePoint.TenantAdministration.Tenant.md) 
+&emsp;&emsp;Type: [Microsoft.Online.SharePoint.TenantAdministration.Tenant] 
 &emsp;&emsp;  
   
 ### Return Value

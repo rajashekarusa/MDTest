@@ -9,7 +9,7 @@ public void UpdatePinnedLink(String accountName,PinnedLinkData data)
 ```
 ### Parameters
 *accountName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *data*  
@@ -17,7 +17,7 @@ public void UpdatePinnedLink(String accountName,PinnedLinkData data)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## Remarks 
 

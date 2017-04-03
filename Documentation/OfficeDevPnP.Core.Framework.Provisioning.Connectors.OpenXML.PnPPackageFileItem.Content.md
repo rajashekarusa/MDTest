@@ -8,7 +8,7 @@ public byte[] Content { set; }
 ```
 
 ### Property Value
-Type: [System.Byte[]](System.Byte[].md) 
+Type: [System.Byte[]] 
 
 ## See also
 - [PnPPackageFileItem](PnPPackageFileItem.md) 

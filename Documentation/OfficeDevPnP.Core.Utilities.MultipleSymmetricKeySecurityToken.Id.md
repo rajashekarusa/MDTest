@@ -9,7 +9,7 @@ public string Id { get; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [MultipleSymmetricKeySecurityToken](MultipleSymmetricKeySecurityToken.md) 

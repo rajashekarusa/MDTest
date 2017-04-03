@@ -9,19 +9,19 @@ public static void PublishCustomEvent(WorkflowInstance instance,String eventName
 ```
 ### Parameters
 *instance*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance](Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance] 
 &emsp;&emsp;  
   
 *eventName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The name of the target event  
   
 *payload*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;The payload that will be sent to the event  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

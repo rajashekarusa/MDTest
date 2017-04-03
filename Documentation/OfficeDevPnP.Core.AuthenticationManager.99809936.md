@@ -9,15 +9,15 @@ public  GetWebLoginClientContext(String siteUrl,Icon icon)
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *(optional) icon*  
-&emsp;&emsp;Type: [System.Drawing.Icon](System.Drawing.Icon.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Drawing.Icon] 
+&emsp;&emsp;Optional icon to use for the popup form  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+Type: [Microsoft.SharePoint.Client.ClientContext]  
 ClientContext to be used by CSOM code
 
 ## See also

@@ -3,12 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist`1<system.object> external_urls { get; }
-public collections.generic.ilist`1<system.object> external_urls { set; }
+public collections.generic.ilist<system.object> external_urls { get; }
+public collections.generic.ilist<system.object> external_urls { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList`1<System.Object>](System.Collections.Generic.IList`1<System.Object>.md) 
+Type: [System.Collections.Generic.IList<System.Object>] 
 
 ## See also
 - [YammerUser](YammerUser.md) 

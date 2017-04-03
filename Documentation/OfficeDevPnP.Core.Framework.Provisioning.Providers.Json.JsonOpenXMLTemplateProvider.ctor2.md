@@ -7,7 +7,7 @@ public JsonOpenXMLTemplateProvider(OpenXMLConnector openXMLConnector)
 ```
 ### Parameters
 #### openXMLConnector
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.md) 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

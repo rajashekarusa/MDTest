@@ -10,7 +10,7 @@ public string ConfigurationData { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [TimerJob](TimerJob.md) 

@@ -9,27 +9,27 @@ public static  ShareSiteWithPeoplePickerValue(Web web,String peoplePickerInput,G
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Web for the context of the site to be shared.  
   
 *peoplePickerInput*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;JSON object with the people picker value  
   
 *group*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group](Microsoft.SharePoint.Client.Group.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Group] 
+&emsp;&emsp;The group to invite the user to  
   
 *(optional) sendEmail*  
-&emsp;&emsp;Type: [System.Boolean](System.Boolean.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Should we send email for the given address.  
   
 *(optional) emailBody*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Text to be added on share email sent to receiver.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult](Microsoft.SharePoint.Client.SharingResult.md)  
+Type: [Microsoft.SharePoint.Client.SharingResult]  
 
 
 ## See also

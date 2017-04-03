@@ -9,19 +9,19 @@ public static  AddWebPartToWebPartPage(Web web,WebPartEntity webPart,String page
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *webPart*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Information about the web part to insert  
   
 *page*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Page to add the web part on  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition](Microsoft.SharePoint.Client.WebParts.WebPartDefinition.md)  
+Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition]  
 Returns the added  object
 
 ## See also

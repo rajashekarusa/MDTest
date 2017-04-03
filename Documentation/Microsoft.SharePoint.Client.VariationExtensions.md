@@ -5,6 +5,7 @@ Class that provides methods for variations
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class VariationExtensions

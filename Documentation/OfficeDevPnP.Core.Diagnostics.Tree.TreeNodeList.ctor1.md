@@ -7,7 +7,7 @@ public TreeNodeList(ITreeNode parent)
 ```
 ### Parameters
 #### parent
-Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T>.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

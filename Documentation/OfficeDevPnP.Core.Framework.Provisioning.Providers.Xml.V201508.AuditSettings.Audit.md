@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSetti
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAudit[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAudit[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAudit[]] 
 
 ## Remarks 
 

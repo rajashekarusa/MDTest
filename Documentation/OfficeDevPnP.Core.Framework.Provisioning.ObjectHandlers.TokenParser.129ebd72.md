@@ -7,15 +7,15 @@ public string ParseString(String input,String[] tokensToSkip)
 ```
 ### Parameters
 *input*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 *tokensToSkip*  
-&emsp;&emsp;Type: [System.String[]](System.String[].md) 
+&emsp;&emsp;Type: [System.String[]] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String](System.String.md)  
+Type: [System.String]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

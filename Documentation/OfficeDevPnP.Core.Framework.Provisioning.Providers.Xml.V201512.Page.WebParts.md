@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart[]] 
 
 ## Remarks 
 

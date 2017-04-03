@@ -9,11 +9,11 @@ public  GetUserProfileByGuid(Guid guid)
 ```
 ### Parameters
 *guid*  
-&emsp;&emsp;Type: [System.Guid](System.Guid.md) 
+&emsp;&emsp;Type: [System.Guid] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]](OfficeDevPnP.Core.UPAWebService.PropertyData[].md)  
+Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]]  
 
 ## Remarks 
 

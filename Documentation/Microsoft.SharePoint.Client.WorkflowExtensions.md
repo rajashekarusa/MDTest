@@ -5,6 +5,7 @@ Class for deprecated workflow extension methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class WorkflowExtensions

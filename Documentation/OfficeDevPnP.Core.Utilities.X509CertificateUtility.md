@@ -5,6 +5,7 @@ Supporting class for certificate based operations
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public static class X509CertificateUtility

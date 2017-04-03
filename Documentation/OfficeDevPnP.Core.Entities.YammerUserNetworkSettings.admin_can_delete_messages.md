@@ -8,7 +8,7 @@ public string admin_can_delete_messages { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

@@ -5,15 +5,15 @@ Get a list of site collection administrators
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list`1<officedevpnp.core.entities.userentity> GetAdministrators(Web web)
+public static collections.generic.list<officedevpnp.core.entities.userentity> GetAdministrators(Web web)
 ```
 ### Parameters
 *web*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web](Microsoft.SharePoint.Client.Web.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Site to operate on  
   
 ### Return Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity>.md)  
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>]  
 List of  objects
 
 ## See also

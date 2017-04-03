@@ -8,7 +8,7 @@ public guid CorrelationId { set; }
 ```
 
 ### Property Value
-Type: [System.Guid](System.Guid.md) 
+Type: [System.Guid] 
 
 ## See also
 - [LogEntry](LogEntry.md) 

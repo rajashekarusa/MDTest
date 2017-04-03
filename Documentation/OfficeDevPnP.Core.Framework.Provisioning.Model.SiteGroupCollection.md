@@ -5,7 +5,7 @@ Collection of SiteGroup objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.md)
 ## Syntax
 ```C#
 public class SiteGroupCollection: ProvisioningTemplateCollection<SiteGroup>

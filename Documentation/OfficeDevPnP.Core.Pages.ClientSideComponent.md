@@ -5,6 +5,7 @@ Client side webpart object (retrieved via the _api/web/GetClientSideWebParts RES
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+
 ## Syntax
 ```C#
 public class ClientSideComponent

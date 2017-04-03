@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreS
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreScope](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreScope.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreScope] 
 
 ## Remarks 
 

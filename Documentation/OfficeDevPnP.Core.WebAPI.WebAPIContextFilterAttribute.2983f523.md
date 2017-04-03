@@ -7,11 +7,11 @@ public void OnActionExecuting(HttpActionContext actionContext)
 ```
 ### Parameters
 *actionContext*  
-&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpActionContext](System.Web.Http.Controllers.HttpActionContext.md) 
+&emsp;&emsp;Type: [System.Web.Http.Controllers.HttpActionContext] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

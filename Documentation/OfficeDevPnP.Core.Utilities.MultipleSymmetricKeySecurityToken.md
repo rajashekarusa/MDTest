@@ -5,7 +5,7 @@ Represents a security token which contains multiple security keys that are gener
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [System.IdentityModel.Tokens.SecurityToken](System.IdentityModel.Tokens.SecurityToken.md)
+    [System.IdentityModel.Tokens.SecurityToken](System.IdentityModel.Tokens.SecurityToken.md)
 ## Syntax
 ```C#
 public class MultipleSymmetricKeySecurityToken: SecurityToken

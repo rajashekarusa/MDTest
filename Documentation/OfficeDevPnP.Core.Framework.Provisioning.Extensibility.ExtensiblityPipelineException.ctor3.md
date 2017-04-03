@@ -7,10 +7,10 @@ public ExtensiblityPipelineException(String message, Exception innerException)
 ```
 ### Parameters
 #### message
-Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 #### 
 #### innerException
-Type: [System.Exception](System.Exception.md) 
+&emsp;&emsp;Type: [System.Exception] 
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

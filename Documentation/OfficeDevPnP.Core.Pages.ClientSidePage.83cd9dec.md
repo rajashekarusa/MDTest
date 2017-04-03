@@ -7,11 +7,11 @@ public static  Load(ClientContext cc,String pageName)
 ```
 ### Parameters
 *cc*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md) 
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
 &emsp;&emsp;  
   
 *pageName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value

@@ -5,7 +5,7 @@ Collection of TermSete objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md)
 ## Syntax
 ```C#
 public class TermSetCollection: ProvisioningTemplateCollection<TermSet>

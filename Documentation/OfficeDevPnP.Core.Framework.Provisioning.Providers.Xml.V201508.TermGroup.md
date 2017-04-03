@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TaxonomyItem.md)
+    [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TaxonomyItem.md)
 ## Syntax
 ```C#
 public class TermGroup: TaxonomyItem

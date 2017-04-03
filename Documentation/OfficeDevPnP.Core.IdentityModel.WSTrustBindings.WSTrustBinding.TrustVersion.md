@@ -8,7 +8,7 @@ public servicemodel.security.trustversion TrustVersion { set; }
 ```
 
 ### Property Value
-Type: [System.ServiceModel.Security.TrustVersion](System.ServiceModel.Security.TrustVersion.md) 
+Type: [System.ServiceModel.Security.TrustVersion] 
 
 ## See also
 - [WSTrustBinding](WSTrustBinding.md) 

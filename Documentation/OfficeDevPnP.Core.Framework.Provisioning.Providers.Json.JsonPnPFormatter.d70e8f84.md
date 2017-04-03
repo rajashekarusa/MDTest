@@ -7,7 +7,7 @@ public  ToProvisioningTemplate(Stream template)
 ```
 ### Parameters
 *template*  
-&emsp;&emsp;Type: [System.IO.Stream](System.IO.Stream.md) 
+&emsp;&emsp;Type: [System.IO.Stream] 
 &emsp;&emsp;  
   
 ### Return Value

@@ -9,11 +9,11 @@ public string[] GetPropertyChoiceList(String propertyName)
 ```
 ### Parameters
 *propertyName*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
+&emsp;&emsp;Type: [System.String] 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String[]](System.String[].md)  
+Type: [System.String[]]  
 
 ## Remarks 
 

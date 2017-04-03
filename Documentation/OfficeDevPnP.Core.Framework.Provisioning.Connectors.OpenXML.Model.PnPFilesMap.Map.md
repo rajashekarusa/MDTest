@@ -3,12 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary`2<system.string,system.string> Map { get; }
-public collections.generic.dictionary`2<system.string,system.string> Map { set; }
+public collections.generic.dictionary<system.string,system.string> Map { get; }
+public collections.generic.dictionary<system.string,system.string> Map { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary`2<System.String,System.String>](System.Collections.Generic.Dictionary`2<System.String,System.String>.md) 
+Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
 
 ## See also
 - [PnPFilesMap](PnPFilesMap.md) 

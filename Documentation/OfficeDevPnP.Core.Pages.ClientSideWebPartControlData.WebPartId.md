@@ -8,7 +8,7 @@ public string WebPartId { set; }
 ```
 
 ### Property Value
-Type: [System.String](System.String.md) 
+Type: [System.String] 
 
 ## See also
 - [ClientSideWebPartControlData](ClientSideWebPartControlData.md) 

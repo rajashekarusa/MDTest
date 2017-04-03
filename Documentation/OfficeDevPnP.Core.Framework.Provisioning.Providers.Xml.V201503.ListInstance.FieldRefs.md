@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[]
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[].md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[]] 
 
 ## Remarks 
 

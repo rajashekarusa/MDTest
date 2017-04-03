@@ -5,6 +5,9 @@ Base class for active SAML based authentication
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
+--  [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider.md)
+----  [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.CertificateMixed](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.CertificateMixed.md)
+----  [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.UsernameMixed](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.UsernameMixed.md)
 ## Syntax
 ```C#
 public class BaseProvider

@@ -6,15 +6,15 @@ Gets the collection of the URLs of all Web sites that are contained within the s
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable`1<system.string> GetAllWebUrls(Site site)
+public static collections.generic.ienumerable<system.string> GetAllWebUrls(Site site)
 ```
 ### Parameters
 *site*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site](Microsoft.SharePoint.Client.Site.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Site] 
+&emsp;&emsp;Site collection to retrieve the URLs for.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable`1<System.String>](System.Collections.Generic.IEnumerable`1<System.String>.md)  
+Type: [System.Collections.Generic.IEnumerable<System.String>]  
 An enumeration containing the full URLs as strings.
 
 ## Remarks 

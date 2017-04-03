@@ -9,15 +9,15 @@ public static void PublishFileToLevel(File file,FileLevel level)
 ```
 ### Parameters
 *file*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.File](Microsoft.SharePoint.Client.File.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.File] 
+&emsp;&emsp;Target file to publish.  
   
 *level*  
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.FileLevel](Microsoft.SharePoint.Client.FileLevel.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.FileLevel] 
+&emsp;&emsp;Target publish direction (Draft and Published only apply, Checkout is ignored).  
   
 ### Return Value
-Type: [System.Void](System.Void.md)  
+Type: [System.Void]  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

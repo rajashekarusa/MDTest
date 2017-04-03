@@ -5,12 +5,12 @@ Files contained in the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list`1<officedevpnp.core.framework.provisioning.connectors.openxml.model.pnpfileinfo> Files { get; }
-public collections.generic.list`1<officedevpnp.core.framework.provisioning.connectors.openxml.model.pnpfileinfo> Files { set; }
+public collections.generic.list<officedevpnp.core.framework.provisioning.connectors.openxml.model.pnpfileinfo> Files { get; }
+public collections.generic.list<officedevpnp.core.framework.provisioning.connectors.openxml.model.pnpfileinfo> Files { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo>](System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo>.md) 
+Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo>] 
 
 ## See also
 - [PnPInfo](PnPInfo.md) 

@@ -9,19 +9,19 @@ public  GetSharePointOnlineAuthenticatedContextTenant(String siteUrl,String tena
 ```
 ### Parameters
 *siteUrl*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Site for which the ClientContext object will be instantiated  
   
 *tenantUser*  
-&emsp;&emsp;Type: [System.String](System.String.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;User to be used to instantiate the ClientContext object  
   
 *tenantUserPassword*  
-&emsp;&emsp;Type: [System.Security.SecureString](System.Security.SecureString.md) 
-&emsp;&emsp;  
+&emsp;&emsp;Type: [System.Security.SecureString] 
+&emsp;&emsp;Password (SecureString) of the user used to instantiate the ClientContext object  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext](Microsoft.SharePoint.Client.ClientContext.md)  
+Type: [Microsoft.SharePoint.Client.ClientContext]  
 ClientContext to be used by CSOM code
 
 ## See also
