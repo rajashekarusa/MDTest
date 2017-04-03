@@ -8,7 +8,7 @@ public boolean Required { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [FieldCreationInformation](FieldCreationInformation.md) 

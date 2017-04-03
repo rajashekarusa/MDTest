@@ -7,7 +7,7 @@ public Microsoft.SharePoint.Client.ListItem PageListItem { get; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.ListItem] 
+Type: Microsoft.SharePoint.Client.ListItem  
 
 ## See also
 - [ClientSidePage](ClientSidePage.md) 

@@ -10,7 +10,7 @@ public string TemplateName { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [AvailableWebTemplate](AvailableWebTemplate.md) 

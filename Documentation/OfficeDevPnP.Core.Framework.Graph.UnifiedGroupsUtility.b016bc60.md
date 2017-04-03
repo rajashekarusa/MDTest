@@ -49,7 +49,7 @@ public static boolean UpdateUnifiedGroup(String groupId,String accessToken,Int32
 &emsp;&emsp;Defines whether the group will be private or public, optional with default false (i.e. public)  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 Declares whether the Office 365 Group has been updated or not
 
 ## See also

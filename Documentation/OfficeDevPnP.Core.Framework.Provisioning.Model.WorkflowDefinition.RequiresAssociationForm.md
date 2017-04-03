@@ -10,7 +10,7 @@ public boolean RequiresAssociationForm { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [WorkflowDefinition](WorkflowDefinition.md) 

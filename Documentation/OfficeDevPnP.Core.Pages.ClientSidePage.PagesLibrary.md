@@ -8,7 +8,7 @@ public string PagesLibrary { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ClientSidePage](ClientSidePage.md) 

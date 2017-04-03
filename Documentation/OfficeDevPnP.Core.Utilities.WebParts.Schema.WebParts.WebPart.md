@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart WebPart { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md) 
+Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md)  
 
 ## See also
 - [WebParts](WebParts.md) 

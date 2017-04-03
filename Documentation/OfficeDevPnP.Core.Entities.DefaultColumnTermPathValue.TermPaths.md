@@ -9,7 +9,7 @@ public collections.generic.ilist<system.string> TermPaths { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<System.String>] 
+Type: System.Collections.Generic.IList<System.String>  
 
 ## See also
 - [DefaultColumnTermPathValue](DefaultColumnTermPathValue.md) 

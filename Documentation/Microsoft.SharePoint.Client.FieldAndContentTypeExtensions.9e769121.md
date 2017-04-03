@@ -21,7 +21,7 @@ public static  GetContentTypeById(Web web,String contentTypeId,Boolean searchInS
 &emsp;&emsp;Searches accross all content types in the site up to the root site  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 Content type object or null if was not found
 
 ## See also

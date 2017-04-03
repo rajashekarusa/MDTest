@@ -10,7 +10,7 @@ public boolean NoCrawl { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [WebSettings](WebSettings.md) 

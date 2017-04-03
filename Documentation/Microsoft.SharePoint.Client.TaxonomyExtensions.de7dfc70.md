@@ -39,7 +39,7 @@ public static  EnsureTermSet(TermGroup parentGroup,String termSetName,Guid termS
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermSet]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TermSet  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

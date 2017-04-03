@@ -29,7 +29,7 @@ public static  ShareSite(Web web,String email,Group group,Boolean sendEmail,Stri
 &emsp;&emsp;Text to be added on share email sent to receiver.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult]  
+Type: Microsoft.SharePoint.Client.SharingResult  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

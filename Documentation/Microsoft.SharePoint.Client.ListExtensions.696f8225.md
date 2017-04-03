@@ -17,7 +17,7 @@ public static boolean ListExists(Web web,String listTitle)
 &emsp;&emsp;Title of the list to be checked.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the list exists
 
 ## See also

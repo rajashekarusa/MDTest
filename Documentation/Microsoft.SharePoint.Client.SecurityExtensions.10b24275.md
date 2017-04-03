@@ -13,7 +13,7 @@ public static collections.generic.list<officedevpnp.core.entities.userentity> Ge
 &emsp;&emsp;Site to operate on  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>  
 List of  objects
 
 ## See also

@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollec
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection.md)  
 
 ## See also
 - [Publishing](Publishing.md) 

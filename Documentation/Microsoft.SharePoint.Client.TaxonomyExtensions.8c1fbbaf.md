@@ -21,7 +21,7 @@ public static  AddTermToTermset(Site site,Guid termSetId,String term)
 &emsp;&emsp;The label of the new term to create  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.Term]  
+Type: Microsoft.SharePoint.Client.Taxonomy.Term  
 
 
 ## See also

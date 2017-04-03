@@ -19,7 +19,7 @@ public static guid StartWorkflowInstance(Web web,Guid subscriptionId,IDictionary
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

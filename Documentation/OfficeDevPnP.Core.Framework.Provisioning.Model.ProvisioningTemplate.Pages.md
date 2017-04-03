@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection Pages { get
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

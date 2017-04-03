@@ -8,7 +8,7 @@ public boolean Ascending { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [OrderByField](OrderByField.md) 

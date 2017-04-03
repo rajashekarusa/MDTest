@@ -21,7 +21,7 @@ public static void SetDefaultContentTypeToList(Web web,List list,ContentType con
 &emsp;&emsp;Content type to make default  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

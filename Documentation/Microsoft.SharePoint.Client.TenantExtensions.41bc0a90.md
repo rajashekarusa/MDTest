@@ -55,7 +55,7 @@ public static void SetSiteProperties(Tenant tenant,String siteFullUrl,String tit
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,AsyncCompletedEventArgs e,AsyncCal
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult]  
+Type: System.IAsyncResult  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -17,7 +17,7 @@ public static  GetEventReceiverByName(List list,String name)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.EventReceiverDefinition]  
+Type: Microsoft.SharePoint.Client.EventReceiverDefinition  
 
 
 ## See also

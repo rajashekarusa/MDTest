@@ -8,7 +8,7 @@ public servicemodel.httpclientcredentialtype ClientCredentialType { set; }
 ```
 
 ### Property Value
-Type: [System.ServiceModel.HttpClientCredentialType] 
+Type: System.ServiceModel.HttpClientCredentialType  
 
 ## See also
 - [CertificateWSTrustBinding](CertificateWSTrustBinding.md) 

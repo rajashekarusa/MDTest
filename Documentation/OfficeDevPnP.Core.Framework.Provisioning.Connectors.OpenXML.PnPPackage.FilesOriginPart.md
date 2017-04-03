@@ -9,7 +9,7 @@ public io.packaging.packagepart FilesOriginPart { get; }
 ```
 
 ### Property Value
-Type: [System.IO.Packaging.PackagePart] 
+Type: System.IO.Packaging.PackagePart  
 
 ## See also
 - [PnPPackage](PnPPackage.md) 

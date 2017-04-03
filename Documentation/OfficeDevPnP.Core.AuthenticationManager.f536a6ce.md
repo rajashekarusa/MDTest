@@ -29,7 +29,7 @@ public  GetAzureADNativeApplicationAuthenticatedContext(String siteUrl,String cl
 &emsp;&emsp;SharePoint environment being used  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 Client context object
 
 ## See also

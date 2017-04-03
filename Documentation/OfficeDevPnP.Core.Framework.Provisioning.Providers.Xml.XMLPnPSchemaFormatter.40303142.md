@@ -13,7 +13,7 @@ public static  GetSpecificFormatter(String namespaceUri)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter]  
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 
 
 ## See also

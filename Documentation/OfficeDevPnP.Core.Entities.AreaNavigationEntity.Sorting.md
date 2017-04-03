@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Enums.StructuralNavigationSorting Sorting { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Enums.StructuralNavigationSorting] 
+Type: OfficeDevPnP.Core.Enums.StructuralNavigationSorting  
 
 ## See also
 - [AreaNavigationEntity](AreaNavigationEntity.md) 

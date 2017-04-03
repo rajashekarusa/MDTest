@@ -17,7 +17,7 @@ public static boolean Has(Enum value,T check)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [System](System.md)

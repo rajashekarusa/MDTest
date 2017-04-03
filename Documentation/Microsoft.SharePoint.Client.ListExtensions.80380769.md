@@ -29,7 +29,7 @@ public static void SetLocalizationLabelsForList(Web web,String listTitle,String 
 &emsp;&emsp;Localized Description string  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -17,7 +17,7 @@ public static boolean Missing(Enum obj,T value)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [System](System.md)

@@ -25,7 +25,7 @@ public void UpdateMembershipPrivacyAsync(String accountName,Guid sourceInternal,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

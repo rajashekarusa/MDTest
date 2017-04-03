@@ -10,7 +10,7 @@ public xml.xmlelement Contents { set; }
 ```
 
 ### Property Value
-Type: [System.Xml.XmlElement] 
+Type: System.Xml.XmlElement  
 
 ## Remarks 
 

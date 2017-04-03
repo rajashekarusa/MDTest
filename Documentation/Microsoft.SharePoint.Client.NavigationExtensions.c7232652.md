@@ -17,7 +17,7 @@ public static void UpdateNavigationInheritance(Web web,Boolean inheritNavigation
 &emsp;&emsp;boolean indicating if navigation inheritance is needed or not  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

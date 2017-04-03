@@ -23,7 +23,7 @@ public static boolean DeleteSiteCollectionFromRecycleBin(Tenant tenant,String si
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -17,7 +17,7 @@ public static  GetWeb(Web parentWeb,String leafUrl)
 &emsp;&emsp;A string that represents the URL leaf name.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Web]  
+Type: Microsoft.SharePoint.Client.Web  
 The requested Web, if it exists, otherwise null.
 
 ## Remarks 

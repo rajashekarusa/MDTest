@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel Level { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel  
 
 ## See also
 - [File](File.md) 

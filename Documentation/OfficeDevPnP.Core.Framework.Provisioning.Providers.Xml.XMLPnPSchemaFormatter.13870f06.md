@@ -11,7 +11,7 @@ public boolean IsValid(Stream template)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

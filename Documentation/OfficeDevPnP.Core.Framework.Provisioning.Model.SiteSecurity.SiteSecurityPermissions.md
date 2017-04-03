@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions Si
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.md)  
 
 ## See also
 - [SiteSecurity](SiteSecurity.md) 

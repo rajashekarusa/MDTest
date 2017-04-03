@@ -10,7 +10,7 @@ public string ContentTypeId { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ContentTypeBinding](ContentTypeBinding.md) 

@@ -8,7 +8,7 @@ public collections.generic.icollection<system.string> RoleDefinitionBindings { s
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.ICollection<System.String>] 
+Type: System.Collections.Generic.ICollection<System.String>  
 
 ## See also
 - [RoleAssignmentEntity](RoleAssignmentEntity.md) 

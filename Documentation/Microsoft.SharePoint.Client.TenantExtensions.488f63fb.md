@@ -17,7 +17,7 @@ public static boolean SubSiteExists(Tenant tenant,String siteFullUrl)
 &emsp;&emsp;URL to the sub site  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if existing, false if not
 
 ## See also

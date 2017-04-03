@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection Cont
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

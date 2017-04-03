@@ -25,7 +25,7 @@ public  GetNetworkCredentialAuthenticatedContext(String siteUrl,String user,Stri
 &emsp;&emsp;Domain of the user used to instantiate the ClientContext object  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerUserNetworkSettings network_settings { s
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerUserNetworkSettings](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerUserNetworkSettings](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.md)  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.md)  
 
 ## Remarks 
 

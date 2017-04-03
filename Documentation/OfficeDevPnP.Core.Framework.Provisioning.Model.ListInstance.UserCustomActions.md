@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection Use
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md)  
 
 ## See also
 - [ListInstance](ListInstance.md) 

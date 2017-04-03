@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollect
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

@@ -37,7 +37,7 @@ public static  ShareDocumentWithPeoplePickerValue(Web web,String urlToDocument,S
 &emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult]  
+Type: Microsoft.SharePoint.Client.SharingResult  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

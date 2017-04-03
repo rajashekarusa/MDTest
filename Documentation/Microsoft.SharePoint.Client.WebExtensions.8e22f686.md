@@ -14,7 +14,7 @@ public static  GetProvisioningTemplate(Web web,ProvisioningTemplateCreationInfor
 &emsp;&emsp;Web to get template from  
   
 *creationInfo*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md)  
 &emsp;&emsp;Specifies additional settings and/or properties  
   
 ### Return Value

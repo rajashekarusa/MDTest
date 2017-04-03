@@ -21,7 +21,7 @@ public void AddSuggestions(SuggestionType type,String[] suggestions,Double[] wei
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

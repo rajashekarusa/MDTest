@@ -9,7 +9,7 @@ public collections.generic.dictionary<system.string,system.string> Properties { 
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
+Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

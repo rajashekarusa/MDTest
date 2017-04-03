@@ -27,7 +27,7 @@ public static void SetSiteLockState(Tenant tenant,String siteFullUrl,SiteLockSta
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptio
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions  
 
 ## See also
 - [Publishing](Publishing.md) 

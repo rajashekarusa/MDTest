@@ -10,7 +10,7 @@ public string BaseSiteTemplate { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

@@ -17,7 +17,7 @@ public static  ResolveSubFolder(Folder folder,String folderName)
 &emsp;&emsp;Name of the folder to search for  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder]  
+Type: Microsoft.SharePoint.Client.Folder  
 The found  if available, null otherwise
 
 ## See also

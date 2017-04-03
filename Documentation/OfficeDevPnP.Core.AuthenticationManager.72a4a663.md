@@ -33,7 +33,7 @@ public  GetAppOnlyAuthenticatedContext(String siteUrl,String realm,String appId,
 &emsp;&emsp;Azure ACS endpoint prefix, defaults to accounts but internal pre-production environments use other prefixes  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

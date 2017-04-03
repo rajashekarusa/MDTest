@@ -19,7 +19,7 @@ public static void SetJsLinkCustomizations(Field field,String jsLink)
               
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

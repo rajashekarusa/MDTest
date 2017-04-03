@@ -10,7 +10,7 @@ public string HostedAppHostName { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebAPIContext](WebAPIContext.md) 

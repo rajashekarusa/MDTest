@@ -11,11 +11,11 @@ public void Invoke(Object sender,GetUserProfileByGuidCompletedEventArgs e)
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventArgs.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventArgs.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

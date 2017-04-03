@@ -14,7 +14,7 @@ public static collections.generic.ienumerable<system.string> GetAllWebUrls(Site 
 &emsp;&emsp;Site collection to retrieve the URLs for.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<System.String>]  
+Type: System.Collections.Generic.IEnumerable<System.String>  
 An enumeration containing the full URLs as strings.
 
 ## Remarks 

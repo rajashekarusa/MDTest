@@ -25,7 +25,7 @@ public static void DeleteNavigationNode(Web web,String nodeTitle,String parentNo
 &emsp;&emsp;the type of navigation, quick launch, top navigation or search navigation  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -6,7 +6,7 @@
 public void ClearCache()
 ```
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

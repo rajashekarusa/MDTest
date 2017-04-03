@@ -13,7 +13,7 @@ public static boolean GetListAutoRecordDeclaration(List list)
 &emsp;&emsp;List to operate against  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if auto record declaration is active, false otherwise
 
 ## See also

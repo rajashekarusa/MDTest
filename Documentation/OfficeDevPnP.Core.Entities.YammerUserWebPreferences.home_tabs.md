@@ -8,7 +8,7 @@ public collections.generic.ilist<officedevpnp.core.entities.yammeruserhometab> h
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserHomeTab>] 
+Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserHomeTab>  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

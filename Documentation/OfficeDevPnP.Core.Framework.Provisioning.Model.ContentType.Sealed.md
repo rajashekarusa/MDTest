@@ -10,7 +10,7 @@ public boolean Sealed { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ContentType](ContentType.md) 

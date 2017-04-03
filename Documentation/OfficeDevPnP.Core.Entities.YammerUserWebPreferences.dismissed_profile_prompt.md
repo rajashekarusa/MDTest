@@ -8,7 +8,7 @@ public boolean dismissed_profile_prompt { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

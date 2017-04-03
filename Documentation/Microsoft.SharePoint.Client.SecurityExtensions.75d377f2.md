@@ -21,7 +21,7 @@ public static boolean IsUserInGroup(Web web,String groupName,String userLoginNam
 &emsp;&emsp;Loginname of the user  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the user is in the group, false otherwise
 
 ## See also

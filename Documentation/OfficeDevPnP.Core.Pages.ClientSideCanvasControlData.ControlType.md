@@ -8,7 +8,7 @@ public int ControlType { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [ClientSideCanvasControlData](ClientSideCanvasControlData.md) 

@@ -11,7 +11,7 @@ public static string Contains(String fieldValue)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## Examples
 ```C#

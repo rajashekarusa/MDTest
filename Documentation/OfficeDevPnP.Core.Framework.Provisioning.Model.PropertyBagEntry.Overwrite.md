@@ -8,7 +8,7 @@ public boolean Overwrite { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [PropertyBagEntry](PropertyBagEntry.md) 

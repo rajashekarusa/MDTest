@@ -10,7 +10,7 @@ public int Sequence { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [CustomAction](CustomAction.md) 

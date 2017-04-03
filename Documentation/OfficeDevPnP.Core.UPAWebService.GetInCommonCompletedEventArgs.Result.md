@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.InCommonData Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.InCommonData](OfficeDevPnP.Core.UPAWebService.InCommonData.md) 
+Type: [OfficeDevPnP.Core.UPAWebService.InCommonData](OfficeDevPnP.Core.UPAWebService.InCommonData.md)  
 
 ## Remarks 
 

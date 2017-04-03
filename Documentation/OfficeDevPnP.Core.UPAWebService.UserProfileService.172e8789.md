@@ -21,7 +21,7 @@ public void AddSuggestionsAsync(SuggestionType type,String[] suggestions,Double[
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

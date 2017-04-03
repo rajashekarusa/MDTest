@@ -7,11 +7,11 @@ public void remove_AddMembershipCompleted(AddMembershipCompletedEventHandler val
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

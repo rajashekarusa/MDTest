@@ -11,7 +11,7 @@ public iasyncresult BeginInvoke(Object sender,GetUserProfileByNameCompletedEvent
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventArgs.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventArgs.md)  
 &emsp;&emsp;  
   
 *callback*  
@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,GetUserProfileByNameCompletedEvent
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult]  
+Type: System.IAsyncResult  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

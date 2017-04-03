@@ -8,7 +8,7 @@ public Microsoft.SharePoint.Client.ClientContext Context { set; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.ClientContext] 
+Type: Microsoft.SharePoint.Client.ClientContext  
 
 ## See also
 - [ClientSidePage](ClientSidePage.md) 

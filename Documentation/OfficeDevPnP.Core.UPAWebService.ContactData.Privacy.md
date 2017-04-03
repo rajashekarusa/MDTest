@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.Privacy Privacy { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.Privacy] 
+Type: OfficeDevPnP.Core.UPAWebService.Privacy  
 
 ## Remarks 
 

@@ -11,7 +11,7 @@ public static xml.xmlqualifiedname GetSchema(XmlSchemaSet schemaSet)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Xml.XmlQualifiedName]  
+Type: System.Xml.XmlQualifiedName  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

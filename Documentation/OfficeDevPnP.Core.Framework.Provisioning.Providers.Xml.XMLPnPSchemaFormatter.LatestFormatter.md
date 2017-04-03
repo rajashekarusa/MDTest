@@ -9,7 +9,7 @@ public static OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormat
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 
 ## See also
 - [XMLPnPSchemaFormatter](XMLPnPSchemaFormatter.md) 

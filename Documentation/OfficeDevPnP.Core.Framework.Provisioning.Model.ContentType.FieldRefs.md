@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection FieldRe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.md)  
 
 ## See also
 - [ContentType](ContentType.md) 

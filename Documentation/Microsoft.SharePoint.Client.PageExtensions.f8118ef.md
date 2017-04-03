@@ -17,7 +17,7 @@ public static  AddWebPartToWikiPage(Web web,String folder,WebPartEntity webPart,
 &emsp;&emsp;System name of the wiki page library - typically sitepages  
   
 *webPart*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
 &emsp;&emsp;Information about the web part to insert  
   
 *page*  
@@ -37,7 +37,7 @@ public static  AddWebPartToWikiPage(Web web,String folder,WebPartEntity webPart,
 &emsp;&emsp;Does a blank line need to be added after the web part (to space web parts)  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition]  
+Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
 Returns the added  object
 
 ## See also

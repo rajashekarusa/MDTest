@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation CurrentN
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md)  
 
 ## See also
 - [Navigation](Navigation.md) 

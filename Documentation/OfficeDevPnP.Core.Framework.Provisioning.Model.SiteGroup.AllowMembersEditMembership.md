@@ -10,7 +10,7 @@ public boolean AllowMembersEditMembership { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [SiteGroup](SiteGroup.md) 

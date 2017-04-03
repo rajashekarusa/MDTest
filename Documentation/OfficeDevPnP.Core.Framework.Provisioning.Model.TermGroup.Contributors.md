@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection Contributor
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.md)  
 
 ## See also
 - [TermGroup](TermGroup.md) 

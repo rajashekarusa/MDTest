@@ -8,7 +8,7 @@ public string web_url { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUser](YammerUser.md) 

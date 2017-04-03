@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection Terms { get
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.md)  
 
 ## See also
 - [TermSet](TermSet.md) 

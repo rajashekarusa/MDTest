@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions CustomAction
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

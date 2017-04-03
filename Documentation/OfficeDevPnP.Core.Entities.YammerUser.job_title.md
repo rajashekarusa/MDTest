@@ -8,7 +8,7 @@ public string job_title { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUser](YammerUser.md) 

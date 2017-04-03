@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstan
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstanceFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstanceFields.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstanceFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstanceFields.md)  
 
 ## Remarks 
 

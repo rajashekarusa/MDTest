@@ -8,7 +8,7 @@ public string Group { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [FieldCreationInformation](FieldCreationInformation.md) 

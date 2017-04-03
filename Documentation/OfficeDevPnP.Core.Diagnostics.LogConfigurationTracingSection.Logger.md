@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement Logger
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md) 
+Type: [OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md)  
 
 ## See also
 - [LogConfigurationTracingSection](LogConfigurationTracingSection.md) 

@@ -25,7 +25,7 @@ public static string FieldValue(Guid fieldId,String fieldValueType,String value,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 
 ## Examples

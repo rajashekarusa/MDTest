@@ -15,7 +15,7 @@ public static void AddRange(IDictionary<TKey, TValue> dictionary,IDictionary<TKe
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

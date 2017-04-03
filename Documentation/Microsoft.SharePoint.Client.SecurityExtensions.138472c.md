@@ -21,7 +21,7 @@ public static void RemoveUserFromGroup(Web web,Group group,User user)
 &emsp;&emsp;User object that needs to be removed  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

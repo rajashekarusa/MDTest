@@ -8,7 +8,7 @@ public boolean Result { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ProvisioningTemplateInfo](ProvisioningTemplateInfo.md) 

@@ -8,7 +8,7 @@ public object mugshot_id { set; }
 ```
 
 ### Property Value
-Type: [System.Object] 
+Type: System.Object  
 
 ## See also
 - [YammerGroup](YammerGroup.md) 

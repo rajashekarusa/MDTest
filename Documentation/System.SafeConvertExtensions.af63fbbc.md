@@ -13,7 +13,7 @@ public static double ToDouble(String input)
 &emsp;&emsp;Input string.  
   
 ### Return Value
-Type: [System.Double]  
+Type: System.Double  
 
 ## See also
 - [System](System.md)

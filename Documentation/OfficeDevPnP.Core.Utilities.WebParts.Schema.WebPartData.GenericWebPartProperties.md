@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType Generic
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md) 
+Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md)  
 
 ## See also
 - [WebPartData](WebPartData.md) 

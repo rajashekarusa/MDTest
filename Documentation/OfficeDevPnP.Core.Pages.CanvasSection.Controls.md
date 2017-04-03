@@ -7,7 +7,7 @@ public collections.generic.list<officedevpnp.core.pages.canvascontrol> Controls 
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasControl>] 
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasControl>  
 
 ## See also
 - [CanvasSection](CanvasSection.md) 

@@ -10,7 +10,7 @@ public boolean CopyRoleAssignments { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ObjectSecurity](ObjectSecurity.md) 

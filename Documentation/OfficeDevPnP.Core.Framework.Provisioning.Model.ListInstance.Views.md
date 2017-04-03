@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection Views { get
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection.md)  
 
 ## See also
 - [ListInstance](ListInstance.md) 

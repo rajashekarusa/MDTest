@@ -13,7 +13,7 @@ public static boolean IsInPlaceRecordsManagementActive(Site site)
 &emsp;&emsp;Site collection to operate on  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if in place records management is enabled, false otherwise
 
 ## See also

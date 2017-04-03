@@ -17,7 +17,7 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> Si
 &emsp;&emsp;Base URL for which sites can be returned  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
 All found site collections
 
 ## See also

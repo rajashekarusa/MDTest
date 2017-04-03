@@ -33,7 +33,7 @@ public static  CreateContentType(Web web,String name,String description,String i
 &emsp;&emsp;Parent Content Type  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 The created content type
 
 ## See also

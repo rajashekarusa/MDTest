@@ -21,7 +21,7 @@ public static void RemoveContentTypeFromList(Web web,List list,ContentType conte
 &emsp;&emsp;The Content Type  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

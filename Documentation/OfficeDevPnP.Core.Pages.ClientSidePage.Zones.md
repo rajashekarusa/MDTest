@@ -7,7 +7,7 @@ public collections.generic.list<officedevpnp.core.pages.canvaszone> Zones { get;
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasZone>] 
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasZone>  
 
 ## See also
 - [ClientSidePage](ClientSidePage.md) 

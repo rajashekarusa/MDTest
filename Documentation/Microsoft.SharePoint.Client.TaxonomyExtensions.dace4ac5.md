@@ -13,7 +13,7 @@ public static  GetDefaultSiteCollectionTermStore(Site site)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermStore]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TermStore  
 
 
 ## See also

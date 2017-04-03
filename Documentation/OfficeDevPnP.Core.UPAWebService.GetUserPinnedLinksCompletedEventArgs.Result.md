@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.PinnedLinkData[] Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]] 
+Type: OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]  
 
 ## Remarks 
 

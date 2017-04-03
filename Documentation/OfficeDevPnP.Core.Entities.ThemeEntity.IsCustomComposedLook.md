@@ -8,7 +8,7 @@ public boolean IsCustomComposedLook { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ThemeEntity](ThemeEntity.md) 

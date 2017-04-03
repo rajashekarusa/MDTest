@@ -8,7 +8,7 @@ public string ordering_index { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserHomeTab](YammerUserHomeTab.md) 

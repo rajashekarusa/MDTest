@@ -41,7 +41,7 @@ public static  CreateList(Web web,Guid featureId,Int32 listType,String listName,
 &emsp;&emsp;(Optional) Enable content type management  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List]  
+Type: Microsoft.SharePoint.Client.List  
 The newly created list
 
 ## See also

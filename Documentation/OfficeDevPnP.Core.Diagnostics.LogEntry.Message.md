@@ -8,7 +8,7 @@ public string Message { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [LogEntry](LogEntry.md) 

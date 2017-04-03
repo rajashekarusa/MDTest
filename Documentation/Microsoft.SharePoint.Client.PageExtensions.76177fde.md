@@ -29,7 +29,7 @@ public static void SetWebPartProperty(Web web,String key,Boolean value,Guid id,S
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

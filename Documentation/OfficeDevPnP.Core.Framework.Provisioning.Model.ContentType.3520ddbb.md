@@ -11,7 +11,7 @@ public boolean Equals(Object obj)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)

@@ -17,7 +17,7 @@ public static guid GetListID(Web web,String listName)
 &emsp;&emsp;List to operate on  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

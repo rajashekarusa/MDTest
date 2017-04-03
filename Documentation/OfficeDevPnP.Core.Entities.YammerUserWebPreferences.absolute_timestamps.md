@@ -8,7 +8,7 @@ public string absolute_timestamps { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Pages.CanvasZoneTemplate Type { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Pages.CanvasZoneTemplate] 
+Type: OfficeDevPnP.Core.Pages.CanvasZoneTemplate  
 
 ## See also
 - [CanvasZone](CanvasZone.md) 

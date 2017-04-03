@@ -8,7 +8,7 @@ public string Theme { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ThemeEntity](ThemeEntity.md) 

@@ -19,7 +19,7 @@ public static string GetWebPartXml(Web web,Guid webPartId,String serverRelativeP
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

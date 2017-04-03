@@ -9,7 +9,7 @@ public collections.generic.dictionary<system.string,system.string> Fields { get;
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
+Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
 - [Page](Page.md) 

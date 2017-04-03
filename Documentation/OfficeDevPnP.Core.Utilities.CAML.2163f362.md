@@ -15,7 +15,7 @@ public static string And(String clause1,String[] conditionClauses)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## Examples
 ```C#

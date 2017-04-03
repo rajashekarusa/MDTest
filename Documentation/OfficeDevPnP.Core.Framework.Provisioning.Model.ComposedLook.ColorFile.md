@@ -10,7 +10,7 @@ public string ColorFile { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ComposedLook](ComposedLook.md) 

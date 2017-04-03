@@ -10,7 +10,7 @@ public string Generator { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [PnPProperties](PnPProperties.md) 

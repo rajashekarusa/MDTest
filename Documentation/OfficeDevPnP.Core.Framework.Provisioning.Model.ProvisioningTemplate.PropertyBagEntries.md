@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

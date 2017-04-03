@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollec
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

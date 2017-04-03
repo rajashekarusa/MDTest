@@ -13,7 +13,7 @@ public static void DisableResponsiveUI(Web web)
 &emsp;&emsp;The Web to disable the Responsive UI on  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

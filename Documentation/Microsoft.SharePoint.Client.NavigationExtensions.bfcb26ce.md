@@ -17,7 +17,7 @@ public static void DeleteAllNavigationNodes(Web web,NavigationType navigationTyp
 &emsp;&emsp;The type of navigation to support  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

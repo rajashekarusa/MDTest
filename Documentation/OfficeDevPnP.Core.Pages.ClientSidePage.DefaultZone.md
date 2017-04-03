@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Pages.CanvasZone DefaultZone { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Pages.CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 
+Type: [OfficeDevPnP.Core.Pages.CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md)  
 
 ## See also
 - [ClientSidePage](ClientSidePage.md) 

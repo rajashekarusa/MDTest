@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase Con
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

@@ -8,7 +8,7 @@ public collections.generic.ilist<system.object> external_urls { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<System.Object>] 
+Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
 - [YammerUser](YammerUser.md) 

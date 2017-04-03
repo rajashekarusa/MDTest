@@ -17,11 +17,11 @@ public static  AddWebPartToWebPartPage(Web web,String serverRelativePageUrl,WebP
 &emsp;&emsp;Page to add the web part on  
   
 *webPart*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
 &emsp;&emsp;Information about the web part to insert  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition]  
+Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
 Returns the added  object
 
 ## See also

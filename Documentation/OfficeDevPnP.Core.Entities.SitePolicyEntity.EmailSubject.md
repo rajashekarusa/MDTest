@@ -10,7 +10,7 @@ public string EmailSubject { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [SitePolicyEntity](SitePolicyEntity.md) 

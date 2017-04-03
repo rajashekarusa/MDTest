@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.MembershipData[] Memberships { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.MembershipData[]] 
+Type: OfficeDevPnP.Core.UPAWebService.MembershipData[]  
 
 ## Remarks 
 

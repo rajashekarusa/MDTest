@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection Folders {
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection.md)  
 
 ## See also
 - [Folder](Folder.md) 

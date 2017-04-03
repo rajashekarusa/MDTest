@@ -17,7 +17,7 @@ public void RemoveLinkAsync(String accountName,Int32 id)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

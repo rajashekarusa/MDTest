@@ -9,7 +9,7 @@ public boolean IpersonalizableSpecified { get; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [PropertyContainerType](PropertyContainerType.md) 

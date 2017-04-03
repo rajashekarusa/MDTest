@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProp
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.md)  
 
 ## See also
 - [PnPInfo](PnPInfo.md) 

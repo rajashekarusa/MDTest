@@ -13,7 +13,7 @@ public static  GetTaxonomySession(Site site)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomySession]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomySession  
 
 
 ## See also

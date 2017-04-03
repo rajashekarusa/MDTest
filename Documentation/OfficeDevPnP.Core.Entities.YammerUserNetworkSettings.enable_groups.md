@@ -8,7 +8,7 @@ public boolean enable_groups { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

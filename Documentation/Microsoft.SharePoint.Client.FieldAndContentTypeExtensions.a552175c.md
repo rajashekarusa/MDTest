@@ -19,7 +19,7 @@ public static  GetFieldById(Web web,Guid fieldId,Boolean searchInSiteHierarchy)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field]  
+Type: Microsoft.SharePoint.Client.Field  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

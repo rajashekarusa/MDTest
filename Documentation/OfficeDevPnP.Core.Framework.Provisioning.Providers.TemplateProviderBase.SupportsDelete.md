@@ -7,7 +7,7 @@ public boolean SupportsDelete { get; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [TemplateProviderBase](TemplateProviderBase.md) 

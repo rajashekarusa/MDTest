@@ -17,7 +17,7 @@ public static boolean GroupExists(Web web,String groupName)
 &emsp;&emsp;Name of the group  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the group exists, false otherwise
 
 ## See also

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType Navi
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType  
 
 ## See also
 - [CurrentNavigation](CurrentNavigation.md) 

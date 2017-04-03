@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term[] Ite
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term[]  
 
 ## Remarks 
 

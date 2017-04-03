@@ -7,7 +7,7 @@ public collections.generic.dictionary<system.string,system.object> Parameters { 
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary<System.String,System.Object>] 
+Type: System.Collections.Generic.Dictionary<System.String,System.Object>  
 
 ## See also
 - [FileConnectorBase](FileConnectorBase.md) 

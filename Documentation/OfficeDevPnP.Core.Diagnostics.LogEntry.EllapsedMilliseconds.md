@@ -8,7 +8,7 @@ public long EllapsedMilliseconds { set; }
 ```
 
 ### Property Value
-Type: [System.Int64] 
+Type: System.Int64  
 
 ## See also
 - [LogEntry](LogEntry.md) 

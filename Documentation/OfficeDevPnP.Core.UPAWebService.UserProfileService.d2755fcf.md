@@ -8,7 +8,7 @@
 public void GetUserProfileCountAsync()
 ```
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

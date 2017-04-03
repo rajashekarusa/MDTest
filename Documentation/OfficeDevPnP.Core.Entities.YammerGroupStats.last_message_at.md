@@ -8,7 +8,7 @@ public string last_message_at { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerGroupStats](YammerGroupStats.md) 

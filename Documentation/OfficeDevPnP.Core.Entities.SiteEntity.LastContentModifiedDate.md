@@ -10,7 +10,7 @@ public datetime LastContentModifiedDate { set; }
 ```
 
 ### Property Value
-Type: [System.DateTime] 
+Type: System.DateTime  
 
 ## See also
 - [SiteEntity](SiteEntity.md) 

@@ -13,7 +13,7 @@ public static collections.generic.ienumerable<system.string> GetIndexedPropertyB
 &emsp;&emsp;The site to process  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<System.String>]  
+Type: System.Collections.Generic.IEnumerable<System.String>  
 
 
 ## See also

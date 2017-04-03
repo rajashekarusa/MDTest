@@ -21,7 +21,7 @@ public static  GetTaxonomyItemByPath(Site site,String path,String delimiter)
 &emsp;&emsp;The delimeter separating groups, sets and term in the path. Defaults to |  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 
 
 ## See also

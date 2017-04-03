@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection N
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.md)  
 
 ## See also
 - [StructuralNavigation](StructuralNavigation.md) 

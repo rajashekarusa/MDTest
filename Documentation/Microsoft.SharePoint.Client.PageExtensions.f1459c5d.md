@@ -25,7 +25,7 @@ public static void AddLayoutToWikiPage(Web web,String folder,WikiPageLayout layo
 &emsp;&emsp;Name of the page that will get a new wiki page layout  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

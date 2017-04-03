@@ -25,7 +25,7 @@ public static void WireUpTaxonomyField(Web web,Field field,Term anchorTerm,Boole
 &emsp;&emsp;If true, create a multivalue field  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

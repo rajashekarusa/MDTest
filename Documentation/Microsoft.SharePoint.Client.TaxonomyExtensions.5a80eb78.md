@@ -21,7 +21,7 @@ public static void SetTaxonomyFieldValueByTermPath(ListItem item,String TermPath
 &emsp;&emsp;The id of the field  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

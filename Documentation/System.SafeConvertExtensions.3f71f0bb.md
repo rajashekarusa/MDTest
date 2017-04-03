@@ -17,7 +17,7 @@ public static boolean ToBoolean(String input,Boolean defaultValue)
 &emsp;&emsp;A default value to return for a null input value.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [System](System.md)

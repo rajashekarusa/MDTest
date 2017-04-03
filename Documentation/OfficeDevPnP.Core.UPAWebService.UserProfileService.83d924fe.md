@@ -7,11 +7,11 @@ public void remove_GetProfileSchemaCompleted(GetProfileSchemaCompletedEventHandl
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

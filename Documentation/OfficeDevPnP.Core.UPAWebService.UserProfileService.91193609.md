@@ -13,7 +13,7 @@ public void GetProfileSchemaAsync(String schemaName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

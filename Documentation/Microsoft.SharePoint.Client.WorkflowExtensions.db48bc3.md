@@ -43,7 +43,7 @@ public static guid AddWorkflowSubscription(List list,String workflowDefinitionNa
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

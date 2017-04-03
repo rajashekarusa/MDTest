@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecu
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.md)  
 
 ## Remarks 
 

@@ -8,7 +8,7 @@ public string EditorType { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ClientSideTextControlData](ClientSideTextControlData.md) 

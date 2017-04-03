@@ -21,7 +21,7 @@ public static boolean FieldExistsByNameInContentType(Web web,String contentTypeN
 &emsp;&emsp;Name of the field  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if exists, false otherwise
 
 ## See also

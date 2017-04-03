@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection SiteFields
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

@@ -10,7 +10,7 @@ public string[] Text { set; }
 ```
 
 ### Property Value
-Type: [System.String[]] 
+Type: System.String[]  
 
 ## Remarks 
 

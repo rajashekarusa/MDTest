@@ -9,7 +9,7 @@ public string RefreshToken { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [SharePointContextToken](SharePointContextToken.md) 

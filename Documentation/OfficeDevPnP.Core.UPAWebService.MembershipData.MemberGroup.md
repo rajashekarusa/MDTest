@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.MemberGroupData MemberGroup { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md) 
+Type: [OfficeDevPnP.Core.UPAWebService.MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md)  
 
 ## Remarks 
 

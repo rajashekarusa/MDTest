@@ -11,7 +11,7 @@ public string Realm { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [TimerJob](TimerJob.md) 

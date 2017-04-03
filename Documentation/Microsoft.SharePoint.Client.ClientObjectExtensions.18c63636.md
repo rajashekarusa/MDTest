@@ -17,7 +17,7 @@ public static boolean IsPropertyAvailable(T clientObject,Expression<Func<T, Obje
 &emsp;&emsp;Lamda expression containing the properties to check (e.g. w => w.HasUniqueRoleAssignments)  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the property is available, false otherwise
 
 ## See also

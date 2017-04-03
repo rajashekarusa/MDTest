@@ -21,7 +21,7 @@ public void ModifyUserPropertyByAccountNameAsync(String accountName,PropertyData
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

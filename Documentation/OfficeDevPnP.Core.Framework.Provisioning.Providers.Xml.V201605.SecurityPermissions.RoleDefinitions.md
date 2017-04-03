@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefini
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition[]  
 
 ## Remarks 
 

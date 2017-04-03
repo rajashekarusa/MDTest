@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerGroupStats stats { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md)  
 
 ## See also
 - [YammerGroup](YammerGroup.md) 

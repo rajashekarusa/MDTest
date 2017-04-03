@@ -17,7 +17,7 @@ public static boolean WebExistsByTitle(Web parentWeb,String title)
 &emsp;&emsp;Title of the web to check.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if a web with the given title exists.
 
 ## See also

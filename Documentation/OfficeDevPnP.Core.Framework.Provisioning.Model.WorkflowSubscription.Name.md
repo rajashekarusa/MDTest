@@ -10,7 +10,7 @@ public string Name { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WorkflowSubscription](WorkflowSubscription.md) 

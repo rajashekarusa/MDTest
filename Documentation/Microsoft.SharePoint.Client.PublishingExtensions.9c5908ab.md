@@ -25,7 +25,7 @@ public static void CreatePublishingImageRendition(Web web,String imageRenditionN
 &emsp;&emsp;The height of the Image Rendition  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

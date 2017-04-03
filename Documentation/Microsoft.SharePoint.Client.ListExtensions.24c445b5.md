@@ -33,7 +33,7 @@ public static void UpdateTaxonomyFieldDefaultValue(Web web,String termName,Strin
 &emsp;&emsp;TermSet Guid  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

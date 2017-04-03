@@ -7,11 +7,11 @@ public boolean Equals(TermLabel other)
 ```
 ### Parameters
 *other*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

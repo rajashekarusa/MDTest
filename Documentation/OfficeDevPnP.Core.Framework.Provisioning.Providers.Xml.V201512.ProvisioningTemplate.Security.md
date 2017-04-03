@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security S
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security.md)  
 
 ## Remarks 
 

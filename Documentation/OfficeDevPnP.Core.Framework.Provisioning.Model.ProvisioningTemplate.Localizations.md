@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection Loc
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

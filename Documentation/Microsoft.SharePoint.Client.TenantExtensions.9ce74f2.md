@@ -29,7 +29,7 @@ public static collections.generic.ilist<officedevpnp.core.entities.siteentity> G
 &emsp;&emsp;Also return the OD4B sites  
   
 ### Return Value
-Type: [System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.SiteEntity>]  
+Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.SiteEntity>  
 An IList of SiteEntity objects
 
 ## See also

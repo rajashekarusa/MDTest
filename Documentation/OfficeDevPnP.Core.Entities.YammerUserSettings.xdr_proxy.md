@@ -8,7 +8,7 @@ public string xdr_proxy { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserSettings](YammerUserSettings.md) 

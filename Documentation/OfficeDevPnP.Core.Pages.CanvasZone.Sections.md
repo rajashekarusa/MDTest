@@ -7,7 +7,7 @@ public collections.generic.list<officedevpnp.core.pages.canvassection> Sections 
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasSection>] 
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasSection>  
 
 ## See also
 - [CanvasZone](CanvasZone.md) 

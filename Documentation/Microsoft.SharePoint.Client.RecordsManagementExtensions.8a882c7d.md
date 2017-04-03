@@ -13,7 +13,7 @@ public static  GetRecordDeclarationBy(Site site)
 &emsp;&emsp;Site collection to operate on  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy]  
+Type: OfficeDevPnP.Core.EcmRecordDeclarationBy  
  enum that defines who can declare a record
 
 ## See also

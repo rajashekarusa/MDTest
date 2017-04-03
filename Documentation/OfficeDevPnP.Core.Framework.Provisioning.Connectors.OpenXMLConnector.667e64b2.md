@@ -13,7 +13,7 @@ public io.stream GetFileStream(String fileName)
 &emsp;&emsp;Name of the file to get  
   
 ### Return Value
-Type: [System.IO.Stream]  
+Type: System.IO.Stream  
 String containing the file contents
 
 ## See also

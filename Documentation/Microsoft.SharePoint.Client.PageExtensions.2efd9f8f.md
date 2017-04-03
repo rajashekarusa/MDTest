@@ -21,7 +21,7 @@ public static string EnsureWikiPage(Web web,String wikiPageLibraryName,String wi
 &emsp;&emsp;Wiki page to operate on  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 The relative URL of the added wiki page
 
 ## See also

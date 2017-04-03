@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Publishing
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage.md)  
 
 ## Remarks 
 

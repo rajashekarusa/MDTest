@@ -17,7 +17,7 @@ public static  GetWorkflowSubscription(List list,String name)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription]  
+Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
 
 
 ## See also

@@ -25,7 +25,7 @@ public static  CreateContentType(Web web,String name,String id,String group)
 &emsp;&emsp;Group for the content type  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 
 
 ## See also

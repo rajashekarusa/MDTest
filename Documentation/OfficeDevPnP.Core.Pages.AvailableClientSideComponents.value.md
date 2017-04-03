@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Pages.ClientSideComponent[] value { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Pages.ClientSideComponent[]] 
+Type: OfficeDevPnP.Core.Pages.ClientSideComponent[]  
 
 ## See also
 - [AvailableClientSideComponents](AvailableClientSideComponents.md) 

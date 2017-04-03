@@ -10,7 +10,7 @@ public string ImageUrl { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [CustomAction](CustomAction.md) 

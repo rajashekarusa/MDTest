@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings RegionalS
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

@@ -13,7 +13,7 @@ public static guid GetAuthenticationRealm(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 
 ## See also

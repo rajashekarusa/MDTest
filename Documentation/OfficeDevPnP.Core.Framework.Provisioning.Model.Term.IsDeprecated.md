@@ -8,7 +8,7 @@ public boolean IsDeprecated { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [Term](Term.md) 

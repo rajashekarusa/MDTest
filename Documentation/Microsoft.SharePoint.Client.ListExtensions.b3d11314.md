@@ -13,7 +13,7 @@ public static collections.generic.list<system.collections.generic.dictionary<sys
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List<System.Collections.Generic.Dictionary<System.String,System.String>>]  
+Type: System.Collections.Generic.List<System.Collections.Generic.Dictionary<System.String,System.String>>  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

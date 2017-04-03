@@ -9,7 +9,7 @@ public datetime ValidFrom { get; }
 ```
 
 ### Property Value
-Type: [System.DateTime] 
+Type: System.DateTime  
 
 ## See also
 - [MultipleSymmetricKeySecurityToken](MultipleSymmetricKeySecurityToken.md) 

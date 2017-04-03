@@ -10,7 +10,7 @@ public string StatusFieldName { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WorkflowSubscription](WorkflowSubscription.md) 

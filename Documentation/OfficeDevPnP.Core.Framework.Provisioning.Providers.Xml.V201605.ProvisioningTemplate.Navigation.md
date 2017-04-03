@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.md)  
 
 ## Remarks 
 

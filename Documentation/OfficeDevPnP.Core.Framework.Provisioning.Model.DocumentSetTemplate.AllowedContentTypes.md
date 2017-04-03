@@ -9,7 +9,7 @@ public collections.generic.list<system.string> AllowedContentTypes { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<System.String>] 
+Type: System.Collections.Generic.List<System.String>  
 
 ## See also
 - [DocumentSetTemplate](DocumentSetTemplate.md) 

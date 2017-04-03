@@ -8,7 +8,7 @@ public string address { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserEmailAddress](YammerUserEmailAddress.md) 

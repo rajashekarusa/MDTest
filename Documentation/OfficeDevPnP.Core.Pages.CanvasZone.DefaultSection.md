@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Pages.CanvasSection DefaultSection { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 
+Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md)  
 
 ## See also
 - [CanvasZone](CanvasZone.md) 

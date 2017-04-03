@@ -6,7 +6,7 @@
 public collections.generic.list<officedevpnp.core.framework.provisioning.model.provisioningtemplate> GetTemplates()
 ```
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

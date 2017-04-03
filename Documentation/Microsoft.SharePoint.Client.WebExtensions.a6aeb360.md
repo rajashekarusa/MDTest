@@ -17,7 +17,7 @@ public static void EnableRequestAccess(Web web,String[] emails)
 &emsp;&emsp;The e-mail addresses to send access requests to.  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

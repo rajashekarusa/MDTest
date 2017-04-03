@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection R
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection.md)  
 
 ## See also
 - [SiteSecurityPermissions](SiteSecurityPermissions.md) 

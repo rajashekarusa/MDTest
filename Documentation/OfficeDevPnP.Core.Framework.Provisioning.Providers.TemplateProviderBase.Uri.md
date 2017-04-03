@@ -8,7 +8,7 @@ public string Uri { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [TemplateProviderBase](TemplateProviderBase.md) 

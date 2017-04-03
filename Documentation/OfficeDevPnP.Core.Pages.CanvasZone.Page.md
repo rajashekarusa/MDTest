@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Pages.ClientSidePage Page { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
+Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  
 
 ## See also
 - [CanvasZone](CanvasZone.md) 

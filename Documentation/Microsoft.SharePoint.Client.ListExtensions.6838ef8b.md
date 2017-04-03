@@ -21,7 +21,7 @@ public static string GetPropertyBagValueString(List list,String key,String defau
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 Value of the property bag entry as string
 
 ## See also

@@ -13,7 +13,7 @@ public  GetProfileSchema(String schemaName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]]  
+Type: OfficeDevPnP.Core.UPAWebService.PropertyInfo[]  
 
 ## Remarks 
 

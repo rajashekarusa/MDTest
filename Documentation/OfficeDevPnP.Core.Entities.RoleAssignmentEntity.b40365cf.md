@@ -6,7 +6,7 @@
 public string ToString()
 ```
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

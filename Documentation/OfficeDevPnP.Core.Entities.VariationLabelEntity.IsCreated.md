@@ -9,7 +9,7 @@ public boolean IsCreated { get; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [VariationLabelEntity](VariationLabelEntity.md) 

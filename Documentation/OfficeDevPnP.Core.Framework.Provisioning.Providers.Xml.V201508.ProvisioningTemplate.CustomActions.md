@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActi
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActions.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActions.md)  
 
 ## Remarks 
 

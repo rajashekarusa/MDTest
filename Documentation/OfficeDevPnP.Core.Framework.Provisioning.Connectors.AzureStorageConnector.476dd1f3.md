@@ -17,7 +17,7 @@ public void DeleteFile(String fileName,String container)
 &emsp;&emsp;Name of the container to delete the file from  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

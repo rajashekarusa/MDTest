@@ -8,7 +8,7 @@ public Microsoft.SharePoint.Client.Web Web { set; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.Web] 
+Type: Microsoft.SharePoint.Client.Web  
 
 ## See also
 - [TokenDefinition](TokenDefinition.md) 

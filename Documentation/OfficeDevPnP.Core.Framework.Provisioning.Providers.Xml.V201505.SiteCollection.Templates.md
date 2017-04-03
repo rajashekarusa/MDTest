@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.md)  
 
 ## Remarks 
 

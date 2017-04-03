@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Publishing
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingWebTemplate[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingWebTemplate[]  
 
 ## Remarks 
 

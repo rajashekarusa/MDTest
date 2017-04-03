@@ -17,7 +17,7 @@ public static boolean SiteExists(Tenant tenant,String siteFullUrl)
 &emsp;&emsp;URL to the site collection  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if existing, false if not
 
 ## See also

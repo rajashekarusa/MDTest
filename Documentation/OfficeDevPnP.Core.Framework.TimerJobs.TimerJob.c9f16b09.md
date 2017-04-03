@@ -13,7 +13,7 @@ public void AddSite(String site)
 &emsp;&emsp;Site Url or wildcard site Url to be processed by the timer job  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

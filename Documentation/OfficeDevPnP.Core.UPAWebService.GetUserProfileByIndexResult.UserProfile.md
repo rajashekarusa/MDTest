@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.PropertyData[] UserProfile { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyData[]] 
+Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
 
 ## Remarks 
 

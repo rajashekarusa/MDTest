@@ -13,11 +13,11 @@ public static  CreateTaxonomyField(Web web,TaxonomyFieldCreationInformation fiel
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *fieldCreationInformation*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md)  
 &emsp;&emsp;Creation Information of the field  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field]  
+Type: Microsoft.SharePoint.Client.Field  
 New taxonomy field
 
 ## See also

@@ -17,7 +17,7 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> Si
 &emsp;&emsp;Title of the site to search for  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
 All found site collections
 
 ## See also

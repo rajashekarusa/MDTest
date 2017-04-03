@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.MembershipSource Source { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.MembershipSource] 
+Type: OfficeDevPnP.Core.UPAWebService.MembershipSource  
 
 ## Remarks 
 

@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroupCollection TermGr
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroupCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroupCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroupCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroupCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

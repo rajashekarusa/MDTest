@@ -7,7 +7,7 @@ public string JsonControlData { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [CanvasControl](CanvasControl.md) 

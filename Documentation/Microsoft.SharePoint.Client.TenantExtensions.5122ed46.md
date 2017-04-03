@@ -63,7 +63,7 @@ public static guid CreateSiteCollection(Tenant tenant,String siteFullUrl,String 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

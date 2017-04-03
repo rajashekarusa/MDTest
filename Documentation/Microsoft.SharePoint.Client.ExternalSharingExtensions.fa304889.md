@@ -17,7 +17,7 @@ public static  UnshareDocument(Web web,String urlToDocument)
 &emsp;&emsp;Full URL to the file which is shared  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult]  
+Type: Microsoft.SharePoint.Client.SharingResult  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

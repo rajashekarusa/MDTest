@@ -15,7 +15,7 @@ public static  GetAppInstances(Web web,Expression<Func<AppInstance, Object>>[] e
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientObjectList<Microsoft.SharePoint.Client.AppInstance>]  
+Type: Microsoft.SharePoint.Client.ClientObjectList<Microsoft.SharePoint.Client.AppInstance>  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

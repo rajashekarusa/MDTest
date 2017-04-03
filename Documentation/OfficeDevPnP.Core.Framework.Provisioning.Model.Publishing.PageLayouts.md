@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection PageL
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection.md)  
 
 ## See also
 - [Publishing](Publishing.md) 

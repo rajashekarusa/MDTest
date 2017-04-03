@@ -7,11 +7,11 @@ public static io.memorystream PackTemplateAsStream(PnPInfo pnpInfo)
 ```
 ### Parameters
 *pnpInfo*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.MemoryStream]  
+Type: System.IO.MemoryStream  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

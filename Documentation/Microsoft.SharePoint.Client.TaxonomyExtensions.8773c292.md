@@ -25,7 +25,7 @@ public static  EnsureTermGroup(Site site,String groupName,Guid groupId,String gr
 &emsp;&emsp;(Optional) Description of the term group; if null or not provided the parameter is ignored, otherwise the group is updated as necessary to match the description; passing an empty string will clear the description  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 The required term group
 
 ## See also

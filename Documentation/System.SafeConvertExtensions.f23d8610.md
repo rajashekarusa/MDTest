@@ -13,7 +13,7 @@ public static guid ToGuid(String input)
 &emsp;&emsp;Input string.  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [System](System.md)

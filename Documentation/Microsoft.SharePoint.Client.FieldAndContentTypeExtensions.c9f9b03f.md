@@ -11,7 +11,7 @@ public static  CreateField(Web web,FieldCreationInformation fieldCreationInforma
 &emsp;&emsp;  
   
 *fieldCreationInformation*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)  
 &emsp;&emsp;  
   
 *(optional) executeQuery*  
@@ -19,7 +19,7 @@ public static  CreateField(Web web,FieldCreationInformation fieldCreationInforma
 &emsp;&emsp;  
   
 ### Return Value
-Type: [TField]  
+Type: TField  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

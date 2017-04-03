@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLo
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLook.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLook.md)  
 
 ## Remarks 
 

@@ -11,7 +11,7 @@ public boolean CopyResources { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [VariationInformation](VariationInformation.md) 

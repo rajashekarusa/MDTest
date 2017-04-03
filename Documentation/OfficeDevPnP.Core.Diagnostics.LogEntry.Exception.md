@@ -8,7 +8,7 @@ public exception Exception { set; }
 ```
 
 ### Property Value
-Type: [System.Exception] 
+Type: System.Exception  
 
 ## See also
 - [LogEntry](LogEntry.md) 

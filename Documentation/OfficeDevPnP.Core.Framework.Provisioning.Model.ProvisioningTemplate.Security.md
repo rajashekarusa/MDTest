@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity Security { se
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

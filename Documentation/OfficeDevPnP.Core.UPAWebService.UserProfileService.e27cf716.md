@@ -13,7 +13,7 @@ public  GetUserLinks(String accountName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData[]]  
+Type: OfficeDevPnP.Core.UPAWebService.QuickLinkData[]  
 
 ## Remarks 
 

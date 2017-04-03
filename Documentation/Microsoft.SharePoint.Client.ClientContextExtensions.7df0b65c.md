@@ -21,7 +21,7 @@ public static void ExecuteQueryRetry(ClientRuntimeContext clientContext,Int32 re
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.QuickLinkData[] Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData[]] 
+Type: OfficeDevPnP.Core.UPAWebService.QuickLinkData[]  
 
 ## Remarks 
 

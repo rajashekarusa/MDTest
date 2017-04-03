@@ -17,7 +17,7 @@ public static void EnableResponsiveUI(Web web,String infrastructureUrl)
 &emsp;&emsp;URL pointing to an infrastructure site  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

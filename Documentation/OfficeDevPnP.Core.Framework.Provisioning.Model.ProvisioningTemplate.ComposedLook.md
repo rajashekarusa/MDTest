@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook ComposedLook 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

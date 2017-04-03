@@ -21,7 +21,7 @@ public static void DeleteWebPart(Web web,String serverRelativePageUrl,String tit
 &emsp;&emsp;Title of the web part that needs to be deleted  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

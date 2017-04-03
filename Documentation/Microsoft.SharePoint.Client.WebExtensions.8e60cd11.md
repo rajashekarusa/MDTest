@@ -29,7 +29,7 @@ public static void InstallSolution(Site site,Guid packageGuid,String sourceFileP
 &emsp;&emsp;Optional minor version of the solution, defaults to 0  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

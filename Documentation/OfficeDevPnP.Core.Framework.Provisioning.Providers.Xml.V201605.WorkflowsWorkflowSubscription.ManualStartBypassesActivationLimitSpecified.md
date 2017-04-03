@@ -10,7 +10,7 @@ public boolean ManualStartBypassesActivationLimitSpecified { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## Remarks 
 

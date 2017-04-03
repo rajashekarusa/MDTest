@@ -13,11 +13,11 @@ public void Put(String cacheKey,WebAPIContexCacheItem sharePointServiceContextCa
 &emsp;&emsp;Key to cache the item  
   
 *sharePointServiceContextCacheItem*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)  
 &emsp;&emsp;A  object  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

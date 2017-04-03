@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate Paren
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
 - [ProvisioningTemplateCollection](ProvisioningTemplateCollection.md) 

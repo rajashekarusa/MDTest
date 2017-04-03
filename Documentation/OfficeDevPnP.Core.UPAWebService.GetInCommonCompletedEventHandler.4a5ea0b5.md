@@ -11,7 +11,7 @@ public iasyncresult BeginInvoke(Object sender,GetInCommonCompletedEventArgs e,As
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs.md)  
 &emsp;&emsp;  
   
 *callback*  
@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,GetInCommonCompletedEventArgs e,As
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult]  
+Type: System.IAsyncResult  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

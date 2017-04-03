@@ -17,7 +17,7 @@ public static  GetTermGroupByName(Site site,String name)
 &emsp;&emsp;The name of the termgroup  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermGroup]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 
 
 ## See also

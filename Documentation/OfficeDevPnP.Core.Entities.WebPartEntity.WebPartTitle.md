@@ -10,7 +10,7 @@ public string WebPartTitle { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebPartEntity](WebPartEntity.md) 

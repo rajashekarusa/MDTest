@@ -8,7 +8,7 @@ public int IndentSpaces { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [ExceptionOptions](ExceptionOptions.md) 

@@ -11,7 +11,7 @@ public collections.generic.list<system.string> UpdateAddedSites(List<String> add
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List<System.String>]  
+Type: System.Collections.Generic.List<System.String>  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

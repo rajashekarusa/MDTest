@@ -10,7 +10,7 @@ public boolean IsExternal { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [NavigationNode](NavigationNode.md) 

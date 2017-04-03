@@ -10,7 +10,7 @@ public Microsoft.SharePoint.Client.CalendarType CalendarType { set; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.CalendarType] 
+Type: Microsoft.SharePoint.Client.CalendarType  
 
 ## See also
 - [RegionalSettings](RegionalSettings.md) 

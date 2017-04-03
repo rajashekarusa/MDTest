@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermTerms.md)  
 
 ## Remarks 
 

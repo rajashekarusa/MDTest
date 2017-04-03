@@ -10,7 +10,7 @@ public string UserCodeWarningLevel { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

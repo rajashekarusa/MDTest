@@ -15,7 +15,7 @@ public static string GetWebRelativeUrl(List list)
 &emsp;&emsp;The list to export the URL of.  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 The web relative URL of the list.
 
 ## See also

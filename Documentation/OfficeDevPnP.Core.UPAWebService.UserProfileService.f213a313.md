@@ -13,7 +13,7 @@ public  GetUserPinnedLinks(String accountName)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]]  
+Type: OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]  
 
 ## Remarks 
 

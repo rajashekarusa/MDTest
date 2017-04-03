@@ -8,7 +8,7 @@ Get the files available in the default container
 public collections.generic.list<system.string> GetFiles()
 ```
 ### Return Value
-Type: [System.Collections.Generic.List<System.String>]  
+Type: System.Collections.Generic.List<System.String>  
 List of files
 
 ## See also

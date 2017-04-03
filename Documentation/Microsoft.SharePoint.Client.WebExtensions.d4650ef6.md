@@ -17,7 +17,7 @@ public static boolean RemoveIndexedPropertyBagKey(Web web,String key)
 &emsp;&emsp;The key to unmark for indexed. Case-sensitive  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 Returns True if succeeded
 
 ## See also

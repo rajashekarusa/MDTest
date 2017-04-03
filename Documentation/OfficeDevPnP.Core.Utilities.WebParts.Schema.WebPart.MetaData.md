@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData MetaData { se
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData.md) 
+Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData.md)  
 
 ## See also
 - [WebPart](WebPart.md) 

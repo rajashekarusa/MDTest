@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection Sit
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md)  
 
 ## See also
 - [CustomActions](CustomActions.md) 

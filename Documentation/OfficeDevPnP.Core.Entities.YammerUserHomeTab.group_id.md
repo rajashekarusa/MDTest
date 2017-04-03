@@ -8,7 +8,7 @@ public nullable<system.int32> group_id { set; }
 ```
 
 ### Property Value
-Type: [System.Nullable<System.Int32>] 
+Type: System.Nullable<System.Int32>  
 
 ## See also
 - [YammerUserHomeTab](YammerUserHomeTab.md) 

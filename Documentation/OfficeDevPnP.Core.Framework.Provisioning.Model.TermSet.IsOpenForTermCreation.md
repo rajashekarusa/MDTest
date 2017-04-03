@@ -8,7 +8,7 @@ public boolean IsOpenForTermCreation { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [TermSet](TermSet.md) 

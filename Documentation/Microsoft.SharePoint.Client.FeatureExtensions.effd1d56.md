@@ -25,7 +25,7 @@ public static void ActivateFeature(Site site,Guid featureID,Boolean sandboxed,In
 &emsp;&emsp;The time in seconds between polls for "IsActive"  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

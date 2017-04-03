@@ -10,7 +10,7 @@ public string ResourceFile { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

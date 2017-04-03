@@ -7,7 +7,7 @@ public int Height { get; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [TreeNode](TreeNode.md) 

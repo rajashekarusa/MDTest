@@ -10,11 +10,11 @@ public void Clone(TimerJob job)
 ```
 ### Parameters
 *job*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.TimerJobs.TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.TimerJobs.TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

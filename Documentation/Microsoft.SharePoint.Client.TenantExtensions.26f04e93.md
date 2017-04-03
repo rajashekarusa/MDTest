@@ -21,7 +21,7 @@ public static  GetWebTemplates(Tenant tenant,UInt32 lcid,Int32 compatibilityLeve
 &emsp;&emsp;14 for SharePoint 2010, 15 for SharePoint 2013/SharePoint Online  
   
 ### Return Value
-Type: [Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection]  
+Type: Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection  
 
 
 ## See also

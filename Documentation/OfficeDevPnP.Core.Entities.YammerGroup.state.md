@@ -8,7 +8,7 @@ public string state { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerGroup](YammerGroup.md) 

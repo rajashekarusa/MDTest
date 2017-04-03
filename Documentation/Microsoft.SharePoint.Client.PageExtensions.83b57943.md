@@ -17,7 +17,7 @@ public static  AddWebPartToWikiPage(Web web,String serverRelativePageUrl,WebPart
 &emsp;&emsp;Server relative url of the page to add the webpart to  
   
 *webPart*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
 &emsp;&emsp;Information about the web part to insert  
   
 *row*  
@@ -33,7 +33,7 @@ public static  AddWebPartToWikiPage(Web web,String serverRelativePageUrl,WebPart
 &emsp;&emsp;Does a blank line need to be added after the web part (to space web parts)  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WebParts.WebPartDefinition]  
+Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
 Returns the added  object
 
 ## See also

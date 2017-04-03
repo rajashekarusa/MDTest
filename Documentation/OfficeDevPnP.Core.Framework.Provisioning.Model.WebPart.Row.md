@@ -8,7 +8,7 @@ public uint32 Row { set; }
 ```
 
 ### Property Value
-Type: [System.UInt32] 
+Type: System.UInt32  
 
 ## See also
 - [WebPart](WebPart.md) 

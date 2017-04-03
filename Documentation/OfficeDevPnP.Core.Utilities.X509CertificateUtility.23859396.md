@@ -21,7 +21,7 @@ public static security.cryptography.x509certificates.x509certificate2 LoadCertif
 &emsp;&emsp;Thumbprint of the certificate to load  
   
 ### Return Value
-Type: [System.Security.Cryptography.X509Certificates.X509Certificate2]  
+Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
 An  certificate
 
 ## See also

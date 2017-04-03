@@ -21,7 +21,7 @@ public static void AddLayoutToWikiPage(Web web,WikiPageLayout layout,String serv
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

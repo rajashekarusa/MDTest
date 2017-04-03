@@ -33,7 +33,7 @@ public static  DeployApplicationPackageToAppCatalog(Tenant tenant,String appCata
 &emsp;&emsp;Overwrite the package if it was already listed in the app catalog  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ListItem]  
+Type: Microsoft.SharePoint.Client.ListItem  
 The ListItem of the added package row
 
 ## See also

@@ -17,7 +17,7 @@ public static  GetClientContext(HttpControllerContext httpControllerContext)
 &emsp;&emsp;Information about the HTTP request that reached the WebAPI controller  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 A valid ClientContext object
 
 ## See also

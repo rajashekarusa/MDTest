@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult Result { get;
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.md) 
+Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.md)  
 
 ## Remarks 
 

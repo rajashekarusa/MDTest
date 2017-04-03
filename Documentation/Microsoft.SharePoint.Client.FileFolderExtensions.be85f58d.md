@@ -17,7 +17,7 @@ public static void PublishFileToLevel(File file,FileLevel level)
 &emsp;&emsp;Target publish direction (Draft and Published only apply, Checkout is ignored).  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

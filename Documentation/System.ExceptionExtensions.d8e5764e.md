@@ -11,11 +11,11 @@ public static string ToDetailedString(Exception exception,ExceptionOptions optio
 &emsp;&emsp;  
   
 *options*  
-&emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md) 
+&emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## See also
 - [System](System.md)

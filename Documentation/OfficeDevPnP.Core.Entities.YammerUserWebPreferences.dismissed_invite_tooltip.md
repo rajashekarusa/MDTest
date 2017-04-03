@@ -8,7 +8,7 @@ public boolean dismissed_invite_tooltip { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

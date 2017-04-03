@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate Docume
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md)  
 
 ## See also
 - [ContentType](ContentType.md) 

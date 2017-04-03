@@ -13,7 +13,7 @@ public string ToXML(ITemplateFormatter formatter)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 
 ## See also

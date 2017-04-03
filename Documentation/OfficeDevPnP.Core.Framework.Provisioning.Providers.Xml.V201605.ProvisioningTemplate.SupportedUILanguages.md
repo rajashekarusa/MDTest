@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedU
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedUILanguagesSupportedUILanguage[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SupportedUILanguagesSupportedUILanguage[]  
 
 ## Remarks 
 

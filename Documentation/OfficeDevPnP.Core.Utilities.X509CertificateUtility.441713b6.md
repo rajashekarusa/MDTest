@@ -21,7 +21,7 @@ public static byte[] Decrypt(Byte[] encryptedData,Boolean fOAEP,X509Certificate2
 &emsp;&emsp;Certificate to use  
   
 ### Return Value
-Type: [System.Byte[]]  
+Type: System.Byte[]  
 Decrypted bytes
 
 ## See also

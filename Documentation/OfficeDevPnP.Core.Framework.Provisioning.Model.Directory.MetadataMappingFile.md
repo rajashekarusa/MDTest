@@ -10,7 +10,7 @@ public string MetadataMappingFile { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [Directory](Directory.md) 

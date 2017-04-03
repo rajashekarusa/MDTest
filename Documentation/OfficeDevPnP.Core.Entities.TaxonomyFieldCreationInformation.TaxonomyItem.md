@@ -8,7 +8,7 @@ public Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem TaxonomyItem { set; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem] 
+Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 
 ## See also
 - [TaxonomyFieldCreationInformation](TaxonomyFieldCreationInformation.md) 

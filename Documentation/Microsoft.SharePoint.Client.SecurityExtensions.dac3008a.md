@@ -13,7 +13,7 @@ public static collections.generic.list<officedevpnp.core.entities.externaluseren
 &emsp;&emsp;Tenant administration web  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.ExternalUserEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.ExternalUserEntity>  
 A list of  objects
 
 ## See also

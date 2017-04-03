@@ -7,7 +7,7 @@ public void AddSection(CanvasSection section,Int32 order)
 ```
 ### Parameters
 *section*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md)  
 &emsp;&emsp;  
   
 *order*  
@@ -15,7 +15,7 @@ public void AddSection(CanvasSection section,Int32 order)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

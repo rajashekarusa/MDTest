@@ -21,7 +21,7 @@ public static  GetTermSetsByName(Site site,String name,Int32 lcid)
 &emsp;&emsp;The locale ID for the termset to return, defaults to 1033  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Taxonomy.TermSetCollection]  
+Type: Microsoft.SharePoint.Client.Taxonomy.TermSetCollection  
 
 
 ## See also

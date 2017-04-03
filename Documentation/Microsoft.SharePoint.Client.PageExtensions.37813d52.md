@@ -17,7 +17,7 @@ public static collections.generic.ienumerable<microsoft.sharepoint.client.webpar
 &emsp;&emsp;Server relative url of the page containing the webparts  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.WebParts.WebPartDefinition>]  
+Type: System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.WebParts.WebPartDefinition>  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

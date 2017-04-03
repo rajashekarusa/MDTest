@@ -10,7 +10,7 @@ public string Email { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

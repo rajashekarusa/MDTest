@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSetting
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.md)  
 
 ## Remarks 
 

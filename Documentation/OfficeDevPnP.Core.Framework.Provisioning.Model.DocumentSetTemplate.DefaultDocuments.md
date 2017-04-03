@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection.md)  
 
 ## See also
 - [DocumentSetTemplate](DocumentSetTemplate.md) 

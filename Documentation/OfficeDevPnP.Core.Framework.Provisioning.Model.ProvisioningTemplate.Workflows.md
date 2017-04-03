@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows Workflows { set;
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

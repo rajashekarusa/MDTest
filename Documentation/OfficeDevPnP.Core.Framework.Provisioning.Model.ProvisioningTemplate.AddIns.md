@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection AddIns { g
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

@@ -13,7 +13,7 @@ public static boolean Contains(Guid fid)
 &emsp;&emsp;File identifier.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
             Returns a GUID.
             

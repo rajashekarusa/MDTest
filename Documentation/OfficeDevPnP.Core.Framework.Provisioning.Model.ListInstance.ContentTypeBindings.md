@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollecti
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.md)  
 
 ## See also
 - [ListInstance](ListInstance.md) 

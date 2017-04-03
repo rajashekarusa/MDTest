@@ -17,7 +17,7 @@ public static  GetWorkflowDefinitions(Web web,Boolean publishedOnly)
 &emsp;&emsp;Defines whether to include only published definition, or all the definitions  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition[]]  
+Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition[]  
 
 
 ## See also

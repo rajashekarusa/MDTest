@@ -21,7 +21,7 @@ public static void PublishFile(Web web,String serverRelativeUrl,String comment)
 &emsp;&emsp;Comment recorded with the publish action  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

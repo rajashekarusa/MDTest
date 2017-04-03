@@ -11,7 +11,7 @@ public  Add(ITreeNode node)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode]  
+Type: OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

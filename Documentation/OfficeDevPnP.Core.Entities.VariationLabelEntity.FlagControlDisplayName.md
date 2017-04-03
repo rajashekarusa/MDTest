@@ -10,7 +10,7 @@ public string FlagControlDisplayName { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [VariationLabelEntity](VariationLabelEntity.md) 

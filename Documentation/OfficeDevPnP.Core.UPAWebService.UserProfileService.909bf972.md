@@ -17,7 +17,7 @@ public void GetPropertyChoiceListAsync(String propertyName,Object userState)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerUserContact contact { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md)  
 
 ## See also
 - [YammerUser](YammerUser.md) 

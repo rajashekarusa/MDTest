@@ -23,7 +23,7 @@ public static void ExportSearchSettings(ClientContext context,String exportFileP
               
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -22,7 +22,7 @@ public static boolean CheckIfSiteExists(Tenant tenant,String siteFullUrl,String 
 &emsp;&emsp;Status to check (Active, Creating, Recycled)  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if in status, false if not in status
 
 ## See also

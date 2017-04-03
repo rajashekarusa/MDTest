@@ -37,7 +37,7 @@ public static  DeployMasterPage(Web web,String sourceFilePath,String title,Strin
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.File]  
+Type: Microsoft.SharePoint.Client.File  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

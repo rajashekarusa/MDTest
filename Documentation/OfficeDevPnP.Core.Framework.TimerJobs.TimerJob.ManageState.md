@@ -11,7 +11,7 @@ public boolean ManageState { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [TimerJob](TimerJob.md) 

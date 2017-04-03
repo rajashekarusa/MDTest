@@ -10,7 +10,7 @@ public boolean IsVisible { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## Remarks 
 

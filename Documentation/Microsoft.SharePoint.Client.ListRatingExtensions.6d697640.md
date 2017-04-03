@@ -20,7 +20,7 @@ public static void SetRating(List list,VotingExperience experience)
 &emsp;&emsp;Likes/Ratings  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

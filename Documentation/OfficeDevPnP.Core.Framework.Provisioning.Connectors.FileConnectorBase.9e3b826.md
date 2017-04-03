@@ -13,7 +13,7 @@ public string GetFilenamePart(String fileName)
 &emsp;&emsp;Path to the file to retrieve the filename from  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

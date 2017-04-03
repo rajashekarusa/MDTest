@@ -8,7 +8,7 @@ public string InvitedAs { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ExternalUserEntity](ExternalUserEntity.md) 

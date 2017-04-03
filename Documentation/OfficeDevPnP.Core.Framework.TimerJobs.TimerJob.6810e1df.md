@@ -13,7 +13,7 @@ public collections.generic.ienumerable<system.string> GetAllSubSites(Site site)
 &emsp;&emsp;Site to find all sub site for  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<System.String>]  
+Type: System.Collections.Generic.IEnumerable<System.String>  
 IEnumerable of strings holding the sub site urls
 
 ## See also

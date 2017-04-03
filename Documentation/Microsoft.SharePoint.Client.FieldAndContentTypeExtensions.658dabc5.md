@@ -21,7 +21,7 @@ public static void SetDefaultContentTypeToList(Web web,String listTitle,ContentT
 &emsp;&emsp;Content type to make default  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 Notice. Currently removes other content types from the list. Known issue

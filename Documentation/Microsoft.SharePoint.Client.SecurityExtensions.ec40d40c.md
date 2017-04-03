@@ -21,7 +21,7 @@ public static void RemoveUserFromGroup(Web web,String groupName,String userLogin
 &emsp;&emsp;Loginname of the user  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

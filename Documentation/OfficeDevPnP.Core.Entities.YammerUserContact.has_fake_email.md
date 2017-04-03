@@ -8,7 +8,7 @@ public boolean has_fake_email { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserContact](YammerUserContact.md) 

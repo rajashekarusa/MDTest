@@ -17,7 +17,7 @@ public static  Clone(ClientRuntimeContext clientContext,Uri siteUrl)
 &emsp;&emsp;Site url to be used for cloned ClientContext  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 A ClientContext object created for the passed site url
 
 ## See also

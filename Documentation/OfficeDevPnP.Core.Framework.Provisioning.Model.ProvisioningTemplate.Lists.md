@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection Lis
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

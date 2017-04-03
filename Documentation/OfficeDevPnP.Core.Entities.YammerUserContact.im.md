@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerUserIm im { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md)  
 
 ## See also
 - [YammerUserContact](YammerUserContact.md) 

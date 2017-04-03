@@ -21,7 +21,7 @@ public static string ViewQuery(String whereClause,String orderByClause,Int32 row
 &emsp;&emsp;<RowLimit> node.  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 String to be used in CAML queries
 
 ## Examples

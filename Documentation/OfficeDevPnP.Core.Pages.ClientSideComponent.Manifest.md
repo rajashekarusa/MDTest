@@ -8,7 +8,7 @@ public string Manifest { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ClientSideComponent](ClientSideComponent.md) 

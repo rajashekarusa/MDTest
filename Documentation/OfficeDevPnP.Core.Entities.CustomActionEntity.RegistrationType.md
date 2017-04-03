@@ -10,7 +10,7 @@ public nullable<microsoft.sharepoint.client.usercustomactionregistrationtype> Re
 ```
 
 ### Property Value
-Type: [System.Nullable<Microsoft.SharePoint.Client.UserCustomActionRegistrationType>] 
+Type: System.Nullable<Microsoft.SharePoint.Client.UserCustomActionRegistrationType>  
 
 ## See also
 - [CustomActionEntity](CustomActionEntity.md) 

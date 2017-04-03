@@ -10,7 +10,7 @@ public string InitiationUrl { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WorkflowDefinition](WorkflowDefinition.md) 

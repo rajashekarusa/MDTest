@@ -25,7 +25,7 @@ public static boolean AddJsBlock(Site site,String key,String scriptBlock,Int32 s
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if action was ok
 
 ## See also

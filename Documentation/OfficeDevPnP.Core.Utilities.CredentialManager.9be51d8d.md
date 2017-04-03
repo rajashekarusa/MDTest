@@ -13,7 +13,7 @@ public static net.networkcredential GetCredential(String name)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Net.NetworkCredential]  
+Type: System.Net.NetworkCredential  
 System.Net.NetworkCredential
 
 ## See also

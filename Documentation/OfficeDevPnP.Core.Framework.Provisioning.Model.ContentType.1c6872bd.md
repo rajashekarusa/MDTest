@@ -6,7 +6,7 @@
 public int GetHashCode()
 ```
 ### Return Value
-Type: [System.Int32]  
+Type: System.Int32  
 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)

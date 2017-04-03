@@ -10,7 +10,7 @@ public string RefreshToken { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebAPIContexCacheItem](WebAPIContexCacheItem.md) 

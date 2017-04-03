@@ -13,7 +13,7 @@ public static collections.generic.ienumerable<officedevpnp.core.entities.variati
 &emsp;&emsp;Context for SharePoint objects and operations  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.VariationLabelEntity>]  
+Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.VariationLabelEntity>  
 Collection of VariationLabelEntity objects
 
 ## See also

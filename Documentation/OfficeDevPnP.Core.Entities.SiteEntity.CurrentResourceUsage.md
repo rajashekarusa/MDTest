@@ -10,7 +10,7 @@ public double CurrentResourceUsage { set; }
 ```
 
 ### Property Value
-Type: [System.Double] 
+Type: System.Double  
 
 ## See also
 - [SiteEntity](SiteEntity.md) 

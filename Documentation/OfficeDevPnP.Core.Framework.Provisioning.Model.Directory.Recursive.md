@@ -10,7 +10,7 @@ public boolean Recursive { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [Directory](Directory.md) 

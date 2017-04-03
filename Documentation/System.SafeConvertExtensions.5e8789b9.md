@@ -11,7 +11,7 @@ public static  ToEnum(Int32 enumValue)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T]  
+Type: T  
 
 ## See also
 - [System](System.md)

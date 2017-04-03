@@ -10,7 +10,7 @@ public int LCID { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [SupportedUILanguage](SupportedUILanguage.md) 

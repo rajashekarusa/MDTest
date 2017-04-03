@@ -29,7 +29,7 @@ public  GetADFSCertificateMixedAuthenticationContext(String siteUrl,String seria
 &emsp;&emsp;Optioanlly provide the value of the SharePoint STS logonTokenCacheExpirationWindow. Defaults to 10 minutes.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

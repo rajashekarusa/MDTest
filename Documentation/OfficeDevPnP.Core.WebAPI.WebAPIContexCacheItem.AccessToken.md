@@ -10,7 +10,7 @@ public SharePointPnP.IdentityModel.Extensions.S2S.Protocols.OAuth2.OAuth2AccessT
 ```
 
 ### Property Value
-Type: [SharePointPnP.IdentityModel.Extensions.S2S.Protocols.OAuth2.OAuth2AccessTokenResponse] 
+Type: SharePointPnP.IdentityModel.Extensions.S2S.Protocols.OAuth2.OAuth2AccessTokenResponse  
 
 ## See also
 - [WebAPIContexCacheItem](WebAPIContexCacheItem.md) 

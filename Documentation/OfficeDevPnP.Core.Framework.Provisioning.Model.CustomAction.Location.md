@@ -11,7 +11,7 @@ public string Location { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [CustomAction](CustomAction.md) 

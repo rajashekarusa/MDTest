@@ -13,7 +13,7 @@ public static  Deserialize(String json)
 &emsp;&emsp;json string  
   
 ### Return Value
-Type: [T]  
+Type: T  
 Object of type T
 
 ## See also

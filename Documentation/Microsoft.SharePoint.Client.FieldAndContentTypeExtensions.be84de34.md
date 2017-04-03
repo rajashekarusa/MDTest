@@ -29,7 +29,7 @@ public static void SetLocalizationForField(List list,Field siteColumn,String cul
 &emsp;&emsp;Localized value for the Description property  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

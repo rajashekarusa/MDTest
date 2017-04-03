@@ -10,7 +10,7 @@ public nullable<system.guid> TermSetId { set; }
 ```
 
 ### Property Value
-Type: [System.Nullable<System.Guid>] 
+Type: System.Nullable<System.Guid>  
 
 ## Remarks 
 

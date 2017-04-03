@@ -43,7 +43,7 @@ public static void SendEmail(String servername,String fromAddress,String fromUse
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

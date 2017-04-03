@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing Publishing { se
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

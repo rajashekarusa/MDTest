@@ -10,7 +10,7 @@ public guid DefinitionId { set; }
 ```
 
 ### Property Value
-Type: [System.Guid] 
+Type: System.Guid  
 
 ## See also
 - [WorkflowSubscription](WorkflowSubscription.md) 

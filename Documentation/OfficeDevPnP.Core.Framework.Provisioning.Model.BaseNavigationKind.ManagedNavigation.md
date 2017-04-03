@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation ManagedN
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md)  
 
 ## See also
 - [BaseNavigationKind](BaseNavigationKind.md) 

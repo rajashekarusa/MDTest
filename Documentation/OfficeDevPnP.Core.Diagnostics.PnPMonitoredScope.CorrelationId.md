@@ -7,7 +7,7 @@ public guid CorrelationId { get; }
 ```
 
 ### Property Value
-Type: [System.Guid] 
+Type: System.Guid  
 
 ## See also
 - [PnPMonitoredScope](PnPMonitoredScope.md) 

@@ -33,7 +33,7 @@ public static  ShareSite(Web web,String email,ExternalSharingSiteOption shareOpt
 &emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult]  
+Type: Microsoft.SharePoint.Client.SharingResult  
 
 
 ## See also

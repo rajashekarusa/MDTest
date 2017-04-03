@@ -17,7 +17,7 @@ public void CreateUserProfileByAccountNameAsync(String accountName,Object userSt
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

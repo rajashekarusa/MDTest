@@ -17,7 +17,7 @@ public static void CreateFieldsFromXML(Web web,XDocument xDocument)
 &emsp;&emsp;Actual XML document  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

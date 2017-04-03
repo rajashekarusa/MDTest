@@ -25,7 +25,7 @@ public static boolean AddContentTypeToListByName(List list,String contentTypeNam
 &emsp;&emsp;search for content type in site hierarchy  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

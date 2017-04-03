@@ -25,7 +25,7 @@ public static  InviteExternalUser(Group group,String email,Boolean sendEmail,Str
 &emsp;&emsp;Text to be added to the email  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult]  
+Type: Microsoft.SharePoint.Client.SharingResult  
 
 
 ## See also

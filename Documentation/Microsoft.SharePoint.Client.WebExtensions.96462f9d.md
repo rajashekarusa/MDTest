@@ -14,7 +14,7 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> Si
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
 All site collections
 
 ## See also

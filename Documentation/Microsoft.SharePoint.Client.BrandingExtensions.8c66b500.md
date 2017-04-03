@@ -17,7 +17,7 @@ public static void SetMasterPageByName(Web web,String masterPageName)
 &emsp;&emsp;Name of the master page. Path is resolved from this.  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

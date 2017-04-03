@@ -17,7 +17,7 @@ public static  Include(Enum value,T append)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [T]  
+Type: T  
 
 ## See also
 - [System](System.md)

@@ -8,7 +8,7 @@ public string can_broadcast { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUser](YammerUser.md) 

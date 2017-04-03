@@ -13,7 +13,7 @@ public static collections.generic.list<officedevpnp.core.entities.sitepolicyenti
 &emsp;&emsp;Web to operate on  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SitePolicyEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SitePolicyEntity>  
 A list of  objects
 
 ## See also

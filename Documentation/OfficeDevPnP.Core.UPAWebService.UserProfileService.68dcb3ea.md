@@ -7,11 +7,11 @@ public void add_AddLeaderCompleted(AddLeaderCompletedEventHandler value)
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddLeaderCompletedEventHandler.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

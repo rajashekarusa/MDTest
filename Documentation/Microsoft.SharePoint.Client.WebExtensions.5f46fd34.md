@@ -17,7 +17,7 @@ public static boolean WebExistsFullUrl(ClientRuntimeContext context,String webFu
 &emsp;&emsp;Full URL of the site to check.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 true if the Web (site) exists; otherwise false
 
 ## See also

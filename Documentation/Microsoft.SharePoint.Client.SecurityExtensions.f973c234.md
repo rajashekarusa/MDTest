@@ -25,7 +25,7 @@ public static void AddPermissionLevelToUser(SecurableObject securableObject,Stri
 &emsp;&emsp;Set to true to remove all other permission levels for that user  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

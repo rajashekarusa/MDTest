@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection Provide
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

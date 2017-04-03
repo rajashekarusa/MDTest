@@ -33,7 +33,7 @@ public static void SetThemeByUrl(Web web,String paletteServerRelativeUrl,String 
 &emsp;&emsp;false (default) to apply to subsites; true to only apply to specified site  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

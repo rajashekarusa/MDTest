@@ -33,7 +33,7 @@ public static void DeployHtmlPageLayout(Web web,String sourceFilePath,String tit
 &emsp;&emsp;Folder hierarchy where the html page layouts will be deployed  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerUserSettings settings { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md)  
 
 ## See also
 - [YammerUser](YammerUser.md) 

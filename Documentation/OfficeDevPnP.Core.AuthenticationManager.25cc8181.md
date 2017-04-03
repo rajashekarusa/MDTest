@@ -21,7 +21,7 @@ public  GetSharePointOnlineAuthenticatedContextTenant(String siteUrl,String tena
 &emsp;&emsp;Password (SecureString) of the user used to instantiate the ClientContext object  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

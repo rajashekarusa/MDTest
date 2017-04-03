@@ -11,7 +11,7 @@ public collections.generic.list<officedevpnp.core.framework.provisioning.model.p
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate>  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

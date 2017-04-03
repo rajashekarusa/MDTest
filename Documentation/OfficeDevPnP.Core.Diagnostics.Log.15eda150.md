@@ -7,11 +7,11 @@ public static void Error(LogEntry logEntry)
 ```
 ### Parameters
 *logEntry*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

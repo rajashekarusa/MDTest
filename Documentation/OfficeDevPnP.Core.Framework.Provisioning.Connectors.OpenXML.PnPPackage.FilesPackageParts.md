@@ -9,7 +9,7 @@ public collections.generic.ilist<system.io.packaging.packagepart> FilesPackagePa
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<System.IO.Packaging.PackagePart>] 
+Type: System.Collections.Generic.IList<System.IO.Packaging.PackagePart>  
 
 ## See also
 - [PnPPackage](PnPPackage.md) 

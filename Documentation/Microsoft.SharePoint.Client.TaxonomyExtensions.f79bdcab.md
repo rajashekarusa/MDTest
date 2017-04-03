@@ -25,7 +25,7 @@ public static void SetTaxonomyFieldValue(ListItem item,Guid fieldId,String label
 &emsp;&emsp;The id of the term to set  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.Package
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType  
 
 ## See also
 - [PnPManifest](PnPManifest.md) 

@@ -25,7 +25,7 @@ public static boolean AddJsLink(Web web,String key,String scriptLinks,Int32 sequ
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if action was ok
 
 ## See also

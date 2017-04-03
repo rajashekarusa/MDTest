@@ -25,7 +25,7 @@ public void RemoveMembershipAsync(String accountName,Guid sourceInternal,String 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

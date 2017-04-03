@@ -19,7 +19,7 @@ public static  GetViewByName(List list,String name,Expression<Func<View, Object>
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.View]  
+Type: Microsoft.SharePoint.Client.View  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

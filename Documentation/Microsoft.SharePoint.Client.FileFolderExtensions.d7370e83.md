@@ -17,7 +17,7 @@ public static boolean FolderExists(Folder parentFolder,String folderName)
 &emsp;&emsp;Folder name to retrieve  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 true if the folder exists; false otherwise
 
 ## Remarks 

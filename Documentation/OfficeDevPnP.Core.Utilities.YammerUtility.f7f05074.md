@@ -13,7 +13,7 @@ public static collections.generic.list<officedevpnp.core.entities.yammergroup> G
 &emsp;&emsp;Access token to the Yammer network  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.YammerGroup>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.YammerGroup>  
 All groups in the network
 
 ## See also

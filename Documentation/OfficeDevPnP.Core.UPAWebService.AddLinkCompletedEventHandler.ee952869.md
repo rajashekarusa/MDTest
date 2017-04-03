@@ -11,7 +11,7 @@ public iasyncresult BeginInvoke(Object sender,AddLinkCompletedEventArgs e,AsyncC
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventArgs.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventArgs.md)  
 &emsp;&emsp;  
   
 *callback*  
@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,AddLinkCompletedEventArgs e,AsyncC
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult]  
+Type: System.IAsyncResult  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

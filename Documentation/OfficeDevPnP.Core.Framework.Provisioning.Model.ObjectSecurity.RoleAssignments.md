@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection R
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection.md)  
 
 ## See also
 - [ObjectSecurity](ObjectSecurity.md) 

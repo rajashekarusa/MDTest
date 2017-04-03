@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection SiteGr
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection.md)  
 
 ## See also
 - [SiteSecurity](SiteSecurity.md) 

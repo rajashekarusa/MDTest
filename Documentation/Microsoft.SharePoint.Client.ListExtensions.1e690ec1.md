@@ -21,7 +21,7 @@ public static nullable<system.int32> GetPropertyBagValueInt(List list,String key
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Nullable<System.Int32>]  
+Type: System.Nullable<System.Int32>  
 Value of the property bag entry as integer
 
 ## See also

@@ -8,7 +8,7 @@ public boolean allow_external_sharing { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

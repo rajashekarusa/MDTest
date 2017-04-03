@@ -11,7 +11,7 @@ public boolean PersistComposedLookFiles { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 

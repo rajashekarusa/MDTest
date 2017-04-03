@@ -17,7 +17,7 @@ public  GetWebLoginClientContext(String siteUrl,Icon icon)
 &emsp;&emsp;Optional icon to use for the popup form  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

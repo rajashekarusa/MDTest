@@ -13,11 +13,11 @@ public static void WaitForVariationLabelCreation(ClientContext context,Variation
 &emsp;&emsp;Context for SharePoint objects and operations  
   
 *variationLabel*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md)  
 &emsp;&emsp;Variation label  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

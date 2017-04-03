@@ -21,7 +21,7 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> Si
 &emsp;&emsp;Indicates if dublicates should be trimmed or not  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
 All found site collections
 
 ## See also

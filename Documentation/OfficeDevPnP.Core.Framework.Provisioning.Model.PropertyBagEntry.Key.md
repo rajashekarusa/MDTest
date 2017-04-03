@@ -8,7 +8,7 @@ public string Key { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [PropertyBagEntry](PropertyBagEntry.md) 

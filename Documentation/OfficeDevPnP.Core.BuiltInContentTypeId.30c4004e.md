@@ -11,7 +11,7 @@ public static boolean Contains(String id)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

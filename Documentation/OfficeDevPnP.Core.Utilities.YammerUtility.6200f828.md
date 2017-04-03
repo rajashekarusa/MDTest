@@ -41,7 +41,7 @@ public static string CreateYammerOpenGraphDiscussionPartXml(String yammerNetwork
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 
 ## See also

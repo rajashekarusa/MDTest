@@ -17,7 +17,7 @@ public static boolean DeleteWeb(Web parentWeb,String leafUrl)
 &emsp;&emsp;A string that represents the URL leaf name.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 true if the web was deleted; otherwise false if nothing was done
 
 ## See also

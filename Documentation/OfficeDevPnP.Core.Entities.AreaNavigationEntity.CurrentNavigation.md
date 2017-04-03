@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Entities.StructuralNavigationEntity CurrentNavigation {
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md) 
+Type: [OfficeDevPnP.Core.Entities.StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md)  
 
 ## See also
 - [AreaNavigationEntity](AreaNavigationEntity.md) 

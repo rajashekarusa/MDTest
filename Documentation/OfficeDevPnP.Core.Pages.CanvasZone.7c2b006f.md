@@ -6,7 +6,7 @@
 public string ToHtml()
 ```
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

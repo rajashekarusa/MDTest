@@ -16,11 +16,11 @@ public static void ConfigureVariationsSettings(ClientContext context,VariationIn
 &emsp;&emsp;Context for SharePoint objects and operations  
   
 *variationSettings*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md)  
 &emsp;&emsp;Variation settings  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

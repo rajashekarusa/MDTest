@@ -17,7 +17,7 @@ public static boolean FieldExistsByName(List list,String fieldName)
 &emsp;&emsp;Internal name of the field  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the fields exists, false otherwise
 
 ## See also

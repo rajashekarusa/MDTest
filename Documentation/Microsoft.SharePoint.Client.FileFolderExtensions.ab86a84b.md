@@ -21,7 +21,7 @@ public static void ApproveFile(Web web,String serverRelativeUrl,String comment)
 &emsp;&emsp;Message to be recorded with the approval  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

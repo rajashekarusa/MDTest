@@ -10,7 +10,7 @@ public string OriginalName { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [PnPFileInfo](PnPFileInfo.md) 

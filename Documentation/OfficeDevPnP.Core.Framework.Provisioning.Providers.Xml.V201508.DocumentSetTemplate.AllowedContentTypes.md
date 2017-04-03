@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DocumentSe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DocumentSetTemplateAllowedContentType[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DocumentSetTemplateAllowedContentType[]  
 
 ## Remarks 
 

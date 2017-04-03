@@ -17,7 +17,7 @@ public static  GetPageLayoutListItemByName(Web web,String pageLayoutName)
 &emsp;&emsp;name of the page layout to retrieve  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ListItem]  
+Type: Microsoft.SharePoint.Client.ListItem  
 ListItem holding the page layout, null if not found
 
 ## See also

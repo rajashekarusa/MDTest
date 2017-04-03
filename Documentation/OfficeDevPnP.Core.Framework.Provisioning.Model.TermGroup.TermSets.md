@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection TermSets
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection.md)  
 
 ## See also
 - [TermGroup](TermGroup.md) 

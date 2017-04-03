@@ -17,7 +17,7 @@ public static collections.generic.ienumerable<microsoft.sharepoint.client.field>
 &emsp;&emsp;List of field names to retreieve.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.Field>]  
+Type: System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.Field>  
 List of fields requested.
 
 ## See also

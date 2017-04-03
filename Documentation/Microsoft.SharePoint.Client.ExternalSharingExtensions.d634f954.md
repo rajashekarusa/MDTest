@@ -25,7 +25,7 @@ public static string CreateAnonymousLinkWithExpirationForDocument(Web web,String
 &emsp;&emsp;Date time for link expiration - will be converted to ISO 8601 format automatically  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 Anonymous URL to the file as string
 
 ## See also

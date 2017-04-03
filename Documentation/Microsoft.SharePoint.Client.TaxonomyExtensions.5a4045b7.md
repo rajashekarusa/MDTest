@@ -25,7 +25,7 @@ public static void WireUpTaxonomyField(List list,Field field,Term anchorTerm,Boo
 &emsp;&emsp;Allow multiple selection  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

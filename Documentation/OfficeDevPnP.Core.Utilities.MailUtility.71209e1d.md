@@ -27,7 +27,7 @@ public static void SendEmail(ClientContext context,IEnumerable<String> to,IEnume
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

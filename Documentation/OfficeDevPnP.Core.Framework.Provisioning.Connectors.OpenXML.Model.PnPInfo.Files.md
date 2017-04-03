@@ -10,7 +10,7 @@ public collections.generic.list<officedevpnp.core.framework.provisioning.connect
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo>] 
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo>  
 
 ## See also
 - [PnPInfo](PnPInfo.md) 

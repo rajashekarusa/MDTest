@@ -17,7 +17,7 @@ public static  CreateContentTypeFromXMLFile(Web web,String absolutePathToFile)
 &emsp;&emsp;Absolute path to the xml location  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

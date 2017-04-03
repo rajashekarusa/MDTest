@@ -23,7 +23,7 @@ public static void SetJSLinkCustomizations(List list,PageType pageType,String js
               
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

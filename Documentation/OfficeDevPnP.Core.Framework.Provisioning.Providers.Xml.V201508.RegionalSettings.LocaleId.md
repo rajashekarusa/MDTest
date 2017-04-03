@@ -10,7 +10,7 @@ public int LocaleId { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## Remarks 
 

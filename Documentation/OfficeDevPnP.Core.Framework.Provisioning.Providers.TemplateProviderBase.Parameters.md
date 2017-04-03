@@ -7,7 +7,7 @@ public collections.generic.dictionary<system.string,system.string> Parameters { 
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
+Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
 - [TemplateProviderBase](TemplateProviderBase.md) 

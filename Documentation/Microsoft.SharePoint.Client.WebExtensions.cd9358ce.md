@@ -13,7 +13,7 @@ public static collections.generic.list<officedevpnp.core.entities.siteentity> My
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
 All my site site collections
 
 ## See also

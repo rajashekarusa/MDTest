@@ -17,7 +17,7 @@ public static long ToInt64(String input,Int32 defaultValue)
 &emsp;&emsp;A default value to return for a null input value.  
   
 ### Return Value
-Type: [System.Int64]  
+Type: System.Int64  
 
 ## See also
 - [System](System.md)

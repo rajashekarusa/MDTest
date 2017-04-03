@@ -13,7 +13,7 @@ public collections.generic.list<system.string> GetFiles(String container)
 &emsp;&emsp;Name of the container to get the files from  
   
 ### Return Value
-Type: [System.Collections.Generic.List<System.String>]  
+Type: System.Collections.Generic.List<System.String>  
 List of files
 
 ## See also

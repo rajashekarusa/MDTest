@@ -8,7 +8,7 @@ public string Zone { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebPart](WebPart.md) 

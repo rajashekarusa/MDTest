@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDict
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDictionaryItem[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDictionaryItem[]  
 
 ## Remarks 
 

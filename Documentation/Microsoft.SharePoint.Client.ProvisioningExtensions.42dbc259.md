@@ -17,7 +17,7 @@ public static void ProvisionElementFile(Web web,String path)
 &emsp;&emsp;Path to the XML file containing the Elements CAML defintion  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

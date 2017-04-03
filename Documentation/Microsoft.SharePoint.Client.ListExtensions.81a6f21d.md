@@ -23,7 +23,7 @@ public static void SetJSLinkCustomizations(List list,String serverRelativeUrl,St
               
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

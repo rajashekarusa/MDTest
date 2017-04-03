@@ -9,7 +9,7 @@ public collections.generic.ilist<microsoft.sharepoint.client.taxonomy.term> Term
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<Microsoft.SharePoint.Client.Taxonomy.Term>] 
+Type: System.Collections.Generic.IList<Microsoft.SharePoint.Client.Taxonomy.Term>  
 
 ## See also
 - [DefaultColumnTermValue](DefaultColumnTermValue.md) 

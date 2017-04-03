@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation Struc
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md)  
 
 ## See also
 - [BaseNavigationKind](BaseNavigationKind.md) 

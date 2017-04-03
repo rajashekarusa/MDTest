@@ -29,7 +29,7 @@ public void AddLinkAsync(String accountName,String name,String url,String group,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

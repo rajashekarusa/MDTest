@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings AuditSetting
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

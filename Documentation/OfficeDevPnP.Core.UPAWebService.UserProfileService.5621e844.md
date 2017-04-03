@@ -7,11 +7,11 @@ public void remove_RemoveAllColleaguesCompleted(RemoveAllColleaguesCompletedEven
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveAllColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllColleaguesCompletedEventHandler.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveAllColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllColleaguesCompletedEventHandler.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -8,7 +8,7 @@ public xml.linq.xelement CommandUIExtension { set; }
 ```
 
 ### Property Value
-Type: [System.Xml.Linq.XElement] 
+Type: System.Xml.Linq.XElement  
 
 ## See also
 - [CustomAction](CustomAction.md) 

@@ -15,7 +15,7 @@ public static string ReplaceInvalidUrlChars(String content,String replacer)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -7,11 +7,11 @@ public void add_GetPropertyChoiceListCompleted(GetPropertyChoiceListCompletedEve
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

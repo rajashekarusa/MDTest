@@ -9,7 +9,7 @@ public collections.generic.idictionary<system.string,officedevpnp.core.framework
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IDictionary<System.String,OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem>] 
+Type: System.Collections.Generic.IDictionary<System.String,OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem>  
 
 ## See also
 - [PnPPackage](PnPPackage.md) 

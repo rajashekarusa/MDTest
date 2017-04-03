@@ -17,7 +17,7 @@ public void SetProperty(String propertyKey,String propertyValue)
 &emsp;&emsp;Value of the property to add or update  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

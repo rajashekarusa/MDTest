@@ -19,7 +19,7 @@ public static  GetListByTitle(Web web,String listTitle,Expression<Func<List, Obj
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List]  
+Type: Microsoft.SharePoint.Client.List  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

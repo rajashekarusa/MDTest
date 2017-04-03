@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerUserWebPreferences web_preferences { set
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md)  
 
 ## See also
 - [YammerUser](YammerUser.md) 

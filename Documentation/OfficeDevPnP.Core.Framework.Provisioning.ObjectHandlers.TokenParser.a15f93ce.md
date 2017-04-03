@@ -11,7 +11,7 @@ public collections.generic.ienumerable<system.string> GetLeftOverTokens(String i
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<System.String>]  
+Type: System.Collections.Generic.IEnumerable<System.String>  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

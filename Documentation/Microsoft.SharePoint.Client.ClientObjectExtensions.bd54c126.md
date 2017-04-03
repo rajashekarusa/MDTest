@@ -13,7 +13,7 @@ public static boolean ServerObjectIsNull(T clientObject)
 &emsp;&emsp;Object to operate on  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the server object is null, otherwise false
 
 ## See also

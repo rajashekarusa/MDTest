@@ -17,7 +17,7 @@ public static boolean FieldExistsById(List list,Guid fieldId)
 &emsp;&emsp;Guid of the field ID  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the fields exists, false otherwise
 
 ## See also

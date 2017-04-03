@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollec
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.md)  
 
 ## See also
 - [Workflows](Workflows.md) 

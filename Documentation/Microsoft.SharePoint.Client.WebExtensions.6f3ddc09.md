@@ -29,7 +29,7 @@ public static void SetPageOutputCache(Web web,Boolean enableOutputCache,Int32 an
 &emsp;&emsp;Specify true to enable the display of additional cache information on pages in this site collection. False otherwise.  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

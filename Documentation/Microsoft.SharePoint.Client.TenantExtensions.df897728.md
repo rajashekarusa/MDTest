@@ -17,7 +17,7 @@ public static boolean IsSiteActive(Tenant tenant,String siteFullUrl)
 &emsp;&emsp;URL to the site collection  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if active, false if not
 
 ## See also

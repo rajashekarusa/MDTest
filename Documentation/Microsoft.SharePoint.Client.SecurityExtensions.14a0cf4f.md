@@ -17,7 +17,7 @@ public static int GetGroupID(Web web,String groupName)
 &emsp;&emsp;SharePoint group name  
   
 ### Return Value
-Type: [System.Int32]  
+Type: System.Int32  
 Integer group ID
 
 ## See also

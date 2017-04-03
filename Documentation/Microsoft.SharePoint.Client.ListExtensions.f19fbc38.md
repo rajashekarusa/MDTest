@@ -37,7 +37,7 @@ public static  AddRemoteEventReceiver(List list,String name,String url,EventRece
 &emsp;&emsp;If True any event already registered with the same name will be removed first.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.EventReceiverDefinition]  
+Type: Microsoft.SharePoint.Client.EventReceiverDefinition  
 Returns an EventReceiverDefinition if succeeded. Returns null if failed.
 
 ## See also

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActi
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension.md)  
 
 ## Remarks 
 

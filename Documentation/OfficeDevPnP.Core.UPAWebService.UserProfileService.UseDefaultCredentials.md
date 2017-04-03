@@ -8,7 +8,7 @@ public boolean UseDefaultCredentials { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [UserProfileService](UserProfileService.md) 

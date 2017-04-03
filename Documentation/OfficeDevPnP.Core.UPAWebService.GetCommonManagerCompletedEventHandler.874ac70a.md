@@ -11,11 +11,11 @@ public void Invoke(Object sender,GetCommonManagerCompletedEventArgs e)
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

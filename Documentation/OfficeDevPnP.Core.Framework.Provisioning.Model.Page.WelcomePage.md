@@ -8,7 +8,7 @@ public boolean WelcomePage { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [Page](Page.md) 

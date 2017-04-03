@@ -10,7 +10,7 @@ public string Language { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [VariationLabelEntity](VariationLabelEntity.md) 

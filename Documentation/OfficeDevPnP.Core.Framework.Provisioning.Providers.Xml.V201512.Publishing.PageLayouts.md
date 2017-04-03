@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayouts.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayouts.md)  
 
 ## Remarks 
 

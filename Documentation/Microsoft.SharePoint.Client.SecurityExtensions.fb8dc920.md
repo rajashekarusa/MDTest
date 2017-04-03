@@ -21,7 +21,7 @@ public static void AddUserToGroup(Web web,Group group,String userLoginName)
 &emsp;&emsp;Login name of the user  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

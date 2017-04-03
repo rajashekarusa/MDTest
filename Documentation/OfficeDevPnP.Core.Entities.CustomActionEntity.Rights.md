@@ -10,7 +10,7 @@ public Microsoft.SharePoint.Client.BasePermissions Rights { set; }
 ```
 
 ### Property Value
-Type: [Microsoft.SharePoint.Client.BasePermissions] 
+Type: Microsoft.SharePoint.Client.BasePermissions  
 
 ## See also
 - [CustomActionEntity](CustomActionEntity.md) 

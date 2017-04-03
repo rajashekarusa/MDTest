@@ -11,7 +11,7 @@ public collections.generic.list<system.tuple<system.string,system.string>> GetRe
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Collections.Generic.List<System.Tuple<System.String,System.String>>]  
+Type: System.Collections.Generic.List<System.Tuple<System.String,System.String>>  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

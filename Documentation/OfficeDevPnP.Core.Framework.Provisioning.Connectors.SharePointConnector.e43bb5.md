@@ -17,7 +17,7 @@ public io.stream GetFileStream(String fileName,String container)
 &emsp;&emsp;Name of the container to get the file from  
   
 ### Return Value
-Type: [System.IO.Stream]  
+Type: System.IO.Stream  
 String containing the file contents
 
 ## See also

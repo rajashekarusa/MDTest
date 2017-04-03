@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.YammerUserStats stats { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.YammerUserStats](OfficeDevPnP.Core.Entities.YammerUserStats.md) 
+Type: [OfficeDevPnP.Core.Entities.YammerUserStats](OfficeDevPnP.Core.Entities.YammerUserStats.md)  
 
 ## See also
 - [YammerUser](YammerUser.md) 

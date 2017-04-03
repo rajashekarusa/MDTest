@@ -17,7 +17,7 @@ public static string AppendQueryString(String path,String queryString)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 
 ## See also

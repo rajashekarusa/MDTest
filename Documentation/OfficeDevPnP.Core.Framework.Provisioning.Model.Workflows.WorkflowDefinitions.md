@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollecti
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.md)  
 
 ## See also
 - [Workflows](Workflows.md) 

@@ -9,7 +9,7 @@ public static string PnPCoreVersionTag { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [PnPCoreUtilities](PnPCoreUtilities.md) 

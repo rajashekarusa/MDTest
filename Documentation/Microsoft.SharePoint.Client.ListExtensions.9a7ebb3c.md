@@ -25,7 +25,7 @@ public static void UpdateListVersioning(List list,Boolean enableVersioning,Boole
 &emsp;&emsp;Perform list update and executequery, defaults to true  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

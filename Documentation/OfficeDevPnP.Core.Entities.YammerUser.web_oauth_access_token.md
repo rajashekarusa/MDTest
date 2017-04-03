@@ -8,7 +8,7 @@ public string web_oauth_access_token { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUser](YammerUser.md) 

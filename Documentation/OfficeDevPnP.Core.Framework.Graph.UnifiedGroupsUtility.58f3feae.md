@@ -41,7 +41,7 @@ public static collections.generic.list<officedevpnp.core.entities.unifiedgroupen
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
   
 ### Return Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>]  
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>  
 An IList of SiteEntity objects
 
 ## See also

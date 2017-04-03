@@ -13,7 +13,7 @@ public static collections.generic.ienumerable<system.string> GetRequestAccessEma
 &emsp;&emsp;The web to get the request access e-mail addresses from.  
   
 ### Return Value
-Type: [System.Collections.Generic.IEnumerable<System.String>]  
+Type: System.Collections.Generic.IEnumerable<System.String>  
 The request access e-mail addresses of the web.
 
 ## See also

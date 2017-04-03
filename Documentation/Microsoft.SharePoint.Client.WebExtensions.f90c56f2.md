@@ -13,7 +13,7 @@ public static string GetBaseTemplateId(Web parentWeb)
 &emsp;&emsp;The parent Web (site) to get the base template from  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 The Base Template ID for the current web
 
 ## See also

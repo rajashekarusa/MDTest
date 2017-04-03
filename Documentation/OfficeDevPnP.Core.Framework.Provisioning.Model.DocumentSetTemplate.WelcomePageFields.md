@@ -9,7 +9,7 @@ public collections.generic.list<system.guid> WelcomePageFields { get; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<System.Guid>] 
+Type: System.Collections.Generic.List<System.Guid>  
 
 ## See also
 - [DocumentSetTemplate](DocumentSetTemplate.md) 

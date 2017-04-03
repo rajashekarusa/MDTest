@@ -21,7 +21,7 @@ public static  GetObjectSharingSettingsForDocument(Web web,String urlToDocument,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ObjectSharingSettings]  
+Type: Microsoft.SharePoint.Client.ObjectSharingSettings  
 
 
 ## See also

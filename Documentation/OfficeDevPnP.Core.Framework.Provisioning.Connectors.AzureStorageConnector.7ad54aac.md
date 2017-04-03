@@ -17,7 +17,7 @@ public string GetFile(String fileName,String container)
 &emsp;&emsp;Name of the container to get the file from  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 String containing the file contents
 
 ## See also

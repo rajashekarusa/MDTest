@@ -8,7 +8,7 @@ public string MailNickname { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [UnifiedGroupEntity](UnifiedGroupEntity.md) 

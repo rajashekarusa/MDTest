@@ -8,7 +8,7 @@ public collections.generic.ilist<system.string> network_domains { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<System.String>] 
+Type: System.Collections.Generic.IList<System.String>  
 
 ## See also
 - [YammerUser](YammerUser.md) 

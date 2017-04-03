@@ -14,11 +14,11 @@ public static boolean AddCustomAction(Web web,CustomActionEntity customAction)
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *customAction*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md)  
 &emsp;&emsp;Information about the custom action be added or deleted  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if action was successfull
 
 ## See also

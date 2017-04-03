@@ -7,7 +7,7 @@ public string DataVersion { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [CanvasControl](CanvasControl.md) 

@@ -7,7 +7,7 @@ public void Import(ClientSideComponent component,Func<String, String> clientSide
 ```
 ### Parameters
 *component*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)  
 &emsp;&emsp;  
   
 *(optional) clientSideWebPartPropertiesUpdater*  
@@ -15,7 +15,7 @@ public void Import(ClientSideComponent component,Func<String, String> clientSide
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

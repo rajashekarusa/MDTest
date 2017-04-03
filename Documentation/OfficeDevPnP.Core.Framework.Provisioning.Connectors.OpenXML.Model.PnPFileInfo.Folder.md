@@ -10,7 +10,7 @@ public string Folder { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [PnPFileInfo](PnPFileInfo.md) 

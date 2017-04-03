@@ -13,7 +13,7 @@ public static linq.expressions.expression<system.func<tinput,system.object>> ToU
 &emsp;&emsp; to convert   
   
 ### Return Value
-Type: [System.Linq.Expressions.Expression<System.Func<TInput,System.Object>>]  
+Type: System.Linq.Expressions.Expression<System.Func<TInput,System.Object>>  
 New Expression where return type is object and not generic
 
 ## See also

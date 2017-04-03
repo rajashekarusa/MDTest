@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgr
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate.md)  
 
 ## See also
 - [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 

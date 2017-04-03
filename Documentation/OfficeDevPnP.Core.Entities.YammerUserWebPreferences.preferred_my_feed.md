@@ -8,7 +8,7 @@ public string preferred_my_feed { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

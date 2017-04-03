@@ -13,7 +13,7 @@ public static void ReIndexWeb(Web web)
 &emsp;&emsp;Site to be processed  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

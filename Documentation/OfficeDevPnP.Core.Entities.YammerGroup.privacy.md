@@ -8,7 +8,7 @@ public string privacy { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerGroup](YammerGroup.md) 

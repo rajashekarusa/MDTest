@@ -9,7 +9,7 @@ public collections.generic.dictionary<system.string,system.string> Values { get;
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
+Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
 - [DataRow](DataRow.md) 

@@ -8,7 +8,7 @@ public object description { set; }
 ```
 
 ### Property Value
-Type: [System.Object] 
+Type: System.Object  
 
 ## See also
 - [YammerGroup](YammerGroup.md) 

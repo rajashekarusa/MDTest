@@ -17,7 +17,7 @@ public static guid ToGuid(String input,Guid defaultValue)
 &emsp;&emsp;A default value to return for a null input value.  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [System](System.md)

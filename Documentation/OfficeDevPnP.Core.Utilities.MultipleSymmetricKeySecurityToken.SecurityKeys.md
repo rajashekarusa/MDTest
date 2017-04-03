@@ -9,7 +9,7 @@ public collections.objectmodel.readonlycollection<system.identitymodel.tokens.se
 ```
 
 ### Property Value
-Type: [System.Collections.ObjectModel.ReadOnlyCollection<System.IdentityModel.Tokens.SecurityKey>] 
+Type: System.Collections.ObjectModel.ReadOnlyCollection<System.IdentityModel.Tokens.SecurityKey>  
 
 ## See also
 - [MultipleSymmetricKeySecurityToken](MultipleSymmetricKeySecurityToken.md) 

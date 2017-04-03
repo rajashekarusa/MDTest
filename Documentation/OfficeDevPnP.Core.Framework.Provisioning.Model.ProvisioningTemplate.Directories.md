@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection Direct
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

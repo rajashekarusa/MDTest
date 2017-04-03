@@ -9,7 +9,7 @@ public static OfficeDevPnP.Core.WebAPI.WebAPIContextCache Instance { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.WebAPI.WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md) 
+Type: [OfficeDevPnP.Core.WebAPI.WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md)  
 
 ## See also
 - [WebAPIContextCache](WebAPIContextCache.md) 

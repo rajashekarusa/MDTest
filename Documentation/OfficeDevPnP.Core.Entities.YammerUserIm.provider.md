@@ -8,7 +8,7 @@ public string provider { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserIm](YammerUserIm.md) 

@@ -21,7 +21,7 @@ public static string CreateAnonymousLinkForDocument(Web web,String urlToDocument
 &emsp;&emsp;Type of the link to be created - View or Edit  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 Anonymous URL to the file as string
 
 ## See also

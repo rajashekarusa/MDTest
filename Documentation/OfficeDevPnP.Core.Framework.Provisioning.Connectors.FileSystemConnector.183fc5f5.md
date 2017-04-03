@@ -8,7 +8,7 @@ Get the folders of the default container
 public collections.generic.list<system.string> GetFolders()
 ```
 ### Return Value
-Type: [System.Collections.Generic.List<System.String>]  
+Type: System.Collections.Generic.List<System.String>  
 List of folders
 
 ## See also

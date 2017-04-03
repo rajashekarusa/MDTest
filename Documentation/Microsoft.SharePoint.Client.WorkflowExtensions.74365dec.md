@@ -13,7 +13,7 @@ public static  GetWorkflowSubscriptions(Web web)
 &emsp;&emsp;The target Web  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription[]]  
+Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription[]  
 
 
 ## See also

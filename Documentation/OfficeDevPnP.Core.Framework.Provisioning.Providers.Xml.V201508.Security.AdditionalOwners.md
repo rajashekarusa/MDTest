@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[] Add
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[]  
 
 ## Remarks 
 

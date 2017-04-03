@@ -13,7 +13,7 @@ public void UpdatePinnedLinkAsync(String accountName,PinnedLinkData data,Object 
 &emsp;&emsp;  
   
 *data*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.md)  
 &emsp;&emsp;  
   
 *userState*  
@@ -21,7 +21,7 @@ public void UpdatePinnedLinkAsync(String accountName,PinnedLinkData data,Object 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

@@ -7,7 +7,7 @@ public collections.generic.dictionary<system.string,system.string> LocalProperti
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
+Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
 - [Term](Term.md) 

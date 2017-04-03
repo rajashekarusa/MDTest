@@ -9,7 +9,7 @@ public boolean IsRunning { get; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [TimerJob](TimerJob.md) 

@@ -21,7 +21,7 @@ public static collections.generic.list<system.string> ExportAllTerms(Site site,B
 &emsp;&emsp;if specified, this delimiter will be used. Notice that IDs will be delimited with ;# from the label  
   
 ### Return Value
-Type: [System.Collections.Generic.List<System.String>]  
+Type: System.Collections.Generic.List<System.String>  
 
 
 ## See also

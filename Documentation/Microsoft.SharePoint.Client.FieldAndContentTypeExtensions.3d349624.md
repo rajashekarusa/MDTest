@@ -29,7 +29,7 @@ public static void AddFieldToContentType(Web web,ContentType contentType,Field f
 &emsp;&emsp;Optionally make this a hidden field  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

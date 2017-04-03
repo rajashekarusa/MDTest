@@ -13,7 +13,7 @@ public static boolean HasSitePolicyApplied(Web web)
 &emsp;&emsp;Web to operate on  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if a policy has been applied, false otherwise
 
 ## See also

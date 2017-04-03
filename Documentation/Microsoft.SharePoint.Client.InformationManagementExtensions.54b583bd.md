@@ -13,7 +13,7 @@ public static boolean SetClosedBySitePolicy(Web web)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if site was closed, false otherwise
 
 ## See also

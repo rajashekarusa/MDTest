@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection WebParts
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection.md)  
 
 ## See also
 - [File](File.md) 

@@ -21,7 +21,7 @@ public static boolean ContentTypeExistsById(Web web,String contentTypeId,Boolean
 &emsp;&emsp;Searches accross all content types in the site up to the root site  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the content type exists, false otherwise
 
 ## See also

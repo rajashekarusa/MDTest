@@ -17,7 +17,7 @@ public static boolean ExistsJsLink(Web web,String key)
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 
 ## See also

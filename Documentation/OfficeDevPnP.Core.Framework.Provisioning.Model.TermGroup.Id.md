@@ -10,7 +10,7 @@ public guid Id { set; }
 ```
 
 ### Property Value
-Type: [System.Guid] 
+Type: System.Guid  
 
 ## See also
 - [TermGroup](TermGroup.md) 

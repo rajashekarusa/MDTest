@@ -17,7 +17,7 @@ public static int GetWssIdForTerm(Web web,Term term)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Int32]  
+Type: System.Int32  
 
 
 ## See also

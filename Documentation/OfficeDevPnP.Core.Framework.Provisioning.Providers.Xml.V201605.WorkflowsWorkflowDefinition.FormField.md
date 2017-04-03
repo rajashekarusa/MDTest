@@ -10,7 +10,7 @@ public xml.xmlelement FormField { set; }
 ```
 
 ### Property Value
-Type: [System.Xml.XmlElement] 
+Type: System.Xml.XmlElement  
 
 ## Remarks 
 

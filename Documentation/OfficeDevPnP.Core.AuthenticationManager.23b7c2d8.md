@@ -37,7 +37,7 @@ public void RefreshADFSUserNameMixedAuthenticatedContext(String siteUrl,String u
 &emsp;&emsp;Optioanlly provide the value of the SharePoint STS logonTokenCacheExpirationWindow. Defaults to 10 minutes.  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

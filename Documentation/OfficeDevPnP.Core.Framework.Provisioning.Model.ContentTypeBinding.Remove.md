@@ -10,7 +10,7 @@ public boolean Remove { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ContentTypeBinding](ContentTypeBinding.md) 

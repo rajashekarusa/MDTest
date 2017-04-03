@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection Fields { g
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.md)  
 
 ## See also
 - [ListInstance](ListInstance.md) 

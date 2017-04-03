@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.Features Features { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Features](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Features](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

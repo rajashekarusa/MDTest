@@ -8,7 +8,7 @@ public string Url { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [UserProfileService](UserProfileService.md) 

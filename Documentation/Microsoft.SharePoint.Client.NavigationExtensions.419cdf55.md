@@ -13,11 +13,11 @@ public static void UpdateNavigationSettings(Web web,AreaNavigationEntity navigat
 &emsp;&emsp;  
   
 *navigationSettings*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

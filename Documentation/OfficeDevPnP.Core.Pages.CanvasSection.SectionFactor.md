@@ -7,7 +7,7 @@ public int SectionFactor { get; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [CanvasSection](CanvasSection.md) 

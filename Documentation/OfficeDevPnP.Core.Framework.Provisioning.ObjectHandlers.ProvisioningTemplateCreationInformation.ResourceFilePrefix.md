@@ -8,7 +8,7 @@ public string ResourceFilePrefix { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 

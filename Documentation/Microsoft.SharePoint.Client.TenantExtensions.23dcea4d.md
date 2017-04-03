@@ -23,7 +23,7 @@ public static void AddAdministrators(Tenant tenant,IEnumerable<UserEntity> admin
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

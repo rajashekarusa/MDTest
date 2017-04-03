@@ -17,7 +17,7 @@ public static  CreateFolder(Folder parentFolder,String folderName)
 &emsp;&emsp;Folder name to retrieve or create  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder]  
+Type: Microsoft.SharePoint.Client.Folder  
 The newly created folder
 
 ## Remarks 

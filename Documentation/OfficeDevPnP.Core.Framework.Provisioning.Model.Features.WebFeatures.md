@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection WebFeatu
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.md)  
 
 ## See also
 - [Features](Features.md) 

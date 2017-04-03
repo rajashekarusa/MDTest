@@ -10,7 +10,7 @@ public string FileSourcePath { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [DefaultDocument](DefaultDocument.md) 

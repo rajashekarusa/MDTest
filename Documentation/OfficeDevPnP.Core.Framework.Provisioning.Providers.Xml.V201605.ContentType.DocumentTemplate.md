@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentTyp
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentTypeDocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentTypeDocumentTemplate.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentTypeDocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentTypeDocumentTemplate.md)  
 
 ## Remarks 
 

@@ -17,7 +17,7 @@ public static boolean ContentTypeExistsById(List list,String contentTypeId)
 &emsp;&emsp;Complete ID for the content type  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the content type exists, false otherwise
 
 ## See also

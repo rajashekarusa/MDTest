@@ -10,7 +10,7 @@ public boolean IsSource { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [VariationLabelEntity](VariationLabelEntity.md) 

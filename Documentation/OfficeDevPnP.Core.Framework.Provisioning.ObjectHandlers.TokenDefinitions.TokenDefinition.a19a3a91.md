@@ -6,7 +6,7 @@
 public string[] GetTokens()
 ```
 ### Return Value
-Type: [System.String[]]  
+Type: System.String[]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

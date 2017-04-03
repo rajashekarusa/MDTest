@@ -13,7 +13,7 @@ public string GetAzureADACSEndPoint(AzureEnvironment environment)
 &emsp;&emsp;Environment to get the login information for  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 Azure ASC login endpoint
 
 ## See also

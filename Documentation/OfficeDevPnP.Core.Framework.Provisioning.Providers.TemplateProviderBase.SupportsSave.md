@@ -7,7 +7,7 @@ public boolean SupportsSave { get; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [TemplateProviderBase](TemplateProviderBase.md) 

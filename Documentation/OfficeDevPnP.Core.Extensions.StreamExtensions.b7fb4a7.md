@@ -11,7 +11,7 @@ public static io.memorystream ToMemoryStream(Stream source)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.MemoryStream]  
+Type: System.IO.MemoryStream  
 
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

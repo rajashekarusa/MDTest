@@ -10,7 +10,7 @@ public string DisplayFormUrl { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ContentType](ContentType.md) 

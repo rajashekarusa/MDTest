@@ -8,7 +8,7 @@ public string UserEmail { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [RoleAssignmentEntity](RoleAssignmentEntity.md) 

@@ -25,7 +25,7 @@ public static void AddHtmlToWikiPage(Web web,String folder,String html,String pa
 &emsp;&emsp;Page to add the html on  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

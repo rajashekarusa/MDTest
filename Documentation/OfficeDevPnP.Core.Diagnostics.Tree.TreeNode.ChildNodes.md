@@ -7,7 +7,7 @@ public collections.generic.ienumerable<officedevpnp.core.diagnostics.tree.itreen
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>] 
+Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>  
 
 ## See also
 - [TreeNode](TreeNode.md) 

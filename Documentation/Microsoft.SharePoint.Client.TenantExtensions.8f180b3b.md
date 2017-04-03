@@ -11,7 +11,7 @@ public static guid CreateSiteCollection(Tenant tenant,SiteEntity properties,Bool
 &emsp;&emsp;  
   
 *properties*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  
 &emsp;&emsp;  
   
 *(optional) removeFromRecycleBin*  
@@ -27,7 +27,7 @@ public static guid CreateSiteCollection(Tenant tenant,SiteEntity properties,Bool
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Guid]  
+Type: System.Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

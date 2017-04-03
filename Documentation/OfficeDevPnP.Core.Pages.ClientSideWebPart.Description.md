@@ -10,7 +10,7 @@ public string Description { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ClientSideWebPart](ClientSideWebPart.md) 

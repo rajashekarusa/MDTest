@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.WebAPI.WebAPIContext SharePointServiceContext { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.WebAPI.WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
+Type: [OfficeDevPnP.Core.WebAPI.WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md)  
 
 ## See also
 - [WebAPIContexCacheItem](WebAPIContexCacheItem.md) 

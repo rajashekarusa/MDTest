@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Folder[] F
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Folder[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Folder[]  
 
 ## Remarks 
 

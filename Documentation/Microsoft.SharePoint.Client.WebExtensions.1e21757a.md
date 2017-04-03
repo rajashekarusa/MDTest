@@ -17,7 +17,7 @@ public static boolean AddIndexedPropertyBagKey(Web web,String key)
 &emsp;&emsp;The key to mark for indexing  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 Returns True if succeeded
 
 ## See also

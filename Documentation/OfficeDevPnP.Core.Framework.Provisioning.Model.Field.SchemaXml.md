@@ -10,7 +10,7 @@ public string SchemaXml { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [Field](Field.md) 

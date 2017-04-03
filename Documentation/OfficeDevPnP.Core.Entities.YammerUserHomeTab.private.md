@@ -8,7 +8,7 @@ public nullable<system.boolean> private { set; }
 ```
 
 ### Property Value
-Type: [System.Nullable<System.Boolean>] 
+Type: System.Nullable<System.Boolean>  
 
 ## See also
 - [YammerUserHomeTab](YammerUserHomeTab.md) 

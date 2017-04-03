@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList`1<T> Children { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList] 
+Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList  
 
 ## See also
 - [TreeNode](TreeNode.md) 

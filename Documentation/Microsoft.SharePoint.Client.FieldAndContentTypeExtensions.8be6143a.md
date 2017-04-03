@@ -21,7 +21,7 @@ public static  CreateField(Web web,String fieldAsXml,Boolean executeQuery)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field]  
+Type: Microsoft.SharePoint.Client.Field  
 The newly created field or existing field.
 
 ## See also

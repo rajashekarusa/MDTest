@@ -17,7 +17,7 @@ public static  GetContentTypeByName(List list,String contentTypeName)
 &emsp;&emsp;Name of the content type  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 Content type object or null if was not found
 
 ## See also

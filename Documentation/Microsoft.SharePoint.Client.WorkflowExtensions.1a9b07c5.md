@@ -17,7 +17,7 @@ public static  GetWorkflowDefinition(Web web,Guid id)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition]  
+Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
 
 
 ## See also

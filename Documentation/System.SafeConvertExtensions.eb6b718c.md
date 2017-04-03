@@ -13,7 +13,7 @@ public static boolean ToBoolean(String input)
 &emsp;&emsp;Input string.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 ## See also
 - [System](System.md)

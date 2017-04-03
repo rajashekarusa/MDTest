@@ -7,7 +7,7 @@ public string Version { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [PnPManifest](PnPManifest.md) 

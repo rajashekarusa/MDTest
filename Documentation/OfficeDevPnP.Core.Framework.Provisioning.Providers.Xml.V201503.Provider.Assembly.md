@@ -10,7 +10,7 @@ public string Assembly { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

@@ -17,7 +17,7 @@ public static  EnsureProperty(T clientObject,Expression<Func<T, TResult>> proper
 &emsp;&emsp;Lamda expression containing the property to ensure (e.g. w => w.HasUniqueRoleAssignments)  
   
 ### Return Value
-Type: [TResult]  
+Type: TResult  
 Property value
 
 ## See also

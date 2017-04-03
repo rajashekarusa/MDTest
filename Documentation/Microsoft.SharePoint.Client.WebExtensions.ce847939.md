@@ -17,7 +17,7 @@ public static boolean RemoveAppInstanceByTitle(Web web,String appTitle)
 &emsp;&emsp;Title of the app instance to remove  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 true if the the app instance was removed; false if it does not exist
 
 ## See also

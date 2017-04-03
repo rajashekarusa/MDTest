@@ -15,7 +15,7 @@ public  GetAzureADWebApplicationAuthenticatedContext(String siteUrl,Func<String,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ClientContext]  
+Type: Microsoft.SharePoint.Client.ClientContext  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

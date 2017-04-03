@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection DataRows
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.md)  
 
 ## See also
 - [ListInstance](ListInstance.md) 

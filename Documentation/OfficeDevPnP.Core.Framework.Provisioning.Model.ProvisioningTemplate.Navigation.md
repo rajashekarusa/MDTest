@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation Navigation { se
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

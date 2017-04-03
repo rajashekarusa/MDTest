@@ -32,7 +32,7 @@ public static void ImportTerms(Site site,String[] termLines,Int32 lcid,String de
 &emsp;&emsp;Remove tags that are not present in the import  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

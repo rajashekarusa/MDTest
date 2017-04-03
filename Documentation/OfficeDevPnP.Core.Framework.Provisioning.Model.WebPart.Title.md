@@ -8,7 +8,7 @@ public string Title { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebPart](WebPart.md) 

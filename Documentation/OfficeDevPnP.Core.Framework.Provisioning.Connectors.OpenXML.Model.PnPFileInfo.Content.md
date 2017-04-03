@@ -10,7 +10,7 @@ public byte[] Content { set; }
 ```
 
 ### Property Value
-Type: [System.Byte[]] 
+Type: System.Byte[]  
 
 ## See also
 - [PnPFileInfo](PnPFileInfo.md) 

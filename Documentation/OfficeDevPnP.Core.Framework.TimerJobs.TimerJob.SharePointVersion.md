@@ -11,7 +11,7 @@ public int SharePointVersion { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [TimerJob](TimerJob.md) 

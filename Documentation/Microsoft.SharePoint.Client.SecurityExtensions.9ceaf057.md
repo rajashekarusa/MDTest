@@ -26,7 +26,7 @@ public static void AssociateDefaultGroups(Web web,Group owners,Group members,Gro
 &emsp;&emsp;Visitors group  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

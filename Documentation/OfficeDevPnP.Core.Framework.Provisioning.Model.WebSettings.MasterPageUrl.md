@@ -10,7 +10,7 @@ public string MasterPageUrl { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebSettings](WebSettings.md) 

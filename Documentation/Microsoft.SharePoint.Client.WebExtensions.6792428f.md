@@ -13,7 +13,7 @@ public static  CreateWeb(Web parentWeb,SiteEntity subsite,Boolean inheritPermiss
 &emsp;&emsp;The parent Web (site) to create under  
   
 *subsite*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  
 &emsp;&emsp;Details of the Web (site) to add. Only Title, Url (as the leaf URL), Description, Template and Language are used.  
   
 *(optional) inheritPermissions*  
@@ -25,7 +25,7 @@ public static  CreateWeb(Web parentWeb,SiteEntity subsite,Boolean inheritPermiss
 &emsp;&emsp;Specifies whether the site inherits navigation.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Web]  
+Type: Microsoft.SharePoint.Client.Web  
 
 
 ## See also

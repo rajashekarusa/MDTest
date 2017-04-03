@@ -8,7 +8,7 @@ public boolean show_communities_directory { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

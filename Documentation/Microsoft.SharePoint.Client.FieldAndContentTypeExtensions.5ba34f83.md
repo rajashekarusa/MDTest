@@ -17,7 +17,7 @@ public static  GetContentTypeById(List list,String contentTypeId)
 &emsp;&emsp;Complete ID for the content type  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 Content type object or null if was not found
 
 ## See also

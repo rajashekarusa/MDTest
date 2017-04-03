@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ImportSequ
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ImportSequence[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ImportSequence[]  
 
 ## Remarks 
 

@@ -19,7 +19,7 @@ public static  GetListByUrl(Web web,String webRelativeUrl,Expression<Func<List, 
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.List]  
+Type: Microsoft.SharePoint.Client.List  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -17,7 +17,7 @@ public static  CreateContentTypeFromXML(Web web,XDocument xDocument)
 &emsp;&emsp;Actual XML document  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

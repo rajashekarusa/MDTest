@@ -10,7 +10,7 @@ public long StorageWarningLevel { set; }
 ```
 
 ### Property Value
-Type: [System.Int64] 
+Type: System.Int64  
 
 ## See also
 - [SiteEntity](SiteEntity.md) 

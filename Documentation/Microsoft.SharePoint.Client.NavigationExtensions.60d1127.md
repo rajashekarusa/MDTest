@@ -17,7 +17,7 @@ public static boolean IsManagedNavigationEnabled(Web web,ManagedNavigationKind n
 &emsp;&emsp;The kind of navigation (Current or Global).  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 A boolean result of the test.
 
 ## See also

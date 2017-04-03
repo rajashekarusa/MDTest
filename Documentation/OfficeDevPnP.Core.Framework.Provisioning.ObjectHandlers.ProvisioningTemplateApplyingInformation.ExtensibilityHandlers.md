@@ -8,7 +8,7 @@ public collections.generic.list<officedevpnp.core.framework.provisioning.model.e
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler>] 
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler>  
 
 ## See also
 - [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 

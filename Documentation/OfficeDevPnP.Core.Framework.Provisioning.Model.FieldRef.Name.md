@@ -9,7 +9,7 @@ public string Name { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [FieldRef](FieldRef.md) 

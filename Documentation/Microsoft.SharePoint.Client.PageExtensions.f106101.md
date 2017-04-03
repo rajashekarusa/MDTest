@@ -33,7 +33,7 @@ public static void AddHtmlToWikiPage(Web web,String folder,String html,String pa
 &emsp;&emsp;Column of the wiki table that should hold the inserted web part  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

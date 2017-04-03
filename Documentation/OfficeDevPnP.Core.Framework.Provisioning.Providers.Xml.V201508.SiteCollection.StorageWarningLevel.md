@@ -10,7 +10,7 @@ public string StorageWarningLevel { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

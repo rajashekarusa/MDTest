@@ -8,7 +8,7 @@ public int followers { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [YammerUserStats](YammerUserStats.md) 

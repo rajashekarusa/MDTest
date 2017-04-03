@@ -11,7 +11,7 @@ public iasyncresult BeginInvoke(Object sender,AddMembershipCompletedEventArgs e,
 &emsp;&emsp;  
   
 *e*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs.md)  
 &emsp;&emsp;  
   
 *callback*  
@@ -23,7 +23,7 @@ public iasyncresult BeginInvoke(Object sender,AddMembershipCompletedEventArgs e,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IAsyncResult]  
+Type: System.IAsyncResult  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

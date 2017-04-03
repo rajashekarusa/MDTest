@@ -13,7 +13,7 @@ public  AddMembership(String accountName,MembershipData membershipInfo,String gr
 &emsp;&emsp;  
   
 *membershipInfo*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
 &emsp;&emsp;  
   
 *group*  

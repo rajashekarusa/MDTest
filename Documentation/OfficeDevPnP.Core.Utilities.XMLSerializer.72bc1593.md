@@ -17,7 +17,7 @@ public static string Serialize(T objectToSerialize,XmlSerializerNamespaces ns)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 An string that represents the serialized object.
 
 ## See also

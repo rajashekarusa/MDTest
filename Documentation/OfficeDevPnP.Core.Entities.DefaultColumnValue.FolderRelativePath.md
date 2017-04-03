@@ -10,7 +10,7 @@ public string FolderRelativePath { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [DefaultColumnValue](DefaultColumnValue.md) 

@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings WebSettings { 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

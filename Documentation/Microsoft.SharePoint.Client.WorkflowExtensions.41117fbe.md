@@ -13,7 +13,7 @@ public static  GetInstances(WorkflowSubscription subscription)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstanceCollection]  
+Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstanceCollection  
 
 
 ## See also

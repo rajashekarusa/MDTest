@@ -17,7 +17,7 @@ public static boolean PropertyBagContainsKey(Web web,String key)
 &emsp;&emsp;Key of the property bag entry to check  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the entry exists, false otherwise
 
 ## See also

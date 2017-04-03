@@ -9,7 +9,7 @@ public collections.objectmodel.collection<officedevpnp.core.utilities.webparts.s
 ```
 
 ### Property Value
-Type: [System.Collections.ObjectModel.Collection<OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType>] 
+Type: System.Collections.ObjectModel.Collection<OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType>  
 
 ## See also
 - [PropertyContainerTypeIpersonalizable](PropertyContainerTypeIpersonalizable.md) 

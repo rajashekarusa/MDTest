@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.ContactData Manager { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md) 
+Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md)  
 
 ## Remarks 
 

@@ -17,7 +17,7 @@ public static void RemoveContentTypeByName(List list,String contentTypeName)
 &emsp;&emsp;The content type name to remove from the list  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

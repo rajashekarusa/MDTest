@@ -8,7 +8,7 @@ public collections.generic.ienumerable<system.collections.generic.keyvaluepair<s
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.String,System.String>>] 
+Type: System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.String,System.String>>  
 
 ## See also
 - [FieldCreationInformation](FieldCreationInformation.md) 

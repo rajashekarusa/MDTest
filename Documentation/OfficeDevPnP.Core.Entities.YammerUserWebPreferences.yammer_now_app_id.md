@@ -8,7 +8,7 @@ public int yammer_now_app_id { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

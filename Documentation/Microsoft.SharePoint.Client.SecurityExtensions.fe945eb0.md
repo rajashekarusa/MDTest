@@ -13,11 +13,11 @@ public static void RemoveAdministrator(Web web,UserEntity admin)
 &emsp;&emsp;Site to operate on  
   
 *admin*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)  
 &emsp;&emsp; that describes the admin to be removed  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

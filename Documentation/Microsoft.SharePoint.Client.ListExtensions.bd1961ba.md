@@ -21,7 +21,7 @@ public static void SetListPermission(List list,Principal principal,RoleType role
 &emsp;&emsp;Role type  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

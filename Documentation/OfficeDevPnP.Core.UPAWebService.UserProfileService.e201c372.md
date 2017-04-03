@@ -13,7 +13,7 @@ public void AddMembershipAsync(String accountName,MembershipData membershipInfo,
 &emsp;&emsp;  
   
 *membershipInfo*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
 &emsp;&emsp;  
   
 *group*  
@@ -29,7 +29,7 @@ public void AddMembershipAsync(String accountName,MembershipData membershipInfo,
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

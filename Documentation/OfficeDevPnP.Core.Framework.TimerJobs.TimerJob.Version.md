@@ -9,7 +9,7 @@ public string Version { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [TimerJob](TimerJob.md) 

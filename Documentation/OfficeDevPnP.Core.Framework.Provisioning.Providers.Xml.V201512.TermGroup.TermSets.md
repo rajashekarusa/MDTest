@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet[] 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet[]  
 
 ## Remarks 
 

@@ -10,7 +10,7 @@ public boolean RequiresInitiationForm { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## Remarks 
 

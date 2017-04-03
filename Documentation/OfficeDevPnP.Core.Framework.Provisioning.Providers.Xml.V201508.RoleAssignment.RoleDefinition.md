@@ -10,7 +10,7 @@ public string RoleDefinition { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

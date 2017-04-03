@@ -17,7 +17,7 @@ public static boolean ListExists(Web web,Uri siteRelativeUrlPath)
 &emsp;&emsp;Site relative path of the list  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the list exists
 
 ## See also

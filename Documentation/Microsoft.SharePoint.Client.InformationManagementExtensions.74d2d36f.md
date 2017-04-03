@@ -13,7 +13,7 @@ public static datetime GetSiteCloseDate(Web web)
 &emsp;&emsp;Web to operate on  
   
 ### Return Value
-Type: [System.DateTime]  
+Type: System.DateTime  
 DateTime value holding the closure date, DateTime.MinValue in case there was no policy applied
 
 ## See also

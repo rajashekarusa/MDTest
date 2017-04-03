@@ -8,7 +8,7 @@ public string TemplateId { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ProvisioningTemplateInfo](ProvisioningTemplateInfo.md) 

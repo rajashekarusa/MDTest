@@ -8,7 +8,7 @@ public boolean EnableRsaProofKeys { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [WSTrustBinding](WSTrustBinding.md) 

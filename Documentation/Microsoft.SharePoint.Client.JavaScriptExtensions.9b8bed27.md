@@ -17,7 +17,7 @@ public static boolean DeleteJsLink(Site site,String key)
 &emsp;&emsp;Identifier (key) for the custom action that will be deleted  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if action was ok
 
 ## See also

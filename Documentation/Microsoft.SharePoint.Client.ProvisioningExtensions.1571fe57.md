@@ -21,7 +21,7 @@ public static void ProvisionElementXml(Web web,String baseFolder,XElement elemen
 &emsp;&emsp;Elements (CAML) XML element that defines the items to provision; currently only supports modules (files)  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -13,7 +13,7 @@ public void SetEnumerationCredentials(String credentialName)
 &emsp;&emsp;Name of the credential manager registration  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -25,7 +25,7 @@ public static void SetLocalizationLabelsForList(List list,String cultureName,Str
 &emsp;&emsp;Localized Description string  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

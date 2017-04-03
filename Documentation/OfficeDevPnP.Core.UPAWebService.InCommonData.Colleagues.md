@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.UPAWebService.ContactData[] Colleagues { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.ContactData[]] 
+Type: OfficeDevPnP.Core.UPAWebService.ContactData[]  
 
 ## Remarks 
 

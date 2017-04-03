@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.PropertyInfo[] Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyInfo[]] 
+Type: OfficeDevPnP.Core.UPAWebService.PropertyInfo[]  
 
 ## Remarks 
 

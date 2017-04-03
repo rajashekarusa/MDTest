@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTyp
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTypeFieldRef[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTypeFieldRef[]  
 
 ## Remarks 
 

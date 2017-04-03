@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.UPAWebService.MembershipData Result { get; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
+Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
 
 ## Remarks 
 

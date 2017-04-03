@@ -29,7 +29,7 @@ public static string CreateYammerDiscussionPartXml(String yammerNetworkName,Int3
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 The constructed web part XML
 
 ## See also

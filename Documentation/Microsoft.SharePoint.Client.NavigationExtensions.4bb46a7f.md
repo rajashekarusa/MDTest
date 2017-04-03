@@ -17,7 +17,7 @@ public static void DeleteCustomAction(Web web,Guid id)
 &emsp;&emsp;The id of the action to remove. GetCustomActions  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -10,7 +10,7 @@ public boolean ClearSubscopes { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [SiteSecurity](SiteSecurity.md) 

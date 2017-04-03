@@ -29,7 +29,7 @@ public static void AddFieldToContentTypeByName(Web web,String contentTypeName,Gu
 &emsp;&emsp;True if the field is hidden  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

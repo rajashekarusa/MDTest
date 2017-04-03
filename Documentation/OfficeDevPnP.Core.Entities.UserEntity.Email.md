@@ -8,7 +8,7 @@ public string Email { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [UserEntity](UserEntity.md) 

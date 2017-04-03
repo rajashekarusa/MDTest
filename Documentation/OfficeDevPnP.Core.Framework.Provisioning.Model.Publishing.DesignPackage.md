@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage DesignPackag
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md)  
 
 ## See also
 - [Publishing](Publishing.md) 

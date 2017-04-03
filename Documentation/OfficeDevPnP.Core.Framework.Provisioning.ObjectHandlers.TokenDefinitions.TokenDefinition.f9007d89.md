@@ -6,7 +6,7 @@
 public int GetTokenLength()
 ```
 ### Return Value
-Type: [System.Int32]  
+Type: System.Int32  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

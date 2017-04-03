@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSe
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument[]  
 
 ## Remarks 
 

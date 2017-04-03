@@ -8,7 +8,7 @@ public OfficeDevPnP.Core.Entities.UserEntity User { set; }
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md) 
+Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)  
 
 ## See also
 - [RoleAssignmentEntity](RoleAssignmentEntity.md) 

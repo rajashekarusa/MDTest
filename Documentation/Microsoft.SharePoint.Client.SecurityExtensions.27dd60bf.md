@@ -25,7 +25,7 @@ public static void AddPermissionLevelToPrincipal(SecurableObject securableObject
 &emsp;&emsp;Set to true to remove all other permission levels for that group  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

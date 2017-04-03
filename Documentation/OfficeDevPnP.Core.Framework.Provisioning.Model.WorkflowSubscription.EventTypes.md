@@ -10,7 +10,7 @@ public collections.generic.list<system.string> EventTypes { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<System.String>] 
+Type: System.Collections.Generic.List<System.String>  
 
 ## Remarks 
 

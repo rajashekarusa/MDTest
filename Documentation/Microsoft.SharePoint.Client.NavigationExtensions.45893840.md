@@ -17,7 +17,7 @@ public static boolean CustomActionExists(Web web,String name)
 &emsp;&emsp;Name of the custom action  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 
 ## See also

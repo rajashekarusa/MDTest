@@ -7,7 +7,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection Labels
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection.md)  
 
 ## See also
 - [Term](Term.md) 

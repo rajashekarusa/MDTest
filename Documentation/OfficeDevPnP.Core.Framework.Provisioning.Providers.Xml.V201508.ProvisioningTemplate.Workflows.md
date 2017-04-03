@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Workflows 
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Workflows](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Workflows.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Workflows](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Workflows.md)  
 
 ## Remarks 
 

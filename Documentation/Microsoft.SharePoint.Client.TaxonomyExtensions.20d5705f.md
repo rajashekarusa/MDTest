@@ -17,7 +17,7 @@ public static void RemoveTaxonomyFieldById(Web web,Guid id)
 &emsp;&emsp;Guid representing the id of the taxonomy field (site column) to be removed  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

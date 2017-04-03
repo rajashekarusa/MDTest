@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Page[] Pag
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Page[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Page[]  
 
 ## Remarks 
 

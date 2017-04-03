@@ -17,7 +17,7 @@ public static io.stream SerializeToStream(T objectToSerialize,XmlSerializerNames
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.IO.Stream]  
+Type: System.IO.Stream  
 An string that represents the serialized object.
 
 ## See also

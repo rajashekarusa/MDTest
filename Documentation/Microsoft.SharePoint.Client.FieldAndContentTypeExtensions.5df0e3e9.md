@@ -17,7 +17,7 @@ public static  CreateContentTypeFromXMLString(Web web,String xmlStructure)
 &emsp;&emsp;XML structure in string format  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.ContentType]  
+Type: Microsoft.SharePoint.Client.ContentType  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

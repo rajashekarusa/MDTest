@@ -9,7 +9,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection Files { get
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection.md) 
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection.md)  
 
 ## See also
 - [ProvisioningTemplate](ProvisioningTemplate.md) 

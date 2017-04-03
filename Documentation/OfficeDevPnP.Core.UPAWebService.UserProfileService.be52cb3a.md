@@ -21,7 +21,7 @@ public void RemovePinnedLinkAsync(String accountName,Int32 id,Object userState)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

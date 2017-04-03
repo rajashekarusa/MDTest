@@ -11,7 +11,7 @@ public boolean IgnoreDuplicateDataRowErrors { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 

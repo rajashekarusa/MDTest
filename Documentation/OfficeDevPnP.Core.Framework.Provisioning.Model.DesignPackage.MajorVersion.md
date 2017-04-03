@@ -10,7 +10,7 @@ public int MajorVersion { set; }
 ```
 
 ### Property Value
-Type: [System.Int32] 
+Type: System.Int32  
 
 ## See also
 - [DesignPackage](DesignPackage.md) 

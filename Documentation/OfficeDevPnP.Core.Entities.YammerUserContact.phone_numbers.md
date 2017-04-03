@@ -8,7 +8,7 @@ public collections.generic.ilist<system.object> phone_numbers { set; }
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<System.Object>] 
+Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
 - [YammerUserContact](YammerUserContact.md) 

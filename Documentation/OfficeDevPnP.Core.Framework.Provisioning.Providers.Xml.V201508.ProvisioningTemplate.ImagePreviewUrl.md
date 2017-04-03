@@ -10,7 +10,7 @@ public string ImagePreviewUrl { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

@@ -37,7 +37,7 @@ public static string AddNavigationFriendlyUrl(PublishingPage page,Web web,String
 &emsp;&emsp;Defines whether the navigation item has to be shown in the Current Navigation, optional and default to true.  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 The simple link URL just created.
 
 ## See also

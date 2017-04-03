@@ -8,7 +8,7 @@ public nullable<system.int32> Language { set; }
 ```
 
 ### Property Value
-Type: [System.Nullable<System.Int32>] 
+Type: System.Nullable<System.Int32>  
 
 ## See also
 - [TermSet](TermSet.md) 

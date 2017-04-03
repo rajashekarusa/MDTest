@@ -18,7 +18,7 @@ public static boolean VerifyIfUploadRequired(File serverFile,Stream localStream)
 &emsp;&emsp;Stream to validate against.  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 
 
 ## See also

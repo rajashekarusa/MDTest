@@ -19,7 +19,7 @@ public static  GetViewById(List list,Guid id,Expression<Func<View, Object>>[] ex
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.View]  
+Type: Microsoft.SharePoint.Client.View  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

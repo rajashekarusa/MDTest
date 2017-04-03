@@ -17,7 +17,7 @@ public static collections.generic.list<microsoft.sharepoint.client.file> FindFil
 &emsp;&emsp;a wildcard pattern to match  
   
 ### Return Value
-Type: [System.Collections.Generic.List<Microsoft.SharePoint.Client.File>]  
+Type: System.Collections.Generic.List<Microsoft.SharePoint.Client.File>  
 A list with the found  objects
 
 ## See also

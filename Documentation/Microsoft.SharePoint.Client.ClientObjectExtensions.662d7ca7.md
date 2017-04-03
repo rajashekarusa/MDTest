@@ -15,7 +15,7 @@ public static void EnsureProperties(T clientObject,Expression<Func<T, Object>>[]
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -9,7 +9,7 @@ public string Result { get; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## Remarks 
 

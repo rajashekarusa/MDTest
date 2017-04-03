@@ -17,7 +17,7 @@ public void GetProfileSchemaNameByAccountNameAsync(String accountName,Object use
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

@@ -8,7 +8,7 @@ public string message_prompt { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 

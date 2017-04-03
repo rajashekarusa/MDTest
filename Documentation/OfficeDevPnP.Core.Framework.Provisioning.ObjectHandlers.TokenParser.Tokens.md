@@ -7,7 +7,7 @@ public collections.generic.list<officedevpnp.core.framework.provisioning.objecth
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition>] 
+Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition>  
 
 ## See also
 - [TokenParser](TokenParser.md) 

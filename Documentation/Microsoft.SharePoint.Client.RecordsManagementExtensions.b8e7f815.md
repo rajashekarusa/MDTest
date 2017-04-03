@@ -17,7 +17,7 @@ public static void SetListAutoRecordDeclaration(List list,Boolean autoDeclareRec
 &emsp;&emsp;True to automatically declare all added items as record, false otherwise  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

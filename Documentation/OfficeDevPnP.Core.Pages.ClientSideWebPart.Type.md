@@ -9,7 +9,7 @@ public type Type { get; }
 ```
 
 ### Property Value
-Type: [System.Type] 
+Type: System.Type  
 
 ## See also
 - [ClientSideWebPart](ClientSideWebPart.md) 

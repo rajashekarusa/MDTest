@@ -17,7 +17,7 @@ public static string Decrypt(String stringToDecrypt,String thumbPrint)
 &emsp;&emsp;Thumbprint of the certificate to use  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 Decrypted text
 
 ## See also

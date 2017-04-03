@@ -41,7 +41,7 @@ public static void CreateComposedLookByUrl(Web web,String lookName,String palett
 &emsp;&emsp;Replace composed look if it already exists (default true)  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

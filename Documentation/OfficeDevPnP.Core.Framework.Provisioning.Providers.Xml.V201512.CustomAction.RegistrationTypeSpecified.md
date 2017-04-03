@@ -10,7 +10,7 @@ public boolean RegistrationTypeSpecified { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## Remarks 
 

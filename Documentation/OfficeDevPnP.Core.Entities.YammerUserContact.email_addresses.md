@@ -8,7 +8,7 @@ public collections.generic.ilist<officedevpnp.core.entities.yammeruseremailaddre
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserEmailAddress>] 
+Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserEmailAddress>  
 
 ## See also
 - [YammerUserContact](YammerUserContact.md) 

@@ -25,7 +25,7 @@ public static void RegisterWebAPIService(Page page,String apiRequest,Uri service
 &emsp;&emsp;Optional Uri to the WebAPI service endpoint. If null then the assumption is taken that the WebAPI is hosted together with the page making this call  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

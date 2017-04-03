@@ -29,7 +29,7 @@ public static  ShareSiteWithPeoplePickerValue(Web web,String peoplePickerInput,G
 &emsp;&emsp;Text to be added on share email sent to receiver.  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.SharingResult]  
+Type: Microsoft.SharePoint.Client.SharingResult  
 
 
 ## See also

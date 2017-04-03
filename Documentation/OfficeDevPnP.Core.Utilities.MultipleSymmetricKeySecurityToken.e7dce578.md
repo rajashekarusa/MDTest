@@ -13,7 +13,7 @@ public boolean MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentif
 &emsp;&emsp;A SecurityKeyIdentifierClause to compare to this instance  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 true if keyIdentifierClause is a SecurityKeyIdentifierClause and it has the same unique identifier as the Id property; otherwise, false.
 
 ## See also

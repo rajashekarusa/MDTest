@@ -8,7 +8,7 @@ public string DisplayName { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ExternalUserEntity](ExternalUserEntity.md) 

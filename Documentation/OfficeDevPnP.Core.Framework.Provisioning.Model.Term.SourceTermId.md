@@ -8,7 +8,7 @@ public guid SourceTermId { set; }
 ```
 
 ### Property Value
-Type: [System.Guid] 
+Type: System.Guid  
 
 ## See also
 - [Term](Term.md) 

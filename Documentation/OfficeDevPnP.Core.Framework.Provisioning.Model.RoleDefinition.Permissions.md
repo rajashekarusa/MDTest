@@ -9,7 +9,7 @@ public collections.generic.list<microsoft.sharepoint.client.permissionkind> Perm
 ```
 
 ### Property Value
-Type: [System.Collections.Generic.List<Microsoft.SharePoint.Client.PermissionKind>] 
+Type: System.Collections.Generic.List<Microsoft.SharePoint.Client.PermissionKind>  
 
 ## See also
 - [RoleDefinition](RoleDefinition.md) 

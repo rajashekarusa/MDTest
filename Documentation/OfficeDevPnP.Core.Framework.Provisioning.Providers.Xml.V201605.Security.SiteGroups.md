@@ -10,7 +10,7 @@ public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[
 ```
 
 ### Property Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[]] 
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup[]  
 
 ## Remarks 
 

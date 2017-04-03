@@ -19,7 +19,7 @@ public static  EnsureFolderPath(Web web,String webRelativeUrl,Expression<Func<Fo
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Folder]  
+Type: Microsoft.SharePoint.Client.Folder  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

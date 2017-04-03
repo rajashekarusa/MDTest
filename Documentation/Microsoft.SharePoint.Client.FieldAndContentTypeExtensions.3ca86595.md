@@ -21,7 +21,7 @@ public static  GetFieldByInternalName(Web web,String internalName,Boolean search
 &emsp;&emsp;  
   
 ### Return Value
-Type: [Microsoft.SharePoint.Client.Field]  
+Type: Microsoft.SharePoint.Client.Field  
 
 
 ## See also

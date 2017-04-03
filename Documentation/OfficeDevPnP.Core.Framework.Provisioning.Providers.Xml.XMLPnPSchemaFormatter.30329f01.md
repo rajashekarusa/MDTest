@@ -13,7 +13,7 @@ public static  GetSpecificFormatter(XMLPnPSchemaVersion version)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter]  
+Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
 
 
 ## See also

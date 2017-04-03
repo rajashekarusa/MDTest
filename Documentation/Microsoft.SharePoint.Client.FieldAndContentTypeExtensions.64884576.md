@@ -17,7 +17,7 @@ public static boolean ContentTypeExistsByName(List list,String contentTypeName)
 &emsp;&emsp;Name of the content type  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True if the content type exists, false otherwise
 
 ## See also

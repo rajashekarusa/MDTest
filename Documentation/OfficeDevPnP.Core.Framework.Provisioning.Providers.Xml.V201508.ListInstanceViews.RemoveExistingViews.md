@@ -10,7 +10,7 @@ public boolean RemoveExistingViews { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## Remarks 
 

@@ -11,7 +11,7 @@ public static string ViewFields(String[] fieldRefs)
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.String]  
+Type: System.String  
 
 ## Examples
 ```C#

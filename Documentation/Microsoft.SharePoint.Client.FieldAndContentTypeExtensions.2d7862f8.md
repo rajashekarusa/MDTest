@@ -21,7 +21,7 @@ public static boolean FieldExistsByName(Web web,String fieldName,Boolean searchI
 &emsp;&emsp;If true, search parent sites and root site  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True or false depending on the field existence
 
 ## See also

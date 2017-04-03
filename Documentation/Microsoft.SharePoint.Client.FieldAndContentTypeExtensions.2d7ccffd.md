@@ -25,7 +25,7 @@ public static void SetLocalizationForField(Field field,String cultureName,String
 &emsp;&emsp;Localized value for the Description property  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

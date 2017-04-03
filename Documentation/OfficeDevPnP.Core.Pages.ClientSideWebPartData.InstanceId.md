@@ -8,7 +8,7 @@ public string InstanceId { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [ClientSideWebPartData](ClientSideWebPartData.md) 

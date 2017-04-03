@@ -8,7 +8,7 @@ public string Owner { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [TermSet](TermSet.md) 

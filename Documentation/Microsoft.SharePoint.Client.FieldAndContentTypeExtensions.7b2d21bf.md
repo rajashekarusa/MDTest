@@ -21,7 +21,7 @@ public static boolean FieldExistsById(Web web,Guid fieldId,Boolean searchInSiteH
 &emsp;&emsp;If true, search parent sites and root site  
   
 ### Return Value
-Type: [System.Boolean]  
+Type: System.Boolean  
 True or false depending on the field existence
 
 ## See also

@@ -17,7 +17,7 @@ public void ModifyUserPropertyByAccountName(String accountName,PropertyData[] ne
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## Remarks 
 

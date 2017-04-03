@@ -29,7 +29,7 @@ public net.cookiecontainer GetFedAuthCookie(String siteUrl,String serialNumber,U
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Net.CookieContainer]  
+Type: System.Net.CookieContainer  
 A cookiecontainer holding the FedAuth cookie
 
 ## See also

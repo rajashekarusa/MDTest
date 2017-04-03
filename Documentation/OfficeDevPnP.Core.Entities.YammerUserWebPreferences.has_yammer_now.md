@@ -8,7 +8,7 @@ public boolean has_yammer_now { set; }
 ```
 
 ### Property Value
-Type: [System.Boolean] 
+Type: System.Boolean  
 
 ## See also
 - [YammerUserWebPreferences](YammerUserWebPreferences.md) 

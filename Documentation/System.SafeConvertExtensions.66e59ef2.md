@@ -13,7 +13,7 @@ public static int ToInt32(String input)
 &emsp;&emsp;Input string.  
   
 ### Return Value
-Type: [System.Int32]  
+Type: System.Int32  
 
 ## See also
 - [System](System.md)

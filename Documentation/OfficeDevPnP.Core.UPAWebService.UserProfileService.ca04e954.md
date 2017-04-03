@@ -7,11 +7,11 @@ public void remove_GetUserColleaguesCompleted(GetUserColleaguesCompletedEventHan
 ```
 ### Parameters
 *value*  
-&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.md) 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.md)  
 &emsp;&emsp;  
   
 ### Return Value
-Type: [System.Void]  
+Type: System.Void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

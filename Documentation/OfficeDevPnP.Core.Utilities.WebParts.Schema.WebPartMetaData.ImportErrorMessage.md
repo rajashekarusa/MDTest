@@ -10,7 +10,7 @@ public string ImportErrorMessage { set; }
 ```
 
 ### Property Value
-Type: [System.String] 
+Type: System.String  
 
 ## See also
 - [WebPartMetaData](WebPartMetaData.md) 
