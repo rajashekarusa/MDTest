@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddParameterAsString(String key, String value)
+public void AddParameterAsString(String key, String value)
 ```
 ### Parameters
 *key*  

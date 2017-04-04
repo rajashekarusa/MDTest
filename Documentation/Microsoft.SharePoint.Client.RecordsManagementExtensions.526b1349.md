@@ -5,7 +5,7 @@ Gets who can undeclare records
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.EcmRecordDeclarationBy GetRecordUnDeclarationBy(Site site)
+public static EcmRecordDeclarationBy GetRecordUnDeclarationBy(Site site)
 ```
 ### Parameters
 *site*  

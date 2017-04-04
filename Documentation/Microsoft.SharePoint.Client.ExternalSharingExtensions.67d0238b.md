@@ -5,7 +5,7 @@ Get current sharing settings for site and load list of users it has been shared 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ObjectSharingSettings GetObjectSharingSettingsForSite(Web web, Boolean useSimplifiedPolicies)
+public static ObjectSharingSettings GetObjectSharingSettingsForSite(Web web, Boolean useSimplifiedPolicies)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Master page is set by using master page name. Master page is set from the curren
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetMasterPageByName(Web web, String masterPageName)
+public static void SetMasterPageByName(Web web, String masterPageName)
 ```
 ### Parameters
 *web*  

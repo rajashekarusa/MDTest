@@ -5,7 +5,7 @@ Retrieve all configured variation labels
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.VariationLabelEntity> GetVariationLabels(ClientContext context)
+public static ienumerable<variationlabelentity> GetVariationLabels(ClientContext context)
 ```
 ### Parameters
 *context*  

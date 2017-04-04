@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(Localization other)
+public boolean Equals(Localization other)
 ```
 ### Parameters
 *other*  

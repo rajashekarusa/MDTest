@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddColleagueAsync(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
+public void AddColleagueAsync(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
 ```
 ### Parameters
 *accountName*  

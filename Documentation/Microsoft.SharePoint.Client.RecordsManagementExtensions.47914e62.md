@@ -5,7 +5,7 @@ Defines who can declare records
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetRecordDeclarationBy(Site site, EcmRecordDeclarationBy by)
+public static void SetRecordDeclarationBy(Site site, EcmRecordDeclarationBy by)
 ```
 ### Parameters
 *site*  

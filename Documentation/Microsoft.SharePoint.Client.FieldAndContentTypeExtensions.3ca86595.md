@@ -5,7 +5,7 @@ Returns the field if it exists. Null if does not exist.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Field GetFieldByInternalName(Web web, String internalName, Boolean searchInSiteHierarchy)
+public static Field GetFieldByInternalName(Web web, String internalName, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Returns the navigation settings for the selected web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Entities.AreaNavigationEntity GetNavigationSettings(Web web)
+public static AreaNavigationEntity GetNavigationSettings(Web web)
 ```
 ### Parameters
 *web*  

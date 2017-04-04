@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Collections.Generic.List`1<OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate> GetTemplates(ITemplateFormatter formatter)
+public list<provisioningtemplate> GetTemplates(ITemplateFormatter formatter)
 ```
 ### Parameters
 *formatter*  

@@ -5,7 +5,7 @@ Get's the Azure ACS login end point prefix for the given environment
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String GetAzureADACSEndPointPrefix(AzureEnvironment environment)
+public string GetAzureADACSEndPointPrefix(AzureEnvironment environment)
 ```
 ### Parameters
 *environment*  

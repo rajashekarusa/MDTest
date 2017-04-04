@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String ParseString(String input)
+public string ParseString(String input)
 ```
 ### Parameters
 *input*  

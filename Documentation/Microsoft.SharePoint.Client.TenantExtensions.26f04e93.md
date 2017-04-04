@@ -5,7 +5,7 @@ Returns available webtemplates/site definitions
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt32 lcid, Int32 compatibilityLevel)
+public static SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt32 lcid, Int32 compatibilityLevel)
 ```
 ### Parameters
 *tenant*  

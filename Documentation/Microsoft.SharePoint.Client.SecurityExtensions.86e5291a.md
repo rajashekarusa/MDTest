@@ -5,7 +5,7 @@ Adds a user to a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void AddUserToGroup(Web web, Group group, User user)
+public static void AddUserToGroup(Web web, Group group, User user)
 ```
 ### Parameters
 *web*  

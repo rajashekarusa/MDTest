@@ -5,7 +5,7 @@ Gets all sub sites for a given site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Collections.Generic.IEnumerable`1<System.String> GetAllSubSites(Site site)
+public ienumerable<string> GetAllSubSites(Site site)
 ```
 ### Parameters
 *site*  

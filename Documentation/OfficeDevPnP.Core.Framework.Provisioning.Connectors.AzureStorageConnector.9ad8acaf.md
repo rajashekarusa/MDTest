@@ -5,7 +5,7 @@ Deletes a file from the default container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void DeleteFile(String fileName)
+public void DeleteFile(String fileName)
 ```
 ### Parameters
 *fileName*  

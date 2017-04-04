@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.Leader[] GetLeaders()
+public Leader[] GetLeaders()
 ```
 ### Return Value
 Type: OfficeDevPnP.Core.UPAWebService.Leader[]  

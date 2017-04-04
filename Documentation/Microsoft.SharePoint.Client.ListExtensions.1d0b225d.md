@@ -7,7 +7,7 @@ Gets the web relative URL.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String GetWebRelativeUrl(List list)
+public static string GetWebRelativeUrl(List list)
 ```
 ### Parameters
 *list*  

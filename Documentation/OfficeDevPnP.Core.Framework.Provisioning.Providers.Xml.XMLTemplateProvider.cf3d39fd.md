@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Delete(String uri)
+public void Delete(String uri)
 ```
 ### Parameters
 *uri*  

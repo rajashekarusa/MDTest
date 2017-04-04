@@ -5,7 +5,7 @@ Sets specific page layout the default page layout for the particular site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetDefaultPageLayoutForSite(Web web, Web rootWeb, String pageLayoutName)
+public static void SetDefaultPageLayoutForSite(Web web, Web rootWeb, String pageLayoutName)
 ```
 ### Parameters
 *web*  

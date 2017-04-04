@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String[] GetTokens()
+public string[] GetTokens()
 ```
 ### Return Value
 Type: System.String[]  

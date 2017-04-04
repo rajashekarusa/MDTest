@@ -5,7 +5,7 @@ Converts the input string to a double and if null, it returns the default value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Double ToDouble(String input)
+public static double ToDouble(String input)
 ```
 ### Parameters
 *input*  

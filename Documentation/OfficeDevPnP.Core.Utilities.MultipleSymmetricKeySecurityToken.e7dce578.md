@@ -5,7 +5,7 @@ Returns a value that indicates whether the key identifier for this instance can 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentifierClause)
+public boolean MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentifierClause)
 ```
 ### Parameters
 *keyIdentifierClause*  

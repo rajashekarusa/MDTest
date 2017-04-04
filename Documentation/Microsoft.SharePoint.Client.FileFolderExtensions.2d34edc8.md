@@ -5,7 +5,7 @@ Creates a folder with the given name.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Folder CreateFolder(Folder parentFolder, String folderName)
+public static Folder CreateFolder(Folder parentFolder, String folderName)
 ```
 ### Parameters
 *parentFolder*  

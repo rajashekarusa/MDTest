@@ -5,7 +5,7 @@ Find files in the list, Can be slow.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File> FindFiles(List list, String match)
+public static list<file> FindFiles(List list, String match)
 ```
 ### Parameters
 *list*  

@@ -5,7 +5,7 @@ Returns all the workflow definitions
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition[] GetWorkflowDefinitions(Web web, Boolean publishedOnly)
+public static WorkflowDefinition[] GetWorkflowDefinitions(Web web, Boolean publishedOnly)
 ```
 ### Parameters
 *web*  

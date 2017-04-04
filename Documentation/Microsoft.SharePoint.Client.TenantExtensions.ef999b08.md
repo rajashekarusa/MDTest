@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetSiteLockState(Tenant tenant, String siteFullUrl, SiteLockState lockState, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static void SetSiteLockState(Tenant tenant, String siteFullUrl, SiteLockState lockState, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 *tenant*  

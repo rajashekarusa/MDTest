@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Collections.Generic.List`1<System.String> ResolveAddedSites(List<String> addedSites)
+public list<string> ResolveAddedSites(List<String> addedSites)
 ```
 ### Parameters
 *addedSites*  

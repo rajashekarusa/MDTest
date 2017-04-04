@@ -5,7 +5,7 @@ Sets output cache on publishing web. The settings can be maintained from UI by v
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetPageOutputCache(Web web, Boolean enableOutputCache, Int32 anonymousCacheProfileId, Int32 authenticatedCacheProfileId, Boolean debugCacheInformation)
+public static void SetPageOutputCache(Web web, Boolean enableOutputCache, Int32 anonymousCacheProfileId, Int32 authenticatedCacheProfileId, Boolean debugCacheInformation)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Creates a new document set as a child of an existing folder, with the specified 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Folder CreateDocumentSet(Folder folder, String documentSetName, ContentTypeId contentTypeId)
+public static Folder CreateDocumentSet(Folder folder, String documentSetName, ContentTypeId contentTypeId)
 ```
 ### Parameters
 *folder*  

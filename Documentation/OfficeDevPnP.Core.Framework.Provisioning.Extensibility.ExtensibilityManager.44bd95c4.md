@@ -5,7 +5,7 @@ Method to Invoke Custom Extraction Handlers.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate ExecuteExtensibilityExtractionCallOut(ClientContext ctx, ExtensibilityHandler handler, ProvisioningTemplate template, ProvisioningTemplateCreationInformation creationInformation, PnPMonitoredScope scope)
+public ProvisioningTemplate ExecuteExtensibilityExtractionCallOut(ClientContext ctx, ExtensibilityHandler handler, ProvisioningTemplate template, ProvisioningTemplateCreationInformation creationInformation, PnPMonitoredScope scope)
 ```
 ### Parameters
 *ctx*  

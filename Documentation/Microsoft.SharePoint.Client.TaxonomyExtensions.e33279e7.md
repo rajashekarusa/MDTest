@@ -5,7 +5,7 @@ Finds a termgroup by name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.TermGroup GetTermGroupByName(Site site, String name)
+public static TermGroup GetTermGroupByName(Site site, String name)
 ```
 ### Parameters
 *site*  

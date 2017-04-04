@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor Resolve(String wpXml)
+public static IWebPartPostProcessor Resolve(String wpXml)
 ```
 ### Parameters
 *wpXml*  

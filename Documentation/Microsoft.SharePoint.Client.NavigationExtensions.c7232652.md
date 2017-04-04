@@ -5,7 +5,7 @@ Updates the navigation inheritance setting
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void UpdateNavigationInheritance(Web web, Boolean inheritNavigation)
+public static void UpdateNavigationInheritance(Web web, Boolean inheritNavigation)
 ```
 ### Parameters
 *web*  

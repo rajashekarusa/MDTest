@@ -5,7 +5,7 @@ Deletes a property from the custom property list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void DeleteProperty(String propertyKey)
+public void DeleteProperty(String propertyKey)
 ```
 ### Parameters
 *propertyKey*  

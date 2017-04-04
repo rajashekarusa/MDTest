@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ClientObjectList`1<Microsoft.SharePoint.Client.AppInstance> GetAppInstances(Web web, Expression<Func<AppInstance, Object>>[] expressions)
+public static ClientObjectList<AppInstance> GetAppInstances(Web web, Expression<Func<AppInstance, Object>>[] expressions)
 ```
 ### Parameters
 *web*  

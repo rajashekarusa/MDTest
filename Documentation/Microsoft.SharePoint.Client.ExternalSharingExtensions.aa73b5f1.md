@@ -5,7 +5,7 @@ Invites an external user as a group member
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.SharingResult InviteExternalUser(Group group, String email, Boolean sendEmail, String emailBody)
+public static SharingResult InviteExternalUser(Group group, String email, Boolean sendEmail, String emailBody)
 ```
 ### Parameters
 *group*  

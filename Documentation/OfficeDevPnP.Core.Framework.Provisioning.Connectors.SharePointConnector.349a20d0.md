@@ -5,7 +5,7 @@ Get the files available in the specified container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Collections.Generic.List`1<System.String> GetFiles(String container)
+public list<string> GetFiles(String container)
 ```
 ### Parameters
 *container*  

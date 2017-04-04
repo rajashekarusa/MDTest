@@ -5,7 +5,7 @@ Disables the request access on the web.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DisableRequestAccess(Web web)
+public static void DisableRequestAccess(Web web)
 ```
 ### Parameters
 *web*  

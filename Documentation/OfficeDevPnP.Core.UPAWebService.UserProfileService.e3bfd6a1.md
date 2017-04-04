@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetUserProfileCountAsync(Object userState)
+public void GetUserProfileCountAsync(Object userState)
 ```
 ### Parameters
 *userState*  

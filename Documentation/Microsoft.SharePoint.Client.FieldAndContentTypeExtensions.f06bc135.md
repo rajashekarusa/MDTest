@@ -5,7 +5,7 @@ Formats a fieldcreationinformation object into Field CAML xml.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String FormatFieldXml(FieldCreationInformation fieldCreationInformation)
+public static string FormatFieldXml(FieldCreationInformation fieldCreationInformation)
 ```
 ### Parameters
 *fieldCreationInformation*  

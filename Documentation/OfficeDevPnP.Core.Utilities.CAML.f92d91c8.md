@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String IsNull(String fieldValue)
+public static string IsNull(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

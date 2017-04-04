@@ -6,7 +6,7 @@ Method to Invoke Custom Provisioning Providers.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void ExecuteExtensibilityCallOut(ClientContext ctx, ExtensibilityHandler handler, ProvisioningTemplate template)
+public void ExecuteExtensibilityCallOut(ClientContext ctx, ExtensibilityHandler handler, ProvisioningTemplate template)
 ```
 ### Parameters
 *ctx*  

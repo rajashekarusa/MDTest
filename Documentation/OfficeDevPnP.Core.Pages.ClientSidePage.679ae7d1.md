@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Save(String pageName)
+public void Save(String pageName)
 ```
 ### Parameters
 *(optional) pageName*  

@@ -5,7 +5,7 @@ Resumes a workflow
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void ResumeWorkflow(WorkflowInstance instance)
+public static void ResumeWorkflow(WorkflowInstance instance)
 ```
 ### Parameters
 *instance*  

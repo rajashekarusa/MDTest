@@ -5,7 +5,7 @@ Can be used to programatically to unshare any document with the document URL.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.SharingResult UnshareDocument(Web web, String urlToDocument)
+public static SharingResult UnshareDocument(Web web, String urlToDocument)
 ```
 ### Parameters
 *web*  

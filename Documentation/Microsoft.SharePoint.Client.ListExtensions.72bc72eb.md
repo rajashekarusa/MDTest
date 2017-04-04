@@ -5,7 +5,7 @@ Gets the publishing pages library of the web based on site language
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.List GetPagesLibrary(Web web)
+public static List GetPagesLibrary(Web web)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddLinkAsync(String accountName, String name, String url, String group, Privacy privacy, Object userState)
+public void AddLinkAsync(String accountName, String name, String url, String group, Privacy privacy, Object userState)
 ```
 ### Parameters
 *accountName*  

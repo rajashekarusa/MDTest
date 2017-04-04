@@ -6,7 +6,7 @@ Prepares the timerjob to operate against Office 365 with user and password crede
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void UseOffice365Authentication(String userUPN, SecureString password)
+public void UseOffice365Authentication(String userUPN, SecureString password)
 ```
 ### Parameters
 *userUPN*  

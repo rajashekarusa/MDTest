@@ -5,7 +5,7 @@ Converts the input string to a Int32 and if null, it returns the default value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Int64 ToInt64(String input)
+public static long ToInt64(String input)
 ```
 ### Parameters
 *input*  

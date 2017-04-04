@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetCommonMembershipsAsync(String accountName)
+public void GetCommonMembershipsAsync(String accountName)
 ```
 ### Parameters
 *accountName*  

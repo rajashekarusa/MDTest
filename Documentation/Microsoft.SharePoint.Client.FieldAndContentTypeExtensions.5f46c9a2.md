@@ -5,7 +5,7 @@ Adds jsLink to a field.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetJsLinkCustomizations(Field field, String jsLink)
+public static void SetJsLinkCustomizations(Field field, String jsLink)
 ```
 ### Parameters
 *field*  

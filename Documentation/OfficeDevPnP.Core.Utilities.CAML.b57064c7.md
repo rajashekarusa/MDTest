@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Lt(String fieldValue)
+public static string Lt(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

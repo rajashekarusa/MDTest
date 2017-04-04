@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.View GetViewByName(List list, String name, Expression<Func<View, Object>>[] expressions)
+public static View GetViewByName(List list, String name, Expression<Func<View, Object>>[] expressions)
 ```
 ### Parameters
 *list*  

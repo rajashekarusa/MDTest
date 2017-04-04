@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Guid AddWorkflowSubscription(List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
+public static guid AddWorkflowSubscription(List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
 ```
 ### Parameters
 *list*  

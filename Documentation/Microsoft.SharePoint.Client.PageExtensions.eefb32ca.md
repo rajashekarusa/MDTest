@@ -5,7 +5,7 @@ Add HTML to a wiki page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, String html)
+public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, String html)
 ```
 ### Parameters
 *web*  

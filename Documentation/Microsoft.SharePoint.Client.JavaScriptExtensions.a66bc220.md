@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean ExistsJsLinkImplementation(ClientObject clientObject, String key)
+public static boolean ExistsJsLinkImplementation(ClientObject clientObject, String key)
 ```
 ### Parameters
 *clientObject*  

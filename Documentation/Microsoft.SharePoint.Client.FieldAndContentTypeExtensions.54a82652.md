@@ -5,7 +5,7 @@ Returns if the field is found, query based on the ID
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean FieldExistsById(List list, String fieldId)
+public static boolean FieldExistsById(List list, String fieldId)
 ```
 ### Parameters
 *list*  

@@ -5,7 +5,7 @@ Creates a <FieldRef> node for ViewFields clause
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String FieldRef(String fieldName)
+public static string FieldRef(String fieldName)
 ```
 ### Parameters
 *fieldName*  

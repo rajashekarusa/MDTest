@@ -5,7 +5,7 @@ Gets the ID of site collection with specified URL
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Guid GetSiteGuidByUrl(Tenant tenant, Uri siteFullUrl)
+public static guid GetSiteGuidByUrl(Tenant tenant, Uri siteFullUrl)
 ```
 ### Parameters
 *tenant*  

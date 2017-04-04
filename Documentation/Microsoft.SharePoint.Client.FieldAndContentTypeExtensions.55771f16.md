@@ -5,7 +5,7 @@ Adds content type to list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void AddContentTypeToListById(Web web, String listTitle, String contentTypeId, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
+public static void AddContentTypeToListById(Web web, String listTitle, String contentTypeId, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
 ```
 ### Parameters
 *web*  

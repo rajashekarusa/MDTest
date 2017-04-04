@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean ContainsInvalidUrlChars(String content)
+public static boolean ContainsInvalidUrlChars(String content)
 ```
 ### Parameters
 *content*  

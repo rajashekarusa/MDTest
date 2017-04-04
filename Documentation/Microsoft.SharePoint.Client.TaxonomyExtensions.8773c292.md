@@ -5,7 +5,7 @@ Ensures the named group exists, returning a reference to the group, and creating
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.TermGroup EnsureTermGroup(Site site, String groupName, Guid groupId, String groupDescription)
+public static TermGroup EnsureTermGroup(Site site, String groupName, Guid groupId, String groupDescription)
 ```
 ### Parameters
 *site*  

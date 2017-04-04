@@ -5,7 +5,7 @@ Gets a list of the available site policies
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SitePolicyEntity> GetSitePolicies(Web web)
+public static list<sitepolicyentity> GetSitePolicies(Web web)
 ```
 ### Parameters
 *web*  

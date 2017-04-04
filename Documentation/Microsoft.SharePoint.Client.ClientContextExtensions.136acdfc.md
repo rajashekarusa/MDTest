@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, Version minimallyRequiredVersion)
+public static boolean HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, Version minimallyRequiredVersion)
 ```
 ### Parameters
 *clientContext*  

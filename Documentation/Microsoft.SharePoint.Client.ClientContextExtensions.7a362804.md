@@ -6,7 +6,7 @@ Gets a site collection context for the passed web. This site collection client c
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ClientContext GetSiteCollectionContext(ClientRuntimeContext clientContext)
+public static ClientContext GetSiteCollectionContext(ClientRuntimeContext clientContext)
 ```
 ### Parameters
 *clientContext*  

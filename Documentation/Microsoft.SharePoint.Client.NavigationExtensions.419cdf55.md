@@ -5,7 +5,7 @@ Updates navigation settings for the current web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void UpdateNavigationSettings(Web web, AreaNavigationEntity navigationSettings)
+public static void UpdateNavigationSettings(Web web, AreaNavigationEntity navigationSettings)
 ```
 ### Parameters
 *web*  

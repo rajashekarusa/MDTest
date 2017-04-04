@@ -5,7 +5,7 @@ Actual implementation of the view creation logic based on given xml
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CreateViewsFromXML(List list, XmlDocument xmlDoc)
+public static void CreateViewsFromXML(List list, XmlDocument xmlDoc)
 ```
 ### Parameters
 *list*  

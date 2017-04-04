@@ -5,7 +5,7 @@ Checks if the current web is a sub site or not
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean IsSubSite(Web web)
+public static boolean IsSubSite(Web web)
 ```
 ### Parameters
 *web*  

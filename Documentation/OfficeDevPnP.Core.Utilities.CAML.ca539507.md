@@ -5,7 +5,7 @@ Root <View> and <Query> nodes.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String ViewQuery(String whereClause, String orderByClause, Int32 rowLimit)
+public static string ViewQuery(String whereClause, String orderByClause, Int32 rowLimit)
 ```
 ### Parameters
 *(optional) whereClause*  

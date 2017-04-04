@@ -5,7 +5,7 @@ Add web part to a wiki style page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.WebParts.WebPartDefinition AddWebPartToWikiPage(Web web, String folder, WebPartEntity webPart, String page, Int32 row, Int32 col, Boolean addSpace)
+public static WebPartDefinition AddWebPartToWikiPage(Web web, String folder, WebPartEntity webPart, String page, Int32 row, Int32 col, Boolean addSpace)
 ```
 ### Parameters
 *web*  

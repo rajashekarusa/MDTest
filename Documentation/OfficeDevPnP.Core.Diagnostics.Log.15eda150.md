@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void Error(LogEntry logEntry)
+public static void Error(LogEntry logEntry)
 ```
 ### Parameters
 *logEntry*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Invoke(Object sender, GetInCommonCompletedEventArgs e)
+public void Invoke(Object sender, GetInCommonCompletedEventArgs e)
 ```
 ### Parameters
 *sender*  

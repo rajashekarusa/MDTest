@@ -5,7 +5,7 @@ Gets a file in a document library.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.File GetFile(Folder folder, String fileName)
+public static File GetFile(Folder folder, String fileName)
 ```
 ### Parameters
 *folder*  

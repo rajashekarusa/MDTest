@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.InCommonData GetInCommon(String accountName)
+public InCommonData GetInCommon(String accountName)
 ```
 ### Parameters
 *accountName*  

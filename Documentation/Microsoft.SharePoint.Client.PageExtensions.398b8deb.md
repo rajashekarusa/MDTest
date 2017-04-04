@@ -5,7 +5,7 @@ Loads a client side "modern" page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Pages.ClientSidePage LoadClientSidePage(Web web, String pageName)
+public static ClientSidePage LoadClientSidePage(Web web, String pageName)
 ```
 ### Parameters
 *web*  

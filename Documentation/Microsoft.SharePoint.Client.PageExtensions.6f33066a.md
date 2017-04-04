@@ -5,7 +5,7 @@ Adds a client side "modern" page to a "classic" or "modern" site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Pages.ClientSidePage AddClientSidePage(Web web, String pageName, Boolean alreadyPersist)
+public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean alreadyPersist)
 ```
 ### Parameters
 *web*  

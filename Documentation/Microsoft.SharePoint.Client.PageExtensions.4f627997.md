@@ -5,7 +5,7 @@ Returns web part properties
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.PropertyValues GetWebPartProperties(Web web, Guid id, String serverRelativePageUrl)
+public static PropertyValues GetWebPartProperties(Web web, Guid id, String serverRelativePageUrl)
 ```
 ### Parameters
 *web*  

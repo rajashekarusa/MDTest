@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void remove_RemoveLinkCompleted(RemoveLinkCompletedEventHandler value)
+public void remove_RemoveLinkCompleted(RemoveLinkCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.MembershipData AddMembership(String accountName, MembershipData membershipInfo, String group, Privacy privacy)
+public MembershipData AddMembership(String accountName, MembershipData membershipInfo, String group, Privacy privacy)
 ```
 ### Parameters
 *accountName*  

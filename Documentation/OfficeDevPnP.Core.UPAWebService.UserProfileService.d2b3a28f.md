@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.QuickLinkData AddLink(String accountName, String name, String url, String group, Privacy privacy)
+public QuickLinkData AddLink(String accountName, String name, String url, String group, Privacy privacy)
 ```
 ### Parameters
 *accountName*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetFileProperties(File file, IDictionary<String, String> properties, Boolean checkoutIfRequired)
+public static void SetFileProperties(File file, IDictionary<String, String> properties, Boolean checkoutIfRequired)
 ```
 ### Parameters
 *file*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Entities.YammerUser GetYammerUser(String accessToken)
+public static YammerUser GetYammerUser(String accessToken)
 ```
 ### Parameters
 *accessToken*  

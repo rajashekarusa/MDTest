@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1<T> Add(ITreeNode node)
+public ITreeNode Add(ITreeNode node)
 ```
 ### Parameters
 *node*  

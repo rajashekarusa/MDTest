@@ -5,7 +5,7 @@ Deletes a workflow definition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void Delete(WorkflowDefinition definition)
+public static void Delete(WorkflowDefinition definition)
 ```
 ### Parameters
 *definition*  

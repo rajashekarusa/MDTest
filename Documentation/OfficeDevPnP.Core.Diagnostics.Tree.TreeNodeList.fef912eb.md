@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Remove(ITreeNode node)
+public boolean Remove(ITreeNode node)
 ```
 ### Parameters
 *node*  

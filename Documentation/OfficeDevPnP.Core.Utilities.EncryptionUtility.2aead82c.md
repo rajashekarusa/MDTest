@@ -5,7 +5,7 @@ Decrypt a piece of text based on a given certificate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Decrypt(String stringToDecrypt, String thumbPrint)
+public static string Decrypt(String stringToDecrypt, String thumbPrint)
 ```
 ### Parameters
 *stringToDecrypt*  

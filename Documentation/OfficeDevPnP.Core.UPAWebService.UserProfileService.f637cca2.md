@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetUserProfileByNameAsync(String AccountName, Object userState)
+public void GetUserProfileByNameAsync(String AccountName, Object userState)
 ```
 ### Parameters
 *AccountName*  

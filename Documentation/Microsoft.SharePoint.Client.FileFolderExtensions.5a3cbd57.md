@@ -6,7 +6,7 @@ Creates a folder with the given name as a child of the Web.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Folder CreateFolder(Web web, String folderName)
+public static Folder CreateFolder(Web web, String folderName)
 ```
 ### Parameters
 *web*  

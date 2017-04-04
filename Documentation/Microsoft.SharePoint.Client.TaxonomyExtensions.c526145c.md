@@ -5,7 +5,7 @@ Returns a taxonomy item by it's path, e.g. Group|Set|Term
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem GetTaxonomyItemByPath(Site site, String path, String delimiter)
+public static TaxonomyItem GetTaxonomyItemByPath(Site site, String path, String delimiter)
 ```
 ### Parameters
 *site*  

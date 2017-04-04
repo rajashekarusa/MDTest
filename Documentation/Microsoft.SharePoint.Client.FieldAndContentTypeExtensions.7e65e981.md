@@ -5,7 +5,7 @@ Return content type by name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ContentType GetContentTypeByName(List list, String contentTypeName)
+public static ContentType GetContentTypeByName(List list, String contentTypeName)
 ```
 ### Parameters
 *list*  

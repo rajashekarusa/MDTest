@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void remove_ModifyUserPropertyByAccountNameCompleted(ModifyUserPropertyByAccountNameCompletedEventHandler value)
+public void remove_ModifyUserPropertyByAccountNameCompleted(ModifyUserPropertyByAccountNameCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

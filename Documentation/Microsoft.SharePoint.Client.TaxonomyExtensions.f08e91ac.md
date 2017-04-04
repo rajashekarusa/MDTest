@@ -5,7 +5,7 @@ Gets the named term group, if it exists in the term store.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.TermGroup GetTermGroupByName(TermStore termStore, String groupName)
+public static TermGroup GetTermGroupByName(TermStore termStore, String groupName)
 ```
 ### Parameters
 *termStore*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.ContactData AddColleague(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
+public ContactData AddColleague(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
 ```
 ### Parameters
 *accountName*  

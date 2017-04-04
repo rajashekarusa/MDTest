@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String BeginsWith(String fieldValue)
+public static string BeginsWith(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

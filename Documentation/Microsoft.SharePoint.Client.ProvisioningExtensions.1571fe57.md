@@ -5,7 +5,7 @@ Provisions the items defined by the specified Elements (CAML) XML; currently onl
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void ProvisionElementXml(Web web, String baseFolder, XElement elementsXml)
+public static void ProvisionElementXml(Web web, String baseFolder, XElement elementsXml)
 ```
 ### Parameters
 *web*  

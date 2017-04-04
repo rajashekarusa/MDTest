@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean Contains(String id)
+public static boolean Contains(String id)
 ```
 ### Parameters
 *id*  

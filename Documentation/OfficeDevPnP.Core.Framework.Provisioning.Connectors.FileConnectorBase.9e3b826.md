@@ -5,7 +5,7 @@ Returns a filename without a path
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String GetFilenamePart(String fileName)
+public string GetFilenamePart(String fileName)
 ```
 ### Parameters
 *fileName*  

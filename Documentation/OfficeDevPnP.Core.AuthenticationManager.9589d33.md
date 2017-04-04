@@ -5,7 +5,7 @@ Returns a SharePoint ClientContext using Azure Active Directory App Only Authent
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.ClientContext GetAzureADAppOnlyAuthenticatedContext(String siteUrl, String clientId, String tenant, StoreName storeName, StoreLocation storeLocation, String thumbPrint, AzureEnvironment environment)
+public ClientContext GetAzureADAppOnlyAuthenticatedContext(String siteUrl, String clientId, String tenant, StoreName storeName, StoreLocation storeLocation, String thumbPrint, AzureEnvironment environment)
 ```
 ### Parameters
 *siteUrl*  

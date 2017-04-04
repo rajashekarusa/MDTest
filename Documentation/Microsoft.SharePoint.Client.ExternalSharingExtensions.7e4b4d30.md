@@ -5,7 +5,7 @@ Share site for a person using complex JSON object for people picker value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.SharingResult ShareSiteWithPeoplePickerValue(Web web, String peoplePickerInput, ExternalSharingSiteOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
+public static SharingResult ShareSiteWithPeoplePickerValue(Web web, String peoplePickerInput, ExternalSharingSiteOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
 ```
 ### Parameters
 *web*  

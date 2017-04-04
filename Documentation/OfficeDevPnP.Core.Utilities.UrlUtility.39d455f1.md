@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String StripInvalidUrlChars(String content)
+public static string StripInvalidUrlChars(String content)
 ```
 ### Parameters
 *content*  

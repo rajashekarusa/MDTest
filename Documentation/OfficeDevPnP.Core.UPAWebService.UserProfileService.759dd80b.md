@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String[] GetPropertyChoiceList(String propertyName)
+public string[] GetPropertyChoiceList(String propertyName)
 ```
 ### Parameters
 *propertyName*  

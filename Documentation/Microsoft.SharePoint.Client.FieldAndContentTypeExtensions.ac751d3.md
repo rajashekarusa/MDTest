@@ -5,7 +5,7 @@ Adds jsLink to a list field.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetJsLinkCustomizations(List list, String fieldName, String jsLink)
+public static void SetJsLinkCustomizations(List list, String fieldName, String jsLink)
 ```
 ### Parameters
 *list*  

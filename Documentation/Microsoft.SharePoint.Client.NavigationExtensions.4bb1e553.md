@@ -5,7 +5,7 @@ Loads the search navigation nodes
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.NavigationNodeCollection LoadSearchNavigation(Web web)
+public static NavigationNodeCollection LoadSearchNavigation(Web web)
 ```
 ### Parameters
 *web*  

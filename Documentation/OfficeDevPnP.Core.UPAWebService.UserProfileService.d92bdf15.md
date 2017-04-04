@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void UpdateColleaguePrivacyAsync(String accountName, String colleagueAccountName, Privacy newPrivacy, Object userState)
+public void UpdateColleaguePrivacyAsync(String accountName, String colleagueAccountName, Privacy newPrivacy, Object userState)
 ```
 ### Parameters
 *accountName*  

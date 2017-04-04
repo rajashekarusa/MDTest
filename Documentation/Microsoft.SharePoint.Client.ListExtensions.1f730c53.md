@@ -5,7 +5,7 @@ Set custom permission to the list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetListPermission(List list, BuiltInIdentity user, RoleType roleType)
+public static void SetListPermission(List list, BuiltInIdentity user, RoleType roleType)
 ```
 ### Parameters
 *list*  

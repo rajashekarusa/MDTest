@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate GetBaseTemplate(Web web)
+public static ProvisioningTemplate GetBaseTemplate(Web web)
 ```
 ### Parameters
 *web*  

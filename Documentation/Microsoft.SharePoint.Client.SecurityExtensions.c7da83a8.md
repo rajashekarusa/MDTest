@@ -5,7 +5,7 @@ Add read access to the group "Everyone except external users".
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.User AddReaderAccess(Web web, BuiltInIdentity user)
+public static User AddReaderAccess(Web web, BuiltInIdentity user)
 ```
 ### Parameters
 *web*  

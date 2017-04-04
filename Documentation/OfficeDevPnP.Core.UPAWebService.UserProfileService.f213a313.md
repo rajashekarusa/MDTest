@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PinnedLinkData[] GetUserPinnedLinks(String accountName)
+public PinnedLinkData[] GetUserPinnedLinks(String accountName)
 ```
 ### Parameters
 *accountName*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void add_GetUserProfileCountCompleted(GetUserProfileCountCompletedEventHandler value)
+public void add_GetUserProfileCountCompleted(GetUserProfileCountCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

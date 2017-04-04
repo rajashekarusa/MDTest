@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void add_CreateUserProfileByAccountNameCompleted(CreateUserProfileByAccountNameCompletedEventHandler value)
+public void add_CreateUserProfileByAccountNameCompleted(CreateUserProfileByAccountNameCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

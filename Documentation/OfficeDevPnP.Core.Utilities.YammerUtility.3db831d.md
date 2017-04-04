@@ -5,7 +5,7 @@ Returns Yammer Group if group exists. If the group does not exist, returns null.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Entities.YammerGroup GetYammerGroupByName(String groupName, String accessToken)
+public static YammerGroup GetYammerGroupByName(String groupName, String accessToken)
 ```
 ### Parameters
 *groupName*  

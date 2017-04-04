@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String NotIncludes(String fieldValue)
+public static string NotIncludes(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

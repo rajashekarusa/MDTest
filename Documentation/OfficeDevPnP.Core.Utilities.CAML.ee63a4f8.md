@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Neq(String fieldValue)
+public static string Neq(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

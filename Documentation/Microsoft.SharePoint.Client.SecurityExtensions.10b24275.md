@@ -5,7 +5,7 @@ Get a list of site collection administrators
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UserEntity> GetAdministrators(Web web)
+public static list<userentity> GetAdministrators(Web web)
 ```
 ### Parameters
 *web*  

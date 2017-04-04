@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void add_CreateMemberGroupCompleted(CreateMemberGroupCompletedEventHandler value)
+public void add_CreateMemberGroupCompleted(CreateMemberGroupCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

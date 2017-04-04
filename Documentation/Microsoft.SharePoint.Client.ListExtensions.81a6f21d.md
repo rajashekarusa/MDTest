@@ -5,7 +5,7 @@ Sets JS link customization for a list view page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetJSLinkCustomizations(List list, String serverRelativeUrl, String jslink)
+public static void SetJSLinkCustomizations(List list, String serverRelativeUrl, String jslink)
 ```
 ### Parameters
 *list*  

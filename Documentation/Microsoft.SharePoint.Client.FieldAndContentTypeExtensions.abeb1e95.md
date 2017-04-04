@@ -5,7 +5,7 @@ Creates fields from feature element xml file schema. XML file can contain one or
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CreateFieldsFromXMLString(Web web, String xmlStructure)
+public static void CreateFieldsFromXMLString(Web web, String xmlStructure)
 ```
 ### Parameters
 *web*  

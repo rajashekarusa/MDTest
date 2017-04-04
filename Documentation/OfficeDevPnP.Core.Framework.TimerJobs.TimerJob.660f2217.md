@@ -6,7 +6,7 @@ Takes over the settings from the passed timer job. Is useful when you run multip
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Clone(TimerJob job)
+public void Clone(TimerJob job)
 ```
 ### Parameters
 *job*  

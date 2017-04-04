@@ -5,7 +5,7 @@ Checks if the used ClientContext is app-only
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean IsAppOnly(ClientRuntimeContext clientContext)
+public static boolean IsAppOnly(ClientRuntimeContext clientContext)
 ```
 ### Parameters
 *clientContext*  

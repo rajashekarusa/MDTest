@@ -5,7 +5,7 @@ Deactivate the in place records management feature
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DisableInPlaceRecordsManagementFeature(Site site)
+public static void DisableInPlaceRecordsManagementFeature(Site site)
 ```
 ### Parameters
 *site*  

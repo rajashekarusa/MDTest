@@ -5,7 +5,7 @@ Checks if a feature is active
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean IsFeatureActive(Web web, Guid featureID)
+public static boolean IsFeatureActive(Web web, Guid featureID)
 ```
 ### Parameters
 *web*  

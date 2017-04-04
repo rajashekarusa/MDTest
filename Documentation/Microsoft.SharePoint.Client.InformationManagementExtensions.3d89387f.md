@@ -5,7 +5,7 @@ Gets the site expiration date
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.DateTime GetSiteExpirationDate(Web web)
+public static datetime GetSiteExpirationDate(Web web)
 ```
 ### Parameters
 *web*  

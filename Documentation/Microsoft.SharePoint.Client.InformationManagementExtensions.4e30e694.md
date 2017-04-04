@@ -5,7 +5,7 @@ Check if a site is closed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean IsClosedBySitePolicy(Web web)
+public static boolean IsClosedBySitePolicy(Web web)
 ```
 ### Parameters
 *web*  

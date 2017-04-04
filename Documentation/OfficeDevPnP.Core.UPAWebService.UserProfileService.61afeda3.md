@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetUserProfileByGuidAsync(Guid guid)
+public void GetUserProfileByGuidAsync(Guid guid)
 ```
 ### Parameters
 *guid*  

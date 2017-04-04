@@ -6,7 +6,7 @@ Prepares the timerjob to operate against SharePoint on-premises with user name p
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void UseNetworkCredentialsAuthentication(String samAccountName, String password, String domain)
+public void UseNetworkCredentialsAuthentication(String samAccountName, String password, String domain)
 ```
 ### Parameters
 *samAccountName*  

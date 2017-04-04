@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SendEmail(ClientContext context, IEnumerable<String> to, IEnumerable<String> cc, String subject, String body)
+public static void SendEmail(ClientContext context, IEnumerable<String> to, IEnumerable<String> cc, String subject, String body)
 ```
 ### Parameters
 *context*  

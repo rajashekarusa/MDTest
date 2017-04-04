@@ -5,7 +5,7 @@ Wires up MMS field to the specified term set.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void WireUpTaxonomyField(Web web, Guid id, String mmsGroupName, String mmsTermSetName, Boolean multiValue)
+public static void WireUpTaxonomyField(Web web, Guid id, String mmsGroupName, String mmsTermSetName, Boolean multiValue)
 ```
 ### Parameters
 *web*  

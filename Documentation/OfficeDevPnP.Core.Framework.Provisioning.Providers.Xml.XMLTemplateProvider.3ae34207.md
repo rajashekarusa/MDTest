@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void SaveAs(ProvisioningTemplate template, String uri, ITemplateFormatter formatter)
+public void SaveAs(ProvisioningTemplate template, String uri, ITemplateFormatter formatter)
 ```
 ### Parameters
 *template*  

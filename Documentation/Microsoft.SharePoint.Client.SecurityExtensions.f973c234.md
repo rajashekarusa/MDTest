@@ -5,7 +5,7 @@ Add a role definition (e.g.Contribute, Read, Approve) to a user
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void AddPermissionLevelToUser(SecurableObject securableObject, String userLoginName, String roleDefinitionName, Boolean removeExistingPermissionLevels)
+public static void AddPermissionLevelToUser(SecurableObject securableObject, String userLoginName, String roleDefinitionName, Boolean removeExistingPermissionLevels)
 ```
 ### Parameters
 *securableObject*  

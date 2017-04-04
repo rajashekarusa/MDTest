@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetUserProfileByIndexAsync(Int32 index, Object userState)
+public void GetUserProfileByIndexAsync(Int32 index, Object userState)
 ```
 ### Parameters
 *index*  

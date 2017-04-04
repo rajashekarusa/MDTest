@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Geq(String fieldValue)
+public static string Geq(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

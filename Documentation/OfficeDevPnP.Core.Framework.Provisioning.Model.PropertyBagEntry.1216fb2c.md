@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(PropertyBagEntry other)
+public boolean Equals(PropertyBagEntry other)
 ```
 ### Parameters
 *other*  

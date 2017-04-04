@@ -8,7 +8,7 @@ Configures the variation settings
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void ConfigureVariationsSettings(ClientContext context, VariationInformation variationSettings)
+public static void ConfigureVariationsSettings(ClientContext context, VariationInformation variationSettings)
 ```
 ### Parameters
 *context*  

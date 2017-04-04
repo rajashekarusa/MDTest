@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void ModifyUserPropertyByAccountName(String accountName, PropertyData[] newData)
+public void ModifyUserPropertyByAccountName(String accountName, PropertyData[] newData)
 ```
 ### Parameters
 *accountName*  

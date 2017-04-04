@@ -5,7 +5,7 @@ Get the search center url for the site collection (Site Settings -> Site collect
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String GetSiteCollectionSearchCenterUrl(Web web)
+public static string GetSiteCollectionSearchCenterUrl(Web web)
 ```
 ### Parameters
 *web*  

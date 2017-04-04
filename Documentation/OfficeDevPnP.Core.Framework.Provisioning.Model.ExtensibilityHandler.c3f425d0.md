@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(ExtensibilityHandler other)
+public boolean Equals(ExtensibilityHandler other)
 ```
 ### Parameters
 *other*  

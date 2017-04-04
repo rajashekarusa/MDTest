@@ -5,7 +5,7 @@ Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise return
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Int32 GetWssIdForTerm(Web web, Term term)
+public static int GetWssIdForTerm(Web web, Term term)
 ```
 ### Parameters
 *web*  

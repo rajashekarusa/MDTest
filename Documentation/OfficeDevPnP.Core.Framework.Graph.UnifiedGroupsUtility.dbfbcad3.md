@@ -5,7 +5,7 @@ Creates a new Office 365 Group (i.e. Unified Group) with its backing Modern Shar
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Entities.UnifiedGroupEntity CreateUnifiedGroup(String displayName, String description, String mailNickname, String accessToken, String[] owners, String[] members, String groupLogoPath, Boolean isPrivate, Int32 retryCount, Int32 delay)
+public static UnifiedGroupEntity CreateUnifiedGroup(String displayName, String description, String mailNickname, String accessToken, String[] owners, String[] members, String groupLogoPath, Boolean isPrivate, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 *displayName*  

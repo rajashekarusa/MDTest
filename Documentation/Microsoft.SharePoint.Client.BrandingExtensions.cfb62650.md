@@ -5,7 +5,7 @@ Retrieves the named composed look, overrides with specified palette, font, backg
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetComposedLookByUrl(Web web, String lookName, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, String masterServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
+public static void SetComposedLookByUrl(Web web, String lookName, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, String masterServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
 ```
 ### Parameters
 *web*  

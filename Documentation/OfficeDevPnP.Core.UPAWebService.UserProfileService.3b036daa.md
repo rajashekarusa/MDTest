@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Int64 GetUserProfileCount()
+public long GetUserProfileCount()
 ```
 ### Return Value
 Type: System.Int64  

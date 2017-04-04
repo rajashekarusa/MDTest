@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void add_RemoveLeaderCompleted(RemoveLeaderCompletedEventHandler value)
+public void add_RemoveLeaderCompleted(RemoveLeaderCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

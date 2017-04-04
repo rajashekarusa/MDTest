@@ -5,7 +5,7 @@ Returns a SharePoint on-premises / SharePoint Online ClientContext object. Requi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.ClientContext GetWebLoginClientContext(String siteUrl, Icon icon)
+public ClientContext GetWebLoginClientContext(String siteUrl, Icon icon)
 ```
 ### Parameters
 *siteUrl*  

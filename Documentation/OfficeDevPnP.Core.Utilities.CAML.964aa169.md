@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Today(Nullable<Int32> offset)
+public static string Today(Nullable<Int32> offset)
 ```
 ### Parameters
 *(optional) offset*  

@@ -5,7 +5,7 @@ Returns the GUID id of a list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Guid GetListID(Web web, String listName)
+public static guid GetListID(Web web, String listName)
 ```
 ### Parameters
 *web*  

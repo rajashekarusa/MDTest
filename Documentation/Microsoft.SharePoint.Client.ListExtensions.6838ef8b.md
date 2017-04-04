@@ -5,7 +5,7 @@ Get string typed property bag value. If does not contain, returns given default 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String GetPropertyBagValueString(List list, String key, String defaultValue)
+public static string GetPropertyBagValueString(List list, String key, String defaultValue)
 ```
 ### Parameters
 *list*  

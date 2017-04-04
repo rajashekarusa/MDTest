@@ -5,7 +5,7 @@ Returns the site collections that comply with the passed keyword query
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SiteEntity> SiteSearch(Web web, String keywordQueryValue, Boolean trimDuplicates)
+public static list<siteentity> SiteSearch(Web web, String keywordQueryValue, Boolean trimDuplicates)
 ```
 ### Parameters
 *web*  

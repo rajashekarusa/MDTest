@@ -5,7 +5,7 @@ Defines the restrictions that are placed on a document once it's declared as a r
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetRecordRestrictions(Site site, EcmSiteRecordRestrictions restrictions)
+public static void SetRecordRestrictions(Site site, EcmSiteRecordRestrictions restrictions)
 ```
 ### Parameters
 *site*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetProfileSchemaNamesAsync()
+public void GetProfileSchemaNamesAsync()
 ```
 ### Return Value
 Type: System.Void  

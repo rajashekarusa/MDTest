@@ -5,7 +5,7 @@ Adds a term to a given termset
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.Term AddTermToTermset(Site site, Guid termSetId, String term, Guid termId)
+public static Term AddTermToTermset(Site site, Guid termSetId, String term, Guid termId)
 ```
 ### Parameters
 *site*  

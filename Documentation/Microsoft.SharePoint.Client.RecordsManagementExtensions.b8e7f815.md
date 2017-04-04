@@ -5,7 +5,7 @@ Defines if auto record declaration is active for this list: all added items will
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetListAutoRecordDeclaration(List list, Boolean autoDeclareRecords)
+public static void SetListAutoRecordDeclaration(List list, Boolean autoDeclareRecords)
 ```
 ### Parameters
 *list*  

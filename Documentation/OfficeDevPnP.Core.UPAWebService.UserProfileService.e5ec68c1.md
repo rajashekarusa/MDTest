@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void add_AddLinkCompleted(AddLinkCompletedEventHandler value)
+public void add_AddLinkCompleted(AddLinkCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

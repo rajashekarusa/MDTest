@@ -5,7 +5,7 @@ Returns all site collection that start with the provided URL
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SiteEntity> SiteSearchScopedByUrl(Web web, String siteUrl)
+public static list<siteentity> SiteSearchScopedByUrl(Web web, String siteUrl)
 ```
 ### Parameters
 *web*  

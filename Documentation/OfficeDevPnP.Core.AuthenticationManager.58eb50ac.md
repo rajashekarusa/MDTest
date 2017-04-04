@@ -5,7 +5,7 @@ Returns an app only ClientContext object
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId, String appSecret, AzureEnvironment environment)
+public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId, String appSecret, AzureEnvironment environment)
 ```
 ### Parameters
 *siteUrl*  

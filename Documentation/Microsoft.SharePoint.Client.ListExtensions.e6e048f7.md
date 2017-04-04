@@ -5,7 +5,7 @@ Create list views based on specific xml structure in string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CreateViewsFromXMLString(List list, String xmlString)
+public static void CreateViewsFromXMLString(List list, String xmlString)
 ```
 ### Parameters
 *list*  

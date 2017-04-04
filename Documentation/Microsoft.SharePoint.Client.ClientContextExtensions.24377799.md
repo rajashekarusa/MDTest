@@ -5,7 +5,7 @@ Clones a ClientContext object while "taking over" the security context of the ex
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ClientContext Clone(ClientRuntimeContext clientContext, Uri siteUrl)
+public static ClientContext Clone(ClientRuntimeContext clientContext, Uri siteUrl)
 ```
 ### Parameters
 *clientContext*  

@@ -5,7 +5,7 @@ Get an Office 365 Group (i.e. Unified Group) by Id
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Entities.UnifiedGroupEntity GetUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay, Boolean includeSite)
+public static UnifiedGroupEntity GetUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay, Boolean includeSite)
 ```
 ### Parameters
 *groupId*  

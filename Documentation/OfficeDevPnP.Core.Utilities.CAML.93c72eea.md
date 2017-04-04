@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Where(String conditionClause)
+public static string Where(String conditionClause)
 ```
 ### Parameters
 *conditionClause*  

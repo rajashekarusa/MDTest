@@ -5,7 +5,7 @@ Triggers the timer job to start running
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Run()
+public void Run()
 ```
 ### Return Value
 Type: System.Void  

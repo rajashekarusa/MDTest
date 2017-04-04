@@ -5,7 +5,7 @@ Checks if a site collection exists, relies on tenant admin API. Sites that are r
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean SiteExists(Tenant tenant, String siteFullUrl)
+public static boolean SiteExists(Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
 *tenant*  

@@ -5,7 +5,7 @@ Can be used to set the site to inherit the default page layout option from paren
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetSiteToInheritPageLayouts(Web web)
+public static void SetSiteToInheritPageLayouts(Web web)
 ```
 ### Parameters
 *web*  

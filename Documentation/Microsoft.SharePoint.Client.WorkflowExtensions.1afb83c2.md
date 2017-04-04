@@ -5,7 +5,7 @@ Cancels a workflow instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CancelWorkFlow(WorkflowInstance instance)
+public static void CancelWorkFlow(WorkflowInstance instance)
 ```
 ### Parameters
 *instance*  

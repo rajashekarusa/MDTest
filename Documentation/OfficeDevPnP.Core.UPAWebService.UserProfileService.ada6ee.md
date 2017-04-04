@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddColleagueWithoutEmailNotificationAsync(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup, Object userState)
+public void AddColleagueWithoutEmailNotificationAsync(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup, Object userState)
 ```
 ### Parameters
 *accountName*  

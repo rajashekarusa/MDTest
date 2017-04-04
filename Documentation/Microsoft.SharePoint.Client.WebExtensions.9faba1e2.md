@@ -5,7 +5,7 @@ Determines if a child Web site with the specified leaf URL exists.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean WebExists(Web parentWeb, String leafUrl)
+public static boolean WebExists(Web parentWeb, String leafUrl)
 ```
 ### Parameters
 *parentWeb*  

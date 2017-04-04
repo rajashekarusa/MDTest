@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void remove_AddSuggestionsCompleted(AddSuggestionsCompletedEventHandler value)
+public void remove_AddSuggestionsCompleted(AddSuggestionsCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

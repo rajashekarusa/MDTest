@@ -5,7 +5,7 @@ Get the folders of the default container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Collections.Generic.List`1<System.String> GetFolders()
+public list<string> GetFolders()
 ```
 ### Return Value
 Type: System.Collections.Generic.List<System.String>  

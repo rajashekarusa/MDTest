@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(DataRow other)
+public boolean Equals(DataRow other)
 ```
 ### Parameters
 *other*  

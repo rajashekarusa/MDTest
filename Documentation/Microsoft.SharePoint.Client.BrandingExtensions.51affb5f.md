@@ -5,7 +5,7 @@ Can be used to remote filters from the available web template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void ClearAvailableWebTemplates(Web web)
+public static void ClearAvailableWebTemplates(Web web)
 ```
 ### Parameters
 *web*  

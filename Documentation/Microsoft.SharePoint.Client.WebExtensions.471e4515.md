@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean IsPublishingWeb(Web web)
+public static boolean IsPublishingWeb(Web web)
 ```
 ### Parameters
 *web*  

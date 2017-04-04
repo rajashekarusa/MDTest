@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Dispose()
+public void Dispose()
 ```
 ### Return Value
 Type: System.Void  

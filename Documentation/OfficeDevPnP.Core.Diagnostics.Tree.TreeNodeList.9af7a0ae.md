@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void add_PropertyChanged(PropertyChangedEventHandler value)
+public void add_PropertyChanged(PropertyChangedEventHandler value)
 ```
 ### Parameters
 *value*  

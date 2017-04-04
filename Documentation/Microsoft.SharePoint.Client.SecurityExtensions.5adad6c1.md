@@ -5,7 +5,7 @@ Add a permission level (e.g.Contribute, Reader,...) to a user
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void AddPermissionLevelToUser(SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeExistingPermissionLevels)
+public static void AddPermissionLevelToUser(SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeExistingPermissionLevels)
 ```
 ### Parameters
 *securableObject*  

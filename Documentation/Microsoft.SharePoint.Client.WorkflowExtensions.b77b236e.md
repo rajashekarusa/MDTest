@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Guid StartWorkflowInstance(ListItem item, String subscriptionName, IDictionary<String, Object> payload)
+public static guid StartWorkflowInstance(ListItem item, String subscriptionName, IDictionary<String, Object> payload)
 ```
 ### Parameters
 *item*  

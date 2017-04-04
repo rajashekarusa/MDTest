@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Byte[] PackTemplate(PnPInfo pnpInfo)
+public static byte[] PackTemplate(PnPInfo pnpInfo)
 ```
 ### Parameters
 *pnpInfo*  

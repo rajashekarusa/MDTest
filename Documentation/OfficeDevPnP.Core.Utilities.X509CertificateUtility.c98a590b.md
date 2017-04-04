@@ -5,7 +5,7 @@ Returns the certificate public key
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String GetPublicKey(X509Certificate2 certificate)
+public static string GetPublicKey(X509Certificate2 certificate)
 ```
 ### Parameters
 *certificate*  

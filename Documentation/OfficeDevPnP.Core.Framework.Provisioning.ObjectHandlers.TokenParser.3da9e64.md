@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Collections.Generic.List`1<System.Tuple`2<System.String,System.String>> GetResourceTokenResourceValues(String tokenValue)
+public list<tuple<string, string>> GetResourceTokenResourceValues(String tokenValue)
 ```
 ### Parameters
 *tokenValue*  

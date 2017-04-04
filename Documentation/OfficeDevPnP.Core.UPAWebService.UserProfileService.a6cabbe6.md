@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddSuggestionsAsync(SuggestionType type, String[] suggestions, Double[] weights, Object userState)
+public void AddSuggestionsAsync(SuggestionType type, String[] suggestions, Double[] weights, Object userState)
 ```
 ### Parameters
 *type*  

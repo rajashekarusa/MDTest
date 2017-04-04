@@ -5,7 +5,7 @@ Constructs the webpart XML for yammer group needed to inject as Yammer web part 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String CreateYammerDiscussionPartXml(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter, Boolean useSSO)
+public static string CreateYammerDiscussionPartXml(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter, Boolean useSSO)
 ```
 ### Parameters
 *yammerNetworkName*  

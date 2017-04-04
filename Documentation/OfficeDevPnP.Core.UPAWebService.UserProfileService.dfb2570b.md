@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void RemoveAllMemberships(String accountName)
+public void RemoveAllMemberships(String accountName)
 ```
 ### Parameters
 *accountName*  

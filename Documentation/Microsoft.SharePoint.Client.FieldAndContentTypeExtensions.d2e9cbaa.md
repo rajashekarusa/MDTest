@@ -5,7 +5,7 @@ Add content type to list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean AddContentTypeToListById(List list, String contentTypeID, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
+public static boolean AddContentTypeToListById(List list, String contentTypeID, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
 ```
 ### Parameters
 *list*  

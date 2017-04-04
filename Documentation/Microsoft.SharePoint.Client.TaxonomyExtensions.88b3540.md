@@ -5,7 +5,7 @@ Returns the default keywords termstore for the current site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.TermStore GetDefaultKeywordsTermStore(Site site)
+public static TermStore GetDefaultKeywordsTermStore(Site site)
 ```
 ### Parameters
 *site*  

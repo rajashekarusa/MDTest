@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String ParseString(String input, String[] tokensToSkip)
+public string ParseString(String input, String[] tokensToSkip)
 ```
 ### Parameters
 *input*  

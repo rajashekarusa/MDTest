@@ -5,7 +5,7 @@ Deletes a content type from the web by name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DeleteContentTypeByName(Web web, String contentTypeName)
+public static void DeleteContentTypeByName(Web web, String contentTypeName)
 ```
 ### Parameters
 *web*  

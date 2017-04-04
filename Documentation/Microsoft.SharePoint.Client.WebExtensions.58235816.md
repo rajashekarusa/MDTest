@@ -6,7 +6,7 @@ Can be used to extract custom provisioning template from existing site. The extr
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate GetProvisioningTemplate(Web web)
+public static ProvisioningTemplate GetProvisioningTemplate(Web web)
 ```
 ### Parameters
 *web*  

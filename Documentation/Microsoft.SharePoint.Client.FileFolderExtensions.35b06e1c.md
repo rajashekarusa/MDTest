@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Folder EnsureFolderPath(Web web, String webRelativeUrl, Expression<Func<Folder, Object>>[] expressions)
+public static Folder EnsureFolderPath(Web web, String webRelativeUrl, Expression<Func<Folder, Object>>[] expressions)
 ```
 ### Parameters
 *web*  

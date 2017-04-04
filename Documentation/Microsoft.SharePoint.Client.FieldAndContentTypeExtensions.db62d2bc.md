@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Field GetFieldByName(FieldCollection fields, String internalName)
+public static Field GetFieldByName(FieldCollection fields, String internalName)
 ```
 ### Parameters
 *fields*  

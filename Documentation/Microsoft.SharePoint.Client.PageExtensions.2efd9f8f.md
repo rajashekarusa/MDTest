@@ -5,7 +5,7 @@ Returns the Url for the requested wiki page, creates it if the pageis not yet av
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String EnsureWikiPage(Web web, String wikiPageLibraryName, String wikiPageName)
+public static string EnsureWikiPage(Web web, String wikiPageLibraryName, String wikiPageName)
 ```
 ### Parameters
 *web*  

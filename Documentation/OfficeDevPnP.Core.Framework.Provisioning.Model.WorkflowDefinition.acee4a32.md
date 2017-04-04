@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(WorkflowDefinition other)
+public boolean Equals(WorkflowDefinition other)
 ```
 ### Parameters
 *other*  

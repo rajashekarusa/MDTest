@@ -5,7 +5,7 @@ Get all unique role assignments for a web object and all its descendents down to
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Entities.RoleAssignmentEntity> GetAllUniqueRoleAssignments(Web web, Int32 leafBreadthLimit)
+public static ienumerable<roleassignmententity> GetAllUniqueRoleAssignments(Web web, Int32 leafBreadthLimit)
 ```
 ### Parameters
 *web*  

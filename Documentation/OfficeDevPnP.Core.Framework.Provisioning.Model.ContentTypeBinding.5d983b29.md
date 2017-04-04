@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(ContentTypeBinding other)
+public boolean Equals(ContentTypeBinding other)
 ```
 ### Parameters
 *other*  

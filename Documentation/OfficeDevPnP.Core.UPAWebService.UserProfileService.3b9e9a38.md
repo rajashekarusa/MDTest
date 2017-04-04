@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void RemoveMembershipAsync(String accountName, Guid sourceInternal, String sourceReference)
+public void RemoveMembershipAsync(String accountName, Guid sourceInternal, String sourceReference)
 ```
 ### Parameters
 *accountName*  

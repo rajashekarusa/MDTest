@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.ContactData[] GetUserColleagues(String accountName)
+public ContactData[] GetUserColleagues(String accountName)
 ```
 ### Parameters
 *accountName*  

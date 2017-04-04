@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(WebPart other)
+public boolean Equals(WebPart other)
 ```
 ### Parameters
 *other*  

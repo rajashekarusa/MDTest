@@ -5,7 +5,7 @@ Returns all instances of a workflow for this subscription
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstanceCollection GetInstances(WorkflowSubscription subscription)
+public static WorkflowInstanceCollection GetInstances(WorkflowSubscription subscription)
 ```
 ### Parameters
 *subscription*  

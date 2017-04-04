@@ -5,7 +5,7 @@ List the web parts on a page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.WebParts.WebPartDefinition> GetWebParts(Web web, String serverRelativePageUrl)
+public static ienumerable<webpartdefinition> GetWebParts(Web web, String serverRelativePageUrl)
 ```
 ### Parameters
 *web*  

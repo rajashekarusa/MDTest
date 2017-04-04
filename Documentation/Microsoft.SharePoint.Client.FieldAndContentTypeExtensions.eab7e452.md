@@ -6,7 +6,7 @@ Searches the list content types and returns the content type identifier (ID) tha
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ContentTypeId BestMatchContentTypeId(List list, String baseContentTypeId)
+public static ContentTypeId BestMatchContentTypeId(List list, String baseContentTypeId)
 ```
 ### Parameters
 *list*  

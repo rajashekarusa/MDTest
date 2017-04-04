@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PropertyData[] CreateUserProfileByAccountName(String accountName)
+public PropertyData[] CreateUserProfileByAccountName(String accountName)
 ```
 ### Parameters
 *accountName*  

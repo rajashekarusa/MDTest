@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.IAsyncResult BeginInvoke(Object sender, GetCommonColleaguesCompletedEventArgs e, AsyncCallback callback, Object object)
+public iasyncresult BeginInvoke(Object sender, GetCommonColleaguesCompletedEventArgs e, AsyncCallback callback, Object object)
 ```
 ### Parameters
 *sender*  

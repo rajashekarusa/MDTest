@@ -5,7 +5,7 @@ Creates (or updates) a composed look in the web site; usually this is done in th
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CreateComposedLookByUrl(Web web, String lookName, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, String masterServerRelativeUrl, Int32 displayOrder, Boolean replaceContent)
+public static void CreateComposedLookByUrl(Web web, String lookName, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, String masterServerRelativeUrl, Int32 displayOrder, Boolean replaceContent)
 ```
 ### Parameters
 *web*  

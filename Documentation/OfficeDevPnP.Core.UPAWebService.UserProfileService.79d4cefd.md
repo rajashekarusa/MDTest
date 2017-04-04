@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult GetUserProfileByIndex(Int32 index)
+public GetUserProfileByIndexResult GetUserProfileByIndex(Int32 index)
 ```
 ### Parameters
 *index*  

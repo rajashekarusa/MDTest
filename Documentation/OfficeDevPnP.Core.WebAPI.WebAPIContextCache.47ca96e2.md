@@ -5,7 +5,7 @@ Adds an item to the cache. Updates if the item already existed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Put(String cacheKey, WebAPIContexCacheItem sharePointServiceContextCacheItem)
+public void Put(String cacheKey, WebAPIContexCacheItem sharePointServiceContextCacheItem)
 ```
 ### Parameters
 *cacheKey*  

@@ -5,7 +5,7 @@ Ensures that there is a trailing slash at the end of the url
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String EnsureTrailingSlash(String urlToProcess)
+public static string EnsureTrailingSlash(String urlToProcess)
 ```
 ### Parameters
 *urlToProcess*  

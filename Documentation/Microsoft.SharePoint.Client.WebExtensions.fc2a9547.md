@@ -5,7 +5,7 @@ Returns all keys in the property bag that have been marked for indexing
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.IEnumerable`1<System.String> GetIndexedPropertyBagKeys(Web web)
+public static ienumerable<string> GetIndexedPropertyBagKeys(Web web)
 ```
 ### Parameters
 *web*  

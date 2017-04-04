@@ -5,7 +5,7 @@ Returns a workflow subscription (associations) for a list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription GetWorkflowSubscription(List list, String name)
+public static WorkflowSubscription GetWorkflowSubscription(List list, String name)
 ```
 ### Parameters
 *list*  

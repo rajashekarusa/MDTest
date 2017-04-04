@@ -5,7 +5,7 @@ Deletes all Navigation Nodes from a given navigation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DeleteAllNavigationNodes(Web web, NavigationType navigationType)
+public static void DeleteAllNavigationNodes(Web web, NavigationType navigationType)
 ```
 ### Parameters
 *web*  

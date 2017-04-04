@@ -5,7 +5,7 @@ Removes a user from a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void RemoveUserFromGroup(Web web, Group group, User user)
+public static void RemoveUserFromGroup(Web web, Group group, User user)
 ```
 ### Parameters
 *web*  

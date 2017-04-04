@@ -5,7 +5,7 @@ Determines whether the current Web has the managed navigation enabled
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean IsManagedNavigationEnabled(Web web, ManagedNavigationKind navigationKind)
+public static boolean IsManagedNavigationEnabled(Web web, ManagedNavigationKind navigationKind)
 ```
 ### Parameters
 *web*  

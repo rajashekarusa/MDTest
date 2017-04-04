@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Or(String clause1, String[] conditionClauses)
+public static string Or(String clause1, String[] conditionClauses)
 ```
 ### Parameters
 *clause1*  

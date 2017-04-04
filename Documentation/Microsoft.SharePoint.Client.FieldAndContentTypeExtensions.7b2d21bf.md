@@ -5,7 +5,7 @@ Returns if the field is found
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean FieldExistsById(Web web, Guid fieldId, Boolean searchInSiteHierarchy)
+public static boolean FieldExistsById(Web web, Guid fieldId, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Checks if an enumerated type is missing a value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean Missing(Enum obj, T value)
+public static boolean Missing(Enum obj, T value)
 ```
 ### Parameters
 *obj*  

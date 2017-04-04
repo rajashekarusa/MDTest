@@ -6,7 +6,7 @@ Used to compare the server file to the local file.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean VerifyIfUploadRequired(File serverFile, Stream localStream)
+public static boolean VerifyIfUploadRequired(File serverFile, Stream localStream)
 ```
 ### Parameters
 *serverFile*  

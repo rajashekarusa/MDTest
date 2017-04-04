@@ -5,7 +5,7 @@ Disables the Responsive UI on a Classic SharePoint Site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DisableResponsiveUI(Site site)
+public static void DisableResponsiveUI(Site site)
 ```
 ### Parameters
 *site*  

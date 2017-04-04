@@ -5,7 +5,7 @@ Adds a default list to a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.List CreateList(Web web, ListTemplateType listType, String listName, Boolean enableVersioning, Boolean updateAndExecuteQuery, String urlPath, Boolean enableContentTypes)
+public static List CreateList(Web web, ListTemplateType listType, String listName, Boolean enableVersioning, Boolean updateAndExecuteQuery, String urlPath, Boolean enableContentTypes)
 ```
 ### Parameters
 *web*  

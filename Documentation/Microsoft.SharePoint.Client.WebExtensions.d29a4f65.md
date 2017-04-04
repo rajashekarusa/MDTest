@@ -5,7 +5,7 @@ Determines if a web exists by title.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean WebExistsByTitle(Web parentWeb, String title)
+public static boolean WebExistsByTitle(Web parentWeb, String title)
 ```
 ### Parameters
 *parentWeb*  

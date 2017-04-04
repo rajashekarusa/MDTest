@@ -5,7 +5,7 @@ Serializes a template to XML
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String ToXML(ITemplateFormatter formatter)
+public string ToXML(ITemplateFormatter formatter)
 ```
 ### Parameters
 *(optional) formatter*  

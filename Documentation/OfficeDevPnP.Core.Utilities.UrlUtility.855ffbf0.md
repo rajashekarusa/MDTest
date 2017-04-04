@@ -5,7 +5,7 @@ Combines a path and a relative path.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Combine(String path, String[] relativePaths)
+public static string Combine(String path, String[] relativePaths)
 ```
 ### Parameters
 *path*  

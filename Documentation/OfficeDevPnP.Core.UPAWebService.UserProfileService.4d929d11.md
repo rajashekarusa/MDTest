@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.ContactData AddColleagueWithoutEmailNotification(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
+public ContactData AddColleagueWithoutEmailNotification(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
 ```
 ### Parameters
 *accountName*  

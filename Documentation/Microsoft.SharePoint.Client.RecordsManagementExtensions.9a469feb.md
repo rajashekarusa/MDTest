@@ -5,7 +5,7 @@ Defines the manual in place record declaration for this list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetListManualRecordDeclaration(List list, EcmListManualRecordDeclaration settings)
+public static void SetListManualRecordDeclaration(List list, EcmListManualRecordDeclaration settings)
 ```
 ### Parameters
 *list*  

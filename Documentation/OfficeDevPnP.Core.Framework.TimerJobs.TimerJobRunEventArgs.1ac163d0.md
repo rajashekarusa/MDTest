@@ -5,7 +5,7 @@ Gets a property from the custom properties list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String GetProperty(String propertyKey)
+public string GetProperty(String propertyKey)
 ```
 ### Parameters
 *propertyKey*  

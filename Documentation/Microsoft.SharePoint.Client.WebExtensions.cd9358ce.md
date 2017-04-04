@@ -5,7 +5,7 @@ Returns all my site site collections
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SiteEntity> MySiteSearch(Web web)
+public static list<siteentity> MySiteSearch(Web web)
 ```
 ### Parameters
 *web*  

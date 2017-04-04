@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void GetUserProfileSchemaAsync(Object userState)
+public void GetUserProfileSchemaAsync(Object userState)
 ```
 ### Parameters
 *userState*  

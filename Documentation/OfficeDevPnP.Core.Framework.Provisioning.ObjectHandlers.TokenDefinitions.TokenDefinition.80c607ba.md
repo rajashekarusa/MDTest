@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void ClearCache()
+public void ClearCache()
 ```
 ### Return Value
 Type: System.Void  

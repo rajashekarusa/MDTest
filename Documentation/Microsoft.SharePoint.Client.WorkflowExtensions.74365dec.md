@@ -5,7 +5,7 @@ Returns all the workflow subscriptions (associations) for the web and the lists 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription[] GetWorkflowSubscriptions(Web web)
+public static WorkflowSubscription[] GetWorkflowSubscriptions(Web web)
 ```
 ### Parameters
 *web*  

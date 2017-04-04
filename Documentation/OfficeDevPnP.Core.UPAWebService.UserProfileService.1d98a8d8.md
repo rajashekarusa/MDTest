@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void remove_GetUserProfileByNameCompleted(GetUserProfileByNameCompletedEventHandler value)
+public void remove_GetUserProfileByNameCompleted(GetUserProfileByNameCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

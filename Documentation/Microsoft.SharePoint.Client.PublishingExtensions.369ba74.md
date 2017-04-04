@@ -5,7 +5,7 @@ Gets a Publishing Page from the root folder of the Pages library.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Publishing.PublishingPage GetPublishingPage(Web web, String fileLeafRef)
+public static PublishingPage GetPublishingPage(Web web, String fileLeafRef)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Sets the search configuration
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetSearchConfiguration(Web web, String searchConfiguration)
+public static void SetSearchConfiguration(Web web, String searchConfiguration)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Converts the input string to a boolean and if null, it returns the default value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean ToBoolean(String input, Boolean defaultValue)
+public static boolean ToBoolean(String input, Boolean defaultValue)
 ```
 ### Parameters
 *input*  

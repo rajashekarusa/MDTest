@@ -5,7 +5,7 @@ Returns the current search configuration as as string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String GetSearchConfiguration(Site site)
+public static string GetSearchConfiguration(Site site)
 ```
 ### Parameters
 *site*  

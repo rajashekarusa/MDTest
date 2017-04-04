@@ -5,7 +5,7 @@ Set localized labels for field
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetLocalizationForField(List list, Field siteColumn, String cultureName, String titleResource, String descriptionResource)
+public static void SetLocalizationForField(List list, Field siteColumn, String cultureName, String titleResource, String descriptionResource)
 ```
 ### Parameters
 *list*  

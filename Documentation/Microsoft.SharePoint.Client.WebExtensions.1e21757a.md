@@ -5,7 +5,7 @@ Marks a property bag key for indexing
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean AddIndexedPropertyBagKey(Web web, String key)
+public static boolean AddIndexedPropertyBagKey(Web web, String key)
 ```
 ### Parameters
 *web*  

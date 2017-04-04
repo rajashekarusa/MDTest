@@ -5,7 +5,7 @@ Deactivates a site collection or site scoped feature
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DeactivateFeature(Site site, Guid featureID, Int32 pollingIntervalSeconds)
+public static void DeactivateFeature(Site site, Guid featureID, Int32 pollingIntervalSeconds)
 ```
 ### Parameters
 *site*  

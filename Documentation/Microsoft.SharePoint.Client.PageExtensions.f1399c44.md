@@ -5,7 +5,7 @@ Adds a user-friendly URL for a PublishingPage object.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String AddNavigationFriendlyUrl(PublishingPage page, Web web, String navigationTitle, String friendlyUrlSegment, NavigationTermSetItem editableParent, Boolean showInGlobalNavigation, Boolean showInCurrentNavigation)
+public static string AddNavigationFriendlyUrl(PublishingPage page, Web web, String navigationTitle, String friendlyUrlSegment, NavigationTermSetItem editableParent, Boolean showInGlobalNavigation, Boolean showInCurrentNavigation)
 ```
 ### Parameters
 *page*  

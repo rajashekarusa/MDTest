@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String MakeRelativeUrl(String urlToProcess)
+public static string MakeRelativeUrl(String urlToProcess)
 ```
 ### Parameters
 *urlToProcess*  

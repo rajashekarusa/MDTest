@@ -5,7 +5,7 @@ Deletes an Office 365 Group (i.e. Unified Group)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DeleteUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay)
+public static void DeleteUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 *groupId*  

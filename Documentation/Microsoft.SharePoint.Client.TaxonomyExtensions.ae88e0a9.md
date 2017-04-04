@@ -5,7 +5,7 @@ Creates a new term group, in the specified term store.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Taxonomy.TermGroup CreateTermGroup(TermStore termStore, String groupName, Guid groupId, String groupDescription)
+public static TermGroup CreateTermGroup(TermStore termStore, String groupName, Guid groupId, String groupDescription)
 ```
 ### Parameters
 *termStore*  

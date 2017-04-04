@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Folder EnsureFolder(Folder parentFolder, String folderName, Expression<Func<Folder, Object>>[] expressions)
+public static Folder EnsureFolder(Folder parentFolder, String folderName, Expression<Func<Folder, Object>>[] expressions)
 ```
 ### Parameters
 *parentFolder*  

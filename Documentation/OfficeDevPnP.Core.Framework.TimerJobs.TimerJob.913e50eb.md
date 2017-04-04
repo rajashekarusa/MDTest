@@ -6,7 +6,7 @@ Prepares the timerjob to operate against SharePoint on-premises with app-only cr
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void UseAppOnlyAuthentication(String clientId, String clientSecret)
+public void UseAppOnlyAuthentication(String clientId, String clientSecret)
 ```
 ### Parameters
 *clientId*  

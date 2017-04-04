@@ -6,7 +6,7 @@ Add a node to quick launch, top navigation bar or search navigation. The node wi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.NavigationNode AddNavigationNode(Web web, String nodeTitle, Uri nodeUri, String parentNodeTitle, NavigationType navigationType, Boolean isExternal, Boolean asLastNode)
+public static NavigationNode AddNavigationNode(Web web, String nodeTitle, Uri nodeUri, String parentNodeTitle, NavigationType navigationType, Boolean isExternal, Boolean asLastNode)
 ```
 ### Parameters
 *web*  

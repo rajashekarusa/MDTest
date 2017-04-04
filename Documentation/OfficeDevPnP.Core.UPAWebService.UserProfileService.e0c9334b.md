@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void UpdateMembershipPrivacyAsync(String accountName, Guid sourceInternal, String sourceReference, Privacy newPrivacy)
+public void UpdateMembershipPrivacyAsync(String accountName, Guid sourceInternal, String sourceReference, Privacy newPrivacy)
 ```
 ### Parameters
 *accountName*  

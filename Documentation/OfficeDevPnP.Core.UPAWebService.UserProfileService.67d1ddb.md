@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PropertyData GetUserPropertyByAccountName(String accountName, String propertyName)
+public PropertyData GetUserPropertyByAccountName(String accountName, String propertyName)
 ```
 ### Parameters
 *accountName*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void LogInfo(Exception ex, String message, Object[] args)
+public void LogInfo(Exception ex, String message, Object[] args)
 ```
 ### Parameters
 *ex*  

@@ -5,7 +5,7 @@ Creates views based on specific xml structure from string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CreateViewsFromXMLString(Web web, String listUrl, String xmlString)
+public static void CreateViewsFromXMLString(Web web, String listUrl, String xmlString)
 ```
 ### Parameters
 *web*  

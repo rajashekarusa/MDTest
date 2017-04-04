@@ -5,7 +5,7 @@ Removes a field by specifying its internal name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void RemoveFieldByInternalName(Web web, String internalName)
+public static void RemoveFieldByInternalName(Web web, String internalName)
 ```
 ### Parameters
 *web*  

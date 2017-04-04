@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(RoleAssignment other)
+public boolean Equals(RoleAssignment other)
 ```
 ### Parameters
 *other*  

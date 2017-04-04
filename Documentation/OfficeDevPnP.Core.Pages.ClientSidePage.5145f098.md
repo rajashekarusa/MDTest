@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Pages.ClientSidePage FromHtml(String html)
+public static ClientSidePage FromHtml(String html)
 ```
 ### Parameters
 *html*  

@@ -5,7 +5,7 @@ Deletes a web part from a page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void DeleteWebPart(Web web, String folder, String title, String page)
+public static void DeleteWebPart(Web web, String folder, String title, String page)
 ```
 ### Parameters
 *web*  

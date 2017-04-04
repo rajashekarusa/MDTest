@@ -5,7 +5,7 @@ Inserts a web part on a web part page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.WebParts.WebPartDefinition AddWebPartToWebPartPage(Web web, String serverRelativePageUrl, WebPartEntity webPart)
+public static WebPartDefinition AddWebPartToWebPartPage(Web web, String serverRelativePageUrl, WebPartEntity webPart)
 ```
 ### Parameters
 *web*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String ViewFields(String[] fieldRefs)
+public static string ViewFields(String[] fieldRefs)
 ```
 ### Parameters
 *fieldRefs*  

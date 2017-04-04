@@ -5,7 +5,7 @@ Return content type by Id
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.ContentType GetContentTypeById(Web web, String contentTypeId, Boolean searchInSiteHierarchy)
+public static ContentType GetContentTypeById(Web web, String contentTypeId, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Enable/disable versioning on a list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void UpdateListVersioning(Web web, String listName, Boolean enableVersioning, Boolean enableMinorVersioning, Boolean updateAndExecuteQuery)
+public static void UpdateListVersioning(Web web, String listName, Boolean enableVersioning, Boolean enableMinorVersioning, Boolean updateAndExecuteQuery)
 ```
 ### Parameters
 *web*  

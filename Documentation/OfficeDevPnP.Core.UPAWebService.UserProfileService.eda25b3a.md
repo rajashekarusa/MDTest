@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PropertyData[] GetUserProfileByGuid(Guid guid)
+public PropertyData[] GetUserProfileByGuid(Guid guid)
 ```
 ### Parameters
 *guid*  

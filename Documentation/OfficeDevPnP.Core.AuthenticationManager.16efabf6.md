@@ -5,7 +5,7 @@ Returns a SharePoint ClientContext using Azure Active Directory authentication. 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.ClientContext GetAzureADAccessTokenAuthenticatedContext(String siteUrl, String accessToken)
+public ClientContext GetAzureADAccessTokenAuthenticatedContext(String siteUrl, String accessToken)
 ```
 ### Parameters
 *siteUrl*  

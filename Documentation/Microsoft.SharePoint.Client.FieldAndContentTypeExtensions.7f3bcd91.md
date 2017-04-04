@@ -5,7 +5,7 @@ Removes a field by specifying its ID
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void RemoveFieldById(Web web, String fieldId)
+public static void RemoveFieldById(Web web, String fieldId)
 ```
 ### Parameters
 *web*  

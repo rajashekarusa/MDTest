@@ -5,7 +5,7 @@ Removes an existing image rendition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void RemovePublishingImageRendition(Web web, String imageRenditionName)
+public static void RemovePublishingImageRendition(Web web, String imageRenditionName)
 ```
 ### Parameters
 *web*  

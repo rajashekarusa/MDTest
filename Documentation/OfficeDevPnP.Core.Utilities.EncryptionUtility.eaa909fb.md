@@ -5,7 +5,7 @@ Decrypts a DPAPI encryped string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Security.SecureString DecryptStringWithDPAPI(String encryptedData)
+public static securestring DecryptStringWithDPAPI(String encryptedData)
 ```
 ### Parameters
 *encryptedData*  

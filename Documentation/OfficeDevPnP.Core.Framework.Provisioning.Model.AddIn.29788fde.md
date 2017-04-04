@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(AddIn other)
+public boolean Equals(AddIn other)
 ```
 ### Parameters
 *other*  

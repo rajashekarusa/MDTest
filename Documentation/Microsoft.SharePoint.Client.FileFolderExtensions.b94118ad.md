@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SaveFileToLocal(Web web, String serverRelativeUrl, String localPath, String localFileName, Func<String, Boolean> fileExistsCallBack)
+public static void SaveFileToLocal(Web web, String serverRelativeUrl, String localPath, String localFileName, Func<String, Boolean> fileExistsCallBack)
 ```
 ### Parameters
 *web*  

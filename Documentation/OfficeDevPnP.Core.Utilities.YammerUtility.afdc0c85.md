@@ -5,7 +5,7 @@ Can be used to create Yammer group to the Yammer network
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Entities.YammerGroup CreateYammerGroup(String groupName, Boolean isPrivate, String accessToken)
+public static YammerGroup CreateYammerGroup(String groupName, Boolean isPrivate, String accessToken)
 ```
 ### Parameters
 *groupName*  

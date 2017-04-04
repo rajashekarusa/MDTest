@@ -5,7 +5,7 @@ Wires up MMS field to the specified term.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void WireUpTaxonomyField(List list, Field field, Term anchorTerm, Boolean multiValue)
+public static void WireUpTaxonomyField(List list, Field field, Term anchorTerm, Boolean multiValue)
 ```
 ### Parameters
 *list*  

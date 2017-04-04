@@ -5,7 +5,7 @@ Static method to retrieve a specific XMLPnPSchemaFormatter instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter GetSpecificFormatter(XMLPnPSchemaVersion version)
+public static ITemplateFormatter GetSpecificFormatter(XMLPnPSchemaVersion version)
 ```
 ### Parameters
 *version*  

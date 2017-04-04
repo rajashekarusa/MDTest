@@ -5,7 +5,7 @@ Serializes an object instance to an XML represented string.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String Serialize(T objectToSerialize)
+public static string Serialize(T objectToSerialize)
 ```
 ### Parameters
 *objectToSerialize*  

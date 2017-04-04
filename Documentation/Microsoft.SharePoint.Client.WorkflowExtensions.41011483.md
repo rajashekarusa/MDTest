@@ -5,7 +5,7 @@ Publish a custom event to a target workflow instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void PublishCustomEvent(WorkflowInstance instance, String eventName, String payload)
+public static void PublishCustomEvent(WorkflowInstance instance, String eventName, String payload)
 ```
 ### Parameters
 *instance*  

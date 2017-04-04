@@ -5,7 +5,7 @@ Allow the web to use all available page layouts
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void AllowAllPageLayouts(Web web)
+public static void AllowAllPageLayouts(Web web)
 ```
 ### Parameters
 *web*  

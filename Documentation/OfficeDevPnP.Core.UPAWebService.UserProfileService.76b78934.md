@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void remove_GetUserOrganizationsCompleted(GetUserOrganizationsCompletedEventHandler value)
+public void remove_GetUserOrganizationsCompleted(GetUserOrganizationsCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void RemoveLeader(String accountName)
+public void RemoveLeader(String accountName)
 ```
 ### Parameters
 *accountName*  

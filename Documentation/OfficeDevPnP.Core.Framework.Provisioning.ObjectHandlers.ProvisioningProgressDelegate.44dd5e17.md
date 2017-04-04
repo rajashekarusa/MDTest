@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Invoke(String message, Int32 step, Int32 total)
+public void Invoke(String message, Int32 step, Int32 total)
 ```
 ### Parameters
 *message*  

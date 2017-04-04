@@ -5,7 +5,7 @@ Get's the Azure ASC login end point for the given environment
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String GetAzureADACSEndPoint(AzureEnvironment environment)
+public string GetAzureADACSEndPoint(AzureEnvironment environment)
 ```
 ### Parameters
 *environment*  

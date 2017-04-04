@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void Warning(String source, Exception ex, String message, Object[] args)
+public static void Warning(String source, Exception ex, String message, Object[] args)
 ```
 ### Parameters
 *source*  

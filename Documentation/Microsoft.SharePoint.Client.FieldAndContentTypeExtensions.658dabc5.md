@@ -5,7 +5,7 @@ Set's default content type list.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetDefaultContentTypeToList(Web web, String listTitle, ContentType contentType)
+public static void SetDefaultContentTypeToList(Web web, String listTitle, ContentType contentType)
 ```
 ### Parameters
 *web*  

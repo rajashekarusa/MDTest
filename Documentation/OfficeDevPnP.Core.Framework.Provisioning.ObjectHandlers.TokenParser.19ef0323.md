@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Rebase(Web web)
+public void Rebase(Web web)
 ```
 ### Parameters
 *web*  

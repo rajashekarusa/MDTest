@@ -5,7 +5,7 @@ Registers a remote event receiver
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.EventReceiverDefinition AddRemoteEventReceiver(Web web, String name, String url, EventReceiverType eventReceiverType, EventReceiverSynchronization synchronization, Boolean force)
+public static EventReceiverDefinition AddRemoteEventReceiver(Web web, String name, String url, EventReceiverType eventReceiverType, EventReceiverSynchronization synchronization, Boolean force)
 ```
 ### Parameters
 *web*  

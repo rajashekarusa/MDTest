@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Commit()
+public void Commit()
 ```
 ### Return Value
 Type: System.Void  

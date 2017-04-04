@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddRange(IEnumerable collection)
+public void AddRange(IEnumerable collection)
 ```
 ### Parameters
 *collection*  

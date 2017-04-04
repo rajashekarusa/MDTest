@@ -5,7 +5,7 @@ Returns Yammer groups based on the access token. All groups are returned for reg
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.YammerGroup> GetYammerGroups(String accessToken)
+public static list<yammergroup> GetYammerGroups(String accessToken)
 ```
 ### Parameters
 *accessToken*  

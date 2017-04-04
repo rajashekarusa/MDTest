@@ -5,7 +5,7 @@ Can be used to create taxonomy field remotely to web.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Microsoft.SharePoint.Client.Field CreateTaxonomyField(Web web, TaxonomyFieldCreationInformation fieldCreationInformation)
+public static Field CreateTaxonomyField(Web web, TaxonomyFieldCreationInformation fieldCreationInformation)
 ```
 ### Parameters
 *web*  

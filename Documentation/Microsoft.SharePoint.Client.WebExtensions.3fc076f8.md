@@ -5,7 +5,7 @@ Queues a web for a full crawl the next incremental/continous crawl
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void ReIndexWeb(Web web)
+public static void ReIndexWeb(Web web)
 ```
 ### Parameters
 *web*  

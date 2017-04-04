@@ -5,7 +5,7 @@ Get's the Azure AD login end point for the given environment
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.String GetAzureADLoginEndPoint(AzureEnvironment environment)
+public string GetAzureADLoginEndPoint(AzureEnvironment environment)
 ```
 ### Parameters
 *environment*  

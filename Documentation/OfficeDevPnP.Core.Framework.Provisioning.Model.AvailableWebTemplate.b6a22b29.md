@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean Equals(AvailableWebTemplate other)
+public boolean Equals(AvailableWebTemplate other)
 ```
 ### Parameters
 *other*  

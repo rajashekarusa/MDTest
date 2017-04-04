@@ -5,7 +5,7 @@ Checks if the subfolder exists.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean FolderExists(Folder parentFolder, String folderName)
+public static boolean FolderExists(Folder parentFolder, String folderName)
 ```
 ### Parameters
 *parentFolder*  

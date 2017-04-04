@@ -5,7 +5,7 @@ Adds a blank Wiki page to the site pages library
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.String AddWikiPage(Web web, String wikiPageLibraryName, String wikiPageName)
+public static string AddWikiPage(Web web, String wikiPageLibraryName, String wikiPageName)
 ```
 ### Parameters
 *web*  

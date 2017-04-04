@@ -5,7 +5,7 @@ Checks out a file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CheckOutFile(Web web, String serverRelativeUrl)
+public static void CheckOutFile(Web web, String serverRelativeUrl)
 ```
 ### Parameters
 *web*  

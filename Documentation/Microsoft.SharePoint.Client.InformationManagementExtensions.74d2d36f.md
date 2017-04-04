@@ -5,7 +5,7 @@ Gets the site closure date
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.DateTime GetSiteCloseDate(Web web)
+public static datetime GetSiteCloseDate(Web web)
 ```
 ### Parameters
 *web*  

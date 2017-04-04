@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void AddLeaderAsync(String accountName)
+public void AddLeaderAsync(String accountName)
 ```
 ### Parameters
 *accountName*  

@@ -5,7 +5,7 @@ Create list views based on xml structure loaded to memory
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void CreateViewsFromXML(Web web, String listUrl, XmlDocument xmlDoc)
+public static void CreateViewsFromXML(Web web, String listUrl, XmlDocument xmlDoc)
 ```
 ### Parameters
 *web*  

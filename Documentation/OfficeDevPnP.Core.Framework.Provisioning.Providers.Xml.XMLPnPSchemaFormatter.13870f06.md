@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Boolean IsValid(Stream template)
+public boolean IsValid(Stream template)
 ```
 ### Parameters
 *template*  

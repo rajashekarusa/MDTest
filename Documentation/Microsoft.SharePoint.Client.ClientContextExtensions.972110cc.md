@@ -5,7 +5,7 @@ Checks the server library version of the context for a minimally required versio
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, String minimallyRequiredVersion)
+public static boolean HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, String minimallyRequiredVersion)
 ```
 ### Parameters
 *clientContext*  

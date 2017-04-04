@@ -8,7 +8,7 @@ Enable Social Settings Likes/Ratings on list.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Void SetRating(List list, VotingExperience experience)
+public static void SetRating(List list, VotingExperience experience)
 ```
 ### Parameters
 *list*  

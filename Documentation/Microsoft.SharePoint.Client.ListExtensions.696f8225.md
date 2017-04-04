@@ -5,7 +5,7 @@ Checks if list exists on the particular site based on the list Title property.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static System.Boolean ListExists(Web web, String listTitle)
+public static boolean ListExists(Web web, String listTitle)
 ```
 ### Parameters
 *web*  

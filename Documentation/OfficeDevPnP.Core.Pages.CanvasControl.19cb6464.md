@@ -5,7 +5,7 @@ Removes the control from the page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void Delete()
+public void Delete()
 ```
 ### Return Value
 Type: System.Void  

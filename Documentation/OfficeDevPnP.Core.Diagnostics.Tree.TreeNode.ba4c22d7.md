@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public System.Void SetParent(ITreeNode node, Boolean updateChildNodes)
+public void SetParent(ITreeNode node, Boolean updateChildNodes)
 ```
 ### Parameters
 *node*  
