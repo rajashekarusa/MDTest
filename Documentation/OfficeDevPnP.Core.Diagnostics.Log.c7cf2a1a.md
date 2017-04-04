@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void Debug(LogEntry logEntry)
+public static System.Void Debug(LogEntry logEntry)
 ```
 ### Parameters
 *logEntry*  

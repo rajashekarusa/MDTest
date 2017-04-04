@@ -17,8 +17,8 @@ public class RoleDefinition
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Permissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.Permissions.md) | 
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.Name.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.Description.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.Name.md) | 
+| [Permissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.Permissions.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

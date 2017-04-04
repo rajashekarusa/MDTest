@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase Connector { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase Connector { set; }
+public FileConnectorBase Connector { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)  
 
 ## See also
-- [TemplateProviderBase](TemplateProviderBase.md) 
-
+- [TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

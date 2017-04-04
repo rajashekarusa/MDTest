@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem TaxonomyItem { get; }
-public Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem TaxonomyItem { set; }
+public TaxonomyItem TaxonomyItem { get; set; }
 ```
 
 ### Property Value
 Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 
 ## See also
-- [TaxonomyFieldCreationInformation](TaxonomyFieldCreationInformation.md) 
-
+- [TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

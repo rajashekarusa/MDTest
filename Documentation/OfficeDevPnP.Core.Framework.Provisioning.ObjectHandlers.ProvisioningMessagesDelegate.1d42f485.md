@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public iasyncresult BeginInvoke(String message,ProvisioningMessageType messageType,AsyncCallback callback,Object object)
+public System.IAsyncResult BeginInvoke(String message, ProvisioningMessageType messageType, AsyncCallback callback, Object object)
 ```
 ### Parameters
 *message*  
@@ -11,7 +11,7 @@ public iasyncresult BeginInvoke(String message,ProvisioningMessageType messageTy
 &emsp;&emsp;  
   
 *messageType*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType.md)  
 &emsp;&emsp;  
   
 *callback*  

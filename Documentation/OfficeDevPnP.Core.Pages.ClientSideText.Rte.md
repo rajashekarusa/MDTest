@@ -10,6 +10,5 @@ public string Rte { get; }
 Type: System.String  
 
 ## See also
-- [ClientSideText](ClientSideText.md) 
-
+- [ClientSideText](OfficeDevPnP.Core.Pages.ClientSideText.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

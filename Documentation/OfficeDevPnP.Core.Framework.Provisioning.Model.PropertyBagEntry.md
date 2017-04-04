@@ -15,15 +15,15 @@ public class PropertyBagEntry: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Key](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Key.md) | 
-| [Value](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Value.md) | 
 | [Indexed](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Indexed.md) | 
+| [Key](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Key.md) | 
 | [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Overwrite.md) | 
+| [Value](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.Value.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.3520ddbb.md) | 
 | [Equals(PropertyBagEntry)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.1216fb2c.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetProfileSchemaAsync(String schemaName)
+public System.Void GetProfileSchemaAsync(String schemaName)
 ```
 ### Parameters
 *schemaName*  

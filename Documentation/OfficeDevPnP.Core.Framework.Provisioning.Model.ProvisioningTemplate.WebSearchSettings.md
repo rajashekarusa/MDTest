@@ -5,14 +5,12 @@ The Web level Search Settings for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string WebSearchSettings { get; }
-public string WebSearchSettings { set; }
+public string WebSearchSettings { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ProvisioningTemplate](ProvisioningTemplate.md) 
-
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

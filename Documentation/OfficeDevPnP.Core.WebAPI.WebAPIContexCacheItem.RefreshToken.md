@@ -5,14 +5,12 @@ The SharePoint Refresh token
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string RefreshToken { get; }
-public string RefreshToken { set; }
+public string RefreshToken { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebAPIContexCacheItem](WebAPIContexCacheItem.md) 
-
+- [WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

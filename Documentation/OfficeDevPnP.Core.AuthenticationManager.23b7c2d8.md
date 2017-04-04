@@ -5,7 +5,7 @@ Refreshes the SharePoint FedAuth cookie
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RefreshADFSUserNameMixedAuthenticatedContext(String siteUrl,String user,String password,String domain,String sts,String idpId,Int32 logonTokenCacheExpirationWindow)
+public System.Void RefreshADFSUserNameMixedAuthenticatedContext(String siteUrl, String user, String password, String domain, String sts, String idpId, Int32 logonTokenCacheExpirationWindow)
 ```
 ### Parameters
 *siteUrl*  

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist<system.object> schools { get; }
-public collections.generic.ilist<system.object> schools { set; }
+public ilist<object> schools { get; set; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
-- [YammerUser](YammerUser.md) 
-
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

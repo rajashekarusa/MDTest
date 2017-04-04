@@ -5,7 +5,7 @@ Creates web part entity with the Yammer group structure on it
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetYammerGroupDiscussionPart(String yammerNetworkName,Int32 yammerGroupId,Boolean showHeader,Boolean showFooter)
+public static OfficeDevPnP.Core.Entities.WebPartEntity GetYammerGroupDiscussionPart(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter)
 ```
 ### Parameters
 *yammerNetworkName*  

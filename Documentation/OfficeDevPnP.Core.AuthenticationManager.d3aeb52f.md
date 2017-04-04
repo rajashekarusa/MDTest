@@ -5,7 +5,7 @@ Returns a SharePoint on-premises / SharePoint Online Dedicated ClientContext obj
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetNetworkCredentialAuthenticatedContext(String siteUrl,String user,String password,String domain)
+public Microsoft.SharePoint.Client.ClientContext GetNetworkCredentialAuthenticatedContext(String siteUrl, String user, String password, String domain)
 ```
 ### Parameters
 *siteUrl*  

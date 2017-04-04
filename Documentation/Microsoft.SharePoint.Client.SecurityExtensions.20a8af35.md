@@ -5,7 +5,7 @@ Remove a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveGroup(Web web,String groupName)
+public static System.Void RemoveGroup(Web web, String groupName)
 ```
 ### Parameters
 *web*  

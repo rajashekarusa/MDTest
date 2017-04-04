@@ -23,8 +23,8 @@ public class ContentTypeBinding: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.3520ddbb.md) | 
 | [Equals(ContentTypeBinding)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.5d983b29.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

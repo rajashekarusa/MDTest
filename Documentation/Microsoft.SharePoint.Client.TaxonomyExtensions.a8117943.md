@@ -5,7 +5,7 @@ Returns a new taxonomy session for the current site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetTaxonomySession(Site site)
+public static Microsoft.SharePoint.Client.Taxonomy.TaxonomySession GetTaxonomySession(Site site)
 ```
 ### Parameters
 *site*  

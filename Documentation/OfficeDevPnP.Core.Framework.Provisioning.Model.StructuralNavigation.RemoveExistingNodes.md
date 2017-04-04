@@ -5,14 +5,12 @@ Defines whether to remove existing nodes before creating those described through
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RemoveExistingNodes { get; }
-public boolean RemoveExistingNodes { set; }
+public boolean RemoveExistingNodes { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [StructuralNavigation](StructuralNavigation.md) 
-
+- [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

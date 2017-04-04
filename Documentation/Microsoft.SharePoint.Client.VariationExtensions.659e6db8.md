@@ -5,7 +5,7 @@ Wait for the variation label creation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void WaitForVariationLabelCreation(ClientContext context,VariationLabelEntity variationLabel)
+public static System.Void WaitForVariationLabelCreation(ClientContext context, VariationLabelEntity variationLabel)
 ```
 ### Parameters
 *context*  

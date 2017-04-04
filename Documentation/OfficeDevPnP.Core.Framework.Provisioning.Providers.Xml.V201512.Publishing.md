@@ -17,9 +17,9 @@ public class Publishing
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.DesignPackage.md) | 
-| [AvailableWebTemplates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.AvailableWebTemplates.md) | 
-| [PageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.PageLayouts.md) | 
 | [AutoCheckRequirements](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.AutoCheckRequirements.md) | 
+| [AvailableWebTemplates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.AvailableWebTemplates.md) | 
+| [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.DesignPackage.md) | 
+| [PageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.PageLayouts.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

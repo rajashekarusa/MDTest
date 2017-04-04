@@ -15,8 +15,8 @@ public class YammerUserStats
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [following](OfficeDevPnP.Core.Entities.YammerUserStats.following.md) | 
 | [followers](OfficeDevPnP.Core.Entities.YammerUserStats.followers.md) | 
+| [following](OfficeDevPnP.Core.Entities.YammerUserStats.following.md) | 
 | [updates](OfficeDevPnP.Core.Entities.YammerUserStats.updates.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

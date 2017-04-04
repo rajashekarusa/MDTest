@@ -5,7 +5,7 @@ Share site for a person using just email. Will resolve needed people picker JSON
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ShareSite(Web web,String email,Group group,Boolean sendEmail,String emailBody)
+public static Microsoft.SharePoint.Client.SharingResult ShareSite(Web web, String email, Group group, Boolean sendEmail, String emailBody)
 ```
 ### Parameters
 *web*  

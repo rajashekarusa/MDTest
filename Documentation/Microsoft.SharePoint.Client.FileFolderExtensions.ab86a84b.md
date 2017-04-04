@@ -5,7 +5,7 @@ Approves a file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ApproveFile(Web web,String serverRelativeUrl,String comment)
+public static System.Void ApproveFile(Web web, String serverRelativeUrl, String comment)
 ```
 ### Parameters
 *web*  

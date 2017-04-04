@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate[] AvailableWebTemplates { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate[] AvailableWebTemplates { set; }
+public PublishingWebTemplate[] AvailableWebTemplates { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingW
 ## Remarks 
 
 ## See also
-- [Publishing](Publishing.md) 
-
+- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

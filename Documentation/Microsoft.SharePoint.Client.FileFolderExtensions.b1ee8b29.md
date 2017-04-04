@@ -5,7 +5,7 @@ Converts a folder with the given name as a child of the List RootFolder.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ConvertFolderToDocumentSet(List list,String folderName)
+public static Microsoft.SharePoint.Client.Folder ConvertFolderToDocumentSet(List list, String folderName)
 ```
 ### Parameters
 *list*  

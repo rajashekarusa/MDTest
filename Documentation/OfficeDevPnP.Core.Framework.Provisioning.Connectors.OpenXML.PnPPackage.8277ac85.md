@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void ClearFiles()
+public System.Void ClearFiles()
 ```
 ### Return Value
 Type: System.Void  

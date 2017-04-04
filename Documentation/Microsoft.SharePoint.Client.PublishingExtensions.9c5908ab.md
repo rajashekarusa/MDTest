@@ -5,7 +5,7 @@ Creates an Image Rendition if the name of the Image Rendition doesn't already ex
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreatePublishingImageRendition(Web web,String imageRenditionName,Int32 imageRenditionWidth,Int32 imageRenditionHeight)
+public static System.Void CreatePublishingImageRendition(Web web, String imageRenditionName, Int32 imageRenditionWidth, Int32 imageRenditionHeight)
 ```
 ### Parameters
 *web*  

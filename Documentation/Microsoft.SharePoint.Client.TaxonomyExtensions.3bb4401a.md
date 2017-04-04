@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ImportTermSet(TermGroup termGroup,String filePath,Guid termSetId,Boolean synchroniseDeletions,Nullable<Boolean> termSetIsOpen,String termSetContact,String termSetOwner)
+public static Microsoft.SharePoint.Client.Taxonomy.TermSet ImportTermSet(TermGroup termGroup, String filePath, Guid termSetId, Boolean synchroniseDeletions, Nullable<Boolean> termSetIsOpen, String termSetContact, String termSetOwner)
 ```
 ### Parameters
 *termGroup*  

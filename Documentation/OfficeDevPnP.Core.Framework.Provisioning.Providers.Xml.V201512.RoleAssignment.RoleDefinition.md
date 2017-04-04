@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string RoleDefinition { get; }
-public string RoleDefinition { set; }
+public string RoleDefinition { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [RoleAssignment](RoleAssignment.md) 
-
+- [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

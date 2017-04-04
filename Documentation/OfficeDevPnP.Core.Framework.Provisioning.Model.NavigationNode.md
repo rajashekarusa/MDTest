@@ -17,15 +17,15 @@ public class NavigationNode: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [IsExternal](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.IsExternal.md) | Defines whether the Navigation Node for the Structural Navigation targets an External resource
 | [NavigationNodes](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.NavigationNodes.md) | A collection of navigation nodes children of the current NavigatioNode
 | [Title](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.Title.md) | Defines the Title of a Navigation Node
 | [Url](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.Url.md) | Defines the Url of a Navigation Node
-| [IsExternal](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.IsExternal.md) | Defines whether the Navigation Node for the Structural Navigation targets an External resource
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.3520ddbb.md) | 
 | [Equals(NavigationNode)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.d9f2b69a.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

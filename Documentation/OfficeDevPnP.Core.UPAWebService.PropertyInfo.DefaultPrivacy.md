@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.Privacy DefaultPrivacy { get; }
-public OfficeDevPnP.Core.UPAWebService.Privacy DefaultPrivacy { set; }
+public Privacy DefaultPrivacy { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.Privacy
 ## Remarks 
 
 ## See also
-- [PropertyInfo](PropertyInfo.md) 
-
+- [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

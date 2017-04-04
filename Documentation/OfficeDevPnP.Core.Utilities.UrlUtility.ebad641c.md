@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ReplaceInvalidUrlChars(String content,String replacer)
+public static System.String ReplaceInvalidUrlChars(String content, String replacer)
 ```
 ### Parameters
 *content*  

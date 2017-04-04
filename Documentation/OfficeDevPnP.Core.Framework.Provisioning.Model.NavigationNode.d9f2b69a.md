@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(NavigationNode other)
+public System.Boolean Equals(NavigationNode other)
 ```
 ### Parameters
 *other*  

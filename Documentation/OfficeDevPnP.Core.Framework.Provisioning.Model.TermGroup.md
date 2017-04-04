@@ -16,18 +16,18 @@ public class TermGroup: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Id](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Id.md) | The ID of the TermGroup
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Name.md) | The Name of the TermGroup
-| [Description](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Description.md) | The Description of the TermGroup
-| [SiteCollectionTermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.SiteCollectionTermGroup.md) | Is this a site collection term group
 | [Contributors](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Contributors.md) | List of TermGroup Contributors
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Description.md) | The Description of the TermGroup
+| [Id](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Id.md) | The ID of the TermGroup
 | [Managers](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Managers.md) | List of TermGroup Managers
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.Name.md) | The Name of the TermGroup
+| [SiteCollectionTermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.SiteCollectionTermGroup.md) | Is this a site collection term group
 | [TermSets](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.TermSets.md) | The collection of TermSet items in the TermGroup
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.3520ddbb.md) | 
 | [Equals(TermGroup)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.2061d3d1.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.ValueData[] Values { get; }
-public OfficeDevPnP.Core.UPAWebService.ValueData[] Values { set; }
+public ValueData[] Values { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.ValueData[]
 ## Remarks 
 
 ## See also
-- [PropertyData](PropertyData.md) 
-
+- [PropertyData](OfficeDevPnP.Core.UPAWebService.PropertyData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -19,8 +19,8 @@ public class View: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.3520ddbb.md) | 
 | [Equals(View)](OfficeDevPnP.Core.Framework.Provisioning.Model.View.d29f207d.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

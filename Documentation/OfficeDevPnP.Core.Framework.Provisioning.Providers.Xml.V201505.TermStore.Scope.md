@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreScope Scope { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreScope Scope { set; }
+public TermStoreScope Scope { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStoreSc
 ## Remarks 
 
 ## See also
-- [TermStore](TermStore.md) 
-
+- [TermStore](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermStore.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

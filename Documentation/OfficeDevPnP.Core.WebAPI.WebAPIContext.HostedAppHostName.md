@@ -5,14 +5,12 @@ If the AppWebUrl is null then this value will be used. Needed to obtain an acces
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string HostedAppHostName { get; }
-public string HostedAppHostName { set; }
+public string HostedAppHostName { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebAPIContext](WebAPIContext.md) 
-
+- [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

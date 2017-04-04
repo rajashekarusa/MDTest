@@ -5,14 +5,12 @@ Gets or sets the URL of the image associated with the custom action.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ImageUrl { get; }
-public string ImageUrl { set; }
+public string ImageUrl { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

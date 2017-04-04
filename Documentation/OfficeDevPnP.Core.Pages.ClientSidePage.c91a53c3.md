@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  InstantiateDefaultWebPart(DefaultClientSideWebParts webPart)
+public OfficeDevPnP.Core.Pages.ClientSideWebPart InstantiateDefaultWebPart(DefaultClientSideWebParts webPart)
 ```
 ### Parameters
 *webPart*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Pages.DefaultClientSideWebParts  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts](OfficeDevPnP.Core.Pages.DefaultClientSideWebParts.md)  
 &emsp;&emsp;  
   
 ### Return Value

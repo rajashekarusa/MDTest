@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string type { get; }
-public string type { set; }
+public string type { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUserHomeTab](YammerUserHomeTab.md) 
-
+- [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,7 +5,7 @@ Finds an item matching a search predicate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  Find(Predicate match)
+public T Find(Predicate match)
 ```
 ### Parameters
 *match*  

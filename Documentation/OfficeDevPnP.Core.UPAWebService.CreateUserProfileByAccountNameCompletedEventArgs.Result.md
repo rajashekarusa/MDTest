@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PropertyData[] Result { get; }
+public PropertyData[] Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]
 ## Remarks 
 
 ## See also
-- [CreateUserProfileByAccountNameCompletedEventArgs](CreateUserProfileByAccountNameCompletedEventArgs.md) 
-
+- [CreateUserProfileByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

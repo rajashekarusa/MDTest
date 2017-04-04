@@ -15,8 +15,8 @@ public class UserEntity
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Title](OfficeDevPnP.Core.Entities.UserEntity.Title.md) | 
 | [Email](OfficeDevPnP.Core.Entities.UserEntity.Email.md) | 
 | [LoginName](OfficeDevPnP.Core.Entities.UserEntity.LoginName.md) | 
+| [Title](OfficeDevPnP.Core.Entities.UserEntity.Title.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

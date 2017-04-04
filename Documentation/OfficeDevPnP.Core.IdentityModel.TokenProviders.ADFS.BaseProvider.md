@@ -16,8 +16,5 @@ public class BaseProvider
 |**Name**|**Description**|
 |:-----|:-----|
 | [BaseProvider()](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider.ctor1.md) |  Base class for active SAML based authentication 
-## Methods
-|**Name**|**Description**|
-|:-----|:-----|
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.md)

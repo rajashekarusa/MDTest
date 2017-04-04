@@ -18,8 +18,8 @@ public class Leader
 |**Name**|**Description**|
 |:-----|:-----|
 | [AccountName](OfficeDevPnP.Core.UPAWebService.Leader.AccountName.md) | 
-| [Valid](OfficeDevPnP.Core.UPAWebService.Leader.Valid.md) | 
 | [ManagerAccountName](OfficeDevPnP.Core.UPAWebService.Leader.ManagerAccountName.md) | 
 | [ReportCount](OfficeDevPnP.Core.UPAWebService.Leader.ReportCount.md) | 
+| [Valid](OfficeDevPnP.Core.UPAWebService.Leader.Valid.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

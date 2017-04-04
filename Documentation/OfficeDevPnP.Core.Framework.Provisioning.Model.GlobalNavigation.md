@@ -22,8 +22,8 @@ public class GlobalNavigation: BaseNavigationKind
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.3520ddbb.md) | 
 | [Equals(GlobalNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.58417704.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

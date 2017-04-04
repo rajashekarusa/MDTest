@@ -17,8 +17,8 @@ public class GetUserColleaguesCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserColleaguesCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.a614fc09.md) | 
 | [BeginInvoke(Object, GetUserColleaguesCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.8d3613a5.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserColleaguesCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventHandler.a614fc09.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

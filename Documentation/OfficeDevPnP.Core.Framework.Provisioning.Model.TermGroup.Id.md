@@ -5,14 +5,12 @@ The ID of the TermGroup
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; }
-public guid Id { set; }
+public guid Id { get; set; }
 ```
 
 ### Property Value
 Type: System.Guid  
 
 ## See also
-- [TermGroup](TermGroup.md) 
-
+- [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

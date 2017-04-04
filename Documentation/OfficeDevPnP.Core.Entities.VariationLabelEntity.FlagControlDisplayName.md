@@ -5,14 +5,12 @@ The flag to control display name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string FlagControlDisplayName { get; }
-public string FlagControlDisplayName { set; }
+public string FlagControlDisplayName { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [VariationLabelEntity](VariationLabelEntity.md) 
-
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

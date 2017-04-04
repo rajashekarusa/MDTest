@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<system.guid> TermSetId { get; }
-public nullable<system.guid> TermSetId { set; }
+public nullable<guid> TermSetId { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Nullable<System.Guid>
 ## Remarks 
 
 ## See also
-- [PropertyInfo](PropertyInfo.md) 
-
+- [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

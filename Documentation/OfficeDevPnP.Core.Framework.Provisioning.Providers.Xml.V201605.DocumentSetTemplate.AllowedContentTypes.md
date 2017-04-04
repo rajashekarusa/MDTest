@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateAllowedContentType[] AllowedContentTypes { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateAllowedContentType[] AllowedContentTypes { set; }
+public DocumentSetTemplateAllowedContentType[] AllowedContentTypes { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSet
 ## Remarks 
 
 ## See also
-- [DocumentSetTemplate](DocumentSetTemplate.md) 
-
+- [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

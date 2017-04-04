@@ -17,8 +17,8 @@ public class DocumentSetTemplateDefaultDocument
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateDefaultDocument.Name.md) | 
 | [ContentTypeID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateDefaultDocument.ContentTypeID.md) | 
 | [FileSourcePath](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateDefaultDocument.FileSourcePath.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateDefaultDocument.Name.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

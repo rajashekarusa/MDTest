@@ -24,8 +24,8 @@ public class Localization: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.3520ddbb.md) | 
 | [Equals(Localization)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.8ae42b7d.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

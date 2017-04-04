@@ -5,7 +5,7 @@ Recursively applies the specified palette, font, and background image.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetThemeByUrl(Web web,String paletteServerRelativeUrl,String fontServerRelativeUrl,String backgroundServerRelativeUrl,Boolean resetSubsitesToInherit,Boolean updateRootOnly)
+public static System.Void SetThemeByUrl(Web web, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
 ```
 ### Parameters
 *web*  

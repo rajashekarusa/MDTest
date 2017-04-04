@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegionalSettings RegionalSettings { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegionalSettings RegionalSettings { set; }
+public RegionalSettings RegionalSettings { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegionalSe
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplate](ProvisioningTemplate.md) 
-
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

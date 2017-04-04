@@ -5,14 +5,12 @@ The Locale ID of a Localization Language
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int LCID { get; }
-public int LCID { set; }
+public int LCID { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [Localization](Localization.md) 
-
+- [Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

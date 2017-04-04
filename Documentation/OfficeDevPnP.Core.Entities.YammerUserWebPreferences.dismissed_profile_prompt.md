@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean dismissed_profile_prompt { get; }
-public boolean dismissed_profile_prompt { set; }
+public boolean dismissed_profile_prompt { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [YammerUserWebPreferences](YammerUserWebPreferences.md) 
-
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

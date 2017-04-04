@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; }
-public guid Id { set; }
+public guid Id { get; set; }
 ```
 
 ### Property Value
 Type: System.Guid  
 
 ## See also
-- [TermSet](TermSet.md) 
-
+- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -7,7 +7,7 @@ public Tree(T RootValue)
 ```
 ### Parameters
 #### RootValue
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

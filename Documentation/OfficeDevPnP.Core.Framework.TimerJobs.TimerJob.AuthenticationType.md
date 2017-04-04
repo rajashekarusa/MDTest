@@ -6,13 +6,12 @@ Gets the authentication type that the timer job will use. This will be set as pa
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType AuthenticationType { get; }
+public AuthenticationType AuthenticationType { get; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -5,7 +5,7 @@ Checks in a file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CheckInFile(Web web,String serverRelativeUrl,CheckinType checkinType,String comment)
+public static System.Void CheckInFile(Web web, String serverRelativeUrl, CheckinType checkinType, String comment)
 ```
 ### Parameters
 *web*  

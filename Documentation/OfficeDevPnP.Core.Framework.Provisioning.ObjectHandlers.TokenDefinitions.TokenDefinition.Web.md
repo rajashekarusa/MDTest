@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.Web Web { get; }
-public Microsoft.SharePoint.Client.Web Web { set; }
+public Web Web { get; set; }
 ```
 
 ### Property Value
 Type: Microsoft.SharePoint.Client.Web  
 
 ## See also
-- [TokenDefinition](TokenDefinition.md) 
-
+- [TokenDefinition](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

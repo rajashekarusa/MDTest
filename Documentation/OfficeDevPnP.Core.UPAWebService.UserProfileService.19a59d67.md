@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RemoveAllLinksAsync(String accountName)
+public System.Void RemoveAllLinksAsync(String accountName)
 ```
 ### Parameters
 *accountName*  

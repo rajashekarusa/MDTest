@@ -5,7 +5,7 @@ Checks if a group exists
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean GroupExists(Web web,String groupName)
+public static System.Boolean GroupExists(Web web, String groupName)
 ```
 ### Parameters
 *web*  

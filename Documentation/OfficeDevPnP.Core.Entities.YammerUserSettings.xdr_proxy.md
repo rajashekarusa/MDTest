@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string xdr_proxy { get; }
-public string xdr_proxy { set; }
+public string xdr_proxy { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUserSettings](YammerUserSettings.md) 
-
+- [YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

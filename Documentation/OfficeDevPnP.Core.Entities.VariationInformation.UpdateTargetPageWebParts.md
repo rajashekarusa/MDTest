@@ -6,14 +6,12 @@ Update Target Page Web Parts
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UpdateTargetPageWebParts { get; }
-public boolean UpdateTargetPageWebParts { set; }
+public boolean UpdateTargetPageWebParts { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [VariationInformation](VariationInformation.md) 
-
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,7 +5,7 @@ Set Custom master page by using given URL as parameter. Suitable for example in 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetCustomMasterPageByUrl(Web web,String masterPageServerRelativeUrl,Boolean resetSubsitesToInherit,Boolean updateRootOnly)
+public static System.Void SetCustomMasterPageByUrl(Web web, String masterPageServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
 ```
 ### Parameters
 *web*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string OrderBy(OrderByField[] fieldRefs)
+public static System.String OrderBy(OrderByField[] fieldRefs)
 ```
 ### Parameters
 *fieldRefs*  

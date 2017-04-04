@@ -17,8 +17,8 @@ public class AddColleagueWithoutEmailNotificationCompletedEventHandler: Multicas
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.5b32bfc2.md) | 
 | [BeginInvoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.d70ae3d2.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AddColleagueWithoutEmailNotificationCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.5b32bfc2.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

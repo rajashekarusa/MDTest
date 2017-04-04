@@ -10,6 +10,5 @@ public boolean SupportsSave { get; }
 Type: System.Boolean  
 
 ## See also
-- [TemplateProviderBase](TemplateProviderBase.md) 
-
+- [TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

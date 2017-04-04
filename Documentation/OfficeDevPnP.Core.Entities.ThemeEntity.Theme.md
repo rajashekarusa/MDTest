@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Theme { get; }
-public string Theme { set; }
+public string Theme { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ThemeEntity](ThemeEntity.md) 
-
+- [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

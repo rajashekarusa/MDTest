@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean TrimAuditLog { get; }
-public boolean TrimAuditLog { set; }
+public boolean TrimAuditLog { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [AuditSettings](AuditSettings.md) 
-
+- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

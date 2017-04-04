@@ -17,9 +17,9 @@ public class Templates
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ID.md) | 
+| [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ProvisioningTemplate.md) | 
 | [ProvisioningTemplateFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ProvisioningTemplateFile.md) | 
 | [ProvisioningTemplateReference](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ProvisioningTemplateReference.md) | 
-| [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ProvisioningTemplate.md) | 
-| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

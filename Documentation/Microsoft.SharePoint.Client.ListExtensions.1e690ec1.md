@@ -5,7 +5,7 @@ Get int typed property bag value. If does not contain, returns default value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static nullable<system.int32> GetPropertyBagValueInt(List list,String key,Int32 defaultValue)
+public static System.Nullable`1<System.Int32> GetPropertyBagValueInt(List list, String key, Int32 defaultValue)
 ```
 ### Parameters
 *list*  

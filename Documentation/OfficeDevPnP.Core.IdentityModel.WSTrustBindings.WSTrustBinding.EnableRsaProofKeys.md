@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableRsaProofKeys { get; }
-public boolean EnableRsaProofKeys { set; }
+public boolean EnableRsaProofKeys { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [WSTrustBinding](WSTrustBinding.md) 
-
+- [WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md) 
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

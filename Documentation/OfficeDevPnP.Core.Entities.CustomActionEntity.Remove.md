@@ -5,14 +5,12 @@ Indicates if the custom action will need to be removed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove { get; }
-public boolean Remove { set; }
+public boolean Remove { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

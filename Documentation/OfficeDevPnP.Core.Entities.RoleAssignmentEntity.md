@@ -15,16 +15,16 @@ public class RoleAssignmentEntity
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [CreatedDate](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.CreatedDate.md) | 
 | [Path](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Path.md) | 
-| [User](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.User.md) | 
-| [UserTitle](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserTitle.md) | 
-| [UserLoginName](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserLoginName.md) | 
-| [UserEmail](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserEmail.md) | 
+| [Permissions](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Permissions.md) | 
 | [Role](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Role.md) | 
 | [RoleDefinitionBindings](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.RoleDefinitionBindings.md) | 
-| [Permissions](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Permissions.md) | 
 | [Tag](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.Tag.md) | 
-| [CreatedDate](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.CreatedDate.md) | 
+| [User](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.User.md) | 
+| [UserEmail](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserEmail.md) | 
+| [UserLoginName](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserLoginName.md) | 
+| [UserTitle](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.UserTitle.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

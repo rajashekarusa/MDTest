@@ -10,6 +10,5 @@ public int SectionFactor { get; }
 Type: System.Int32  
 
 ## See also
-- [CanvasSection](CanvasSection.md) 
-
+- [CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

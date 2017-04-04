@@ -10,7 +10,7 @@ public interface IProvisioningExtensibilityHandler
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provision(ClientContext, ProvisioningTemplate, ProvisioningTemplateApplyingInformation, TokenParser, PnPMonitoredScope, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityHandler.ProvisionClientContextProvisioningTemplateProvisioningTemplateApplyingInformationTokenParserPnPMonitoredScopeString.md) | Execute custom actions during provisioning of a template
-| [Extract(ClientContext, ProvisioningTemplate, ProvisioningTemplateCreationInformation, PnPMonitoredScope, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityHandler.ExtractClientContextProvisioningTemplateProvisioningTemplateCreationInformationPnPMonitoredScopeString.md) | Execute custom actions during extraction of a template
+| [Extract(ClientContext, ProvisioningTemplate, ProvisioningTemplateCreationInformation, PnPMonitoredScope, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityHandler.4043f5b7.md) | Execute custom actions during extraction of a template
+| [Provision(ClientContext, ProvisioningTemplate, ProvisioningTemplateApplyingInformation, TokenParser, PnPMonitoredScope, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityHandler.f0ca926.md) | Execute custom actions during provisioning of a template
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

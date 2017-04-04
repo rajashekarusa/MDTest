@@ -5,7 +5,7 @@ Provides the timer job with the enumeration credentials. For Office 365 username
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void SetEnumerationCredentials(String userUPN,SecureString password)
+public System.Void SetEnumerationCredentials(String userUPN, SecureString password)
 ```
 ### Parameters
 *userUPN*  

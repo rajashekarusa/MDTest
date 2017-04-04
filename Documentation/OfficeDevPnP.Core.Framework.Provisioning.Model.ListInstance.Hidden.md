@@ -5,14 +5,12 @@ Gets or sets whether to hide the list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Hidden { get; }
-public boolean Hidden { set; }
+public boolean Hidden { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

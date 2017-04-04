@@ -17,10 +17,10 @@ public class AreaNavigationEntity
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [GlobalNavigation](OfficeDevPnP.Core.Entities.AreaNavigationEntity.GlobalNavigation.md) | Specifies the Global Navigation (top bar navigation)
 | [CurrentNavigation](OfficeDevPnP.Core.Entities.AreaNavigationEntity.CurrentNavigation.md) | Specifies the Current Navigation (quick launch navigation)
-| [Sorting](OfficeDevPnP.Core.Entities.AreaNavigationEntity.Sorting.md) | Defines the sorting
+| [GlobalNavigation](OfficeDevPnP.Core.Entities.AreaNavigationEntity.GlobalNavigation.md) | Specifies the Global Navigation (top bar navigation)
 | [SortAscending](OfficeDevPnP.Core.Entities.AreaNavigationEntity.SortAscending.md) | Defines if sorted ascending
 | [SortBy](OfficeDevPnP.Core.Entities.AreaNavigationEntity.SortBy.md) | Defines sorted by value
+| [Sorting](OfficeDevPnP.Core.Entities.AreaNavigationEntity.Sorting.md) | Defines the sorting
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

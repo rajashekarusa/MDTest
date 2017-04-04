@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean LanguageCodeSpecified { get; }
-public boolean LanguageCodeSpecified { set; }
+public boolean LanguageCodeSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [PublishingWebTemplate](PublishingWebTemplate.md) 
-
+- [PublishingWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingWebTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

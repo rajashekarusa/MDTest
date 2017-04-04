@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UpdateMembershipPrivacy(String accountName,Guid sourceInternal,String sourceReference,Privacy newPrivacy)
+public System.Void UpdateMembershipPrivacy(String accountName, Guid sourceInternal, String sourceReference, Privacy newPrivacy)
 ```
 ### Parameters
 *accountName*  
@@ -21,7 +21,7 @@ public void UpdateMembershipPrivacy(String accountName,Guid sourceInternal,Strin
 &emsp;&emsp;  
   
 *newPrivacy*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.Privacy  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 &emsp;&emsp;  
   
 ### Return Value

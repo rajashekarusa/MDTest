@@ -5,14 +5,12 @@ Gets or sets whether moderation/content approval is enabled on the list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableModeration { get; }
-public boolean EnableModeration { set; }
+public boolean EnableModeration { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

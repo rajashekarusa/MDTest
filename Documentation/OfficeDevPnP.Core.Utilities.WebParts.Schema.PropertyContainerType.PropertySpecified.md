@@ -12,6 +12,5 @@ public boolean PropertySpecified { get; }
 Type: System.Boolean  
 
 ## See also
-- [PropertyContainerType](PropertyContainerType.md) 
-
+- [PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

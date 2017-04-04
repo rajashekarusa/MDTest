@@ -5,7 +5,7 @@ Removes a property bag value from the property bag
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemovePropertyBagValue(Web web,String key)
+public static System.Void RemovePropertyBagValue(Web web, String key)
 ```
 ### Parameters
 *web*  

@@ -17,15 +17,15 @@ public class WebSettings
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RequestAccessEmail](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.RequestAccessEmail.md) | 
+| [AlternateCSS](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.AlternateCSS.md) | 
+| [CustomMasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.CustomMasterPageUrl.md) | 
+| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Description.md) | 
+| [MasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.MasterPageUrl.md) | 
 | [NoCrawl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.NoCrawl.md) | 
 | [NoCrawlSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.NoCrawlSpecified.md) | 
-| [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.WelcomePage.md) | 
-| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Title.md) | 
-| [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Description.md) | 
+| [RequestAccessEmail](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.RequestAccessEmail.md) | 
 | [SiteLogo](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.SiteLogo.md) | 
-| [AlternateCSS](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.AlternateCSS.md) | 
-| [MasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.MasterPageUrl.md) | 
-| [CustomMasterPageUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.CustomMasterPageUrl.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.Title.md) | 
+| [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.WelcomePage.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

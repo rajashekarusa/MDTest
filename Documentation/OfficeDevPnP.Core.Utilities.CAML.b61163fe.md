@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Eq(String fieldValue)
+public static System.String Eq(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

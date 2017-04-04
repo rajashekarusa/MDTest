@@ -5,14 +5,12 @@ The current resource usage points
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public double CurrentResourceUsage { get; }
-public double CurrentResourceUsage { set; }
+public double CurrentResourceUsage { get; set; }
 ```
 
 ### Property Value
 Type: System.Double  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

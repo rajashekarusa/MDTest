@@ -33,8 +33,8 @@ public class RegionalSettings: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.3520ddbb.md) | 
 | [Equals(RegionalSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.40755d5c.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

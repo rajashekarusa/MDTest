@@ -5,13 +5,12 @@ The Files Parts of the package
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist<system.io.packaging.packagepart> FilesPackageParts { get; }
+public ilist<packagepart> FilesPackageParts { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.IList<System.IO.Packaging.PackagePart>  
 
 ## See also
-- [PnPPackage](PnPPackage.md) 
-
+- [PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

@@ -6,7 +6,7 @@ Uploads a file to the specified folder by saving the binary directly (via webdav
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  UploadFileWebDav(Folder folder,String fileName,Stream stream,Boolean overwriteIfExists)
+public static Microsoft.SharePoint.Client.File UploadFileWebDav(Folder folder, String fileName, Stream stream, Boolean overwriteIfExists)
 ```
 ### Parameters
 *folder*  

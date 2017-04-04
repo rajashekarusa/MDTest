@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowRequestToJoinLeave { get; }
-public boolean AllowRequestToJoinLeave { set; }
+public boolean AllowRequestToJoinLeave { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [SiteGroup](SiteGroup.md) 
-
+- [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

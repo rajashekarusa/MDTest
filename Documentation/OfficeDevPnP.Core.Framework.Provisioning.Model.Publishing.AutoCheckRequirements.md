@@ -5,14 +5,12 @@ Defines how an engine should behave if the requirements for provisioning publish
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions AutoCheckRequirements { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions AutoCheckRequirements { set; }
+public AutoCheckRequirementsOptions AutoCheckRequirements { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions  
 
 ## See also
-- [Publishing](Publishing.md) 
-
+- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@ Checks if list exists on the particular site based on the list id property.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ListExists(Web web,Guid id)
+public static System.Boolean ListExists(Web web, Guid id)
 ```
 ### Parameters
 *web*  

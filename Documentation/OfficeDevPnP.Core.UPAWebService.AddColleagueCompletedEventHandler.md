@@ -17,8 +17,8 @@ public class AddColleagueCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddColleagueCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.8798beb2.md) | 
 | [BeginInvoke(Object, AddColleagueCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.842f29a4.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AddColleagueCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.8798beb2.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

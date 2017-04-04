@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string PackagePath { get; }
-public string PackagePath { set; }
+public string PackagePath { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [AddInsAddin](AddInsAddin.md) 
-
+- [AddInsAddin](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AddInsAddin.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

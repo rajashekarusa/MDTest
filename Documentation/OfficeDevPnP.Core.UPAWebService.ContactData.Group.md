@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Group { get; }
-public string Group { set; }
+public string Group { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [ContactData](ContactData.md) 
-
+- [ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

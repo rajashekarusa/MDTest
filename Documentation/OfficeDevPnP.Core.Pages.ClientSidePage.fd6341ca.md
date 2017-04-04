@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ienumerable<officedevpnp.core.pages.clientsidecomponent> AvailableClientSideComponents(String name)
+public System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Pages.ClientSideComponent> AvailableClientSideComponents(String name)
 ```
 ### Parameters
 *name*  

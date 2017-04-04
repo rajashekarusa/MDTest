@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PropertyData[] UserProfile { get; }
-public OfficeDevPnP.Core.UPAWebService.PropertyData[] UserProfile { set; }
+public PropertyData[] UserProfile { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]
 ## Remarks 
 
 ## See also
-- [GetUserProfileByIndexResult](GetUserProfileByIndexResult.md) 
-
+- [GetUserProfileByIndexResult](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

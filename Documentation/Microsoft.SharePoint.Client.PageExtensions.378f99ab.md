@@ -5,7 +5,7 @@ Applies a layout to a wiki page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddLayoutToWikiPage(Web web,WikiPageLayout layout,String serverRelativePageUrl)
+public static System.Void AddLayoutToWikiPage(Web web, WikiPageLayout layout, String serverRelativePageUrl)
 ```
 ### Parameters
 *web*  
@@ -13,7 +13,7 @@ public static void AddLayoutToWikiPage(Web web,WikiPageLayout layout,String serv
 &emsp;&emsp;Site to be processed - can be root web or sub site  
   
 *layout*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.WikiPageLayout  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.WikiPageLayout](OfficeDevPnP.Core.WikiPageLayout.md)  
 &emsp;&emsp;Wiki page layout to be applied  
   
 *serverRelativePageUrl*  

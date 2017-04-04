@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation CurrentNavigation { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation CurrentNavigation { set; }
+public NavigationCurrentNavigation CurrentNavigation { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation
 ## Remarks 
 
 ## See also
-- [Navigation](Navigation.md) 
-
+- [Navigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

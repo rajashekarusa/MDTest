@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddFile(String fileName,Byte[] value)
+public System.Void AddFile(String fileName, Byte[] value)
 ```
 ### Parameters
 *fileName*  

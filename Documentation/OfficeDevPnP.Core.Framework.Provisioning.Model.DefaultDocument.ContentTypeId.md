@@ -5,14 +5,12 @@ The value of the ContentTypeID of the Default Document for the Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ContentTypeId { get; }
-public string ContentTypeId { set; }
+public string ContentTypeId { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [DefaultDocument](DefaultDocument.md) 
-
+- [DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

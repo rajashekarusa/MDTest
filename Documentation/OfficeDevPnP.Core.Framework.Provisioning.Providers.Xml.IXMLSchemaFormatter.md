@@ -10,7 +10,7 @@ public interface IXMLSchemaFormatter
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [NamespaceUri](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.NamespaceUri.md) | The URI of the target XML Namespace
 | [NamespacePrefix](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.NamespacePrefix.md) | The default namespace prefix of the target XML Namespace
+| [NamespaceUri](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.NamespaceUri.md) | The URI of the target XML Namespace
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

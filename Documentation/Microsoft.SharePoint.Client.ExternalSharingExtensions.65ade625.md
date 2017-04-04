@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string CreateAnonymousLinkForDocument(Web web,String urlToDocument,ExternalSharingDocumentOption shareOption)
+public static System.String CreateAnonymousLinkForDocument(Web web, String urlToDocument, ExternalSharingDocumentOption shareOption)
 ```
 ### Parameters
 *web*  
@@ -17,7 +17,7 @@ public static string CreateAnonymousLinkForDocument(Web web,String urlToDocument
 &emsp;&emsp;Full URL to the file which is shared  
   
 *shareOption*  
-&emsp;&emsp;Type: Microsoft.SharePoint.Client.ExternalSharingDocumentOption  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;Type of the link to be created - View or Edit  
   
 ### Return Value

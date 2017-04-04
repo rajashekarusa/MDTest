@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OverwriteSpecified { get; }
-public boolean OverwriteSpecified { set; }
+public boolean OverwriteSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [PropertyBagEntry](PropertyBagEntry.md) 
-
+- [PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

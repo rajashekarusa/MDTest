@@ -17,8 +17,8 @@ public class GetUserProfileSchemaCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserProfileSchemaCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.d4078dc7.md) | 
 | [BeginInvoke(Object, GetUserProfileSchemaCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.929544.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserProfileSchemaCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.d4078dc7.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

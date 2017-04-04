@@ -5,13 +5,12 @@ The Files origin
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public io.packaging.packagepart FilesOriginPart { get; }
+public packagepart FilesOriginPart { get; }
 ```
 
 ### Property Value
 Type: System.IO.Packaging.PackagePart  
 
 ## See also
-- [PnPPackage](PnPPackage.md) 
-
+- [PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

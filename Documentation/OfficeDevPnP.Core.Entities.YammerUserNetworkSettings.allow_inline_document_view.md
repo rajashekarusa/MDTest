@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean allow_inline_document_view { get; }
-public boolean allow_inline_document_view { set; }
+public boolean allow_inline_document_view { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 
-
+- [YammerUserNetworkSettings](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

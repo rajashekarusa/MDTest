@@ -5,14 +5,12 @@ The variation label locale
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint32 Locale { get; }
-public uint32 Locale { set; }
+public uint32 Locale { get; set; }
 ```
 
 ### Property Value
 Type: System.UInt32  
 
 ## See also
-- [VariationLabelEntity](VariationLabelEntity.md) 
-
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

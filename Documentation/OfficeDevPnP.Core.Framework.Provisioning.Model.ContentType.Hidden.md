@@ -5,14 +5,12 @@ True to define the content type as hidden. If you define a content type as hidde
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Hidden { get; }
-public boolean Hidden { set; }
+public boolean Hidden { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ContentType](ContentType.md) 
-
+- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

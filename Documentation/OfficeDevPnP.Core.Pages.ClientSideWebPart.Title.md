@@ -5,14 +5,12 @@ Title of the web part
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Title { get; }
-public string Title { set; }
+public string Title { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ClientSideWebPart](ClientSideWebPart.md) 
-
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

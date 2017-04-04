@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Load(ClientContext cc,String pageName)
+public static OfficeDevPnP.Core.Pages.ClientSidePage Load(ClientContext cc, String pageName)
 ```
 ### Parameters
 *cc*  

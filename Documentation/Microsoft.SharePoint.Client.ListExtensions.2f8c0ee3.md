@@ -5,7 +5,7 @@ Sets JS link customization for a list form
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetJSLinkCustomizations(List list,PageType pageType,String jslink)
+public static System.Void SetJSLinkCustomizations(List list, PageType pageType, String jslink)
 ```
 ### Parameters
 *list*  

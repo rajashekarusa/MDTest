@@ -5,13 +5,12 @@ References the parent ProvisioningTemplate for the current provisioning artifact
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate ParentTemplate { get; }
+public ProvisioningTemplate ParentTemplate { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
-- [ProvisioningTemplateDictionary](ProvisioningTemplateDictionary.md) 
-
+- [ProvisioningTemplateDictionary](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

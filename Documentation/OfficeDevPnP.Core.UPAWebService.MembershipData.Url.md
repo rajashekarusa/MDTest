@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Url { get; }
-public string Url { set; }
+public string Url { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [MembershipData](MembershipData.md) 
-
+- [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

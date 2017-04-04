@@ -5,11 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddSuggestions(SuggestionType type,String[] suggestions,Double[] weights)
+public System.Void AddSuggestions(SuggestionType type, String[] suggestions, Double[] weights)
 ```
 ### Parameters
 *type*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.SuggestionType  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.SuggestionType](OfficeDevPnP.Core.UPAWebService.SuggestionType.md)  
 &emsp;&emsp;  
   
 *suggestions*  

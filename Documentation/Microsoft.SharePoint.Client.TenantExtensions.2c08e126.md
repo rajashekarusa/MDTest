@@ -5,7 +5,7 @@ Get OneDrive site collections by iterating through all user profiles.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ilist<officedevpnp.core.entities.siteentity> GetOneDriveSiteCollections(Tenant tenant)
+public static System.Collections.Generic.IList`1<OfficeDevPnP.Core.Entities.SiteEntity> GetOneDriveSiteCollections(Tenant tenant)
 ```
 ### Parameters
 *tenant*  

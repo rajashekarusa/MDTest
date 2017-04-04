@@ -7,7 +7,7 @@ public ExtensiblityPipelineException(String message)
 ```
 ### Parameters
 #### message
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

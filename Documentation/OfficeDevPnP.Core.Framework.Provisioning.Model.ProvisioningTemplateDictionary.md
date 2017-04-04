@@ -18,8 +18,5 @@ public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
 |**Name**|**Description**|
 |:-----|:-----|
 | [ParentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ParentTemplate.md) | References the parent ProvisioningTemplate for the current provisioning artifact
-## Methods
-|**Name**|**Description**|
-|:-----|:-----|
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

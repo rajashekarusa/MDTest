@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ProvisioningTemplateFile[] ProvisioningTemplateFile { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ProvisioningTemplateFile[] ProvisioningTemplateFile { set; }
+public ProvisioningTemplateFile[] ProvisioningTemplateFile { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisionin
 ## Remarks 
 
 ## See also
-- [Templates](Templates.md) 
-
+- [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

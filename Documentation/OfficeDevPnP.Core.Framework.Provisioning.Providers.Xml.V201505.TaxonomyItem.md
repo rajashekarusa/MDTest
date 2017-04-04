@@ -19,7 +19,7 @@ public class TaxonomyItem
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.Name.md) | 
 | [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.ID.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.Name.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

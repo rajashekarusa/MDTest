@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Open(String path,FileMode mode,FileAccess access)
+public static OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage Open(String path, FileMode mode, FileAccess access)
 ```
 ### Parameters
 *path*  

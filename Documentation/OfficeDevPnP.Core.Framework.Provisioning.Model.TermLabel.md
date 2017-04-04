@@ -15,14 +15,14 @@ public class TermLabel: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Language](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.Language.md) | 
 | [IsDefaultForLanguage](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.IsDefaultForLanguage.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.Language.md) | 
 | [Value](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.Value.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.3520ddbb.md) | 
 | [Equals(TermLabel)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.7fc226d.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

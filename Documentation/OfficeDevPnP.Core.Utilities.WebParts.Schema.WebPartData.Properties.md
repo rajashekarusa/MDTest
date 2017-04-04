@@ -5,14 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType Properties { get; }
-public OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType Properties { set; }
+public PropertyContainerType Properties { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md)  
 
 ## See also
-- [WebPartData](WebPartData.md) 
-
+- [WebPartData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

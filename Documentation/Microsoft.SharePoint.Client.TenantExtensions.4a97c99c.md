@@ -5,7 +5,7 @@ Gets the UserProfileService proxy to enable calls to the UPA web service.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetUserProfileServiceClient(Tenant tenant)
+public static OfficeDevPnP.Core.UPAWebService.UserProfileService GetUserProfileServiceClient(Tenant tenant)
 ```
 ### Parameters
 *tenant*  

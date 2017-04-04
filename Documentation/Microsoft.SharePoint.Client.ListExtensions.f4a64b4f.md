@@ -5,7 +5,7 @@ Sets a key/value pair in the list property bag
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetPropertyBagValue(List list,String key,String value)
+public static System.Void SetPropertyBagValue(List list, String key, String value)
 ```
 ### Parameters
 *list*  

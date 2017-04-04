@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PropertyInfo[] Result { get; }
+public PropertyInfo[] Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.PropertyInfo[]
 ## Remarks 
 
 ## See also
-- [GetUserProfileSchemaCompletedEventArgs](GetUserProfileSchemaCompletedEventArgs.md) 
-
+- [GetUserProfileSchemaCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

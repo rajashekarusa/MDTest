@@ -17,7 +17,7 @@ public class TermStore
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermStore.TermGroup.md) | 
 | [Scope](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermStore.Scope.md) | 
+| [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermStore.TermGroup.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -17,7 +17,7 @@ public class SecurityPermissions
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinitions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SecurityPermissions.RoleDefinitions.md) | 
 | [RoleAssignments](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SecurityPermissions.RoleAssignments.md) | 
+| [RoleDefinitions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SecurityPermissions.RoleDefinitions.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

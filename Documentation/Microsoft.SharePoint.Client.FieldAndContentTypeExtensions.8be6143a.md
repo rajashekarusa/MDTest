@@ -5,7 +5,7 @@ Create field to web remotely
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateField(Web web,String fieldAsXml,Boolean executeQuery)
+public static Microsoft.SharePoint.Client.Field CreateField(Web web, String fieldAsXml, Boolean executeQuery)
 ```
 ### Parameters
 *web*  

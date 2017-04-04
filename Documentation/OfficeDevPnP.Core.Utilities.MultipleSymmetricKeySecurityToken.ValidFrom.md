@@ -12,6 +12,5 @@ public datetime ValidFrom { get; }
 Type: System.DateTime  
 
 ## See also
-- [MultipleSymmetricKeySecurityToken](MultipleSymmetricKeySecurityToken.md) 
-
+- [MultipleSymmetricKeySecurityToken](OfficeDevPnP.Core.Utilities.MultipleSymmetricKeySecurityToken.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

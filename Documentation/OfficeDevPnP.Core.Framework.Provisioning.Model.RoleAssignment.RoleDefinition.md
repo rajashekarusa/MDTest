@@ -5,14 +5,12 @@ Defines the Role to which the assignment will apply
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string RoleDefinition { get; }
-public string RoleDefinition { set; }
+public string RoleDefinition { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [RoleAssignment](RoleAssignment.md) 
-
+- [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

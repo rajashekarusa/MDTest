@@ -15,17 +15,17 @@ public class WebPart: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Row](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Row.md) | 
 | [Column](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Column.md) | 
-| [Title](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Title.md) | 
 | [Contents](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Contents.md) | 
-| [Zone](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Zone.md) | 
 | [Order](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Order.md) | 
+| [Row](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Row.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Title.md) | 
+| [Zone](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.Zone.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.3520ddbb.md) | 
 | [Equals(WebPart)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.686e59e6.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

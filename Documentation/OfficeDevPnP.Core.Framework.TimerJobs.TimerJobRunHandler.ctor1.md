@@ -7,10 +7,10 @@ public TimerJobRunHandler(Object object, IntPtr method)
 ```
 ### Parameters
 #### object
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 #### 
 #### method
-&emsp;&emsp;Type: [System.IntPtr] 
+&emsp;&emsp;Type: System.IntPtr  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

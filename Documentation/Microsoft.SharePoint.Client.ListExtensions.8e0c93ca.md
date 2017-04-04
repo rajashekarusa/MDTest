@@ -5,7 +5,7 @@ Removes a content type from a list/library by name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveContentTypeByName(List list,String contentTypeName)
+public static System.Void RemoveContentTypeByName(List list, String contentTypeName)
 ```
 ### Parameters
 *list*  

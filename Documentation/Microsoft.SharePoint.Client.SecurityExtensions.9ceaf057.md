@@ -6,7 +6,7 @@ Associate the provided groups as default owners, members or visitors groups. If 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AssociateDefaultGroups(Web web,Group owners,Group members,Group visitors)
+public static System.Void AssociateDefaultGroups(Web web, Group owners, Group members, Group visitors)
 ```
 ### Parameters
 *web*  

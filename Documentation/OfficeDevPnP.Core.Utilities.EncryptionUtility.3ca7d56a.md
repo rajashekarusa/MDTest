@@ -5,7 +5,7 @@ Converts a SecureString to a "regular" string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ToInsecureString(SecureString input)
+public static System.String ToInsecureString(SecureString input)
 ```
 ### Parameters
 *input*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_GetCommonManagerCompleted(GetCommonManagerCompletedEventHandler value)
+public System.Void remove_GetCommonManagerCompleted(GetCommonManagerCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

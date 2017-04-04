@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Title { get; }
-public string Title { set; }
+public string Title { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [SiteGroup](SiteGroup.md) 
-
+- [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -5,14 +5,12 @@ Gets or sets the Version of the ComposedLook.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static int Version { get; }
-public int Version { set; }
+public int Version { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [ComposedLook](ComposedLook.md) 
-
+- [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

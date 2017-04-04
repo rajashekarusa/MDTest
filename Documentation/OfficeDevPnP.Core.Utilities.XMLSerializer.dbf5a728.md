@@ -5,7 +5,7 @@ Serializes an object instance to a stream.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static io.stream SerializeToStream(T objectToSerialize)
+public static System.IO.Stream SerializeToStream(T objectToSerialize)
 ```
 ### Parameters
 *objectToSerialize*  

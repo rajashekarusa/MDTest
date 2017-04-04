@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean MinorVersionSpecified { get; }
-public boolean MinorVersionSpecified { set; }
+public boolean MinorVersionSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [PublishingDesignPackage](PublishingDesignPackage.md) 
-
+- [PublishingDesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingDesignPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

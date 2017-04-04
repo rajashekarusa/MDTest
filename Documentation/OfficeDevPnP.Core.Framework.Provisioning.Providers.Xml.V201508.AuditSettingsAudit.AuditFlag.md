@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAuditAuditFlag AuditFlag { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAuditAuditFlag AuditFlag { set; }
+public AuditSettingsAuditAuditFlag AuditFlag { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettin
 ## Remarks 
 
 ## See also
-- [AuditSettingsAudit](AuditSettingsAudit.md) 
-
+- [AuditSettingsAudit](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAudit.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

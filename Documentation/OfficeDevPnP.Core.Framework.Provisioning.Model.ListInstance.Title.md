@@ -5,14 +5,12 @@ Gets or sets the list title
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Title { get; }
-public string Title { set; }
+public string Title { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

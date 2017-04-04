@@ -5,7 +5,7 @@ Returns the integer ID for a given group name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static int GetGroupID(Web web,String groupName)
+public static System.Int32 GetGroupID(Web web, String groupName)
 ```
 ### Parameters
 *web*  

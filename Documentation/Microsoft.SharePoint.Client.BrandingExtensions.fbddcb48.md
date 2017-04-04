@@ -5,7 +5,7 @@ Returns the current theme of a web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetCurrentComposedLook(Web web)
+public static OfficeDevPnP.Core.Entities.ThemeEntity GetCurrentComposedLook(Web web)
 ```
 ### Parameters
 *web*  

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean WelcomePage { get; }
-public boolean WelcomePage { set; }
+public boolean WelcomePage { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [Page](Page.md) 
-
+- [Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

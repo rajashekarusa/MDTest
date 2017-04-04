@@ -5,14 +5,12 @@ Template name in format of BLOG#0
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string TemplateName { get; }
-public string TemplateName { set; }
+public string TemplateName { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebTemplateEntity](WebTemplateEntity.md) 
-
+- [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ToString()
+public System.String ToString()
 ```
 ### Return Value
 Type: System.String  

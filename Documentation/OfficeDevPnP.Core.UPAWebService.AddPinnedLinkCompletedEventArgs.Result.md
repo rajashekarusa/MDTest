@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PinnedLinkData Result { get; }
+public PinnedLinkData Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebS
 ## Remarks 
 
 ## See also
-- [AddPinnedLinkCompletedEventArgs](AddPinnedLinkCompletedEventArgs.md) 
-
+- [AddPinnedLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

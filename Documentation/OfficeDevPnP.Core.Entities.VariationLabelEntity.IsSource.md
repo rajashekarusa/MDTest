@@ -5,14 +5,12 @@ Set as source variation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsSource { get; }
-public boolean IsSource { set; }
+public boolean IsSource { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [VariationLabelEntity](VariationLabelEntity.md) 
-
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,14 +5,12 @@ Defines the type of Global Navigation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType NavigationType { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType NavigationType { set; }
+public GlobalNavigationType NavigationType { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType  
 
 ## See also
-- [GlobalNavigation](GlobalNavigation.md) 
-
+- [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

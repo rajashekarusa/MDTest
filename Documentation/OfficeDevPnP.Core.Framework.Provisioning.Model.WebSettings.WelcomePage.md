@@ -5,14 +5,12 @@ Defines the Welcome Page (Home Page) of the site to which the Provisioning Templ
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string WelcomePage { get; }
-public string WelcomePage { set; }
+public string WelcomePage { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebSettings](WebSettings.md) 
-
+- [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

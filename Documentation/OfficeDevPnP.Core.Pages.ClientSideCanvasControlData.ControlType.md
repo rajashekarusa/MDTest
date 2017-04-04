@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int ControlType { get; }
-public int ControlType { set; }
+public int ControlType { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [ClientSideCanvasControlData](ClientSideCanvasControlData.md) 
-
+- [ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

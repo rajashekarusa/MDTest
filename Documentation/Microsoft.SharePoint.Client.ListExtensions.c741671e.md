@@ -5,7 +5,7 @@ Sets a key/value pair in the web property bag
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetPropertyBagValue(List list,String key,Int32 value)
+public static System.Void SetPropertyBagValue(List list, String key, Int32 value)
 ```
 ### Parameters
 *list*  

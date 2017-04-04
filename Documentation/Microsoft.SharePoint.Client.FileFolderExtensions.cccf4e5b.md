@@ -5,7 +5,7 @@ Returns a file as string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetFileAsString(Web web,String serverRelativeUrl)
+public static System.String GetFileAsString(Web web, String serverRelativeUrl)
 ```
 ### Parameters
 *web*  

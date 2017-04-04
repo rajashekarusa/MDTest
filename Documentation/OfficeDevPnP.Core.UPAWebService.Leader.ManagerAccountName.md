@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ManagerAccountName { get; }
-public string ManagerAccountName { set; }
+public string ManagerAccountName { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [Leader](Leader.md) 
-
+- [Leader](OfficeDevPnP.Core.UPAWebService.Leader.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

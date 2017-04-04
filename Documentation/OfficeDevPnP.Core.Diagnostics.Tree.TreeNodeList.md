@@ -20,8 +20,8 @@ public class TreeNodeList: List<ITreeNode>
 |**Name**|**Description**|
 |:-----|:-----|
 | [Add(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.711f2701.md) | 
-| [Remove(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.fef912eb.md) | 
 | [add_PropertyChanged(PropertyChangedEventHandler)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.9af7a0ae.md) | 
+| [Remove(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.fef912eb.md) | 
 | [remove_PropertyChanged(PropertyChangedEventHandler)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.d9af74e7.md) | 
 | [ToString()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.b40365cf.md) | 
 ## See also

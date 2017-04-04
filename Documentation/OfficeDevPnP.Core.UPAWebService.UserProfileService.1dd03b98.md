@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_GetCommonMembershipsCompleted(GetCommonMembershipsCompletedEventHandler value)
+public System.Void remove_GetCommonMembershipsCompleted(GetCommonMembershipsCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

@@ -17,8 +17,8 @@ public class PnPPackageFileItem
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Name.md) | 
-| [Folder](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Folder.md) | 
 | [Content](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Content.md) | 
+| [Folder](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Folder.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.Name.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

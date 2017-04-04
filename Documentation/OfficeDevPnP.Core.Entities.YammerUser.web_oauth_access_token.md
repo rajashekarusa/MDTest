@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string web_oauth_access_token { get; }
-public string web_oauth_access_token { set; }
+public string web_oauth_access_token { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUser](YammerUser.md) 
-
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

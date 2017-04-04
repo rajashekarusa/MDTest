@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsAvailableForTagging { get; }
-public boolean IsAvailableForTagging { set; }
+public boolean IsAvailableForTagging { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [TermSetItem](TermSetItem.md) 
-
+- [TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermSetItem.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -5,7 +5,7 @@ Creates both a <FieldRef> and <Value> nodes combination for Where clauses.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string FieldValue(Guid fieldId,String fieldValueType,String value,String additionalFieldRefParams)
+public static System.String FieldValue(Guid fieldId, String fieldValueType, String value, String additionalFieldRefParams)
 ```
 ### Parameters
 *fieldId*  

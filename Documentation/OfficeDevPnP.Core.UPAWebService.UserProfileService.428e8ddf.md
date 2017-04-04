@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetUserPropertyByAccountNameCompleted(GetUserPropertyByAccountNameCompletedEventHandler value)
+public System.Void add_GetUserPropertyByAccountNameCompleted(GetUserPropertyByAccountNameCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

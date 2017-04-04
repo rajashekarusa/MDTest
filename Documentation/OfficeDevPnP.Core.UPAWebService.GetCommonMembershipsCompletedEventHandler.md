@@ -17,8 +17,8 @@ public class GetCommonMembershipsCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetCommonMembershipsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.ce37470a.md) | 
 | [BeginInvoke(Object, GetCommonMembershipsCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.36b3d3a.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetCommonMembershipsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.ce37470a.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

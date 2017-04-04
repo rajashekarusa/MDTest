@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem[] LocalCustomProperties { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem[] LocalCustomProperties { set; }
+public StringDictionaryItem[] LocalCustomProperties { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDicti
 ## Remarks 
 
 ## See also
-- [Term](Term.md) 
-
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

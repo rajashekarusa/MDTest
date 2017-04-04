@@ -5,7 +5,7 @@ Finds a termgroup by its ID
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetTermGroupById(Site site,Guid termGroupId)
+public static Microsoft.SharePoint.Client.Taxonomy.TermGroup GetTermGroupById(Site site, Guid termGroupId)
 ```
 ### Parameters
 *site*  

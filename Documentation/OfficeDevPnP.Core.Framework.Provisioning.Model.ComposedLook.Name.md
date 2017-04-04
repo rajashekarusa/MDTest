@@ -5,14 +5,12 @@ Gets or sets the Name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Name { get; }
-public string Name { set; }
+public string Name { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ComposedLook](ComposedLook.md) 
-
+- [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

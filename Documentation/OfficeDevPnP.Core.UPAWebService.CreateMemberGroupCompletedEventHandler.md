@@ -17,8 +17,8 @@ public class CreateMemberGroupCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.26851c57.md) | 
 | [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.f6352ab0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.26851c57.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

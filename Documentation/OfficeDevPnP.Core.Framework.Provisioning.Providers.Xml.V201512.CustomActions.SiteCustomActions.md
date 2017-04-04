@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomAction[] SiteCustomActions { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomAction[] SiteCustomActions { set; }
+public CustomAction[] SiteCustomActions { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActio
 ## Remarks 
 
 ## See also
-- [CustomActions](CustomActions.md) 
-
+- [CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActions.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

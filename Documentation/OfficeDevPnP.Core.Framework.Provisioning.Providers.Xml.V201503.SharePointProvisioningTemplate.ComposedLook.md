@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ComposedLook ComposedLook { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ComposedLook ComposedLook { set; }
+public ComposedLook ComposedLook { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ComposedLo
 ## Remarks 
 
 ## See also
-- [SharePointProvisioningTemplate](SharePointProvisioningTemplate.md) 
-
+- [SharePointProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

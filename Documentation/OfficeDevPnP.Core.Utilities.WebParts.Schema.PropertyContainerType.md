@@ -17,9 +17,9 @@ public class PropertyContainerType
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Property](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Property.md) | 
-| [PropertySpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.PropertySpecified.md) | 
 | [Ipersonalizable](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Ipersonalizable.md) | 
 | [IpersonalizableSpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.IpersonalizableSpecified.md) | 
+| [Property](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.Property.md) | 
+| [PropertySpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.PropertySpecified.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

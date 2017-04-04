@@ -5,7 +5,7 @@ Exports the search settings to file.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ExportSearchSettings(ClientContext context,String exportFilePath,SearchObjectLevel searchSettingsExportLevel)
+public static System.Void ExportSearchSettings(ClientContext context, String exportFilePath, SearchObjectLevel searchSettingsExportLevel)
 ```
 ### Parameters
 *context*  

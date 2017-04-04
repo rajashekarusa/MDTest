@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.SiteLockState LockState { get; }
-public OfficeDevPnP.Core.SiteLockState LockState { set; }
+public SiteLockState LockState { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.SiteLockState  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

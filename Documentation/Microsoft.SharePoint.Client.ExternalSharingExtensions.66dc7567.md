@@ -5,7 +5,7 @@ Abstracted methid for sharing documents just with given email address.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ShareDocument(Web web,String urlToDocument,String targetEmailToShare,ExternalSharingDocumentOption shareOption,Boolean sendEmail,String emailBody,Boolean useSimplifiedRoles)
+public static Microsoft.SharePoint.Client.SharingResult ShareDocument(Web web, String urlToDocument, String targetEmailToShare, ExternalSharingDocumentOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
 ```
 ### Parameters
 *web*  
@@ -21,7 +21,7 @@ public static  ShareDocument(Web web,String urlToDocument,String targetEmailToSh
 &emsp;&emsp;Email address for the person to whom the document will be shared  
   
 *shareOption*  
-&emsp;&emsp;Type: Microsoft.SharePoint.Client.ExternalSharingDocumentOption  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;View or Edit option  
   
 *(optional) sendEmail*  

@@ -6,14 +6,12 @@ Copy resources
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CopyResources { get; }
-public boolean CopyResources { set; }
+public boolean CopyResources { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [VariationInformation](VariationInformation.md) 
-
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

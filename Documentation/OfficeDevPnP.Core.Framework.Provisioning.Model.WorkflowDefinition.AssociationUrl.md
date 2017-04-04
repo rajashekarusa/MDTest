@@ -5,14 +5,12 @@ Defines the URL of the Workflow Association page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string AssociationUrl { get; }
-public string AssociationUrl { set; }
+public string AssociationUrl { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WorkflowDefinition](WorkflowDefinition.md) 
-
+- [WorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

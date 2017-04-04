@@ -6,14 +6,12 @@ Send email notification
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SendNotificationEmail { get; }
-public boolean SendNotificationEmail { set; }
+public boolean SendNotificationEmail { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [VariationInformation](VariationInformation.md) 
-
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

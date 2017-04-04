@@ -5,7 +5,7 @@ Returns a workflow subscription for a site.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetWorkflowSubscription(Web web,String name)
+public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription GetWorkflowSubscription(Web web, String name)
 ```
 ### Parameters
 *web*  

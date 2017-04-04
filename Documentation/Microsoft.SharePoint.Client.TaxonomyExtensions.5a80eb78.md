@@ -5,7 +5,7 @@ Sets a value in a taxonomy field
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetTaxonomyFieldValueByTermPath(ListItem item,String TermPath,Guid fieldId)
+public static System.Void SetTaxonomyFieldValueByTermPath(ListItem item, String TermPath, Guid fieldId)
 ```
 ### Parameters
 *item*  

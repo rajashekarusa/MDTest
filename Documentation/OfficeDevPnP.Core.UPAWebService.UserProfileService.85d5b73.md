@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetLeadersAsync()
+public System.Void GetLeadersAsync()
 ```
 ### Return Value
 Type: System.Void  

@@ -17,8 +17,8 @@ public class ClientSideText: CanvasControl
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Text](OfficeDevPnP.Core.Pages.ClientSideText.Text.md) | 
 | [Rte](OfficeDevPnP.Core.Pages.ClientSideText.Rte.md) | 
+| [Text](OfficeDevPnP.Core.Pages.ClientSideText.Text.md) | 
 | [Type](OfficeDevPnP.Core.Pages.ClientSideText.Type.md) | 
 ## Methods
 |**Name**|**Description**|

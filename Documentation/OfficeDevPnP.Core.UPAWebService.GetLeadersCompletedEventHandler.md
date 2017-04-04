@@ -17,8 +17,8 @@ public class GetLeadersCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetLeadersCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler.d5031f65.md) | 
 | [BeginInvoke(Object, GetLeadersCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler.a7995cd0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetLeadersCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler.d5031f65.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

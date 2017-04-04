@@ -5,7 +5,7 @@ Create view to existing list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateView(List list,String viewName,ViewType viewType,String[] viewFields,UInt32 rowLimit,Boolean setAsDefault,String query,Boolean personal,Boolean paged)
+public static Microsoft.SharePoint.Client.View CreateView(List list, String viewName, ViewType viewType, String[] viewFields, UInt32 rowLimit, Boolean setAsDefault, String query, Boolean personal, Boolean paged)
 ```
 ### Parameters
 *list*  

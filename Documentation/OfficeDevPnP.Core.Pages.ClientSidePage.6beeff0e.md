@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ienumerable<officedevpnp.core.pages.clientsidecomponent> AvailableClientSideComponents(DefaultClientSideWebParts webPart)
+public System.Collections.Generic.IEnumerable`1<OfficeDevPnP.Core.Pages.ClientSideComponent> AvailableClientSideComponents(DefaultClientSideWebParts webPart)
 ```
 ### Parameters
 *webPart*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Pages.DefaultClientSideWebParts  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts](OfficeDevPnP.Core.Pages.DefaultClientSideWebParts.md)  
 &emsp;&emsp;  
   
 ### Return Value

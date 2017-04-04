@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[] FieldRefs { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[] FieldRefs { set; }
+public FieldRef[] FieldRefs { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef[]
 ## Remarks 
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

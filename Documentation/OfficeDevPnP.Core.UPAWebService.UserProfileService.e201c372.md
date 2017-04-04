@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddMembershipAsync(String accountName,MembershipData membershipInfo,String group,Privacy privacy,Object userState)
+public System.Void AddMembershipAsync(String accountName, MembershipData membershipInfo, String group, Privacy privacy, Object userState)
 ```
 ### Parameters
 *accountName*  
@@ -21,7 +21,7 @@ public void AddMembershipAsync(String accountName,MembershipData membershipInfo,
 &emsp;&emsp;  
   
 *privacy*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.Privacy  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 &emsp;&emsp;  
   
 *userState*  

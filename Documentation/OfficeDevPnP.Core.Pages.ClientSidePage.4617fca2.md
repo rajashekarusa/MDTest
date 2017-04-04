@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddZone(CanvasZone zone)
+public System.Void AddZone(CanvasZone zone)
 ```
 ### Parameters
 *zone*  

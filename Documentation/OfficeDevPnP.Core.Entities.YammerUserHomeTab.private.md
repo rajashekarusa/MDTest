@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<system.boolean> private { get; }
-public nullable<system.boolean> private { set; }
+public nullable<boolean> private { get; set; }
 ```
 
 ### Property Value
 Type: System.Nullable<System.Boolean>  
 
 ## See also
-- [YammerUserHomeTab](YammerUserHomeTab.md) 
-
+- [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

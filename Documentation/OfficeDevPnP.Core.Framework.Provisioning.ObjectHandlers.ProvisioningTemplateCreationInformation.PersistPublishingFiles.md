@@ -5,14 +5,12 @@ Defines whether to persist publishing files (MasterPages and PageLayouts)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean PersistPublishingFiles { get; }
-public boolean PersistPublishingFiles { set; }
+public boolean PersistPublishingFiles { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 
-
+- [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

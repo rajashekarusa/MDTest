@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermStore[] TermStore { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermStore[] TermStore { set; }
+public TermStore[] TermStore { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermStore[]
 ## Remarks 
 
 ## See also
-- [Sequence](Sequence.md) 
-
+- [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Sequence.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

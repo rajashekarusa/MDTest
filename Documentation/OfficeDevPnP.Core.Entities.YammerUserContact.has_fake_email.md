@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean has_fake_email { get; }
-public boolean has_fake_email { set; }
+public boolean has_fake_email { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [YammerUserContact](YammerUserContact.md) 
-
+- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

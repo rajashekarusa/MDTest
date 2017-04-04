@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek FirstDayOfWeek { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek FirstDayOfWeek { set; }
+public DayOfWeek FirstDayOfWeek { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DayOfWeek
 ## Remarks 
 
 ## See also
-- [RegionalSettings](RegionalSettings.md) 
-
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

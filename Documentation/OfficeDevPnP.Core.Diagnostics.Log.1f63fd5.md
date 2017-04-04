@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void Debug(String source,Exception ex,String message,Object[] args)
+public static System.Void Debug(String source, Exception ex, String message, Object[] args)
 ```
 ### Parameters
 *source*  

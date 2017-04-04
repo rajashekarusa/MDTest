@@ -12,6 +12,5 @@ public string JsonWebPartData { get; }
 Type: System.String  
 
 ## See also
-- [ClientSideWebPart](ClientSideWebPart.md) 
-
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

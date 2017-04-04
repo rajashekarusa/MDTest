@@ -5,7 +5,7 @@ Returns an event receiver definition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetEventReceiverById(Web web,Guid id)
+public static Microsoft.SharePoint.Client.EventReceiverDefinition GetEventReceiverById(Web web, Guid id)
 ```
 ### Parameters
 *web*  

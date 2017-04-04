@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(ComposedLook other)
+public System.Boolean Equals(ComposedLook other)
 ```
 ### Parameters
 *other*  

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Order { get; }
-public int Order { set; }
+public int Order { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [CanvasControl](CanvasControl.md) 
-
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

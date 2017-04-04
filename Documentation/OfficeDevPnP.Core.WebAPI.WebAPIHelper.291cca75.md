@@ -9,7 +9,7 @@ Creates a ClientContext token for the incoming WebAPI request. This is done by
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetClientContext(HttpControllerContext httpControllerContext)
+public static Microsoft.SharePoint.Client.ClientContext GetClientContext(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
 *httpControllerContext*  

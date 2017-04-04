@@ -17,9 +17,9 @@ public class WebPartEntity
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartXml](OfficeDevPnP.Core.Entities.WebPartEntity.WebPartXml.md) | XML representation of the web part
-| [WebPartZone](OfficeDevPnP.Core.Entities.WebPartEntity.WebPartZone.md) | Zone that will need to hold the web part
 | [WebPartIndex](OfficeDevPnP.Core.Entities.WebPartEntity.WebPartIndex.md) | Index (order) of the web part in it's zone
 | [WebPartTitle](OfficeDevPnP.Core.Entities.WebPartEntity.WebPartTitle.md) | Title of the web part
+| [WebPartXml](OfficeDevPnP.Core.Entities.WebPartEntity.WebPartXml.md) | XML representation of the web part
+| [WebPartZone](OfficeDevPnP.Core.Entities.WebPartEntity.WebPartZone.md) | Zone that will need to hold the web part
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

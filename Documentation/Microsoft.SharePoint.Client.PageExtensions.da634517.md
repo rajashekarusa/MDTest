@@ -5,7 +5,7 @@ Sets a web part property
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetWebPartProperty(Web web,String key,Int32 value,Guid id,String serverRelativePageUrl)
+public static System.Void SetWebPartProperty(Web web, String key, Int32 value, Guid id, String serverRelativePageUrl)
 ```
 ### Parameters
 *web*  

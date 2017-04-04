@@ -7,10 +7,10 @@ public PnPPackageFormatException(String message, Exception innerException)
 ```
 ### Parameters
 #### message
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### innerException
-&emsp;&emsp;Type: [System.Exception] 
+&emsp;&emsp;Type: System.Exception  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

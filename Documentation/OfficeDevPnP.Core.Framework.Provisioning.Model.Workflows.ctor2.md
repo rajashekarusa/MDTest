@@ -7,10 +7,10 @@ public Workflows(IEnumerable<WorkflowDefinition> workflowDefinitions, IEnumerabl
 ```
 ### Parameters
 #### (optional) workflowDefinitions
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition>  
 #### 
 #### (optional) workflowSubscriptions
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription>  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

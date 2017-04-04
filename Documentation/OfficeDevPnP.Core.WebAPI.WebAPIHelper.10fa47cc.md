@@ -6,7 +6,7 @@ Uses the information regarding the requesting app to obtain an access token and 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddToCache(WebAPIContext sharePointServiceContext)
+public static System.Void AddToCache(WebAPIContext sharePointServiceContext)
 ```
 ### Parameters
 *sharePointServiceContext*  

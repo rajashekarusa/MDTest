@@ -7,10 +7,10 @@ public UserNameWSTrustBinding(SecurityMode mode, HttpClientCredentialType client
 ```
 ### Parameters
 #### mode
-&emsp;&emsp;Type: [System.ServiceModel.SecurityMode] 
+&emsp;&emsp;Type: System.ServiceModel.SecurityMode  
 #### 
 #### clientCredentialType
-&emsp;&emsp;Type: [System.ServiceModel.HttpClientCredentialType] 
+&emsp;&emsp;Type: System.ServiceModel.HttpClientCredentialType  
 #### 
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

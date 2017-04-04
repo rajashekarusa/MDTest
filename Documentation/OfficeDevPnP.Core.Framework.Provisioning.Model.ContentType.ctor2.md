@@ -7,34 +7,34 @@ public ContentType(String id, String name, String description, String group, Boo
 ```
 ### Parameters
 #### id
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### name
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### description
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### group
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### contenttypeSealed
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### hidden
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### readyonly
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### documentTemplate
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### overwrite
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### fieldRefs
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>  
 #### 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)

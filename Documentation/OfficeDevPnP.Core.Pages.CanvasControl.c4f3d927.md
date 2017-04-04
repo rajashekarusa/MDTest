@@ -5,7 +5,7 @@ Receives data-sp-controldata content and detects the type of the control
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static type GetType(String controlDataJson)
+public static System.Type GetType(String controlDataJson)
 ```
 ### Parameters
 *controlDataJson*  

@@ -5,7 +5,7 @@ Saves a stream to the specified container with the given name. If the file exist
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void SaveFileStream(String fileName,String container,Stream stream)
+public System.Void SaveFileStream(String fileName, String container, Stream stream)
 ```
 ### Parameters
 *fileName*  

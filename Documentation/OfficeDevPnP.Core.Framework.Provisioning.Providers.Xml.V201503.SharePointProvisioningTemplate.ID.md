@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ID { get; }
-public string ID { set; }
+public string ID { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [SharePointProvisioningTemplate](SharePointProvisioningTemplate.md) 
-
+- [SharePointProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

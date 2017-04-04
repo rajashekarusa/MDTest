@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetViewById(List list,Guid id,Expression<Func<View, Object>>[] expressions)
+public static Microsoft.SharePoint.Client.View GetViewById(List list, Guid id, Expression<Func<View, Object>>[] expressions)
 ```
 ### Parameters
 *list*  

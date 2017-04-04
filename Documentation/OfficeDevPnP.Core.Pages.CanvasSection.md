@@ -13,10 +13,10 @@ public class CanvasSection
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Order](OfficeDevPnP.Core.Pages.CanvasSection.Order.md) | 
-| [Zone](OfficeDevPnP.Core.Pages.CanvasSection.Zone.md) | 
-| [SectionFactor](OfficeDevPnP.Core.Pages.CanvasSection.SectionFactor.md) | 
 | [Controls](OfficeDevPnP.Core.Pages.CanvasSection.Controls.md) | 
+| [Order](OfficeDevPnP.Core.Pages.CanvasSection.Order.md) | 
+| [SectionFactor](OfficeDevPnP.Core.Pages.CanvasSection.SectionFactor.md) | 
+| [Zone](OfficeDevPnP.Core.Pages.CanvasSection.Zone.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

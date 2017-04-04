@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean MultiValue { get; }
-public boolean MultiValue { set; }
+public boolean MultiValue { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [TaxonomyFieldCreationInformation](TaxonomyFieldCreationInformation.md) 
-
+- [TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Preferences Preferences { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Preferences Preferences { set; }
+public Preferences Preferences { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Preference
 ## Remarks 
 
 ## See also
-- [Provisioning](Provisioning.md) 
-
+- [Provisioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -5,14 +5,12 @@ The variation label description
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Description { get; }
-public string Description { set; }
+public string Description { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [VariationLabelEntity](VariationLabelEntity.md) 
-
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public object kids_names { get; }
-public object kids_names { set; }
+public object kids_names { get; set; }
 ```
 
 ### Property Value
 Type: System.Object  
 
 ## See also
-- [YammerUser](YammerUser.md) 
-
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

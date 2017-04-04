@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.Leader[] Result { get; }
+public Leader[] Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.Leader[]
 ## Remarks 
 
 ## See also
-- [GetLeadersCompletedEventArgs](GetLeadersCompletedEventArgs.md) 
-
+- [GetLeadersCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

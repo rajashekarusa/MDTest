@@ -10,6 +10,5 @@ public guid CorrelationId { get; }
 Type: System.Guid  
 
 ## See also
-- [PnPMonitoredScope](PnPMonitoredScope.md) 
-
+- [PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

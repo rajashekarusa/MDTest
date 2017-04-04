@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Name { get; }
-public string Name { set; }
+public string Name { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [PnPMonitoredScope](PnPMonitoredScope.md) 
-
+- [PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

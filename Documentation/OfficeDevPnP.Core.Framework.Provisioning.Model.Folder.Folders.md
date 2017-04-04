@@ -5,13 +5,12 @@ Defines the child folders of the current Folder, if any
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection Folders { get; }
+public FolderCollection Folders { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection.md)  
 
 ## See also
-- [Folder](Folder.md) 
-
+- [Folder](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -19,9 +19,9 @@ public class FieldRefBase
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.Hidden.md) | 
 | [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.ID.md) | 
 | [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.Name.md) | 
 | [Required](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.Required.md) | 
-| [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.Hidden.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

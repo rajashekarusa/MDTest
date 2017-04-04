@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Required { get; }
-public boolean Required { set; }
+public boolean Required { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [PreferencesParameter](PreferencesParameter.md) 
-
+- [PreferencesParameter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PreferencesParameter.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

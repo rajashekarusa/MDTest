@@ -7,19 +7,19 @@ public Page(String url, Boolean overwrite, WikiPageLayout layout, IEnumerable<We
 ```
 ### Parameters
 #### url
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### overwrite
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### layout
-&emsp;&emsp;Type: [OfficeDevPnP.Core.WikiPageLayout] 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.WikiPageLayout](OfficeDevPnP.Core.WikiPageLayout.md)  
 #### 
 #### webParts
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart>  
 #### 
 #### (optional) welcomePage
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### (optional) security
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 

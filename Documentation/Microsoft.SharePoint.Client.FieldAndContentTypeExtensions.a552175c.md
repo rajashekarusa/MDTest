@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetFieldById(Web web,Guid fieldId,Boolean searchInSiteHierarchy)
+public static Microsoft.SharePoint.Client.Field GetFieldById(Web web, Guid fieldId, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
 *web*  

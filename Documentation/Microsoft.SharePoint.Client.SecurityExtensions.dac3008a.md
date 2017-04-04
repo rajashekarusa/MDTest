@@ -5,7 +5,7 @@ Returns a list all external users in your tenant
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<officedevpnp.core.entities.externaluserentity> GetExternalUsersTenant(Web web)
+public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity> GetExternalUsersTenant(Web web)
 ```
 ### Parameters
 *web*  

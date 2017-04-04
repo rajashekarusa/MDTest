@@ -17,7 +17,7 @@ public class Navigation
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.GlobalNavigation.md) | 
 | [CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.CurrentNavigation.md) | 
+| [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Navigation.GlobalNavigation.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -5,14 +5,12 @@ Defines the sorting
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Enums.StructuralNavigationSorting Sorting { get; }
-public OfficeDevPnP.Core.Enums.StructuralNavigationSorting Sorting { set; }
+public StructuralNavigationSorting Sorting { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Enums.StructuralNavigationSorting  
 
 ## See also
-- [AreaNavigationEntity](AreaNavigationEntity.md) 
-
+- [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

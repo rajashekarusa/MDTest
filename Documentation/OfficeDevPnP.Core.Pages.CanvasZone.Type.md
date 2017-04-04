@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Pages.CanvasZoneTemplate Type { get; }
-public OfficeDevPnP.Core.Pages.CanvasZoneTemplate Type { set; }
+public CanvasZoneTemplate Type { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Pages.CanvasZoneTemplate  
 
 ## See also
-- [CanvasZone](CanvasZone.md) 
-
+- [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

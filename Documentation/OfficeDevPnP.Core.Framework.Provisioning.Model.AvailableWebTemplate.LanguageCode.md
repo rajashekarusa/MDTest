@@ -5,14 +5,12 @@ The Language Code for the Web Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int LanguageCode { get; }
-public int LanguageCode { set; }
+public int LanguageCode { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [AvailableWebTemplate](AvailableWebTemplate.md) 
-
+- [AvailableWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

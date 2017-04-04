@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime CreatedDate { get; }
-public datetime CreatedDate { set; }
+public datetime CreatedDate { get; set; }
 ```
 
 ### Property Value
 Type: System.DateTime  
 
 ## See also
-- [RoleAssignmentEntity](RoleAssignmentEntity.md) 
-
+- [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

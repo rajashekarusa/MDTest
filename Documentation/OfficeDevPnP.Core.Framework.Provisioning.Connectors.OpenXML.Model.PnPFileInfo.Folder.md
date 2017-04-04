@@ -5,14 +5,12 @@ The name of the folder within the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Folder { get; }
-public string Folder { set; }
+public string Folder { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [PnPFileInfo](PnPFileInfo.md) 
-
+- [PnPFileInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UseDefaultCredentials { get; }
-public boolean UseDefaultCredentials { set; }
+public boolean UseDefaultCredentials { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [UserProfileService](UserProfileService.md) 
-
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

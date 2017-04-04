@@ -5,7 +5,7 @@ Creates field from xml structure which follows the classic feature framework str
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreateFieldsFromXML(Web web,XDocument xDocument)
+public static System.Void CreateFieldsFromXML(Web web, XDocument xDocument)
 ```
 ### Parameters
 *web*  

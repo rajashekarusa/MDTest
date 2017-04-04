@@ -5,7 +5,7 @@ Get current sharing settings for document and load list of users it has been sha
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetObjectSharingSettingsForDocument(Web web,String urlToDocument,Boolean useSimplifiedPolicies)
+public static Microsoft.SharePoint.Client.ObjectSharingSettings GetObjectSharingSettingsForDocument(Web web, String urlToDocument, Boolean useSimplifiedPolicies)
 ```
 ### Parameters
 *web*  

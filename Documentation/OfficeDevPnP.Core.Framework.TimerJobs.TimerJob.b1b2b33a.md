@@ -5,7 +5,7 @@ Provides the timer job with the enumeration credentials. For SharePoint on-premi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void SetEnumerationCredentials(String credentialName)
+public System.Void SetEnumerationCredentials(String credentialName)
 ```
 ### Parameters
 *credentialName*  

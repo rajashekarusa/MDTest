@@ -5,13 +5,12 @@ Singleton instance to access this class
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.WebAPI.WebAPIContextCache Instance { get; }
+public static WebAPIContextCache Instance { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.WebAPI.WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md)  
 
 ## See also
-- [WebAPIContextCache](WebAPIContextCache.md) 
-
+- [WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

@@ -5,14 +5,12 @@ Gets or sets the ID of the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Id { get; }
-public string Id { set; }
+public string Id { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ProvisioningTemplate](ProvisioningTemplate.md) 
-
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

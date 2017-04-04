@@ -5,7 +5,7 @@ Returns the relative URL for a masterpage
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetRelativeUrlForMasterByName(Web web,String masterPageName)
+public static System.String GetRelativeUrlForMasterByName(Web web, String masterPageName)
 ```
 ### Parameters
 *web*  

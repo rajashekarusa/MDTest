@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType[] ContentTypes { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType[] ContentTypes { set; }
+public ContentType[] ContentTypes { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplate](ProvisioningTemplate.md) 
-
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

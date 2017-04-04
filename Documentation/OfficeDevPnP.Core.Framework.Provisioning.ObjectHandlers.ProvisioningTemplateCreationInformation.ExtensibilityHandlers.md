@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list<officedevpnp.core.framework.provisioning.model.extensibilityhandler> ExtensibilityHandlers { get; }
-public collections.generic.list<officedevpnp.core.framework.provisioning.model.extensibilityhandler> ExtensibilityHandlers { set; }
+public list<extensibilityhandler> ExtensibilityHandlers { get; set; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler>  
 
 ## See also
-- [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 
-
+- [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

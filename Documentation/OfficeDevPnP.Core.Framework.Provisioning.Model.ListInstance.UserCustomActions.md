@@ -6,13 +6,12 @@ Defines a collection of user custom actions that
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection UserCustomActions { get; }
+public CustomActionCollection UserCustomActions { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md)  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

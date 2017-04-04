@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetUserProfileSchemaAsync()
+public System.Void GetUserProfileSchemaAsync()
 ```
 ### Return Value
 Type: System.Void  

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SequenceSequenceType SequenceType { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SequenceSequenceType SequenceType { set; }
+public SequenceSequenceType SequenceType { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SequenceSeq
 ## Remarks 
 
 ## See also
-- [Sequence](Sequence.md) 
-
+- [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Sequence.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

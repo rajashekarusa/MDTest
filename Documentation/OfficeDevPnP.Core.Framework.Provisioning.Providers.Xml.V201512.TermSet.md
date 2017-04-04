@@ -18,9 +18,9 @@ public class TermSet: TermSetItem
 |**Name**|**Description**|
 |:-----|:-----|
 | [CustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.CustomProperties.md) | 
-| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.Terms.md) | 
+| [IsOpenForTermCreation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.IsOpenForTermCreation.md) | 
 | [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.Language.md) | 
 | [LanguageSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.LanguageSpecified.md) | 
-| [IsOpenForTermCreation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.IsOpenForTermCreation.md) | 
+| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.Terms.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

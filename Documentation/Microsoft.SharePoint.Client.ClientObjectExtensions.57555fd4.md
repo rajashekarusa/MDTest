@@ -5,7 +5,7 @@ Converts generic  Expression<Func<TInput, TOutput>>  to Expression with object r
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static linq.expressions.expression<system.func<tinput,system.object>> ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>> expression)
+public static System.Linq.Expressions.Expression`1<System.Func`2<TInput,System.Object>> ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>> expression)
 ```
 ### Parameters
 *expression*  

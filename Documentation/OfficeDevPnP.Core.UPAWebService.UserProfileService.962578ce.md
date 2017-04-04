@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetProfileSchema(String schemaName)
+public OfficeDevPnP.Core.UPAWebService.PropertyInfo[] GetProfileSchema(String schemaName)
 ```
 ### Parameters
 *schemaName*  

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Order { get; }
-public int Order { set; }
+public int Order { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [WebPartPageWebPart](WebPartPageWebPart.md) 
-
+- [WebPartPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

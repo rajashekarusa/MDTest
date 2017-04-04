@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.ContactData Manager { get; }
-public OfficeDevPnP.Core.UPAWebService.ContactData Manager { set; }
+public ContactData Manager { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebServ
 ## Remarks 
 
 ## See also
-- [InCommonData](InCommonData.md) 
-
+- [InCommonData](OfficeDevPnP.Core.UPAWebService.InCommonData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

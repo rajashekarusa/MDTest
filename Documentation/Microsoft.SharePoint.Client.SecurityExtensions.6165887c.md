@@ -5,7 +5,7 @@ Get the external sharing settings for the provided site. Only works in Office 36
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetSharingCapabilitiesTenant(Web web,Uri siteUrl)
+public static System.String GetSharingCapabilitiesTenant(Web web, Uri siteUrl)
 ```
 ### Parameters
 *web*  

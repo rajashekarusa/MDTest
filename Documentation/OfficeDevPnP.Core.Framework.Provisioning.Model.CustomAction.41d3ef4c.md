@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(CustomAction other)
+public System.Boolean Equals(CustomAction other)
 ```
 ### Parameters
 *other*  

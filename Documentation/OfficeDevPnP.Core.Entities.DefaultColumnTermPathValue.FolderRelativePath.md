@@ -5,14 +5,12 @@ The Path of the folder, Rootfolder of the document library is "/"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string FolderRelativePath { get; }
-public string FolderRelativePath { set; }
+public string FolderRelativePath { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [DefaultColumnTermPathValue](DefaultColumnTermPathValue.md) 
-
+- [DefaultColumnTermPathValue](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

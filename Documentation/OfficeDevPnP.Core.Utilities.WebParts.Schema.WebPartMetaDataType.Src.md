@@ -5,14 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Src { get; }
-public string Src { set; }
+public string Src { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebPartMetaDataType](WebPartMetaDataType.md) 
-
+- [WebPartMetaDataType](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

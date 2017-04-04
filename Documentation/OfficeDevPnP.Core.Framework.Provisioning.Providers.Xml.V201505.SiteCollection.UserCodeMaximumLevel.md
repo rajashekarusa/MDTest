@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string UserCodeMaximumLevel { get; }
-public string UserCodeMaximumLevel { set; }
+public string UserCodeMaximumLevel { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [SiteCollection](SiteCollection.md) 
-
+- [SiteCollection](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.SiteCollection.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

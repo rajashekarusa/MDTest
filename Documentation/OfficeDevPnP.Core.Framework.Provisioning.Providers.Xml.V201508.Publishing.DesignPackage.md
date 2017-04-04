@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage DesignPackage { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage DesignPackage { set; }
+public PublishingDesignPackage DesignPackage { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Publishing
 ## Remarks 
 
 ## See also
-- [Publishing](Publishing.md) 
-
+- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

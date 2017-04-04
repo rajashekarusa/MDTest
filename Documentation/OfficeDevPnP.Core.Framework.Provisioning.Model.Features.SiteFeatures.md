@@ -5,13 +5,12 @@ A Collection of Features at the Site level
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection SiteFeatures { get; }
+public FeatureCollection SiteFeatures { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.md)  
 
 ## See also
-- [Features](Features.md) 
-
+- [Features](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

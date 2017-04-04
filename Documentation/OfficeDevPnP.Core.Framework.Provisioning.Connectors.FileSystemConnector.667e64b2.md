@@ -5,7 +5,7 @@ Gets a file as stream from the default container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public io.stream GetFileStream(String fileName)
+public System.IO.Stream GetFileStream(String fileName)
 ```
 ### Parameters
 *fileName*  

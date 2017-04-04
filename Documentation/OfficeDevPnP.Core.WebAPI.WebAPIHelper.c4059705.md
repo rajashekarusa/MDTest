@@ -5,7 +5,7 @@ Checks if this request has a servicesToken cookie. To be used from inside the We
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean HasCacheEntry(HttpControllerContext httpControllerContext)
+public static System.Boolean HasCacheEntry(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
 *httpControllerContext*  

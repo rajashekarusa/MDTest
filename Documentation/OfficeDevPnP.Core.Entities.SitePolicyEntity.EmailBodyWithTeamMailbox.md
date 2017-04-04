@@ -5,14 +5,12 @@ The body of the notification email if there is a site mailbox associated with th
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string EmailBodyWithTeamMailbox { get; }
-public string EmailBodyWithTeamMailbox { set; }
+public string EmailBodyWithTeamMailbox { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [SitePolicyEntity](SitePolicyEntity.md) 
-
+- [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

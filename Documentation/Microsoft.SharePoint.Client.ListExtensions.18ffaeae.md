@@ -5,7 +5,7 @@ Checks if list exists on the particular site based on the list's site relative p
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ListExists(Web web,Uri siteRelativeUrlPath)
+public static System.Boolean ListExists(Web web, Uri siteRelativeUrlPath)
 ```
 ### Parameters
 *web*  

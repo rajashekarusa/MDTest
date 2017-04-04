@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int DraftVersionVisibility { get; }
-public int DraftVersionVisibility { set; }
+public int DraftVersionVisibility { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

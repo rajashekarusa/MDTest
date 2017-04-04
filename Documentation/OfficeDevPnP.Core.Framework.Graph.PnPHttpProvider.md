@@ -12,8 +12,5 @@ public class PnPHttpProvider: HttpProvider
 |**Name**|**Description**|
 |:-----|:-----|
 | [PnPHttpProvider(Int32, Int32)](OfficeDevPnP.Core.Framework.Graph.PnPHttpProvider.ctor1.md) | 
-## Methods
-|**Name**|**Description**|
-|:-----|:-----|
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

@@ -5,14 +5,12 @@ Defines the .app file of the SharePoint Add-in to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string PackagePath { get; }
-public string PackagePath { set; }
+public string PackagePath { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [AddIn](AddIn.md) 
-
+- [AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -17,7 +17,7 @@ public class TermGroup: TaxonomyItem
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermSets](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.TermSets.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.Description.md) | 
+| [TermSets](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.TermSets.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

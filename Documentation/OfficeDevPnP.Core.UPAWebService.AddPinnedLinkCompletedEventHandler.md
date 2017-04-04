@@ -17,8 +17,8 @@ public class AddPinnedLinkCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AddPinnedLinkCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.d0b00fbe.md) | 
 | [BeginInvoke(Object, AddPinnedLinkCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.b237ef49.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AddPinnedLinkCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.d0b00fbe.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

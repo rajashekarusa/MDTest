@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid SourceInternal { get; }
-public guid SourceInternal { set; }
+public guid SourceInternal { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Guid
 ## Remarks 
 
 ## See also
-- [MemberGroupData](MemberGroupData.md) 
-
+- [MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

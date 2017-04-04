@@ -3,13 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection WebParts { get; }
+public WebPartCollection WebParts { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection.md)  
 
 ## See also
-- [File](File.md) 
-
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

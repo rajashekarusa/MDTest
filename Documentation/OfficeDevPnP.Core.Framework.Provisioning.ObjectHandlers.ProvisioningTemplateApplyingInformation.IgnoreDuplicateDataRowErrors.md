@@ -6,14 +6,12 @@ If true then duplicate id errors when the same importing datarows simply generat
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IgnoreDuplicateDataRowErrors { get; }
-public boolean IgnoreDuplicateDataRowErrors { set; }
+public boolean IgnoreDuplicateDataRowErrors { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 
-
+- [ProvisioningTemplateApplyingInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

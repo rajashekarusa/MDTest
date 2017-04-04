@@ -5,14 +5,12 @@ Gets or Sets if the Content Type should be the default Content Type in the libra
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Default { get; }
-public boolean Default { set; }
+public boolean Default { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ContentTypeBinding](ContentTypeBinding.md) 
-
+- [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

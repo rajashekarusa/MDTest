@@ -5,7 +5,7 @@ Gets a page layout from the master page catalog. Can be called with paramter as 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetPageLayoutListItemByName(Web web,String pageLayoutName)
+public static Microsoft.SharePoint.Client.ListItem GetPageLayoutListItemByName(Web web, String pageLayoutName)
 ```
 ### Parameters
 *web*  

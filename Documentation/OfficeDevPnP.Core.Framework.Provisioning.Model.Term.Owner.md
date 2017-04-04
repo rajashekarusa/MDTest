@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Owner { get; }
-public string Owner { set; }
+public string Owner { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [Term](Term.md) 
-
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

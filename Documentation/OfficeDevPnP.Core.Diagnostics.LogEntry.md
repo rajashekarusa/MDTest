@@ -15,11 +15,11 @@ public class LogEntry
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Message](OfficeDevPnP.Core.Diagnostics.LogEntry.Message.md) | 
 | [CorrelationId](OfficeDevPnP.Core.Diagnostics.LogEntry.CorrelationId.md) | 
-| [Source](OfficeDevPnP.Core.Diagnostics.LogEntry.Source.md) | 
-| [Exception](OfficeDevPnP.Core.Diagnostics.LogEntry.Exception.md) | 
-| [ThreadId](OfficeDevPnP.Core.Diagnostics.LogEntry.ThreadId.md) | 
 | [EllapsedMilliseconds](OfficeDevPnP.Core.Diagnostics.LogEntry.EllapsedMilliseconds.md) | 
+| [Exception](OfficeDevPnP.Core.Diagnostics.LogEntry.Exception.md) | 
+| [Message](OfficeDevPnP.Core.Diagnostics.LogEntry.Message.md) | 
+| [Source](OfficeDevPnP.Core.Diagnostics.LogEntry.Source.md) | 
+| [ThreadId](OfficeDevPnP.Core.Diagnostics.LogEntry.ThreadId.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

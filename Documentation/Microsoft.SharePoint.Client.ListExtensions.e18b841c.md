@@ -5,7 +5,7 @@ Adds a document library to a web. Execute Query is called during this implementa
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateDocumentLibrary(Web web,String listName,Boolean enableVersioning,String urlPath)
+public static Microsoft.SharePoint.Client.List CreateDocumentLibrary(Web web, String listName, Boolean enableVersioning, String urlPath)
 ```
 ### Parameters
 *web*  

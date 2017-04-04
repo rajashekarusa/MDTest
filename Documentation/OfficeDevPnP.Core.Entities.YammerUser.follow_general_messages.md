@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean follow_general_messages { get; }
-public boolean follow_general_messages { set; }
+public boolean follow_general_messages { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [YammerUser](YammerUser.md) 
-
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

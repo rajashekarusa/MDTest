@@ -5,14 +5,12 @@ Gets or sets the DraftVersionVisibility for the list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int DraftVersionVisibility { get; }
-public int DraftVersionVisibility { set; }
+public int DraftVersionVisibility { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

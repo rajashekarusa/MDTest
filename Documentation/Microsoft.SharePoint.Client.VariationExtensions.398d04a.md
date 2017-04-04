@@ -5,7 +5,7 @@ Creates source variation label
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ProvisionSourceVariationLabel(ClientContext context,VariationLabelEntity sourceVariationLabel)
+public static System.Void ProvisionSourceVariationLabel(ClientContext context, VariationLabelEntity sourceVariationLabel)
 ```
 ### Parameters
 *context*  

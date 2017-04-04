@@ -6,7 +6,7 @@ Searches for the content type with the closest match to the value of the specifi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  BestMatch(ContentTypeCollection contentTypes,String contentTypeId)
+public static Microsoft.SharePoint.Client.ContentTypeId BestMatch(ContentTypeCollection contentTypes, String contentTypeId)
 ```
 ### Parameters
 *contentTypes*  

@@ -13,12 +13,12 @@ public class CanvasZone
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Type](OfficeDevPnP.Core.Pages.CanvasZone.Type.md) | 
-| [Order](OfficeDevPnP.Core.Pages.CanvasZone.Order.md) | 
-| [Sections](OfficeDevPnP.Core.Pages.CanvasZone.Sections.md) | 
-| [Page](OfficeDevPnP.Core.Pages.CanvasZone.Page.md) | 
 | [Controls](OfficeDevPnP.Core.Pages.CanvasZone.Controls.md) | 
 | [DefaultSection](OfficeDevPnP.Core.Pages.CanvasZone.DefaultSection.md) | 
+| [Order](OfficeDevPnP.Core.Pages.CanvasZone.Order.md) | 
+| [Page](OfficeDevPnP.Core.Pages.CanvasZone.Page.md) | 
+| [Sections](OfficeDevPnP.Core.Pages.CanvasZone.Sections.md) | 
+| [Type](OfficeDevPnP.Core.Pages.CanvasZone.Type.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

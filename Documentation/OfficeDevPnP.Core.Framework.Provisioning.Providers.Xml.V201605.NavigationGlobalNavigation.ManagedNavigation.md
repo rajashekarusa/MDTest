@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation ManagedNavigation { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation ManagedNavigation { set; }
+public ManagedNavigation ManagedNavigation { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNav
 ## Remarks 
 
 ## See also
-- [NavigationGlobalNavigation](NavigationGlobalNavigation.md) 
-
+- [NavigationGlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationGlobalNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

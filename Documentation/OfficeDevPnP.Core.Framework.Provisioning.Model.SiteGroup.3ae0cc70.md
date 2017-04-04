@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(SiteGroup other)
+public System.Boolean Equals(SiteGroup other)
 ```
 ### Parameters
 *other*  

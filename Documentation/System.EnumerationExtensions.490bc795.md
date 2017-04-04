@@ -5,7 +5,7 @@ Includes an enumerated type and returns the new value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Include(Enum value,T append)
+public static T Include(Enum value, T append)
 ```
 ### Parameters
 *value*  

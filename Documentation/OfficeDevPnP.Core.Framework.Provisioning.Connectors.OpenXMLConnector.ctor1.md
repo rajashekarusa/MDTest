@@ -7,7 +7,7 @@ public OpenXMLConnector(Stream packageStream)
 ```
 ### Parameters
 #### packageStream
-&emsp;&emsp;Type: [System.IO.Stream] 
+&emsp;&emsp;Type: System.IO.Stream  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

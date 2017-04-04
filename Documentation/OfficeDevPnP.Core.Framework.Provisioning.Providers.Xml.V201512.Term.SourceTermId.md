@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string SourceTermId { get; }
-public string SourceTermId { set; }
+public string SourceTermId { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [Term](Term.md) 
-
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -5,7 +5,7 @@ Serializes an object of type T to a json string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Serialize(T obj)
+public static System.String Serialize(T obj)
 ```
 ### Parameters
 *obj*  

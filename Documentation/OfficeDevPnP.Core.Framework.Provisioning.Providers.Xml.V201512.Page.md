@@ -17,11 +17,11 @@ public class Page
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.WebParts.md) | 
 | [Fields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Fields.md) | 
+| [Layout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Layout.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Overwrite.md) | 
 | [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Security.md) | 
 | [Url](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Url.md) | 
-| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Overwrite.md) | 
-| [Layout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.Layout.md) | 
+| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.WebParts.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

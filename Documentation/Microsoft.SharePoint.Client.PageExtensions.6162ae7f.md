@@ -5,7 +5,7 @@ Add a HTML fragment to a location on a wiki style page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddHtmlToWikiPage(Web web,String serverRelativePageUrl,String html,Int32 row,Int32 col)
+public static System.Void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, String html, Int32 row, Int32 col)
 ```
 ### Parameters
 *web*  

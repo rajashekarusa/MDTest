@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ToDetailedString(Exception exception,ClientRuntimeContext cc)
+public static System.String ToDetailedString(Exception exception, ClientRuntimeContext cc)
 ```
 ### Parameters
 *exception*  

@@ -5,7 +5,7 @@ Returns the Base Template ID for the current web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetBaseTemplateId(Web parentWeb)
+public static System.String GetBaseTemplateId(Web parentWeb)
 ```
 ### Parameters
 *parentWeb*  

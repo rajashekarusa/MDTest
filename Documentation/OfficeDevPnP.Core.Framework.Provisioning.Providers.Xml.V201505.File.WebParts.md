@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.WebPartPageWebPart[] WebParts { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.WebPartPageWebPart[] WebParts { set; }
+public WebPartPageWebPart[] WebParts { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.WebPartPage
 ## Remarks 
 
 ## See also
-- [File](File.md) 
-
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

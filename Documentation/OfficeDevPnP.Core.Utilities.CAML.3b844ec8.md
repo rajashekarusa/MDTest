@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string DateRangesOverlap(String fieldValue)
+public static System.String DateRangesOverlap(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

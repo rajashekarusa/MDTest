@@ -5,7 +5,7 @@ Can be used to set master page and custom master page in single command
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetMasterPagesByUrl(Web web,String masterPageUrl,String customMasterPageUrl)
+public static System.Void SetMasterPagesByUrl(Web web, String masterPageUrl, String customMasterPageUrl)
 ```
 ### Parameters
 *web*  

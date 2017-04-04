@@ -17,7 +17,7 @@ public class WebPartData
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Properties](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData.Properties.md) | 
 | [GenericWebPartProperties](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData.GenericWebPartProperties.md) | 
+| [Properties](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData.Properties.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

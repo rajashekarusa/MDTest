@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetUserPinnedLinksAsync(String accountName)
+public System.Void GetUserPinnedLinksAsync(String accountName)
 ```
 ### Parameters
 *accountName*  

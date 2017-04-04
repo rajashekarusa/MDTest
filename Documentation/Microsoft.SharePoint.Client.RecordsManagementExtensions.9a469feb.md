@@ -5,7 +5,7 @@ Defines the manual in place record declaration for this list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetListManualRecordDeclaration(List list,EcmListManualRecordDeclaration settings)
+public static System.Void SetListManualRecordDeclaration(List list, EcmListManualRecordDeclaration settings)
 ```
 ### Parameters
 *list*  
@@ -13,7 +13,7 @@ public static void SetListManualRecordDeclaration(List list,EcmListManualRecordD
 &emsp;&emsp;List to operate against  
   
 *settings*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.EcmListManualRecordDeclaration  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)  
 &emsp;&emsp; enum that defines the manual in place record declaration settings for this list  
   
 ### Return Value

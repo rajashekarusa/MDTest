@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinitionPermission[] Permissions { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinitionPermission[] Permissions { set; }
+public RoleDefinitionPermission[] Permissions { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinit
 ## Remarks 
 
 ## See also
-- [RoleDefinition](RoleDefinition.md) 
-
+- [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

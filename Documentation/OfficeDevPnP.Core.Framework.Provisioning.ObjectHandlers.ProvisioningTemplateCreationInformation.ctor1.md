@@ -7,7 +7,7 @@ public ProvisioningTemplateCreationInformation(Web web)
 ```
 ### Parameters
 #### web
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

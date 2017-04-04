@@ -5,14 +5,12 @@ The user code quota warning level in points
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public double UserCodeWarningLevel { get; }
-public double UserCodeWarningLevel { set; }
+public double UserCodeWarningLevel { get; set; }
 ```
 
 ### Property Value
 Type: System.Double  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

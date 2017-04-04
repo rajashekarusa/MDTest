@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetFieldById(List list,Guid fieldId)
+public static Microsoft.SharePoint.Client.Field GetFieldById(List list, Guid fieldId)
 ```
 ### Parameters
 *list*  

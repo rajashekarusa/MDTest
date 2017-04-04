@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Folder { get; }
-public string Folder { set; }
+public string Folder { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [PnPPackageFileItem](PnPPackageFileItem.md) 
-
+- [PnPPackageFileItem](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

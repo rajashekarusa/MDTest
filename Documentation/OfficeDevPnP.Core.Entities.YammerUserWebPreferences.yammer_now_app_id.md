@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int yammer_now_app_id { get; }
-public int yammer_now_app_id { set; }
+public int yammer_now_app_id { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [YammerUserWebPreferences](YammerUserWebPreferences.md) 
-
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

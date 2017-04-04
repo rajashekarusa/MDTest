@@ -22,8 +22,8 @@ public class AddIn: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.3520ddbb.md) | 
 | [Equals(AddIn)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.29788fde.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

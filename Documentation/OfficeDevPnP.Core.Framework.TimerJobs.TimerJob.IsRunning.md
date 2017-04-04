@@ -12,6 +12,5 @@ public boolean IsRunning { get; }
 Type: System.Boolean  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

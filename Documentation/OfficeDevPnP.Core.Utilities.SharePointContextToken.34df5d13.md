@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Create(JsonWebSecurityToken contextToken)
+public static OfficeDevPnP.Core.Utilities.SharePointContextToken Create(JsonWebSecurityToken contextToken)
 ```
 ### Parameters
 *contextToken*  

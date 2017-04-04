@@ -5,7 +5,7 @@ Open a site, if it has a site policy applied and is currently closed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean SetOpenBySitePolicy(Web web)
+public static System.Boolean SetOpenBySitePolicy(Web web)
 ```
 ### Parameters
 *web*  

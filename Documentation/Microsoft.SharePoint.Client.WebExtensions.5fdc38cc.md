@@ -5,7 +5,7 @@ Can be used to apply custom remote provisioning template on top of existing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ApplyProvisioningTemplate(Web web,ProvisioningTemplate template,ProvisioningTemplateApplyingInformation applyingInformation)
+public static System.Void ApplyProvisioningTemplate(Web web, ProvisioningTemplate template, ProvisioningTemplateApplyingInformation applyingInformation)
 ```
 ### Parameters
 *web*  

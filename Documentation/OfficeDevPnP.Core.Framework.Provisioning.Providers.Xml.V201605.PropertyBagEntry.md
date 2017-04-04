@@ -17,8 +17,8 @@ public class PropertyBagEntry: StringDictionaryItem
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [Indexed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry.Indexed.md) | 
 | [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry.Overwrite.md) | 
 | [OverwriteSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry.OverwriteSpecified.md) | 
-| [Indexed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry.Indexed.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

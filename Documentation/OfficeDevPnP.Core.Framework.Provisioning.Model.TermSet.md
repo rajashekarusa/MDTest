@@ -16,20 +16,20 @@ public class TermSet: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Id](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Id.md) | 
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Name.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Description.md) | 
-| [Language](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Language.md) | 
-| [IsOpenForTermCreation](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.IsOpenForTermCreation.md) | 
+| [Id](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Id.md) | 
 | [IsAvailableForTagging](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.IsAvailableForTagging.md) | 
+| [IsOpenForTermCreation](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.IsOpenForTermCreation.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Language.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Name.md) | 
 | [Owner](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Owner.md) | 
-| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Terms.md) | 
 | [Properties](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Properties.md) | 
+| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.Terms.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.3520ddbb.md) | 
 | [Equals(TermSet)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.3057bd77.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@ Returns the authentication realm for the current web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid GetAuthenticationRealm(Web web)
+public static System.Guid GetAuthenticationRealm(Web web)
 ```
 ### Parameters
 *web*  

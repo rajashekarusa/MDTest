@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public object office365_url { get; }
-public object office365_url { set; }
+public object office365_url { get; set; }
 ```
 
 ### Property Value
 Type: System.Object  
 
 ## See also
-- [YammerGroup](YammerGroup.md) 
-
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

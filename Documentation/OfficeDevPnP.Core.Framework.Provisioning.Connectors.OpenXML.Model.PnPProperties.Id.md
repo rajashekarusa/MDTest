@@ -5,14 +5,12 @@ Unique ID for the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; }
-public guid Id { set; }
+public guid Id { get; set; }
 ```
 
 ### Property Value
 Type: System.Guid  
 
 ## See also
-- [PnPProperties](PnPProperties.md) 
-
+- [PnPProperties](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

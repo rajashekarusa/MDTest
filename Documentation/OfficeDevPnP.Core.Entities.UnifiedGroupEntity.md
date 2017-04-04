@@ -17,9 +17,9 @@ public class UnifiedGroupEntity
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [GroupId](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.GroupId.md) | 
-| [DisplayName](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.DisplayName.md) | 
 | [Description](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.Description.md) | 
+| [DisplayName](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.DisplayName.md) | 
+| [GroupId](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.GroupId.md) | 
 | [Mail](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.Mail.md) | 
 | [MailNickname](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.MailNickname.md) | 
 | [SiteUrl](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.SiteUrl.md) | 

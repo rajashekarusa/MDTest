@@ -5,7 +5,7 @@ Defines who can declare records
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetRecordDeclarationBy(Site site,EcmRecordDeclarationBy by)
+public static System.Void SetRecordDeclarationBy(Site site, EcmRecordDeclarationBy by)
 ```
 ### Parameters
 *site*  
@@ -13,7 +13,7 @@ public static void SetRecordDeclarationBy(Site site,EcmRecordDeclarationBy by)
 &emsp;&emsp;Site collection to operate on  
   
 *by*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.EcmRecordDeclarationBy  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)  
 &emsp;&emsp; enum that defines who can declare a record  
   
 ### Return Value

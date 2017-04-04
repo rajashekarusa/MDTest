@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Entities.YammerUserStats stats { get; }
-public OfficeDevPnP.Core.Entities.YammerUserStats stats { set; }
+public YammerUserStats stats { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Entities.YammerUserStats](OfficeDevPnP.Core.Entities.YammerUserStats.md)  
 
 ## See also
-- [YammerUser](YammerUser.md) 
-
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

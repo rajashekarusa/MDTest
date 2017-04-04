@@ -6,7 +6,7 @@ Returns all site collections that are indexed. In MT the search center, mysite h
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<officedevpnp.core.entities.siteentity> SiteSearch(Web web)
+public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.SiteEntity> SiteSearch(Web web)
 ```
 ### Parameters
 *web*  

@@ -7,7 +7,7 @@ public FileTokenCache(String filePath)
 ```
 ### Parameters
 #### (optional) filePath
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

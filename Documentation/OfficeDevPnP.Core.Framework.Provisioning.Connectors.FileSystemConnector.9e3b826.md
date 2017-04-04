@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string GetFilenamePart(String fileName)
+public System.String GetFilenamePart(String fileName)
 ```
 ### Parameters
 *fileName*  

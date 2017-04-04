@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetUserOrganizations(String accountName)
+public OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[] GetUserOrganizations(String accountName)
 ```
 ### Parameters
 *accountName*  

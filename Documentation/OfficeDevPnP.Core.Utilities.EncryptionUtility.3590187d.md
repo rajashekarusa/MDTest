@@ -5,7 +5,7 @@ Encrypt a piece of text based on a given certificate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Encrypt(String stringToEncrypt,String thumbPrint)
+public static System.String Encrypt(String stringToEncrypt, String thumbPrint)
 ```
 ### Parameters
 *stringToEncrypt*  

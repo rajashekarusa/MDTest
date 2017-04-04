@@ -5,14 +5,12 @@ The hierarchy creation mode
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string HierarchyCreationMode { get; }
-public string HierarchyCreationMode { set; }
+public string HierarchyCreationMode { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [VariationLabelEntity](VariationLabelEntity.md) 
-
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

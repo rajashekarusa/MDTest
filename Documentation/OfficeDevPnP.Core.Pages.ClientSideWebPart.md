@@ -18,16 +18,16 @@ public class ClientSideWebPart: CanvasControl
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPart.JsonWebPartData.md) | Json serialized web part properties
-| [HtmlPropertiesData](OfficeDevPnP.Core.Pages.ClientSideWebPart.HtmlPropertiesData.md) | Html properties data
-| [HtmlProperties](OfficeDevPnP.Core.Pages.ClientSideWebPart.HtmlProperties.md) | Value of the data-sp-htmlproperties attribute
-| [WebPartId](OfficeDevPnP.Core.Pages.ClientSideWebPart.WebPartId.md) | ID of the client side web part
-| [WebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPart.WebPartData.md) | Value of the data-sp-webpart attribute
-| [Title](OfficeDevPnP.Core.Pages.ClientSideWebPart.Title.md) | Title of the web part
 | [Description](OfficeDevPnP.Core.Pages.ClientSideWebPart.Description.md) | Description of the web part
-| [PropertiesJson](OfficeDevPnP.Core.Pages.ClientSideWebPart.PropertiesJson.md) | Json serialized web part properties
+| [HtmlProperties](OfficeDevPnP.Core.Pages.ClientSideWebPart.HtmlProperties.md) | Value of the data-sp-htmlproperties attribute
+| [HtmlPropertiesData](OfficeDevPnP.Core.Pages.ClientSideWebPart.HtmlPropertiesData.md) | Html properties data
+| [JsonWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPart.JsonWebPartData.md) | Json serialized web part properties
 | [Properties](OfficeDevPnP.Core.Pages.ClientSideWebPart.Properties.md) | 
+| [PropertiesJson](OfficeDevPnP.Core.Pages.ClientSideWebPart.PropertiesJson.md) | Json serialized web part properties
+| [Title](OfficeDevPnP.Core.Pages.ClientSideWebPart.Title.md) | Title of the web part
 | [Type](OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md) | 
+| [WebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPart.WebPartData.md) | Value of the data-sp-webpart attribute
+| [WebPartId](OfficeDevPnP.Core.Pages.ClientSideWebPart.WebPartId.md) | ID of the client side web part
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDictionaryItem[] PropertyDefinitions { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDictionaryItem[] PropertyDefinitions { set; }
+public StringDictionaryItem[] PropertyDefinitions { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDicti
 ## Remarks 
 
 ## See also
-- [WorkflowsWorkflowSubscription](WorkflowsWorkflowSubscription.md) 
-
+- [WorkflowsWorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

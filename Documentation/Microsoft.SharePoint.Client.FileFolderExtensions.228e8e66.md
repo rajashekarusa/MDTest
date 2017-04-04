@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ResolveSubFolder(Folder folder,String folderName)
+public static Microsoft.SharePoint.Client.Folder ResolveSubFolder(Folder folder, String folderName)
 ```
 ### Parameters
 *folder*  

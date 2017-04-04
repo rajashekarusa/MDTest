@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.ContactData Result { get; }
+public ContactData Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebServ
 ## Remarks 
 
 ## See also
-- [AddColleagueCompletedEventArgs](AddColleagueCompletedEventArgs.md) 
-
+- [AddColleagueCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

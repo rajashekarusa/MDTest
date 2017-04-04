@@ -18,9 +18,9 @@ public class WebPartPageWebPart
 |**Name**|**Description**|
 |:-----|:-----|
 | [Contents](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.Contents.md) | 
+| [Order](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.Order.md) | 
 | [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.Title.md) | 
 | [Zone](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.Zone.md) | 
-| [Order](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.Order.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ienumerable<system.string> GetLeftOverTokens(String input)
+public System.Collections.Generic.IEnumerable`1<System.String> GetLeftOverTokens(String input)
 ```
 ### Parameters
 *input*  

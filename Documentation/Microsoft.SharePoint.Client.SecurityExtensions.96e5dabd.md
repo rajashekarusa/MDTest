@@ -5,7 +5,7 @@ Returns a list all external users for a given site that have at least the viewpa
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<officedevpnp.core.entities.externaluserentity> GetExternalUsersForSiteTenant(Web web,Uri siteUrl)
+public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.ExternalUserEntity> GetExternalUsersForSiteTenant(Web web, Uri siteUrl)
 ```
 ### Parameters
 *web*  

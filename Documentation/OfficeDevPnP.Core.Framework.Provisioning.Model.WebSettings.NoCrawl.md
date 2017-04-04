@@ -5,14 +5,12 @@ Defines whether the site has to be crawled or not
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean NoCrawl { get; }
-public boolean NoCrawl { set; }
+public boolean NoCrawl { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [WebSettings](WebSettings.md) 
-
+- [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

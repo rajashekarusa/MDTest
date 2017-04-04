@@ -5,14 +5,12 @@ Gets or sets a value that specifies whether to Remove the CustomAction from the 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove { get; }
-public boolean Remove { set; }
+public boolean Remove { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

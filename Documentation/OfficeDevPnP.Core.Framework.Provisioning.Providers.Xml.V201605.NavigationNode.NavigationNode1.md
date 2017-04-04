@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[] NavigationNode1 { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[] NavigationNode1 { set; }
+public NavigationNode[] NavigationNode1 { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationN
 ## Remarks 
 
 ## See also
-- [NavigationNode](NavigationNode.md) 
-
+- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

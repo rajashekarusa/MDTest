@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string absolute_timestamps { get; }
-public string absolute_timestamps { set; }
+public string absolute_timestamps { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUserWebPreferences](YammerUserWebPreferences.md) 
-
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

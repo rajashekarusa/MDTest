@@ -5,14 +5,12 @@ If true, existing navigation nodes of the site (where applicable) will be cleare
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ClearNavigation { get; }
-public boolean ClearNavigation { set; }
+public boolean ClearNavigation { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 
-
+- [ProvisioningTemplateApplyingInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

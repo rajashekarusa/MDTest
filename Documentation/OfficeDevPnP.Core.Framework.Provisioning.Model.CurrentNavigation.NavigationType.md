@@ -5,14 +5,12 @@ Defines the type of Current Navigation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType NavigationType { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType NavigationType { set; }
+public CurrentNavigationType NavigationType { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType  
 
 ## See also
-- [CurrentNavigation](CurrentNavigation.md) 
-
+- [CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

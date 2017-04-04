@@ -17,8 +17,8 @@ public class GetUserPinnedLinksCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserPinnedLinksCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.5691d3c5.md) | 
 | [BeginInvoke(Object, GetUserPinnedLinksCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.1501a3c.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserPinnedLinksCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.5691d3c5.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

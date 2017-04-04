@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Path { get; }
-public string Path { set; }
+public string Path { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [RoleAssignmentEntity](RoleAssignmentEntity.md) 
-
+- [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

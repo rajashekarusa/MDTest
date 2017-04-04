@@ -5,14 +5,12 @@ The variation label language
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Language { get; }
-public string Language { set; }
+public string Language { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [VariationLabelEntity](VariationLabelEntity.md) 
-
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -17,8 +17,8 @@ public class RemoveMembershipCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveMembershipCompletedEventHandler.26851c57.md) | 
 | [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.RemoveMembershipCompletedEventHandler.f6352ab0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.RemoveMembershipCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveMembershipCompletedEventHandler.26851c57.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

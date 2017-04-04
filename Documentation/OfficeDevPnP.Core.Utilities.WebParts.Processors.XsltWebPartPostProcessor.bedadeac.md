@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Process(WebPartDefinition wpDefinition,File webPartPage)
+public System.Void Process(WebPartDefinition wpDefinition, File webPartPage)
 ```
 ### Parameters
 *wpDefinition*  

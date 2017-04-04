@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Result { get; }
-public boolean Result { set; }
+public boolean Result { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ProvisioningTemplateInfo](ProvisioningTemplateInfo.md) 
-
+- [ProvisioningTemplateInfo](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateInfo.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

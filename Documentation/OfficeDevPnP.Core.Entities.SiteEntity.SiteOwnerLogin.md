@@ -5,14 +5,12 @@ The site owner
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string SiteOwnerLogin { get; }
-public string SiteOwnerLogin { set; }
+public string SiteOwnerLogin { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

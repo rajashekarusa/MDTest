@@ -5,7 +5,7 @@ Exports the full list of terms from all termsets in all termstores.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<system.string> ExportTermSet(Site site,Guid termSetId,Boolean includeId,TermStore termStore,String delimiter)
+public static System.Collections.Generic.List`1<System.String> ExportTermSet(Site site, Guid termSetId, Boolean includeId, TermStore termStore, String delimiter)
 ```
 ### Parameters
 *site*  

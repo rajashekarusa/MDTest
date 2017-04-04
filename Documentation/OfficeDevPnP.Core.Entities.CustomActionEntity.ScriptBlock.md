@@ -5,14 +5,12 @@ The JavaScript to be executed by this custom action
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ScriptBlock { get; }
-public string ScriptBlock { set; }
+public string ScriptBlock { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

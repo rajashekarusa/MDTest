@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable<microsoft.sharepoint.client.usercustomaction> GetCustomActions(Site site,Expression<Func<UserCustomAction, Object>>[] expressions)
+public static System.Collections.Generic.IEnumerable`1<Microsoft.SharePoint.Client.UserCustomAction> GetCustomActions(Site site, Expression<Func<UserCustomAction, Object>>[] expressions)
 ```
 ### Parameters
 *site*  

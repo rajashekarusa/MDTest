@@ -5,7 +5,7 @@ Validates an object for not being null or not being the default value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ValidateNotNullOrEmpty(T input,String variableName)
+public static System.Void ValidateNotNullOrEmpty(T input, String variableName)
 ```
 ### Parameters
 *input*  

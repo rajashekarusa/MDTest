@@ -5,7 +5,7 @@ Removes a permission level from a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemovePermissionLevelFromGroup(SecurableObject securableObject,String groupName,RoleType permissionLevel,Boolean removeAllPermissionLevels)
+public static System.Void RemovePermissionLevelFromGroup(SecurableObject securableObject, String groupName, RoleType permissionLevel, Boolean removeAllPermissionLevels)
 ```
 ### Parameters
 *securableObject*  

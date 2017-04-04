@@ -5,14 +5,12 @@ Defines if the Workflow is Published, optional attribute.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Published { get; }
-public boolean Published { set; }
+public boolean Published { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [WorkflowDefinition](WorkflowDefinition.md) 
-
+- [WorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

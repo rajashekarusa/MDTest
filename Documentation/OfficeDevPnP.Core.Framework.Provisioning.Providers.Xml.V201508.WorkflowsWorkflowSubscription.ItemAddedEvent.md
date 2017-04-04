@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ItemAddedEvent { get; }
-public boolean ItemAddedEvent { set; }
+public boolean ItemAddedEvent { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [WorkflowsWorkflowSubscription](WorkflowsWorkflowSubscription.md) 
-
+- [WorkflowsWorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

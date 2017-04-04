@@ -18,10 +18,10 @@ public class Security
 |**Name**|**Description**|
 |:-----|:-----|
 | [AdditionalAdministrators](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.AdditionalAdministrators.md) | 
-| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.AdditionalOwners.md) | 
 | [AdditionalMembers](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.AdditionalMembers.md) | 
+| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.AdditionalOwners.md) | 
 | [AdditionalVisitors](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.AdditionalVisitors.md) | 
-| [SiteGroups](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.SiteGroups.md) | 
 | [Permissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.Permissions.md) | 
+| [SiteGroups](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.SiteGroups.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

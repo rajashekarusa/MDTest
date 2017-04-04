@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Delete()
+public System.Void Delete()
 ```
 ### Return Value
 Type: System.Void  

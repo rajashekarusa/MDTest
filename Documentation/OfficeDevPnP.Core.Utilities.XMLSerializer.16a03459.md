@@ -5,7 +5,7 @@ Serializes an object instance to a stream, providing custom namespace prefixes.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static io.stream SerializeToStream(T objectToSerialize,XmlSerializerNamespaces ns)
+public static System.IO.Stream SerializeToStream(T objectToSerialize, XmlSerializerNamespaces ns)
 ```
 ### Parameters
 *objectToSerialize*  

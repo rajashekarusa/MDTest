@@ -5,14 +5,12 @@ Defines whether to display the week number in day or week views of a calendar
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ShowWeeks { get; }
-public boolean ShowWeeks { set; }
+public boolean ShowWeeks { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [RegionalSettings](RegionalSettings.md) 
-
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

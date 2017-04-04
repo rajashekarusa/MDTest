@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void EnableRequestAccess(Web web,IEnumerable<String> emails)
+public static System.Void EnableRequestAccess(Web web, IEnumerable<String> emails)
 ```
 ### Parameters
 *web*  

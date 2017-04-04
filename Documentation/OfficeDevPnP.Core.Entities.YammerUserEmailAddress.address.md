@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string address { get; }
-public string address { set; }
+public string address { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUserEmailAddress](YammerUserEmailAddress.md) 
-
+- [YammerUserEmailAddress](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AddInsAddinSource Source { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AddInsAddinSource Source { set; }
+public AddInsAddinSource Source { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AddInsAddin
 ## Remarks 
 
 ## See also
-- [AddInsAddin](AddInsAddin.md) 
-
+- [AddInsAddin](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AddInsAddin.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -17,20 +17,20 @@ public class ContentType
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefs](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.FieldRefs.md) | 
-| [DocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.DocumentTemplate.md) | 
-| [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.DocumentSetTemplate.md) | 
-| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.ID.md) | 
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Name.md) | 
+| [AnyAttr](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.AnyAttr.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Description.md) | 
+| [DisplayFormUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.DisplayFormUrl.md) | 
+| [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.DocumentSetTemplate.md) | 
+| [DocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.DocumentTemplate.md) | 
+| [EditFormUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.EditFormUrl.md) | 
+| [FieldRefs](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.FieldRefs.md) | 
 | [Group](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Group.md) | 
 | [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Hidden.md) | 
-| [Sealed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Sealed.md) | 
-| [ReadOnly](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.ReadOnly.md) | 
-| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Overwrite.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.ID.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Name.md) | 
 | [NewFormUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.NewFormUrl.md) | 
-| [EditFormUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.EditFormUrl.md) | 
-| [DisplayFormUrl](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.DisplayFormUrl.md) | 
-| [AnyAttr](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.AnyAttr.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Overwrite.md) | 
+| [ReadOnly](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.ReadOnly.md) | 
+| [Sealed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentType.Sealed.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

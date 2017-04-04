@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid UserProfileID { get; }
-public guid UserProfileID { set; }
+public guid UserProfileID { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Guid
 ## Remarks 
 
 ## See also
-- [ContactData](ContactData.md) 
-
+- [ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

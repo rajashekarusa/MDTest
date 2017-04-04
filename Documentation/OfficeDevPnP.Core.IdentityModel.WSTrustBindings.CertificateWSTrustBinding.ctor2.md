@@ -7,7 +7,7 @@ public CertificateWSTrustBinding(SecurityMode securityMode)
 ```
 ### Parameters
 #### securityMode
-&emsp;&emsp;Type: [System.ServiceModel.SecurityMode] 
+&emsp;&emsp;Type: System.ServiceModel.SecurityMode  
 #### 
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

@@ -5,14 +5,12 @@ Gets or sets the feature Id
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; }
-public guid Id { set; }
+public guid Id { get; set; }
 ```
 
 ### Property Value
 Type: System.Guid  
 
 ## See also
-- [Feature](Feature.md) 
-
+- [Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

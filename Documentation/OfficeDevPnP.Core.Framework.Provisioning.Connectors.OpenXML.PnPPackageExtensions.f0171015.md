@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  UnpackTemplate(MemoryStream stream)
+public static OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo UnpackTemplate(MemoryStream stream)
 ```
 ### Parameters
 *stream*  

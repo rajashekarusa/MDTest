@@ -17,8 +17,8 @@ public class PinnedLinkData
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [ID](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.ID.md) | 
 | [Name](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.Name.md) | 
 | [Url](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.Url.md) | 
-| [ID](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

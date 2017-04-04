@@ -17,8 +17,8 @@ public class GetCommonColleaguesCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetCommonColleaguesCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.c11acd60.md) | 
 | [BeginInvoke(Object, GetCommonColleaguesCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.c53d14d4.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetCommonColleaguesCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.c11acd60.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

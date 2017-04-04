@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public servicemodel.httpclientcredentialtype ClientCredentialType { get; }
-public servicemodel.httpclientcredentialtype ClientCredentialType { set; }
+public httpclientcredentialtype ClientCredentialType { get; set; }
 ```
 
 ### Property Value
 Type: System.ServiceModel.HttpClientCredentialType  
 
 ## See also
-- [CertificateWSTrustBinding](CertificateWSTrustBinding.md) 
-
+- [CertificateWSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.md) 
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

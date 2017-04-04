@@ -17,9 +17,9 @@ public class PnPFileInfo
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [Content](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.Content.md) | The binary content of the file
+| [Folder](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.Folder.md) | The name of the folder within the PnP OpenXML file
 | [InternalName](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.InternalName.md) | The Internal Name of the file in the PnP OpenXML file
 | [OriginalName](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.OriginalName.md) | The Original Name of the file in the source template
-| [Folder](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.Folder.md) | The name of the folder within the PnP OpenXML file
-| [Content](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.Content.md) | The binary content of the file
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

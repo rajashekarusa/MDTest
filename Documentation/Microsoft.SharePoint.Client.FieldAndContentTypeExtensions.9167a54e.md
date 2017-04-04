@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateField(List list,FieldCreationInformation fieldCreationInformation,Boolean executeQuery)
+public static TField CreateField(List list, FieldCreationInformation fieldCreationInformation, Boolean executeQuery)
 ```
 ### Parameters
 *list*  

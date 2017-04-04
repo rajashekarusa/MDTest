@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Assembly { get; }
-public string Assembly { set; }
+public string Assembly { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ExtensibilityHandler](ExtensibilityHandler.md) 
-
+- [ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

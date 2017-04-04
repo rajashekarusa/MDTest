@@ -5,7 +5,7 @@ Set localized labels for content type
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetLocalizationForContentType(List list,String contentTypeId,String cultureName,String nameResource,String descriptionResource)
+public static System.Void SetLocalizationForContentType(List list, String contentTypeId, String cultureName, String nameResource, String descriptionResource)
 ```
 ### Parameters
 *list*  

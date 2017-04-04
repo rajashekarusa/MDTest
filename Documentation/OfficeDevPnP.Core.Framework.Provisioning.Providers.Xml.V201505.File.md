@@ -17,10 +17,10 @@ public class File
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Properties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.Properties.md) | 
-| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.WebParts.md) | 
-| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.Src.md) | 
 | [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.Folder.md) | 
 | [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.Overwrite.md) | 
+| [Properties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.Properties.md) | 
+| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.Src.md) | 
+| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.File.WebParts.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

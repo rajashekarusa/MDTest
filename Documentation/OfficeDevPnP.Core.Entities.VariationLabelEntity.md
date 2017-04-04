@@ -17,13 +17,13 @@ public class VariationLabelEntity
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Title](OfficeDevPnP.Core.Entities.VariationLabelEntity.Title.md) | The variation label title
 | [Description](OfficeDevPnP.Core.Entities.VariationLabelEntity.Description.md) | The variation label description
 | [FlagControlDisplayName](OfficeDevPnP.Core.Entities.VariationLabelEntity.FlagControlDisplayName.md) | The flag to control display name
+| [HierarchyCreationMode](OfficeDevPnP.Core.Entities.VariationLabelEntity.HierarchyCreationMode.md) | The hierarchy creation mode
+| [IsCreated](OfficeDevPnP.Core.Entities.VariationLabelEntity.IsCreated.md) | Gets a value indicating whether the variation label has been created
+| [IsSource](OfficeDevPnP.Core.Entities.VariationLabelEntity.IsSource.md) | Set as source variation
 | [Language](OfficeDevPnP.Core.Entities.VariationLabelEntity.Language.md) | The variation label language
 | [Locale](OfficeDevPnP.Core.Entities.VariationLabelEntity.Locale.md) | The variation label locale
-| [HierarchyCreationMode](OfficeDevPnP.Core.Entities.VariationLabelEntity.HierarchyCreationMode.md) | The hierarchy creation mode
-| [IsSource](OfficeDevPnP.Core.Entities.VariationLabelEntity.IsSource.md) | Set as source variation
-| [IsCreated](OfficeDevPnP.Core.Entities.VariationLabelEntity.IsCreated.md) | Gets a value indicating whether the variation label has been created
+| [Title](OfficeDevPnP.Core.Entities.VariationLabelEntity.Title.md) | The variation label title
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

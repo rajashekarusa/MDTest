@@ -7,13 +7,13 @@ public SharePointConnector(ClientRuntimeContext clientContext, String connection
 ```
 ### Parameters
 #### clientContext
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 #### 
 #### connectionString
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### container
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

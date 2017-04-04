@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<system.int32> Language { get; }
-public nullable<system.int32> Language { set; }
+public nullable<int32> Language { get; set; }
 ```
 
 ### Property Value
 Type: System.Nullable<System.Int32>  
 
 ## See also
-- [Term](Term.md) 
-
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

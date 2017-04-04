@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel Level { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel Level { set; }
+public FileLevel Level { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel
 ## Remarks 
 
 ## See also
-- [File](File.md) 
-
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

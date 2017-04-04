@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RegistrationType RegistrationType { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RegistrationType RegistrationType { set; }
+public RegistrationType RegistrationType { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Registratio
 ## Remarks 
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

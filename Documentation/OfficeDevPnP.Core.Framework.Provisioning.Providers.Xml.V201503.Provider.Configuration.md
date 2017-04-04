@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xml.xmlnode Configuration { get; }
-public xml.xmlnode Configuration { set; }
+public xmlnode Configuration { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Xml.XmlNode
 ## Remarks 
 
 ## See also
-- [Provider](Provider.md) 
-
+- [Provider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.Provider.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

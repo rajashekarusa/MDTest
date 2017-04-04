@@ -19,12 +19,12 @@ public class SharePointContextToken: JsonWebSecurityToken
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [NameId](OfficeDevPnP.Core.Utilities.SharePointContextToken.NameId.md) | 
-| [TargetPrincipalName](OfficeDevPnP.Core.Utilities.SharePointContextToken.TargetPrincipalName.md) | The principal name portion of the context token's "appctxsender" claim
-| [RefreshToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.RefreshToken.md) | The context token's "refreshtoken" claim
 | [CacheKey](OfficeDevPnP.Core.Utilities.SharePointContextToken.CacheKey.md) | The context token's "CacheKey" claim
-| [SecurityTokenServiceUri](OfficeDevPnP.Core.Utilities.SharePointContextToken.SecurityTokenServiceUri.md) | The context token's "SecurityTokenServiceUri" claim
+| [NameId](OfficeDevPnP.Core.Utilities.SharePointContextToken.NameId.md) | 
 | [Realm](OfficeDevPnP.Core.Utilities.SharePointContextToken.Realm.md) | The realm portion of the context token's "audience" claim
+| [RefreshToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.RefreshToken.md) | The context token's "refreshtoken" claim
+| [SecurityTokenServiceUri](OfficeDevPnP.Core.Utilities.SharePointContextToken.SecurityTokenServiceUri.md) | The context token's "SecurityTokenServiceUri" claim
+| [TargetPrincipalName](OfficeDevPnP.Core.Utilities.SharePointContextToken.TargetPrincipalName.md) | The principal name portion of the context token's "appctxsender" claim
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

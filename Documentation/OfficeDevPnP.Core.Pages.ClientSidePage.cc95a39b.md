@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddControl(CanvasControl control,CanvasZone zone,Int32 order)
+public System.Void AddControl(CanvasControl control, CanvasZone zone, Int32 order)
 ```
 ### Parameters
 *control*  

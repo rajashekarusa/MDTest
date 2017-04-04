@@ -18,8 +18,8 @@ public class ExtensibilityManager
 |**Name**|**Description**|
 |:-----|:-----|
 | [ExecuteExtensibilityCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.36a5e1b4.md) | Method to Invoke Custom Provisioning Providers. Ensure the ClientContext is not disposed in the custom provider.
-| [ExecuteTokenProviderCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.2865f124.md) | Method to Invoke Custom Provisioning Token Providers which implement the IProvisioningExtensibilityTokenProvider interface. Ensure the ClientContext is not disposed in the custom provider.
-| [ExecuteExtensibilityProvisionCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate, ProvisioningTemplateApplyingInformation, TokenParser, PnPMonitoredScope)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.2db05b82.md) | Method to Invoke Custom Provisioning Handlers.
 | [ExecuteExtensibilityExtractionCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate, ProvisioningTemplateCreationInformation, PnPMonitoredScope)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.44bd95c4.md) | Method to Invoke Custom Extraction Handlers.
+| [ExecuteExtensibilityProvisionCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate, ProvisioningTemplateApplyingInformation, TokenParser, PnPMonitoredScope)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.2db05b82.md) | Method to Invoke Custom Provisioning Handlers.
+| [ExecuteTokenProviderCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.2865f124.md) | Method to Invoke Custom Provisioning Token Providers which implement the IProvisioningExtensibilityTokenProvider interface. Ensure the ClientContext is not disposed in the custom provider.
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

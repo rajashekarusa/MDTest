@@ -17,9 +17,9 @@ public class Provisioning
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.Preferences.md) | 
-| [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.Templates.md) | 
-| [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.Sequence.md) | 
 | [ImportSequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.ImportSequence.md) | 
+| [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.Preferences.md) | 
+| [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.Sequence.md) | 
+| [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.Templates.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

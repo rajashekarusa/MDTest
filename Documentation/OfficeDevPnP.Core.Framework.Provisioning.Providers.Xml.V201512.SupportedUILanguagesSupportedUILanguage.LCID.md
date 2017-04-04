@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int LCID { get; }
-public int LCID { set; }
+public int LCID { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [SupportedUILanguagesSupportedUILanguage](SupportedUILanguagesSupportedUILanguage.md) 
-
+- [SupportedUILanguagesSupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SupportedUILanguagesSupportedUILanguage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

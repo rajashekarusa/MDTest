@@ -5,7 +5,7 @@ Sets the search center url on site collection (Site Settings -> Site collection 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetSiteCollectionSearchCenterUrl(Web web,String searchCenterUrl)
+public static System.Void SetSiteCollectionSearchCenterUrl(Web web, String searchCenterUrl)
 ```
 ### Parameters
 *web*  

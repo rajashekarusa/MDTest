@@ -17,8 +17,8 @@ public class RemoveColleagueCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler.26851c57.md) | 
 | [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler.f6352ab0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler.26851c57.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

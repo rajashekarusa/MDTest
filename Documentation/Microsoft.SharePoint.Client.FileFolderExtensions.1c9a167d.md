@@ -5,7 +5,7 @@ Publishes a file existing on a server url
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void PublishFile(Web web,String serverRelativeUrl,String comment)
+public static System.Void PublishFile(Web web, String serverRelativeUrl, String comment)
 ```
 ### Parameters
 *web*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Import(ClientSideComponent component,Func<String, String> clientSideWebPartPropertiesUpdater)
+public System.Void Import(ClientSideComponent component, Func<String, String> clientSideWebPartPropertiesUpdater)
 ```
 ### Parameters
 *component*  

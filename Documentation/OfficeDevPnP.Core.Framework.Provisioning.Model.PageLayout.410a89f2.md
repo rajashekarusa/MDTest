@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(PageLayout other)
+public System.Boolean Equals(PageLayout other)
 ```
 ### Parameters
 *other*  

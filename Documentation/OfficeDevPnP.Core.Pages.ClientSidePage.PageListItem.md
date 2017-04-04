@@ -3,13 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.ListItem PageListItem { get; }
+public ListItem PageListItem { get; }
 ```
 
 ### Property Value
 Type: Microsoft.SharePoint.Client.ListItem  
 
 ## See also
-- [ClientSidePage](ClientSidePage.md) 
-
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

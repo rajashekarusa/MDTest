@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int MaxDynamicItems { get; }
-public int MaxDynamicItems { set; }
+public int MaxDynamicItems { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [StructuralNavigationEntity](StructuralNavigationEntity.md) 
-
+- [StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

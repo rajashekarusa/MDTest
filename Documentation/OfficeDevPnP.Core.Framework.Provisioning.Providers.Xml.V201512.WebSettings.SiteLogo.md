@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string SiteLogo { get; }
-public string SiteLogo { set; }
+public string SiteLogo { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [WebSettings](WebSettings.md) 
-
+- [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

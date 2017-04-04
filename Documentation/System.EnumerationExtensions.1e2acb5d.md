@@ -5,7 +5,7 @@ Removes an enumerated type and returns the new value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Remove(Enum value,T remove)
+public static T Remove(Enum value, T remove)
 ```
 ### Parameters
 *value*  

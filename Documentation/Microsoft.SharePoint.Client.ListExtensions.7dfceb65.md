@@ -5,7 +5,7 @@ Create list views based on specific xml structure in external file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreateViewsFromXMLFile(List list,String filePath)
+public static System.Void CreateViewsFromXMLFile(List list, String filePath)
 ```
 ### Parameters
 *list*  

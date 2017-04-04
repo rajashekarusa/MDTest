@@ -5,7 +5,7 @@ Queues a list for a full crawl the next incremental crawl
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ReIndexList(List list)
+public static System.Void ReIndexList(List list)
 ```
 ### Parameters
 *list*  

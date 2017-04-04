@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetPropertyChoiceListCompleted(GetPropertyChoiceListCompletedEventHandler value)
+public System.Void add_GetPropertyChoiceListCompleted(GetPropertyChoiceListCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

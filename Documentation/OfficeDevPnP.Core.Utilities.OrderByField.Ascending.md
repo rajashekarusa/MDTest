@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Ascending { get; }
-public boolean Ascending { set; }
+public boolean Ascending { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [OrderByField](OrderByField.md) 
-
+- [OrderByField](OfficeDevPnP.Core.Utilities.OrderByField.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

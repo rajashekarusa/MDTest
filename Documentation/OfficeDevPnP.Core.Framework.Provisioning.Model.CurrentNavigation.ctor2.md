@@ -7,7 +7,7 @@ public CurrentNavigation(CurrentNavigationType navigationType, StructuralNavigat
 ```
 ### Parameters
 #### navigationType
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType] 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType.md)  
 #### 
 #### (optional) structuralNavigation
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 

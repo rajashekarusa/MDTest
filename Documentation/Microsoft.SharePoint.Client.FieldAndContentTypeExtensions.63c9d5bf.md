@@ -5,7 +5,7 @@ Create new content type to web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateContentType(Web web,String name,String id,String group)
+public static Microsoft.SharePoint.Client.ContentType CreateContentType(Web web, String name, String id, String group)
 ```
 ### Parameters
 *web*  

@@ -17,13 +17,13 @@ public class ManagedNavigation: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermStoreId](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.TermStoreId.md) | Defines the TermStore ID for the Managed Navigation
 | [TermSetId](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.TermSetId.md) | Defines the TermSet ID for the Managed Navigation
+| [TermStoreId](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.TermStoreId.md) | Defines the TermStore ID for the Managed Navigation
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.3520ddbb.md) | 
 | [Equals(ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.f7dec79c.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

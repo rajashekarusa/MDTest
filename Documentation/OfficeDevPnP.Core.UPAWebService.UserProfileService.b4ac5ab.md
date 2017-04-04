@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetUserLinksCompleted(GetUserLinksCompletedEventHandler value)
+public System.Void add_GetUserLinksCompleted(GetUserLinksCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

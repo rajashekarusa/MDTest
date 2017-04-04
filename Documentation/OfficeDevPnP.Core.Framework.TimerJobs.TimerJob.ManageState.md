@@ -6,14 +6,12 @@ Gets and sets the state management value: when true the timer job will automatic
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ManageState { get; }
-public boolean ManageState { set; }
+public boolean ManageState { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

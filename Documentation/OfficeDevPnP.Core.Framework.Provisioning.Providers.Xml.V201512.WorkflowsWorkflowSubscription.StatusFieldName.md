@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string StatusFieldName { get; }
-public string StatusFieldName { set; }
+public string StatusFieldName { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [WorkflowsWorkflowSubscription](WorkflowsWorkflowSubscription.md) 
-
+- [WorkflowsWorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Leq(String fieldValue)
+public static System.String Leq(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

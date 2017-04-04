@@ -5,7 +5,7 @@ Sets the web home page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetHomePage(Web web,String rootFolderRelativePath)
+public static System.Void SetHomePage(Web web, String rootFolderRelativePath)
 ```
 ### Parameters
 *web*  

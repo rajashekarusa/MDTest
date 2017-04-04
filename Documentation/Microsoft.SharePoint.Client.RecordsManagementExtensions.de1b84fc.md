@@ -5,7 +5,7 @@ Checks if this list has active in place records management settings defined
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsListRecordSettingDefined(List list)
+public static System.Boolean IsListRecordSettingDefined(List list)
 ```
 ### Parameters
 *list*  

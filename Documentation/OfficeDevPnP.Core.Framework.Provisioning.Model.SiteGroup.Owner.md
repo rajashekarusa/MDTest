@@ -5,14 +5,12 @@ The Owner of the Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Owner { get; }
-public string Owner { set; }
+public string Owner { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [SiteGroup](SiteGroup.md) 
-
+- [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsColleagueEventLog { get; }
-public boolean IsColleagueEventLog { set; }
+public boolean IsColleagueEventLog { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [PropertyInfo](PropertyInfo.md) 
-
+- [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

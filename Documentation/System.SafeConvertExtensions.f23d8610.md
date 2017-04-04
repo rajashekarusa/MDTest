@@ -5,7 +5,7 @@ Converts the input string to a Guid and if null, it returns the default value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid ToGuid(String input)
+public static System.Guid ToGuid(String input)
 ```
 ### Parameters
 *input*  

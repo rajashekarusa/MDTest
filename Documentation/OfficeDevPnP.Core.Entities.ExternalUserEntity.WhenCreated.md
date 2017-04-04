@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime WhenCreated { get; }
-public datetime WhenCreated { set; }
+public datetime WhenCreated { get; set; }
 ```
 
 ### Property Value
 Type: System.DateTime  
 
 ## See also
-- [ExternalUserEntity](ExternalUserEntity.md) 
-
+- [ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,7 +5,7 @@ Returns an event receiver definition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetEventReceiverByName(Web web,String name)
+public static Microsoft.SharePoint.Client.EventReceiverDefinition GetEventReceiverByName(Web web, String name)
 ```
 ### Parameters
 *web*  

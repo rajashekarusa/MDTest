@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetListByTitle(Web web,String listTitle,Expression<Func<List, Object>>[] expressions)
+public static Microsoft.SharePoint.Client.List GetListByTitle(Web web, String listTitle, Expression<Func<List, Object>>[] expressions)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void CancelAsync(Object userState)
+public System.Void CancelAsync(Object userState)
 ```
 ### Parameters
 *userState*  

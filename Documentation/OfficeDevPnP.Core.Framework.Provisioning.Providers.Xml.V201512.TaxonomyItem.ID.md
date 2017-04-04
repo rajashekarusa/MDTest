@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ID { get; }
-public string ID { set; }
+public string ID { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [TaxonomyItem](TaxonomyItem.md) 
-
+- [TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TaxonomyItem.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

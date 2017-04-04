@@ -17,8 +17,8 @@ public class CreateUserProfileByAccountNameCompletedEventHandler: MulticastDeleg
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, CreateUserProfileByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.f57ef7a2.md) | 
 | [BeginInvoke(Object, CreateUserProfileByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.1c80fa48.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, CreateUserProfileByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.f57ef7a2.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

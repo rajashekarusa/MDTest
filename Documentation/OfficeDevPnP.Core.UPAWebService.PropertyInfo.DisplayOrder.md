@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int DisplayOrder { get; }
-public int DisplayOrder { set; }
+public int DisplayOrder { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [PropertyInfo](PropertyInfo.md) 
-
+- [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

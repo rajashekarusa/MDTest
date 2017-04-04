@@ -17,8 +17,8 @@ public class RemovePinnedLinkCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemovePinnedLinkCompletedEventHandler.26851c57.md) | 
 | [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.RemovePinnedLinkCompletedEventHandler.f6352ab0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.RemovePinnedLinkCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.RemovePinnedLinkCompletedEventHandler.26851c57.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

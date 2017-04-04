@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ConvertFrom(ClientContext clientContext,Int32 retryCount,Int32 delay)
+public static OfficeDevPnP.Core.PnPClientContext ConvertFrom(ClientContext clientContext, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 *clientContext*  

@@ -5,7 +5,7 @@ Deletes a navigation node from the quickLaunch or top navigation bar
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteNavigationNode(Web web,String nodeTitle,String parentNodeTitle,NavigationType navigationType)
+public static System.Void DeleteNavigationNode(Web web, String nodeTitle, String parentNodeTitle, NavigationType navigationType)
 ```
 ### Parameters
 *web*  
@@ -21,7 +21,7 @@ public static void DeleteNavigationNode(Web web,String nodeTitle,String parentNo
 &emsp;&emsp;if string.Empty, then will delete this node as top level node  
   
 *navigationType*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Enums.NavigationType  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.NavigationType](OfficeDevPnP.Core.Enums.NavigationType.md)  
 &emsp;&emsp;the type of navigation, quick launch, top navigation or search navigation  
   
 ### Return Value

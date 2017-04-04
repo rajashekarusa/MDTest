@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean LevelSpecified { get; }
-public boolean LevelSpecified { set; }
+public boolean LevelSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [Directory](Directory.md) 
-
+- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

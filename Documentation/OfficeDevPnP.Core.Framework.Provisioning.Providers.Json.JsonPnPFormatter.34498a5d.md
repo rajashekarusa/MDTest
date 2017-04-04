@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public io.stream ToFormattedTemplate(ProvisioningTemplate template)
+public System.IO.Stream ToFormattedTemplate(ProvisioningTemplate template)
 ```
 ### Parameters
 *template*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public iasyncresult BeginInvoke(String message,Int32 step,Int32 total,AsyncCallback callback,Object object)
+public System.IAsyncResult BeginInvoke(String message, Int32 step, Int32 total, AsyncCallback callback, Object object)
 ```
 ### Parameters
 *message*  

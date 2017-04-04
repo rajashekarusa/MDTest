@@ -5,7 +5,7 @@ Returns the URL of the Modern SharePoint Site backing an Office 365 Group (i.e. 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetUnifiedGroupSiteUrl(String groupId,String accessToken,Int32 retryCount,Int32 delay)
+public static System.String GetUnifiedGroupSiteUrl(String groupId, String accessToken, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 *groupId*  

@@ -5,14 +5,12 @@ Date and Time of creation for the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime CreationDateTime { get; }
-public datetime CreationDateTime { set; }
+public datetime CreationDateTime { get; set; }
 ```
 
 ### Property Value
 Type: System.DateTime  
 
 ## See also
-- [PnPProperties](PnPProperties.md) 
-
+- [PnPProperties](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

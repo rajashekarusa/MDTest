@@ -5,14 +5,12 @@ The name of the policy
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Name { get; }
-public string Name { set; }
+public string Name { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [SitePolicyEntity](SitePolicyEntity.md) 
-
+- [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

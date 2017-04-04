@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string last_message_at { get; }
-public string last_message_at { set; }
+public string last_message_at { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerGroupStats](YammerGroupStats.md) 
-
+- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void OnActionExecuting(HttpActionContext actionContext)
+public System.Void OnActionExecuting(HttpActionContext actionContext)
 ```
 ### Parameters
 *actionContext*  

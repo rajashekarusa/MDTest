@@ -5,7 +5,7 @@ Deploys a new masterpage
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  DeployMasterPage(Web web,String sourceFilePath,String title,String description,String uiVersion,String defaultCSSFile,String folderPath)
+public static Microsoft.SharePoint.Client.File DeployMasterPage(Web web, String sourceFilePath, String title, String description, String uiVersion, String defaultCSSFile, String folderPath)
 ```
 ### Parameters
 *web*  

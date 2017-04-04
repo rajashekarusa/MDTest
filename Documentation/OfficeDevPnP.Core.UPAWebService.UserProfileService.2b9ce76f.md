@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetUserColleaguesCompleted(GetUserColleaguesCompletedEventHandler value)
+public System.Void add_GetUserColleaguesCompleted(GetUserColleaguesCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

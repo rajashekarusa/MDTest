@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(DefaultDocument other)
+public System.Boolean Equals(DefaultDocument other)
 ```
 ### Parameters
 *other*  

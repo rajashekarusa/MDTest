@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public text.regularexpressions.regex GetRegexForToken(String token)
+public System.Text.RegularExpressions.Regex GetRegexForToken(String token)
 ```
 ### Parameters
 *token*  

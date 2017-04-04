@@ -5,7 +5,7 @@ Removes a custom action
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteCustomAction(Site site,Guid id)
+public static System.Void DeleteCustomAction(Site site, Guid id)
 ```
 ### Parameters
 *site*  

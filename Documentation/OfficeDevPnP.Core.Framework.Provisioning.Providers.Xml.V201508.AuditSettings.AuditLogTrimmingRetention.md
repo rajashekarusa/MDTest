@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int AuditLogTrimmingRetention { get; }
-public int AuditLogTrimmingRetention { set; }
+public int AuditLogTrimmingRetention { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [AuditSettings](AuditSettings.md) 
-
+- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

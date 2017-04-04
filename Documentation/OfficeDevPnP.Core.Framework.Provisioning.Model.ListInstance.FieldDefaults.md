@@ -5,13 +5,12 @@ Defines a list of default values for the Fields of the List Instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary<system.string,system.string> FieldDefaults { get; }
+public dictionary<string, string> FieldDefaults { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

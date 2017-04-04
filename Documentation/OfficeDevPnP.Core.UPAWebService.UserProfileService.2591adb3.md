@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetUserPropertyByAccountNameAsync(String accountName,String propertyName)
+public System.Void GetUserPropertyByAccountNameAsync(String accountName, String propertyName)
 ```
 ### Parameters
 *accountName*  

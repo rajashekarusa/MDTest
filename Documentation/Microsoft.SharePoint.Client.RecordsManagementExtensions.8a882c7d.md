@@ -5,7 +5,7 @@ Gets who can declare records
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetRecordDeclarationBy(Site site)
+public static OfficeDevPnP.Core.EcmRecordDeclarationBy GetRecordDeclarationBy(Site site)
 ```
 ### Parameters
 *site*  

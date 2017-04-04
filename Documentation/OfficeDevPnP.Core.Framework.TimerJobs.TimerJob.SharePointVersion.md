@@ -6,14 +6,12 @@ Gets or sets the SharePoint version. Default value is detected based on the laod
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int SharePointVersion { get; }
-public int SharePointVersion { set; }
+public int SharePointVersion { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

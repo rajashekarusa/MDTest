@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string TargetName { get; }
-public string TargetName { set; }
+public string TargetName { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [ContentTypeDocumentTemplate](ContentTypeDocumentTemplate.md) 
-
+- [ContentTypeDocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTypeDocumentTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

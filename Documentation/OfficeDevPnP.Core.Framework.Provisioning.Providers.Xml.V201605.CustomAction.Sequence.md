@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Sequence { get; }
-public int Sequence { set; }
+public int Sequence { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

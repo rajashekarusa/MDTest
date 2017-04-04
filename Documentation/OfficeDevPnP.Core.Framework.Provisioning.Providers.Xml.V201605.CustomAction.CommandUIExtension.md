@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension CommandUIExtension { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActionCommandUIExtension CommandUIExtension { set; }
+public CustomActionCommandUIExtension CommandUIExtension { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomActi
 ## Remarks 
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

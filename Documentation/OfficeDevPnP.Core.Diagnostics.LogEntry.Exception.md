@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public exception Exception { get; }
-public exception Exception { set; }
+public exception Exception { get; set; }
 ```
 
 ### Property Value
 Type: System.Exception  
 
 ## See also
-- [LogEntry](LogEntry.md) 
-
+- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

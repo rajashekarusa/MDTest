@@ -5,7 +5,7 @@ Adds a field to a list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateField(List list,String fieldAsXml,Boolean executeQuery)
+public static Microsoft.SharePoint.Client.Field CreateField(List list, String fieldAsXml, Boolean executeQuery)
 ```
 ### Parameters
 *list*  

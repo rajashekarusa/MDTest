@@ -8,7 +8,7 @@ Imports an array of | delimited strings into the deafult site collection termsto
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ImportTerms(Site site,String[] termLines,Int32 lcid,TermStore termStore,String delimiter,Boolean synchronizeDeletions)
+public static System.Void ImportTerms(Site site, String[] termLines, Int32 lcid, TermStore termStore, String delimiter, Boolean synchronizeDeletions)
 ```
 ### Parameters
 *site*  

@@ -5,14 +5,12 @@ The URL this custom action should navigate the user to
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Url { get; }
-public string Url { set; }
+public string Url { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,7 +5,7 @@ Enables the responsive UI of a classic SharePoint Web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void EnableResponsiveUI(Web web,String infrastructureUrl)
+public static System.Void EnableResponsiveUI(Web web, String infrastructureUrl)
 ```
 ### Parameters
 *web*  

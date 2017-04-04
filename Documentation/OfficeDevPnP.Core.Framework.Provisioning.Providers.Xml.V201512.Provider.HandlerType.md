@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string HandlerType { get; }
-public string HandlerType { set; }
+public string HandlerType { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [Provider](Provider.md) 
-
+- [Provider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provider.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

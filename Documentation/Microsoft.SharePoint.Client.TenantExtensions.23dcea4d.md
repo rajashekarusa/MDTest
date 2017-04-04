@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddAdministrators(Tenant tenant,IEnumerable<UserEntity> adminLogins,Uri siteUrl,Boolean addToOwnersGroup)
+public static System.Void AddAdministrators(Tenant tenant, IEnumerable<UserEntity> adminLogins, Uri siteUrl, Boolean addToOwnersGroup)
 ```
 ### Parameters
 *tenant*  

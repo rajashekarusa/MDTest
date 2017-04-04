@@ -5,7 +5,7 @@ Sets the default value for a managed metadata column in the specified list. This
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void UpdateTaxonomyFieldDefaultValue(Web web,String termName,String listName,String fieldInternalName,Guid groupGuid,Guid termSetGuid)
+public static System.Void UpdateTaxonomyFieldDefaultValue(Web web, String termName, String listName, String fieldInternalName, Guid groupGuid, Guid termSetGuid)
 ```
 ### Parameters
 *web*  

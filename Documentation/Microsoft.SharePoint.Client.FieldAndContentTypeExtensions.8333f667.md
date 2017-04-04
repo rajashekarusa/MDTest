@@ -5,7 +5,7 @@ Removes content type from list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveContentTypeFromListByName(Web web,String listTitle,String contentTypeName)
+public static System.Void RemoveContentTypeFromListByName(Web web, String listTitle, String contentTypeName)
 ```
 ### Parameters
 *web*  

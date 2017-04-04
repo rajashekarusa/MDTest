@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.WikiPageLayout Layout { get; }
-public OfficeDevPnP.Core.WikiPageLayout Layout { set; }
+public WikiPageLayout Layout { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.WikiPageLayout  
 
 ## See also
-- [Page](Page.md) 
-
+- [Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@ Create a content type based on the classic feature framework structure.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateContentTypeFromXMLFile(Web web,String absolutePathToFile)
+public static Microsoft.SharePoint.Client.ContentType CreateContentTypeFromXMLFile(Web web, String absolutePathToFile)
 ```
 ### Parameters
 *web*  

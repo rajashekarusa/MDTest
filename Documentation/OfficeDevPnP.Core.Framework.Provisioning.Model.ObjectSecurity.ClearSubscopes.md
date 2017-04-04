@@ -5,14 +5,12 @@ Defines whether to clear subscopes or not while breaking role inheritance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ClearSubscopes { get; }
-public boolean ClearSubscopes { set; }
+public boolean ClearSubscopes { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ObjectSecurity](ObjectSecurity.md) 
-
+- [ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

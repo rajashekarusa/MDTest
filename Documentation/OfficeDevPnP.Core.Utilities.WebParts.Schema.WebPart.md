@@ -17,7 +17,7 @@ public class WebPart
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [MetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.MetaData.md) | 
 | [Data](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.Data.md) | 
+| [MetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.MetaData.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

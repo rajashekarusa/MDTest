@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string creator_type { get; }
-public string creator_type { set; }
+public string creator_type { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerGroup](YammerGroup.md) 
-
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

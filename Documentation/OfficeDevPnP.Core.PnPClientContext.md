@@ -16,13 +16,13 @@ public class PnPClientContext: ClientContext
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RetryCount](OfficeDevPnP.Core.PnPClientContext.RetryCount.md) | 
 | [Delay](OfficeDevPnP.Core.PnPClientContext.Delay.md) | 
+| [RetryCount](OfficeDevPnP.Core.PnPClientContext.RetryCount.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ConvertFrom(ClientContext, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.dfe6b5b7.md) | 
 | [Clone(String)](OfficeDevPnP.Core.PnPClientContext.4c031e75.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
 | [Clone(Uri)](OfficeDevPnP.Core.PnPClientContext.d4f8ecbb.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
+| [ConvertFrom(ClientContext, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.dfe6b5b7.md) | 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

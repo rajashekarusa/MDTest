@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour WorkDayStartHour { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour WorkDayStartHour { set; }
+public WorkHour WorkDayStartHour { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkHour
 ## Remarks 
 
 ## See also
-- [RegionalSettings](RegionalSettings.md) 
-
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

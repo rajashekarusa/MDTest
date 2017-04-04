@@ -5,13 +5,12 @@ The FieldRefs entries of the List Instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection FieldRefs { get; }
+public FieldRefCollection FieldRefs { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.md)  
 
 ## See also
-- [ContentType](ContentType.md) 
-
+- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,14 +5,12 @@ The site locale. See http://technet.microsoft.com/en-us/library/ff463597.aspx fo
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint32 Lcid { get; }
-public uint32 Lcid { set; }
+public uint32 Lcid { get; set; }
 ```
 
 ### Property Value
 Type: System.UInt32  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

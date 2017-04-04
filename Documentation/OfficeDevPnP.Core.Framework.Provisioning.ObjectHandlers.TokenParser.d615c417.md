@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddToken(TokenDefinition tokenDefinition)
+public System.Void AddToken(TokenDefinition tokenDefinition)
 ```
 ### Parameters
 *tokenDefinition*  

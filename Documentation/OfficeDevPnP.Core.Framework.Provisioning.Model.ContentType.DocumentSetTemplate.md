@@ -5,14 +5,12 @@ Specifies the properties of the DocumentSet Template if the ContentType defines 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate DocumentSetTemplate { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate DocumentSetTemplate { set; }
+public DocumentSetTemplate DocumentSetTemplate { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md)  
 
 ## See also
-- [ContentType](ContentType.md) 
-
+- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

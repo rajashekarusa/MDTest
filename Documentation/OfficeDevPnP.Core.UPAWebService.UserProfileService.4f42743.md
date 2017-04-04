@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  AddPinnedLink(String accountName,String name,String url)
+public OfficeDevPnP.Core.UPAWebService.PinnedLinkData AddPinnedLink(String accountName, String name, String url)
 ```
 ### Parameters
 *accountName*  

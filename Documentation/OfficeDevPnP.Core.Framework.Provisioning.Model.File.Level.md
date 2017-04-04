@@ -5,14 +5,12 @@ The Level status for the File
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel Level { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel Level { set; }
+public FileLevel Level { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel  
 
 ## See also
-- [File](File.md) 
-
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

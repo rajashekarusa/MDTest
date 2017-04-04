@@ -7,10 +7,10 @@ public TokenDefinition(Web web, String[] token)
 ```
 ### Parameters
 #### web
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.Web] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 #### 
 #### token
-&emsp;&emsp;Type: [System.String[]] 
+&emsp;&emsp;Type: System.String[]  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

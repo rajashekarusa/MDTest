@@ -5,7 +5,7 @@ Returns the default site collection termstore
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetDefaultSiteCollectionTermStore(Site site)
+public static Microsoft.SharePoint.Client.Taxonomy.TermStore GetDefaultSiteCollectionTermStore(Site site)
 ```
 ### Parameters
 *site*  

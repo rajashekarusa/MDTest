@@ -6,7 +6,7 @@ Adds custom action to a web. If the CustomAction exists the item will be updated
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddCustomAction(Web web,CustomActionEntity customAction)
+public static System.Boolean AddCustomAction(Web web, CustomActionEntity customAction)
 ```
 ### Parameters
 *web*  

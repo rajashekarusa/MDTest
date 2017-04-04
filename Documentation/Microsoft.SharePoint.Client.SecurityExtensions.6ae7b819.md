@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddAdministrators(Web web,List<UserEntity> adminLogins,Boolean addToOwnersGroup)
+public static System.Void AddAdministrators(Web web, List<UserEntity> adminLogins, Boolean addToOwnersGroup)
 ```
 ### Parameters
 *web*  

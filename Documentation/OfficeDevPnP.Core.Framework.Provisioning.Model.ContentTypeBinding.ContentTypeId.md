@@ -5,14 +5,12 @@ Gets or Sets the Content Type ID
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ContentTypeId { get; }
-public string ContentTypeId { set; }
+public string ContentTypeId { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ContentTypeBinding](ContentTypeBinding.md) 
-
+- [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -17,11 +17,11 @@ public class GetUserProfileByIndexResult
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [NextValue](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.NextValue.md) | 
-| [UserProfile](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.UserProfile.md) | 
 | [Colleagues](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.Colleagues.md) | 
-| [QuickLinks](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.QuickLinks.md) | 
-| [PinnedLinks](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.PinnedLinks.md) | 
 | [Memberships](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.Memberships.md) | 
+| [NextValue](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.NextValue.md) | 
+| [PinnedLinks](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.PinnedLinks.md) | 
+| [QuickLinks](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.QuickLinks.md) | 
+| [UserProfile](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.UserProfile.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

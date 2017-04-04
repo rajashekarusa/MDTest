@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Id { get; }
-public string Id { set; }
+public string Id { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [WorkflowsWorkflowDefinition](WorkflowsWorkflowDefinition.md) 
-
+- [WorkflowsWorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

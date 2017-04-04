@@ -5,14 +5,12 @@ If true, system propertybag entries that start with _, vti_, dlc_ etc. will be o
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OverwriteSystemPropertyBagValues { get; }
-public boolean OverwriteSystemPropertyBagValues { set; }
+public boolean OverwriteSystemPropertyBagValues { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 
-
+- [ProvisioningTemplateApplyingInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

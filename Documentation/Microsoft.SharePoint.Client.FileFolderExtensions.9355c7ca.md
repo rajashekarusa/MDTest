@@ -5,7 +5,7 @@ Finds files in the web. Can be slow.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<microsoft.sharepoint.client.file> FindFiles(Web web,String match)
+public static System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File> FindFiles(Web web, String match)
 ```
 ### Parameters
 *web*  

@@ -8,6 +8,6 @@ public interface IWebPartPostProcessor
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Process(WebPartDefinition, File)](OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor.ProcessWebPartDefinitionFile.md) | 
+| [Process(WebPartDefinition, File)](OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor.bedadeac.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts](OfficeDevPnP.Core.Utilities.WebParts.md)

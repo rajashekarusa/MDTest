@@ -5,14 +5,12 @@ The Audit Log Trimming Retention for Audits
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int AuditLogTrimmingRetention { get; }
-public int AuditLogTrimmingRetention { set; }
+public int AuditLogTrimmingRetention { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [AuditSettings](AuditSettings.md) 
-
+- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

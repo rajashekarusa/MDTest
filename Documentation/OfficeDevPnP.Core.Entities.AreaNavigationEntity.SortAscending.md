@@ -5,14 +5,12 @@ Defines if sorted ascending
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SortAscending { get; }
-public boolean SortAscending { set; }
+public boolean SortAscending { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [AreaNavigationEntity](AreaNavigationEntity.md) 
-
+- [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

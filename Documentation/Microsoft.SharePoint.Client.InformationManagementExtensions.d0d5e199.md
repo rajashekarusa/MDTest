@@ -5,7 +5,7 @@ Gets the site policy that currently is applied
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetAppliedSitePolicy(Web web)
+public static OfficeDevPnP.Core.Entities.SitePolicyEntity GetAppliedSitePolicy(Web web)
 ```
 ### Parameters
 *web*  

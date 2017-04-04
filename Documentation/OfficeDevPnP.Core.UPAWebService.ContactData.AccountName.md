@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string AccountName { get; }
-public string AccountName { set; }
+public string AccountName { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [ContactData](ContactData.md) 
-
+- [ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

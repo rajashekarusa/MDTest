@@ -17,8 +17,8 @@ public class FieldRefFull: FieldRefBase
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.FieldRefFull.Hidden.md) | 
 | [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.FieldRefFull.Name.md) | 
 | [Required](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.FieldRefFull.Required.md) | 
-| [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.FieldRefFull.Hidden.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.PinnedLinkData[] PinnedLinks { get; }
-public OfficeDevPnP.Core.UPAWebService.PinnedLinkData[] PinnedLinks { set; }
+public PinnedLinkData[] PinnedLinks { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]
 ## Remarks 
 
 ## See also
-- [GetUserProfileByIndexResult](GetUserProfileByIndexResult.md) 
-
+- [GetUserProfileByIndexResult](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -23,8 +23,8 @@ public class AuditSettings: BaseModel
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.3520ddbb.md) | 
 | [Equals(AuditSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.2f7e554c.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

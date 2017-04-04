@@ -10,6 +10,6 @@ public interface IProvisioningExtensibilityTokenProvider
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetTokens(ClientContext, ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityTokenProvider.GetTokensClientContextProvisioningTemplateString.md) | Provides Token Definitions to the template provisioning pipeline
+| [GetTokens(ClientContext, ProvisioningTemplate, String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityTokenProvider.a2c85751.md) | Provides Token Definitions to the template provisioning pipeline
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

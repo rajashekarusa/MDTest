@@ -7,25 +7,25 @@ public TermSet(Guid id, String name, Nullable<Int32> language, Boolean isAvailab
 ```
 ### Parameters
 #### id
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 #### 
 #### name
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### language
-&emsp;&emsp;Type: [System.Nullable<System.Int32>] 
+&emsp;&emsp;Type: System.Nullable<System.Int32>  
 #### 
 #### isAvailableForTagging
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### isOpenForTermCreation
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### terms
-&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>] 
+&emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.Term>  
 #### 
 #### properties
-&emsp;&emsp;Type: [System.Collections.Generic.Dictionary<System.String,System.String>] 
+&emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

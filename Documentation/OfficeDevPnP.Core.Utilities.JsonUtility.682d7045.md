@@ -5,7 +5,7 @@ Deserializes a json string to an object of type T
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Deserialize(String json)
+public static T Deserialize(String json)
 ```
 ### Parameters
 *json*  

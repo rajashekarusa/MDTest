@@ -5,14 +5,12 @@ Defines whether to use a 24-hour time format in representing the hours of the da
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Time24 { get; }
-public boolean Time24 { set; }
+public boolean Time24 { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [RegionalSettings](RegionalSettings.md) 
-
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

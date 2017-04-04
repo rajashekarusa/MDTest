@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetTemplate(String uri,ITemplateProviderExtension[] extensions)
+public OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate GetTemplate(String uri, ITemplateProviderExtension[] extensions)
 ```
 ### Parameters
 *uri*  

@@ -5,14 +5,12 @@ True to overwrite an existing content type with the same ID.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Overwrite { get; }
-public boolean Overwrite { set; }
+public boolean Overwrite { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ContentType](ContentType.md) 
-
+- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

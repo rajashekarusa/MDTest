@@ -17,17 +17,17 @@ public class TreeNode
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ParentNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ParentNode.md) | 
-| [Parent](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Parent.md) | 
-| [Root](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Root.md) | 
-| [Children](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Children.md) | 
-| [ChildNodes](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ChildNodes.md) | 
-| [Descendants](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Descendants.md) | 
-| [Subtree](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Subtree.md) | 
 | [Ancestors](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Ancestors.md) | 
-| [Height](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Height.md) | 
-| [Value](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Value.md) | 
+| [ChildNodes](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ChildNodes.md) | 
+| [Children](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Children.md) | 
 | [Depth](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Depth.md) | 
+| [Descendants](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Descendants.md) | 
+| [Height](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Height.md) | 
+| [Parent](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Parent.md) | 
+| [ParentNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ParentNode.md) | 
+| [Root](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Root.md) | 
+| [Subtree](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Subtree.md) | 
+| [Value](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.Value.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

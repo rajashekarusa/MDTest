@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_AddMembershipCompleted(AddMembershipCompletedEventHandler value)
+public System.Void add_AddMembershipCompleted(AddMembershipCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

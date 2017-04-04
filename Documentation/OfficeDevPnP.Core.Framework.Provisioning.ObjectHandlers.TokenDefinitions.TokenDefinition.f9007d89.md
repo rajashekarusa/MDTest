@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int GetTokenLength()
+public System.Int32 GetTokenLength()
 ```
 ### Return Value
 Type: System.Int32  

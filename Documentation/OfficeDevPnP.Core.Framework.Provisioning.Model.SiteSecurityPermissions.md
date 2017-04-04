@@ -17,7 +17,7 @@ public class SiteSecurityPermissions: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinitions](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.RoleDefinitions.md) | List of Role Definitions for the Site
 | [RoleAssignments](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.RoleAssignments.md) | List of Role Assignments for the Site
+| [RoleDefinitions](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.RoleDefinitions.md) | List of Role Definitions for the Site
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

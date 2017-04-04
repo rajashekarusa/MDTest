@@ -17,15 +17,15 @@ public class Directory
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Security.md) | 
-| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Src.md) | 
+| [ExcludedExtensions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.ExcludedExtensions.md) | 
 | [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Folder.md) | 
-| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Overwrite.md) | 
+| [IncludedExtensions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.IncludedExtensions.md) | 
 | [Level](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Level.md) | 
 | [LevelSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.LevelSpecified.md) | 
-| [Recursive](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Recursive.md) | 
-| [IncludedExtensions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.IncludedExtensions.md) | 
-| [ExcludedExtensions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.ExcludedExtensions.md) | 
 | [MetadataMappingFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.MetadataMappingFile.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Overwrite.md) | 
+| [Recursive](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Recursive.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Security.md) | 
+| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.Src.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

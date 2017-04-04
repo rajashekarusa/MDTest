@@ -5,7 +5,7 @@ Checks if the folder exists at the top level of the web site.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean FolderExists(Web web,String folderName)
+public static System.Boolean FolderExists(Web web, String folderName)
 ```
 ### Parameters
 *web*  

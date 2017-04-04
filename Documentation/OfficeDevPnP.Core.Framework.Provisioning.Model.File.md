@@ -18,18 +18,18 @@ public class File: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Src](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Src.md) | The Src of the File
 | [Folder](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Folder.md) | The TargetFolder of the File
-| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Overwrite.md) | The Overwrite flag for the File
 | [Level](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Level.md) | The Level status for the File
-| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Model.File.WebParts.md) | 
+| [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Overwrite.md) | The Overwrite flag for the File
 | [Properties](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Properties.md) | 
 | [Security](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Security.md) | Defines the Security rules for the File
+| [Src](OfficeDevPnP.Core.Framework.Provisioning.Model.File.Src.md) | The Src of the File
+| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Model.File.WebParts.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.3520ddbb.md) | 
 | [Equals(File)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.fd046a34.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

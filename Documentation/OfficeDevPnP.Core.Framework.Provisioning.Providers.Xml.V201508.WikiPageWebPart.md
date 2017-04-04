@@ -17,9 +17,9 @@ public class WikiPageWebPart
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Contents](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Contents.md) | 
-| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Title.md) | 
-| [Row](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Row.md) | 
 | [Column](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Column.md) | 
+| [Contents](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Contents.md) | 
+| [Row](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Row.md) | 
+| [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.Title.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

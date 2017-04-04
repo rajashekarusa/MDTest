@@ -5,7 +5,7 @@ Clones a PnPClientContext object while "taking over" the security context of the
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  Clone(String siteUrl)
+public OfficeDevPnP.Core.PnPClientContext Clone(String siteUrl)
 ```
 ### Parameters
 *siteUrl*  

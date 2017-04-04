@@ -20,7 +20,7 @@ public class DocumentSetTemplate
 | [AllowedContentTypes](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplate.AllowedContentTypes.md) | 
 | [DefaultDocuments](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplate.DefaultDocuments.md) | 
 | [SharedFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplate.SharedFields.md) | 
-| [WelcomePageFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplate.WelcomePageFields.md) | 
 | [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplate.WelcomePage.md) | 
+| [WelcomePageFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplate.WelcomePageFields.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

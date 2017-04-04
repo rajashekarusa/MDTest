@@ -5,7 +5,7 @@ Converts a control object to it's html representation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ToHtml()
+public System.String ToHtml()
 ```
 ### Return Value
 Type: System.String  

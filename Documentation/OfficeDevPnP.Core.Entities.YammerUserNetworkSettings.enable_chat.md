@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean enable_chat { get; }
-public boolean enable_chat { set; }
+public boolean enable_chat { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 
-
+- [YammerUserNetworkSettings](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Language { get; }
-public int Language { set; }
+public int Language { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [TermLabel](TermLabel.md) 
-
+- [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -18,8 +18,8 @@ public class SharePointProvisioningTemplateSecurity
 |**Name**|**Description**|
 |:-----|:-----|
 | [AdditionalAdministrators](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalAdministrators.md) | 
-| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalOwners.md) | 
 | [AdditionalMembers](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalMembers.md) | 
+| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalOwners.md) | 
 | [AdditionalVisitors](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSecurity.AdditionalVisitors.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

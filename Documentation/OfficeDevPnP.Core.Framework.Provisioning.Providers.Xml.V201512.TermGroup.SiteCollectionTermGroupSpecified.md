@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SiteCollectionTermGroupSpecified { get; }
-public boolean SiteCollectionTermGroupSpecified { set; }
+public boolean SiteCollectionTermGroupSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [TermGroup](TermGroup.md) 
-
+- [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

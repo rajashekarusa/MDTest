@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.ilist<officedevpnp.core.entities.yammeruseremailaddress> email_addresses { get; }
-public collections.generic.ilist<officedevpnp.core.entities.yammeruseremailaddress> email_addresses { set; }
+public ilist<yammeruseremailaddress> email_addresses { get; set; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserEmailAddress>  
 
 ## See also
-- [YammerUserContact](YammerUserContact.md) 
-
+- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

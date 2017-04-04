@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Feature[] WebFeatures { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Feature[] WebFeatures { set; }
+public Feature[] WebFeatures { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Feature[]
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplateFeatures](ProvisioningTemplateFeatures.md) 
-
+- [ProvisioningTemplateFeatures](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateFeatures.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

@@ -5,14 +5,12 @@ IndexDocId for Search Paging
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public double IndexDocId { get; }
-public double IndexDocId { set; }
+public double IndexDocId { get; set; }
 ```
 
 ### Property Value
 Type: System.Double  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

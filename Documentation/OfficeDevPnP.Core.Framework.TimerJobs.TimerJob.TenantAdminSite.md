@@ -5,14 +5,12 @@ Option to specify the tenant admin site. For MT this typically is not needed sin
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string TenantAdminSite { get; }
-public string TenantAdminSite { set; }
+public string TenantAdminSite { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddColleagueWithoutEmailNotificationAsync(String accountName,String colleagueAccountName,String group,Privacy privacy,Boolean isInWorkGroup)
+public System.Void AddColleagueWithoutEmailNotificationAsync(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
 ```
 ### Parameters
 *accountName*  
@@ -21,7 +21,7 @@ public void AddColleagueWithoutEmailNotificationAsync(String accountName,String 
 &emsp;&emsp;  
   
 *privacy*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.Privacy  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 &emsp;&emsp;  
   
 *isInWorkGroup*  

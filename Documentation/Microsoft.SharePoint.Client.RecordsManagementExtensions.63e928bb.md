@@ -5,7 +5,7 @@ Get the value of the records management is allowed in all places setting
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean GetManualRecordDeclarationInAllLocations(Site site)
+public static System.Boolean GetManualRecordDeclarationInAllLocations(Site site)
 ```
 ### Parameters
 *site*  

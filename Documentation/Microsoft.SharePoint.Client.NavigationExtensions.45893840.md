@@ -5,7 +5,7 @@ Utility method to check particular custom action already exists on the web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean CustomActionExists(Web web,String name)
+public static System.Boolean CustomActionExists(Web web, String name)
 ```
 ### Parameters
 *web*  

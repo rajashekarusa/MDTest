@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsDefaultForLanguage { get; }
-public boolean IsDefaultForLanguage { set; }
+public boolean IsDefaultForLanguage { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [TermLabel](TermLabel.md) 
-
+- [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

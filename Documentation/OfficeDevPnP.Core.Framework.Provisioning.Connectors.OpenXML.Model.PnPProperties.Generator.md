@@ -5,14 +5,12 @@ Name of the Generator (engine) of the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Generator { get; }
-public string Generator { set; }
+public string Generator { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [PnPProperties](PnPProperties.md) 
-
+- [PnPProperties](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

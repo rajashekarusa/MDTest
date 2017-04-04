@@ -5,7 +5,7 @@ Sets the search results page url on current web (Site Settings -> Search --> Sea
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetWebSearchCenterUrl(Web web,String searchCenterUrl)
+public static System.Void SetWebSearchCenterUrl(Web web, String searchCenterUrl)
 ```
 ### Parameters
 *web*  

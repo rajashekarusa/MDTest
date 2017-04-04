@@ -5,14 +5,12 @@ Defines the ID of the Workflow Definition for the current Subscription
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; }
-public guid Id { set; }
+public guid Id { get; set; }
 ```
 
 ### Property Value
 Type: System.Guid  
 
 ## See also
-- [WorkflowDefinition](WorkflowDefinition.md) 
-
+- [WorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

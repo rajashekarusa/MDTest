@@ -7,13 +7,13 @@ public JsonSharePointTemplateProvider(ClientRuntimeContext cc, String connection
 ```
 ### Parameters
 #### cc
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientRuntimeContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 #### 
 #### connectionString
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### container
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

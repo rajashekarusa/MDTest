@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermGroup[] TermGroup { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermGroup[] TermGroup { set; }
+public TermGroup[] TermGroup { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermGroup[]
 ## Remarks 
 
 ## See also
-- [TermStore](TermStore.md) 
-
+- [TermStore](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermStore.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

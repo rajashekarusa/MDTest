@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetCommonManager(String accountName)
+public OfficeDevPnP.Core.UPAWebService.ContactData GetCommonManager(String accountName)
 ```
 ### Parameters
 *accountName*  

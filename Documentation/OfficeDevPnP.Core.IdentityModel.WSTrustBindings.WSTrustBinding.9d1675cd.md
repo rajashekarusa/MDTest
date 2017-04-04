@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public servicemodel.channels.bindingelementcollection CreateBindingElements()
+public System.ServiceModel.Channels.BindingElementCollection CreateBindingElements()
 ```
 ### Return Value
 Type: System.ServiceModel.Channels.BindingElementCollection  

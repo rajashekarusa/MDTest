@@ -10,6 +10,5 @@ public string CanvasControlData { get; }
 Type: System.String  
 
 ## See also
-- [CanvasControl](CanvasControl.md) 
-
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

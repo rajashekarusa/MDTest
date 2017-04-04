@@ -6,7 +6,7 @@ Prepares the timerjob to operate against SharePoint Only with Azure AD app-only 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UseAzureADAppOnlyAuthentication(String clientId,String azureTenant,X509Certificate2 certificate)
+public System.Void UseAzureADAppOnlyAuthentication(String clientId, String azureTenant, X509Certificate2 certificate)
 ```
 ### Parameters
 *clientId*  

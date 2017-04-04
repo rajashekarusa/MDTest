@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Name { get; }
-public string Name { set; }
+public string Name { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [OrderByField](OrderByField.md) 
-
+- [OrderByField](OfficeDevPnP.Core.Utilities.OrderByField.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

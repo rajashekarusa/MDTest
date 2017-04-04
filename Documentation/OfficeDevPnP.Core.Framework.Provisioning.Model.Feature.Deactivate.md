@@ -5,14 +5,12 @@ Gets or sets if the feature should be deactivated
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Deactivate { get; }
-public boolean Deactivate { set; }
+public boolean Deactivate { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [Feature](Feature.md) 
-
+- [Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

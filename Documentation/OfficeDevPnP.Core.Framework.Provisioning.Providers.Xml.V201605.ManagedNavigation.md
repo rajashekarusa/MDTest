@@ -17,7 +17,7 @@ public class ManagedNavigation
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermStoreId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.TermStoreId.md) | 
 | [TermSetId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.TermSetId.md) | 
+| [TermStoreId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.TermStoreId.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -15,8 +15,8 @@ public class ProvisioningMessagesDelegate: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(String, ProvisioningMessageType)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.451333d8.md) | 
 | [BeginInvoke(String, ProvisioningMessageType, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.1d42f485.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.c9867657.md) | 
+| [Invoke(String, ProvisioningMessageType)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.451333d8.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

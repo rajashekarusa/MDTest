@@ -7,13 +7,13 @@ public Localization(Int32 lcid, String name, String resourceFile)
 ```
 ### Parameters
 #### lcid
-&emsp;&emsp;Type: [System.Int32] 
+&emsp;&emsp;Type: System.Int32  
 #### 
 #### name
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### resourceFile
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

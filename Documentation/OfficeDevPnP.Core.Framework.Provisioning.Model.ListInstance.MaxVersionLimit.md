@@ -5,14 +5,12 @@ Gets or sets the MinorVersionLimit  for verisioning, just in case it is enabled 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int MaxVersionLimit { get; }
-public int MaxVersionLimit { set; }
+public int MaxVersionLimit { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [ListInstance](ListInstance.md) 
-
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

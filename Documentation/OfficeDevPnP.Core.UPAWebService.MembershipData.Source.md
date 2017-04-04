@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.MembershipSource Source { get; }
-public OfficeDevPnP.Core.UPAWebService.MembershipSource Source { set; }
+public MembershipSource Source { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.MembershipSource
 ## Remarks 
 
 ## See also
-- [MembershipData](MembershipData.md) 
-
+- [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -5,7 +5,7 @@ Gets the request access e-mail addresses of the web.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable<system.string> GetRequestAccessEmails(Web web)
+public static System.Collections.Generic.IEnumerable`1<System.String> GetRequestAccessEmails(Web web)
 ```
 ### Parameters
 *web*  

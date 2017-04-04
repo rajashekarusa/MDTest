@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string preferred_my_feed { get; }
-public string preferred_my_feed { set; }
+public string preferred_my_feed { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUserWebPreferences](YammerUserWebPreferences.md) 
-
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

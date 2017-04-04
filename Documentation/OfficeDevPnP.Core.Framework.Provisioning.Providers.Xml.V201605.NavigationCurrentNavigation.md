@@ -17,8 +17,8 @@ public class NavigationCurrentNavigation
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.StructuralNavigation.md) | 
 | [ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.ManagedNavigation.md) | 
 | [NavigationType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.NavigationType.md) | 
+| [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.StructuralNavigation.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

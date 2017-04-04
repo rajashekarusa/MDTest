@@ -5,14 +5,12 @@ The Type of the package file defined by the current manifest
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType Type { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType Type { set; }
+public PackageType Type { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType  
 
 ## See also
-- [PnPManifest](PnPManifest.md) 
-
+- [PnPManifest](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

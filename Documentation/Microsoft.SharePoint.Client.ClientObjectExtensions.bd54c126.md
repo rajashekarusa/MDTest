@@ -5,7 +5,7 @@ Checks if the ClientObject is null
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ServerObjectIsNull(T clientObject)
+public static System.Boolean ServerObjectIsNull(T clientObject)
 ```
 ### Parameters
 *clientObject*  

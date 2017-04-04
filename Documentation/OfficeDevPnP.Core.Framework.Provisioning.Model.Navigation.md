@@ -18,13 +18,13 @@ public class Navigation: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.GlobalNavigation.md) | The Global Navigation settings for the Provisioning Template
 | [CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.CurrentNavigation.md) | The Current Navigation settings for the Provisioning Template
+| [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.GlobalNavigation.md) | The Global Navigation settings for the Provisioning Template
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.3520ddbb.md) | 
 | [Equals(Navigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.d107522b.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

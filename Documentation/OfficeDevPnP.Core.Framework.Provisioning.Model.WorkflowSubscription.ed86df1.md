@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(WorkflowSubscription other)
+public System.Boolean Equals(WorkflowSubscription other)
 ```
 ### Parameters
 *other*  

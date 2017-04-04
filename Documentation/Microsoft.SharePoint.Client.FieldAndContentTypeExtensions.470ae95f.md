@@ -5,7 +5,7 @@ Checks if a field exists in a content type by id
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean FieldExistsByNameInContentType(ContentType contentType,String fieldName)
+public static System.Boolean FieldExistsByNameInContentType(ContentType contentType, String fieldName)
 ```
 ### Parameters
 *contentType*  

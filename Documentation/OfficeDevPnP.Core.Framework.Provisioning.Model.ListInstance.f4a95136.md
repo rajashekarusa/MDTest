@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(ListInstance other)
+public System.Boolean Equals(ListInstance other)
 ```
 ### Parameters
 *other*  

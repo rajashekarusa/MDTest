@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ImportSequence[] ImportSequence { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ImportSequence[] ImportSequence { set; }
+public ImportSequence[] ImportSequence { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ImportSeque
 ## Remarks 
 
 ## See also
-- [Provisioning](Provisioning.md) 
-
+- [Provisioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

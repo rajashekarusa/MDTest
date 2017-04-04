@@ -5,7 +5,7 @@ Activates a site collection or site scoped feature
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ActivateFeature(Site site,Guid featureID,Boolean sandboxed,Int32 pollingIntervalSeconds)
+public static System.Void ActivateFeature(Site site, Guid featureID, Boolean sandboxed, Int32 pollingIntervalSeconds)
 ```
 ### Parameters
 *site*  

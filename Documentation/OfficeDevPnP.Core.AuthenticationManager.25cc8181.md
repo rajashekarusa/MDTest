@@ -5,7 +5,7 @@ Returns a SharePointOnline ClientContext object
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetSharePointOnlineAuthenticatedContextTenant(String siteUrl,String tenantUser,SecureString tenantUserPassword)
+public Microsoft.SharePoint.Client.ClientContext GetSharePointOnlineAuthenticatedContextTenant(String siteUrl, String tenantUser, SecureString tenantUserPassword)
 ```
 ### Parameters
 *siteUrl*  

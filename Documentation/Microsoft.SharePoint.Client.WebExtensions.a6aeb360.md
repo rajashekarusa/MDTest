@@ -5,7 +5,7 @@ Enables request access for the specified e-mail addresses.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void EnableRequestAccess(Web web,String[] emails)
+public static System.Void EnableRequestAccess(Web web, String[] emails)
 ```
 ### Parameters
 *web*  

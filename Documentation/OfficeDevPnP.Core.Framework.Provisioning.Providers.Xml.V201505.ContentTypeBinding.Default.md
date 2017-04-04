@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Default { get; }
-public boolean Default { set; }
+public boolean Default { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [ContentTypeBinding](ContentTypeBinding.md) 
-
+- [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

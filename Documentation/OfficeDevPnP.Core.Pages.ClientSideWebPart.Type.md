@@ -12,6 +12,5 @@ public type Type { get; }
 Type: System.Type  
 
 ## See also
-- [ClientSideWebPart](ClientSideWebPart.md) 
-
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

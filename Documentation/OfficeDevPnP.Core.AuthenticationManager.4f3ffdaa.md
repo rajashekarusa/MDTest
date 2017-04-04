@@ -5,7 +5,7 @@ Returns a SharePoint ClientContext using Azure Active Directory authentication. 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetAzureADNativeApplicationAuthenticatedContext(String siteUrl,String clientId,String redirectUrl,TokenCache tokenCache,AzureEnvironment environment)
+public Microsoft.SharePoint.Client.ClientContext GetAzureADNativeApplicationAuthenticatedContext(String siteUrl, String clientId, String redirectUrl, TokenCache tokenCache, AzureEnvironment environment)
 ```
 ### Parameters
 *siteUrl*  
@@ -25,7 +25,7 @@ public  GetAzureADNativeApplicationAuthenticatedContext(String siteUrl,String cl
 &emsp;&emsp;Optional token cache. If not specified an in-memory token cache will be used  
   
 *(optional) environment*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.AzureEnvironment  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;SharePoint environment being used  
   
 ### Return Value

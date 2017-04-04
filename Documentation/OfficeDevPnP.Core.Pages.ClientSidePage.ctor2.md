@@ -7,7 +7,7 @@ public ClientSidePage(ClientContext cc)
 ```
 ### Parameters
 #### cc
-&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ClientContext] 
+&emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

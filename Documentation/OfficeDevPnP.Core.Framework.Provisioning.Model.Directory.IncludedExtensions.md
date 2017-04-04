@@ -5,14 +5,12 @@ The file Extensions to include while uploading the Directory
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string IncludedExtensions { get; }
-public string IncludedExtensions { set; }
+public string IncludedExtensions { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [Directory](Directory.md) 
-
+- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

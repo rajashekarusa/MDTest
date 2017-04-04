@@ -5,14 +5,12 @@ Gets or sets if the field is Required
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Required { get; }
-public boolean Required { set; }
+public boolean Required { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [FieldRef](FieldRef.md) 
-
+- [FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

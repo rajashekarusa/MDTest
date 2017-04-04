@@ -5,14 +5,12 @@ Connector used to persist files when needed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase FileConnector { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase FileConnector { set; }
+public FileConnectorBase FileConnector { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)  
 
 ## See also
-- [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 
-
+- [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

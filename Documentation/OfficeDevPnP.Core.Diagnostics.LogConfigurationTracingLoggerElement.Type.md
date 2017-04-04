@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Type { get; }
-public string Type { set; }
+public string Type { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [LogConfigurationTracingLoggerElement](LogConfigurationTracingLoggerElement.md) 
-
+- [LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

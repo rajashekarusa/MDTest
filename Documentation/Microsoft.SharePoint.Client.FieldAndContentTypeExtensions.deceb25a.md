@@ -5,7 +5,7 @@ Set default content type to list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetDefaultContentTypeToList(List list,ContentType contentType)
+public static System.Void SetDefaultContentTypeToList(List list, ContentType contentType)
 ```
 ### Parameters
 *list*  

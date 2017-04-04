@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Principal { get; }
-public string Principal { set; }
+public string Principal { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [RoleAssignment](RoleAssignment.md) 
-
+- [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleAssignment.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

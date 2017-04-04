@@ -3,11 +3,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove(ITreeNode node)
+public System.Boolean Remove(ITreeNode node)
 ```
 ### Parameters
 *node*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md)  
 &emsp;&emsp;  
   
 ### Return Value

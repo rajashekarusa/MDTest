@@ -7,10 +7,10 @@ public ModifyUserPropertyByAccountNameCompletedEventHandler(Object object, IntPt
 ```
 ### Parameters
 #### object
-&emsp;&emsp;Type: [System.Object] 
+&emsp;&emsp;Type: System.Object  
 #### 
 #### method
-&emsp;&emsp;Type: [System.IntPtr] 
+&emsp;&emsp;Type: System.IntPtr  
 #### 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -17,16 +17,16 @@ public class ContentType
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefs](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.FieldRefs.md) | 
-| [DocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.DocumentTemplate.md) | 
-| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.ID.md) | 
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Name.md) | 
+| [AnyAttr](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.AnyAttr.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Description.md) | 
+| [DocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.DocumentTemplate.md) | 
+| [FieldRefs](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.FieldRefs.md) | 
 | [Group](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Group.md) | 
 | [Hidden](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Hidden.md) | 
-| [Sealed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Sealed.md) | 
-| [ReadOnly](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.ReadOnly.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.ID.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Name.md) | 
 | [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Overwrite.md) | 
-| [AnyAttr](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.AnyAttr.md) | 
+| [ReadOnly](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.ReadOnly.md) | 
+| [Sealed](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.Sealed.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

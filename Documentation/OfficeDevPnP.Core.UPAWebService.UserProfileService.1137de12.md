@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UpdatePinnedLink(String accountName,PinnedLinkData data)
+public System.Void UpdatePinnedLink(String accountName, PinnedLinkData data)
 ```
 ### Parameters
 *accountName*  

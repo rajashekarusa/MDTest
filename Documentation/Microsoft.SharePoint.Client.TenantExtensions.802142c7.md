@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean DeleteSiteCollectionFromRecycleBin(Tenant tenant,String siteFullUrl,Boolean wait,Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static System.Boolean DeleteSiteCollectionFromRecycleBin(Tenant tenant, String siteFullUrl, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 *tenant*  

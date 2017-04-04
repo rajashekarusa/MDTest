@@ -5,7 +5,7 @@ Add a role definition (e.g.Contribute, Read, Approve) to a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddPermissionLevelToGroup(SecurableObject securableObject,String groupName,String roleDefinitionName,Boolean removeExistingPermissionLevels)
+public static System.Void AddPermissionLevelToGroup(SecurableObject securableObject, String groupName, String roleDefinitionName, Boolean removeExistingPermissionLevels)
 ```
 ### Parameters
 *securableObject*  

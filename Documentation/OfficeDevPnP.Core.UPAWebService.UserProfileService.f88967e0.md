@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetUserOrganizationsAsync(String accountName)
+public System.Void GetUserOrganizationsAsync(String accountName)
 ```
 ### Parameters
 *accountName*  

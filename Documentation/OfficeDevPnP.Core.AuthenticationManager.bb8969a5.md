@@ -5,7 +5,7 @@ Returns a SharePoint ClientContext using Azure Active Directory App Only Authent
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetAzureADAppOnlyAuthenticatedContext(String siteUrl,String clientId,String tenant,String certificatePath,String certificatePassword,AzureEnvironment environment)
+public Microsoft.SharePoint.Client.ClientContext GetAzureADAppOnlyAuthenticatedContext(String siteUrl, String clientId, String tenant, String certificatePath, String certificatePassword, AzureEnvironment environment)
 ```
 ### Parameters
 *siteUrl*  
@@ -29,7 +29,7 @@ public  GetAzureADAppOnlyAuthenticatedContext(String siteUrl,String clientId,Str
 &emsp;&emsp;Password to the certificate  
   
 *(optional) environment*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.AzureEnvironment  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;SharePoint environment being used  
   
 ### Return Value

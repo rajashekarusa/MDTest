@@ -5,14 +5,12 @@ Gets or sets a value that specifies the URI of a file which contains the ECMAScr
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ScriptSrc { get; }
-public string ScriptSrc { set; }
+public string ScriptSrc { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

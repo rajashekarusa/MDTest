@@ -5,7 +5,7 @@ Deserialize an XDocuemnt to instance of an object T
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Deserialize(XDocument xdoc)
+public static T Deserialize(XDocument xdoc)
 ```
 ### Parameters
 *xdoc*  

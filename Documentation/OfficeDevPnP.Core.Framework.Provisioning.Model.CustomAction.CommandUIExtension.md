@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xml.linq.xelement CommandUIExtension { get; }
-public xml.linq.xelement CommandUIExtension { set; }
+public xelement CommandUIExtension { get; set; }
 ```
 
 ### Property Value
 Type: System.Xml.Linq.XElement  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance[] Lists { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance[] Lists { set; }
+public ListInstance[] Lists { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstanc
 ## Remarks 
 
 ## See also
-- [SharePointProvisioningTemplate](SharePointProvisioningTemplate.md) 
-
+- [SharePointProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)

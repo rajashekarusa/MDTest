@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int RemoveAll(Predicate match)
+public System.Int32 RemoveAll(Predicate match)
 ```
 ### Parameters
 *match*  

@@ -15,13 +15,13 @@ public class YammerUserHomeTab
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [feed_description](OfficeDevPnP.Core.Entities.YammerUserHomeTab.feed_description.md) | 
+| [group_id](OfficeDevPnP.Core.Entities.YammerUserHomeTab.group_id.md) | 
 | [name](OfficeDevPnP.Core.Entities.YammerUserHomeTab.name.md) | 
+| [ordering_index](OfficeDevPnP.Core.Entities.YammerUserHomeTab.ordering_index.md) | 
+| [private](OfficeDevPnP.Core.Entities.YammerUserHomeTab.private.md) | 
 | [select_name](OfficeDevPnP.Core.Entities.YammerUserHomeTab.select_name.md) | 
 | [type](OfficeDevPnP.Core.Entities.YammerUserHomeTab.type.md) | 
-| [feed_description](OfficeDevPnP.Core.Entities.YammerUserHomeTab.feed_description.md) | 
-| [ordering_index](OfficeDevPnP.Core.Entities.YammerUserHomeTab.ordering_index.md) | 
 | [url](OfficeDevPnP.Core.Entities.YammerUserHomeTab.url.md) | 
-| [group_id](OfficeDevPnP.Core.Entities.YammerUserHomeTab.group_id.md) | 
-| [private](OfficeDevPnP.Core.Entities.YammerUserHomeTab.private.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,7 +5,7 @@ Get the search results page url for the web (Site Settings -> Search --> Search 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetWebSearchCenterUrl(Web web)
+public static System.String GetWebSearchCenterUrl(Web web)
 ```
 ### Parameters
 *web*  

@@ -5,7 +5,7 @@ Returns alls workflow instances for a list item
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetWorkflowInstances(Web web,ListItem item)
+public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstanceCollection GetWorkflowInstances(Web web, ListItem item)
 ```
 ### Parameters
 *web*  

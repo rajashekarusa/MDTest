@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetDefaultColumnValues(List list,IEnumerable<IDefaultColumnValue> columnValues)
+public static System.Void SetDefaultColumnValues(List list, IEnumerable<IDefaultColumnValue> columnValues)
 ```
 ### Parameters
 *list*  

@@ -13,9 +13,9 @@ public static class EnumerationExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Include(Enum, T)](System.EnumerationExtensions.490bc795.md) | Includes an enumerated type and returns the new value
-| [Remove(Enum, T)](System.EnumerationExtensions.1e2acb5d.md) | Removes an enumerated type and returns the new value
 | [Has(Enum, T)](System.EnumerationExtensions.b862e00e.md) | Checks if an enumerated type contains a value
+| [Include(Enum, T)](System.EnumerationExtensions.490bc795.md) | Includes an enumerated type and returns the new value
 | [Missing(Enum, T)](System.EnumerationExtensions.e13d1ee6.md) | Checks if an enumerated type is missing a value
+| [Remove(Enum, T)](System.EnumerationExtensions.1e2acb5d.md) | Removes an enumerated type and returns the new value
 ## See also
 - [System](System.md)

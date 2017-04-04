@@ -5,14 +5,12 @@ Url if the SharePoint app web. Needed to obtain an access token
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string AppWebUrl { get; }
-public string AppWebUrl { set; }
+public string AppWebUrl { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebAPIContext](WebAPIContext.md) 
-
+- [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RequiresAssociationForm { get; }
-public boolean RequiresAssociationForm { set; }
+public boolean RequiresAssociationForm { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [WorkflowsWorkflowDefinition](WorkflowsWorkflowDefinition.md) 
-
+- [WorkflowsWorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -3,13 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList`1<T> Children { get; }
+public TreeNodeList Children { get; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList  
 
 ## See also
-- [TreeNode](TreeNode.md) 
-
+- [TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md) 
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

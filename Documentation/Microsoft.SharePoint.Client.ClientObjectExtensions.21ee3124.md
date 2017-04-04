@@ -5,7 +5,7 @@ Check if a property is instantiated on a object
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsObjectPropertyInstantiated(T clientObject,Expression<Func<T, Object>> propertySelector)
+public static System.Boolean IsObjectPropertyInstantiated(T clientObject, Expression<Func<T, Object>> propertySelector)
 ```
 ### Parameters
 *clientObject*  

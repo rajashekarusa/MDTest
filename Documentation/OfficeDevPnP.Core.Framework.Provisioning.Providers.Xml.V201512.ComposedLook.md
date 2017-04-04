@@ -17,10 +17,10 @@ public class ComposedLook
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.Name.md) | 
+| [BackgroundFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.BackgroundFile.md) | 
 | [ColorFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.ColorFile.md) | 
 | [FontFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.FontFile.md) | 
-| [BackgroundFile](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.BackgroundFile.md) | 
+| [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.Name.md) | 
 | [Version](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.Version.md) | 
 | [VersionSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ComposedLook.VersionSpecified.md) | 
 ## See also

@@ -5,14 +5,12 @@ XML representation of the web part
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string WebPartXml { get; }
-public string WebPartXml { set; }
+public string WebPartXml { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebPartEntity](WebPartEntity.md) 
-
+- [WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

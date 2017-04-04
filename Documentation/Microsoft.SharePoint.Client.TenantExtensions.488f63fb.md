@@ -5,7 +5,7 @@ Checks if a sub site exists
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean SubSiteExists(Tenant tenant,String siteFullUrl)
+public static System.Boolean SubSiteExists(Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
 *tenant*  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string AppendQueryString(String path,String queryString)
+public static System.String AppendQueryString(String path, String queryString)
 ```
 ### Parameters
 *path*  

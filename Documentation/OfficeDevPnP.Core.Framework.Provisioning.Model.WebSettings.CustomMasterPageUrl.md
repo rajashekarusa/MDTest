@@ -5,14 +5,12 @@ The Custom MasterPage Url of the Site, optional attribute.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string CustomMasterPageUrl { get; }
-public string CustomMasterPageUrl { set; }
+public string CustomMasterPageUrl { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebSettings](WebSettings.md) 
-
+- [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

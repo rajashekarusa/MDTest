@@ -5,7 +5,7 @@ Returns if auto record declaration is active for this list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean GetListAutoRecordDeclaration(List list)
+public static System.Boolean GetListAutoRecordDeclaration(List list)
 ```
 ### Parameters
 *list*  

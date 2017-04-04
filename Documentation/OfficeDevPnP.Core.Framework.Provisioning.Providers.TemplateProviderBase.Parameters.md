@@ -3,13 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary<system.string,system.string> Parameters { get; }
+public dictionary<string, string> Parameters { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
-- [TemplateProviderBase](TemplateProviderBase.md) 
-
+- [TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

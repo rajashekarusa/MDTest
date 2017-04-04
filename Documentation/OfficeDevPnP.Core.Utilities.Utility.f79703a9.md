@@ -5,7 +5,7 @@ Returns the healthscore for a SharePoint Server
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static int GetHealthScore(String url)
+public static System.Int32 GetHealthScore(String url)
 ```
 ### Parameters
 *url*  

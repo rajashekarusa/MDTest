@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ShowPages { get; }
-public boolean ShowPages { set; }
+public boolean ShowPages { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [StructuralNavigationEntity](StructuralNavigationEntity.md) 
-
+- [StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

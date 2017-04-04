@@ -17,7 +17,7 @@ public class ProvisioningTemplateFiles
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [File](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateFiles.File.md) | 
 | [Directory](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateFiles.Directory.md) | 
+| [File](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateFiles.File.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

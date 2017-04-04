@@ -5,7 +5,7 @@ Returns a SharePoint Online Credential given a certain name. Add the credential 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetSharePointOnlineCredential(String name)
+public static Microsoft.SharePoint.Client.SharePointOnlineCredentials GetSharePointOnlineCredential(String name)
 ```
 ### Parameters
 *name*  

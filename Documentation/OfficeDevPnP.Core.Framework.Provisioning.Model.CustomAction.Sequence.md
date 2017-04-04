@@ -5,14 +5,12 @@ Gets or sets the value that specifies an implementation-specific value that dete
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Sequence { get; }
-public int Sequence { set; }
+public int Sequence { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

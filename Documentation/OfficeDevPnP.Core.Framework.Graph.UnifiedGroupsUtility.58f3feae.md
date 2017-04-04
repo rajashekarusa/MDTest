@@ -5,7 +5,7 @@ Returns all the Office 365 Groups in the current Tenant based on a startIndex. I
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<officedevpnp.core.entities.unifiedgroupentity> ListUnifiedGroups(String accessToken,String displayName,String mailNickname,Int32 startIndex,Int32 endIndex,Boolean includeSite,Int32 retryCount,Int32 delay)
+public static System.Collections.Generic.List`1<OfficeDevPnP.Core.Entities.UnifiedGroupEntity> ListUnifiedGroups(String accessToken, String displayName, String mailNickname, Int32 startIndex, Int32 endIndex, Boolean includeSite, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 *accessToken*  

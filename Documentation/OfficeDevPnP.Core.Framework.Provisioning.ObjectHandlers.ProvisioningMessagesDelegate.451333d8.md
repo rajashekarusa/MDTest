@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Invoke(String message,ProvisioningMessageType messageType)
+public System.Void Invoke(String message, ProvisioningMessageType messageType)
 ```
 ### Parameters
 *message*  
@@ -11,7 +11,7 @@ public void Invoke(String message,ProvisioningMessageType messageType)
 &emsp;&emsp;  
   
 *messageType*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessageType.md)  
 &emsp;&emsp;  
   
 ### Return Value

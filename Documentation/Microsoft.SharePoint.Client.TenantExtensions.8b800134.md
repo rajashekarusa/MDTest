@@ -5,7 +5,7 @@ Adds a package to the tenants app catalog and by default deploys it if the packa
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  DeployApplicationPackageToAppCatalog(Tenant tenant,String appCatalogSiteUrl,String spPkgName,String spPkgPath,Boolean autoDeploy,Boolean overwrite)
+public static Microsoft.SharePoint.Client.ListItem DeployApplicationPackageToAppCatalog(Tenant tenant, String appCatalogSiteUrl, String spPkgName, String spPkgPath, Boolean autoDeploy, Boolean overwrite)
 ```
 ### Parameters
 *tenant*  

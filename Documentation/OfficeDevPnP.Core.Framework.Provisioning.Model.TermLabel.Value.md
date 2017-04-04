@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Value { get; }
-public string Value { set; }
+public string Value { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [TermLabel](TermLabel.md) 
-
+- [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

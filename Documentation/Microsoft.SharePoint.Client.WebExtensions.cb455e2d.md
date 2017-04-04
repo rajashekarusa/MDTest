@@ -5,7 +5,7 @@ Uninstalls a sandbox solution package (.WSP) file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void UninstallSolution(Site site,Guid packageGuid,String fileName,Int32 majorVersion,Int32 minorVersion)
+public static System.Void UninstallSolution(Site site, Guid packageGuid, String fileName, Int32 majorVersion, Int32 minorVersion)
 ```
 ### Parameters
 *site*  

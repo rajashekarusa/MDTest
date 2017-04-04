@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string TemplateId { get; }
-public string TemplateId { set; }
+public string TemplateId { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ProvisioningTemplateInfo](ProvisioningTemplateInfo.md) 
-
+- [ProvisioningTemplateInfo](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateInfo.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

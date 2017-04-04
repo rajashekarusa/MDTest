@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsInWorkGroup { get; }
-public boolean IsInWorkGroup { set; }
+public boolean IsInWorkGroup { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [ContactData](ContactData.md) 
-
+- [ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

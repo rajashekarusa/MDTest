@@ -5,7 +5,7 @@ Returns the child Web site with the specified leaf URL.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetWeb(Web parentWeb,String leafUrl)
+public static Microsoft.SharePoint.Client.Web GetWeb(Web parentWeb, String leafUrl)
 ```
 ### Parameters
 *parentWeb*  

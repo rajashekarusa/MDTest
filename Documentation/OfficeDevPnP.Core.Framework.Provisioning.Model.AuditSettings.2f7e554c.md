@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(AuditSettings other)
+public System.Boolean Equals(AuditSettings other)
 ```
 ### Parameters
 *other*  

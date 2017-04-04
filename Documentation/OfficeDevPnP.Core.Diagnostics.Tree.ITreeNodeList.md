@@ -8,6 +8,6 @@ public interface ITreeNodeList
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Add(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeList.AddITreeNode.md) | 
+| [Add(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeList.711f2701.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

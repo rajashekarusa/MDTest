@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddJsLink(Site site,String key,IEnumerable<String> scriptLinks,Int32 sequence)
+public static System.Boolean AddJsLink(Site site, String key, IEnumerable<String> scriptLinks, Int32 sequence)
 ```
 ### Parameters
 *site*  

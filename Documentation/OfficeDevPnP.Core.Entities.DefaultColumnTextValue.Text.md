@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Text { get; }
-public string Text { set; }
+public string Text { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [DefaultColumnTextValue](DefaultColumnTextValue.md) 
-
+- [DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

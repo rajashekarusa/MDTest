@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static xml.xmlqualifiedname GetSchema(XmlSchemaSet schemaSet)
+public static System.Xml.XmlQualifiedName GetSchema(XmlSchemaSet schemaSet)
 ```
 ### Parameters
 *schemaSet*  

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xml.xmlelement[] Extensions { get; }
-public xml.xmlelement[] Extensions { set; }
+public xmlelement[] Extensions { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Xml.XmlElement[]
 ## Remarks 
 
 ## See also
-- [Sequence](Sequence.md) 
-
+- [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Sequence.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

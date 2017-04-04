@@ -5,7 +5,7 @@ Gets the current restrictions on declared records
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetRecordRestrictions(Site site)
+public static OfficeDevPnP.Core.EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
 ```
 ### Parameters
 *site*  

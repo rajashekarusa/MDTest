@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetUserProfileSchema()
+public OfficeDevPnP.Core.UPAWebService.PropertyInfo[] GetUserProfileSchema()
 ```
 ### Return Value
 Type: OfficeDevPnP.Core.UPAWebService.PropertyInfo[]  

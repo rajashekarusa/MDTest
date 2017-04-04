@@ -5,7 +5,7 @@ Share document with complex JSON string value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ShareDocumentWithPeoplePickerValue(Web web,String urlToDocument,String peoplePickerInput,ExternalSharingDocumentOption shareOption,Boolean sendEmail,String emailBody,Boolean useSimplifiedRoles)
+public static Microsoft.SharePoint.Client.SharingResult ShareDocumentWithPeoplePickerValue(Web web, String urlToDocument, String peoplePickerInput, ExternalSharingDocumentOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
 ```
 ### Parameters
 *web*  
@@ -21,7 +21,7 @@ public static  ShareDocumentWithPeoplePickerValue(Web web,String urlToDocument,S
 &emsp;&emsp;People picker JSON string value containing the target person information  
   
 *shareOption*  
-&emsp;&emsp;Type: Microsoft.SharePoint.Client.ExternalSharingDocumentOption  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;View or Edit option  
   
 *(optional) sendEmail*  

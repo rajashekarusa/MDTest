@@ -17,7 +17,7 @@ public class PublishingPageLayouts
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageLayout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingPageLayouts.PageLayout.md) | 
 | [Default](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingPageLayouts.Default.md) | 
+| [PageLayout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingPageLayouts.PageLayout.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -5,14 +5,12 @@ The Manifest of the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest Manifest { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest Manifest { set; }
+public PnPManifest Manifest { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.md)  
 
 ## See also
-- [PnPInfo](PnPInfo.md) 
-
+- [PnPInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

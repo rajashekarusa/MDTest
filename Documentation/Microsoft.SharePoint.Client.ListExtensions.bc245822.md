@@ -5,7 +5,7 @@ Adds a custom list to a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateList(Web web,Guid featureId,Int32 listType,String listName,Boolean enableVersioning,Boolean updateAndExecuteQuery,String urlPath,Boolean enableContentTypes)
+public static Microsoft.SharePoint.Client.List CreateList(Web web, Guid featureId, Int32 listType, String listName, Boolean enableVersioning, Boolean updateAndExecuteQuery, String urlPath, Boolean enableContentTypes)
 ```
 ### Parameters
 *web*  

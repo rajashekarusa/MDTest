@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean MajorVersionSpecified { get; }
-public boolean MajorVersionSpecified { set; }
+public boolean MajorVersionSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [PublishingDesignPackage](PublishingDesignPackage.md) 
-
+- [PublishingDesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingDesignPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

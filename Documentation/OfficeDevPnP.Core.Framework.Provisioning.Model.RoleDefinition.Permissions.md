@@ -5,13 +5,12 @@ Defines the Permissions of the Role Definition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list<microsoft.sharepoint.client.permissionkind> Permissions { get; }
+public list<permissionkind> Permissions { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.List<Microsoft.SharePoint.Client.PermissionKind>  
 
 ## See also
-- [RoleDefinition](RoleDefinition.md) 
-
+- [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,14 +5,12 @@ Gets or sets the value that specifies the permissions needed for the custom acti
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.BasePermissions Rights { get; }
-public Microsoft.SharePoint.Client.BasePermissions Rights { set; }
+public BasePermissions Rights { get; set; }
 ```
 
 ### Property Value
 Type: Microsoft.SharePoint.Client.BasePermissions  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

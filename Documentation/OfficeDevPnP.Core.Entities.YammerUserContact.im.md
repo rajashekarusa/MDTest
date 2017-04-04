@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Entities.YammerUserIm im { get; }
-public OfficeDevPnP.Core.Entities.YammerUserIm im { set; }
+public YammerUserIm im { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Entities.YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md)  
 
 ## See also
-- [YammerUserContact](YammerUserContact.md) 
-
+- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

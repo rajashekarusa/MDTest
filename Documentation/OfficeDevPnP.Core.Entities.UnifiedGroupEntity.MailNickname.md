@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string MailNickname { get; }
-public string MailNickname { set; }
+public string MailNickname { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [UnifiedGroupEntity](UnifiedGroupEntity.md) 
-
+- [UnifiedGroupEntity](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,14 +5,12 @@ Gets or sets the Version of the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public double Version { get; }
-public double Version { set; }
+public double Version { get; set; }
 ```
 
 ### Property Value
 Type: System.Double  
 
 ## See also
-- [ProvisioningTemplate](ProvisioningTemplate.md) 
-
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

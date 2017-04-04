@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xml.xmlelement WebSearchSettings { get; }
-public xml.xmlelement WebSearchSettings { set; }
+public xmlelement WebSearchSettings { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Xml.XmlElement
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplateSearchSettings](ProvisioningTemplateSearchSettings.md) 
-
+- [ProvisioningTemplateSearchSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

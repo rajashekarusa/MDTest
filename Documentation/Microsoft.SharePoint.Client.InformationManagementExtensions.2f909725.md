@@ -5,7 +5,7 @@ Does this web have a site policy applied?
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean HasSitePolicyApplied(Web web)
+public static System.Boolean HasSitePolicyApplied(Web web)
 ```
 ### Parameters
 *web*  

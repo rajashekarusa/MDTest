@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void UpdateLink(String accountName,QuickLinkData data)
+public System.Void UpdateLink(String accountName, QuickLinkData data)
 ```
 ### Parameters
 *accountName*  

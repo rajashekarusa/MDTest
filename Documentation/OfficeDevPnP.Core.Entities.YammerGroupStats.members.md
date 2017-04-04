@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int members { get; }
-public int members { set; }
+public int members { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [YammerGroupStats](YammerGroupStats.md) 
-
+- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

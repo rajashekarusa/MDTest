@@ -5,14 +5,12 @@ The Properties of the package
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties Properties { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties Properties { set; }
+public PnPProperties Properties { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.md)  
 
 ## See also
-- [PnPPackage](PnPPackage.md) 
-
+- [PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

@@ -17,11 +17,11 @@ public class ClientSideWebPartData
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [DataVersion](OfficeDevPnP.Core.Pages.ClientSideWebPartData.DataVersion.md) | 
+| [Description](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Description.md) | 
 | [Id](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Id.md) | 
 | [InstanceId](OfficeDevPnP.Core.Pages.ClientSideWebPartData.InstanceId.md) | 
-| [Title](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Title.md) | 
-| [Description](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Description.md) | 
-| [DataVersion](OfficeDevPnP.Core.Pages.ClientSideWebPartData.DataVersion.md) | 
 | [Properties](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Properties.md) | 
+| [Title](OfficeDevPnP.Core.Pages.ClientSideWebPartData.Title.md) | 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

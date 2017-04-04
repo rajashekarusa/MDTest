@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(Field other)
+public System.Boolean Equals(Field other)
 ```
 ### Parameters
 *other*  

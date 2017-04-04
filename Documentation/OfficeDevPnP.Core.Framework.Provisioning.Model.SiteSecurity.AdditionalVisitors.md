@@ -5,13 +5,12 @@ A Collection of users taht are associated to the sites visitors group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection AdditionalVisitors { get; }
+public UserCollection AdditionalVisitors { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.md)  
 
 ## See also
-- [SiteSecurity](SiteSecurity.md) 
-
+- [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

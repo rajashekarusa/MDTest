@@ -5,13 +5,12 @@ The Fields to setup for the Page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary<system.string,system.string> Fields { get; }
+public dictionary<string, string> Fields { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
-- [Page](Page.md) 
-
+- [Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

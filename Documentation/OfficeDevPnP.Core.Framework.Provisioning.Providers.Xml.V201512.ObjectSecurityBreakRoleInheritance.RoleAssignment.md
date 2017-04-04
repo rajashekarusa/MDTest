@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment[] RoleAssignment { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment[] RoleAssignment { set; }
+public RoleAssignment[] RoleAssignment { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignm
 ## Remarks 
 
 ## See also
-- [ObjectSecurityBreakRoleInheritance](ObjectSecurityBreakRoleInheritance.md) 
-
+- [ObjectSecurityBreakRoleInheritance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ObjectSecurityBreakRoleInheritance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

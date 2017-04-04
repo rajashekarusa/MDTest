@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.QuickLinkData Result { get; }
+public QuickLinkData Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData](OfficeDevPnP.Core.UPAWebSe
 ## Remarks 
 
 ## See also
-- [AddLinkCompletedEventArgs](AddLinkCompletedEventArgs.md) 
-
+- [AddLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

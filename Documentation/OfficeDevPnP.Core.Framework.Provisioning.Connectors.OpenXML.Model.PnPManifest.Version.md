@@ -10,6 +10,5 @@ public string Version { get; }
 Type: System.String  
 
 ## See also
-- [PnPManifest](PnPManifest.md) 
-
+- [PnPManifest](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

@@ -5,14 +5,12 @@ Gets or sets the description of the custom action.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Description { get; }
-public string Description { set; }
+public string Description { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@ Removes a permission level from a user
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemovePermissionLevelFromUser(SecurableObject securableObject,String userLoginName,RoleType permissionLevel,Boolean removeAllPermissionLevels)
+public static System.Void RemovePermissionLevelFromUser(SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeAllPermissionLevels)
 ```
 ### Parameters
 *securableObject*  

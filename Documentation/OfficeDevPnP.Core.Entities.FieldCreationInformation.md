@@ -17,13 +17,13 @@ public class FieldCreationInformation
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Id](OfficeDevPnP.Core.Entities.FieldCreationInformation.Id.md) | 
-| [DisplayName](OfficeDevPnP.Core.Entities.FieldCreationInformation.DisplayName.md) | 
-| [InternalName](OfficeDevPnP.Core.Entities.FieldCreationInformation.InternalName.md) | 
-| [AddToDefaultView](OfficeDevPnP.Core.Entities.FieldCreationInformation.AddToDefaultView.md) | 
 | [AdditionalAttributes](OfficeDevPnP.Core.Entities.FieldCreationInformation.AdditionalAttributes.md) | 
+| [AddToDefaultView](OfficeDevPnP.Core.Entities.FieldCreationInformation.AddToDefaultView.md) | 
+| [DisplayName](OfficeDevPnP.Core.Entities.FieldCreationInformation.DisplayName.md) | 
 | [FieldType](OfficeDevPnP.Core.Entities.FieldCreationInformation.FieldType.md) | 
 | [Group](OfficeDevPnP.Core.Entities.FieldCreationInformation.Group.md) | 
+| [Id](OfficeDevPnP.Core.Entities.FieldCreationInformation.Id.md) | 
+| [InternalName](OfficeDevPnP.Core.Entities.FieldCreationInformation.InternalName.md) | 
 | [Required](OfficeDevPnP.Core.Entities.FieldCreationInformation.Required.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

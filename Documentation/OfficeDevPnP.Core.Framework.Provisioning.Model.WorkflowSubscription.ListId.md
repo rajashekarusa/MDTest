@@ -5,8 +5,7 @@ Defines the ID of the target list/library for the current Subscription,
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ListId { get; }
-public string ListId { set; }
+public string ListId { get; set; }
 ```
 
 ### Property Value
@@ -18,6 +17,5 @@ Type: System.String
             be at Site level
             
 ## See also
-- [WorkflowSubscription](WorkflowSubscription.md) 
-
+- [WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

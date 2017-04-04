@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void CreateMemberGroupAsync(MembershipData membershipInfo)
+public System.Void CreateMemberGroupAsync(MembershipData membershipInfo)
 ```
 ### Parameters
 *membershipInfo*  

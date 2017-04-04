@@ -7,22 +7,22 @@ public TermGroup(Guid id, String name, List<TermSet> termSets, Boolean siteColle
 ```
 ### Parameters
 #### id
-&emsp;&emsp;Type: [System.Guid] 
+&emsp;&emsp;Type: System.Guid  
 #### 
 #### name
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### termSets
-&emsp;&emsp;Type: [System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet>] 
+&emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet>  
 #### 
 #### (optional) siteCollectionTermGroup
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### (optional) contributors
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.User>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.User>  
 #### 
 #### (optional) managers
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.User>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.User>  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

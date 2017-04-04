@@ -5,7 +5,7 @@ Publishes a file based on the type of versioning required on the parent library.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void PublishFileToLevel(File file,FileLevel level)
+public static System.Void PublishFileToLevel(File file, FileLevel level)
 ```
 ### Parameters
 *file*  

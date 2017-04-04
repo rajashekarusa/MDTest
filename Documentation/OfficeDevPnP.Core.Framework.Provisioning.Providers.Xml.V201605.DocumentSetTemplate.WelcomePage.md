@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string WelcomePage { get; }
-public string WelcomePage { set; }
+public string WelcomePage { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [DocumentSetTemplate](DocumentSetTemplate.md) 
-
+- [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsOpenForTermCreation { get; }
-public boolean IsOpenForTermCreation { set; }
+public boolean IsOpenForTermCreation { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [TermSet](TermSet.md) 
-
+- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

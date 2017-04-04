@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddLeader(String accountName)
+public System.Void AddLeader(String accountName)
 ```
 ### Parameters
 *accountName*  

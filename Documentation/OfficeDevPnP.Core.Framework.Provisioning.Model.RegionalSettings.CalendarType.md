@@ -5,14 +5,12 @@ The Calendar Type that is used on the server
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Microsoft.SharePoint.Client.CalendarType CalendarType { get; }
-public Microsoft.SharePoint.Client.CalendarType CalendarType { set; }
+public CalendarType CalendarType { get; set; }
 ```
 
 ### Property Value
 Type: Microsoft.SharePoint.Client.CalendarType  
 
 ## See also
-- [RegionalSettings](RegionalSettings.md) 
-
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,14 +5,12 @@ The Title of the Site, optional attribute.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Title { get; }
-public string Title { set; }
+public string Title { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebSettings](WebSettings.md) 
-
+- [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

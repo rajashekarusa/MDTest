@@ -17,8 +17,8 @@ public class GetUserLinksCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserLinksCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.c71e9d7a.md) | 
 | [BeginInvoke(Object, GetUserLinksCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.b2fc16d0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserLinksCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.c71e9d7a.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

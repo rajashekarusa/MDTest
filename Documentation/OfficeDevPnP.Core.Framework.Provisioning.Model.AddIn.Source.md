@@ -5,8 +5,7 @@ Defines the Source of the SharePoint Add-in to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Source { get; }
-public string Source { set; }
+public string Source { get; set; }
 ```
 
 ### Property Value
@@ -17,6 +16,5 @@ Type: System.String
             Possible values are: CorporateCatalog, DeveloperSite, InvalidSource, Marketplace, ObjectModel, RemoteObjectModel
             
 ## See also
-- [AddIn](AddIn.md) 
-
+- [AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

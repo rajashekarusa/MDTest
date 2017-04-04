@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment[] RoleAssignments { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment[] RoleAssignments { set; }
+public RoleAssignment[] RoleAssignments { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignm
 ## Remarks 
 
 ## See also
-- [SecurityPermissions](SecurityPermissions.md) 
-
+- [SecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SecurityPermissions.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

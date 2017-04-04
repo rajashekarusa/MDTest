@@ -20,11 +20,11 @@ public class TokenDefinition
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetTokens()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.a19a3a91.md) | 
+| [ClearCache()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.80c607ba.md) | 
 | [GetRegex()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.156803af.md) | 
 | [GetRegexForToken(String)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.f6a13dab.md) | 
-| [GetTokenLength()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.f9007d89.md) | 
 | [GetReplaceValue()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.e3816095.md) | 
-| [ClearCache()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.80c607ba.md) | 
+| [GetTokenLength()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.f9007d89.md) | 
+| [GetTokens()](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.a19a3a91.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

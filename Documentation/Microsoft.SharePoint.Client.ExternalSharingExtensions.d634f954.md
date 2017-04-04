@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string CreateAnonymousLinkWithExpirationForDocument(Web web,String urlToDocument,ExternalSharingDocumentOption shareOption,DateTime expireTime)
+public static System.String CreateAnonymousLinkWithExpirationForDocument(Web web, String urlToDocument, ExternalSharingDocumentOption shareOption, DateTime expireTime)
 ```
 ### Parameters
 *web*  
@@ -17,7 +17,7 @@ public static string CreateAnonymousLinkWithExpirationForDocument(Web web,String
 &emsp;&emsp;Full URL to the file which is shared  
   
 *shareOption*  
-&emsp;&emsp;Type: Microsoft.SharePoint.Client.ExternalSharingDocumentOption  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;Type of the link to be created - View or Edit  
   
 *expireTime*  

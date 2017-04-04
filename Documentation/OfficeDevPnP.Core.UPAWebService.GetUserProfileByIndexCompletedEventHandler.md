@@ -17,8 +17,8 @@ public class GetUserProfileByIndexCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserProfileByIndexCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.b4fdc4e4.md) | 
 | [BeginInvoke(Object, GetUserProfileByIndexCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.4d35baae.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserProfileByIndexCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.b4fdc4e4.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

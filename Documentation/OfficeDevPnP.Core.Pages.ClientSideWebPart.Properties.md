@@ -5,13 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Newtonsoft.Json.Linq.JObject Properties { get; }
+public JObject Properties { get; }
 ```
 
 ### Property Value
 Type: Newtonsoft.Json.Linq.JObject  
 
 ## See also
-- [ClientSideWebPart](ClientSideWebPart.md) 
-
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

@@ -14,6 +14,5 @@ Type: System.String[]
 ## Remarks 
 
 ## See also
-- [GetPropertyChoiceListCompletedEventArgs](GetPropertyChoiceListCompletedEventArgs.md) 
-
+- [GetPropertyChoiceListCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetListByUrl(Web web,String webRelativeUrl,Expression<Func<List, Object>>[] expressions)
+public static Microsoft.SharePoint.Client.List GetListByUrl(Web web, String webRelativeUrl, Expression<Func<List, Object>>[] expressions)
 ```
 ### Parameters
 *web*  

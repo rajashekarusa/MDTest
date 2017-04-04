@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(SupportedUILanguage other)
+public System.Boolean Equals(SupportedUILanguage other)
 ```
 ### Parameters
 *other*  

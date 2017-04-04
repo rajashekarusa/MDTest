@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string full_name { get; }
-public string full_name { set; }
+public string full_name { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerGroup](YammerGroup.md) 
-
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

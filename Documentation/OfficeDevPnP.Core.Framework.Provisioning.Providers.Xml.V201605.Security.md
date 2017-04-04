@@ -18,13 +18,13 @@ public class Security
 |**Name**|**Description**|
 |:-----|:-----|
 | [AdditionalAdministrators](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.AdditionalAdministrators.md) | 
-| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.AdditionalOwners.md) | 
 | [AdditionalMembers](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.AdditionalMembers.md) | 
+| [AdditionalOwners](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.AdditionalOwners.md) | 
 | [AdditionalVisitors](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.AdditionalVisitors.md) | 
-| [SiteGroups](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.SiteGroups.md) | 
-| [Permissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.Permissions.md) | 
 | [BreakRoleInheritance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.BreakRoleInheritance.md) | 
-| [CopyRoleAssignments](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.CopyRoleAssignments.md) | 
 | [ClearSubscopes](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.ClearSubscopes.md) | 
+| [CopyRoleAssignments](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.CopyRoleAssignments.md) | 
+| [Permissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.Permissions.md) | 
+| [SiteGroups](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.SiteGroups.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

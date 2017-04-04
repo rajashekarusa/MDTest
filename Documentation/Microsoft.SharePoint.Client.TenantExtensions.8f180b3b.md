@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid CreateSiteCollection(Tenant tenant,SiteEntity properties,Boolean removeFromRecycleBin,Boolean wait,Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static System.Guid CreateSiteCollection(Tenant tenant, SiteEntity properties, Boolean removeFromRecycleBin, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 *tenant*  

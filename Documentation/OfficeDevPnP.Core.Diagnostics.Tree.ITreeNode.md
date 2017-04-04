@@ -9,10 +9,10 @@ public interface ITreeNode
 |**Name**|**Description**|
 |:-----|:-----|
 | [Ancestors](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.Ancestors.md) | 
-| [ParentNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.ParentNode.md) | 
 | [ChildNodes](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.ChildNodes.md) | 
-| [Descendants](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.Descendants.md) | 
 | [Depth](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.Depth.md) | 
+| [Descendants](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.Descendants.md) | 
 | [Height](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.Height.md) | 
+| [ParentNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.ParentNode.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

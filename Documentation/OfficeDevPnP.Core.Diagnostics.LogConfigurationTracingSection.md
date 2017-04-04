@@ -15,7 +15,7 @@ public class LogConfigurationTracingSection: ConfigurationSection
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogLevel](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.LogLevel.md) | 
 | [Logger](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.Logger.md) | 
+| [LogLevel](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.LogLevel.md) | 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

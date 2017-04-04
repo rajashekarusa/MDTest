@@ -5,14 +5,12 @@ Can this timer job use multiple threads. Defaults to true
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UseThreading { get; }
-public boolean UseThreading { set; }
+public boolean UseThreading { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

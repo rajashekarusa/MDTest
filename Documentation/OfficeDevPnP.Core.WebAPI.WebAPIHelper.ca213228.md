@@ -9,7 +9,7 @@ This method needs to be called from a code behind of the SharePoint app startup 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RegisterWebAPIService(Page page,String apiRequest,Uri serviceEndPoint)
+public static System.Void RegisterWebAPIService(Page page, String apiRequest, Uri serviceEndPoint)
 ```
 ### Parameters
 *page*  

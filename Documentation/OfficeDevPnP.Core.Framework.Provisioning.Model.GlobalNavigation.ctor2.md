@@ -7,7 +7,7 @@ public GlobalNavigation(GlobalNavigationType navigationType, StructuralNavigatio
 ```
 ### Parameters
 #### navigationType
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType] 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType.md)  
 #### 
 #### (optional) structuralNavigation
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 

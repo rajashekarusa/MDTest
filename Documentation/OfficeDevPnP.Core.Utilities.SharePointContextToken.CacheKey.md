@@ -12,6 +12,5 @@ public string CacheKey { get; }
 Type: System.String  
 
 ## See also
-- [SharePointContextToken](SharePointContextToken.md) 
-
+- [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string PagesLibrary { get; }
-public string PagesLibrary { set; }
+public string PagesLibrary { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ClientSidePage](ClientSidePage.md) 
-
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

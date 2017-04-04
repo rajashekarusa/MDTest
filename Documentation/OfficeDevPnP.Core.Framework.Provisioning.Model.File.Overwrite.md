@@ -5,14 +5,12 @@ The Overwrite flag for the File
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Overwrite { get; }
-public boolean Overwrite { set; }
+public boolean Overwrite { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [File](File.md) 
-
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

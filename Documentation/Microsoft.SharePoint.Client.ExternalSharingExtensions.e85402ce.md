@@ -5,7 +5,7 @@ Share site for a person using just email. Will resolve needed people picker JSON
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  ShareSite(Web web,String email,ExternalSharingSiteOption shareOption,Boolean sendEmail,String emailBody,Boolean useSimplifiedRoles)
+public static Microsoft.SharePoint.Client.SharingResult ShareSite(Web web, String email, ExternalSharingSiteOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
 ```
 ### Parameters
 *web*  
@@ -17,7 +17,7 @@ public static  ShareSite(Web web,String email,ExternalSharingSiteOption shareOpt
 &emsp;&emsp;Email of the person to whom site should be shared.  
   
 *shareOption*  
-&emsp;&emsp;Type: Microsoft.SharePoint.Client.ExternalSharingSiteOption  
+&emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingSiteOption](Microsoft.SharePoint.Client.ExternalSharingSiteOption.md)  
 &emsp;&emsp;Sharing style - View, Edit, Owner  
   
 *(optional) sendEmail*  

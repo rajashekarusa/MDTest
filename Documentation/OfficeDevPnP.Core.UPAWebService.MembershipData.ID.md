@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public long ID { get; }
-public long ID { set; }
+public long ID { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int64
 ## Remarks 
 
 ## See also
-- [MembershipData](MembershipData.md) 
-
+- [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

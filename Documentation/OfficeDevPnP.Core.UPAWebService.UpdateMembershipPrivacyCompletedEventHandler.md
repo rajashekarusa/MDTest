@@ -17,8 +17,8 @@ public class UpdateMembershipPrivacyCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.26851c57.md) | 
 | [BeginInvoke(Object, AsyncCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.f6352ab0.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, AsyncCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.26851c57.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

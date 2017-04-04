@@ -17,10 +17,10 @@ public class QuickLinkData
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](OfficeDevPnP.Core.UPAWebService.QuickLinkData.Name.md) | 
 | [Group](OfficeDevPnP.Core.UPAWebService.QuickLinkData.Group.md) | 
+| [ID](OfficeDevPnP.Core.UPAWebService.QuickLinkData.ID.md) | 
+| [Name](OfficeDevPnP.Core.UPAWebService.QuickLinkData.Name.md) | 
 | [Privacy](OfficeDevPnP.Core.UPAWebService.QuickLinkData.Privacy.md) | 
 | [Url](OfficeDevPnP.Core.UPAWebService.QuickLinkData.Url.md) | 
-| [ID](OfficeDevPnP.Core.UPAWebService.QuickLinkData.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

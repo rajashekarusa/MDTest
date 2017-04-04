@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageLayout Layout { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageLayout Layout { set; }
+public WikiPageLayout Layout { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageLay
 ## Remarks 
 
 ## See also
-- [Page](Page.md) 
-
+- [Page](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Page.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

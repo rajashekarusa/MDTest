@@ -17,11 +17,11 @@ public class File
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Properties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Properties.md) | 
-| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.WebParts.md) | 
-| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Security.md) | 
-| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Src.md) | 
 | [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Folder.md) | 
 | [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Overwrite.md) | 
+| [Properties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Properties.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Security.md) | 
+| [Src](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.Src.md) | 
+| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.WebParts.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Includes(String fieldValue)
+public static System.String Includes(String fieldValue)
 ```
 ### Parameters
 *fieldValue*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  EnsureTermSet(TermGroup parentGroup,String termSetName,Guid termSetId,Nullable<Int32> lcid,String description,Nullable<Boolean> isOpen,String termSetContact,String termSetOwner)
+public static Microsoft.SharePoint.Client.Taxonomy.TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, Guid termSetId, Nullable<Int32> lcid, String description, Nullable<Boolean> isOpen, String termSetContact, String termSetOwner)
 ```
 ### Parameters
 *parentGroup*  

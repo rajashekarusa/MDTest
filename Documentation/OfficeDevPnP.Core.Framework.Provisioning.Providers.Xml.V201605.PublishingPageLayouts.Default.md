@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Default { get; }
-public string Default { set; }
+public string Default { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [PublishingPageLayouts](PublishingPageLayouts.md) 
-
+- [PublishingPageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayouts.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

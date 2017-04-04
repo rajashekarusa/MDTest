@@ -5,14 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Null { get; }
-public boolean Null { set; }
+public boolean Null { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [PropertyType](PropertyType.md) 
-
+- [PropertyType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

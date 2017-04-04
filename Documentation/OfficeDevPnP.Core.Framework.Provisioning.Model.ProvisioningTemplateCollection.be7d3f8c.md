@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int FindIndex(Predicate match)
+public System.Int32 FindIndex(Predicate match)
 ```
 ### Parameters
 *match*  

@@ -5,14 +5,12 @@ Gets or sets the ColorFile
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ColorFile { get; }
-public string ColorFile { set; }
+public string ColorFile { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ComposedLook](ComposedLook.md) 
-
+- [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,14 +5,12 @@ Specifies the type of object associated with the custom action. A Nullable Type
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<microsoft.sharepoint.client.usercustomactionregistrationtype> RegistrationType { get; }
-public nullable<microsoft.sharepoint.client.usercustomactionregistrationtype> RegistrationType { set; }
+public nullable<usercustomactionregistrationtype> RegistrationType { get; set; }
 ```
 
 ### Property Value
 Type: System.Nullable<Microsoft.SharePoint.Client.UserCustomActionRegistrationType>  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

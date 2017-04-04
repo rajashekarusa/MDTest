@@ -5,7 +5,7 @@ Gets a Taxonomy Term by Name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetTermByName(Site site,Guid termSetId,String term)
+public static Microsoft.SharePoint.Client.Taxonomy.Term GetTermByName(Site site, Guid termSetId, String term)
 ```
 ### Parameters
 *site*  

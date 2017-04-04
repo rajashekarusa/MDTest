@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddSection(CanvasSection section)
+public System.Void AddSection(CanvasSection section)
 ```
 ### Parameters
 *section*  

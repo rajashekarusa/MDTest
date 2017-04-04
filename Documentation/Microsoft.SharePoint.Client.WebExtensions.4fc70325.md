@@ -5,7 +5,7 @@ Can be used to set translations for different cultures.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetLocalizationLabels(Web web,String cultureName,String titleResource,String descriptionResource)
+public static System.Void SetLocalizationLabels(Web web, String cultureName, String titleResource, String descriptionResource)
 ```
 ### Parameters
 *web*  

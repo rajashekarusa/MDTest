@@ -5,14 +5,12 @@ Custom action location (A string that contains the location; for example, Micros
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Location { get; }
-public string Location { set; }
+public string Location { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

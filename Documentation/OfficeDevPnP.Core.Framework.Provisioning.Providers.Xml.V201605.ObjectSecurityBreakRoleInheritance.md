@@ -17,8 +17,8 @@ public class ObjectSecurityBreakRoleInheritance
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.RoleAssignment.md) | 
-| [CopyRoleAssignments](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.CopyRoleAssignments.md) | 
 | [ClearSubscopes](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.ClearSubscopes.md) | 
+| [CopyRoleAssignments](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.CopyRoleAssignments.md) | 
+| [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance.RoleAssignment.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

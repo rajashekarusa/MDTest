@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Zone { get; }
-public string Zone { set; }
+public string Zone { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [WebPartPageWebPart](WebPartPageWebPart.md) 
-
+- [WebPartPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

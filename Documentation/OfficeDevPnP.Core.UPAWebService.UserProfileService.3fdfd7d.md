@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetLeadersAsync(Object userState)
+public System.Void GetLeadersAsync(Object userState)
 ```
 ### Parameters
 *userState*  

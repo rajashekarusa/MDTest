@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string FileSourcePath { get; }
-public string FileSourcePath { set; }
+public string FileSourcePath { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [DocumentSetTemplateDefaultDocument](DocumentSetTemplateDefaultDocument.md) 
-
+- [DocumentSetTemplateDefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateDefaultDocument.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

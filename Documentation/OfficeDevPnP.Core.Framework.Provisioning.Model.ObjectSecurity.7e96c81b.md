@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(ObjectSecurity other)
+public System.Boolean Equals(ObjectSecurity other)
 ```
 ### Parameters
 *other*  

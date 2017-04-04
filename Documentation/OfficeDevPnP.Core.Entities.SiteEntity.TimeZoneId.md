@@ -6,14 +6,12 @@ TimeZoneID for the site. "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris" = 3
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int TimeZoneId { get; }
-public int TimeZoneId { set; }
+public int TimeZoneId { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

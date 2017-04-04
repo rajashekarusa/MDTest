@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsIisVirtualDirectory(String url)
+public static System.Boolean IsIisVirtualDirectory(String url)
 ```
 ### Parameters
 *url*  

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowDesignerSpecified { get; }
-public boolean AllowDesignerSpecified { set; }
+public boolean AllowDesignerSpecified { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [Site](Site.md) 
-
+- [Site](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

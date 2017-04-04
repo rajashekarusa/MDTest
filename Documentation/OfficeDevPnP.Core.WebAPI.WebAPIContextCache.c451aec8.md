@@ -5,7 +5,7 @@ Gets an item from the cache
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  Get(String cacheKey)
+public OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem Get(String cacheKey)
 ```
 ### Parameters
 *cacheKey*  

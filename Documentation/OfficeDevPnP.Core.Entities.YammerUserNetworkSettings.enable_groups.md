@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean enable_groups { get; }
-public boolean enable_groups { set; }
+public boolean enable_groups { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [YammerUserNetworkSettings](YammerUserNetworkSettings.md) 
-
+- [YammerUserNetworkSettings](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

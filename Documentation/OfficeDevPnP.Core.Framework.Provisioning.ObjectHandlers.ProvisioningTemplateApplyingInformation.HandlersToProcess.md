@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers HandlersToProcess { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers HandlersToProcess { set; }
+public Handlers HandlersToProcess { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers  
 
 ## See also
-- [ProvisioningTemplateApplyingInformation](ProvisioningTemplateApplyingInformation.md) 
-
+- [ProvisioningTemplateApplyingInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

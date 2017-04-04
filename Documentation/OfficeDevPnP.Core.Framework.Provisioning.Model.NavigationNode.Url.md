@@ -5,14 +5,12 @@ Defines the Url of a Navigation Node
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Url { get; }
-public string Url { set; }
+public string Url { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [NavigationNode](NavigationNode.md) 
-
+- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

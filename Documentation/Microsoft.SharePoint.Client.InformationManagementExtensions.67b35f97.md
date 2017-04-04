@@ -5,7 +5,7 @@ Gets the site policy with the given name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetSitePolicyByName(Web web,String sitePolicy)
+public static OfficeDevPnP.Core.Entities.SitePolicyEntity GetSitePolicyByName(Web web, String sitePolicy)
 ```
 ### Parameters
 *web*  

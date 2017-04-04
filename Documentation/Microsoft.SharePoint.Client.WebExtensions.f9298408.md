@@ -8,7 +8,7 @@ Detects if the site in question has no script enabled or not. Detection is done 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsNoScriptSite(Site site)
+public static System.Boolean IsNoScriptSite(Site site)
 ```
 ### Parameters
 *site*  

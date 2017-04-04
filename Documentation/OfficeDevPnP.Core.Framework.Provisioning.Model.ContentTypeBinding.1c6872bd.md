@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int GetHashCode()
+public System.Int32 GetHashCode()
 ```
 ### Return Value
 Type: System.Int32  

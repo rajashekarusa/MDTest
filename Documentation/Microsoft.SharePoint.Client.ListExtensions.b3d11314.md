@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<system.collections.generic.dictionary<system.string,system.string>> GetDefaultColumnValues(List list)
+public static System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.String>> GetDefaultColumnValues(List list)
 ```
 ### Parameters
 *list*  

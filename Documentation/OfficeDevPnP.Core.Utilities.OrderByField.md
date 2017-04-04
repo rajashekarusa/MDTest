@@ -16,8 +16,8 @@ public class OrderByField
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Name](OfficeDevPnP.Core.Utilities.OrderByField.Name.md) | 
 | [Ascending](OfficeDevPnP.Core.Utilities.OrderByField.Ascending.md) | 
+| [Name](OfficeDevPnP.Core.Utilities.OrderByField.Name.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

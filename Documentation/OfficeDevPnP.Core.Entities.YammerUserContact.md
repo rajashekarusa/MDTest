@@ -15,9 +15,9 @@ public class YammerUserContact
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [im](OfficeDevPnP.Core.Entities.YammerUserContact.im.md) | 
-| [phone_numbers](OfficeDevPnP.Core.Entities.YammerUserContact.phone_numbers.md) | 
 | [email_addresses](OfficeDevPnP.Core.Entities.YammerUserContact.email_addresses.md) | 
 | [has_fake_email](OfficeDevPnP.Core.Entities.YammerUserContact.has_fake_email.md) | 
+| [im](OfficeDevPnP.Core.Entities.YammerUserContact.im.md) | 
+| [phone_numbers](OfficeDevPnP.Core.Entities.YammerUserContact.phone_numbers.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

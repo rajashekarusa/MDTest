@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Enabled { get; }
-public boolean Enabled { set; }
+public boolean Enabled { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [Provider](Provider.md) 
-
+- [Provider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provider.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

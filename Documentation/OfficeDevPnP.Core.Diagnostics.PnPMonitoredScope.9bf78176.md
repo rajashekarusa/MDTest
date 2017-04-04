@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void LogDebug(String message,Object[] args)
+public System.Void LogDebug(String message, Object[] args)
 ```
 ### Parameters
 *message*  

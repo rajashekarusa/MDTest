@@ -5,7 +5,7 @@ Returns a workflow definition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetWorkflowDefinition(Web web,Guid id)
+public static Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition GetWorkflowDefinition(Web web, Guid id)
 ```
 ### Parameters
 *web*  

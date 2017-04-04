@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Source { get; }
-public string Source { set; }
+public string Source { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [LogEntry](LogEntry.md) 
-
+- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

@@ -17,15 +17,15 @@ public class ExtensibilityHandler: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Enabled](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Enabled.md) | 
 | [Assembly](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Assembly.md) | 
-| [Type](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Type.md) | 
 | [Configuration](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Configuration.md) | 
+| [Enabled](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Enabled.md) | 
+| [Type](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.Type.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.3520ddbb.md) | 
 | [Equals(ExtensibilityHandler)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.c3f425d0.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

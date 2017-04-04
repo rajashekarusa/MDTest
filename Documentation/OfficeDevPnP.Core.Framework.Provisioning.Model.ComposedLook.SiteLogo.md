@@ -5,14 +5,12 @@ Gets or sets the Site Logo
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string SiteLogo { get; }
-public string SiteLogo { set; }
+public string SiteLogo { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ComposedLook](ComposedLook.md) 
-
+- [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

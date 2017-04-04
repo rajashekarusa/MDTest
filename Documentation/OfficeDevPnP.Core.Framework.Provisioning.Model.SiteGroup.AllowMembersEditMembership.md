@@ -5,14 +5,12 @@ Defines whether the members can edit membership of the Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowMembersEditMembership { get; }
-public boolean AllowMembersEditMembership { set; }
+public boolean AllowMembersEditMembership { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [SiteGroup](SiteGroup.md) 
-
+- [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

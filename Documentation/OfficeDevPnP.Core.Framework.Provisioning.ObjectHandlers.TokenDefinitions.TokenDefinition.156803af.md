@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public text.regularexpressions.regex[] GetRegex()
+public System.Text.RegularExpressions.Regex[] GetRegex()
 ```
 ### Return Value
 Type: System.Text.RegularExpressions.Regex[]  

@@ -5,13 +5,12 @@ Defines the Workflows Definitions to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection WorkflowDefinitions { get; }
+public WorkflowDefinitionCollection WorkflowDefinitions { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.md)  
 
 ## See also
-- [Workflows](Workflows.md) 
-
+- [Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

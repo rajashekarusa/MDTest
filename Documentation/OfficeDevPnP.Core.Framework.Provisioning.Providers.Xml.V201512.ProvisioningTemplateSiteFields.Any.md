@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xml.xmlelement[] Any { get; }
-public xml.xmlelement[] Any { set; }
+public xmlelement[] Any { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Xml.XmlElement[]
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplateSiteFields](ProvisioningTemplateSiteFields.md) 
-
+- [ProvisioningTemplateSiteFields](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplateSiteFields.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

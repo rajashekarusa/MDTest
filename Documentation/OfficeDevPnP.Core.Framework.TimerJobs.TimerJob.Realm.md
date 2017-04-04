@@ -6,14 +6,12 @@ Realm will be automatically defined, but there's an option to manually specify i
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Realm { get; }
-public string Realm { set; }
+public string Realm { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [TimerJob](TimerJob.md) 
-
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

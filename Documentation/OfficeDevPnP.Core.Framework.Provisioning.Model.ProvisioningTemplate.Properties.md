@@ -5,13 +5,12 @@ A set of custom Properties for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary<system.string,system.string> Properties { get; }
+public dictionary<string, string> Properties { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
-- [ProvisioningTemplate](ProvisioningTemplate.md) 
-
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

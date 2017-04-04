@@ -5,7 +5,7 @@ Checks if in place records management functionality is enabled for this site col
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsInPlaceRecordsManagementActive(Site site)
+public static System.Boolean IsInPlaceRecordsManagementActive(Site site)
 ```
 ### Parameters
 *site*  

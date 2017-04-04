@@ -17,13 +17,13 @@ public class PageLayout: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Path](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.Path.md) | Defines the path of the Page Layout for the current Publishing site
 | [IsDefault](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.IsDefault.md) | Defines whether the Page Layout is the default for the current Publishing site
+| [Path](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.Path.md) | Defines the path of the Page Layout for the current Publishing site
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.3520ddbb.md) | 
 | [Equals(PageLayout)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.410a89f2.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

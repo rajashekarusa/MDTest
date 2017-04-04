@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Id { get; }
-public string Id { set; }
+public string Id { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ClientSideWebPartData](ClientSideWebPartData.md) 
-
+- [ClientSideWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPartData.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

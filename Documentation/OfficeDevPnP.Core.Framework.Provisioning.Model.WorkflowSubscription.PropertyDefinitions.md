@@ -5,13 +5,12 @@ Defines the Property Definitions of the Workflows to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.dictionary<system.string,system.string> PropertyDefinitions { get; }
+public dictionary<string, string> PropertyDefinitions { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.Dictionary<System.String,System.String>  
 
 ## See also
-- [WorkflowSubscription](WorkflowSubscription.md) 
-
+- [WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

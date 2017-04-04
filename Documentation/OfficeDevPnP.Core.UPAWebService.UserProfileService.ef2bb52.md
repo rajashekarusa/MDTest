@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RemoveColleague(String accountName,String colleagueAccountName)
+public System.Void RemoveColleague(String accountName, String colleagueAccountName)
 ```
 ### Parameters
 *accountName*  

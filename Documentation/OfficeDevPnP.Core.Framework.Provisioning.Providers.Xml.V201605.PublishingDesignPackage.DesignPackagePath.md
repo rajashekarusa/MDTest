@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string DesignPackagePath { get; }
-public string DesignPackagePath { set; }
+public string DesignPackagePath { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [PublishingDesignPackage](PublishingDesignPackage.md) 
-
+- [PublishingDesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingDesignPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

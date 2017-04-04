@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Url { get; }
-public string Url { set; }
+public string Url { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [UserProfileService](UserProfileService.md) 
-
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

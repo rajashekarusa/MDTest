@@ -5,7 +5,7 @@ Associates field to content type
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddFieldByName(ContentType contentType,String fieldName,Boolean required,Boolean hidden)
+public static System.Void AddFieldByName(ContentType contentType, String fieldName, Boolean required, Boolean hidden)
 ```
 ### Parameters
 *contentType*  

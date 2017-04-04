@@ -5,7 +5,7 @@ Activate the in place records management feature
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ActivateInPlaceRecordsManagementFeature(Site site)
+public static System.Void ActivateInPlaceRecordsManagementFeature(Site site)
 ```
 ### Parameters
 *site*  

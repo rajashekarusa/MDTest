@@ -5,13 +5,12 @@ The Global Navigation settings for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation GlobalNavigation { get; }
+public GlobalNavigation GlobalNavigation { get; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md)  
 
 ## See also
-- [Navigation](Navigation.md) 
-
+- [Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

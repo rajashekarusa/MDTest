@@ -5,7 +5,7 @@ Clears the list of added site Url's and/or wildcard site Url's
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void ClearAddedSites()
+public System.Void ClearAddedSites()
 ```
 ### Return Value
 Type: System.Void  

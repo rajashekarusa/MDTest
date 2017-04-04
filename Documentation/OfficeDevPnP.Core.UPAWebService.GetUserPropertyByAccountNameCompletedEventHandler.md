@@ -17,8 +17,8 @@ public class GetUserPropertyByAccountNameCompletedEventHandler: MulticastDelegat
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserPropertyByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.dfdb8666.md) | 
 | [BeginInvoke(Object, GetUserPropertyByAccountNameCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.b28f3599.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserPropertyByAccountNameCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.dfdb8666.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

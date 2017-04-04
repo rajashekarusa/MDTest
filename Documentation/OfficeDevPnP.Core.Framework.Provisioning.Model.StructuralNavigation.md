@@ -17,13 +17,13 @@ public class StructuralNavigation: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [RemoveExistingNodes](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.RemoveExistingNodes.md) | Defines whether to remove existing nodes before creating those described through this element
 | [NavigationNodes](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.NavigationNodes.md) | A collection of navigation nodes for the site
+| [RemoveExistingNodes](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.RemoveExistingNodes.md) | Defines whether to remove existing nodes before creating those described through this element
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.3520ddbb.md) | 
 | [Equals(StructuralNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.4d36f90d.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

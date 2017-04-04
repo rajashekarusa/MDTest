@@ -6,14 +6,12 @@ Automatic creation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AutomaticCreation { get; }
-public boolean AutomaticCreation { set; }
+public boolean AutomaticCreation { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [VariationInformation](VariationInformation.md) 
-
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

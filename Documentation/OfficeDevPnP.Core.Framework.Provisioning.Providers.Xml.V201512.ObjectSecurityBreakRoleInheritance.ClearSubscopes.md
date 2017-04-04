@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ClearSubscopes { get; }
-public boolean ClearSubscopes { set; }
+public boolean ClearSubscopes { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [ObjectSecurityBreakRoleInheritance](ObjectSecurityBreakRoleInheritance.md) 
-
+- [ObjectSecurityBreakRoleInheritance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ObjectSecurityBreakRoleInheritance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -5,7 +5,7 @@ Adds a wiki page by Url
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddWikiPageByUrl(Web web,String serverRelativePageUrl,String html)
+public static System.Void AddWikiPageByUrl(Web web, String serverRelativePageUrl, String html)
 ```
 ### Parameters
 *web*  

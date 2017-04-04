@@ -17,16 +17,16 @@ public class Term: TermSetItem
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.Terms.md) | 
-| [Labels](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.Labels.md) | 
 | [CustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.CustomProperties.md) | 
-| [LocalCustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.LocalCustomProperties.md) | 
-| [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.Language.md) | 
-| [LanguageSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.LanguageSpecified.md) | 
 | [CustomSortOrder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.CustomSortOrder.md) | 
+| [IsDeprecated](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.IsDeprecated.md) | 
 | [IsReused](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.IsReused.md) | 
 | [IsSourceTerm](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.IsSourceTerm.md) | 
-| [IsDeprecated](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.IsDeprecated.md) | 
+| [Labels](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.Labels.md) | 
+| [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.Language.md) | 
+| [LanguageSpecified](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.LanguageSpecified.md) | 
+| [LocalCustomProperties](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.LocalCustomProperties.md) | 
 | [SourceTermId](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.SourceTermId.md) | 
+| [Terms](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.Terms.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

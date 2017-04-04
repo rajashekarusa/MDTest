@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(Object obj)
+public System.Boolean Equals(Object obj)
 ```
 ### Parameters
 *obj*  

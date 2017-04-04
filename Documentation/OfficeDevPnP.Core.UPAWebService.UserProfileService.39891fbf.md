@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_GetProfileSchemaCompleted(GetProfileSchemaCompletedEventHandler value)
+public System.Void add_GetProfileSchemaCompleted(GetProfileSchemaCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

@@ -5,14 +5,12 @@ Gets or sets the URL, URI, or ECMAScript (JScript, JavaScript) function associat
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Url { get; }
-public string Url { set; }
+public string Url { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

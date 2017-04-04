@@ -7,10 +7,10 @@ public MultipleSymmetricKeySecurityToken(String tokenId, IEnumerable<Byte[]> key
 ```
 ### Parameters
 #### tokenId
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### keys
-&emsp;&emsp;Type: [System.Collections.Generic.IEnumerable<System.Byte[]>] 
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.Byte[]>  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

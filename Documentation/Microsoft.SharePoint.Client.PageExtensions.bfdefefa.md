@@ -5,7 +5,7 @@ Returns the HTML contents of a wiki page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetWikiPageContent(Web web,String serverRelativePageUrl)
+public static System.String GetWikiPageContent(Web web, String serverRelativePageUrl)
 ```
 ### Parameters
 *web*  

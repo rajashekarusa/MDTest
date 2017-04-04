@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[] AdditionalAdministrators { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[] AdditionalAdministrators { set; }
+public User[] AdditionalAdministrators { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[]
 ## Remarks 
 
 ## See also
-- [Security](Security.md) 
-
+- [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Security.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

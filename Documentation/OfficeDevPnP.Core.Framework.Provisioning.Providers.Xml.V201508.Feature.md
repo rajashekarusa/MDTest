@@ -17,8 +17,8 @@ public class Feature
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Feature.ID.md) | 
 | [Deactivate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Feature.Deactivate.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Feature.Description.md) | 
+| [ID](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Feature.ID.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

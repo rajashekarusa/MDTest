@@ -6,7 +6,7 @@ Adds custom action to a site collection. If the CustomAction exists the item wil
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddCustomAction(Site site,CustomActionEntity customAction)
+public static System.Boolean AddCustomAction(Site site, CustomActionEntity customAction)
 ```
 ### Parameters
 *site*  

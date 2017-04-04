@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteCollection[] SiteCollection { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteCollection[] SiteCollection { set; }
+public SiteCollection[] SiteCollection { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteCollect
 ## Remarks 
 
 ## See also
-- [Sequence](Sequence.md) 
-
+- [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Sequence.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

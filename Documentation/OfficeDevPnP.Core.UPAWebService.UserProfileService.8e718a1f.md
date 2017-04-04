@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetCommonManagerAsync(String accountName)
+public System.Void GetCommonManagerAsync(String accountName)
 ```
 ### Parameters
 *accountName*  

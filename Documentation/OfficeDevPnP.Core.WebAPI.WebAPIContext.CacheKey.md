@@ -5,14 +5,12 @@ The cacheKey that will be used. The cache key is unique for each combination of 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string CacheKey { get; }
-public string CacheKey { set; }
+public string CacheKey { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebAPIContext](WebAPIContext.md) 
-
+- [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

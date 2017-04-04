@@ -5,14 +5,12 @@ The subject of the notification email.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string EmailSubject { get; }
-public string EmailSubject { set; }
+public string EmailSubject { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [SitePolicyEntity](SitePolicyEntity.md) 
-
+- [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

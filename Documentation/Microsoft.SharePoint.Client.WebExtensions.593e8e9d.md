@@ -5,7 +5,7 @@ Adds a new child Web (site) to a parent Web.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  CreateWeb(Web parentWeb,String title,String leafUrl,String description,String template,Int32 language,Boolean inheritPermissions,Boolean inheritNavigation)
+public static Microsoft.SharePoint.Client.Web CreateWeb(Web parentWeb, String title, String leafUrl, String description, String template, Int32 language, Boolean inheritPermissions, Boolean inheritNavigation)
 ```
 ### Parameters
 *parentWeb*  

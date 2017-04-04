@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Manifest { get; }
-public string Manifest { set; }
+public string Manifest { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [ClientSideComponent](ClientSideComponent.md) 
-
+- [ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

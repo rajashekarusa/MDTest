@@ -5,7 +5,7 @@ Find files in a specific folder
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.list<microsoft.sharepoint.client.file> FindFiles(Folder folder,String match)
+public static System.Collections.Generic.List`1<Microsoft.SharePoint.Client.File> FindFiles(Folder folder, String match)
 ```
 ### Parameters
 *folder*  

@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(ProvisioningTemplate other)
+public System.Boolean Equals(ProvisioningTemplate other)
 ```
 ### Parameters
 *other*  

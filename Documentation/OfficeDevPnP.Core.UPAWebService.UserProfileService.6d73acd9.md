@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void RemoveLeaderAsync(String accountName,Object userState)
+public System.Void RemoveLeaderAsync(String accountName, Object userState)
 ```
 ### Parameters
 *accountName*  

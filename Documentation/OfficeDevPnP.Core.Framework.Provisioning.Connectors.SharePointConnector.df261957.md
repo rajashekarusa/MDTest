@@ -5,7 +5,7 @@ Gets a file as string from the default container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string GetFile(String fileName)
+public System.String GetFile(String fileName)
 ```
 ### Parameters
 *fileName*  

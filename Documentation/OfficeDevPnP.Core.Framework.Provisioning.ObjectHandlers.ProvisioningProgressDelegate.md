@@ -15,8 +15,8 @@ public class ProvisioningProgressDelegate: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(String, Int32, Int32)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate.44dd5e17.md) | 
 | [BeginInvoke(String, Int32, Int32, AsyncCallback, Object)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate.fb62684b.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate.c9867657.md) | 
+| [Invoke(String, Int32, Int32)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningProgressDelegate.44dd5e17.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

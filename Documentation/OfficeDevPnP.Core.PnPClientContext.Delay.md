@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Delay { get; }
-public int Delay { set; }
+public int Delay { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [PnPClientContext](PnPClientContext.md) 
-
+- [PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

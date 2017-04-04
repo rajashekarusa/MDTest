@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayoutsPageLayout[] PageLayout { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayoutsPageLayout[] PageLayout { set; }
+public PublishingPageLayoutsPageLayout[] PageLayout { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingP
 ## Remarks 
 
 ## See also
-- [PublishingPageLayouts](PublishingPageLayouts.md) 
-
+- [PublishingPageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingPageLayouts.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -17,8 +17,8 @@ public class TermLabelsLabel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [IsDefaultForLanguage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermLabelsLabel.IsDefaultForLanguage.md) | 
 | [Language](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermLabelsLabel.Language.md) | 
 | [Value](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermLabelsLabel.Value.md) | 
-| [IsDefaultForLanguage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermLabelsLabel.IsDefaultForLanguage.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

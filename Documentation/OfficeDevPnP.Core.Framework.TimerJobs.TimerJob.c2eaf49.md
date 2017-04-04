@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void remove_TimerJobRun(TimerJobRunHandler value)
+public System.Void remove_TimerJobRun(TimerJobRunHandler value)
 ```
 ### Parameters
 *value*  

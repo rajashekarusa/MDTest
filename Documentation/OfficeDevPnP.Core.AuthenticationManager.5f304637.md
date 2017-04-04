@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetAzureADWebApplicationAuthenticatedContext(String siteUrl,Func<String, String> accessTokenGetter)
+public Microsoft.SharePoint.Client.ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl, Func<String, String> accessTokenGetter)
 ```
 ### Parameters
 *siteUrl*  

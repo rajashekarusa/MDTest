@@ -10,6 +10,5 @@ public int ControlType { get; }
 Type: System.Int32  
 
 ## See also
-- [CanvasControl](CanvasControl.md) 
-
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

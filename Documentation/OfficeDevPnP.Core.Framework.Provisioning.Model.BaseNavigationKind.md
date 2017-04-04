@@ -18,13 +18,13 @@ public class BaseNavigationKind: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.StructuralNavigation.md) | Defines the Structural Navigation settings of the site
 | [ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ManagedNavigation.md) | Defines the Managed Navigation settings of the site
+| [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.StructuralNavigation.md) | Defines the Structural Navigation settings of the site
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.3520ddbb.md) | 
 | [Equals(BaseNavigationKind)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.888778a.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public servicemodel.securitymode SecurityMode { get; }
-public servicemodel.securitymode SecurityMode { set; }
+public securitymode SecurityMode { get; set; }
 ```
 
 ### Property Value
 Type: System.ServiceModel.SecurityMode  
 
 ## See also
-- [WSTrustBinding](WSTrustBinding.md) 
-
+- [WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md) 
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

@@ -5,14 +5,12 @@ A flag to enable Audit Log Trimming
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean TrimAuditLog { get; }
-public boolean TrimAuditLog { set; }
+public boolean TrimAuditLog { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [AuditSettings](AuditSettings.md) 
-
+- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

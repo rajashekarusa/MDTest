@@ -17,8 +17,8 @@ public class GetPropertyChoiceListCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetPropertyChoiceListCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.df37731e.md) | 
 | [BeginInvoke(Object, GetPropertyChoiceListCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.e0c4bffe.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetPropertyChoiceListCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.df37731e.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -5,14 +5,12 @@ The Src of the File
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Src { get; }
-public string Src { set; }
+public string Src { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [File](File.md) 
-
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

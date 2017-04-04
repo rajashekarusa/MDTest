@@ -5,7 +5,7 @@ This method returns a Boolean value that specifies whether or not the current ob
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean Contains(Guid fid)
+public static System.Boolean Contains(Guid fid)
 ```
 ### Parameters
 *fid*  

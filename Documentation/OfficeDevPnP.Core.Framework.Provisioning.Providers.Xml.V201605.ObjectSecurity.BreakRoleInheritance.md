@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance BreakRoleInheritance { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurityBreakRoleInheritance BreakRoleInheritance { set; }
+public ObjectSecurityBreakRoleInheritance BreakRoleInheritance { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecu
 ## Remarks 
 
 ## See also
-- [ObjectSecurity](ObjectSecurity.md) 
-
+- [ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

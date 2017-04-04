@@ -5,7 +5,7 @@ Returns a SharePoint on-premises ClientContext for sites secured via ADFS
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public  GetADFSCertificateMixedAuthenticationContext(String siteUrl,String serialNumber,String sts,String idpId,Int32 logonTokenCacheExpirationWindow)
+public Microsoft.SharePoint.Client.ClientContext GetADFSCertificateMixedAuthenticationContext(String siteUrl, String serialNumber, String sts, String idpId, Int32 logonTokenCacheExpirationWindow)
 ```
 ### Parameters
 *siteUrl*  

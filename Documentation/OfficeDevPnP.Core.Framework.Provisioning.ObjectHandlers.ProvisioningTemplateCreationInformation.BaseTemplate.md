@@ -5,14 +5,12 @@ Base template used to compare against when we're "getting" a template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate BaseTemplate { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate BaseTemplate { set; }
+public ProvisioningTemplate BaseTemplate { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
-- [ProvisioningTemplateCreationInformation](ProvisioningTemplateCreationInformation.md) 
-
+- [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

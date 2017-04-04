@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public object mugshot_id { get; }
-public object mugshot_id { set; }
+public object mugshot_id { get; set; }
 ```
 
 ### Property Value
 Type: System.Object  
 
 ## See also
-- [YammerGroup](YammerGroup.md) 
-
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

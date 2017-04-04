@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string GetReplaceValue()
+public System.String GetReplaceValue()
 ```
 ### Return Value
 Type: System.String  

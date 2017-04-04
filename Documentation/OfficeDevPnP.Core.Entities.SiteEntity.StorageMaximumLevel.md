@@ -5,14 +5,12 @@ Site quota in MB
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public long StorageMaximumLevel { get; }
-public long StorageMaximumLevel { set; }
+public long StorageMaximumLevel { get; set; }
 ```
 
 ### Property Value
 Type: System.Int64  
 
 ## See also
-- [SiteEntity](SiteEntity.md) 
-
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -22,8 +22,8 @@ public class CurrentNavigation: BaseNavigationKind
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.3520ddbb.md) | 
 | [Equals(CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.8df81d21.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

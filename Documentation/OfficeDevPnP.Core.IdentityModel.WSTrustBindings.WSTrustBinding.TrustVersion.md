@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public servicemodel.security.trustversion TrustVersion { get; }
-public servicemodel.security.trustversion TrustVersion { set; }
+public trustversion TrustVersion { get; set; }
 ```
 
 ### Property Value
 Type: System.ServiceModel.Security.TrustVersion  
 
 ## See also
-- [WSTrustBinding](WSTrustBinding.md) 
-
+- [WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md) 
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

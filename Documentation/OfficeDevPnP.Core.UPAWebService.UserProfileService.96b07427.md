@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_RemoveAllColleaguesCompleted(RemoveAllColleaguesCompletedEventHandler value)
+public System.Void add_RemoveAllColleaguesCompleted(RemoveAllColleaguesCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

@@ -5,7 +5,7 @@ Defines if in place records management is allowed in all places
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetManualRecordDeclarationInAllLocations(Site site,Boolean inAllPlaces)
+public static System.Void SetManualRecordDeclarationInAllLocations(Site site, Boolean inAllPlaces)
 ```
 ### Parameters
 *site*  

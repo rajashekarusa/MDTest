@@ -10,6 +10,5 @@ public string Scheme { get; }
 Type: System.String  
 
 ## See also
-- [WSTrustBinding](WSTrustBinding.md) 
-
+- [WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md) 
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

@@ -5,14 +5,12 @@ Defines whether to copy role assignments or not while breaking role inheritance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CopyRoleAssignments { get; }
-public boolean CopyRoleAssignments { set; }
+public boolean CopyRoleAssignments { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [SiteSecurity](SiteSecurity.md) 
-
+- [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

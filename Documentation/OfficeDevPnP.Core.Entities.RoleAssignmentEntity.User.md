@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Entities.UserEntity User { get; }
-public OfficeDevPnP.Core.Entities.UserEntity User { set; }
+public UserEntity User { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)  
 
 ## See also
-- [RoleAssignmentEntity](RoleAssignmentEntity.md) 
-
+- [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

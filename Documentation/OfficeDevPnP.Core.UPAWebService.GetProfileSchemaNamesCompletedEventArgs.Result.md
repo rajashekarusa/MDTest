@@ -14,6 +14,5 @@ Type: System.String[]
 ## Remarks 
 
 ## See also
-- [GetProfileSchemaNamesCompletedEventArgs](GetProfileSchemaNamesCompletedEventArgs.md) 
-
+- [GetProfileSchemaNamesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNamesCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

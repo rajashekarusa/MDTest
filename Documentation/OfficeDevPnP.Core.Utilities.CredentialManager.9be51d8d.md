@@ -5,7 +5,7 @@ Returns a NetworkCredential given a certain name. Add the credential in the Wind
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static net.networkcredential GetCredential(String name)
+public static System.Net.NetworkCredential GetCredential(String name)
 ```
 ### Parameters
 *name*  

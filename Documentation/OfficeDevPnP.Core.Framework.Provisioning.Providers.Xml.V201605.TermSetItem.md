@@ -17,8 +17,8 @@ public class TermSetItem: TaxonomyItem
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Owner](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermSetItem.Owner.md) | 
 | [Description](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermSetItem.Description.md) | 
 | [IsAvailableForTagging](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermSetItem.IsAvailableForTagging.md) | 
+| [Owner](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermSetItem.Owner.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -5,14 +5,12 @@ The Name of the TermGroup
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Name { get; }
-public string Name { set; }
+public string Name { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [TermGroup](TermGroup.md) 
-
+- [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

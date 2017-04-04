@@ -10,6 +10,5 @@ public type Type { get; }
 Type: System.Type  
 
 ## See also
-- [CanvasControl](CanvasControl.md) 
-
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

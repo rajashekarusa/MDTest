@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult Result { get; }
+public GetUserProfileByIndexResult Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult](OfficeDevPnP
 ## Remarks 
 
 ## See also
-- [GetUserProfileByIndexCompletedEventArgs](GetUserProfileByIndexCompletedEventArgs.md) 
-
+- [GetUserProfileByIndexCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

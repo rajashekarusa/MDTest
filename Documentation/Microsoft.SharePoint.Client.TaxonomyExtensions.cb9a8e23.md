@@ -5,7 +5,7 @@ Finds a termset by name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetTermSetsByName(Site site,String name,Int32 lcid)
+public static Microsoft.SharePoint.Client.Taxonomy.TermSetCollection GetTermSetsByName(Site site, String name, Int32 lcid)
 ```
 ### Parameters
 *site*  

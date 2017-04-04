@@ -5,7 +5,7 @@ Adds or updates a property in the custom properties list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void SetProperty(String propertyKey,String propertyValue)
+public System.Void SetProperty(String propertyKey, String propertyValue)
 ```
 ### Parameters
 *propertyKey*  

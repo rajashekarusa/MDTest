@@ -5,14 +5,12 @@ Language code, use 'all' or leave empty when not relevant
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string LanguageCode { get; }
-public string LanguageCode { set; }
+public string LanguageCode { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [WebTemplateEntity](WebTemplateEntity.md) 
-
+- [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

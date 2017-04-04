@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OmitNullProperties { get; }
-public boolean OmitNullProperties { set; }
+public boolean OmitNullProperties { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ExceptionOptions](ExceptionOptions.md) 
-
+- [ExceptionOptions](System.ExceptionOptions.md) 
 - [System](System.md)

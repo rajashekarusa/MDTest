@@ -5,7 +5,7 @@ Check if a property is available on a object
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsPropertyAvailable(T clientObject,Expression<Func<T, Object>> propertySelector)
+public static System.Boolean IsPropertyAvailable(T clientObject, Expression<Func<T, Object>> propertySelector)
 ```
 ### Parameters
 *clientObject*  

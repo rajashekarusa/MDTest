@@ -17,8 +17,8 @@ public class InCommonData
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Manager](OfficeDevPnP.Core.UPAWebService.InCommonData.Manager.md) | 
 | [Colleagues](OfficeDevPnP.Core.UPAWebService.InCommonData.Colleagues.md) | 
+| [Manager](OfficeDevPnP.Core.UPAWebService.InCommonData.Manager.md) | 
 | [Memberships](OfficeDevPnP.Core.UPAWebService.InCommonData.Memberships.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

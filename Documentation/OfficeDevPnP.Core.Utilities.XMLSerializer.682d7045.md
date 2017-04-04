@@ -5,7 +5,7 @@ Deserializes an XML string to an object instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  Deserialize(String xmlString)
+public static T Deserialize(String xmlString)
 ```
 ### Parameters
 *xmlString*  

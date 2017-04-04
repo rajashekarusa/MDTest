@@ -5,7 +5,7 @@ Uploads a file to the specified folder.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  UploadFile(Folder folder,String fileName,Stream stream,Boolean overwriteIfExists)
+public static Microsoft.SharePoint.Client.File UploadFile(Folder folder, String fileName, Stream stream, Boolean overwriteIfExists)
 ```
 ### Parameters
 *folder*  

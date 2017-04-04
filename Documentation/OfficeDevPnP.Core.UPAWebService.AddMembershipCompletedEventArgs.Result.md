@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.MembershipData Result { get; }
+public MembershipData Result { get; }
 ```
 
 ### Property Value
@@ -14,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebS
 ## Remarks 
 
 ## See also
-- [AddMembershipCompletedEventArgs](AddMembershipCompletedEventArgs.md) 
-
+- [AddMembershipCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

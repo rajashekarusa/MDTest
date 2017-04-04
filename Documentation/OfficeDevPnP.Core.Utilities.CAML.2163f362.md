@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string And(String clause1,String[] conditionClauses)
+public static System.String And(String clause1, String[] conditionClauses)
 ```
 ### Parameters
 *clause1*  

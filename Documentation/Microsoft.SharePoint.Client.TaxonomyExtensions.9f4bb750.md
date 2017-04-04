@@ -5,7 +5,7 @@ Removes a taxonomy field (site column) and its associated hidden field by intern
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveTaxonomyFieldByInternalName(Web web,String internalName)
+public static System.Void RemoveTaxonomyFieldByInternalName(Web web, String internalName)
 ```
 ### Parameters
 *web*  

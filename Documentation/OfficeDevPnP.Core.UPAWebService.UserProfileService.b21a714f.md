@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void add_AddColleagueWithoutEmailNotificationCompleted(AddColleagueWithoutEmailNotificationCompletedEventHandler value)
+public System.Void add_AddColleagueWithoutEmailNotificationCompleted(AddColleagueWithoutEmailNotificationCompletedEventHandler value)
 ```
 ### Parameters
 *value*  

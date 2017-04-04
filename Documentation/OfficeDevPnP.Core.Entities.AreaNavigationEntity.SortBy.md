@@ -5,14 +5,12 @@ Defines sorted by value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Enums.StructuralNavigationSortBy SortBy { get; }
-public OfficeDevPnP.Core.Enums.StructuralNavigationSortBy SortBy { set; }
+public StructuralNavigationSortBy SortBy { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Enums.StructuralNavigationSortBy  
 
 ## See also
-- [AreaNavigationEntity](AreaNavigationEntity.md) 
-
+- [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -17,10 +17,10 @@ public class PropertyType
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Value](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Value.md) | 
 | [Name](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Name.md) | 
-| [Type](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Type.md) | 
 | [Null](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Null.md) | 
 | [NullSpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.NullSpecified.md) | 
+| [Type](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Type.md) | 
+| [Value](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.Value.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

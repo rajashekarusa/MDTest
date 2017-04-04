@@ -13,7 +13,7 @@ public static class JsonUtility
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Serialize(T)](OfficeDevPnP.Core.Utilities.JsonUtility.ed203be7.md) | Serializes an object of type T to a json string
 | [Deserialize(String)](OfficeDevPnP.Core.Utilities.JsonUtility.682d7045.md) | Deserializes a json string to an object of type T
+| [Serialize(T)](OfficeDevPnP.Core.Utilities.JsonUtility.ed203be7.md) | Serializes an object of type T to a json string
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

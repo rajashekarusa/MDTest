@@ -5,14 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Value { get; }
-public string Value { set; }
+public string Value { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [PropertyType](PropertyType.md) 
-
+- [PropertyType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

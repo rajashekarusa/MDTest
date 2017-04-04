@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public long EllapsedMilliseconds { get; }
-public long EllapsedMilliseconds { set; }
+public long EllapsedMilliseconds { get; set; }
 ```
 
 ### Property Value
 Type: System.Int64  
 
 ## See also
-- [LogEntry](LogEntry.md) 
-
+- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

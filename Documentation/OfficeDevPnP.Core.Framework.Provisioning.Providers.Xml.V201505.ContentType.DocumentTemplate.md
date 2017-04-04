@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeDocumentTemplate DocumentTemplate { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeDocumentTemplate DocumentTemplate { set; }
+public ContentTypeDocumentTemplate DocumentTemplate { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTyp
 ## Remarks 
 
 ## See also
-- [ContentType](ContentType.md) 
-
+- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.icollection<system.string> RoleDefinitionBindings { get; }
-public collections.generic.icollection<system.string> RoleDefinitionBindings { set; }
+public icollection<string> RoleDefinitionBindings { get; set; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.ICollection<System.String>  
 
 ## See also
-- [RoleAssignmentEntity](RoleAssignmentEntity.md) 
-
+- [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

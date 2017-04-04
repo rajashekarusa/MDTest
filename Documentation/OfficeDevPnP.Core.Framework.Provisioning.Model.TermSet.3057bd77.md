@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(TermSet other)
+public System.Boolean Equals(TermSet other)
 ```
 ### Parameters
 *other*  

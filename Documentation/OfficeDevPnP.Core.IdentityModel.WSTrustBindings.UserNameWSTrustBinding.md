@@ -18,8 +18,5 @@ public class UserNameWSTrustBinding: WSTrustBinding
 |**Name**|**Description**|
 |:-----|:-----|
 | [ClientCredentialType](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ClientCredentialType.md) | 
-## Methods
-|**Name**|**Description**|
-|:-----|:-----|
 ## See also
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

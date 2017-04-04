@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void GetUserProfileCountAsync()
+public System.Void GetUserProfileCountAsync()
 ```
 ### Return Value
 Type: System.Void  

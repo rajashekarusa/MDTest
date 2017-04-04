@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string username { get; }
-public string username { set; }
+public string username { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [YammerUserIm](YammerUserIm.md) 
-
+- [YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

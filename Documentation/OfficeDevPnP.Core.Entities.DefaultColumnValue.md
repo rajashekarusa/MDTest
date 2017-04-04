@@ -19,7 +19,7 @@ public class DefaultColumnValue
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [FolderRelativePath](OfficeDevPnP.Core.Entities.DefaultColumnValue.FolderRelativePath.md) | The Path of the folder, Rootfolder of the document library is "/"
 | [FieldInternalName](OfficeDevPnP.Core.Entities.DefaultColumnValue.FieldInternalName.md) | The internal name of the field
+| [FolderRelativePath](OfficeDevPnP.Core.Entities.DefaultColumnValue.FolderRelativePath.md) | The Path of the folder, Rootfolder of the document library is "/"
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

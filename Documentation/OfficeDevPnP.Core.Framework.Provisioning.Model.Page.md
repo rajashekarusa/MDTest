@@ -18,18 +18,18 @@ public class Page: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.WelcomePage.md) | 
-| [Url](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Url.md) | 
+| [Fields](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Fields.md) | The Fields to setup for the Page
 | [Layout](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Layout.md) | 
 | [Overwrite](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Overwrite.md) | 
-| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.WebParts.md) | 
 | [Security](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Security.md) | Defines the Security rules for the Page
-| [Fields](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Fields.md) | The Fields to setup for the Page
+| [Url](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.Url.md) | 
+| [WebParts](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.WebParts.md) | 
+| [WelcomePage](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.WelcomePage.md) | 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.1c6872bd.md) | 
 | [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.3520ddbb.md) | 
 | [Equals(Page)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.fda1dc1d.md) | 
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.1c6872bd.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

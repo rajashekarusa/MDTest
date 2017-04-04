@@ -5,7 +5,7 @@ Adds a site Url or wildcard site Url to the collection of sites that the timer j
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void AddSite(String site)
+public System.Void AddSite(String site)
 ```
 ### Parameters
 *site*  

@@ -6,7 +6,7 @@ Gets the collection of the URLs of all Web sites that are contained within the s
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static collections.generic.ienumerable<system.string> GetAllWebUrls(Site site)
+public static System.Collections.Generic.IEnumerable`1<System.String> GetAllWebUrls(Site site)
 ```
 ### Parameters
 *site*  

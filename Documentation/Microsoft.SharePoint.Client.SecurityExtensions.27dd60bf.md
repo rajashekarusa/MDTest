@@ -5,7 +5,7 @@ Add a permission level (e.g.Contribute, Reader,...) to a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddPermissionLevelToPrincipal(SecurableObject securableObject,Principal principal,RoleType permissionLevel,Boolean removeExistingPermissionLevels)
+public static System.Void AddPermissionLevelToPrincipal(SecurableObject securableObject, Principal principal, RoleType permissionLevel, Boolean removeExistingPermissionLevels)
 ```
 ### Parameters
 *securableObject*  

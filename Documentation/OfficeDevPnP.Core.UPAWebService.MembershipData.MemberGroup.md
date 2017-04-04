@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.UPAWebService.MemberGroupData MemberGroup { get; }
-public OfficeDevPnP.Core.UPAWebService.MemberGroupData MemberGroup { set; }
+public MemberGroupData MemberGroup { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.MemberGroupData](OfficeDevPnP.Core.UPAWeb
 ## Remarks 
 
 ## See also
-- [MembershipData](MembershipData.md) 
-
+- [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

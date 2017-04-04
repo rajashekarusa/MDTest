@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup[] SiteGroups { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup[] SiteGroups { set; }
+public SiteGroup[] SiteGroups { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup[]
 ## Remarks 
 
 ## See also
-- [Security](Security.md) 
-
+- [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

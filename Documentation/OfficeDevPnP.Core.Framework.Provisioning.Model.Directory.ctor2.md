@@ -7,28 +7,28 @@ public Directory(String src, String folder, Boolean overwrite, FileLevel level, 
 ```
 ### Parameters
 #### src
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### folder
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### overwrite
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### (optional) level
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel] 
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel](OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel.md)  
 #### 
 #### (optional) recursive
-&emsp;&emsp;Type: [System.Boolean] 
+&emsp;&emsp;Type: System.Boolean  
 #### 
 #### (optional) includeExtensions
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### (optional) excludeExtensions
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### (optional) metadataMappingFile
-&emsp;&emsp;Type: [System.String] 
+&emsp;&emsp;Type: System.String  
 #### 
 #### (optional) security
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 

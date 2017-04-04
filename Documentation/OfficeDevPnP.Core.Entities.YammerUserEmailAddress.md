@@ -15,7 +15,7 @@ public class YammerUserEmailAddress
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [type](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.type.md) | 
 | [address](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.address.md) | 
+| [type](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.type.md) | 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

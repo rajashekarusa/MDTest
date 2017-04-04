@@ -5,14 +5,12 @@ Gets or sets a value that specifies an implementation-specific value that determ
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string Group { get; }
-public string Group { set; }
+public string Group { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomAction](CustomAction.md) 
-
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

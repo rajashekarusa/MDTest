@@ -5,14 +5,12 @@ The SharePoint Access token
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public SharePointPnP.IdentityModel.Extensions.S2S.Protocols.OAuth2.OAuth2AccessTokenResponse AccessToken { get; }
-public SharePointPnP.IdentityModel.Extensions.S2S.Protocols.OAuth2.OAuth2AccessTokenResponse AccessToken { set; }
+public OAuth2AccessTokenResponse AccessToken { get; set; }
 ```
 
 ### Property Value
 Type: SharePointPnP.IdentityModel.Extensions.S2S.Protocols.OAuth2.OAuth2AccessTokenResponse  
 
 ## See also
-- [WebAPIContexCacheItem](WebAPIContexCacheItem.md) 
-
+- [WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

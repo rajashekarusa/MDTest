@@ -7,10 +7,10 @@ public TreeNode(T Value, TreeNode Parent)
 ```
 ### Parameters
 #### Value
-&emsp;&emsp;Type: [T] 
+&emsp;&emsp;Type: T  
 #### 
 #### Parent
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode] 
+&emsp;&emsp;Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNode  
 #### 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

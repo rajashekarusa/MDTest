@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Diagnostics.ILogger Logger { get; }
-public staticOfficeDevPnP.Core.Diagnostics.ILogger Logger { set; }
+public static ILogger Logger { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Diagnostics.ILogger  
+Type: [OfficeDevPnP.Core.Diagnostics.ILogger](OfficeDevPnP.Core.Diagnostics.ILogger.md)  
 
 ## See also
-- [Log](Log.md) 
-
+- [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

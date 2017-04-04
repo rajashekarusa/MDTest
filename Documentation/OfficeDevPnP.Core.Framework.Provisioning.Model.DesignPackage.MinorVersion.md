@@ -5,14 +5,12 @@ The Minor Version of the Design Package to import into the current Publishing si
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int MinorVersion { get; }
-public int MinorVersion { set; }
+public int MinorVersion { get; set; }
 ```
 
 ### Property Value
 Type: System.Int32  
 
 ## See also
-- [DesignPackage](DesignPackage.md) 
-
+- [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

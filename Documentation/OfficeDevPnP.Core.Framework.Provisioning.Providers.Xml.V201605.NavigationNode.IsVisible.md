@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsVisible { get; }
-public boolean IsVisible { set; }
+public boolean IsVisible { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [NavigationNode](NavigationNode.md) 
-
+- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

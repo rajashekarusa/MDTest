@@ -5,14 +5,12 @@ Defines a Design Package to import into the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage DesignPackage { get; }
-public OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage DesignPackage { set; }
+public DesignPackage DesignPackage { get; set; }
 ```
 
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md)  
 
 ## See also
-- [Publishing](Publishing.md) 
-
+- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static OfficeDevPnP.Core.Diagnostics.LogLevel LogLevel { get; }
-public staticOfficeDevPnP.Core.Diagnostics.LogLevel LogLevel { set; }
+public static LogLevel LogLevel { get; set; }
 ```
 
 ### Property Value
 Type: OfficeDevPnP.Core.Diagnostics.LogLevel  
 
 ## See also
-- [Log](Log.md) 
-
+- [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

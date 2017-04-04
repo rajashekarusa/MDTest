@@ -13,10 +13,10 @@ public static class PnPPackageExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [PackTemplateAsStream(PnPInfo)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.7398c562.md) | 
+| [AsInternalFilename(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.c1085ef1.md) | 
 | [PackTemplate(PnPInfo)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.53b69ac.md) | 
+| [PackTemplateAsStream(PnPInfo)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.7398c562.md) | 
 | [UnpackTemplate(MemoryStream)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.f0171015.md) | 
 | [UnpackTemplate(Byte[])](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.ee186011.md) | 
-| [AsInternalFilename(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.c1085ef1.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

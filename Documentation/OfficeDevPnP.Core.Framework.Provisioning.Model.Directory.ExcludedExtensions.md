@@ -5,14 +5,12 @@ The file Extensions to exclude while uploading the Directory
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ExcludedExtensions { get; }
-public string ExcludedExtensions { set; }
+public string ExcludedExtensions { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [Directory](Directory.md) 
-
+- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

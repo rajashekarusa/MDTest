@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xml.xmlelement Contents { get; }
-public xml.xmlelement Contents { set; }
+public xmlelement Contents { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Xml.XmlElement
 ## Remarks 
 
 ## See also
-- [WikiPageWebPart](WikiPageWebPart.md) 
-
+- [WikiPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageWebPart.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

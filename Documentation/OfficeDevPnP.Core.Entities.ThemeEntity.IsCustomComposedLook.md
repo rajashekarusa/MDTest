@@ -3,14 +3,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsCustomComposedLook { get; }
-public boolean IsCustomComposedLook { set; }
+public boolean IsCustomComposedLook { get; set; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
 ## See also
-- [ThemeEntity](ThemeEntity.md) 
-
+- [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

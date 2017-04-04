@@ -5,14 +5,12 @@ The URL to the image used for this custom action
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ImageUrl { get; }
-public string ImageUrl { set; }
+public string ImageUrl { get; set; }
 ```
 
 ### Property Value
 Type: System.String  
 
 ## See also
-- [CustomActionEntity](CustomActionEntity.md) 
-
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

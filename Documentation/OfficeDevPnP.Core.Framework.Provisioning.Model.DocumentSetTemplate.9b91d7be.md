@@ -3,7 +3,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(DocumentSetTemplate other)
+public System.Boolean Equals(DocumentSetTemplate other)
 ```
 ### Parameters
 *other*  

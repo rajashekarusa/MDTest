@@ -5,7 +5,7 @@ Returns the named composed look from the web gallery
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  GetComposedLook(Web web,String composedLookName)
+public static OfficeDevPnP.Core.Entities.ThemeEntity GetComposedLook(Web web, String composedLookName)
 ```
 ### Parameters
 *web*  

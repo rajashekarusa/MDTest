@@ -17,10 +17,10 @@ public class Provisioning
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Preferences.md) | 
-| [Localizations](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Localizations.md) | 
-| [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Templates.md) | 
-| [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Sequence.md) | 
 | [ImportSequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.ImportSequence.md) | 
+| [Localizations](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Localizations.md) | 
+| [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Preferences.md) | 
+| [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Sequence.md) | 
+| [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.Templates.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

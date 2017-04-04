@@ -6,7 +6,7 @@ Uploads the specified file (usually an spcolor or spfont file) to the web site t
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static  UploadThemeFile(Web web,String fileName,Stream localStream,String themeFolderVersion)
+public static Microsoft.SharePoint.Client.File UploadThemeFile(Web web, String fileName, Stream localStream, String themeFolderVersion)
 ```
 ### Parameters
 *web*  

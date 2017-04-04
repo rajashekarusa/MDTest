@@ -5,11 +5,11 @@ Serializes a template to XML
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string ToXML(ITemplateFormatter formatter)
+public System.String ToXML(ITemplateFormatter formatter)
 ```
 ### Parameters
 *(optional) formatter*  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
 &emsp;&emsp;  
   
 ### Return Value

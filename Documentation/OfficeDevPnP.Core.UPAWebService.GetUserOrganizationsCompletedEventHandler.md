@@ -17,8 +17,8 @@ public class GetUserOrganizationsCompletedEventHandler: MulticastDelegate
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Invoke(Object, GetUserOrganizationsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.19db5831.md) | 
 | [BeginInvoke(Object, GetUserOrganizationsCompletedEventArgs, AsyncCallback, Object)](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.69ca8442.md) | 
 | [EndInvoke(IAsyncResult)](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.c9867657.md) | 
+| [Invoke(Object, GetUserOrganizationsCompletedEventArgs)](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.19db5831.md) | 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

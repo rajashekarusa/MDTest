@@ -5,13 +5,12 @@ The list of allowed Content Types for the Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collections.generic.list<system.string> AllowedContentTypes { get; }
+public list<string> AllowedContentTypes { get; }
 ```
 
 ### Property Value
 Type: System.Collections.Generic.List<System.String>  
 
 ## See also
-- [DocumentSetTemplate](DocumentSetTemplate.md) 
-
+- [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

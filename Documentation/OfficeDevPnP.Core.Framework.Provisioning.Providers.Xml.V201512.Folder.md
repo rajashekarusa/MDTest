@@ -18,7 +18,7 @@ public class Folder
 |**Name**|**Description**|
 |:-----|:-----|
 | [Folder1](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Folder1.md) | 
-| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Security.md) | 
 | [Name](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Name.md) | 
+| [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.Security.md) | 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string TermStoreId { get; }
-public string TermStoreId { set; }
+public string TermStoreId { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [ManagedNavigation](ManagedNavigation.md) 
-
+- [ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

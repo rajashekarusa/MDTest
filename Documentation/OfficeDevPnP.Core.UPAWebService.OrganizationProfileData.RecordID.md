@@ -5,8 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public long RecordID { get; }
-public long RecordID { set; }
+public long RecordID { get; set; }
 ```
 
 ### Property Value
@@ -15,6 +14,5 @@ Type: System.Int64
 ## Remarks 
 
 ## See also
-- [OrganizationProfileData](OrganizationProfileData.md) 
-
+- [OrganizationProfileData](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
