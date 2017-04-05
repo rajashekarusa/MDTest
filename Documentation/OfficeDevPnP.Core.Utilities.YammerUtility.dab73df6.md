@@ -11,23 +11,15 @@ public static string CreateYammerGroupDiscussionPartXml(String yammerNetworkName
 *yammerNetworkName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the network  
-  
 *yammerGroupId*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Group ID  
-  
 *showHeader*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *showFooter*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *(optional) useSSO*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 The constructed web part XML

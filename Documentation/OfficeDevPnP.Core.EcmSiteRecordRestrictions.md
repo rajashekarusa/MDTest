@@ -1,6 +1,5 @@
 # EcmSiteRecordRestrictions  enumeration
-Specify restrictions to place on a document or item once it has been declared as a record.  Changing this setting 
-            will not affect items which have already been declared records.  
+Specify restrictions to place on a document or item once it has been declared as a record. Changing this setting will not affect items which have already been declared records.  
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

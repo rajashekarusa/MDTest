@@ -1,4 +1,6 @@
 # ITreeNode
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax

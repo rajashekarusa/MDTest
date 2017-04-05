@@ -11,15 +11,12 @@ public static void SetPropertyBagValue(List list, String key, String value)
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List that will hold the property bag entry  
-  
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key for the property bag entry  
-  
 *value*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String value for the property bag entry  
-  
 ### Return Value
 Type: System.Void  
 

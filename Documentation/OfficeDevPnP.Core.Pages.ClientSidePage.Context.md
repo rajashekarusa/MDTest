@@ -1,4 +1,6 @@
 # ClientSidePage.Properties Context
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ClientContext Context { get; set; }
 Type: Microsoft.SharePoint.Client.ClientContext  
 
 ## See also
-- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 

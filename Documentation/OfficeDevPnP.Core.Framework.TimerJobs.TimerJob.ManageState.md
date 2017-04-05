@@ -1,6 +1,5 @@
 # TimerJob.Properties ManageState
-Gets and sets the state management value: when true the timer job will automatically handle state by 
-            storing a json serialized class as a web property bag entry. Default value is false  
+Gets and sets the state management value: when true the timer job will automatically handle state by storing a json serialized class as a web property bag entry. Default value is false  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,5 +12,5 @@ public boolean ManageState { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 

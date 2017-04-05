@@ -12,5 +12,5 @@ public uint32 Lcid { get; set; }
 Type: System.UInt32  
 
 ## See also
-- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 

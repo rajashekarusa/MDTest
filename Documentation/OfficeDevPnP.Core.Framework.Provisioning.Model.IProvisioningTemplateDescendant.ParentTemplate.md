@@ -12,5 +12,5 @@ public ProvisioningTemplate ParentTemplate { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
-- [IProvisioningTemplateDescendant](OfficeDevPnP.Core.Framework.Provisioning.Model.IProvisioningTemplateDescendant.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [IProvisioningTemplateDescendant](OfficeDevPnP.Core.Framework.Provisioning.Model.IProvisioningTemplateDescendant.md) 

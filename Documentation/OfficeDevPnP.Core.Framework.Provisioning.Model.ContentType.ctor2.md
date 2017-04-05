@@ -1,4 +1,6 @@
 # ContentType.ContentType members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,36 +8,26 @@
 public ContentType(String id, String name, String description, String group, Boolean contenttypeSealed, Boolean hidden, Boolean readyonly, String documentTemplate, Boolean overwrite, IEnumerable<FieldRef> fieldRefs)
 ```
 ### Parameters
-#### id
+#### id  
 &emsp;&emsp;Type: System.String  
-#### 
-#### name
+#### name  
 &emsp;&emsp;Type: System.String  
-#### 
-#### description
+#### description  
 &emsp;&emsp;Type: System.String  
-#### 
-#### group
+#### group  
 &emsp;&emsp;Type: System.String  
-#### 
-#### contenttypeSealed
+#### contenttypeSealed  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### hidden
+#### hidden  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### readyonly
+#### readyonly  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### documentTemplate
+#### documentTemplate  
 &emsp;&emsp;Type: System.String  
-#### 
-#### overwrite
+#### overwrite  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### fieldRefs
+#### fieldRefs  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>  
-#### 
 ## See also
 - [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

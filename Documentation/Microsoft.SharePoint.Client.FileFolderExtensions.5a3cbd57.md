@@ -1,6 +1,5 @@
 # FileFolderExtensions.CreateFolder Method  
-Creates a folder with the given name as a child of the Web. 
-            Note it is more common to create folders within an existing Folder, such as the RootFolder of a List.  
+Creates a folder with the given name as a child of the Web. Note it is more common to create folders within an existing Folder, such as the RootFolder of a List.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,11 +11,9 @@ public static Folder CreateFolder(Web web, String folderName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check for the named folder  
-  
 *folderName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve or create  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.Folder  
 The newly created Folder, so that additional operations (such as setting properties) can be done.

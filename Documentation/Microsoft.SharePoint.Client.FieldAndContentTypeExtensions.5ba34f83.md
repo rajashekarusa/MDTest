@@ -11,11 +11,9 @@ public static ContentType GetContentTypeById(List list, String contentTypeId)
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
-  
 *contentTypeId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ContentType  
 Content type object or null if was not found

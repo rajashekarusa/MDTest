@@ -1,4 +1,6 @@
 # RoleAssignmentEntity.Properties RoleDefinitionBindings
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public icollection<string> RoleDefinitionBindings { get; set; }
 Type: System.Collections.Generic.ICollection<System.String>  
 
 ## See also
-- [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 

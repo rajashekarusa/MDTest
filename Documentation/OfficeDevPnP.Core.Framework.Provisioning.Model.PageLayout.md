@@ -13,7 +13,7 @@ public class PageLayout: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) |  Defines an available Page Layout for the current Publishing site 
+| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) | <summary> Defines an available Page Layout for the current Publishing site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

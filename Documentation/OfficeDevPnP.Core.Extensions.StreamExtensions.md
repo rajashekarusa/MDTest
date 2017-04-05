@@ -1,4 +1,6 @@
 # StreamExtensions
+  
+
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy

@@ -13,7 +13,7 @@ public class NavigationNode: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) |  Defines a Navigation Node for the Structural Navigation of a site 
+| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) | <summary> Defines a Navigation Node for the Structural Navigation of a site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

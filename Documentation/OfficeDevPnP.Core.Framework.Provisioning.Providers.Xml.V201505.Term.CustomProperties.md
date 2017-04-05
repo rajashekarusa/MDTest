@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.StringDicti
 ## Remarks 
 
 ## See also
-- [Term](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term.md) 

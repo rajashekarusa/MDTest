@@ -11,7 +11,6 @@ public static void ActivateInPlaceRecordsManagementFeature(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
-  
 ### Return Value
 Type: System.Void  
 

@@ -11,7 +11,6 @@ public static string GetSiteCollectionSearchCenterUrl(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint site - root web  
-  
 ### Return Value
 Type: System.String  
 Search center url for web

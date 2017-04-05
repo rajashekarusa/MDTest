@@ -13,11 +13,11 @@ public class Field: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Field()](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.ctor1.md) |  Represents a Field XML Markup that is used to define information about a field 
+| [Field()](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.ctor1.md) | <summary> Represents a Field XML Markup that is used to define information about a field </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SchemaXml](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.SchemaXml.md) | 
+| [SchemaXml](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.SchemaXml.md) | <summary> Gets a value that specifies the XML Schema representing the Field type. <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ff407271.aspx</cref></seealso></summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

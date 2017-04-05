@@ -13,7 +13,7 @@ public class PnPPackage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackage()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.ctor1.md) |  Defines a PnP OpenXML package file 
+| [PnPPackage()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.ctor1.md) | <summary> Defines a PnP OpenXML package file </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

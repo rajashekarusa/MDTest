@@ -1,4 +1,6 @@
 # YammerGroupStats.Properties updates
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public int updates { get; set; }
 Type: System.Int32  
 
 ## See also
-- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 

@@ -1,6 +1,5 @@
 # TimerJob.Properties Realm
-Realm will be automatically defined, but there's an option to manually specify it which may 
-            be needed when did an override of ResolveAddedSites and specify your sites.  
+Realm will be automatically defined, but there's an option to manually specify it which may be needed when did an override of ResolveAddedSites and specify your sites.  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,5 +12,5 @@ public string Realm { get; set; }
 Type: System.String  
 
 ## See also
-- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 

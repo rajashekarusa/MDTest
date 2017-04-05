@@ -13,7 +13,7 @@ public class ClientSideWebPartControlData: ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPartControlData()](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.ctor1.md) |  Control data for controls of type 3 (= client side web parts) 
+| [ClientSideWebPartControlData()](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.ctor1.md) | <summary> Control data for controls of type 3 (= client side web parts) </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,4 +1,6 @@
 # FieldCreationInformation.Properties Id
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public guid Id { get; set; }
 Type: System.Guid  
 
 ## See also
-- [FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 

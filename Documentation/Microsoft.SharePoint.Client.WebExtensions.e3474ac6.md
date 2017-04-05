@@ -11,7 +11,6 @@ public static ienumerable<string> GetRequestAccessEmails(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to get the request access e-mail addresses from.  
-  
 ### Return Value
 Type: System.Collections.Generic.IEnumerable<System.String>  
 The request access e-mail addresses of the web.

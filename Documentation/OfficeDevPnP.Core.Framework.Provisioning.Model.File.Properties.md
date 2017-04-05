@@ -1,4 +1,6 @@
 # File.Properties Properties
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -7,8 +9,8 @@ public dictionary<string, string> Properties { get; }
 ```
 
 ### Property Value
-Type: System.Collections.Generic.Dictionary<System.String,System.String>  
+Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 
 ## See also
-- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 

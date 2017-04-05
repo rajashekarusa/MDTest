@@ -13,6 +13,6 @@ public class RoleAssignmentCollection: ProvisioningTemplateCollection<RoleAssign
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignmentCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection.ctor1.md) |  Collection of RoleAssignment objects 
+| [RoleAssignmentCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignmentCollection.ctor1.md) | <summary> Collection of RoleAssignment objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

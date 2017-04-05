@@ -1,4 +1,6 @@
 # UserProfileService.remove_RemoveMembershipCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void remove_RemoveMembershipCompleted(RemoveMembershipCompletedEventHandl
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveMembershipCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveMembershipCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

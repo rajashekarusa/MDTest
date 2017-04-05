@@ -13,7 +13,7 @@ public class AuthenticationManager
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuthenticationManager()](OfficeDevPnP.Core.AuthenticationManager.ctor1.md) |  This manager class can be used to obtain a SharePointContext object 
+| [AuthenticationManager()](OfficeDevPnP.Core.AuthenticationManager.ctor1.md) | <summary> This manager class can be used to obtain a SharePointContext object </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

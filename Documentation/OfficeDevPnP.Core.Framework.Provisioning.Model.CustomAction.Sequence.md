@@ -12,5 +12,6 @@ public int Sequence { get; set; }
 Type: System.Int32  
 
 ## See also
-- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
+- [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 

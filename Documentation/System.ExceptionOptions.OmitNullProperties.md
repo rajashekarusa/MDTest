@@ -1,4 +1,6 @@
 # ExceptionOptions.Properties OmitNullProperties
+  
+
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean OmitNullProperties { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [ExceptionOptions](System.ExceptionOptions.md) 
 - [System](System.md)
+- [ExceptionOptions](System.ExceptionOptions.md) 

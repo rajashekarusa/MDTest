@@ -12,5 +12,5 @@ public static WebAPIContextCache Instance { get; }
 Type: [OfficeDevPnP.Core.WebAPI.WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md)  
 
 ## See also
-- [WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
+- [WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md) 

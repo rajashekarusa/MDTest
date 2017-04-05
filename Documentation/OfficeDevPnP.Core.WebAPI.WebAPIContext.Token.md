@@ -12,5 +12,5 @@ public string Token { get; set; }
 Type: System.String  
 
 ## See also
-- [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
+- [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 

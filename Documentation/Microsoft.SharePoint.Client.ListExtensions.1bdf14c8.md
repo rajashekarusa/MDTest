@@ -10,16 +10,10 @@ public static void CreateViewsFromXMLFile(Web web, String listUrl, String filePa
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp;  
-  
 *listUrl*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *filePath*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

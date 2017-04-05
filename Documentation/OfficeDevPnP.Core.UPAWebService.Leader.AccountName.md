@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [Leader](OfficeDevPnP.Core.UPAWebService.Leader.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [Leader](OfficeDevPnP.Core.UPAWebService.Leader.md) 

@@ -1,4 +1,6 @@
 # YammerGroup.Properties url
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string url { get; set; }
 Type: System.String  
 
 ## See also
-- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 

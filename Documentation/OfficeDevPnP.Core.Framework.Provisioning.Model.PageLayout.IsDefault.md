@@ -12,5 +12,5 @@ public boolean IsDefault { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [PageLayout](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [PageLayout](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.md) 

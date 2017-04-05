@@ -11,11 +11,9 @@ public ClientContext GetAzureADAccessTokenAuthenticatedContext(String siteUrl, S
 *siteUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
-  
 *accessToken*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;An explicit value for the AccessToken  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ClientContext  
 Client context object

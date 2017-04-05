@@ -1,4 +1,6 @@
 # StructuralNavigationEntity.Properties ShowPages
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean ShowPages { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md) 

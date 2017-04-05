@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentTypeBinding.md) 

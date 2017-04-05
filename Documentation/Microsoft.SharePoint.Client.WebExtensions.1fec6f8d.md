@@ -11,7 +11,6 @@ public static void DisableRequestAccess(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to disable request access.  
-  
 ### Return Value
 Type: System.Void  
 

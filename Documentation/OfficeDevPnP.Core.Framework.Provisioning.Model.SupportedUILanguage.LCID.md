@@ -12,5 +12,5 @@ public int LCID { get; set; }
 Type: System.Int32  
 
 ## See also
-- [SupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [SupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.md) 

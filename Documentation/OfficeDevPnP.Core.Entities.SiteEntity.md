@@ -13,7 +13,7 @@ public class SiteEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteEntity()](OfficeDevPnP.Core.Entities.SiteEntity.ctor1.md) |  SiteEntity class describes the information for a SharePoint site (collection) 
+| [SiteEntity()](OfficeDevPnP.Core.Entities.SiteEntity.ctor1.md) | <summary> SiteEntity class describes the information for a SharePoint site (collection) </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

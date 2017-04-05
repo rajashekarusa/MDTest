@@ -11,11 +11,9 @@ public static TermGroup GetTermGroupById(Site site, Guid termGroupId)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
-  
 *termGroupId*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termgroup  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 

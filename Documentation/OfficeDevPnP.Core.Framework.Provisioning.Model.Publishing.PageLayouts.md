@@ -12,5 +12,5 @@ public PageLayoutCollection PageLayouts { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection.md)  
 
 ## See also
-- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 

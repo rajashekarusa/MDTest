@@ -13,7 +13,7 @@ public class Feature: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) |  Domain Object that represents an Feature. 
+| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) | <summary> Domain Object that represents an Feature. </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

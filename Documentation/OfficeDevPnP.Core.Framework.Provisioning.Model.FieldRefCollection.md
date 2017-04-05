@@ -13,6 +13,6 @@ public class FieldRefCollection: ProvisioningTemplateCollection<FieldRef>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.ctor1.md) |  Collection of FieldRef objects 
+| [FieldRefCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.ctor1.md) | <summary> Collection of FieldRef objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

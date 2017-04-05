@@ -1,4 +1,6 @@
 # UserProfileService.add_GetInCommonCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void add_GetInCommonCompleted(GetInCommonCompletedEventHandler value)
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

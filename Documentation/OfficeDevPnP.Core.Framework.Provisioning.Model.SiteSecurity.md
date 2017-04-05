@@ -13,7 +13,7 @@ public class SiteSecurity: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.ctor1.md) |  Domain Object that is used in the site template 
+| [SiteSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.ctor1.md) | <summary> Domain Object that is used in the site template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -13,8 +13,8 @@ public class OpenXMLConnector: FileConnectorBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [OpenXMLConnector(Stream)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.ctor1.md) |  Connector that stores all the files into a unique .PNP OpenXML package 
-| [OpenXMLConnector(String, FileConnectorBase, String, X509Certificate2)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.ctor2.md) |  Connector that stores all the files into a unique .PNP OpenXML package 
+| [OpenXMLConnector(Stream)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.ctor1.md) | <summary> Connector that stores all the files into a unique .PNP OpenXML package </summary>
+| [OpenXMLConnector(String, FileConnectorBase, String, X509Certificate2)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.ctor2.md) | <summary> Connector that stores all the files into a unique .PNP OpenXML package </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

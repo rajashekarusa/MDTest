@@ -12,5 +12,5 @@ public CalendarType AlternateCalendarType { get; set; }
 Type: Microsoft.SharePoint.Client.CalendarType  
 
 ## See also
-- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 

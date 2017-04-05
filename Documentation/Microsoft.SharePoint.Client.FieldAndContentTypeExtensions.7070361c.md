@@ -11,15 +11,12 @@ public static boolean AddContentTypeToList(List list, ContentType contentType, B
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to add content type to  
-  
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to add to the list  
-  
 *(optional) defaultContent*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
-  
 ### Return Value
 Type: System.Boolean  
 

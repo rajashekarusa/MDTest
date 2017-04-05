@@ -1,4 +1,6 @@
 # TermLabel.Properties Value
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string Value { get; set; }
 Type: System.String  
 
 ## See also
-- [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 

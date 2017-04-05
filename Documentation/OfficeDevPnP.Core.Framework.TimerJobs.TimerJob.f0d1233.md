@@ -1,4 +1,6 @@
 # TimerJob.ResolveAddedSites Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public list<string> ResolveAddedSites(List<String> addedSites)
 ### Parameters
 *addedSites*  
 &emsp;&emsp;Type: System.Collections.Generic.List<System.String>  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Collections.Generic.List<System.String>  
 

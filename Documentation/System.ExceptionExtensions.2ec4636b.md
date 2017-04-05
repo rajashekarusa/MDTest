@@ -1,4 +1,6 @@
 # ExceptionExtensions.ToDetailedString Method  
+  
+
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,16 +10,10 @@ public static string ToDetailedString(Exception exception, ClientRuntimeContext 
 ### Parameters
 *exception*  
 &emsp;&emsp;Type: System.Exception  
-&emsp;&emsp;  
-  
 *cc*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
-&emsp;&emsp;  
-  
 *options*  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

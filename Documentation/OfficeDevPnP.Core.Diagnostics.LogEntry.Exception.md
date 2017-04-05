@@ -1,4 +1,6 @@
 # LogEntry.Properties Exception
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public exception Exception { get; set; }
 Type: System.Exception  
 
 ## See also
-- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 

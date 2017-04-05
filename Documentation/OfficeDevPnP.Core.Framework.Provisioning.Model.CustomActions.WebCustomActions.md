@@ -12,5 +12,5 @@ public CustomActionCollection WebCustomActions { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md)  
 
 ## See also
-- [CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.md) 

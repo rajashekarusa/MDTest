@@ -10,8 +10,6 @@ public static string FieldRef(String fieldName)
 ### Parameters
 *fieldName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

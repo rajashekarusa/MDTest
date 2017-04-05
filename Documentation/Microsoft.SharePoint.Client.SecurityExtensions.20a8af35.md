@@ -11,11 +11,9 @@ public static void RemoveGroup(Web web, String groupName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
-  
 *groupName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
-  
 ### Return Value
 Type: System.Void  
 

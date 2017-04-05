@@ -1,7 +1,5 @@
 # RecordsManagementExtensions.EnableSiteForInPlaceRecordsManagement Method  
-Enable in place records management. The in place records management feature will be enabled and 
-            the in place record management will be enabled in all locations with record declaration allowed 
-            by all contributors and undeclaration by site admins  
+Enable in place records management. The in place records management feature will be enabled and the in place record management will be enabled in all locations with record declaration allowed by all contributors and undeclaration by site admins  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,7 +11,6 @@ public static void EnableSiteForInPlaceRecordsManagement(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
-  
 ### Return Value
 Type: System.Void  
 

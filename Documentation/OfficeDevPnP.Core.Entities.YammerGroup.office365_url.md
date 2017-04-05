@@ -1,4 +1,6 @@
 # YammerGroup.Properties office365_url
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public object office365_url { get; set; }
 Type: System.Object  
 
 ## See also
-- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 

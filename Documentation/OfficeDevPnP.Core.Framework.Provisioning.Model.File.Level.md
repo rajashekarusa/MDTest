@@ -12,5 +12,5 @@ public FileLevel Level { get; set; }
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel  
 
 ## See also
-- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 

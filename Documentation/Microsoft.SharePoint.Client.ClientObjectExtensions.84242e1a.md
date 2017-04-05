@@ -1,5 +1,5 @@
 # ClientObjectExtensions.EnsureProperty Method  
-  
+ Ensures that particular property is loaded on the Microsoft.SharePoint.Client.ClientObject and immediately returns this property   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,9 @@ public static TResult EnsureProperty(T clientObject, Expression<Func<T, TResult>
 ### Parameters
 *clientObject*  
 &emsp;&emsp;Type: T  
-&emsp;&emsp;  
-  
 *propertySelector*  
-&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T,TResult>>  
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, TResult>>  
 &emsp;&emsp;Lamda expression containing the property to ensure (e.g. w => w.HasUniqueRoleAssignments)  
-  
 ### Return Value
 Type: TResult  
 Property value

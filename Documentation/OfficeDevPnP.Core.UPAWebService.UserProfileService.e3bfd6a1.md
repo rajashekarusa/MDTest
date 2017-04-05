@@ -10,8 +10,6 @@ public void GetUserProfileCountAsync(Object userState)
 ### Parameters
 *userState*  
 &emsp;&emsp;Type: System.Object  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

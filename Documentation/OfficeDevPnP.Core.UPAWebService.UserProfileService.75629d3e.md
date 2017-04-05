@@ -1,4 +1,6 @@
 # UserProfileService.remove_GetUserLinksCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void remove_GetUserLinksCompleted(GetUserLinksCompletedEventHandler value
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

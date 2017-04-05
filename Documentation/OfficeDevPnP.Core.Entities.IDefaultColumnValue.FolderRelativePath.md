@@ -12,5 +12,5 @@ public string FolderRelativePath { get; set; }
 Type: System.String  
 
 ## See also
-- [IDefaultColumnValue](OfficeDevPnP.Core.Entities.IDefaultColumnValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [IDefaultColumnValue](OfficeDevPnP.Core.Entities.IDefaultColumnValue.md) 

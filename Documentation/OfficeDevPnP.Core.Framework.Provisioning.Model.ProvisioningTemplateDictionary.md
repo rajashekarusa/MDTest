@@ -13,7 +13,7 @@ public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateDictionary(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ctor1.md) |  Generic keyed collection of items stored in the ProvisioningTemplate graph 
+| [ProvisioningTemplateDictionary(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ctor1.md) | <summary> Generic keyed collection of items stored in the ProvisioningTemplate graph </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

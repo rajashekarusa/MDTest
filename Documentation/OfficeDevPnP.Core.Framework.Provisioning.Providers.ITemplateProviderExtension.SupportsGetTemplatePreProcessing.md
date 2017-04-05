@@ -12,5 +12,5 @@ public boolean SupportsGetTemplatePreProcessing { get; }
 Type: System.Boolean  
 
 ## See also
-- [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 

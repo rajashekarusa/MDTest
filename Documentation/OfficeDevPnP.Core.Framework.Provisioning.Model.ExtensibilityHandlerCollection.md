@@ -13,6 +13,6 @@ public class ExtensibilityHandlerCollection: ProvisioningTemplateCollection<Exte
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityHandlerCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection.ctor1.md) |  Collection of ExtensibilityHandler objects 
+| [ExtensibilityHandlerCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection.ctor1.md) | <summary> Collection of ExtensibilityHandler objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

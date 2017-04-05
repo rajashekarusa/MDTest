@@ -13,7 +13,7 @@ public class CertificateMixed: BaseProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CertificateMixed()](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.CertificateMixed.ctor1.md) |  ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint. 
+| [CertificateMixed()](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.CertificateMixed.ctor1.md) | <summary> ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint. </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

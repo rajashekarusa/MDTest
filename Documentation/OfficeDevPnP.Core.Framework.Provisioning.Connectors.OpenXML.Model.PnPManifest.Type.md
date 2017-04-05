@@ -12,5 +12,5 @@ public PackageType Type { get; set; }
 Type: OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType  
 
 ## See also
-- [PnPManifest](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)
+- [PnPManifest](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.md) 

@@ -13,7 +13,7 @@ public class SupportedUILanguage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) |  Defines a single Supported UI Language for a site 
+| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) | <summary> Defines a single Supported UI Language for a site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

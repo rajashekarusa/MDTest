@@ -12,5 +12,5 @@ public byte[] Content { get; set; }
 Type: System.Byte[]  
 
 ## See also
-- [PnPFileInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)
+- [PnPFileInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.md) 

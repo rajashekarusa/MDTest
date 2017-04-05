@@ -1,4 +1,6 @@
 # ListExtensions.GetViewById Method  
+  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,16 +10,10 @@ public static View GetViewById(List list, Guid id, Expression<Func<View, Object>
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
-&emsp;&emsp;  
-  
 *id*  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp;  
-  
 *expressions*  
-&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View,System.Object>>[]  
-&emsp;&emsp;  
-  
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View, System.Object>>[]  
 ### Return Value
 Type: Microsoft.SharePoint.Client.View  
 

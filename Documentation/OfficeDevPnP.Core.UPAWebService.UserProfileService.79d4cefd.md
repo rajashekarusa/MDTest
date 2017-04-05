@@ -10,8 +10,6 @@ public GetUserProfileByIndexResult GetUserProfileByIndex(Int32 index)
 ### Parameters
 *index*  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.md)  
 

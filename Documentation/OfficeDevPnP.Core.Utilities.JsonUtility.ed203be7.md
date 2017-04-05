@@ -11,7 +11,6 @@ public static string Serialize(T obj)
 *obj*  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to serialize  
-  
 ### Return Value
 Type: System.String  
 json string

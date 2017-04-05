@@ -12,5 +12,5 @@ public int Sequence { get; set; }
 Type: System.Int32  
 
 ## See also
-- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 

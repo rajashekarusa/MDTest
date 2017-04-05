@@ -10,8 +10,6 @@ public ContactData[] GetCommonColleagues(String accountName)
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: OfficeDevPnP.Core.UPAWebService.ContactData[]  
 

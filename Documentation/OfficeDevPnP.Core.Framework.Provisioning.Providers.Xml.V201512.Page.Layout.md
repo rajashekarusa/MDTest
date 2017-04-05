@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLay
 ## Remarks 
 
 ## See also
-- [Page](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [Page](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Page.md) 

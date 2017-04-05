@@ -13,8 +13,8 @@ public class WorkflowSubscription: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor1.md) |  Defines a Workflow Subscription to provision 
-| [WorkflowSubscription(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor2.md) |  Defines a Workflow Subscription to provision 
+| [WorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor1.md) | <summary> Defines a Workflow Subscription to provision </summary>
+| [WorkflowSubscription(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.ctor2.md) | <summary> Defines a Workflow Subscription to provision </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

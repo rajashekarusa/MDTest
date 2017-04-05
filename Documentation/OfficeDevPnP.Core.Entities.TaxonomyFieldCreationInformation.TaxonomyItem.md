@@ -1,4 +1,6 @@
 # TaxonomyFieldCreationInformation.Properties TaxonomyItem
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public TaxonomyItem TaxonomyItem { get; set; }
 Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 
 ## See also
-- [TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 

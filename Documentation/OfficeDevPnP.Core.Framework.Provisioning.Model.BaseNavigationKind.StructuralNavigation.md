@@ -12,5 +12,5 @@ public StructuralNavigation StructuralNavigation { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md)  
 
 ## See also
-- [BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 

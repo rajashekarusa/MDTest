@@ -13,7 +13,7 @@ public class ContentTypeBinding: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) |  Domain Object for Content Type Binding in the Provisioning Template 
+| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) | <summary> Domain Object for Content Type Binding in the Provisioning Template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

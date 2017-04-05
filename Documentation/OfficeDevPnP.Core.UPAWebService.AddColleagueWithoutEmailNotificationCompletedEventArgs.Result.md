@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebServ
 ## Remarks 
 
 ## See also
-- [AddColleagueWithoutEmailNotificationCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [AddColleagueWithoutEmailNotificationCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs.md) 

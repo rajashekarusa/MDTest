@@ -1,4 +1,6 @@
 # WebExtensions.GetAppInstances Method  
+  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,12 +10,8 @@ public static ClientObjectList<AppInstance> GetAppInstances(Web web, Expression<
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp;  
-  
 *expressions*  
-&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.AppInstance,System.Object>>[]  
-&emsp;&emsp;  
-  
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.AppInstance, System.Object>>[]  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ClientObjectList<Microsoft.SharePoint.Client.AppInstance>  
 

@@ -11,15 +11,12 @@ public static void SetPropertyBagValue(Web web, String key, DateTime value)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web that will hold the property bag entry  
-  
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key for the property bag entry  
-  
 *value*  
 &emsp;&emsp;Type: System.DateTime  
 &emsp;&emsp;Datetime value for the property bag entry  
-  
 ### Return Value
 Type: System.Void  
 

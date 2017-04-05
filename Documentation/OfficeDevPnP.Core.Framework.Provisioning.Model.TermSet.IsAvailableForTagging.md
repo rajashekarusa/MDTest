@@ -1,4 +1,6 @@
 # TermSet.Properties IsAvailableForTagging
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean IsAvailableForTagging { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md) 

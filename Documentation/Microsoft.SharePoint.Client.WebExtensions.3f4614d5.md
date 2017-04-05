@@ -11,7 +11,6 @@ public static boolean IsSubSite(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
-  
 ### Return Value
 Type: System.Boolean  
 True is sub site, false otherwise

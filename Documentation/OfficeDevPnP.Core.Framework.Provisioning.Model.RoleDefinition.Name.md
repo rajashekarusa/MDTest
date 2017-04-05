@@ -12,5 +12,5 @@ public string Name { get; set; }
 Type: System.String  
 
 ## See also
-- [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 

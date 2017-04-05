@@ -12,5 +12,5 @@ public int LCID { get; set; }
 Type: System.Int32  
 
 ## See also
-- [Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md) 

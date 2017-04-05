@@ -13,6 +13,6 @@ public class AvailableWebTemplateCollection: ProvisioningTemplateCollection<Avai
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableWebTemplateCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection.ctor1.md) |  A collection of AvailableWebTemplate objects 
+| [AvailableWebTemplateCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection.ctor1.md) | <summary> A collection of AvailableWebTemplate objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

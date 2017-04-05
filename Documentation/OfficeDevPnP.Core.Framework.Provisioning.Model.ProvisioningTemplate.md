@@ -13,8 +13,8 @@ public class ProvisioningTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor1.md) |  Domain Object for the Provisioning Template 
-| [ProvisioningTemplate(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor2.md) |  Domain Object for the Provisioning Template 
+| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor1.md) | <summary> Domain Object for the Provisioning Template </summary>
+| [ProvisioningTemplate(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor2.md) | <summary> Domain Object for the Provisioning Template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [DocumentSetTemplateAllowedContentType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateAllowedContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
+- [DocumentSetTemplateAllowedContentType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateAllowedContentType.md) 

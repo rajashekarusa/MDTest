@@ -13,7 +13,7 @@ public class XMLPnPSchemaFormatter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XMLPnPSchemaFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.ctor1.md) |  Helper class that abstracts from any specific version of XMLPnPSchemaFormatter 
+| [XMLPnPSchemaFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.ctor1.md) | <summary> Helper class that abstracts from any specific version of XMLPnPSchemaFormatter </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

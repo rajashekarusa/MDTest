@@ -11,11 +11,9 @@ public static void EnableRequestAccess(Web web, String[] emails)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to enable request access.  
-  
 *emails*  
 &emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;The e-mail addresses to send access requests to.  
-  
 ### Return Value
 Type: System.Void  
 

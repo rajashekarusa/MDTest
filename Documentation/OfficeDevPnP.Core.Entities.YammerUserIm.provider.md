@@ -1,4 +1,6 @@
 # YammerUserIm.Properties provider
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string provider { get; set; }
 Type: System.String  
 
 ## See also
-- [YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md) 

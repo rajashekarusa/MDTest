@@ -12,5 +12,5 @@ public string TermStoreId { get; set; }
 Type: System.String  
 
 ## See also
-- [ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md) 

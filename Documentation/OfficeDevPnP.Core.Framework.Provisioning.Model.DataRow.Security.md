@@ -12,5 +12,5 @@ public ObjectSecurity Security { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
 
 ## See also
-- [DataRow](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [DataRow](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.md) 

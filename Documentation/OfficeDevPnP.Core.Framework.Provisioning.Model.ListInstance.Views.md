@@ -12,5 +12,5 @@ public ViewCollection Views { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ViewCollection.md)  
 
 ## See also
-- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 

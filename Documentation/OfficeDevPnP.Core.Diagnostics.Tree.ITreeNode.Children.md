@@ -1,4 +1,6 @@
 # ITreeNode.Properties Children
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public TreeNodeList Children { get; }
 Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList  
 
 ## See also
-- [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
+- [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 

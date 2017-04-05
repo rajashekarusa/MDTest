@@ -14,5 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [Provider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provider.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [Provider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provider.md) 

@@ -1,4 +1,6 @@
 # UrlUtility.StripInvalidUrlChars Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public static string StripInvalidUrlChars(String content)
 ### Parameters
 *content*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

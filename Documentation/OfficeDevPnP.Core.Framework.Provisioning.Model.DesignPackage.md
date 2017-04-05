@@ -13,7 +13,7 @@ public class DesignPackage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) |  Defines a Design Package to import into the current Publishing site 
+| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) | <summary> Defines a Design Package to import into the current Publishing site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

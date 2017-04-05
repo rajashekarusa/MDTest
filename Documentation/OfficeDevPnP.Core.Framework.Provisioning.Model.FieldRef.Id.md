@@ -12,5 +12,5 @@ public guid Id { get; set; }
 Type: System.Guid  
 
 ## See also
-- [FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md) 

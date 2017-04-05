@@ -1,4 +1,6 @@
 # YammerUserWebPreferences.Properties network_settings
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public YammerUserNetworkSettings network_settings { get; set; }
 Type: [OfficeDevPnP.Core.Entities.YammerUserNetworkSettings](OfficeDevPnP.Core.Entities.YammerUserNetworkSettings.md)  
 
 ## See also
-- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 

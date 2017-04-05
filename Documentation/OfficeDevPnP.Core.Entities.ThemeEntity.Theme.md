@@ -1,4 +1,6 @@
 # ThemeEntity.Properties Theme
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string Theme { get; set; }
 Type: System.String  
 
 ## See also
-- [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md) 

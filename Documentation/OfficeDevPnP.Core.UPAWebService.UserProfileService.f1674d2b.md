@@ -1,4 +1,6 @@
 # UserProfileService.remove_CreateUserProfileByAccountNameCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void remove_CreateUserProfileByAccountNameCompleted(CreateUserProfileByAc
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

@@ -1,4 +1,6 @@
 # XMLConstants
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy

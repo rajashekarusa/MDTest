@@ -1,4 +1,6 @@
 # FileConnectorBase.Properties Parameters
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -7,8 +9,8 @@ public dictionary<string, object> Parameters { get; }
 ```
 
 ### Property Value
-Type: System.Collections.Generic.Dictionary<System.String,System.Object>  
+Type: System.Collections.Generic.Dictionary<System.String, System.Object>  
 
 ## See also
-- [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)
+- [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 

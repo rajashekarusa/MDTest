@@ -11,11 +11,9 @@ public static void EnableResponsiveUI(Site site, String infrastructureUrl)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The Site to activate the Responsive UI to  
-  
 *(optional) infrastructureUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL pointing to an infrastructure site  
-  
 ### Return Value
 Type: System.Void  
 

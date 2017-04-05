@@ -13,7 +13,7 @@ public class ExtensibilityHandler: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.ctor1.md) |  Domain Object for Extensiblity Call out 
+| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.ctor1.md) | <summary> Domain Object for Extensiblity Call out </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

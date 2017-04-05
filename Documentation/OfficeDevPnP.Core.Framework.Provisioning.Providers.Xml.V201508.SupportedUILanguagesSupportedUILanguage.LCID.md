@@ -14,5 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [SupportedUILanguagesSupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SupportedUILanguagesSupportedUILanguage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [SupportedUILanguagesSupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SupportedUILanguagesSupportedUILanguage.md) 

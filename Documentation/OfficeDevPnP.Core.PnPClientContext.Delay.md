@@ -1,4 +1,6 @@
 # PnPClientContext.Properties Delay
+  
+
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public int Delay { get; set; }
 Type: System.Int32  
 
 ## See also
-- [PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
+- [PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md) 

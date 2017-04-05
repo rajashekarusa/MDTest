@@ -10,16 +10,10 @@ public PinnedLinkData AddPinnedLink(String accountName, String name, String url)
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *name*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *url*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.md)  
 

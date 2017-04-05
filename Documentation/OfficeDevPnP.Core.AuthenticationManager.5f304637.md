@@ -1,4 +1,6 @@
 # AuthenticationManager.GetAzureADWebApplicationAuthenticatedContext Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,12 +10,8 @@ public ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl
 ### Parameters
 *siteUrl*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *accessTokenGetter*  
-&emsp;&emsp;Type: System.Func<System.String,System.String>  
-&emsp;&emsp;  
-  
+&emsp;&emsp;Type: System.Func<System.String, System.String>  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ClientContext  
 

@@ -10,16 +10,10 @@ public void RemoveMembership(String accountName, Guid sourceInternal, String sou
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *sourceInternal*  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp;  
-  
 *sourceReference*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

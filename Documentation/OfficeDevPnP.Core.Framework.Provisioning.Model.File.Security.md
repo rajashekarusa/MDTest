@@ -12,5 +12,5 @@ public ObjectSecurity Security { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
 
 ## See also
-- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 

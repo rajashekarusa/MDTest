@@ -10,8 +10,6 @@ public InCommonData GetInCommon(String accountName)
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.UPAWebService.InCommonData](OfficeDevPnP.Core.UPAWebService.InCommonData.md)  
 

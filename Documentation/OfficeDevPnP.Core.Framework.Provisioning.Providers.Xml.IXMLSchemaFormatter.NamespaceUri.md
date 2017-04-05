@@ -12,5 +12,5 @@ public string NamespaceUri { get; }
 Type: System.String  
 
 ## See also
-- [IXMLSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
+- [IXMLSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.md) 

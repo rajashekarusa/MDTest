@@ -12,5 +12,5 @@ public string HtmlProperties { get; }
 Type: System.String  
 
 ## See also
-- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 

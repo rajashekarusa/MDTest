@@ -12,5 +12,5 @@ public string EmailBody { get; set; }
 Type: System.String  
 
 ## See also
-- [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md) 

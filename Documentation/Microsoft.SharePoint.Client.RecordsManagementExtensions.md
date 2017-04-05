@@ -31,4 +31,7 @@ public static class RecordsManagementExtensions
 | [SetRecordRestrictions(Site, EcmSiteRecordRestrictions)](Microsoft.SharePoint.Client.RecordsManagementExtensions.1b685f24.md) | Defines the restrictions that are placed on a document once it's declared as a record
 | [SetRecordUnDeclarationBy(Site, EcmRecordDeclarationBy)](Microsoft.SharePoint.Client.RecordsManagementExtensions.794eadc1.md) | Defines who can undeclare records
 ## See also
+- [T:OfficeDevPnP.Core.EcmListManualRecordDeclaration](T:OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)
+- [T:OfficeDevPnP.Core.EcmRecordDeclarationBy](T:OfficeDevPnP.Core.EcmRecordDeclarationBy.md)
+- [T:OfficeDevPnP.Core.EcmSiteRecordRestrictions](T:OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

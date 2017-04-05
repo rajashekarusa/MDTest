@@ -14,5 +14,5 @@ Type: System.Xml.XmlElement
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplateSearchSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
+- [ProvisioningTemplateSearchSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.md) 

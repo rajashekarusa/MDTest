@@ -11,11 +11,9 @@ public static ienumerable<roleassignmententity> GetAllUniqueRoleAssignments(Web 
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The current web object to be processed.  
-  
 *(optional) leafBreadthLimit*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Skip further visiting on this branch if the number of child items or documents with unique role assignments exceeded leafBreadthLimit. When setting to 0, the process will stop at list / document library level.  
-  
 ### Return Value
 Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.RoleAssignmentEntity>  
 

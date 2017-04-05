@@ -1,4 +1,6 @@
 # ClientSideCanvasControlData.Properties ControlType
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public int ControlType { get; set; }
 Type: System.Int32  
 
 ## See also
-- [ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md) 

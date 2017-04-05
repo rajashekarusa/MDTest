@@ -11,7 +11,6 @@ public static boolean Contains(Guid fid)
 *fid*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;File identifier.  
-  
 ### Return Value
 Type: System.Boolean  
 

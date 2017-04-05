@@ -14,5 +14,5 @@ Type: System.Xml.XmlElement[]
 ## Remarks 
 
 ## See also
-- [ListInstanceViews](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstanceViews.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [ListInstanceViews](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstanceViews.md) 

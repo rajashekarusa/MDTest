@@ -13,8 +13,8 @@ public class WorkflowDefinition: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) |  Defines a Workflow Definition to provision 
-| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) |  Defines a Workflow Definition to provision 
+| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) | <summary> Defines a Workflow Definition to provision </summary>
+| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) | <summary> Defines a Workflow Definition to provision </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

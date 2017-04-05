@@ -12,5 +12,5 @@ public string Realm { get; }
 Type: System.String  
 
 ## See also
-- [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 

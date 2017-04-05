@@ -13,7 +13,7 @@ public class ProvisioningTemplateCollection: Collection
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection.ctor1.md) |  Generic collection of items stored in the ProvisioningTemplate graph 
+| [ProvisioningTemplateCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection.ctor1.md) | <summary> Generic collection of items stored in the ProvisioningTemplate graph </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

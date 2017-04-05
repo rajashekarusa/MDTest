@@ -1,4 +1,6 @@
 # JsonSharePointTemplateProvider.JsonSharePointTemplateProvider members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,14 +8,11 @@
 public JsonSharePointTemplateProvider(ClientRuntimeContext cc, String connectionString, String container)
 ```
 ### Parameters
-#### cc
+#### cc  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
-#### 
-#### connectionString
+#### connectionString  
 &emsp;&emsp;Type: System.String  
-#### 
-#### container
+#### container  
 &emsp;&emsp;Type: System.String  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

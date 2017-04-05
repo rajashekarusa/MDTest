@@ -12,5 +12,5 @@ public string LanguageCode { get; set; }
 Type: System.String  
 
 ## See also
-- [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md) 

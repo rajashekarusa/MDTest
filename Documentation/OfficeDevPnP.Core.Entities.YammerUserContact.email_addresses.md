@@ -1,4 +1,6 @@
 # YammerUserContact.Properties email_addresses
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ilist<yammeruseremailaddress> email_addresses { get; set; }
 Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserEmailAddress>  
 
 ## See also
-- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 

@@ -13,7 +13,7 @@ public class RoleAssignment: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) |  Role Assignment for a target Principal 
+| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) | <summary> Role Assignment for a target Principal </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

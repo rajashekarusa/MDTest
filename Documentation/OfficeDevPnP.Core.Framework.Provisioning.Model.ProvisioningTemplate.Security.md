@@ -12,5 +12,5 @@ public SiteSecurity Security { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md)  
 
 ## See also
-- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 

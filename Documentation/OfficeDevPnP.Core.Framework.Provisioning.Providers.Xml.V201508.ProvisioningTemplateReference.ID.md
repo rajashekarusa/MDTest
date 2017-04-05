@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [ProvisioningTemplateReference](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ProvisioningTemplateReference.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [ProvisioningTemplateReference](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ProvisioningTemplateReference.md) 

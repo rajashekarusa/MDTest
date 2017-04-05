@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDictionaryItem.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.StringDictionaryItem.md) 

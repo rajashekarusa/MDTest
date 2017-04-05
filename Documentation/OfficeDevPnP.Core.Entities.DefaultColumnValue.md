@@ -15,7 +15,7 @@ public class DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.ctor1.md) |  DefaultColumnValue 
+| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.ctor1.md) | <summary> DefaultColumnValue </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

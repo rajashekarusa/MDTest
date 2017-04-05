@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkHour
 ## Remarks 
 
 ## See also
-- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.md) 

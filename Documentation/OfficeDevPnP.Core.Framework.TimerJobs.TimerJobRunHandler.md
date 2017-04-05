@@ -13,7 +13,7 @@ public class TimerJobRunHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJobRunHandler(Object, IntPtr)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.ctor1.md) |  TimerJobRun delegate 
+| [TimerJobRunHandler(Object, IntPtr)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.ctor1.md) | <summary> TimerJobRun delegate </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

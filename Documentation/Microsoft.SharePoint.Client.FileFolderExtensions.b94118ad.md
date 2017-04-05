@@ -1,4 +1,6 @@
 # FileFolderExtensions.SaveFileToLocal Method  
+  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,24 +10,14 @@ public static void SaveFileToLocal(Web web, String serverRelativeUrl, String loc
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp;  
-  
 *serverRelativeUrl*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *localPath*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *(optional) localFileName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *(optional) fileExistsCallBack*  
-&emsp;&emsp;Type: System.Func<System.String,System.Boolean>  
-&emsp;&emsp;  
-  
+&emsp;&emsp;Type: System.Func<System.String, System.Boolean>  
 ### Return Value
 Type: System.Void  
 

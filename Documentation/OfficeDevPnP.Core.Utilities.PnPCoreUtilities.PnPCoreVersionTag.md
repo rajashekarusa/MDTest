@@ -12,5 +12,5 @@ public static string PnPCoreVersionTag { get; }
 Type: System.String  
 
 ## See also
-- [PnPCoreUtilities](OfficeDevPnP.Core.Utilities.PnPCoreUtilities.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [PnPCoreUtilities](OfficeDevPnP.Core.Utilities.PnPCoreUtilities.md) 

@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Feature[]
 ## Remarks 
 
 ## See also
-- [Features](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Features.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
+- [Features](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Features.md) 

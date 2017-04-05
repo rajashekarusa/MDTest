@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]
 ## Remarks 
 
 ## See also
-- [GetUserOrganizationsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [GetUserOrganizationsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventArgs.md) 

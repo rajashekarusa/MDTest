@@ -1,4 +1,6 @@
 # YammerUserHomeTab.Properties ordering_index
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string ordering_index { get; set; }
 Type: System.String  
 
 ## See also
-- [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md) 

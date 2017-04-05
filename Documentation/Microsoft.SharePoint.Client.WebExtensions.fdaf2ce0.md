@@ -11,15 +11,12 @@ public static list<siteentity> SiteSearch(Web web, String keywordQueryValue, Boo
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 *keywordQueryValue*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Keyword query  
-  
 *(optional) trimDuplicates*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Indicates if dublicates should be trimmed or not  
-  
 ### Return Value
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
 All found site collections

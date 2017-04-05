@@ -11,7 +11,6 @@ public static boolean GetManualRecordDeclarationInAllLocations(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
-  
 ### Return Value
 Type: System.Boolean  
 True if records management is allowed in all places, false otherwise

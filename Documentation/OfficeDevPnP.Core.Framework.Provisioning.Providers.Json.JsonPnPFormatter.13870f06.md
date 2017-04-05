@@ -1,4 +1,6 @@
 # JsonPnPFormatter.IsValid Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public boolean IsValid(Stream template)
 ### Parameters
 *template*  
 &emsp;&emsp;Type: System.IO.Stream  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Boolean  
 

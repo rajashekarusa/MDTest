@@ -32,4 +32,5 @@ public static class TenantExtensions
 | [SiteExists(Tenant, String)](Microsoft.SharePoint.Client.TenantExtensions.fa3c7d26.md) | Checks if a site collection exists, relies on tenant admin API. Sites that are recycled also return as existing sites
 | [SubSiteExists(Tenant, String)](Microsoft.SharePoint.Client.TenantExtensions.488f63fb.md) | Checks if a sub site exists
 ## See also
+- [T:OfficeDevPnP.Core.Entities.SiteEntity](T:OfficeDevPnP.Core.Entities.SiteEntity.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

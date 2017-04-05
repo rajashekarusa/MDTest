@@ -1,4 +1,6 @@
 # PnPClientContext.PnPClientContext members 
+  
+
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,14 +8,11 @@
 public PnPClientContext(String url, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
-#### url
+#### url  
 &emsp;&emsp;Type: System.String  
-#### 
-#### (optional) retryCount
+#### (optional) retryCount  
 &emsp;&emsp;Type: System.Int32  
-#### 
-#### (optional) delay
+#### (optional) delay  
 &emsp;&emsp;Type: System.Int32  
-#### 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

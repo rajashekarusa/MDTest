@@ -1,4 +1,6 @@
 # FieldCreationInformation.Properties AddToDefaultView
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean AddToDefaultView { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 

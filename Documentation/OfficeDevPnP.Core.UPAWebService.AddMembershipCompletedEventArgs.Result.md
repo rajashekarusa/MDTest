@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebS
 ## Remarks 
 
 ## See also
-- [AddMembershipCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [AddMembershipCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs.md) 

@@ -18,4 +18,5 @@ public static class X509CertificateUtility
 | [GetPublicKey(X509Certificate2)](OfficeDevPnP.Core.Utilities.X509CertificateUtility.c98a590b.md) | Returns the certificate public key
 | [LoadCertificate(StoreName, StoreLocation, String)](OfficeDevPnP.Core.Utilities.X509CertificateUtility.23859396.md) | Loads a certificate from a given certificate store
 ## See also
+- [T:System.Security.Cryptography.X509Certificates.X509Certificate2](T:System.Security.Cryptography.X509Certificates.X509Certificate2.md)
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

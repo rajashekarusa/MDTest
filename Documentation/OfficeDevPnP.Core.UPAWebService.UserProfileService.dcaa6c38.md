@@ -1,4 +1,6 @@
 # UserProfileService.remove_GetPropertyChoiceListCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void remove_GetPropertyChoiceListCompleted(GetPropertyChoiceListCompleted
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

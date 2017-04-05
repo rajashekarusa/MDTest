@@ -11,15 +11,11 @@ public static string GetPropertyBagValueString(Web web, String key, String defau
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to read the property bag value from  
-  
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to return  
-  
 *defaultValue*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 Value of the property bag entry as string

@@ -11,7 +11,6 @@ public static boolean IsAppOnly(ClientRuntimeContext clientContext)
 *clientContext*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;The ClientContext to inspect  
-  
 ### Return Value
 Type: System.Boolean  
 True if app-only, false otherwise

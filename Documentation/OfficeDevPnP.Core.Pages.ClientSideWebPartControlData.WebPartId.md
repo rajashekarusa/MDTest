@@ -1,4 +1,6 @@
 # ClientSideWebPartControlData.Properties WebPartId
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string WebPartId { get; set; }
 Type: System.String  
 
 ## See also
-- [ClientSideWebPartControlData](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPartControlData](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.md) 

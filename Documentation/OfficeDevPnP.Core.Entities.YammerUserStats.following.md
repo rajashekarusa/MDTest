@@ -1,4 +1,6 @@
 # YammerUserStats.Properties following
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public int following { get; set; }
 Type: System.Int32  
 
 ## See also
-- [YammerUserStats](OfficeDevPnP.Core.Entities.YammerUserStats.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserStats](OfficeDevPnP.Core.Entities.YammerUserStats.md) 

@@ -11,7 +11,6 @@ public static boolean GetListAutoRecordDeclaration(List list)
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
-  
 ### Return Value
 Type: System.Boolean  
 True if auto record declaration is active, false otherwise

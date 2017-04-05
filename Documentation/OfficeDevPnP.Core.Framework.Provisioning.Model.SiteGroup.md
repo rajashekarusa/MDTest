@@ -13,8 +13,8 @@ public class SiteGroup: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor1.md) |  The base type for a Site Group 
-| [SiteGroup(IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor2.md) |  The base type for a Site Group 
+| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor1.md) | <summary> The base type for a Site Group </summary>
+| [SiteGroup(IEnumerable<User>)](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.ctor2.md) | <summary> The base type for a Site Group </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

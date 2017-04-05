@@ -1,4 +1,6 @@
 # TenantExtensions.DeleteSiteCollection Method  
+  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,20 +10,12 @@ public static boolean DeleteSiteCollection(Tenant tenant, String siteFullUrl, Bo
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
-&emsp;&emsp;  
-  
 *siteFullUrl*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *useRecycleBin*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *(optional) timeoutFunction*  
-&emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage,System.Boolean>  
-&emsp;&emsp;  
-  
+&emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 ### Return Value
 Type: System.Boolean  
 

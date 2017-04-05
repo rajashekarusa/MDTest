@@ -1,4 +1,6 @@
 # Localization.Localization members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,14 +8,11 @@
 public Localization(Int32 lcid, String name, String resourceFile)
 ```
 ### Parameters
-#### lcid
+#### lcid  
 &emsp;&emsp;Type: System.Int32  
-#### 
-#### name
+#### name  
 &emsp;&emsp;Type: System.String  
-#### 
-#### resourceFile
+#### resourceFile  
 &emsp;&emsp;Type: System.String  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

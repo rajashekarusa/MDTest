@@ -1,4 +1,6 @@
 # FieldRef.FieldRef members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,8 +8,7 @@
 public FieldRef(String fieldRefName)
 ```
 ### Parameters
-#### fieldRefName
+#### fieldRefName  
 &emsp;&emsp;Type: System.String  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

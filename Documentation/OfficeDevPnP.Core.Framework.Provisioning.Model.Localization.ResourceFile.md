@@ -12,5 +12,5 @@ public string ResourceFile { get; set; }
 Type: System.String  
 
 ## See also
-- [Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md) 

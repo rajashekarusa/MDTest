@@ -1,4 +1,6 @@
 # RemoveAllLinksCompletedEventHandler.RemoveAllLinksCompletedEventHandler members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,11 +8,9 @@
 public RemoveAllLinksCompletedEventHandler(Object object, IntPtr method)
 ```
 ### Parameters
-#### object
+#### object  
 &emsp;&emsp;Type: System.Object  
-#### 
-#### method
+#### method  
 &emsp;&emsp;Type: System.IntPtr  
-#### 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

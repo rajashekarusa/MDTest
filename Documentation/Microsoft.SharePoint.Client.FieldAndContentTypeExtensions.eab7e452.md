@@ -1,6 +1,5 @@
 # FieldAndContentTypeExtensions.BestMatchContentTypeId Method  
-Searches the list content types and returns the content type identifier (ID) that is the 
-            nearest match to the specified content type ID.  
+Searches the list content types and returns the content type identifier (ID) that is the nearest match to the specified content type ID.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,11 +11,9 @@ public static ContentTypeId BestMatchContentTypeId(List list, String baseContent
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to check for content types  
-  
 *baseContentTypeId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string with the base content type ID to match.  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ContentTypeId  
 The value of the Id property for the content type with the closest match to the value 

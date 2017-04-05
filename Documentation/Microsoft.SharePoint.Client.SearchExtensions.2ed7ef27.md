@@ -11,11 +11,9 @@ public static void SetWebSearchCenterUrl(Web web, String searchCenterUrl)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint current web  
-  
 *searchCenterUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Search results page url  
-  
 ### Return Value
 Type: System.Void  
 

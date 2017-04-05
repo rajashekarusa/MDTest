@@ -15,7 +15,7 @@ public class CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CanvasControl()](OfficeDevPnP.Core.Pages.CanvasControl.ctor1.md) |  Base control 
+| [CanvasControl()](OfficeDevPnP.Core.Pages.CanvasControl.ctor1.md) | <summary> Base control </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

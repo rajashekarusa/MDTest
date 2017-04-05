@@ -1,4 +1,6 @@
 # OrderByField.Properties Ascending
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean Ascending { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OrderByField](OfficeDevPnP.Core.Utilities.OrderByField.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [OrderByField](OfficeDevPnP.Core.Utilities.OrderByField.md) 

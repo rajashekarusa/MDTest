@@ -12,5 +12,5 @@ public double UserCodeMaximumLevel { get; set; }
 Type: System.Double  
 
 ## See also
-- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 

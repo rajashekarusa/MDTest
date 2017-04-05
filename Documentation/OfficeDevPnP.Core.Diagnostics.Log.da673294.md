@@ -1,4 +1,6 @@
 # Log.Error Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,20 +10,12 @@ public static void Error(Exception ex, String source, String message, Object[] a
 ### Parameters
 *ex*  
 &emsp;&emsp;Type: System.Exception  
-&emsp;&emsp;  
-  
 *source*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *message*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *args*  
 &emsp;&emsp;Type: System.Object[]  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

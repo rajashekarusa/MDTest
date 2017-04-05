@@ -11,23 +11,18 @@ public static void SetLocalizationForField(List list, Field siteColumn, String c
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
-  
 *siteColumn*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Site column to update  
-  
 *cultureName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture for the localization (en-es, nl-be, fi-fi,...)  
-  
 *titleResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Title property  
-  
 *descriptionResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Description property  
-  
 ### Return Value
 Type: System.Void  
 

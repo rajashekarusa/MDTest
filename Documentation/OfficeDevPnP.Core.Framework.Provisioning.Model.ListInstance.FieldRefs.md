@@ -1,4 +1,6 @@
 # ListInstance.Properties FieldRefs
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public FieldRefCollection FieldRefs { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRefCollection.md)  
 
 ## See also
-- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 

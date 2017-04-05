@@ -9,8 +9,8 @@ public dictionary<string, string> Properties { get; }
 ```
 
 ### Property Value
-Type: System.Collections.Generic.Dictionary<System.String,System.String>  
+Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 
 ## See also
-- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 

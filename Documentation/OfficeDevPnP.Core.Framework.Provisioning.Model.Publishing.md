@@ -13,8 +13,8 @@ public class Publishing: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor1.md) |  Defines the Publishing configuration to provision 
-| [Publishing(AutoCheckRequirementsOptions, DesignPackage, IEnumerable<AvailableWebTemplate>, IEnumerable<PageLayout>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor2.md) |  Defines the Publishing configuration to provision 
+| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor1.md) | <summary> Defines the Publishing configuration to provision </summary>
+| [Publishing(AutoCheckRequirementsOptions, DesignPackage, IEnumerable<AvailableWebTemplate>, IEnumerable<PageLayout>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.ctor2.md) | <summary> Defines the Publishing configuration to provision </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

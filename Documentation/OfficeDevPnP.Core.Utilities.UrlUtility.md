@@ -13,7 +13,7 @@ public static class UrlUtility
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AppendQueryString(String, String)](OfficeDevPnP.Core.Utilities.UrlUtility.4066d2e4.md) | 
+| [AppendQueryString(String, String)](OfficeDevPnP.Core.Utilities.UrlUtility.4066d2e4.md) | <summary> Adds query string parameters to the end of a querystring and guarantees the proper concatenation with <b>?</b> and <b>&amp;.</b></summary>
 | [Combine(String, String[])](OfficeDevPnP.Core.Utilities.UrlUtility.855ffbf0.md) | Combines a path and a relative path.
 | [Combine(String, String)](OfficeDevPnP.Core.Utilities.UrlUtility.63559c31.md) | Combines a path and a relative path.
 | [ContainsInvalidUrlChars(String)](OfficeDevPnP.Core.Utilities.UrlUtility.7bcf7fd6.md) | 

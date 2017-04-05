@@ -1,5 +1,5 @@
 # ListInstance.Properties MaxVersionLimit
-Gets or sets the MinorVersionLimit  for verisioning, just in case it is enabled on the list  
+Gets or sets the MinorVersionLimit for verisioning, just in case it is enabled on the list  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int MaxVersionLimit { get; set; }
 Type: System.Int32  
 
 ## See also
-- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 

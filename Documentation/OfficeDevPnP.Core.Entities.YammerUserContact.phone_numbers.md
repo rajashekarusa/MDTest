@@ -1,4 +1,6 @@
 # YammerUserContact.Properties phone_numbers
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ilist<object> phone_numbers { get; set; }
 Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
-- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 

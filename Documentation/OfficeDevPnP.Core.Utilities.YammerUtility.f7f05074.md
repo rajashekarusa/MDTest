@@ -11,7 +11,6 @@ public static list<yammergroup> GetYammerGroups(String accessToken)
 *accessToken*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Access token to the Yammer network  
-  
 ### Return Value
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.YammerGroup>  
 All groups in the network

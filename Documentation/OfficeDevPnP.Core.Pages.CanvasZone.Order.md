@@ -1,4 +1,6 @@
 # CanvasZone.Properties Order
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public int Order { get; set; }
 Type: System.Int32  
 
 ## See also
-- [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 

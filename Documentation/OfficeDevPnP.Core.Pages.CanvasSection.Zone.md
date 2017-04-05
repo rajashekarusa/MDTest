@@ -1,4 +1,6 @@
 # CanvasSection.Properties Zone
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public CanvasZone Zone { get; }
 Type: [OfficeDevPnP.Core.Pages.CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md)  
 
 ## See also
-- [CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 

@@ -1,4 +1,6 @@
 # Log.Debug Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,20 +10,12 @@ public static void Debug(String source, Exception ex, String message, Object[] a
 ### Parameters
 *source*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *ex*  
 &emsp;&emsp;Type: System.Exception  
-&emsp;&emsp;  
-  
 *message*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *args*  
 &emsp;&emsp;Type: System.Object[]  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

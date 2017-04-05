@@ -12,5 +12,5 @@ public NavigationNodeCollection NavigationNodes { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.md)  
 
 ## See also
-- [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.md) 

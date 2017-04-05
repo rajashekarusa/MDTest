@@ -1,4 +1,6 @@
 # PnPFilesMap.Properties Map
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -7,8 +9,8 @@ public dictionary<string, string> Map { get; set; }
 ```
 
 ### Property Value
-Type: System.Collections.Generic.Dictionary<System.String,System.String>  
+Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 
 ## See also
-- [PnPFilesMap](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFilesMap.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)
+- [PnPFilesMap](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFilesMap.md) 

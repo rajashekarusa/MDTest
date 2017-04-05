@@ -1,6 +1,5 @@
 # ExtensibilityManager.ExecuteExtensibilityCallOut Method  
-Method to Invoke Custom Provisioning Providers. 
-            Ensure the ClientContext is not disposed in the custom provider.  
+Method to Invoke Custom Provisioning Providers. Ensure the ClientContext is not disposed in the custom provider.  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,15 +11,12 @@ public void ExecuteExtensibilityCallOut(ClientContext ctx, ExtensibilityHandler 
 *ctx*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Authenticated ClientContext that is passed to the custom provider.  
-  
 *handler*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md)  
 &emsp;&emsp;A custom Extensibility Provisioning Provider  
-  
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;ProvisioningTemplate that is passed to the custom provider  
-  
 ### Return Value
 Type: System.Void  
 

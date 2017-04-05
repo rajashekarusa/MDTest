@@ -1,6 +1,5 @@
 # WebAPIHelper
-This class provides helper methods that can be used to protect WebAPI services and to provide a 
-            way to reinstantiate a contextobject in the service call.  
+This class provides helper methods that can be used to protect WebAPI services and to provide a way to reinstantiate a contextobject in the service call.  
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

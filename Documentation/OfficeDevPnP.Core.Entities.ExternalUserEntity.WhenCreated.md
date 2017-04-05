@@ -1,4 +1,6 @@
 # ExternalUserEntity.Properties WhenCreated
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public datetime WhenCreated { get; set; }
 Type: System.DateTime  
 
 ## See also
-- [ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md) 

@@ -10,8 +10,6 @@ public static string Serialize(T objectToSerialize)
 ### Parameters
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 An string that represents the serialized object.

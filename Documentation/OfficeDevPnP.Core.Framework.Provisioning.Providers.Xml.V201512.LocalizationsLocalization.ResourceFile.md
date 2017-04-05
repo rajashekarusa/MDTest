@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [LocalizationsLocalization](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.LocalizationsLocalization.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [LocalizationsLocalization](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.LocalizationsLocalization.md) 

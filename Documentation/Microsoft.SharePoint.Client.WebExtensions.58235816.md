@@ -1,6 +1,5 @@
 # WebExtensions.GetProvisioningTemplate Method  
-Can be used to extract custom provisioning template from existing site. The extracted template
-            will be compared with the default base template.  
+Can be used to extract custom provisioning template from existing site. The extracted template will be compared with the default base template.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,7 +11,6 @@ public static ProvisioningTemplate GetProvisioningTemplate(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to get template from  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 ProvisioningTemplate object with generated values from existing site

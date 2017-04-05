@@ -12,5 +12,5 @@ public WorkflowSubscriptionCollection WorkflowSubscriptions { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.md)  
 
 ## See also
-- [Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 

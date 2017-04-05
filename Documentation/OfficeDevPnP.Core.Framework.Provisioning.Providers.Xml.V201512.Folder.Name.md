@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Folder.md) 

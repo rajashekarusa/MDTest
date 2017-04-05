@@ -1,4 +1,6 @@
 # DefaultColumnTextValue.Properties Text
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string Text { get; set; }
 Type: System.String  
 
 ## See also
-- [DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md) 

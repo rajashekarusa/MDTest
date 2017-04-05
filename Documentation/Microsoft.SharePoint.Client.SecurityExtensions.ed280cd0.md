@@ -11,7 +11,6 @@ public static User AddReaderAccess(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.User  
 

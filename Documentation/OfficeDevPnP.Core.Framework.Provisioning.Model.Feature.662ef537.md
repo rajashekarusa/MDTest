@@ -1,4 +1,6 @@
 # Feature.Equals Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public boolean Equals(Feature other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Boolean  
 

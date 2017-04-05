@@ -11,19 +11,15 @@ public static void SetLocalizationForField(Field field, String cultureName, Stri
 *field*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to update  
-  
 *cultureName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture for the localization (en-es, nl-be, fi-fi,...)  
-  
 *titleResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Title property  
-  
 *descriptionResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Description property  
-  
 ### Return Value
 Type: System.Void  
 

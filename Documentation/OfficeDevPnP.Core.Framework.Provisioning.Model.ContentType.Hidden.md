@@ -12,5 +12,5 @@ public boolean Hidden { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md) 

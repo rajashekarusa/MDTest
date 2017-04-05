@@ -13,7 +13,7 @@ public class AvailableClientSideComponents
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.ctor1.md) |  Class holding a collection of client side webparts (retrieved via the _api/web/GetClientSideWebParts REST call) 
+| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.ctor1.md) | <summary> Class holding a collection of client side webparts (retrieved via the _api/web/GetClientSideWebParts REST call) </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

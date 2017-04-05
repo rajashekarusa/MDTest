@@ -13,8 +13,8 @@ public class BaseNavigationKind: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) |  Base abstract class for the navigation kinds (global or current) 
-| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) |  Base abstract class for the navigation kinds (global or current) 
+| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) | <summary> Base abstract class for the navigation kinds (global or current) </summary>
+| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) | <summary> Base abstract class for the navigation kinds (global or current) </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

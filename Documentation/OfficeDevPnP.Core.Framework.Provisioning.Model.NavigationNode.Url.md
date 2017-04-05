@@ -12,5 +12,5 @@ public string Url { get; set; }
 Type: System.String  
 
 ## See also
-- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md) 

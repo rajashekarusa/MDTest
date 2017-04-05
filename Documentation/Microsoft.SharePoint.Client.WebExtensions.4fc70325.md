@@ -11,19 +11,15 @@ public static void SetLocalizationLabels(Web web, String cultureName, String tit
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 *cultureName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture name like en-us or fi-fi  
-  
 *titleResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized Title string  
-  
 *descriptionResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized Description string  
-  
 ### Return Value
 Type: System.Void  
 

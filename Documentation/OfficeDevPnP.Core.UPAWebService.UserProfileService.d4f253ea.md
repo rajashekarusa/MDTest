@@ -10,20 +10,12 @@ public void UpdateMembershipPrivacy(String accountName, Guid sourceInternal, Str
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *sourceInternal*  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp;  
-  
 *sourceReference*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *newPrivacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

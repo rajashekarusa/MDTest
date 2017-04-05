@@ -1,4 +1,6 @@
 # UserProfileService.remove_GetUserProfileByIndexCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void remove_GetUserProfileByIndexCompleted(GetUserProfileByIndexCompleted
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

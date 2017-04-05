@@ -11,11 +11,9 @@ public static long ToInt64(String input, Int32 defaultValue)
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
-  
 *defaultValue*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;A default value to return for a null input value.  
-  
 ### Return Value
 Type: System.Int64  
 

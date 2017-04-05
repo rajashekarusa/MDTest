@@ -11,11 +11,9 @@ public void SaveFileStream(String fileName, Stream stream)
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to save  
-  
 *stream*  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;Stream containing the file contents  
-  
 ### Return Value
 Type: System.Void  
 

@@ -12,5 +12,7 @@ public string WebPartData { get; }
 Type: System.String  
 
 ## See also
-- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- [T:Newtonsoft.Json.Linq.JObject](T:Newtonsoft.Json.Linq.JObject.md)
+- [P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type](P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 

@@ -1,4 +1,6 @@
 # YammerUserContact.Properties im
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public YammerUserIm im { get; set; }
 Type: [OfficeDevPnP.Core.Entities.YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md)  
 
 ## See also
-- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 

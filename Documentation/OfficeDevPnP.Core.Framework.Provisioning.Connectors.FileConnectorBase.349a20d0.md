@@ -11,7 +11,6 @@ public list<string> GetFiles(String container)
 *container*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the files from  
-  
 ### Return Value
 Type: System.Collections.Generic.List<System.String>  
 List of files

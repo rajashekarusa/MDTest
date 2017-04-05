@@ -1,4 +1,6 @@
 # CanvasControl.Properties DataVersion
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string DataVersion { get; }
 Type: System.String  
 
 ## See also
-- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 

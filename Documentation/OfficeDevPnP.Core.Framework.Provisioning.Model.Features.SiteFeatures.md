@@ -12,5 +12,5 @@ public FeatureCollection SiteFeatures { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.md)  
 
 ## See also
-- [Features](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Features](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.md) 

@@ -12,5 +12,5 @@ public boolean TrimAuditLog { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 

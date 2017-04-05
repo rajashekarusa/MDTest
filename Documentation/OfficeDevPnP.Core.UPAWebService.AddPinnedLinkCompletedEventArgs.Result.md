@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebS
 ## Remarks 
 
 ## See also
-- [AddPinnedLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [AddPinnedLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs.md) 

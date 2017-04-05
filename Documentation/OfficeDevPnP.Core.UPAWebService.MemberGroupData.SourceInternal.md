@@ -14,5 +14,5 @@ Type: System.Guid
 ## Remarks 
 
 ## See also
-- [MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md) 

@@ -1,6 +1,5 @@
 # YammerUser
-Represents YammerUser
-            Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service  
+Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service  
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -14,7 +13,7 @@ public class YammerUser
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUser()](OfficeDevPnP.Core.Entities.YammerUser.ctor1.md) |  Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service 
+| [YammerUser()](OfficeDevPnP.Core.Entities.YammerUser.ctor1.md) | <summary> Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

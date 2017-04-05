@@ -12,5 +12,5 @@ public string Name { get; set; }
 Type: System.String  
 
 ## See also
-- [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md) 

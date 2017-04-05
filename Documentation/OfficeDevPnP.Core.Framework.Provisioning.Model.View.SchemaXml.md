@@ -12,5 +12,5 @@ public string SchemaXml { get; set; }
 Type: System.String  
 
 ## See also
-- [View](OfficeDevPnP.Core.Framework.Provisioning.Model.View.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [View](OfficeDevPnP.Core.Framework.Provisioning.Model.View.md) 

@@ -1,5 +1,5 @@
 # ClientObjectExtensions.ToUntypedPropertyExpression Method  
-Converts generic  Expression<Func<TInput, TOutput>>  to Expression with object return type -  Expression<Func<TInput, object>>  
+Converts generic Expression<Func<TInput, TOutput>> to Expression with object return type - Expression<Func<TInput, object>>  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -9,11 +9,10 @@ public static expression<func<tinput, object>> ToUntypedPropertyExpression(Expre
 ```
 ### Parameters
 *expression*  
-&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<TInput,TOutput>>  
+&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<TInput, TOutput>>  
 &emsp;&emsp; to convert   
-  
 ### Return Value
-Type: System.Linq.Expressions.Expression<System.Func<TInput,System.Object>>  
+Type: System.Linq.Expressions.Expression<System.Func<TInput, System.Object>>  
 New Expression where return type is object and not generic
 
 ## See also

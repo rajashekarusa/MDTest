@@ -1,5 +1,5 @@
 # ClientSideText.ToHtml Method  
-  
+ Converts this OfficeDevPnP.Core.Pages.ClientSideText control to it's html representation   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

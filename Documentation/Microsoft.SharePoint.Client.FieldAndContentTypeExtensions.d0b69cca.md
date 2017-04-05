@@ -10,12 +10,8 @@ public static void RemoveFieldByInternalName(Web web, String internalName)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp;  
-  
 *internalName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

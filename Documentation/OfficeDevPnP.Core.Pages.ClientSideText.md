@@ -13,7 +13,7 @@ public class ClientSideText: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.ctor1.md) |  Controls of type 4 ( = text control) 
+| [ClientSideText()](OfficeDevPnP.Core.Pages.ClientSideText.ctor1.md) | <summary> Controls of type 4 ( = text control) </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,6 +23,7 @@ public class ClientSideText: CanvasControl
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.7c2b006f.md) | 
+| [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideText.7c2b006f.md) |  Converts this OfficeDevPnP.Core.Pages.ClientSideText control to it's html representation 
 ## See also
+- [T:OfficeDevPnP.Core.Pages.ClientSideText](T:OfficeDevPnP.Core.Pages.ClientSideText.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

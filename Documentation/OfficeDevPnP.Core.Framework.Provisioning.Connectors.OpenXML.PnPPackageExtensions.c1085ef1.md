@@ -1,4 +1,6 @@
 # PnPPackageExtensions.AsInternalFilename Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public static string AsInternalFilename(String filename)
 ### Parameters
 *filename*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

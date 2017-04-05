@@ -1,4 +1,6 @@
 # ITreeNodeAware.Properties Node
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public TreeNode Node { get; set; }
 Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNode  
 
 ## See also
-- [ITreeNodeAware](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeAware.md) 
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
+- [ITreeNodeAware](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeAware.md) 

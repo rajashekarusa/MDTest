@@ -1,4 +1,6 @@
 # YammerUser.Properties show_ask_for_photo
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean show_ask_for_photo { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 

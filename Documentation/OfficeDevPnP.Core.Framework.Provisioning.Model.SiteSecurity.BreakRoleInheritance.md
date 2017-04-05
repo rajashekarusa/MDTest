@@ -12,5 +12,5 @@ public boolean BreakRoleInheritance { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 

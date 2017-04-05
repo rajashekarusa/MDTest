@@ -11,15 +11,12 @@ public static void AddUserToGroup(Web web, Group group, String userLoginName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
-  
 *group*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group object representing the group  
-  
 *userLoginName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Login name of the user  
-  
 ### Return Value
 Type: System.Void  
 

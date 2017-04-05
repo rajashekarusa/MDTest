@@ -11,23 +11,18 @@ public static void AddContentTypeToListById(Web web, String listTitle, String co
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 *listTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list  
-  
 *contentTypeId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
-  
 *(optional) defaultContent*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this the default content type  
-  
 *(optional) searchContentTypeInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;search for content type in site hierarchy  
-  
 ### Return Value
 Type: System.Void  
 

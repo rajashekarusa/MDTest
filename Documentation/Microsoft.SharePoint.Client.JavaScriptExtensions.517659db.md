@@ -11,19 +11,14 @@ public static boolean AddJsBlock(Site site, String key, String scriptBlock, Int3
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
-  
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
-  
 *scriptBlock*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Javascript to be injected  
-  
 *(optional) sequence*  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Boolean  
 True if action was ok

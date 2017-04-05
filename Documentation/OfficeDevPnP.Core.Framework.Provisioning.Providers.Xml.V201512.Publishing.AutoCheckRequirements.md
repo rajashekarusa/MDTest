@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingA
 ## Remarks 
 
 ## See also
-- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.md) 

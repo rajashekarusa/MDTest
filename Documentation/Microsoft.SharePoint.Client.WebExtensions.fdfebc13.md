@@ -11,15 +11,11 @@ public static nullable<datetime> GetPropertyBagValueDateTime(Web web, String key
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to read the property bag value from  
-  
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to return  
-  
 *defaultValue*  
 &emsp;&emsp;Type: System.DateTime  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Nullable<System.DateTime>  
 Value of the property bag entry as integer

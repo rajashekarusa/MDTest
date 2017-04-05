@@ -12,5 +12,5 @@ public string TemplateName { get; set; }
 Type: System.String  
 
 ## See also
-- [AvailableWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [AvailableWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.md) 

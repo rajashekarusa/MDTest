@@ -12,4 +12,5 @@ Type: System.String
 HTML representation of the client side web part
 
 ## See also
+- [T:OfficeDevPnP.Core.Pages.ClientSidePage](T:OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

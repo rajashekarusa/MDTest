@@ -11,11 +11,9 @@ public static void SetDefaultContentTypeToList(List list, ContentType contentTyp
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
-  
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to make default  
-  
 ### Return Value
 Type: System.Void  
 

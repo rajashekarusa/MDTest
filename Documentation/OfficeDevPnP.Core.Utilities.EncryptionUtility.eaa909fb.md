@@ -11,7 +11,6 @@ public static securestring DecryptStringWithDPAPI(String encryptedData)
 *encryptedData*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Encrypted string  
-  
 ### Return Value
 Type: System.Security.SecureString  
 Decrypted (SecureString)string

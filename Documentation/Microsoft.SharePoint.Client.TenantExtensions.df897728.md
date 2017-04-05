@@ -11,11 +11,9 @@ public static boolean IsSiteActive(Tenant tenant, String siteFullUrl)
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
-  
 *siteFullUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL to the site collection  
-  
 ### Return Value
 Type: System.Boolean  
 True if active, false if not

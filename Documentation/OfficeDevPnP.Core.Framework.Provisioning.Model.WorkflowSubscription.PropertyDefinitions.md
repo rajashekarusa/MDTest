@@ -9,8 +9,8 @@ public dictionary<string, string> PropertyDefinitions { get; }
 ```
 
 ### Property Value
-Type: System.Collections.Generic.Dictionary<System.String,System.String>  
+Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 
 ## See also
-- [WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md) 

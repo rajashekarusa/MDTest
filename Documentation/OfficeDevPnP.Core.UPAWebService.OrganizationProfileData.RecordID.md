@@ -14,5 +14,5 @@ Type: System.Int64
 ## Remarks 
 
 ## See also
-- [OrganizationProfileData](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [OrganizationProfileData](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData.md) 

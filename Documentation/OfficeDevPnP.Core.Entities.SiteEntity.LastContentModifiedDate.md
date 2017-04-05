@@ -12,5 +12,5 @@ public datetime LastContentModifiedDate { get; set; }
 Type: System.DateTime  
 
 ## See also
-- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 

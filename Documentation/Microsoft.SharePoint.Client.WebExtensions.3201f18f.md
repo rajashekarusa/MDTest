@@ -1,6 +1,5 @@
 # WebExtensions.GetAllWebUrls Method  
-Gets the collection of the URLs of all Web sites that are contained within the site collection, 
-            including the top-level site and its subsites.  
+Gets the collection of the URLs of all Web sites that are contained within the site collection, including the top-level site and its subsites.  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,7 +11,6 @@ public static ienumerable<string> GetAllWebUrls(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to retrieve the URLs for.  
-  
 ### Return Value
 Type: System.Collections.Generic.IEnumerable<System.String>  
 An enumeration containing the full URLs as strings.

@@ -11,7 +11,6 @@ public static ienumerable<variationlabelentity> GetVariationLabels(ClientContext
 *context*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
-  
 ### Return Value
 Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.VariationLabelEntity>  
 Collection of VariationLabelEntity objects

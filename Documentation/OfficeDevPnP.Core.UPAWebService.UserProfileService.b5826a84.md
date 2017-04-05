@@ -10,8 +10,6 @@ public string GetProfileSchemaNameByAccountName(String accountName)
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

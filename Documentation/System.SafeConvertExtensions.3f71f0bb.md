@@ -11,11 +11,9 @@ public static boolean ToBoolean(String input, Boolean defaultValue)
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
-  
 *defaultValue*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;A default value to return for a null input value.  
-  
 ### Return Value
 Type: System.Boolean  
 

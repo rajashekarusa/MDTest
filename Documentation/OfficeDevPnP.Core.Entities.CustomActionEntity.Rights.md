@@ -12,5 +12,5 @@ public BasePermissions Rights { get; set; }
 Type: Microsoft.SharePoint.Client.BasePermissions  
 
 ## See also
-- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 

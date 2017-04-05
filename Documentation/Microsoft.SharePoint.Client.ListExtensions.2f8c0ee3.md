@@ -11,17 +11,14 @@ public static void SetJSLinkCustomizations(List list, PageType pageType, String 
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;SharePoint list  
-  
 *pageType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.PageType  
 &emsp;&emsp;Type of form  
-  
 *jslink*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;JSLink to set to the form. Set to empty string to remove the set JSLink customization.
             Specify multiple values separated by pipe symbol. For e.g.: ~sitecollection/_catalogs/masterpage/jquery-2.1.0.min.js|~sitecollection/_catalogs/masterpage/custom.js
               
-  
 ### Return Value
 Type: System.Void  
 

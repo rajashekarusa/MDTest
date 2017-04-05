@@ -10,12 +10,8 @@ public static WorkflowSubscription GetWorkflowSubscription(List list, String nam
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
-&emsp;&emsp;  
-  
 *name*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
 

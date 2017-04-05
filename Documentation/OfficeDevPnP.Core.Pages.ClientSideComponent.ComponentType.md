@@ -1,4 +1,6 @@
 # ClientSideComponent.Properties ComponentType
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public int ComponentType { get; set; }
 Type: System.Int32  
 
 ## See also
-- [ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md) 

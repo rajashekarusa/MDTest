@@ -12,5 +12,5 @@ public list<string> AllowedContentTypes { get; }
 Type: System.Collections.Generic.List<System.String>  
 
 ## See also
-- [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md) 

@@ -13,7 +13,7 @@ public class Features: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.ctor1.md) |  Domain Object that is used in the Site Template for OOB Features 
+| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.ctor1.md) | <summary> Domain Object that is used in the Site Template for OOB Features </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

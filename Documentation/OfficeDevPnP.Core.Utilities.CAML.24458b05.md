@@ -1,4 +1,6 @@
 # CAML.IsNotNull Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public static string IsNotNull(String fieldValue)
 ### Parameters
 *fieldValue*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

@@ -12,5 +12,5 @@ public int WebPartIndex { get; set; }
 Type: System.Int32  
 
 ## See also
-- [WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 

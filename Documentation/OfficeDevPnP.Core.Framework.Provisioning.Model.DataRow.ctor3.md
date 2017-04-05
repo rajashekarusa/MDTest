@@ -1,4 +1,6 @@
 # DataRow.DataRow members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,11 +8,9 @@
 public DataRow(Dictionary<String, String> values, ObjectSecurity security)
 ```
 ### Parameters
-#### values
-&emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String,System.String>  
-#### 
-#### security
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
-#### 
+#### values  
+&emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String, System.String>  
+#### security  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

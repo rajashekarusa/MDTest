@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinit
 ## Remarks 
 
 ## See also
-- [SecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SecurityPermissions.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
+- [SecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SecurityPermissions.md) 

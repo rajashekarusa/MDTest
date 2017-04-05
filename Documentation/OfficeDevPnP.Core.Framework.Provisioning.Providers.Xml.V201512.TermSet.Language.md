@@ -14,5 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.md) 

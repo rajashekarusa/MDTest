@@ -1,4 +1,6 @@
 # CertificateWSTrustBinding.Properties ClientCredentialType
+  
+
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public httpclientcredentialtype ClientCredentialType { get; set; }
 Type: System.ServiceModel.HttpClientCredentialType  
 
 ## See also
-- [CertificateWSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.md) 
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)
+- [CertificateWSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.md) 

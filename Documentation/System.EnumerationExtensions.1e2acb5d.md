@@ -10,12 +10,8 @@ public static T Remove(Enum value, T remove)
 ### Parameters
 *value*  
 &emsp;&emsp;Type: System.Enum  
-&emsp;&emsp;  
-  
 *remove*  
 &emsp;&emsp;Type: T  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: T  
 

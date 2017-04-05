@@ -12,5 +12,5 @@ public string RoleDefinition { get; set; }
 Type: System.String  
 
 ## See also
-- [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md) 

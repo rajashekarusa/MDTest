@@ -13,7 +13,7 @@ public class AddIn: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddIn()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.ctor1.md) |  Defines an Add-in to provision 
+| [AddIn()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.ctor1.md) | <summary> Defines an Add-in to provision </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

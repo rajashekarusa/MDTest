@@ -1,4 +1,6 @@
 # Term.Properties Terms
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public TermCollection Terms { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.md)  
 
 ## See also
-- [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 

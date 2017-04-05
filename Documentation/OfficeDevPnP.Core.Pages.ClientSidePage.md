@@ -13,8 +13,8 @@ public class ClientSidePage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSidePage()](OfficeDevPnP.Core.Pages.ClientSidePage.ctor1.md) |  Represents a modern client side page with all it's contents 
-| [ClientSidePage(ClientContext)](OfficeDevPnP.Core.Pages.ClientSidePage.ctor2.md) |  Represents a modern client side page with all it's contents 
+| [ClientSidePage()](OfficeDevPnP.Core.Pages.ClientSidePage.ctor1.md) | <summary> Represents a modern client side page with all it's contents </summary>
+| [ClientSidePage(ClientContext)](OfficeDevPnP.Core.Pages.ClientSidePage.ctor2.md) | <summary> Represents a modern client side page with all it's contents </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

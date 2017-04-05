@@ -11,7 +11,6 @@ public static datetime GetSiteCloseDate(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
-  
 ### Return Value
 Type: System.DateTime  
 DateTime value holding the closure date, DateTime.MinValue in case there was no policy applied

@@ -10,8 +10,6 @@ public PropertyInfo[] GetProfileSchema(String schemaName)
 ### Parameters
 *schemaName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: OfficeDevPnP.Core.UPAWebService.PropertyInfo[]  
 

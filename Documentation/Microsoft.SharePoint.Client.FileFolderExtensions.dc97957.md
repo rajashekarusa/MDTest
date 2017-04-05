@@ -1,4 +1,6 @@
 # FileFolderExtensions.SetFileProperties Method  
+  
+
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,16 +10,10 @@ public static void SetFileProperties(File file, IDictionary<String, String> prop
 ### Parameters
 *file*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
-&emsp;&emsp;  
-  
 *properties*  
-&emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String,System.String>  
-&emsp;&emsp;  
-  
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String, System.String>  
 *(optional) checkoutIfRequired*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

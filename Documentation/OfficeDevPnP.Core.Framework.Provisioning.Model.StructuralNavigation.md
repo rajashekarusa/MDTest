@@ -13,7 +13,7 @@ public class StructuralNavigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.ctor1.md) |  Defines the Structural Navigation settings of a site 
+| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.ctor1.md) | <summary> Defines the Structural Navigation settings of a site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

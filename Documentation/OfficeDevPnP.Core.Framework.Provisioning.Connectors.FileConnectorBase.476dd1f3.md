@@ -11,11 +11,9 @@ public void DeleteFile(String fileName, String container)
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to delete  
-  
 *container*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to delete the file from  
-  
 ### Return Value
 Type: System.Void  
 

@@ -11,19 +11,15 @@ public static void UpdateListVersioning(List list, Boolean enableVersioning, Boo
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
-  
 *enableVersioning*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to enable versioning, false to disable  
-  
 *(optional) enableMinorVersioning*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Enable/Disable minor versioning  
-  
 *(optional) updateAndExecuteQuery*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Perform list update and executequery, defaults to true  
-  
 ### Return Value
 Type: System.Void  
 

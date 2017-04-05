@@ -1,4 +1,6 @@
 # YammerUser.Properties department
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string department { get; set; }
 Type: System.String  
 
 ## See also
-- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 

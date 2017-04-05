@@ -11,11 +11,9 @@ public static boolean FieldExistsByName(List list, String fieldName)
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
-  
 *fieldName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Internal name of the field  
-  
 ### Return Value
 Type: System.Boolean  
 True if the fields exists, false otherwise

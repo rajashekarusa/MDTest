@@ -13,7 +13,7 @@ public class AvailableWebTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) |  Defines an available Web Template for the current Publishing site 
+| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) | <summary> Defines an available Web Template for the current Publishing site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

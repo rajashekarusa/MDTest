@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationN
 ## Remarks 
 
 ## See also
-- [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
+- [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation.md) 

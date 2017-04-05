@@ -13,6 +13,6 @@ public class TermLabelCollection: ProvisioningTemplateCollection<TermLabel>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermLabelCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection.ctor1.md) |  Collection of TermLabel objects 
+| [TermLabelCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabelCollection.ctor1.md) | <summary> Collection of TermLabel objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

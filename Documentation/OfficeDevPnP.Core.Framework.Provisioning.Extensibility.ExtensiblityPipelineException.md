@@ -1,6 +1,5 @@
 # ExtensiblityPipelineException
-Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there 
-            is an exception invoking a custom Extensibility Providers  
+Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -14,8 +13,8 @@ public class ExtensiblityPipelineException: Exception
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensiblityPipelineException()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor1.md) |  Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers 
-| [ExtensiblityPipelineException(String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor2.md) |  Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers 
-| [ExtensiblityPipelineException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor3.md) |  Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers 
+| [ExtensiblityPipelineException()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor1.md) | <summary> Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers </summary>
+| [ExtensiblityPipelineException(String)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor2.md) | <summary> Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers </summary>
+| [ExtensiblityPipelineException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.ctor3.md) | <summary> Initializes a new instance of the ExtensiblityPipelineException class. This Exception occurs when there is an exception invoking a custom Extensibility Providers </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

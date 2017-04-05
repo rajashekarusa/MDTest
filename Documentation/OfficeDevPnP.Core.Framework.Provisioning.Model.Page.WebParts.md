@@ -1,4 +1,6 @@
 # Page.Properties WebParts
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public WebPartCollection WebParts { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection.md)  
 
 ## See also
-- [Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md) 

@@ -14,5 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [TermLabelsLabel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermLabelsLabel.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [TermLabelsLabel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermLabelsLabel.md) 

@@ -13,6 +13,6 @@ public class PageCollection: ProvisioningTemplateCollection<Page>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.ctor1.md) |  Collection of Page objects 
+| [PageCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.ctor1.md) | <summary> Collection of Page objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

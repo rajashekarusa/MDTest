@@ -11,11 +11,8 @@ public static YammerGroup GetYammerGroupByName(String groupName, String accessTo
 *groupName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Group name to search for  
-  
 *accessToken*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.Entities.YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md)  
 Returns Yammer Group is group exists. If group does not exists, returns null.

@@ -1,4 +1,6 @@
 # YammerUser.Properties follow_general_messages
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean follow_general_messages { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 

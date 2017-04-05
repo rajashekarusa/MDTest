@@ -1,4 +1,6 @@
 # TimerJob.TimerJob members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,8 +8,7 @@
 public TimerJob(String name)
 ```
 ### Parameters
-#### name
+#### name  
 &emsp;&emsp;Type: System.String  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

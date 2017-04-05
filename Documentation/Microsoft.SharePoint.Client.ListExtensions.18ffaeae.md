@@ -11,11 +11,9 @@ public static boolean ListExists(Web web, Uri siteRelativeUrlPath)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 *siteRelativeUrlPath*  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site relative path of the list  
-  
 ### Return Value
 Type: System.Boolean  
 True if the list exists

@@ -13,6 +13,6 @@ public class CustomActionCollection: ProvisioningTemplateCollection<CustomAction
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.ctor1.md) |  Collection of CustomAction objects 
+| [CustomActionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.ctor1.md) | <summary> Collection of CustomAction objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

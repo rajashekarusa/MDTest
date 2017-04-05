@@ -12,5 +12,5 @@ public GlobalNavigationType NavigationType { get; set; }
 Type: OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType  
 
 ## See also
-- [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md) 

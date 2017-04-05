@@ -1,6 +1,5 @@
 # WebAPIHelper.AddToCache Method  
-Uses the information regarding the requesting app to obtain an access token and caches that using the cachekey.
-            This method is called from the Register WebAPI service api.  
+Uses the information regarding the requesting app to obtain an access token and caches that using the cachekey. This method is called from the Register WebAPI service api.  
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,7 +11,6 @@ public static void AddToCache(WebAPIContext sharePointServiceContext)
 *sharePointServiceContext*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md)  
 &emsp;&emsp;Object holding information about the requesting SharePoint app  
-  
 ### Return Value
 Type: System.Void  
 

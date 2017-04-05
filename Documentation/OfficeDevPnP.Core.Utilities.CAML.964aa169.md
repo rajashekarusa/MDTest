@@ -1,4 +1,6 @@
 # CAML.Today Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public static string Today(Nullable<Int32> offset)
 ### Parameters
 *(optional) offset*  
 &emsp;&emsp;Type: System.Nullable<System.Int32>  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

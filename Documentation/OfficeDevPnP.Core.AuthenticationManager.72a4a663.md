@@ -11,27 +11,21 @@ public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String realm
 *siteUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
-  
 *realm*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Realm of the environment (tenant) that requests the ClientContext object  
-  
 *appId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Application ID which is requesting the ClientContext object  
-  
 *appSecret*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Application secret of the Application which is requesting the ClientContext object  
-  
 *(optional) acsHostUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Azure ACS host, defaults to accesscontrol.windows.net but internal pre-production environments use other hosts  
-  
 *(optional) globalEndPointPrefix*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Azure ACS endpoint prefix, defaults to accounts but internal pre-production environments use other prefixes  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ClientContext  
 ClientContext to be used by CSOM code

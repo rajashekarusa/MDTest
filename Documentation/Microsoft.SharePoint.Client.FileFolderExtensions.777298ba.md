@@ -11,11 +11,9 @@ public static void CheckOutFile(Web web, String serverRelativeUrl)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
-  
 *serverRelativeUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The server relative url of the file to checkout  
-  
 ### Return Value
 Type: System.Void  
 

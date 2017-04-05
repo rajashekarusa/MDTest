@@ -13,7 +13,7 @@ public class ClientSideTextControlData: ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideTextControlData()](OfficeDevPnP.Core.Pages.ClientSideTextControlData.ctor1.md) |  Control data for controls of type 4 (= text control) 
+| [ClientSideTextControlData()](OfficeDevPnP.Core.Pages.ClientSideTextControlData.ctor1.md) | <summary> Control data for controls of type 4 (= text control) </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,5 +12,5 @@ public static ITemplateFormatter LatestFormatter { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
 
 ## See also
-- [XMLPnPSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
+- [XMLPnPSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.md) 

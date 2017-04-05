@@ -1,4 +1,6 @@
 # ClientSideWebPartData.Properties Properties
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string Properties { get; set; }
 Type: System.String  
 
 ## See also
-- [ClientSideWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPartData.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPartData.md) 

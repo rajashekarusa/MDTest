@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermSetItem.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
+- [TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermSetItem.md) 

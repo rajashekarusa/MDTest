@@ -12,5 +12,5 @@ public WorkflowDefinitionCollection WorkflowDefinitions { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.md)  
 
 ## See also
-- [Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 

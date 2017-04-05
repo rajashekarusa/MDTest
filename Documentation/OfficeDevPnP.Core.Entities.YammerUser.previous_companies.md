@@ -1,4 +1,6 @@
 # YammerUser.Properties previous_companies
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ilist<object> previous_companies { get; set; }
 Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
-- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 

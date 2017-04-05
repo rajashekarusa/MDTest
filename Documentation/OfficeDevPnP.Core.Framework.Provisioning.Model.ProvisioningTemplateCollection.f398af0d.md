@@ -11,7 +11,6 @@ public T Find(Predicate match)
 *match*  
 &emsp;&emsp;Type: System.Predicate  
 &emsp;&emsp;The matching predicate to use for finding any target item  
-  
 ### Return Value
 Type: T  
 The target item matching the find predicate

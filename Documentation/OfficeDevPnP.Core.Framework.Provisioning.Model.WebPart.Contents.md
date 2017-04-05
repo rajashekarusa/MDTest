@@ -1,4 +1,6 @@
 # WebPart.Properties Contents
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string Contents { get; set; }
 Type: System.String  
 
 ## See also
-- [WebPart](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [WebPart](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.md) 

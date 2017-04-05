@@ -1,4 +1,6 @@
 # Directory.Directory members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,32 +8,23 @@
 public Directory(String src, String folder, Boolean overwrite, FileLevel level, Boolean recursive, String includeExtensions, String excludeExtensions, String metadataMappingFile, ObjectSecurity security)
 ```
 ### Parameters
-#### src
+#### src  
 &emsp;&emsp;Type: System.String  
-#### 
-#### folder
+#### folder  
 &emsp;&emsp;Type: System.String  
-#### 
-#### overwrite
+#### overwrite  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### (optional) level
+#### (optional) level  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel](OfficeDevPnP.Core.Framework.Provisioning.Model.FileLevel.md)  
-#### 
-#### (optional) recursive
+#### (optional) recursive  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### (optional) includeExtensions
+#### (optional) includeExtensions  
 &emsp;&emsp;Type: System.String  
-#### 
-#### (optional) excludeExtensions
+#### (optional) excludeExtensions  
 &emsp;&emsp;Type: System.String  
-#### 
-#### (optional) metadataMappingFile
+#### (optional) metadataMappingFile  
 &emsp;&emsp;Type: System.String  
-#### 
-#### (optional) security
-&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
-#### 
+#### (optional) security  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

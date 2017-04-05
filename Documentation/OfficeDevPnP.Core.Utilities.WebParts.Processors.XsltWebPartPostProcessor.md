@@ -1,6 +1,5 @@
 # XsltWebPartPostProcessor
-Updates view for XsltListViewWebPart using schema definition provided
-            Instead of using default view for XsltListViewWebPart, it tries to resolve view from schema and updates hidden view created by XsltListViewWebPart  
+Updates view for XsltListViewWebPart using schema definition provided Instead of using default view for XsltListViewWebPart, it tries to resolve view from schema and updates hidden view created by XsltListViewWebPart  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -14,7 +13,7 @@ public class XsltWebPartPostProcessor
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XsltWebPartPostProcessor(WebPart)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.ctor1.md) |  Updates view for XsltListViewWebPart using schema definition provided Instead of using default view for XsltListViewWebPart, it tries to resolve view from schema and updates hidden view created by XsltListViewWebPart 
+| [XsltWebPartPostProcessor(WebPart)](OfficeDevPnP.Core.Utilities.WebParts.Processors.XsltWebPartPostProcessor.ctor1.md) | <summary> Updates view for XsltListViewWebPart using schema definition provided Instead of using default view for XsltListViewWebPart, it tries to resolve view from schema and updates hidden view created by XsltListViewWebPart </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -13,9 +13,9 @@ public class WebSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor1.md) |  Domain Object used in the Provisioning template that defines a Section of Settings for the current Web Site 
-| [WebSettings(Boolean, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor2.md) |  Domain Object used in the Provisioning template that defines a Section of Settings for the current Web Site 
-| [WebSettings(Boolean, String, String, String, String, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor3.md) |  Domain Object used in the Provisioning template that defines a Section of Settings for the current Web Site 
+| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor1.md) | <summary> Domain Object used in the Provisioning template that defines a Section of Settings for the current Web Site </summary>
+| [WebSettings(Boolean, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor2.md) | <summary> Domain Object used in the Provisioning template that defines a Section of Settings for the current Web Site </summary>
+| [WebSettings(Boolean, String, String, String, String, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.ctor3.md) | <summary> Domain Object used in the Provisioning template that defines a Section of Settings for the current Web Site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

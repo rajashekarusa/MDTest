@@ -16,5 +16,5 @@ Type: System.String
             Possible values are: CorporateCatalog, DeveloperSite, InvalidSource, Marketplace, ObjectModel, RemoteObjectModel
             
 ## See also
-- [AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md) 

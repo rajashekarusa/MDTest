@@ -10,16 +10,10 @@ public static YammerGroup CreateYammerGroup(String groupName, Boolean isPrivate,
 ### Parameters
 *groupName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *isPrivate*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *accessToken*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.Entities.YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md)  
 

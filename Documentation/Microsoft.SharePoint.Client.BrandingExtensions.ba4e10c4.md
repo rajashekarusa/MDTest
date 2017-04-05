@@ -10,16 +10,10 @@ public static void SetMasterPagesByName(Web web, String masterPageName, String c
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp;  
-  
 *masterPageName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *customMasterPageName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

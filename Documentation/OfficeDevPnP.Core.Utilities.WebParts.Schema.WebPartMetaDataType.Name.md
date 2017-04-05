@@ -1,5 +1,5 @@
 # WebPartMetaDataType.Properties Name
-  
+<summary></summary>  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Name { get; set; }
 Type: System.String  
 
 ## See also
-- [WebPartMetaDataType](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
+- [WebPartMetaDataType](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.md) 

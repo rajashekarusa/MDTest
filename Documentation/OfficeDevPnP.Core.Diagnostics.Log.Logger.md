@@ -1,4 +1,6 @@
 # Log.Properties Logger
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public static ILogger Logger { get; set; }
 Type: [OfficeDevPnP.Core.Diagnostics.ILogger](OfficeDevPnP.Core.Diagnostics.ILogger.md)  
 
 ## See also
-- [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 

@@ -11,7 +11,6 @@ public void DeleteProperty(String propertyKey)
 *propertyKey*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the property to delete  
-  
 ### Return Value
 Type: System.Void  
 

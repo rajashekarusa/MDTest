@@ -10,20 +10,12 @@ public void RemoveMembershipAsync(String accountName, Guid sourceInternal, Strin
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *sourceInternal*  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp;  
-  
 *sourceReference*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *userState*  
 &emsp;&emsp;Type: System.Object  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

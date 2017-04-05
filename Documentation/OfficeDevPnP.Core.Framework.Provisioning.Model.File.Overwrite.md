@@ -12,5 +12,5 @@ public boolean Overwrite { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 

@@ -49,4 +49,6 @@ public static class SecurityExtensions
 | [RemoveUserFromGroup(Web, String, String)](Microsoft.SharePoint.Client.SecurityExtensions.ec40d40c.md) | Removes a user from a group
 | [RemoveUserFromGroup(Web, Group, User)](Microsoft.SharePoint.Client.SecurityExtensions.138472c.md) | Removes a user from a group
 ## See also
+- [T:OfficeDevPnP.Core.Entities.UserEntity](T:OfficeDevPnP.Core.Entities.UserEntity.md)
+- [T:OfficeDevPnP.Core.Entities.ExternalUserEntity](T:OfficeDevPnP.Core.Entities.ExternalUserEntity.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

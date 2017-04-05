@@ -13,7 +13,7 @@ public class VariationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.ctor1.md) |  Class containing variation configuration information 
+| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.ctor1.md) | <summary> Class containing variation configuration information </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

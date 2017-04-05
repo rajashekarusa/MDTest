@@ -1,6 +1,5 @@
 # TimeZone  enumeration
-Timezones to use when creating sitecollections
-            Format UTC[PLUS|MINUS][HH:MM]_[DESCRIPTION]  
+Timezones to use when creating sitecollections Format UTC[PLUS|MINUS][HH:MM]_[DESCRIPTION]  
 
 **Namespace:** [OfficeDevPnP.Core.Enums](OfficeDevPnP.Core.Enums.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

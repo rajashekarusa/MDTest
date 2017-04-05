@@ -1,4 +1,6 @@
 # NavigationNode.Properties ChildNodes
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public NavigationNode[] ChildNodes { get; set; }
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[]  
 
 ## See also
-- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
+- [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.md) 

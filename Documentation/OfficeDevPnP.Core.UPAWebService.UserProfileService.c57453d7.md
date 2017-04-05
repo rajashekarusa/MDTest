@@ -10,16 +10,10 @@ public void RemoveColleagueAsync(String accountName, String colleagueAccountName
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *colleagueAccountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *userState*  
 &emsp;&emsp;Type: System.Object  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

@@ -12,5 +12,5 @@ public string TenantAdminSite { get; set; }
 Type: System.String  
 
 ## See also
-- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 

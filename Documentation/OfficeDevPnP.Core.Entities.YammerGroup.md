@@ -1,6 +1,5 @@
 # YammerGroup
-Represents Yammer Group information
-            Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service  
+Represents Yammer Group information Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service  
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -14,7 +13,7 @@ public class YammerGroup
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerGroup()](OfficeDevPnP.Core.Entities.YammerGroup.ctor1.md) |  Represents Yammer Group information Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service 
+| [YammerGroup()](OfficeDevPnP.Core.Entities.YammerGroup.ctor1.md) | <summary> Represents Yammer Group information Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

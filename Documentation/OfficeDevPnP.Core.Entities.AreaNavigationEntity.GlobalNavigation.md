@@ -12,5 +12,5 @@ public StructuralNavigationEntity GlobalNavigation { get; set; }
 Type: [OfficeDevPnP.Core.Entities.StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md)  
 
 ## See also
-- [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 

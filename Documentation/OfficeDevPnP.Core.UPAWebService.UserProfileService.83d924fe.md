@@ -1,4 +1,6 @@
 # UserProfileService.remove_GetProfileSchemaCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void remove_GetProfileSchemaCompleted(GetProfileSchemaCompletedEventHandl
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

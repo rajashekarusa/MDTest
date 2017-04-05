@@ -13,7 +13,7 @@ public class PnPFileInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.ctor1.md) |  File descriptor for every single file in the PnP OpenXML file 
+| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.ctor1.md) | <summary> File descriptor for every single file in the PnP OpenXML file </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

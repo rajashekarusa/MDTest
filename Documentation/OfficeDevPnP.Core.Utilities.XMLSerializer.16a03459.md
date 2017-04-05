@@ -10,12 +10,8 @@ public static stream SerializeToStream(T objectToSerialize, XmlSerializerNamespa
 ### Parameters
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
-&emsp;&emsp;  
-  
 *ns*  
 &emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.IO.Stream  
 An string that represents the serialized object.

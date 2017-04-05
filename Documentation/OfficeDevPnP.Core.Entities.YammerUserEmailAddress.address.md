@@ -1,4 +1,6 @@
 # YammerUserEmailAddress.Properties address
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string address { get; set; }
 Type: System.String  
 
 ## See also
-- [YammerUserEmailAddress](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserEmailAddress](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.md) 

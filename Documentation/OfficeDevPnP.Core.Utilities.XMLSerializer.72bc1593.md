@@ -10,12 +10,8 @@ public static string Serialize(T objectToSerialize, XmlSerializerNamespaces ns)
 ### Parameters
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
-&emsp;&emsp;  
-  
 *ns*  
 &emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 An string that represents the serialized object.

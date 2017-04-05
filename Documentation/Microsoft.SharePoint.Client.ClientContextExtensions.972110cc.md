@@ -10,12 +10,8 @@ public static boolean HasMinimalServerLibraryVersion(ClientRuntimeContext client
 ### Parameters
 *clientContext*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
-&emsp;&emsp;  
-  
 *minimallyRequiredVersion*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Boolean  
 

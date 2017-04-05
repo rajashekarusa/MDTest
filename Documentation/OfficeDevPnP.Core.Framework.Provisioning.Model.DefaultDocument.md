@@ -13,7 +13,7 @@ public class DefaultDocument: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) |  A default document for a Document Set 
+| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) | <summary> A default document for a Document Set </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

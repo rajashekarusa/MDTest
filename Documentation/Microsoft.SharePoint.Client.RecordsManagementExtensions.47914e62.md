@@ -11,11 +11,9 @@ public static void SetRecordDeclarationBy(Site site, EcmRecordDeclarationBy by)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
-  
 *by*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)  
 &emsp;&emsp; enum that defines who can declare a record  
-  
 ### Return Value
 Type: System.Void  
 

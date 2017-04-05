@@ -1,4 +1,6 @@
 # CAML.And Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,12 +10,8 @@ public static string And(String clause1, String[] conditionClauses)
 ### Parameters
 *clause1*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *conditionClauses*  
 &emsp;&emsp;Type: System.String[]  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

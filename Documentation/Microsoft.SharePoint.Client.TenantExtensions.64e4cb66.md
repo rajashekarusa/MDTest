@@ -11,11 +11,9 @@ public static guid GetSiteGuidByUrl(Tenant tenant, Uri siteFullUrl)
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
-  
 *siteFullUrl*  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;A URL that specifies a site collection to get ID.  
-  
 ### Return Value
 Type: System.Guid  
 The Guid of a site collection or an Guid.Empty if the Site does not exist

@@ -1,5 +1,5 @@
 # WebParts
-  
+<summary></summary>  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,10 +13,10 @@ public class WebParts
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebParts()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebParts.ctor1.md) | 
+| [WebParts()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebParts.ctor1.md) | <summary></summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebParts.WebPart.md) | 
+| [WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebParts.WebPart.md) | <summary></summary>
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

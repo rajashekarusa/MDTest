@@ -10,12 +10,9 @@ public void SetEnumerationCredentials(String userUPN, String password)
 ### Parameters
 *userUPN*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *password*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Password of the enumeration user  
-  
 ### Return Value
 Type: System.Void  
 

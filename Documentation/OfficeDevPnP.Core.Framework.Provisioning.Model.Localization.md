@@ -13,8 +13,8 @@ public class Localization: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Localization()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor1.md) |  Domain Object used in the Provisioning template that defines a Localization item 
-| [Localization(Int32, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor2.md) |  Domain Object used in the Provisioning template that defines a Localization item 
+| [Localization()](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor1.md) | <summary> Domain Object used in the Provisioning template that defines a Localization item </summary>
+| [Localization(Int32, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.ctor2.md) | <summary> Domain Object used in the Provisioning template that defines a Localization item </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,5 +12,5 @@ public AuditMaskType AuditFlags { get; set; }
 Type: Microsoft.SharePoint.Client.AuditMaskType  
 
 ## See also
-- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md) 

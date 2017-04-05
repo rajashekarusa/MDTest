@@ -11,11 +11,9 @@ public static ThemeEntity GetComposedLook(Web web, String composedLookName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
-  
 *composedLookName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look to retrieve  
-  
 ### Return Value
 Type: [OfficeDevPnP.Core.Entities.ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md)  
 Entity with the attributes of the composed look, or null if the composed look does not exists or cannot be determined

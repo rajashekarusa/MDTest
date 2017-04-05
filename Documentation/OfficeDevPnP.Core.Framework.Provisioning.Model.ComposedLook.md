@@ -13,7 +13,7 @@ public class ComposedLook: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) |  Domain Object that defines a Composed Look in the Provision Template 
+| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) | <summary> Domain Object that defines a Composed Look in the Provision Template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

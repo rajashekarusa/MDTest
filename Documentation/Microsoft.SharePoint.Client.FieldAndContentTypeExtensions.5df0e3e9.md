@@ -11,11 +11,9 @@ public static ContentType CreateContentTypeFromXMLString(Web web, String xmlStru
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
-  
 *xmlStructure*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;XML structure in string format  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ContentType  
 

@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Preferences
 ## Remarks 
 
 ## See also
-- [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Preferences.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)
+- [Preferences](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Preferences.md) 

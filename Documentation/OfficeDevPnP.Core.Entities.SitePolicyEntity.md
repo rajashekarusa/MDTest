@@ -13,7 +13,7 @@ public class SitePolicyEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SitePolicyEntity()](OfficeDevPnP.Core.Entities.SitePolicyEntity.ctor1.md) |  Properties of a site policy object 
+| [SitePolicyEntity()](OfficeDevPnP.Core.Entities.SitePolicyEntity.ctor1.md) | <summary> Properties of a site policy object </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

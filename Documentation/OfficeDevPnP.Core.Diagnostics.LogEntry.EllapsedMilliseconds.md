@@ -1,4 +1,6 @@
 # LogEntry.Properties EllapsedMilliseconds
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public long EllapsedMilliseconds { get; set; }
 Type: System.Int64  
 
 ## See also
-- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 

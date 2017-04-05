@@ -10,16 +10,10 @@ public static WorkflowDefinition GetWorkflowDefinition(Web web, String displayNa
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp;  
-  
 *displayName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *(optional) publishedOnly*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
 

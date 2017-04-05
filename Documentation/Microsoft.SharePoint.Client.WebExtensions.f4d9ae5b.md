@@ -11,11 +11,9 @@ public static Web GetWeb(Web parentWeb, String leafUrl)
 *parentWeb*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web site to check under  
-  
 *leafUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.Web  
 The requested Web, if it exists, otherwise null.

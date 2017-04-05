@@ -11,7 +11,6 @@ public static T Deserialize(String json)
 *json*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;json string  
-  
 ### Return Value
 Type: T  
 Object of type T

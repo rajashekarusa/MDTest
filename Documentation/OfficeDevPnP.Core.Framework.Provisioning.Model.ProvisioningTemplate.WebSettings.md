@@ -12,5 +12,5 @@ public WebSettings WebSettings { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md)  
 
 ## See also
-- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 

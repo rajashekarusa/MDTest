@@ -13,8 +13,8 @@ public class Navigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) |  The Navigation configurations of the Provisioning Template 
-| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) |  The Navigation configurations of the Provisioning Template 
+| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) | <summary> The Navigation configurations of the Provisioning Template </summary>
+| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) | <summary> The Navigation configurations of the Provisioning Template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

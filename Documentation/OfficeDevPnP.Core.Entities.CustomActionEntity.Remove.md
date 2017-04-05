@@ -12,5 +12,5 @@ public boolean Remove { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 

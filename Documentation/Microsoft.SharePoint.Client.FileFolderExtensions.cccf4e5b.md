@@ -11,11 +11,9 @@ public static string GetFileAsString(Web web, String serverRelativeUrl)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web to process  
-  
 *serverRelativeUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The server relative url to the file  
-  
 ### Return Value
 Type: System.String  
 The file contents as a string

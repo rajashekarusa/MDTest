@@ -1,4 +1,6 @@
 # YammerGroupStats.Properties last_message_id
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public nullable<int32> last_message_id { get; set; }
 Type: System.Nullable<System.Int32>  
 
 ## See also
-- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 

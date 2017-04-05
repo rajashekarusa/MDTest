@@ -11,23 +11,17 @@ public static void SetWebPartProperty(Web web, String key, String value, Guid id
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
-  
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to update  
-  
 *value*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The value to set  
-  
 *id*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the webpart  
-  
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

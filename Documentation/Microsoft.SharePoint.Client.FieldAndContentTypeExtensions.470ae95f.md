@@ -11,11 +11,9 @@ public static boolean FieldExistsByNameInContentType(ContentType contentType, St
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;The content type to check  
-  
 *fieldName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the field to look for  
-  
 ### Return Value
 Type: System.Boolean  
 True if field exists in content type, otherwise false

@@ -1,4 +1,6 @@
 # SiteEntity.Properties LockState
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public SiteLockState LockState { get; set; }
 Type: OfficeDevPnP.Core.SiteLockState  
 
 ## See also
-- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 

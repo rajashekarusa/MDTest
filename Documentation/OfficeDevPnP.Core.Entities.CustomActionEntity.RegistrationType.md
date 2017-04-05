@@ -12,5 +12,5 @@ public nullable<usercustomactionregistrationtype> RegistrationType { get; set; }
 Type: System.Nullable<Microsoft.SharePoint.Client.UserCustomActionRegistrationType>  
 
 ## See also
-- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 

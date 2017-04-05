@@ -1,4 +1,6 @@
 # PropertyBagEntry.Properties Indexed
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public boolean Indexed { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.md) 

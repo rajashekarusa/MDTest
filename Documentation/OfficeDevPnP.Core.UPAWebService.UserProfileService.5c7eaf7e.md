@@ -1,4 +1,6 @@
 # UserProfileService.add_GetUserProfileByNameCompleted Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public void add_GetUserProfileByNameCompleted(GetUserProfileByNameCompletedEvent
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventHandler.md)  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

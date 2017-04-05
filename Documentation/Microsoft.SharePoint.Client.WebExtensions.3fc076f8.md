@@ -11,7 +11,6 @@ public static void ReIndexWeb(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed  
-  
 ### Return Value
 Type: System.Void  
 

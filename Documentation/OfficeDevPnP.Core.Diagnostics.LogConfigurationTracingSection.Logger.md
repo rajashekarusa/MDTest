@@ -1,4 +1,6 @@
 # LogConfigurationTracingSection.Properties Logger
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public LogConfigurationTracingLoggerElement Logger { get; set; }
 Type: [OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md)  
 
 ## See also
-- [LogConfigurationTracingSection](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.md) 
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [LogConfigurationTracingSection](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.md) 

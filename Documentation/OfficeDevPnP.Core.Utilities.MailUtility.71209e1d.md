@@ -1,4 +1,6 @@
 # MailUtility.SendEmail Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,24 +10,14 @@ public static void SendEmail(ClientContext context, IEnumerable<String> to, IEnu
 ### Parameters
 *context*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
-&emsp;&emsp;  
-  
 *to*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
-&emsp;&emsp;  
-  
 *cc*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
-&emsp;&emsp;  
-  
 *subject*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *body*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

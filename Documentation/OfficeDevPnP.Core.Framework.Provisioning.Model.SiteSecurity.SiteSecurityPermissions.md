@@ -12,5 +12,5 @@ public SiteSecurityPermissions SiteSecurityPermissions { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.md)  
 
 ## See also
-- [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 

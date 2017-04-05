@@ -13,7 +13,7 @@ public class RegionalSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) |  Defines the Regional Settings for a site 
+| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) | <summary> Defines the Regional Settings for a site </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

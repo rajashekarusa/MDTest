@@ -1,6 +1,5 @@
 # VariationInformation.Properties RecreateDeletedTargetPage
-Recreate Deleted Target Page; set to false to enable recreation
-            Mapped to property "AutoSpawnStopAfterDeletePropertyName"  
+Recreate Deleted Target Page; set to false to enable recreation Mapped to property "AutoSpawnStopAfterDeletePropertyName"  
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,5 +12,5 @@ public boolean RecreateDeletedTargetPage { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 

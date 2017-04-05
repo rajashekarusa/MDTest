@@ -1,4 +1,6 @@
 # ClientSideTextControlData.Properties EditorType
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string EditorType { get; set; }
 Type: System.String  
 
 ## See also
-- [ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md) 

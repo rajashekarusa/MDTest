@@ -1,4 +1,6 @@
 # WebSettings.WebSettings members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,26 +8,19 @@
 public WebSettings(Boolean noCrawl, String requestAccessEmail, String welcomePage, String title, String description, String siteLogo, String alternateCSS)
 ```
 ### Parameters
-#### noCrawl
+#### noCrawl  
 &emsp;&emsp;Type: System.Boolean  
-#### 
-#### requestAccessEmail
+#### requestAccessEmail  
 &emsp;&emsp;Type: System.String  
-#### 
-#### welcomePage
+#### welcomePage  
 &emsp;&emsp;Type: System.String  
-#### 
-#### title
+#### title  
 &emsp;&emsp;Type: System.String  
-#### 
-#### description
+#### description  
 &emsp;&emsp;Type: System.String  
-#### 
-#### siteLogo
+#### siteLogo  
 &emsp;&emsp;Type: System.String  
-#### 
-#### alternateCSS
+#### alternateCSS  
 &emsp;&emsp;Type: System.String  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

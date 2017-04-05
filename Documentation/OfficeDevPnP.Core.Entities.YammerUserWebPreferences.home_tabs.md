@@ -1,4 +1,6 @@
 # YammerUserWebPreferences.Properties home_tabs
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ilist<yammeruserhometab> home_tabs { get; set; }
 Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserHomeTab>  
 
 ## See also
-- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 

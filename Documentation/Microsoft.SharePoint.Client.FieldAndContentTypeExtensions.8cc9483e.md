@@ -11,19 +11,15 @@ public static void AddFieldById(ContentType contentType, Guid fieldId, Boolean r
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content Type to add the field to  
-  
 *fieldId*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The Id of the field  
-  
 *(optional) required*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is required  
-  
 *(optional) hidden*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is hidden  
-  
 ### Return Value
 Type: System.Void  
 

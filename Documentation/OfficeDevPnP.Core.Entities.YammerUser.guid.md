@@ -1,4 +1,6 @@
 # YammerUser.Properties guid
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public object guid { get; set; }
 Type: System.Object  
 
 ## See also
-- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 

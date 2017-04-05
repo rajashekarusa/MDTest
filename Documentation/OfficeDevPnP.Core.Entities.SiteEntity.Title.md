@@ -12,5 +12,5 @@ public string Title { get; set; }
 Type: System.String  
 
 ## See also
-- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 

@@ -1,6 +1,5 @@
 # VariationInformation.Properties AutomaticCreation
-Automatic creation 
-            Mapped to property "EnableAutoSpawnPropertyName"  
+Automatic creation Mapped to property "EnableAutoSpawnPropertyName"  
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,5 +12,5 @@ public boolean AutomaticCreation { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 

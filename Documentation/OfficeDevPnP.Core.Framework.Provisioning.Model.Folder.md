@@ -13,8 +13,8 @@ public class Folder: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.ctor1.md) |  Defines a folder that will be provisioned into the target list/library 
-| [Folder(String, List<Folder>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.ctor2.md) |  Defines a folder that will be provisioned into the target list/library 
+| [Folder()](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.ctor1.md) | <summary> Defines a folder that will be provisioned into the target list/library </summary>
+| [Folder(String, List<Folder>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.ctor2.md) | <summary> Defines a folder that will be provisioned into the target list/library </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

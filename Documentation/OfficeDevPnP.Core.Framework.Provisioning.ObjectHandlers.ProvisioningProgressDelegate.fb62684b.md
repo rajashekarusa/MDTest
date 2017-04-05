@@ -1,4 +1,6 @@
 # ProvisioningProgressDelegate.BeginInvoke Method  
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,24 +10,14 @@ public iasyncresult BeginInvoke(String message, Int32 step, Int32 total, AsyncCa
 ### Parameters
 *message*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *step*  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp;  
-  
 *total*  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp;  
-  
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
-&emsp;&emsp;  
-  
 *object*  
 &emsp;&emsp;Type: System.Object  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.IAsyncResult  
 

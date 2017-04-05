@@ -11,7 +11,6 @@ public static boolean ServerObjectIsNull(T clientObject)
 *clientObject*  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
-  
 ### Return Value
 Type: System.Boolean  
 True if the server object is null, otherwise false

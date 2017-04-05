@@ -13,6 +13,6 @@ public class UserCollection: ProvisioningTemplateCollection<User>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.ctor1.md) |  Collection of User objects 
+| [UserCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.ctor1.md) | <summary> Collection of User objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

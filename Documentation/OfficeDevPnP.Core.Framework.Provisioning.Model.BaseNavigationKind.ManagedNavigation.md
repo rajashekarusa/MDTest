@@ -12,5 +12,5 @@ public ManagedNavigation ManagedNavigation { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md)  
 
 ## See also
-- [BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 

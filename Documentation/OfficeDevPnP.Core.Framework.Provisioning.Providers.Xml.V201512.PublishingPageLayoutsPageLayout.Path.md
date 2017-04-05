@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [PublishingPageLayoutsPageLayout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayoutsPageLayout.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [PublishingPageLayoutsPageLayout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayoutsPageLayout.md) 

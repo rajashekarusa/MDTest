@@ -10,8 +10,6 @@ public void GetProfileSchemaAsync(String schemaName)
 ### Parameters
 *schemaName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

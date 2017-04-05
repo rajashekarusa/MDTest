@@ -12,5 +12,5 @@ public boolean Recursive { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 

@@ -14,5 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [TermLabelsLabel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermLabelsLabel.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)
+- [TermLabelsLabel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermLabelsLabel.md) 

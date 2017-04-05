@@ -13,7 +13,7 @@ public class ExtensibilityManager
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityManager()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.ctor1.md) |  Provisioning Framework Component that is used for invoking custom providers during the provisioning process. 
+| [ExtensibilityManager()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.ctor1.md) | <summary> Provisioning Framework Component that is used for invoking custom providers during the provisioning process. </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

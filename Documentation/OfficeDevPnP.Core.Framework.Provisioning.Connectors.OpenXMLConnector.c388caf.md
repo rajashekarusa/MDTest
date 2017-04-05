@@ -11,7 +11,6 @@ public list<string> GetFolders(String container)
 *container*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the folders from  
-  
 ### Return Value
 Type: System.Collections.Generic.List<System.String>  
 List of folders

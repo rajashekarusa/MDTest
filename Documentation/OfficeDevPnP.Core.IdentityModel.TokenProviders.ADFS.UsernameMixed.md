@@ -13,7 +13,7 @@ public class UsernameMixed: BaseProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UsernameMixed()](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.UsernameMixed.ctor1.md) |  ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint. 
+| [UsernameMixed()](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.UsernameMixed.ctor1.md) | <summary> ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint. </summary>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

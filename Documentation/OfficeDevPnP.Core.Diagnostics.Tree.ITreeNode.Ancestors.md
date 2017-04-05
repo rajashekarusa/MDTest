@@ -1,4 +1,6 @@
 # ITreeNode.Properties Ancestors
+  
+
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ienumerable<itreenode> Ancestors { get; }
 Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>  
 
 ## See also
-- [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
+- [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 

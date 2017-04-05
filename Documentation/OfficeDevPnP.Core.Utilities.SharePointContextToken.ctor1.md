@@ -1,4 +1,6 @@
 # SharePointContextToken.SharePointContextToken members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,20 +8,15 @@
 public SharePointContextToken(String issuer, String audience, DateTime validFrom, DateTime validTo, IEnumerable<JsonWebTokenClaim> claims)
 ```
 ### Parameters
-#### issuer
+#### issuer  
 &emsp;&emsp;Type: System.String  
-#### 
-#### audience
+#### audience  
 &emsp;&emsp;Type: System.String  
-#### 
-#### validFrom
+#### validFrom  
 &emsp;&emsp;Type: System.DateTime  
-#### 
-#### validTo
+#### validTo  
 &emsp;&emsp;Type: System.DateTime  
-#### 
-#### claims
+#### claims  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebTokenClaim>  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -11,11 +11,9 @@ public static Folder ConvertFolderToDocumentSet(List list, String folderName)
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List in which the folder exists  
-  
 *folderName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to convert  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.Folder  
 The newly converted Document Set, so that additional operations (such as setting properties) can be done.

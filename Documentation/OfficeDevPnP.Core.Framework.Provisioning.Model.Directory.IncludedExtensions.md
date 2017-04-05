@@ -12,5 +12,5 @@ public string IncludedExtensions { get; set; }
 Type: System.String  
 
 ## See also
-- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 

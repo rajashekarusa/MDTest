@@ -11,7 +11,6 @@ public static void AllowAllPageLayouts(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
-  
 ### Return Value
 Type: System.Void  
 

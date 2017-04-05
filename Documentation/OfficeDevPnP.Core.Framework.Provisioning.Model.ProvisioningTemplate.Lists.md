@@ -1,4 +1,6 @@
 # ProvisioningTemplate.Properties Lists
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public ListInstanceCollection Lists { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection.md)  
 
 ## See also
-- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 

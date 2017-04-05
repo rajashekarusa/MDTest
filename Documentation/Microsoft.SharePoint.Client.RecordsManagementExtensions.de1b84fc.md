@@ -11,7 +11,6 @@ public static boolean IsListRecordSettingDefined(List list)
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
-  
 ### Return Value
 Type: System.Boolean  
 True if in place records management settings are active for this list

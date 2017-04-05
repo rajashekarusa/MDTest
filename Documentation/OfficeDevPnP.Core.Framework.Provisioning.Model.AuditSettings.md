@@ -13,7 +13,7 @@ public class AuditSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.ctor1.md) |  The Audit Settings for the Provisioning Template 
+| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.ctor1.md) | <summary> The Audit Settings for the Provisioning Template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

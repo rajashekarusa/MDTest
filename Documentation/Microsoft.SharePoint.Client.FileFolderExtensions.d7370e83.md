@@ -11,11 +11,9 @@ public static boolean FolderExists(Folder parentFolder, String folderName)
 *parentFolder*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Parent folder to check for the named subfolder  
-  
 *folderName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve  
-  
 ### Return Value
 Type: System.Boolean  
 true if the folder exists; false otherwise

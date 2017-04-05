@@ -1,4 +1,6 @@
 # ExtensiblityPipelineException.ExtensiblityPipelineException members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,11 +8,9 @@
 public ExtensiblityPipelineException(String message, Exception innerException)
 ```
 ### Parameters
-#### message
+#### message  
 &emsp;&emsp;Type: System.String  
-#### 
-#### innerException
+#### innerException  
 &emsp;&emsp;Type: System.Exception  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

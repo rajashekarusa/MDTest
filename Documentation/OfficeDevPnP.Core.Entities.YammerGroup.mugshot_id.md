@@ -1,4 +1,6 @@
 # YammerGroup.Properties mugshot_id
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public object mugshot_id { get; set; }
 Type: System.Object  
 
 ## See also
-- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 

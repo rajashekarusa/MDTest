@@ -11,11 +11,9 @@ public string GetFile(String fileName, String container)
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
-  
 *container*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the file from  
-  
 ### Return Value
 Type: System.String  
 String containing the file contents

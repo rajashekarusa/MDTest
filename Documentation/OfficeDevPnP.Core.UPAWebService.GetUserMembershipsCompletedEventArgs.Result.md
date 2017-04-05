@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.MembershipData[]
 ## Remarks 
 
 ## See also
-- [GetUserMembershipsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [GetUserMembershipsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventArgs.md) 

@@ -1,4 +1,6 @@
 # ProvisioningTemplate.Properties PropertyBagEntries
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public PropertyBagEntryCollection PropertyBagEntries { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.md)  
 
 ## See also
-- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 

@@ -11,19 +11,15 @@ public static void DeleteWebPart(Web web, String folder, String title, String pa
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 *folder*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;System name of the wiki page library - typically sitepages  
-  
 *title*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web part that needs to be deleted  
-  
 *page*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to remove the web part from  
-  
 ### Return Value
 Type: System.Void  
 

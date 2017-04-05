@@ -1,4 +1,6 @@
 # CanvasZone.Properties Type
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public CanvasZoneTemplate Type { get; set; }
 Type: OfficeDevPnP.Core.Pages.CanvasZoneTemplate  
 
 ## See also
-- [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 

@@ -1,4 +1,6 @@
 # SharePointConnector.SharePointConnector members 
+  
+
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -6,14 +8,11 @@
 public SharePointConnector(ClientRuntimeContext clientContext, String connectionString, String container)
 ```
 ### Parameters
-#### clientContext
+#### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
-#### 
-#### connectionString
+#### connectionString  
 &emsp;&emsp;Type: System.String  
-#### 
-#### container
+#### container  
 &emsp;&emsp;Type: System.String  
-#### 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

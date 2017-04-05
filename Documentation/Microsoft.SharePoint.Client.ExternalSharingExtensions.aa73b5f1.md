@@ -11,19 +11,15 @@ public static SharingResult InviteExternalUser(Group group, String email, Boolea
 *group*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group to add the user to  
-  
 *email*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The email address of the external user  
-  
 *(optional) sendEmail*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Should we send an email to the given address  
-  
 *(optional) emailBody*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added to the email  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.SharingResult  
 

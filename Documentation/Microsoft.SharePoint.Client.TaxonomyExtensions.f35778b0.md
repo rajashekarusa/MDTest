@@ -11,19 +11,15 @@ public static void WireUpTaxonomyField(Web web, Field field, TermSet termSet, Bo
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
-  
 *field*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to be wired up  
-  
 *termSet*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermSet  
 &emsp;&emsp;Taxonomy TermSet  
-  
 *(optional) multiValue*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If true, create a multivalue field  
-  
 ### Return Value
 Type: System.Void  
 

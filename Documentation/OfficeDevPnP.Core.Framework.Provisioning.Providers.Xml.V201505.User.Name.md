@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [User](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.User.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)
+- [User](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.User.md) 

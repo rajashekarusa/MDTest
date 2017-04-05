@@ -12,5 +12,5 @@ public string Name { get; set; }
 Type: System.String  
 
 ## See also
-- [DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md) 

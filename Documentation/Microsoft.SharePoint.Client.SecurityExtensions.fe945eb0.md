@@ -11,11 +11,9 @@ public static void RemoveAdministrator(Web web, UserEntity admin)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
-  
 *admin*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)  
 &emsp;&emsp; that describes the admin to be removed  
-  
 ### Return Value
 Type: System.Void  
 

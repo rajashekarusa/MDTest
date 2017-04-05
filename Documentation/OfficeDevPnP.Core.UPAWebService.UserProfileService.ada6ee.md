@@ -10,28 +10,16 @@ public void AddColleagueWithoutEmailNotificationAsync(String accountName, String
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *colleagueAccountName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *group*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *privacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
-&emsp;&emsp;  
-  
 *isInWorkGroup*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *userState*  
 &emsp;&emsp;Type: System.Object  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.Void  
 

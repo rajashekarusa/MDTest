@@ -10,12 +10,8 @@ public static T Include(Enum value, T append)
 ### Parameters
 *value*  
 &emsp;&emsp;Type: System.Enum  
-&emsp;&emsp;  
-  
 *append*  
 &emsp;&emsp;Type: T  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: T  
 

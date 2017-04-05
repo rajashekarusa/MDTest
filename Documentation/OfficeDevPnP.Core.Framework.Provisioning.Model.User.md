@@ -13,7 +13,7 @@ public class User: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [User()](OfficeDevPnP.Core.Framework.Provisioning.Model.User.ctor1.md) |  Domain Object that defines a User or group in the provisioning template 
+| [User()](OfficeDevPnP.Core.Framework.Provisioning.Model.User.ctor1.md) | <summary> Domain Object that defines a User or group in the provisioning template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

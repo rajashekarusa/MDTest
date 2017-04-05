@@ -1,4 +1,6 @@
 # YammerUserSettings.Properties xdr_proxy
+  
+
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public string xdr_proxy { get; set; }
 Type: System.String  
 
 ## See also
-- [YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md) 

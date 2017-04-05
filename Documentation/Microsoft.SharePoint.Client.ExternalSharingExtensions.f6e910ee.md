@@ -11,15 +11,10 @@ public static ObjectSharingSettings GetObjectSharingSettingsForDocument(Web web,
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context  
-  
 *urlToDocument*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *(optional) useSimplifiedPolicies*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.ObjectSharingSettings  
 

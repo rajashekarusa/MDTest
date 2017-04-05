@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Sequence[]
 ## Remarks 
 
 ## See also
-- [Provisioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provisioning.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [Provisioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provisioning.md) 

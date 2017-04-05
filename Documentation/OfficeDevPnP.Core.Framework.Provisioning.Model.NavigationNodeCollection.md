@@ -13,6 +13,6 @@ public class NavigationNodeCollection: ProvisioningTemplateCollection<Navigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNodeCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.ctor1.md) |  A collection of NavigationNode objects 
+| [NavigationNodeCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.ctor1.md) | <summary> A collection of NavigationNode objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

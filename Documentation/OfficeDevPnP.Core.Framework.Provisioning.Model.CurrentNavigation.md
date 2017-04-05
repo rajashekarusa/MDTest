@@ -13,8 +13,8 @@ public class CurrentNavigation: BaseNavigationKind
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor1.md) |  The Current Navigation settings for the Provisioning Template 
-| [CurrentNavigation(CurrentNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor2.md) |  The Current Navigation settings for the Provisioning Template 
+| [CurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor1.md) | <summary> The Current Navigation settings for the Provisioning Template </summary>
+| [CurrentNavigation(CurrentNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor2.md) | <summary> The Current Navigation settings for the Provisioning Template </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

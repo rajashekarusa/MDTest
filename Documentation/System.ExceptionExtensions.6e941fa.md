@@ -1,4 +1,6 @@
 # ExceptionExtensions.ToDetailedString Method  
+  
+
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -8,8 +10,6 @@ public static string ToDetailedString(Exception exception)
 ### Parameters
 *exception*  
 &emsp;&emsp;Type: System.Exception  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

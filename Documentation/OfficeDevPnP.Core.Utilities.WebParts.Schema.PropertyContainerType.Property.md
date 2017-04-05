@@ -1,5 +1,5 @@
 # PropertyContainerType.Properties Property
-  
+<summary></summary>  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public collection<propertytype> Property { get; }
 Type: System.Collections.ObjectModel.Collection<OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType>  
 
 ## See also
-- [PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
+- [PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md) 

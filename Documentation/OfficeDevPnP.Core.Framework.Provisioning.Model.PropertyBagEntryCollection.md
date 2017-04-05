@@ -13,6 +13,6 @@ public class PropertyBagEntryCollection: ProvisioningTemplateCollection<Property
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.ctor1.md) |  Collection of PropertyBagEntry objects 
+| [PropertyBagEntryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.ctor1.md) | <summary> Collection of PropertyBagEntry objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

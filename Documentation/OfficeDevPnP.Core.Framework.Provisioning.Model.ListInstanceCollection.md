@@ -13,6 +13,6 @@ public class ListInstanceCollection: ProvisioningTemplateCollection<ListInstance
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection.ctor1.md) |  Collection of ListInstance objects 
+| [ListInstanceCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstanceCollection.ctor1.md) | <summary> Collection of ListInstance objects </summary>
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

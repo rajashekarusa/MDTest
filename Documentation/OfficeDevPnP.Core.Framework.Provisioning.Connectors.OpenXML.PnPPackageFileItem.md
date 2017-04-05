@@ -13,7 +13,7 @@ public class PnPPackageFileItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.ctor1.md) |  Defines a single file in the PnP Open XML file package 
+| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.ctor1.md) | <summary> Defines a single file in the PnP Open XML file package </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

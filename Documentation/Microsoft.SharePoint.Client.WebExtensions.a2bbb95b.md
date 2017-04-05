@@ -11,11 +11,8 @@ public static EventReceiverDefinition GetEventReceiverById(Web web, Guid id)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to process  
-  
 *id*  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.EventReceiverDefinition  
 

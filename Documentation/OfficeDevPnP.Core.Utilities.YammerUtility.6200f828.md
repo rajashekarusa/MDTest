@@ -10,36 +10,20 @@ public static string CreateYammerOpenGraphDiscussionPartXml(String yammerNetwork
 ### Parameters
 *yammerNetworkName*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *url*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *showHeader*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *showFooter*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *(optional) postTitle*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *(optional) postImageUrl*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 *(optional) useSso*  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
-  
 *(optional) groupId*  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
-  
 ### Return Value
 Type: System.String  
 

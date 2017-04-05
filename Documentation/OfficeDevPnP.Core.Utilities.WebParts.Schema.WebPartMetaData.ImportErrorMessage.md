@@ -1,5 +1,5 @@
 # WebPartMetaData.Properties ImportErrorMessage
-  
+<summary></summary>  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string ImportErrorMessage { get; set; }
 Type: System.String  
 
 ## See also
-- [WebPartMetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
+- [WebPartMetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData.md) 

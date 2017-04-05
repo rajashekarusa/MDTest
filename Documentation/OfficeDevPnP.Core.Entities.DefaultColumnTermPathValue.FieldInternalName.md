@@ -12,5 +12,5 @@ public string FieldInternalName { get; set; }
 Type: System.String  
 
 ## See also
-- [DefaultColumnTermPathValue](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [DefaultColumnTermPathValue](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.md) 

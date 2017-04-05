@@ -1,5 +1,5 @@
 # ClientSideWebPart
-  
+ This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a OfficeDevPnP.Core.Pages.ClientSidePage .   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,8 +13,8 @@ public class ClientSideWebPart: CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPart()](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor1.md) |  This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a . 
-| [ClientSideWebPart(ClientSideComponent)](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor2.md) |  This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a . 
+| [ClientSideWebPart()](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor1.md) |  This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a OfficeDevPnP.Core.Pages.ClientSidePage . 
+| [ClientSideWebPart(ClientSideComponent)](OfficeDevPnP.Core.Pages.ClientSideWebPart.ctor2.md) |  This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a OfficeDevPnP.Core.Pages.ClientSidePage . 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,10 +22,10 @@ public class ClientSideWebPart: CanvasControl
 | [HtmlProperties](OfficeDevPnP.Core.Pages.ClientSideWebPart.HtmlProperties.md) | Value of the data-sp-htmlproperties attribute
 | [HtmlPropertiesData](OfficeDevPnP.Core.Pages.ClientSideWebPart.HtmlPropertiesData.md) | Html properties data
 | [JsonWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPart.JsonWebPartData.md) | Json serialized web part properties
-| [Properties](OfficeDevPnP.Core.Pages.ClientSideWebPart.Properties.md) | 
+| [Properties](OfficeDevPnP.Core.Pages.ClientSideWebPart.Properties.md) |  Web properties as configurable Newtonsoft.Json.Linq.JObject
 | [PropertiesJson](OfficeDevPnP.Core.Pages.ClientSideWebPart.PropertiesJson.md) | Json serialized web part properties
 | [Title](OfficeDevPnP.Core.Pages.ClientSideWebPart.Title.md) | Title of the web part
-| [Type](OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md) | 
+| [Type](OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md) |  Return P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type of the client side web part 
 | [WebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPart.WebPartData.md) | Value of the data-sp-webpart attribute
 | [WebPartId](OfficeDevPnP.Core.Pages.ClientSideWebPart.WebPartId.md) | ID of the client side web part
 ## Methods
@@ -34,4 +34,7 @@ public class ClientSideWebPart: CanvasControl
 | [Import(ClientSideComponent, Func<String, String>)](OfficeDevPnP.Core.Pages.ClientSideWebPart.587fffcf.md) | 
 | [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideWebPart.7c2b006f.md) | Returns a HTML representation of the client side web part
 ## See also
+- [T:Newtonsoft.Json.Linq.JObject](T:Newtonsoft.Json.Linq.JObject.md)
+- [P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type](P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md)
+- [T:OfficeDevPnP.Core.Pages.ClientSidePage](T:OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

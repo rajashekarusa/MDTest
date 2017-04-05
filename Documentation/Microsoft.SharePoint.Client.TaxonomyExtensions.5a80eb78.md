@@ -11,15 +11,12 @@ public static void SetTaxonomyFieldValueByTermPath(ListItem item, String TermPat
 *item*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
 &emsp;&emsp;The item to set the value to  
-  
 *TermPath*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path of the term in the shape of "TermGroupName|TermSetName|TermName"  
-  
 *fieldId*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the field  
-  
 ### Return Value
 Type: System.Void  
 

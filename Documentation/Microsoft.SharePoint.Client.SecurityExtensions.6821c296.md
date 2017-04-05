@@ -11,27 +11,21 @@ public static Group AddGroup(Web web, String groupName, String groupDescription,
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to add the group to  
-  
 *groupName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
-  
 *groupDescription*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Description of the group  
-  
 *groupIsOwner*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Sets the created group as group owner if true  
-  
 *(optional) updateAndExecuteQuery*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to false to postpone the executequery call  
-  
 *(optional) onlyAllowMembersViewMembership*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set whether members are allowed to see group membership, defaults to false  
-  
 ### Return Value
 Type: Microsoft.SharePoint.Client.Group  
 The created group

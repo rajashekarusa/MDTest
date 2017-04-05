@@ -1,5 +1,5 @@
 # PropertyType.Properties Value
-  
+<summary> <para xml:lang="en">Gets or sets the text value.</para> </summary>  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Value { get; set; }
 Type: System.String  
 
 ## See also
-- [PropertyType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.md) 
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
+- [PropertyType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.md) 

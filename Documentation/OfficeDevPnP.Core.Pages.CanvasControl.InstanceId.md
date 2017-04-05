@@ -1,4 +1,6 @@
 # CanvasControl.Properties InstanceId
+  
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,5 +12,5 @@ public guid InstanceId { get; }
 Type: System.Guid  
 
 ## See also
-- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 

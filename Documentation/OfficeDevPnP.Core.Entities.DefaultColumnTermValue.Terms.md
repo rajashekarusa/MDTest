@@ -12,5 +12,5 @@ public ilist<term> Terms { get; }
 Type: System.Collections.Generic.IList<Microsoft.SharePoint.Client.Taxonomy.Term>  
 
 ## See also
-- [DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
+- [DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md) 

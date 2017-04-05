@@ -11,19 +11,15 @@ public static void SetTaxonomyFieldDefaultValue(Field field, TaxonomyItem taxono
 *field*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to be wired up  
-  
 *taxonomyItem*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 &emsp;&emsp;Taxonomy TermSet or Term  
-  
 *defaultValue*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;default value for the field  
-  
 *(optional) pushChangesToLists*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;push changes to lists  
-  
 ### Return Value
 Type: System.Void  
 

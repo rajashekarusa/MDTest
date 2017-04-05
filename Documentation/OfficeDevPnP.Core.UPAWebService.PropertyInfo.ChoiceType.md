@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.ChoiceTypes
 ## Remarks 
 
 ## See also
-- [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 

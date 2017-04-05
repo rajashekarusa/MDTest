@@ -12,5 +12,6 @@ public string PropertiesJson { get; set; }
 Type: System.String  
 
 ## See also
-- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- [T:Newtonsoft.Json.Linq.JObject](T:Newtonsoft.Json.Linq.JObject.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 

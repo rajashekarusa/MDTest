@@ -13,7 +13,7 @@ public class CustomActionEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActionEntity()](OfficeDevPnP.Core.Entities.CustomActionEntity.ctor1.md) |  CustomActionEntity class describes the information for a Custom Action 
+| [CustomActionEntity()](OfficeDevPnP.Core.Entities.CustomActionEntity.ctor1.md) | <summary> CustomActionEntity class describes the information for a Custom Action </summary>
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
