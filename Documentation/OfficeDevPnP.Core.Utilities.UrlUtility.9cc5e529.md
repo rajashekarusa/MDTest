@@ -10,6 +10,7 @@ public static string EnsureTrailingSlash(String urlToProcess)
 ### Parameters
 *urlToProcess*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

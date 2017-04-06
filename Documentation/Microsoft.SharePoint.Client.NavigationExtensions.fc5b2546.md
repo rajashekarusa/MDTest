@@ -10,8 +10,10 @@ public static IEnumerable<UserCustomAction> GetCustomActions(Site site, Expressi
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
+
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.UserCustomAction, System.Object>>[]  
+
 ### Return Value
 Type: IEnumerable<UserCustomAction>  
 

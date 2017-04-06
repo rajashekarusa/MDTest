@@ -10,6 +10,7 @@ public Stream ToFormattedTemplate(ProvisioningTemplate template)
 ### Parameters
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+
 ### Return Value
 Type: Stream  
 

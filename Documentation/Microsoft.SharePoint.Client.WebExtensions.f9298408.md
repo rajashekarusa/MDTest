@@ -11,6 +11,7 @@ public static bool IsNoScriptSite(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;site to verify  
+
 ### Return Value
 Type: bool  
 True if noscript, false otherwise

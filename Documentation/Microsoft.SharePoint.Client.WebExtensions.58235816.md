@@ -11,6 +11,7 @@ public static ProvisioningTemplate GetProvisioningTemplate(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to get template from  
+
 ### Return Value
 Type: ProvisioningTemplate  
 ProvisioningTemplate object with generated values from existing site

@@ -10,6 +10,7 @@ public bool Equals(AuditSettings other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md)  
+
 ### Return Value
 Type: bool  
 

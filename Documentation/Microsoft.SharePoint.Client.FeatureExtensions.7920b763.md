@@ -11,12 +11,15 @@ public static void DeactivateFeature(Site site, Guid featureID, Int32 pollingInt
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
+
 *featureID*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the feature to deactivate  
+
 *(optional) pollingIntervalSeconds*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The time in seconds between polls for "IsActive"  
+
 ### Return Value
 Type: void  
 

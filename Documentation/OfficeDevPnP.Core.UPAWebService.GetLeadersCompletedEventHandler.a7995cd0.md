@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, GetLeadersCompletedEventArgs e, A
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventArgs.md)  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

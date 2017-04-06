@@ -11,6 +11,7 @@ public void SetEnumerationCredentials(String credentialName)
 *credentialName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the credential manager registration  
+
 ### Return Value
 Type: void  
 

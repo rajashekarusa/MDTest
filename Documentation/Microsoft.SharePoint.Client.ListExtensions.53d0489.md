@@ -10,10 +10,13 @@ public static View GetViewByName(List list, String name, Expression<Func<View, O
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 *name*  
 &emsp;&emsp;Type: System.String  
+
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View, System.Object>>[]  
+
 ### Return Value
 Type: View  
 

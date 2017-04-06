@@ -10,10 +10,13 @@ public void UpdateLinkAsync(String accountName, QuickLinkData data, Object userS
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *data*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData](OfficeDevPnP.Core.UPAWebService.QuickLinkData.md)  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

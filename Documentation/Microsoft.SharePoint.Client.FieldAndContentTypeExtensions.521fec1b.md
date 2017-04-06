@@ -11,9 +11,11 @@ public static ContentType CreateContentTypeFromXMLFile(Web web, String absoluteP
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
+
 *absolutePathToFile*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Absolute path to the xml location  
+
 ### Return Value
 Type: ContentType  
 

@@ -11,10 +11,13 @@ public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, Stri
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
+
 *html*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

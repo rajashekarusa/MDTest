@@ -10,8 +10,10 @@ public void ModifyUserPropertyByAccountNameAsync(String accountName, PropertyDat
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *newData*  
 &emsp;&emsp;Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
+
 ### Return Value
 Type: void  
 

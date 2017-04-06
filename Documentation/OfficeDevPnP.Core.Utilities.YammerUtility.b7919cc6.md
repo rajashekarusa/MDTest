@@ -10,12 +10,16 @@ public static WebPartEntity GetYammerGroupDiscussionPart(String yammerNetworkNam
 ### Parameters
 *yammerNetworkName*  
 &emsp;&emsp;Type: System.String  
+
 *yammerGroupId*  
 &emsp;&emsp;Type: System.Int32  
+
 *showHeader*  
 &emsp;&emsp;Type: System.Boolean  
+
 *showFooter*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: WebPartEntity  
 

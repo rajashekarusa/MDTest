@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, AddColleagueWithoutEmailNotificat
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs.md)  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

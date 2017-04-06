@@ -10,10 +10,13 @@ public static Field GetFieldById(Web web, Guid fieldId, Boolean searchInSiteHier
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *fieldId*  
 &emsp;&emsp;Type: System.Guid  
+
 *(optional) searchInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: Field  
 

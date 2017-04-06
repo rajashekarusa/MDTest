@@ -11,6 +11,7 @@ public static ThemeEntity GetCurrentComposedLook(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
+
 ### Return Value
 Type: ThemeEntity  
 Entity with attributes of current composed look, or null if none

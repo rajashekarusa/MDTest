@@ -10,6 +10,7 @@ public PropertyData[] GetUserProfileByGuid(Guid guid)
 ### Parameters
 *guid*  
 &emsp;&emsp;Type: System.Guid  
+
 ### Return Value
 Type: PropertyData[]  
 

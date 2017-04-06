@@ -10,10 +10,13 @@ public static Folder EnsureFolderPath(Web web, String webRelativeUrl, Expression
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *webRelativeUrl*  
 &emsp;&emsp;Type: System.String  
+
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder, System.Object>>[]  
+
 ### Return Value
 Type: Folder  
 

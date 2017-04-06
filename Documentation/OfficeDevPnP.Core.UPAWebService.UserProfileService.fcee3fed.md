@@ -10,8 +10,10 @@ public void CreateMemberGroupAsync(MembershipData membershipInfo, Object userSta
 ### Parameters
 *membershipInfo*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

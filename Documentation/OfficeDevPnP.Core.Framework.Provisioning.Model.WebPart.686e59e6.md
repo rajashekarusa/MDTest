@@ -10,6 +10,7 @@ public bool Equals(WebPart other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.md)  
+
 ### Return Value
 Type: bool  
 

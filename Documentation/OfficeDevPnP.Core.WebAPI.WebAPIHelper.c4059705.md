@@ -11,6 +11,7 @@ public static bool HasCacheEntry(HttpControllerContext httpControllerContext)
 *httpControllerContext*  
 &emsp;&emsp;Type: System.Web.Http.Controllers.HttpControllerContext  
 &emsp;&emsp;Information about the HTTP request that reached the WebAPI controller  
+
 ### Return Value
 Type: bool  
 True if cookie is available and not empty, false otherwise

@@ -10,6 +10,7 @@ public static string ToDetailedString(Exception exception)
 ### Parameters
 *exception*  
 &emsp;&emsp;Type: System.Exception  
+
 ### Return Value
 Type: string  
 

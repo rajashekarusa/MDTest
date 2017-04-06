@@ -10,12 +10,15 @@ public static void PublishCustomEvent(WorkflowInstance instance, String eventNam
 ### Parameters
 *instance*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
+
 *eventName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the target event  
+
 *payload*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The payload that will be sent to the event  
+
 ### Return Value
 Type: void  
 

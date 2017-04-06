@@ -11,9 +11,11 @@ public static ContentType GetContentTypeByName(List list, String contentTypeName
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
+
 *contentTypeName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
+
 ### Return Value
 Type: ContentType  
 Content type object or null if was not found

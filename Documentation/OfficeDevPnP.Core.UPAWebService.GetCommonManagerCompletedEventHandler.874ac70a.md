@@ -10,8 +10,10 @@ public void Invoke(Object sender, GetCommonManagerCompletedEventArgs e)
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs.md)  
+
 ### Return Value
 Type: void  
 

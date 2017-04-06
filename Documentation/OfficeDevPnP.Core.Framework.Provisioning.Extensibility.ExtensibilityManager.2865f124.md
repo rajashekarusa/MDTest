@@ -11,12 +11,15 @@ public IEnumerable<TokenDefinition> ExecuteTokenProviderCallOut(ClientContext ct
 *ctx*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Authenticated ClientContext that is passed to the custom provider.  
+
 *provider*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.md)  
 &emsp;&emsp;A custom Extensibility Provisioning Provider  
+
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;ProvisioningTemplate that is passed to the custom provider  
+
 ### Return Value
 Type: IEnumerable<TokenDefinition>  
 

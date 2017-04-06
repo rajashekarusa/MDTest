@@ -10,6 +10,7 @@ public bool Equals(ContentTypeBinding other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.md)  
+
 ### Return Value
 Type: bool  
 

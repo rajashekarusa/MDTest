@@ -10,6 +10,7 @@ public bool Equals(Directory other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md)  
+
 ### Return Value
 Type: bool  
 

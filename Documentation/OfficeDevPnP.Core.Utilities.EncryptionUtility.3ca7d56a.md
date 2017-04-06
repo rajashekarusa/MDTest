@@ -11,6 +11,7 @@ public static string ToInsecureString(SecureString input)
 *input*  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;SecureString to convert  
+
 ### Return Value
 Type: string  
 A "regular" string representation of the passed SecureString

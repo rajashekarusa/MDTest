@@ -10,6 +10,7 @@ public string GetFilenamePart(String fileName)
 ### Parameters
 *fileName*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

@@ -10,6 +10,7 @@ public Regex GetRegexForToken(String token)
 ### Parameters
 *token*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: Regex  
 

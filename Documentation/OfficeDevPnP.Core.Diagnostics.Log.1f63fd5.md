@@ -10,12 +10,16 @@ public static void Debug(String source, Exception ex, String message, Object[] a
 ### Parameters
 *source*  
 &emsp;&emsp;Type: System.String  
+
 *ex*  
 &emsp;&emsp;Type: System.Exception  
+
 *message*  
 &emsp;&emsp;Type: System.String  
+
 *args*  
 &emsp;&emsp;Type: System.Object[]  
+
 ### Return Value
 Type: void  
 

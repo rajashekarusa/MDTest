@@ -11,11 +11,14 @@ public static PropertyValues GetWebPartProperties(Web web, Guid id, String serve
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
+
 *id*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the webpart  
+
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: PropertyValues  
 

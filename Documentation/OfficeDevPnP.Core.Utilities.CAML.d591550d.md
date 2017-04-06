@@ -10,12 +10,16 @@ public static string FieldValue(String fieldName, String fieldValueType, String 
 ### Parameters
 *fieldName*  
 &emsp;&emsp;Type: System.String  
+
 *fieldValueType*  
 &emsp;&emsp;Type: System.String  
+
 *value*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) additionalFieldRefParams*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

@@ -10,22 +10,31 @@ public static void SendEmail(String servername, String fromAddress, SecureString
 ### Parameters
 *servername*  
 &emsp;&emsp;Type: System.String  
+
 *fromAddress*  
 &emsp;&emsp;Type: System.String  
+
 *fromUserPassword*  
 &emsp;&emsp;Type: System.Security.SecureString  
+
 *to*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+
 *cc*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+
 *subject*  
 &emsp;&emsp;Type: System.String  
+
 *body*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) sendAsync*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) asyncUserToken*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

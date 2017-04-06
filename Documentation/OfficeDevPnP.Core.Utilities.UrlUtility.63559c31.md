@@ -10,8 +10,10 @@ public static string Combine(String path, String relative)
 ### Parameters
 *path*  
 &emsp;&emsp;Type: System.String  
+
 *relative*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

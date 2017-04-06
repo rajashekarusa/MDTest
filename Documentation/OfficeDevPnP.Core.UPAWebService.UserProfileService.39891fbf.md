@@ -10,6 +10,7 @@ public void add_GetProfileSchemaCompleted(GetProfileSchemaCompletedEventHandler 
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

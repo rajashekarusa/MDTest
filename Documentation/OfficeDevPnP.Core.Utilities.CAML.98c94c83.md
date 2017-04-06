@@ -10,6 +10,7 @@ public static string BeginsWith(String fieldValue)
 ### Parameters
 *fieldValue*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

@@ -10,6 +10,7 @@ public bool Equals(RoleAssignment other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md)  
+
 ### Return Value
 Type: bool  
 

@@ -10,10 +10,13 @@ public static string ToDetailedString(Exception exception, ClientRuntimeContext 
 ### Parameters
 *exception*  
 &emsp;&emsp;Type: System.Exception  
+
 *cc*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
+
 *options*  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
+
 ### Return Value
 Type: string  
 

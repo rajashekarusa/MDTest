@@ -11,8 +11,10 @@ public static EventReceiverDefinition GetEventReceiverByName(List list, String n
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to process  
+
 *name*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: EventReceiverDefinition  
 

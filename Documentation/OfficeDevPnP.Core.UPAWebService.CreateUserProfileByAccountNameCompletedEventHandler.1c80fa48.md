@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, CreateUserProfileByAccountNameCom
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventArgs.md)  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

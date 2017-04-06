@@ -11,6 +11,7 @@ public Stream GetFileStream(String fileName)
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
+
 ### Return Value
 Type: Stream  
 String containing the file contents

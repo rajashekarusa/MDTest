@@ -10,8 +10,10 @@ public static ClientObjectList<AppInstance> GetAppInstances(Web web, Expression<
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.AppInstance, System.Object>>[]  
+
 ### Return Value
 Type: ClientObjectList<AppInstance>  
 

@@ -10,8 +10,10 @@ public static WorkflowSubscription GetWorkflowSubscription(Web web, String name)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *name*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: WorkflowSubscription  
 

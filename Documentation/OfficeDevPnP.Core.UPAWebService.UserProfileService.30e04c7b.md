@@ -10,16 +10,22 @@ public void AddLinkAsync(String accountName, String name, String url, String gro
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *name*  
 &emsp;&emsp;Type: System.String  
+
 *url*  
 &emsp;&emsp;Type: System.String  
+
 *group*  
 &emsp;&emsp;Type: System.String  
+
 *privacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

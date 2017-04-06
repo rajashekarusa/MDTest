@@ -10,12 +10,16 @@ public static bool AddJsLink(Web web, String key, IEnumerable<String> scriptLink
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *key*  
 &emsp;&emsp;Type: System.String  
+
 *scriptLinks*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+
 *(optional) sequence*  
 &emsp;&emsp;Type: System.Int32  
+
 ### Return Value
 Type: bool  
 

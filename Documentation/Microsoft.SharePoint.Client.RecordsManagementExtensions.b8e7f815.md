@@ -11,9 +11,11 @@ public static void SetListAutoRecordDeclaration(List list, Boolean autoDeclareRe
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate on  
+
 *autoDeclareRecords*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to automatically declare all added items as record, false otherwise  
+
 ### Return Value
 Type: void  
 

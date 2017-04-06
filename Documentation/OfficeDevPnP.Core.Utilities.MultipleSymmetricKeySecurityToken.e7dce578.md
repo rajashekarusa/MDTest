@@ -11,6 +11,7 @@ public bool MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentifier
 *keyIdentifierClause*  
 &emsp;&emsp;Type: System.IdentityModel.Tokens.SecurityKeyIdentifierClause  
 &emsp;&emsp;A SecurityKeyIdentifierClause to compare to this instance  
+
 ### Return Value
 Type: bool  
 true if keyIdentifierClause is a SecurityKeyIdentifierClause and it has the same unique identifier as the Id property; otherwise, false.

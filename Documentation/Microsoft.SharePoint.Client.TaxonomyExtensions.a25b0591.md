@@ -11,15 +11,19 @@ public static List<String> ExportTermSet(Site site, Guid termSetId, Boolean incl
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The site to process  
+
 *termSetId*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termset to export  
+
 *includeId*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;if true, Ids of the the taxonomy items will be included  
+
 *(optional) delimiter*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;if specified, this delimiter will be used. Notice that IDs will be delimited with ;# from the label  
+
 ### Return Value
 Type: List<String>  
 

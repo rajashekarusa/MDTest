@@ -10,8 +10,10 @@ public static void AddRange(IDictionary<TKey, TValue> dictionary, IDictionary<TK
 ### Parameters
 *dictionary*  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey, TValue>  
+
 *range*  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey, TValue>  
+
 ### Return Value
 Type: void  
 

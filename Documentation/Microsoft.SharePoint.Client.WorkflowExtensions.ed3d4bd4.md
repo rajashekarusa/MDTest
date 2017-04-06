@@ -10,10 +10,13 @@ public static Guid AddWorkflowDefinition(Web web, WorkflowDefinition definition,
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *definition*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
+
 *(optional) publish*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: Guid  
 

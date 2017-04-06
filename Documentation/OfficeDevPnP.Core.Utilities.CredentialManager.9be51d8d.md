@@ -10,6 +10,7 @@ public static NetworkCredential GetCredential(String name)
 ### Parameters
 *name*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: NetworkCredential  
 System.Net.NetworkCredential

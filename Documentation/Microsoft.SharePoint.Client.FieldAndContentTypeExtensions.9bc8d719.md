@@ -11,9 +11,11 @@ public static void CreateFieldsFromXML(Web web, XDocument xDocument)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
+
 *xDocument*  
 &emsp;&emsp;Type: System.Xml.Linq.XDocument  
 &emsp;&emsp;Actual XML document  
+
 ### Return Value
 Type: void  
 

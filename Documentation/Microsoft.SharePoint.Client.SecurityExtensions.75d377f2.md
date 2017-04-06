@@ -11,12 +11,15 @@ public static bool IsUserInGroup(Web web, String groupName, String userLoginName
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
+
 *groupName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
+
 *userLoginName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Loginname of the user  
+
 ### Return Value
 Type: bool  
 True if the user is in the group, false otherwise

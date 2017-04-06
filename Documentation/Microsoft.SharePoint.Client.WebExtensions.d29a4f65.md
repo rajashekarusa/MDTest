@@ -11,9 +11,11 @@ public static bool WebExistsByTitle(Web parentWeb, String title)
 *parentWeb*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Parent web to check under.  
+
 *title*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web to check.  
+
 ### Return Value
 Type: bool  
 True if a web with the given title exists.

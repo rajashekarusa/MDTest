@@ -11,15 +11,19 @@ public static void ActivateFeature(Site site, Guid featureID, Boolean sandboxed,
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
+
 *featureID*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the feature to activate  
+
 *(optional) sandboxed*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true if the feature is defined in a sandboxed solution  
+
 *(optional) pollingIntervalSeconds*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The time in seconds between polls for "IsActive"  
+
 ### Return Value
 Type: void  
 

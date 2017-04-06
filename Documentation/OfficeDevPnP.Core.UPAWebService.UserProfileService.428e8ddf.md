@@ -10,6 +10,7 @@ public void add_GetUserPropertyByAccountNameCompleted(GetUserPropertyByAccountNa
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

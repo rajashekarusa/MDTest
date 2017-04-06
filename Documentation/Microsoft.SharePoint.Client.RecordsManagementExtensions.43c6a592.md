@@ -11,6 +11,7 @@ public static bool IsInPlaceRecordsManagementActive(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
+
 ### Return Value
 Type: bool  
 True if in place records management is enabled, false otherwise

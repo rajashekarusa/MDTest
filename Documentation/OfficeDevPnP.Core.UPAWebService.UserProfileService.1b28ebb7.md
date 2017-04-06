@@ -10,6 +10,7 @@ public void add_GetUserProfileCountCompleted(GetUserProfileCountCompletedEventHa
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

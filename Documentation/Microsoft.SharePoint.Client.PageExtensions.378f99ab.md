@@ -11,11 +11,14 @@ public static void AddLayoutToWikiPage(Web web, WikiPageLayout layout, String se
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *layout*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.WikiPageLayout](OfficeDevPnP.Core.WikiPageLayout.md)  
 &emsp;&emsp;Wiki page layout to be applied  
+
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

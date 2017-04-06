@@ -10,8 +10,10 @@ public void SetParent(ITreeNode node, Boolean updateChildNodes)
 ### Parameters
 *node*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md)  
+
 *(optional) updateChildNodes*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: void  
 

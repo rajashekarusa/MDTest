@@ -10,6 +10,7 @@ public static TermStore GetDefaultKeywordsTermStore(Site site)
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
+
 ### Return Value
 Type: TermStore  
 

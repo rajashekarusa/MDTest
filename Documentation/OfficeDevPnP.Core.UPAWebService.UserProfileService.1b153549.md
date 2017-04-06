@@ -10,6 +10,7 @@ public void remove_UpdateColleaguePrivacyCompleted(UpdateColleaguePrivacyComplet
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

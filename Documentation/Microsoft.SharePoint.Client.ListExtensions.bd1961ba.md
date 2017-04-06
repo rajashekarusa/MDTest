@@ -11,12 +11,15 @@ public static void SetListPermission(List list, Principal principal, RoleType ro
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List on which permission to be set  
+
 *principal*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Principal  
 &emsp;&emsp;SharePoint Group or User  
+
 *roleType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.RoleType  
 &emsp;&emsp;Role type  
+
 ### Return Value
 Type: void  
 

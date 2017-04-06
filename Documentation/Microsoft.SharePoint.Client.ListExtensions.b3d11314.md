@@ -10,6 +10,7 @@ public static List<Dictionary<String, String>> GetDefaultColumnValues(List list)
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 ### Return Value
 Type: List<Dictionary<String,  String>>  
 

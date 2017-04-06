@@ -10,6 +10,7 @@ public static T ToEnum(Byte enumValue)
 ### Parameters
 *enumValue*  
 &emsp;&emsp;Type: System.Byte  
+
 ### Return Value
 Type: T  
 

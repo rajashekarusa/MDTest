@@ -10,8 +10,10 @@ public static string ToDetailedString(Exception exception, ExceptionOptions opti
 ### Parameters
 *exception*  
 &emsp;&emsp;Type: System.Exception  
+
 *options*  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
+
 ### Return Value
 Type: string  
 

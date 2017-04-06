@@ -11,6 +11,7 @@ public static List<ExternalUserEntity> GetExternalUsersTenant(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
+
 ### Return Value
 Type: List<ExternalUserEntity>  
 A list of  objects

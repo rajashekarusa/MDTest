@@ -11,9 +11,11 @@ public static bool VerifyIfUploadRequired(File serverFile, Stream localStream)
 *serverFile*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
 &emsp;&emsp;File located on the server.  
+
 *localStream*  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;Stream to validate against.  
+
 ### Return Value
 Type: bool  
 

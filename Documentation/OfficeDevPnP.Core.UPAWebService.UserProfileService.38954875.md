@@ -10,6 +10,7 @@ public void remove_AddPinnedLinkCompleted(AddPinnedLinkCompletedEventHandler val
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

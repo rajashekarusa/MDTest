@@ -10,22 +10,31 @@ public static View CreateView(List list, String viewName, ViewType viewType, Str
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 *viewName*  
 &emsp;&emsp;Type: System.String  
+
 *viewType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ViewType  
+
 *viewFields*  
 &emsp;&emsp;Type: System.String[]  
+
 *rowLimit*  
 &emsp;&emsp;Type: System.UInt32  
+
 *setAsDefault*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) query*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) personal*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) paged*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: View  
 

@@ -10,6 +10,7 @@ public void GetUserProfileByGuidAsync(Guid guid)
 ### Parameters
 *guid*  
 &emsp;&emsp;Type: System.Guid  
+
 ### Return Value
 Type: void  
 

@@ -11,9 +11,11 @@ public static bool FolderExists(Web web, String folderName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check for the named folder  
+
 *folderName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve  
+
 ### Return Value
 Type: bool  
 true if the folder exists; false otherwise

@@ -10,6 +10,7 @@ public string ParseString(String input)
 ### Parameters
 *input*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

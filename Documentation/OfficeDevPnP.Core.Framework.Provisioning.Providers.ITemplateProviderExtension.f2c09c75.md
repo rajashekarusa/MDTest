@@ -10,6 +10,7 @@ public void Initialize(Object settings)
 ### Parameters
 *settings*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

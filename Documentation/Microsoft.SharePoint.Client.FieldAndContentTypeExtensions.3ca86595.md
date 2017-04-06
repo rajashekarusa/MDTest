@@ -11,11 +11,14 @@ public static Field GetFieldByInternalName(Web web, String internalName, Boolean
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
+
 *internalName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;If true, search parent sites and root site  
+
 *(optional) searchInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: Field  
 

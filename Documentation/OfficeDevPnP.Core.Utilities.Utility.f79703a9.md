@@ -10,6 +10,7 @@ public static int GetHealthScore(String url)
 ### Parameters
 *url*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: int  
 

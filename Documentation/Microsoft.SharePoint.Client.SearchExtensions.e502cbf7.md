@@ -11,14 +11,17 @@ public static void ImportSearchSettings(ClientContext context, String searchSche
 *context*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
+
 *searchSchemaImportFilePath*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Search schema xml file path  
+
 *searchSettingsImportLevel*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Search.Administration.SearchObjectLevel  
 &emsp;&emsp;Search settings import level
             Reference: http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.client.search.administration.searchobjectlevel(v=office.15).aspx
               
+
 ### Return Value
 Type: void  
 

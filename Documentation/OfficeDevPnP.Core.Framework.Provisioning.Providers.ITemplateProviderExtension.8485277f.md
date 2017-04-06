@@ -11,6 +11,7 @@ public ProvisioningTemplate PreProcessSaveTemplate(ProvisioningTemplate template
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The template that is going to be serialized  
+
 ### Return Value
 Type: ProvisioningTemplate  
 The resulting template, after pre-processing

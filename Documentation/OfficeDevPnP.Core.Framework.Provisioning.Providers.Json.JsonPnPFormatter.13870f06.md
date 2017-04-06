@@ -10,6 +10,7 @@ public bool IsValid(Stream template)
 ### Parameters
 *template*  
 &emsp;&emsp;Type: System.IO.Stream  
+
 ### Return Value
 Type: bool  
 

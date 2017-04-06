@@ -10,6 +10,7 @@ public static string ViewFields(String[] fieldRefs)
 ### Parameters
 *fieldRefs*  
 &emsp;&emsp;Type: System.String[]  
+
 ### Return Value
 Type: string  
 

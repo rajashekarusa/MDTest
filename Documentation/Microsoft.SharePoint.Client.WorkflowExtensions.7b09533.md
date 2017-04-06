@@ -10,6 +10,7 @@ public static void Delete(WorkflowSubscription subscription)
 ### Parameters
 *subscription*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
+
 ### Return Value
 Type: void  
 

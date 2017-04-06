@@ -11,6 +11,7 @@ public static ClientContext GetSiteCollectionContext(ClientRuntimeContext client
 *clientContext*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;Client context to take the credentials from  
+
 ### Return Value
 Type: ClientContext  
 A site collection client context object for the site collection

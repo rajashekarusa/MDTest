@@ -10,6 +10,7 @@ public bool Equals(CurrentNavigation other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md)  
+
 ### Return Value
 Type: bool  
 

@@ -10,8 +10,10 @@ public void Invoke(Object sender, GetProfileSchemaNameByAccountNameCompletedEven
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventArgs.md)  
+
 ### Return Value
 Type: void  
 

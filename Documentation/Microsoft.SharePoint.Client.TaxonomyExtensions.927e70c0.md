@@ -10,10 +10,13 @@ public static void SetTaxonomyFieldValues(ListItem item, Guid fieldId, IEnumerab
 ### Parameters
 *item*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
+
 *fieldId*  
 &emsp;&emsp;Type: System.Guid  
+
 *termValues*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.Guid, System.String>>  
+
 ### Return Value
 Type: void  
 

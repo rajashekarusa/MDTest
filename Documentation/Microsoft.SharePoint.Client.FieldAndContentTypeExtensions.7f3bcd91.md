@@ -10,9 +10,11 @@ public static void RemoveFieldById(Web web, String fieldId)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *fieldId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The id of the field to remove  
+
 ### Return Value
 Type: void  
 

@@ -11,6 +11,7 @@ public ProvisioningTemplate ToProvisioningTemplate(Stream template)
 *template*  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The input formatted template as a Stream  
+
 ### Return Value
 Type: ProvisioningTemplate  
 The output ProvisioningTemplate

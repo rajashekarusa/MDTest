@@ -11,18 +11,23 @@ public static void WireUpTaxonomyField(List list, Guid id, String mmsGroupName, 
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
+
 *id*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Field ID to be wired up  
+
 *mmsGroupName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Taxonomy group  
+
 *mmsTermSetName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Term set name  
+
 *(optional) multiValue*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Allow multiple selection  
+
 ### Return Value
 Type: void  
 

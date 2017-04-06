@@ -11,9 +11,11 @@ public static bool ListExists(Web web, String listTitle)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *listTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list to be checked.  
+
 ### Return Value
 Type: bool  
 True if the list exists

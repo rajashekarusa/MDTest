@@ -11,12 +11,15 @@ public static void SetDefaultContentTypeToList(Web web, List list, ContentType c
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
+
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to make default  
+
 ### Return Value
 Type: void  
 

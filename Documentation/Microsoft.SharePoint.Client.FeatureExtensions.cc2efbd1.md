@@ -11,9 +11,11 @@ public static bool IsFeatureActive(Site site, Guid featureID)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to operate against  
+
 *featureID*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the feature to check  
+
 ### Return Value
 Type: bool  
 True if active, false otherwise

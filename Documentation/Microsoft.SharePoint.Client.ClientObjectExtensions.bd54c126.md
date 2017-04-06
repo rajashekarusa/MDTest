@@ -11,6 +11,7 @@ public static bool ServerObjectIsNull(T clientObject)
 *clientObject*  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
+
 ### Return Value
 Type: bool  
 True if the server object is null, otherwise false

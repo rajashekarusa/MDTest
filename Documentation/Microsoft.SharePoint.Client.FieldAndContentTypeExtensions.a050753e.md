@@ -11,12 +11,15 @@ public static bool ContentTypeExistsById(Web web, String listTitle, String conte
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
+
 *listTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list to be updated  
+
 *contentTypeId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
+
 ### Return Value
 Type: bool  
 True if the content type exists, false otherwise

@@ -10,6 +10,7 @@ public static XmlQualifiedName GetSchema(XmlSchemaSet schemaSet)
 ### Parameters
 *schemaSet*  
 &emsp;&emsp;Type: System.Xml.Schema.XmlSchemaSet  
+
 ### Return Value
 Type: XmlQualifiedName  
 

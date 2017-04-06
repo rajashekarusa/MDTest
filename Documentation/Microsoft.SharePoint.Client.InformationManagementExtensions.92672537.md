@@ -11,6 +11,7 @@ public static List<SitePolicyEntity> GetSitePolicies(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
+
 ### Return Value
 Type: List<SitePolicyEntity>  
 A list of  objects

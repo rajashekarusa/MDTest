@@ -10,6 +10,7 @@ public void add_AddMembershipCompleted(AddMembershipCompletedEventHandler value)
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

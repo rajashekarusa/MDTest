@@ -10,8 +10,10 @@ public void Invoke(Object sender, GetUserMembershipsCompletedEventArgs e)
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventArgs.md)  
+
 ### Return Value
 Type: void  
 

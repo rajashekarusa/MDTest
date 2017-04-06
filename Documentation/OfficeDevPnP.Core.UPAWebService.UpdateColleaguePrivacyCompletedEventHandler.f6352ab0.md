@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, AsyncCompletedEventArgs e, AsyncC
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: System.ComponentModel.AsyncCompletedEventArgs  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

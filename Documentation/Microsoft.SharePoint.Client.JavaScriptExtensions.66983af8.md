@@ -11,9 +11,11 @@ public static bool DeleteJsLink(Web web, String key)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be deleted  
+
 ### Return Value
 Type: bool  
 True if action was ok

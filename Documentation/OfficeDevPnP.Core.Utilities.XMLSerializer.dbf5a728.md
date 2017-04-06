@@ -10,6 +10,7 @@ public static Stream SerializeToStream(T objectToSerialize)
 ### Parameters
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
+
 ### Return Value
 Type: Stream  
 An string that represents the serialized object.

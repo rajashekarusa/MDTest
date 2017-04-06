@@ -10,6 +10,7 @@ public ProvisioningTemplate ToProvisioningTemplate(Stream template)
 ### Parameters
 *template*  
 &emsp;&emsp;Type: System.IO.Stream  
+
 ### Return Value
 Type: ProvisioningTemplate  
 

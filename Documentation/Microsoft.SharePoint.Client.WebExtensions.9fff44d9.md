@@ -11,9 +11,11 @@ public static List<SiteEntity> SiteSearchScopedByTitle(Web web, String siteTitle
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *siteTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the site to search for  
+
 ### Return Value
 Type: List<SiteEntity>  
 All found site collections

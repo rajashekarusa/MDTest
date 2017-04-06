@@ -11,6 +11,7 @@ public bool IsValid(Stream template)
 *template*  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The formatted template instance as a Stream  
+
 ### Return Value
 Type: bool  
 Boolean result of the validation

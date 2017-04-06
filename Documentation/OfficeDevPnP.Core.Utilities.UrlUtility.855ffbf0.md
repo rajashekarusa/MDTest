@@ -10,8 +10,10 @@ public static string Combine(String path, String[] relativePaths)
 ### Parameters
 *path*  
 &emsp;&emsp;Type: System.String  
+
 *relativePaths*  
 &emsp;&emsp;Type: System.String[]  
+
 ### Return Value
 Type: string  
 

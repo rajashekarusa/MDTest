@@ -10,6 +10,7 @@ public static IWebPartPostProcessor Resolve(String wpXml)
 ### Parameters
 *wpXml*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: IWebPartPostProcessor  
 

@@ -10,18 +10,25 @@ public static TermSet ImportTermSet(TermGroup termGroup, String filePath, Guid t
 ### Parameters
 *termGroup*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
+
 *filePath*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) termSetId*  
 &emsp;&emsp;Type: System.Guid  
+
 *(optional) synchroniseDeletions*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) termSetIsOpen*  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
+
 *(optional) termSetContact*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) termSetOwner*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: TermSet  
 

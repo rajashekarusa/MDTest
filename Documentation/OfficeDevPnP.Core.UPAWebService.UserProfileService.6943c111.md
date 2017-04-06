@@ -10,6 +10,7 @@ public PropertyData[] GetUserProfileByName(String AccountName)
 ### Parameters
 *AccountName*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: PropertyData[]  
 

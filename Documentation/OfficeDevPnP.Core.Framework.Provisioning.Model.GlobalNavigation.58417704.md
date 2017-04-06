@@ -10,6 +10,7 @@ public bool Equals(GlobalNavigation other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md)  
+
 ### Return Value
 Type: bool  
 

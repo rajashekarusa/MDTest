@@ -10,8 +10,10 @@ public static WorkflowInstanceCollection GetWorkflowInstances(Web web, ListItem 
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *item*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
+
 ### Return Value
 Type: WorkflowInstanceCollection  
 

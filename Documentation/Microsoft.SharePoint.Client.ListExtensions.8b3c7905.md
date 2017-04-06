@@ -10,8 +10,10 @@ public static void CreateViewsFromXML(List list, XmlDocument xmlDoc)
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 *xmlDoc*  
 &emsp;&emsp;Type: System.Xml.XmlDocument  
+
 ### Return Value
 Type: void  
 

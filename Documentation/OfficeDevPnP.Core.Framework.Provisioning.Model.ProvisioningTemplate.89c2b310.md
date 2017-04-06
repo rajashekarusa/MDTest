@@ -10,6 +10,7 @@ public bool Equals(ProvisioningTemplate other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+
 ### Return Value
 Type: bool  
 

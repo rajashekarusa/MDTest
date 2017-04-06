@@ -10,6 +10,7 @@ public static PnPInfo UnpackTemplate(MemoryStream stream)
 ### Parameters
 *stream*  
 &emsp;&emsp;Type: System.IO.MemoryStream  
+
 ### Return Value
 Type: PnPInfo  
 

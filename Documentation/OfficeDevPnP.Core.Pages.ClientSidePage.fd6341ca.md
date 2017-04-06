@@ -10,6 +10,7 @@ public IEnumerable<ClientSideComponent> AvailableClientSideComponents(String nam
 ### Parameters
 *name*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: IEnumerable<ClientSideComponent>  
 

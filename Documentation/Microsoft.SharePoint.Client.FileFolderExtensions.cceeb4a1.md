@@ -10,11 +10,14 @@ public static Folder CreateDocumentSet(Folder folder, String documentSetName, Co
 ### Parameters
 *folder*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
+
 *documentSetName*  
 &emsp;&emsp;Type: System.String  
+
 *contentTypeId*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentTypeId  
 &emsp;&emsp;Content type of the document set  
+
 ### Return Value
 Type: Folder  
 The created Folder representing the document set, so that additional operations (such as setting properties) can be done.

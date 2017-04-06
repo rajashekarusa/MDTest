@@ -11,12 +11,15 @@ public static Byte[] Encrypt(Byte[] plainData, Boolean fOAEP, X509Certificate2 c
 *plainData*  
 &emsp;&emsp;Type: System.Byte[]  
 &emsp;&emsp;Bytes to encrypt  
+
 *fOAEP*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp; true to perform direct System.Security.Cryptography.RSA decryption using OAEP padding  
+
 *certificate*  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
 &emsp;&emsp;Certificate to use  
+
 ### Return Value
 Type: Byte[]  
 Encrypted bytes

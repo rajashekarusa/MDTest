@@ -11,6 +11,7 @@ public static Type GetType(String controlDataJson)
 *controlDataJson*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;data-sp-controldata json string  
+
 ### Return Value
 Type: Type  
 Type of the control represented by the json string

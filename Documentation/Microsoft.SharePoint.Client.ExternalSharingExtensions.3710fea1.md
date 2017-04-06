@@ -11,18 +11,23 @@ public static SharingResult ShareSite(Web web, String email, Group group, Boolea
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context of the site to be shared.  
+
 *email*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Email of the person to whom site should be shared.  
+
 *group*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group to invite the external user to  
+
 *(optional) sendEmail*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Should we send email for the given address.  
+
 *(optional) emailBody*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added on share email sent to receiver.  
+
 ### Return Value
 Type: SharingResult  
 

@@ -10,8 +10,10 @@ public static void SetSearchConfiguration(Web web, String searchConfiguration)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *searchConfiguration*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

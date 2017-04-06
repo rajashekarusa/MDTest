@@ -10,10 +10,13 @@ public static YammerGroup CreateYammerGroup(String groupName, Boolean isPrivate,
 ### Parameters
 *groupName*  
 &emsp;&emsp;Type: System.String  
+
 *isPrivate*  
 &emsp;&emsp;Type: System.Boolean  
+
 *accessToken*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: YammerGroup  
 

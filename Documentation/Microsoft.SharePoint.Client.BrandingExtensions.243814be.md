@@ -10,10 +10,13 @@ public static void SetDefaultPageLayoutForSite(Web web, Web rootWeb, String page
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *rootWeb*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *pageLayoutName*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

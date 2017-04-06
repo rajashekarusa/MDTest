@@ -11,9 +11,11 @@ public static bool ComposedLookExists(Web web, String composedLookName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
+
 *composedLookName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look  
+
 ### Return Value
 Type: bool  
 true if it exists; otherwise false

@@ -10,32 +10,46 @@ public static Guid CreateSiteCollection(Tenant tenant, String siteFullUrl, Strin
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 *siteFullUrl*  
 &emsp;&emsp;Type: System.String  
+
 *title*  
 &emsp;&emsp;Type: System.String  
+
 *siteOwnerLogin*  
 &emsp;&emsp;Type: System.String  
+
 *template*  
 &emsp;&emsp;Type: System.String  
+
 *storageMaximumLevel*  
 &emsp;&emsp;Type: System.Int32  
+
 *storageWarningLevel*  
 &emsp;&emsp;Type: System.Int32  
+
 *timeZoneId*  
 &emsp;&emsp;Type: System.Int32  
+
 *userCodeMaximumLevel*  
 &emsp;&emsp;Type: System.Int32  
+
 *userCodeWarningLevel*  
 &emsp;&emsp;Type: System.Int32  
+
 *lcid*  
 &emsp;&emsp;Type: System.UInt32  
+
 *(optional) removeFromRecycleBin*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) wait*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
+
 ### Return Value
 Type: Guid  
 

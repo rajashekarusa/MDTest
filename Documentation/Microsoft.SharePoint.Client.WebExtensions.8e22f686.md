@@ -11,9 +11,11 @@ public static ProvisioningTemplate GetProvisioningTemplate(Web web, Provisioning
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to get template from  
+
 *creationInfo*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md)  
 &emsp;&emsp;Specifies additional settings and/or properties  
+
 ### Return Value
 Type: ProvisioningTemplate  
 ProvisioningTemplate object with generated values from existing site

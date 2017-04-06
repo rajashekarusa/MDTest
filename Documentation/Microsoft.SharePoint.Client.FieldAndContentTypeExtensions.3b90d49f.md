@@ -11,12 +11,15 @@ public static bool ContentTypeExistsByName(Web web, String contentTypeName, Bool
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
+
 *contentTypeName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
+
 *(optional) searchInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Searches accross all content types in the site up to the root site  
+
 ### Return Value
 Type: bool  
 True if the content type exists, false otherwise

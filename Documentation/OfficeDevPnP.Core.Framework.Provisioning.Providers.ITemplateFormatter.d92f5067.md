@@ -11,6 +11,7 @@ public void Initialize(TemplateProviderBase provider)
 *provider*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)  
 &emsp;&emsp;The provider that is calling the current template formatter  
+
 ### Return Value
 Type: void  
 

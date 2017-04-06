@@ -10,6 +10,7 @@ public bool Equals(ContentType other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.md)  
+
 ### Return Value
 Type: bool  
 

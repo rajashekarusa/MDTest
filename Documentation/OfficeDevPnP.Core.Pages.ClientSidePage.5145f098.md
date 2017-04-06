@@ -10,6 +10,7 @@ public static ClientSidePage FromHtml(String html)
 ### Parameters
 *html*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: ClientSidePage  
 

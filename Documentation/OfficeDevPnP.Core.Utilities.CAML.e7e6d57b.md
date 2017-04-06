@@ -10,12 +10,16 @@ public static string FieldValue(Guid fieldId, String fieldValueType, String valu
 ### Parameters
 *fieldId*  
 &emsp;&emsp;Type: System.Guid  
+
 *fieldValueType*  
 &emsp;&emsp;Type: System.String  
+
 *value*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) additionalFieldRefParams*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

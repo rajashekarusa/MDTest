@@ -11,6 +11,7 @@ public static SitePolicyEntity GetAppliedSitePolicy(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
+
 ### Return Value
 Type: SitePolicyEntity  
 A  object holding the applied policy

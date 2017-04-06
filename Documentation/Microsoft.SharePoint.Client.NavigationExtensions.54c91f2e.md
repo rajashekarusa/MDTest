@@ -11,15 +11,19 @@ public static void DeleteNavigationNode(Web web, String nodeTitle, String parent
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *nodeTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;the title of node to delete  
+
 *parentNodeTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;if string.Empty, then will delete this node as top level node  
+
 *navigationType*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.NavigationType](OfficeDevPnP.Core.Enums.NavigationType.md)  
 &emsp;&emsp;the type of navigation, quick launch, top navigation or search navigation  
+
 ### Return Value
 Type: void  
 

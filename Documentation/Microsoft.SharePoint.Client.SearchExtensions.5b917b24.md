@@ -11,9 +11,11 @@ public static void SetSiteCollectionSearchCenterUrl(Web web, String searchCenter
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint site - root web  
+
 *searchCenterUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Search center url  
+
 ### Return Value
 Type: void  
 

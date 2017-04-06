@@ -11,6 +11,7 @@ public string GetFilenamePart(String fileName)
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Path to the file to retrieve the filename from  
+
 ### Return Value
 Type: string  
 

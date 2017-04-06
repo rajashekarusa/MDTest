@@ -10,10 +10,13 @@ public void AddControl(CanvasControl control, CanvasSection section, Int32 order
 ### Parameters
 *control*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)  
+
 *section*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md)  
+
 *order*  
 &emsp;&emsp;Type: System.Int32  
+
 ### Return Value
 Type: void  
 

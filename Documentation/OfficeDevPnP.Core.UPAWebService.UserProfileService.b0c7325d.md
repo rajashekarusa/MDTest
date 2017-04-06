@@ -10,6 +10,7 @@ public void remove_AddColleagueWithoutEmailNotificationCompleted(AddColleagueWit
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

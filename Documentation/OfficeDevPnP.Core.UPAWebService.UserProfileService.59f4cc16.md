@@ -10,14 +10,19 @@ public void UpdateMembershipPrivacyAsync(String accountName, Guid sourceInternal
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *sourceInternal*  
 &emsp;&emsp;Type: System.Guid  
+
 *sourceReference*  
 &emsp;&emsp;Type: System.String  
+
 *newPrivacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

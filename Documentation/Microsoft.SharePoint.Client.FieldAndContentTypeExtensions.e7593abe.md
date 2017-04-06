@@ -11,15 +11,19 @@ public static void SetLocalizationForContentType(ContentType contentType, String
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Name of the content type  
+
 *cultureName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture for the localization (en-es, nl-be, fi-fi,...)  
+
 *nameResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Name property  
+
 *descriptionResource*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Description property  
+
 ### Return Value
 Type: void  
 

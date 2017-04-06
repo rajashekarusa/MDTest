@@ -11,6 +11,7 @@ public string GetProperty(String propertyKey)
 *propertyKey*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property to retrieve  
+
 ### Return Value
 Type: string  
 Value of the requested property

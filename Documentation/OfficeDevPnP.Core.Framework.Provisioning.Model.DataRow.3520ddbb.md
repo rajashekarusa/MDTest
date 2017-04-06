@@ -10,6 +10,7 @@ public bool Equals(Object obj)
 ### Parameters
 *obj*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: bool  
 

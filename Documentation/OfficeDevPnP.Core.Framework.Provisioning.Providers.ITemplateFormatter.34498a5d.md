@@ -11,6 +11,7 @@ public Stream ToFormattedTemplate(ProvisioningTemplate template)
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The input ProvisioningTemplate  
+
 ### Return Value
 Type: Stream  
 The output formatted template as a Stream

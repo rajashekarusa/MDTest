@@ -10,6 +10,7 @@ public bool Equals(WorkflowSubscription other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md)  
+
 ### Return Value
 Type: bool  
 

@@ -11,9 +11,11 @@ public static NavigationTermSet GetEditableNavigationTermSet(Web web, ManagedNav
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target web.  
+
 *navigationKind*  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ManagedNavigationKind](Microsoft.SharePoint.Client.ManagedNavigationKind.md)  
 &emsp;&emsp;Declares whether to look for Current or Global Navigation  
+
 ### Return Value
 Type: NavigationTermSet  
 The editable Global Navigation TermSet

@@ -10,6 +10,7 @@ public bool Equals(SiteGroup other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroup.md)  
+
 ### Return Value
 Type: bool  
 

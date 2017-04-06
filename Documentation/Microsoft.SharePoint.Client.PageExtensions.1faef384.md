@@ -11,12 +11,15 @@ public static WebPartDefinition AddWebPartToWebPartPage(Web web, WebPartEntity w
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *webPart*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
 &emsp;&emsp;Information about the web part to insert  
+
 *page*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to add the web part on  
+
 ### Return Value
 Type: WebPartDefinition  
 Returns the added  object

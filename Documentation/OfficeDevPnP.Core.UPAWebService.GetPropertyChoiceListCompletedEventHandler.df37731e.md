@@ -10,8 +10,10 @@ public void Invoke(Object sender, GetPropertyChoiceListCompletedEventArgs e)
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs.md)  
+
 ### Return Value
 Type: void  
 

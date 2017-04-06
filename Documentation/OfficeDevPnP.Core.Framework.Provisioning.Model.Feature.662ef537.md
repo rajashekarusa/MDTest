@@ -10,6 +10,7 @@ public bool Equals(Feature other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md)  
+
 ### Return Value
 Type: bool  
 

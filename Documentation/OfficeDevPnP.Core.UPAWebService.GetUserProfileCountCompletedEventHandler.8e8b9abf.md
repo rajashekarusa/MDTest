@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, GetUserProfileCountCompletedEvent
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventArgs.md)  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

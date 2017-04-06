@@ -10,10 +10,13 @@ public static PnPPackage Open(Stream stream, FileMode mode, FileAccess access)
 ### Parameters
 *stream*  
 &emsp;&emsp;Type: System.IO.Stream  
+
 *mode*  
 &emsp;&emsp;Type: System.IO.FileMode  
+
 *access*  
 &emsp;&emsp;Type: System.IO.FileAccess  
+
 ### Return Value
 Type: PnPPackage  
 

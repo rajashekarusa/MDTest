@@ -10,14 +10,19 @@ public IAsyncResult BeginInvoke(String message, Int32 step, Int32 total, AsyncCa
 ### Parameters
 *message*  
 &emsp;&emsp;Type: System.String  
+
 *step*  
 &emsp;&emsp;Type: System.Int32  
+
 *total*  
 &emsp;&emsp;Type: System.Int32  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

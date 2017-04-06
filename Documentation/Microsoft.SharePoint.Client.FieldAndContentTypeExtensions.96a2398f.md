@@ -11,9 +11,11 @@ public static IEnumerable<Field> GetFields(List list, String[] fieldInternalName
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The target list containing the fields.  
+
 *fieldInternalNames*  
 &emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;List of field names to retreieve.  
+
 ### Return Value
 Type: IEnumerable<Field>  
 List of fields requested.

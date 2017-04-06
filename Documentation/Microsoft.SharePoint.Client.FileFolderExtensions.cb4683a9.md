@@ -10,10 +10,13 @@ public static Folder EnsureFolder(Folder parentFolder, String folderName, Expres
 ### Parameters
 *parentFolder*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
+
 *folderName*  
 &emsp;&emsp;Type: System.String  
+
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder, System.Object>>[]  
+
 ### Return Value
 Type: Folder  
 

@@ -11,14 +11,18 @@ public static bool AddJsLink(Site site, String key, String scriptLinks, Int32 se
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
+
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
+
 *scriptLinks*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;semi colon delimited list of links to javascript files  
+
 *(optional) sequence*  
 &emsp;&emsp;Type: System.Int32  
+
 ### Return Value
 Type: bool  
 True if action was ok

@@ -11,9 +11,11 @@ public static bool IsPropertyAvailable(T clientObject, Expression<Func<T, Object
 *clientObject*  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
+
 *propertySelector*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>  
 &emsp;&emsp;Lamda expression containing the properties to check (e.g. w => w.HasUniqueRoleAssignments)  
+
 ### Return Value
 Type: bool  
 True if the property is available, false otherwise

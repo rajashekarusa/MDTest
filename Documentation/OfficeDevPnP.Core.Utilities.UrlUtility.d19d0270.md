@@ -10,6 +10,7 @@ public static bool IsIisVirtualDirectory(String url)
 ### Parameters
 *url*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: bool  
 

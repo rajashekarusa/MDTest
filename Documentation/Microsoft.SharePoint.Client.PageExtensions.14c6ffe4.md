@@ -11,12 +11,15 @@ public static void DeleteWebPart(Web web, String serverRelativePageUrl, String t
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative URL of the page to remove  
+
 *title*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web part that needs to be deleted  
+
 ### Return Value
 Type: void  
 

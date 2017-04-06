@@ -11,12 +11,15 @@ public static string CreateAnonymousLinkForDocument(Web web, String urlToDocumen
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context used for people picker search  
+
 *urlToDocument*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Full URL to the file which is shared  
+
 *shareOption*  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;Type of the link to be created - View or Edit  
+
 ### Return Value
 Type: string  
 Anonymous URL to the file as string

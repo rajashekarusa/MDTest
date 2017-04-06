@@ -11,6 +11,7 @@ public PnPClientContext Clone(Uri siteUri)
 *siteUri*  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site url to be used for cloned ClientContext  
+
 ### Return Value
 Type: PnPClientContext  
 A PnPClientContext object created for the passed site url

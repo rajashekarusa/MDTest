@@ -11,9 +11,11 @@ public static void CreateFieldsFromXMLString(Web web, String xmlStructure)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
+
 *xmlStructure*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;XML structure in string format  
+
 ### Return Value
 Type: void  
 

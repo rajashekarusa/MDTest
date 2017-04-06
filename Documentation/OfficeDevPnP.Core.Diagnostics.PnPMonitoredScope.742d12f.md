@@ -10,8 +10,10 @@ public void LogError(String message, Object[] args)
 ### Parameters
 *message*  
 &emsp;&emsp;Type: System.String  
+
 *args*  
 &emsp;&emsp;Type: System.Object[]  
+
 ### Return Value
 Type: void  
 

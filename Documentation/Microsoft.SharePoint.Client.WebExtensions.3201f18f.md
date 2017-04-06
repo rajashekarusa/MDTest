@@ -11,6 +11,7 @@ public static IEnumerable<String> GetAllWebUrls(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to retrieve the URLs for.  
+
 ### Return Value
 Type: IEnumerable<String>  
 An enumeration containing the full URLs as strings.

@@ -10,22 +10,31 @@ public static Guid AddWorkflowSubscription(List list, WorkflowDefinition workflo
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 *workflowDefinition*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
+
 *subscriptionName*  
 &emsp;&emsp;Type: System.String  
+
 *startManually*  
 &emsp;&emsp;Type: System.Boolean  
+
 *startOnCreate*  
 &emsp;&emsp;Type: System.Boolean  
+
 *startOnChange*  
 &emsp;&emsp;Type: System.Boolean  
+
 *historyListName*  
 &emsp;&emsp;Type: System.String  
+
 *taskListName*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) associationValues*  
 &emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String, System.String>  
+
 ### Return Value
 Type: Guid  
 

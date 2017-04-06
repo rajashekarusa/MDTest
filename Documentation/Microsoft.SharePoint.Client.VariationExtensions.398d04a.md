@@ -11,9 +11,11 @@ public static void ProvisionSourceVariationLabel(ClientContext context, Variatio
 *context*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
+
 *sourceVariationLabel*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md)  
 &emsp;&emsp;Source variation label  
+
 ### Return Value
 Type: void  
 

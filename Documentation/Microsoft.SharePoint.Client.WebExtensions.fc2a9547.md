@@ -11,6 +11,7 @@ public static IEnumerable<String> GetIndexedPropertyBagKeys(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The site to process  
+
 ### Return Value
 Type: IEnumerable<String>  
 

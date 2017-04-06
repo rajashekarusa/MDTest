@@ -10,12 +10,16 @@ public static void Error(Exception ex, String source, String message, Object[] a
 ### Parameters
 *ex*  
 &emsp;&emsp;Type: System.Exception  
+
 *source*  
 &emsp;&emsp;Type: System.String  
+
 *message*  
 &emsp;&emsp;Type: System.String  
+
 *args*  
 &emsp;&emsp;Type: System.Object[]  
+
 ### Return Value
 Type: void  
 

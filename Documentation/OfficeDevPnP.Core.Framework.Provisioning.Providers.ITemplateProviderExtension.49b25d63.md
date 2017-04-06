@@ -11,6 +11,7 @@ public ProvisioningTemplate PostProcessGetTemplate(ProvisioningTemplate template
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The just deserialized template  
+
 ### Return Value
 Type: ProvisioningTemplate  
 The resulting template, after post-processing

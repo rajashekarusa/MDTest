@@ -10,8 +10,10 @@ public void GetProfileSchemaAsync(String schemaName, Object userState)
 ### Parameters
 *schemaName*  
 &emsp;&emsp;Type: System.String  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

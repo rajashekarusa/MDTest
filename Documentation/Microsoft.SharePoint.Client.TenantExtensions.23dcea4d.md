@@ -10,12 +10,16 @@ public static void AddAdministrators(Tenant tenant, IEnumerable<UserEntity> admi
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 *adminLogins*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.UserEntity>  
+
 *siteUrl*  
 &emsp;&emsp;Type: System.Uri  
+
 *(optional) addToOwnersGroup*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: void  
 

@@ -11,6 +11,7 @@ public static IList<ImageRendition> GetPublishingImageRenditions(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
+
 ### Return Value
 Type: IList<ImageRendition>  
 

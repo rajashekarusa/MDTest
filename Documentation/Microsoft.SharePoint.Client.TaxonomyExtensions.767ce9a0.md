@@ -10,15 +10,20 @@ public static void ImportTerms(Site site, String[] termLines, Int32 lcid, String
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
+
 *termLines*  
 &emsp;&emsp;Type: System.String[]  
+
 *lcid*  
 &emsp;&emsp;Type: System.Int32  
+
 *(optional) delimiter*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) synchronizeDeletions*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Remove tags that are not present in the import  
+
 ### Return Value
 Type: void  
 

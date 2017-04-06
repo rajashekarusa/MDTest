@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, GetUserProfileByGuidCompletedEven
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventArgs.md)  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

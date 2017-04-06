@@ -11,6 +11,7 @@ public string GetFile(String fileName)
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
+
 ### Return Value
 Type: string  
 String containing the file contents

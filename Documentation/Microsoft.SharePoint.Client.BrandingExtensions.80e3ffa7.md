@@ -11,15 +11,19 @@ public static File UploadThemeFile(Web web, String fileName, String localFilePat
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web site to upload to  
+
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to upload  
+
 *localFilePath*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Location of the file to be uploaded  
+
 *(optional) themeFolderVersion*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Leaf folder name to upload to; default is "15"  
+
 ### Return Value
 Type: File  
 The uploaded file, with at least the ServerRelativeUrl property available

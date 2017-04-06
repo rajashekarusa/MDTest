@@ -11,9 +11,11 @@ public static bool AddCustomAction(Site site, CustomActionEntity customAction)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to be processed  
+
 *customAction*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md)  
 &emsp;&emsp;Information about the custom action be added or deleted  
+
 ### Return Value
 Type: bool  
 True if action was successfull

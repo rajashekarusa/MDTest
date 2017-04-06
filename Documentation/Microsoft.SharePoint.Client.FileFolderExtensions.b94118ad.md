@@ -10,14 +10,19 @@ public static void SaveFileToLocal(Web web, String serverRelativeUrl, String loc
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *serverRelativeUrl*  
 &emsp;&emsp;Type: System.String  
+
 *localPath*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) localFileName*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) fileExistsCallBack*  
 &emsp;&emsp;Type: System.Func<System.String, System.Boolean>  
+
 ### Return Value
 Type: void  
 

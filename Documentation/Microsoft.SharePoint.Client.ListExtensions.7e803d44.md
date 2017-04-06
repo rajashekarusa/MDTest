@@ -11,9 +11,11 @@ public static Guid GetListID(Web web, String listName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *listName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;List to operate on  
+
 ### Return Value
 Type: Guid  
 

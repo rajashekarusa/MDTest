@@ -10,10 +10,13 @@ public static string GetWebPartXml(Web web, Guid webPartId, String serverRelativ
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *webPartId*  
 &emsp;&emsp;Type: System.Guid  
+
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

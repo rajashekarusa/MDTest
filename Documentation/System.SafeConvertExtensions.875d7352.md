@@ -11,9 +11,11 @@ public static double ToDouble(String input, Double defaultValue)
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
+
 *defaultValue*  
 &emsp;&emsp;Type: System.Double  
 &emsp;&emsp;A default value to return for a null input value.  
+
 ### Return Value
 Type: double  
 

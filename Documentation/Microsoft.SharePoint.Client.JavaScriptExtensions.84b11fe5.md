@@ -11,9 +11,11 @@ public static bool ExistsJsLink(Site site, String key)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
+
 *key*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
+
 ### Return Value
 Type: bool  
 

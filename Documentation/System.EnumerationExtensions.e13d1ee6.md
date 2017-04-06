@@ -10,8 +10,10 @@ public static bool Missing(Enum obj, T value)
 ### Parameters
 *obj*  
 &emsp;&emsp;Type: System.Enum  
+
 *value*  
 &emsp;&emsp;Type: T  
+
 ### Return Value
 Type: bool  
 

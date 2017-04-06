@@ -10,6 +10,7 @@ public bool Equals(User other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.User](OfficeDevPnP.Core.Framework.Provisioning.Model.User.md)  
+
 ### Return Value
 Type: bool  
 

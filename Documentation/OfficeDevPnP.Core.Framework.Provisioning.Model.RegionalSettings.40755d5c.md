@@ -10,6 +10,7 @@ public bool Equals(RegionalSettings other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md)  
+
 ### Return Value
 Type: bool  
 

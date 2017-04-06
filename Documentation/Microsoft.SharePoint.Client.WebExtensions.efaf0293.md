@@ -10,8 +10,10 @@ public static void EnableRequestAccess(Web web, IEnumerable<String> emails)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *emails*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+
 ### Return Value
 Type: void  
 

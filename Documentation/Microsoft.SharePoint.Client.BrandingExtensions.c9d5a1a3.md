@@ -11,27 +11,35 @@ public static void CreateComposedLookByUrl(Web web, String lookName, String pale
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to create the composed look in  
+
 *lookName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the theme  
+
 *paletteServerRelativeUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the palette file, usually in the theme catalog of the site collection  
+
 *fontServerRelativeUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the font file, usually in the theme catalog of the site collection  
+
 *backgroundServerRelativeUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the background image file, usually in /_layouts/15/images  
+
 *masterServerRelativeUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the master page, usually in the masterpage catalog of the web site  
+
 *(optional) displayOrder*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Display order of the composed look  
+
 *(optional) replaceContent*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Replace composed look if it already exists (default true)  
+
 ### Return Value
 Type: void  
 

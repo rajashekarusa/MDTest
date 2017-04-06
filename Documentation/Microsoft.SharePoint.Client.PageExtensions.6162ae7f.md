@@ -11,18 +11,23 @@ public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, Stri
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;server relative Url of the page to add the fragment to  
+
 *html*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;html to be inserted  
+
 *row*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Row of the wiki table that should hold the inserted web part  
+
 *col*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Column of the wiki table that should hold the inserted web part  
+
 ### Return Value
 Type: void  
 

@@ -10,9 +10,11 @@ public static bool CustomActionExists(Web web, String name)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *name*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the custom action  
+
 ### Return Value
 Type: bool  
 

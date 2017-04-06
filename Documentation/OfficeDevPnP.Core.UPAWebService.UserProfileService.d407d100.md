@@ -10,6 +10,7 @@ public void remove_GetLeadersCompleted(GetLeadersCompletedEventHandler value)
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

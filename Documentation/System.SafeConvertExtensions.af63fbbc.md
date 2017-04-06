@@ -11,6 +11,7 @@ public static double ToDouble(String input)
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
+
 ### Return Value
 Type: double  
 

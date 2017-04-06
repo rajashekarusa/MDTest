@@ -10,10 +10,13 @@ public void UpdatePinnedLinkAsync(String accountName, PinnedLinkData data, Objec
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *data*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.md)  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

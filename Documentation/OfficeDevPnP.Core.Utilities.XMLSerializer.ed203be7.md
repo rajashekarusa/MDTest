@@ -10,6 +10,7 @@ public static string Serialize(T objectToSerialize)
 ### Parameters
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
+
 ### Return Value
 Type: string  
 An string that represents the serialized object.

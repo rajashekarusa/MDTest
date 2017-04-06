@@ -10,8 +10,10 @@ public static int GetWssIdForTerm(Web web, Term term)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *term*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.Term  
+
 ### Return Value
 Type: int  
 

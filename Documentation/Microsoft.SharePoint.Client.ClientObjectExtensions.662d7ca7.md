@@ -10,9 +10,11 @@ public static void EnsureProperties(T clientObject, Expression<Func<T, Object>>[
 ### Parameters
 *clientObject*  
 &emsp;&emsp;Type: T  
+
 *propertySelector*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>[]  
 &emsp;&emsp;Lamda expressions containing the properties to ensure (e.g. w => w.HasUniqueRoleAssignments, w => w.ServerRelativeUrl)  
+
 ### Return Value
 Type: void  
 Property value

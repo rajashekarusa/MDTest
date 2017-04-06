@@ -10,10 +10,13 @@ public static Guid StartWorkflowInstance(ListItem item, String subscriptionName,
 ### Parameters
 *item*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
+
 *subscriptionName*  
 &emsp;&emsp;Type: System.String  
+
 *payload*  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String, System.Object>  
+
 ### Return Value
 Type: Guid  
 

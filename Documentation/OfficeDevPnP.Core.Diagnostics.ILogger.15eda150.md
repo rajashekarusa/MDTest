@@ -10,6 +10,7 @@ public void Error(LogEntry entry)
 ### Parameters
 *entry*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
+
 ### Return Value
 Type: void  
 

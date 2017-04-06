@@ -11,6 +11,7 @@ public Stream PreProcessGetTemplate(Stream stream)
 *stream*  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The source stream  
+
 ### Return Value
 Type: Stream  
 The resulting stream, after pre-processing

@@ -10,6 +10,7 @@ public static T Deserialize(XDocument xdoc)
 ### Parameters
 *xdoc*  
 &emsp;&emsp;Type: System.Xml.Linq.XDocument  
+
 ### Return Value
 Type: T  
 

@@ -10,6 +10,7 @@ public bool Equals(CustomAction other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md)  
+
 ### Return Value
 Type: bool  
 

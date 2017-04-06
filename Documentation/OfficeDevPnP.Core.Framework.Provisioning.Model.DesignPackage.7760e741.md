@@ -10,6 +10,7 @@ public bool Equals(DesignPackage other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md)  
+
 ### Return Value
 Type: bool  
 

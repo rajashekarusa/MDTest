@@ -10,6 +10,7 @@ public void remove_GetUserMembershipsCompleted(GetUserMembershipsCompletedEventH
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

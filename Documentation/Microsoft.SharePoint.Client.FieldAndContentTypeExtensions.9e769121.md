@@ -11,12 +11,15 @@ public static ContentType GetContentTypeById(Web web, String contentTypeId, Bool
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
+
 *contentTypeId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
+
 *(optional) searchInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Searches accross all content types in the site up to the root site  
+
 ### Return Value
 Type: ContentType  
 Content type object or null if was not found

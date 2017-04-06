@@ -10,6 +10,7 @@ public void GetUserProfileSchemaAsync(Object userState)
 ### Parameters
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

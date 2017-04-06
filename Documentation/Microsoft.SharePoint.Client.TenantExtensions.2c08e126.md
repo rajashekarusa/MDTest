@@ -10,6 +10,7 @@ public static IList<SiteEntity> GetOneDriveSiteCollections(Tenant tenant)
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 ### Return Value
 Type: IList<SiteEntity>  
 List of  objects containing site collection info.

@@ -10,6 +10,7 @@ public bool Equals(NavigationNode other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md)  
+
 ### Return Value
 Type: bool  
 

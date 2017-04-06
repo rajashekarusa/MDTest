@@ -11,9 +11,11 @@ public static List<File> FindFiles(Folder folder, String match)
 *folder*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;The folder to process  
+
 *match*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;a wildcard pattern to match  
+
 ### Return Value
 Type: List<File>  
 A list with the found  objects

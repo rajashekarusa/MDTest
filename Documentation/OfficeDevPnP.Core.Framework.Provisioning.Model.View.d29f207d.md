@@ -10,6 +10,7 @@ public bool Equals(View other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.View](OfficeDevPnP.Core.Framework.Provisioning.Model.View.md)  
+
 ### Return Value
 Type: bool  
 

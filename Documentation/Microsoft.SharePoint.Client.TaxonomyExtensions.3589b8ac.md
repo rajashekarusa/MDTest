@@ -11,15 +11,19 @@ public static Term AddTermToTermset(Site site, Guid termSetId, String term, Guid
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
+
 *termSetId*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termset  
+
 *term*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The label of the new term to create  
+
 *termId*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the term to create  
+
 ### Return Value
 Type: Term  
 

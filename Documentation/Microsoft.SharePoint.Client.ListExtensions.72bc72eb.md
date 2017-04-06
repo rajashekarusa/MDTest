@@ -11,6 +11,7 @@ public static List GetPagesLibrary(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web.  
+
 ### Return Value
 Type: List  
 The publishing pages library. Returns null if library was not found.

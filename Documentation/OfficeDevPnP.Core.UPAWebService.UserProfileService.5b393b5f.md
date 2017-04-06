@@ -10,10 +10,13 @@ public void GetUserPropertyByAccountNameAsync(String accountName, String propert
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *propertyName*  
 &emsp;&emsp;Type: System.String  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

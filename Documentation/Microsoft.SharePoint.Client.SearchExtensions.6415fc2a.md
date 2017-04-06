@@ -10,6 +10,7 @@ public static string GetSearchConfiguration(Site site)
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
+
 ### Return Value
 Type: string  
 

@@ -10,6 +10,7 @@ public static UserProfileService GetUserProfileServiceClient(Tenant tenant)
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 ### Return Value
 Type: UserProfileService  
 UserProfileService web service client

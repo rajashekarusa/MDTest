@@ -10,8 +10,10 @@ public void AddFile(String fileName, Byte[] value)
 ### Parameters
 *fileName*  
 &emsp;&emsp;Type: System.String  
+
 *value*  
 &emsp;&emsp;Type: System.Byte[]  
+
 ### Return Value
 Type: void  
 

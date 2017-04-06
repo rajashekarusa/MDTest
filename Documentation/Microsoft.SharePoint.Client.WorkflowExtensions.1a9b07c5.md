@@ -10,8 +10,10 @@ public static WorkflowDefinition GetWorkflowDefinition(Web web, Guid id)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *id*  
 &emsp;&emsp;Type: System.Guid  
+
 ### Return Value
 Type: WorkflowDefinition  
 

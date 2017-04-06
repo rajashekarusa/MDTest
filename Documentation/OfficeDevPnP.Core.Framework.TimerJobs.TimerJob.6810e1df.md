@@ -11,6 +11,7 @@ public IEnumerable<String> GetAllSubSites(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to find all sub site for  
+
 ### Return Value
 Type: IEnumerable<String>  
 IEnumerable of strings holding the sub site urls

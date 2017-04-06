@@ -10,6 +10,7 @@ public static bool SetOpenBySitePolicy(Web web)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 ### Return Value
 Type: bool  
 True if site was opened, false otherwise

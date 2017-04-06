@@ -10,10 +10,13 @@ public void ProcessRequest(ClientContext ctx, ProvisioningTemplate template, Str
 ### Parameters
 *ctx*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
+
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+
 *configurationData*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

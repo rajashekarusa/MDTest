@@ -10,6 +10,7 @@ public void add_GetUserPinnedLinksCompleted(GetUserPinnedLinksCompletedEventHand
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

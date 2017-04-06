@@ -10,8 +10,10 @@ public static string Or(String clause1, String[] conditionClauses)
 ### Parameters
 *clause1*  
 &emsp;&emsp;Type: System.String  
+
 *conditionClauses*  
 &emsp;&emsp;Type: System.String[]  
+
 ### Return Value
 Type: string  
 

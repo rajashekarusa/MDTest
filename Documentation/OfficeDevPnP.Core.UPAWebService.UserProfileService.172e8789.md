@@ -10,10 +10,13 @@ public void AddSuggestionsAsync(SuggestionType type, String[] suggestions, Doubl
 ### Parameters
 *type*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.SuggestionType](OfficeDevPnP.Core.UPAWebService.SuggestionType.md)  
+
 *suggestions*  
 &emsp;&emsp;Type: System.String[]  
+
 *weights*  
 &emsp;&emsp;Type: System.Double[]  
+
 ### Return Value
 Type: void  
 

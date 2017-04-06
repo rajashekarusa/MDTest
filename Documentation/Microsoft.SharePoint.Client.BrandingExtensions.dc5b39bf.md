@@ -10,10 +10,13 @@ public static void SetAvailablePageLayouts(Web web, Web rootWeb, IEnumerable<Str
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *rootWeb*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *pageLayouts*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+
 ### Return Value
 Type: void  
 

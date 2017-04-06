@@ -11,18 +11,23 @@ public static void AddFieldToContentType(Web web, ContentType contentType, Field
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to associate field to  
+
 *field*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to associate to the content type  
+
 *(optional) required*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this a required field  
+
 *(optional) hidden*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this a hidden field  
+
 ### Return Value
 Type: void  
 

@@ -11,15 +11,19 @@ public static void AddContentTypeToList(Web web, String listTitle, ContentType c
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
+
 *listTitle*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list  
+
 *contentType*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to be added to the list  
+
 *(optional) defaultContent*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
+
 ### Return Value
 Type: void  
 

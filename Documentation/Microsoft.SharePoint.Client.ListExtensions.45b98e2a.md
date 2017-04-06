@@ -10,10 +10,13 @@ public static List GetListByUrl(Web web, String webRelativeUrl, Expression<Func<
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *webRelativeUrl*  
 &emsp;&emsp;Type: System.String  
+
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.List, System.Object>>[]  
+
 ### Return Value
 Type: List  
 

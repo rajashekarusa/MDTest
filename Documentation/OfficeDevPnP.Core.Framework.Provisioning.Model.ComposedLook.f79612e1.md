@@ -10,6 +10,7 @@ public bool Equals(ComposedLook other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md)  
+
 ### Return Value
 Type: bool  
 

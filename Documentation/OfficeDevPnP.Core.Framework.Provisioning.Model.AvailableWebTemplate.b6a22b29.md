@@ -10,6 +10,7 @@ public bool Equals(AvailableWebTemplate other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.md)  
+
 ### Return Value
 Type: bool  
 

@@ -10,6 +10,7 @@ public ContactData GetCommonManager(String accountName)
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: ContactData  
 

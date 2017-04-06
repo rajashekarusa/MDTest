@@ -11,6 +11,7 @@ public static bool HasSitePolicyApplied(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
+
 ### Return Value
 Type: bool  
 True if a policy has been applied, false otherwise

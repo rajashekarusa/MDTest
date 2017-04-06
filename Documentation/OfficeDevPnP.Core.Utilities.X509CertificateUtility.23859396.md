@@ -11,12 +11,15 @@ public static X509Certificate2 LoadCertificate(StoreName storeName, StoreLocatio
 *storeName*  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.StoreName  
 &emsp;&emsp;Name of the certificate store  
+
 *storeLocation*  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.StoreLocation  
 &emsp;&emsp;Location of the certificate store  
+
 *thumbprint*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to load  
+
 ### Return Value
 Type: X509Certificate2  
 An  certificate

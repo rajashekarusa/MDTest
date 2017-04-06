@@ -11,12 +11,15 @@ public void SetEnumerationCredentials(String samAccountName, SecureString passwo
 *samAccountName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Account name of the enumeration user  
+
 *password*  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password of the enumeration user  
+
 *domain*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Domain of the enumeration user  
+
 ### Return Value
 Type: void  
 

@@ -11,6 +11,7 @@ public static string EncryptStringWithDPAPI(SecureString input)
 *input*  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;String (SecureString) to encrypt  
+
 ### Return Value
 Type: string  
 Encrypted string

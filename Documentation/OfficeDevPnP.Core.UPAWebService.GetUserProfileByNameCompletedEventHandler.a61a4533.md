@@ -10,8 +10,10 @@ public void Invoke(Object sender, GetUserProfileByNameCompletedEventArgs e)
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByNameCompletedEventArgs.md)  
+
 ### Return Value
 Type: void  
 

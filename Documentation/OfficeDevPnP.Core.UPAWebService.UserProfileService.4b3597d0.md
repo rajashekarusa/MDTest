@@ -10,6 +10,7 @@ public void CreateMemberGroup(MembershipData membershipInfo)
 ### Parameters
 *membershipInfo*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
+
 ### Return Value
 Type: void  
 

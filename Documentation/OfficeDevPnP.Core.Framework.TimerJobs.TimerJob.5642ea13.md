@@ -10,9 +10,11 @@ public void UseOffice365Authentication(String userUPN, String password)
 ### Parameters
 *userUPN*  
 &emsp;&emsp;Type: System.String  
+
 *password*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Password of the user that will be used to operate the timer job work  
+
 ### Return Value
 Type: void  
 

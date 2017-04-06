@@ -11,14 +11,18 @@ public static File UploadFileWebDav(Folder folder, String fileName, Stream strea
 *folder*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder to upload file to.  
+
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Location of the file to be uploaded.  
+
 *stream*  
 &emsp;&emsp;Type: System.IO.Stream  
+
 *overwriteIfExists*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;true (default) to overwite existing files  
+
 ### Return Value
 Type: File  
 The uploaded File, so that additional operations (such as setting properties) can be done.

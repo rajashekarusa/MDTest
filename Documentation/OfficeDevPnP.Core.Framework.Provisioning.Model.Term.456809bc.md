@@ -10,6 +10,7 @@ public bool Equals(Term other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md)  
+
 ### Return Value
 Type: bool  
 

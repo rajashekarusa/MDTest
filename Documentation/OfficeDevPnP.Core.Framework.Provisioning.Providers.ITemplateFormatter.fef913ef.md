@@ -11,9 +11,11 @@ public ProvisioningTemplate ToProvisioningTemplate(Stream template, String ident
 *template*  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The input formatted template as a Stream  
+
 *identifier*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The identifier of the template to convert  
+
 ### Return Value
 Type: ProvisioningTemplate  
 The output ProvisioningTemplate

@@ -10,10 +10,13 @@ public IEnumerable<TokenDefinition> GetTokens(ClientContext ctx, ProvisioningTem
 ### Parameters
 *ctx*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
+
 *template*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+
 *configurationData*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: IEnumerable<TokenDefinition>  
 

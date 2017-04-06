@@ -10,6 +10,7 @@ public InCommonData GetInCommon(String accountName)
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: InCommonData  
 

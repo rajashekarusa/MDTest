@@ -10,6 +10,7 @@ public static bool SetClosedBySitePolicy(Web web)
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 ### Return Value
 Type: bool  
 True if site was closed, false otherwise

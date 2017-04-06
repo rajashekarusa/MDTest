@@ -10,28 +10,40 @@ public static void SetSiteProperties(Tenant tenant, String siteFullUrl, String t
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 *siteFullUrl*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) title*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) allowSelfServiceUpgrade*  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
+
 *(optional) sharingCapability*  
 &emsp;&emsp;Type: System.Nullable<Microsoft.Online.SharePoint.TenantManagement.SharingCapabilities>  
+
 *(optional) storageMaximumLevel*  
 &emsp;&emsp;Type: System.Nullable<System.Int64>  
+
 *(optional) storageWarningLevel*  
 &emsp;&emsp;Type: System.Nullable<System.Int64>  
+
 *(optional) userCodeMaximumLevel*  
 &emsp;&emsp;Type: System.Nullable<System.Double>  
+
 *(optional) userCodeWarningLevel*  
 &emsp;&emsp;Type: System.Nullable<System.Double>  
+
 *(optional) noScriptSite*  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
+
 *(optional) wait*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
+
 ### Return Value
 Type: void  
 

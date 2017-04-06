@@ -10,6 +10,7 @@ public void Delete(String uri)
 ### Parameters
 *uri*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

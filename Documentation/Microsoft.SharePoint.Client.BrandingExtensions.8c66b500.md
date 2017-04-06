@@ -11,9 +11,11 @@ public static void SetMasterPageByName(Web web, String masterPageName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Current web  
+
 *masterPageName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the master page. Path is resolved from this.  
+
 ### Return Value
 Type: void  
 

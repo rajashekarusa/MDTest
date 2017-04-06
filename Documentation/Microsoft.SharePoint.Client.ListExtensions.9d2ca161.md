@@ -10,6 +10,7 @@ public static void ReIndexList(List list)
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 ### Return Value
 Type: void  
 

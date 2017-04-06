@@ -10,10 +10,13 @@ public int FindIndex(Int32 startIndex, Int32 count, Predicate match)
 ### Parameters
 *startIndex*  
 &emsp;&emsp;Type: System.Int32  
+
 *count*  
 &emsp;&emsp;Type: System.Int32  
+
 *match*  
 &emsp;&emsp;Type: System.Predicate  
+
 ### Return Value
 Type: int  
 

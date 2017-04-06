@@ -10,22 +10,31 @@ public static void AddPublishingPage(Web web, String pageName, String pageTempla
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *pageName*  
 &emsp;&emsp;Type: System.String  
+
 *pageTemplateName*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) title*  
 &emsp;&emsp;Type: System.String  
+
 *(optional) publish*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) folder*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
+
 *(optional) startDate*  
 &emsp;&emsp;Type: System.Nullable<System.DateTime>  
+
 *(optional) endDate*  
 &emsp;&emsp;Type: System.Nullable<System.DateTime>  
+
 *(optional) schedule*  
 &emsp;&emsp;Type: System.Boolean  
+
 ### Return Value
 Type: void  
 

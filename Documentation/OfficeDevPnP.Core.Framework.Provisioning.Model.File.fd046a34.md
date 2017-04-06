@@ -10,6 +10,7 @@ public bool Equals(File other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md)  
+
 ### Return Value
 Type: bool  
 

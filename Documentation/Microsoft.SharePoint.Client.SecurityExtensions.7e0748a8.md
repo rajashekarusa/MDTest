@@ -11,9 +11,11 @@ public static bool GroupExists(Web web, String groupName)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
+
 *groupName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
+
 ### Return Value
 Type: bool  
 True if the group exists, false otherwise

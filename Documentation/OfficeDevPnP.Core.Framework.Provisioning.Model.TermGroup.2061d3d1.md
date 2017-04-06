@@ -10,6 +10,7 @@ public bool Equals(TermGroup other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md)  
+
 ### Return Value
 Type: bool  
 

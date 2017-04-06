@@ -10,8 +10,10 @@ public static string AppendQueryString(String path, String queryString)
 ### Parameters
 *path*  
 &emsp;&emsp;Type: System.String  
+
 *queryString*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

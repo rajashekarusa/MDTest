@@ -10,12 +10,16 @@ public void AddPinnedLinkAsync(String accountName, String name, String url, Obje
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *name*  
 &emsp;&emsp;Type: System.String  
+
 *url*  
 &emsp;&emsp;Type: System.String  
+
 *userState*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: void  
 

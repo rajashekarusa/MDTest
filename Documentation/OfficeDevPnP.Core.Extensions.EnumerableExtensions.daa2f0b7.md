@@ -11,9 +11,11 @@ public static bool DeepEquals(IEnumerable source, IEnumerable target)
 *source*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Source enumeration  
+
 *target*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Target enumeration  
+
 ### Return Value
 Type: bool  
 Wether the two enumerations are deep equal

@@ -10,12 +10,16 @@ public ProvisioningTemplate GetTemplate(String uri, String identifier, ITemplate
 ### Parameters
 *uri*  
 &emsp;&emsp;Type: System.String  
+
 *identifier*  
 &emsp;&emsp;Type: System.String  
+
 *formatter*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
+
 *extensions*  
 &emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
+
 ### Return Value
 Type: ProvisioningTemplate  
 

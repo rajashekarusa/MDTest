@@ -11,18 +11,23 @@ public static UnifiedGroupEntity GetUnifiedGroup(String groupId, String accessTo
 *groupId*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The ID of the Office 365 Group  
+
 *accessToken*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The OAuth 2.0 Access Token to use for invoking the Microsoft Graph  
+
 *(optional) retryCount*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Number of times to retry the request in case of throttling  
+
 *(optional) delay*  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
+
 *(optional) includeSite*  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether to return details about the Modern SharePoint Site backing the group. Default is true.  
+
 ### Return Value
 Type: UnifiedGroupEntity  
 

@@ -10,12 +10,16 @@ public void AddMembershipAsync(String accountName, MembershipData membershipInfo
 ### Parameters
 *accountName*  
 &emsp;&emsp;Type: System.String  
+
 *membershipInfo*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
+
 *group*  
 &emsp;&emsp;Type: System.String  
+
 *privacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
+
 ### Return Value
 Type: void  
 

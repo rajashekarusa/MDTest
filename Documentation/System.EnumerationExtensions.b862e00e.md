@@ -10,8 +10,10 @@ public static bool Has(Enum value, T check)
 ### Parameters
 *value*  
 &emsp;&emsp;Type: System.Enum  
+
 *check*  
 &emsp;&emsp;Type: T  
+
 ### Return Value
 Type: bool  
 

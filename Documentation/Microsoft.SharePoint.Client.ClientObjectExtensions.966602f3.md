@@ -11,6 +11,7 @@ public static Expression<Func<TInput, Object>> ToUntypedPropertyExpression(Expre
 *expression*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<TInput, TOutput>>  
 &emsp;&emsp; to convert   
+
 ### Return Value
 Type: Expression<Func<TInput,  Object>>  
 New Expression where return type is object and not generic

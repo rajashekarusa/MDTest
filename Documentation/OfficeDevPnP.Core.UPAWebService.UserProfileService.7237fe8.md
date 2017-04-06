@@ -10,6 +10,7 @@ public void add_UpdateMembershipPrivacyCompleted(UpdateMembershipPrivacyComplete
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdateMembershipPrivacyCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

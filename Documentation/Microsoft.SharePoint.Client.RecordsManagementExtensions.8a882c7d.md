@@ -11,6 +11,7 @@ public static EcmRecordDeclarationBy GetRecordDeclarationBy(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
+
 ### Return Value
 Type: EcmRecordDeclarationBy  
  enum that defines who can declare a record

@@ -10,6 +10,7 @@ public void remove_RemoveAllLinksCompleted(RemoveAllLinksCompletedEventHandler v
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllLinksCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

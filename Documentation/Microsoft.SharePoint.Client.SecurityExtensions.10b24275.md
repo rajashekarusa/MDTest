@@ -11,6 +11,7 @@ public static List<UserEntity> GetAdministrators(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
+
 ### Return Value
 Type: List<UserEntity>  
 List of  objects

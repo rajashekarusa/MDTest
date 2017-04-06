@@ -10,6 +10,7 @@ public void remove_GetCommonMembershipsCompleted(GetCommonMembershipsCompletedEv
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

@@ -10,8 +10,10 @@ public static void CreateViewsFromXMLString(List list, String xmlString)
 ### Parameters
 *list*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+
 *xmlString*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: void  
 

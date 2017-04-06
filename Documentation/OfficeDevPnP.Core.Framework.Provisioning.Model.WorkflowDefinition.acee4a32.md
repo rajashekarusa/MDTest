@@ -10,6 +10,7 @@ public bool Equals(WorkflowDefinition other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.md)  
+
 ### Return Value
 Type: bool  
 

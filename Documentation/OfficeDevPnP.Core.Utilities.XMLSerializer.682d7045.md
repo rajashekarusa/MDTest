@@ -11,6 +11,7 @@ public static T Deserialize(String xmlString)
 *xmlString*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string in XML format that representing the serialized object  
+
 ### Return Value
 Type: T  
 An object instance of T

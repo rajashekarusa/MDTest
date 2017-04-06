@@ -10,12 +10,16 @@ public IAsyncResult BeginInvoke(Object sender, GetCommonMembershipsCompletedEven
 ### Parameters
 *sender*  
 &emsp;&emsp;Type: System.Object  
+
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventArgs.md)  
+
 *callback*  
 &emsp;&emsp;Type: System.AsyncCallback  
+
 *object*  
 &emsp;&emsp;Type: System.Object  
+
 ### Return Value
 Type: IAsyncResult  
 

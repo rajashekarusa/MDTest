@@ -10,6 +10,7 @@ public List<String> ResolveAddedSites(List<String> addedSites)
 ### Parameters
 *addedSites*  
 &emsp;&emsp;Type: System.Collections.Generic.List<System.String>  
+
 ### Return Value
 Type: List<String>  
 

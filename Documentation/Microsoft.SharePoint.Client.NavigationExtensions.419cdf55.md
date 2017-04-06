@@ -10,8 +10,10 @@ public static void UpdateNavigationSettings(Web web, AreaNavigationEntity naviga
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+
 *navigationSettings*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md)  
+
 ### Return Value
 Type: void  
 

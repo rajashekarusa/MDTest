@@ -10,14 +10,19 @@ public static void SetSiteLockState(Tenant tenant, String siteFullUrl, SiteLockS
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 *siteFullUrl*  
 &emsp;&emsp;Type: System.String  
+
 *lockState*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.SiteLockState](OfficeDevPnP.Core.SiteLockState.md)  
+
 *(optional) wait*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
+
 ### Return Value
 Type: void  
 

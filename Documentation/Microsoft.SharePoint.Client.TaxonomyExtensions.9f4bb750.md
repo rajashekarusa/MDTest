@@ -11,9 +11,11 @@ public static void RemoveTaxonomyFieldByInternalName(Web web, String internalNam
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web object were the field (site column) exists  
+
 *internalName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Internal name of the taxonomy field (site column) to be removed  
+
 ### Return Value
 Type: void  
 

@@ -10,6 +10,7 @@ public void remove_GetUserProfileByIndexCompleted(GetUserProfileByIndexCompleted
 ### Parameters
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.md)  
+
 ### Return Value
 Type: void  
 

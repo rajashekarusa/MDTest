@@ -10,6 +10,7 @@ public static string StripInvalidUrlChars(String content)
 ### Parameters
 *content*  
 &emsp;&emsp;Type: System.String  
+
 ### Return Value
 Type: string  
 

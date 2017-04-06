@@ -11,17 +11,22 @@ public CookieContainer GetFedAuthCookie(String siteUrl, String serialNumber, Uri
 *siteUrl*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Url of the SharePoint site that's secured via ADFS  
+
 *serialNumber*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Serial Number of the Current User > My Certificate to use to authenticate   
+
 *certificateMixed*  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Uri to the ADFS certificatemixed endpoint  
+
 *relyingPartyIdentifier*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier of the ADFS relying party that we're hitting  
+
 *logonTokenCacheExpirationWindow*  
 &emsp;&emsp;Type: System.Int32  
+
 ### Return Value
 Type: CookieContainer  
 A cookiecontainer holding the FedAuth cookie

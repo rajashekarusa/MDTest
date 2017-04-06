@@ -10,6 +10,7 @@ public bool Equals(DefaultDocument other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md)  
+
 ### Return Value
 Type: bool  
 

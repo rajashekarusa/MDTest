@@ -10,8 +10,10 @@ public ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl
 ### Parameters
 *siteUrl*  
 &emsp;&emsp;Type: System.String  
+
 *accessTokenGetter*  
 &emsp;&emsp;Type: System.Func<System.String, System.String>  
+
 ### Return Value
 Type: ClientContext  
 

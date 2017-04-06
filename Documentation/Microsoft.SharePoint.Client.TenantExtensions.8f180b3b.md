@@ -10,14 +10,19 @@ public static Guid CreateSiteCollection(Tenant tenant, SiteEntity properties, Bo
 ### Parameters
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
+
 *properties*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  
+
 *(optional) removeFromRecycleBin*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) wait*  
 &emsp;&emsp;Type: System.Boolean  
+
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
+
 ### Return Value
 Type: Guid  
 

@@ -10,6 +10,7 @@ public bool Equals(ObjectSecurity other)
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
+
 ### Return Value
 Type: bool  
 
