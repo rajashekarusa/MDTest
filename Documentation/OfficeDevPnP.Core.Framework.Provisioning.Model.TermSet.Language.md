@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<int32> Language { get; set; }
+public Nullable<Int32> Language { get; set; }
 ```
 
 ### Property Value

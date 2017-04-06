@@ -5,7 +5,7 @@ The Files origin
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public packagepart FilesOriginPart { get; }
+public PackagePart FilesOriginPart { get; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ Defines whether to auto-accept requests to join or leave the Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AutoAcceptRequestToJoinLeave { get; set; }
+public bool AutoAcceptRequestToJoinLeave { get; set; }
 ```
 
 ### Property Value

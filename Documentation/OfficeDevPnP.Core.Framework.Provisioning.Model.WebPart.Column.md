@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint32 Column { get; set; }
+public uint Column { get; set; }
 ```
 
 ### Property Value

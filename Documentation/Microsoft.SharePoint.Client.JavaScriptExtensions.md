@@ -6,6 +6,7 @@ Deprecated JavaScript related methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class JavaScriptExtensions

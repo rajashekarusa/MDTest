@@ -12,7 +12,7 @@ public static void SetSiteToInheritPageLayouts(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Term(Guid id, String name, Nullable<Int32> language, List<Term> terms, List<TermLabel> labels, Dictionary<String, String> properties, Dictionary<String, String> localProperties)
+public Term(Guid id, string name, Nullable<Int32> language, List<Term> terms, List<TermLabel> labels, Dictionary<String, String> properties, Dictionary<String, String> localProperties)
 ```
 ### Parameters
 #### id  

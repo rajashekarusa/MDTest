@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md) 
 ## Syntax
 ```C#
 public class DefaultDocumentCollection: ProvisioningTemplateCollection<DefaultDocument>

@@ -5,13 +5,13 @@ Close a site, if it has a site policy applied and is currently not closed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean SetClosedBySitePolicy(Web web)
+public static bool SetClosedBySitePolicy(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if site was closed, false otherwise
 
 ## See also

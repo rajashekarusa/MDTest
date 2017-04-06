@@ -6,6 +6,7 @@ Helper class that abstracts from any specific version of XMLPnPSchemaFormatter
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class XMLPnPSchemaFormatter
@@ -13,7 +14,7 @@ public class XMLPnPSchemaFormatter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XMLPnPSchemaFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.ctor1.md) | <summary> Helper class that abstracts from any specific version of XMLPnPSchemaFormatter </summary>
+| [XMLPnPSchemaFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.ctor1.md) |  Helper class that abstracts from any specific version of XMLPnPSchemaFormatter 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

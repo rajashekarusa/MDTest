@@ -5,7 +5,7 @@ Gets or sets if the field is Required
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Required { get; set; }
+public bool Required { get; set; }
 ```
 
 ### Property Value

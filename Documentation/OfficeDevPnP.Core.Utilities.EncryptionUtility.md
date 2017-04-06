@@ -6,6 +6,7 @@ Utility class that support certificate based encryption/decryption
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class EncryptionUtility

@@ -5,7 +5,7 @@ Add content type to list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddContentTypeToListByName(List list, String contentTypeName, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
+public static bool AddContentTypeToListByName(List list, String contentTypeName, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
 ```
 ### Parameters
 *list*  
@@ -21,7 +21,7 @@ public static boolean AddContentTypeToListByName(List list, String contentTypeNa
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;search for content type in site hierarchy  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

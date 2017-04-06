@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public JsonFileSystemTemplateProvider(String connectionString, String container)
+public JsonFileSystemTemplateProvider(string connectionString, string container)
 ```
 ### Parameters
 #### connectionString  

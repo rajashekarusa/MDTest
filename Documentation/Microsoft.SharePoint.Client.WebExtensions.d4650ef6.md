@@ -5,7 +5,7 @@ Unmarks a property bag key for indexing
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean RemoveIndexedPropertyBagKey(Web web, String key)
+public static bool RemoveIndexedPropertyBagKey(Web web, String key)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean RemoveIndexedPropertyBagKey(Web web, String key)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to unmark for indexed. Case-sensitive  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 Returns True if succeeded
 
 ## See also

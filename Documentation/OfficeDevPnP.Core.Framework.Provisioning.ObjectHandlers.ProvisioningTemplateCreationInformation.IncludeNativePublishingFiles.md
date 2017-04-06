@@ -5,7 +5,7 @@ Defines whether to extract native publishing files (MasterPages and PageLayouts)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IncludeNativePublishingFiles { get; set; }
+public bool IncludeNativePublishingFiles { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean enable_groups { get; set; }
+public bool enable_groups { get; set; }
 ```
 
 ### Property Value

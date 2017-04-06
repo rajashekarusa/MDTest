@@ -6,6 +6,7 @@ File descriptor for every single file in the PnP OpenXML file
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PnPFileInfo
@@ -13,7 +14,7 @@ public class PnPFileInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.ctor1.md) | <summary> File descriptor for every single file in the PnP OpenXML file </summary>
+| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.ctor1.md) |  File descriptor for every single file in the PnP OpenXML file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

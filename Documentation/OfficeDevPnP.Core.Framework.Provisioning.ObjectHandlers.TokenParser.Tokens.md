@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<tokendefinition> Tokens { get; }
+public List<TokenDefinition> Tokens { get; }
 ```
 
 ### Property Value

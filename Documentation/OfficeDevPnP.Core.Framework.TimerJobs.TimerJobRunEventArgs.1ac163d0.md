@@ -12,7 +12,7 @@ public string GetProperty(String propertyKey)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property to retrieve  
 ### Return Value
-Type: System.String  
+Type: string  
 Value of the requested property
 
 ## See also

@@ -5,14 +5,14 @@ Returns all image renditions
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ilist<imagerendition> GetPublishingImageRenditions(Web web)
+public static IList<ImageRendition> GetPublishingImageRenditions(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
 ### Return Value
-Type: System.Collections.Generic.IList<Microsoft.SharePoint.Client.Publishing.ImageRendition>  
+Type: IList<ImageRendition>  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

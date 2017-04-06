@@ -5,7 +5,7 @@ The ID of the TermGroup
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; set; }
+public Guid Id { get; set; }
 ```
 
 ### Property Value

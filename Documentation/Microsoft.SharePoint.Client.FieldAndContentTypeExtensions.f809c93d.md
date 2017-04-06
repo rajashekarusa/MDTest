@@ -15,7 +15,7 @@ public static void SetDefaultContentTypeToList(List list, String contentTypeId)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 Notice. Currently removes other content types from the list. Known issue

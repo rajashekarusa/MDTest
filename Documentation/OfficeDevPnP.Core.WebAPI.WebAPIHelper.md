@@ -6,6 +6,7 @@ This class provides helper methods that can be used to protect WebAPI services a
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class WebAPIHelper

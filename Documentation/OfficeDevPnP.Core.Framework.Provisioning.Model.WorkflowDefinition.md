@@ -5,7 +5,7 @@ Defines a Workflow Definition to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class WorkflowDefinition: BaseModel
@@ -13,8 +13,8 @@ public class WorkflowDefinition: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) | <summary> Defines a Workflow Definition to provision </summary>
-| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) | <summary> Defines a Workflow Definition to provision </summary>
+| [WorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor1.md) |  Defines a Workflow Definition to provision 
+| [WorkflowDefinition(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinition.ctor2.md) |  Defines a Workflow Definition to provision 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,6 +6,7 @@ Extension methods to make working with Enum values easier. Copied from http://hu
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class EnumerationExtensions

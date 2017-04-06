@@ -11,7 +11,7 @@ public void AddRange(IEnumerable collection)
 *collection*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

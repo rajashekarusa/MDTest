@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(ObjectSecurity other)
+public bool Equals(ObjectSecurity other)
 ```
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

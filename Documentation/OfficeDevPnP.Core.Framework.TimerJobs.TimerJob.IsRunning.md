@@ -5,7 +5,7 @@ Is this timer job running?
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsRunning { get; }
+public bool IsRunning { get; }
 ```
 
 ### Property Value

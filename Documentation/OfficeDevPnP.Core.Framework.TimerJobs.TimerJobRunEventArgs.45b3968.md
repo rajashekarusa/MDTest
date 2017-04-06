@@ -12,7 +12,7 @@ public void DeleteProperty(String propertyKey)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the property to delete  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -15,7 +15,7 @@ public void UpdateLinkAsync(String accountName, QuickLinkData data, Object userS
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

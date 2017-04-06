@@ -5,7 +5,7 @@ Any parameters that can be used throughout the template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> Parameters { get; }
+public Dictionary<String, String> Parameters { get; }
 ```
 
 ### Property Value

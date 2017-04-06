@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public XMLOpenXMLTemplateProvider(String packageFileName, FileConnectorBase persistenceConnector, String author, X509Certificate2 signingCertificate)
+public XMLOpenXMLTemplateProvider(string packageFileName, FileConnectorBase persistenceConnector, string author, X509Certificate2 signingCertificate)
 ```
 ### Parameters
 #### packageFileName  

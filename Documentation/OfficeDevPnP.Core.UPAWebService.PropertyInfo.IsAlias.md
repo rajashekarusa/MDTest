@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsAlias { get; set; }
+public bool IsAlias { get; set; }
 ```
 
 ### Property Value

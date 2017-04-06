@@ -5,7 +5,7 @@ Defines the Regional Settings for a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class RegionalSettings: BaseModel
@@ -13,7 +13,7 @@ public class RegionalSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) | <summary> Defines the Regional Settings for a site </summary>
+| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.ctor1.md) |  Defines the Regional Settings for a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

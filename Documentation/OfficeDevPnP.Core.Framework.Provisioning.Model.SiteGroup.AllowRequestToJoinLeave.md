@@ -5,7 +5,7 @@ Defines whether to allow requests to join or leave the Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowRequestToJoinLeave { get; set; }
+public bool AllowRequestToJoinLeave { get; set; }
 ```
 
 ### Property Value

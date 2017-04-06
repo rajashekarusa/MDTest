@@ -6,6 +6,7 @@ This manager class can be used to obtain a SharePointContext object
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class AuthenticationManager
@@ -13,7 +14,7 @@ public class AuthenticationManager
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuthenticationManager()](OfficeDevPnP.Core.AuthenticationManager.ctor1.md) | <summary> This manager class can be used to obtain a SharePointContext object </summary>
+| [AuthenticationManager()](OfficeDevPnP.Core.AuthenticationManager.ctor1.md) |  This manager class can be used to obtain a SharePointContext object 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

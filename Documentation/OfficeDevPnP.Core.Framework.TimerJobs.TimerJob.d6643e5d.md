@@ -18,7 +18,7 @@ public void UseAzureADAppOnlyAuthentication(String clientId, String azureTenant,
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
 &emsp;&emsp;The X.509 Certificate to use for AppOnly Authentication  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

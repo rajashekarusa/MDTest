@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsColleagueEventLog { get; set; }
+public bool IsColleagueEventLog { get; set; }
 ```
 
 ### Property Value

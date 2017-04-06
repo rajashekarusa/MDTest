@@ -13,7 +13,7 @@ public ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl
 *accessTokenGetter*  
 &emsp;&emsp;Type: System.Func<System.String, System.String>  
 ### Return Value
-Type: Microsoft.SharePoint.Client.ClientContext  
+Type: ClientContext  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

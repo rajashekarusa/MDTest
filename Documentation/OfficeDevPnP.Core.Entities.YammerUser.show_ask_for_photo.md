@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean show_ask_for_photo { get; set; }
+public bool show_ask_for_photo { get; set; }
 ```
 
 ### Property Value

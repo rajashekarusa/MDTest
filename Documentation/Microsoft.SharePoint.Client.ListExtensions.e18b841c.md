@@ -20,7 +20,7 @@ public static List CreateDocumentLibrary(Web web, String listName, Boolean enabl
 *(optional) urlPath*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.List  
+Type: List  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -19,7 +19,7 @@ public void AddColleagueAsync(String accountName, String colleagueAccountName, S
 *isInWorkGroup*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

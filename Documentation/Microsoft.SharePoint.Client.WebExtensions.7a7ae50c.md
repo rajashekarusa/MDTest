@@ -5,7 +5,7 @@ Checks if the given property bag entry exists
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean PropertyBagContainsKey(Web web, String key)
+public static bool PropertyBagContainsKey(Web web, String key)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean PropertyBagContainsKey(Web web, String key)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to check  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if the entry exists, false otherwise
 
 ## See also

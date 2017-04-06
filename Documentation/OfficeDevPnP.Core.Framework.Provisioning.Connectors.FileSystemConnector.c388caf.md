@@ -5,14 +5,14 @@ Get the folders of a specified container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<string> GetFolders(String container)
+public List<String> GetFolders(String container)
 ```
 ### Parameters
 *container*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the folders from  
 ### Return Value
-Type: System.Collections.Generic.List<System.String>  
+Type: List<String>  
 List of folders
 
 ## See also

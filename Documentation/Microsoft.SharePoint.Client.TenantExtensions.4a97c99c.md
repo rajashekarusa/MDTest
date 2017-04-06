@@ -11,7 +11,7 @@ public static UserProfileService GetUserProfileServiceClient(Tenant tenant)
 *tenant*  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md)  
+Type: UserProfileService  
 UserProfileService web service client
 
 ## See also

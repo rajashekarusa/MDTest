@@ -11,7 +11,7 @@ public static PnPInfo UnpackTemplate(Byte[] packageBytes)
 *packageBytes*  
 &emsp;&emsp;Type: System.Byte[]  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.md)  
+Type: PnPInfo  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

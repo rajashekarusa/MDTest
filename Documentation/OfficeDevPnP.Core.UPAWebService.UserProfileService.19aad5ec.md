@@ -11,7 +11,7 @@ public MembershipData[] GetCommonMemberships(String accountName)
 *accountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: OfficeDevPnP.Core.UPAWebService.MembershipData[]  
+Type: MembershipData[]  
 
 ## Remarks 
 

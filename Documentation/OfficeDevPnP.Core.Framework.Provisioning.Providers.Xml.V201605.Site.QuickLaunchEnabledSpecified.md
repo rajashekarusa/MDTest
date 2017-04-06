@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean QuickLaunchEnabledSpecified { get; set; }
+public bool QuickLaunchEnabledSpecified { get; set; }
 ```
 
 ### Property Value

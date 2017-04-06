@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsPublishingWeb(Web web)
+public static bool IsPublishingWeb(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

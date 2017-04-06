@@ -6,6 +6,7 @@ Class that holds deprecated methods for site (both site collection and web site)
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class WebExtensions

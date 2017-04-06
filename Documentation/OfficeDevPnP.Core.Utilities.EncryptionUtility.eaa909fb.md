@@ -5,14 +5,14 @@ Decrypts a DPAPI encryped string
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static securestring DecryptStringWithDPAPI(String encryptedData)
+public static SecureString DecryptStringWithDPAPI(String encryptedData)
 ```
 ### Parameters
 *encryptedData*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Encrypted string  
 ### Return Value
-Type: System.Security.SecureString  
+Type: SecureString  
 Decrypted (SecureString)string
 
 ## See also

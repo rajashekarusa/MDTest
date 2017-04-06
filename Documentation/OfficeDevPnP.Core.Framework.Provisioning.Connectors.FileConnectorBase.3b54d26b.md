@@ -15,7 +15,7 @@ public void SaveFileStream(String fileName, Stream stream)
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;Stream containing the file contents  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

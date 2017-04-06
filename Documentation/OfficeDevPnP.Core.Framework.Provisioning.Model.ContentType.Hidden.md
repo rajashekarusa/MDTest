@@ -5,7 +5,7 @@ True to define the content type as hidden. If you define a content type as hidde
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Hidden { get; set; }
+public bool Hidden { get; set; }
 ```
 
 ### Property Value

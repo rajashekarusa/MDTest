@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean MaxVersionLimitSpecified { get; set; }
+public bool MaxVersionLimitSpecified { get; set; }
 ```
 
 ### Property Value

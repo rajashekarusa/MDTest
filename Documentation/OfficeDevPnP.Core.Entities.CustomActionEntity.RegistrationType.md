@@ -5,7 +5,7 @@ Specifies the type of object associated with the custom action. A Nullable Type
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<usercustomactionregistrationtype> RegistrationType { get; set; }
+public Nullable<UserCustomActionRegistrationType> RegistrationType { get; set; }
 ```
 
 ### Property Value

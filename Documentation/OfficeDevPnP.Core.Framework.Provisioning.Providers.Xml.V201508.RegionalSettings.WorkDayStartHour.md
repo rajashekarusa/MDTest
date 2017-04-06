@@ -9,7 +9,7 @@ public WorkHour WorkDayStartHour { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkHour  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkHour](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkHour.md)  
 
 ## Remarks 
 

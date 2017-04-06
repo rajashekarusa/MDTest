@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public securitymode SecurityMode { get; set; }
+public SecurityMode SecurityMode { get; set; }
 ```
 
 ### Property Value

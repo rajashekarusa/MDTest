@@ -1,5 +1,5 @@
 # ClientSideWebPart.Properties Properties
- Web properties as configurable Newtonsoft.Json.Linq.JObject  
+ Web properties as configurable T:Newtonsoft.Json.Linq.JObject  
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,6 +12,6 @@ public JObject Properties { get; }
 Type: Newtonsoft.Json.Linq.JObject  
 
 ## See also
-- [T:Newtonsoft.Json.Linq.JObject](T:Newtonsoft.Json.Linq.JObject.md)
+- Newtonsoft.Json.Linq.JObject
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 

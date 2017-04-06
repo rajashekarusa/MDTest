@@ -1,11 +1,11 @@
 # PropertyContainerType.Properties IpersonalizableSpecified
-<summary> <para xml:lang="en">Gets a value indicating whether the Ipersonalizable collection is empty.</para> </summary>  
+ <para xml:lang="en">Gets a value indicating whether the Ipersonalizable collection is empty.</para>   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IpersonalizableSpecified { get; }
+public bool IpersonalizableSpecified { get; }
 ```
 
 ### Property Value

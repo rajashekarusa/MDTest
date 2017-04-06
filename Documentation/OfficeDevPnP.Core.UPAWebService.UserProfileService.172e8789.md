@@ -15,7 +15,7 @@ public void AddSuggestionsAsync(SuggestionType type, String[] suggestions, Doubl
 *weights*  
 &emsp;&emsp;Type: System.Double[]  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

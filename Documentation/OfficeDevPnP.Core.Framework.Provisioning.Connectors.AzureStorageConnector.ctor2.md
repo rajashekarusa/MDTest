@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public AzureStorageConnector(String connectionString, String container)
+public AzureStorageConnector(string connectionString, string container)
 ```
 ### Parameters
 #### connectionString  

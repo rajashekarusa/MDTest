@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Localization(Int32 lcid, String name, String resourceFile)
+public Localization(int lcid, string name, string resourceFile)
 ```
 ### Parameters
 #### lcid  

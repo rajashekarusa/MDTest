@@ -15,7 +15,7 @@ public void UpdatePinnedLinkAsync(String accountName, PinnedLinkData data, Objec
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

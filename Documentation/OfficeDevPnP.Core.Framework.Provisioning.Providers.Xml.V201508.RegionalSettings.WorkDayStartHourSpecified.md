@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean WorkDayStartHourSpecified { get; set; }
+public bool WorkDayStartHourSpecified { get; set; }
 ```
 
 ### Property Value

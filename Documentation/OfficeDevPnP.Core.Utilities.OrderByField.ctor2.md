@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public OrderByField(String name, Boolean ascending)
+public OrderByField(string name, bool ascending)
 ```
 ### Parameters
 #### name  

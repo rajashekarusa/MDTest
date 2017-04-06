@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean BreakRoleInheritance { get; set; }
+public bool BreakRoleInheritance { get; set; }
 ```
 
 ### Property Value

@@ -27,8 +27,9 @@ public static WebPartDefinition AddWebPartToWikiPage(Web web, String serverRelat
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Does a blank line need to be added after the web part (to space web parts)  
 ### Return Value
-Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
+Type: WebPartDefinition  
 Returns the added  object
 
 ## See also
+- Microsoft.SharePoint.Client.WebParts.WebPartDefinition
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

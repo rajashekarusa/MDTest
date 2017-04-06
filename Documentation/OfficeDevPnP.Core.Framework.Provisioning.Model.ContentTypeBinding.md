@@ -5,7 +5,7 @@ Domain Object for Content Type Binding in the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class ContentTypeBinding: BaseModel
@@ -13,7 +13,7 @@ public class ContentTypeBinding: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) | <summary> Domain Object for Content Type Binding in the Provisioning Template </summary>
+| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.ctor1.md) |  Domain Object for Content Type Binding in the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

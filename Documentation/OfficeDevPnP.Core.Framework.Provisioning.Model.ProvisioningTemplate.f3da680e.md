@@ -11,7 +11,7 @@ public string ToXML(ITemplateFormatter formatter)
 *(optional) formatter*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

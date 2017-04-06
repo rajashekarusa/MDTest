@@ -5,7 +5,7 @@ The Current Navigation settings for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 
 ## Syntax
 ```C#
 public class CurrentNavigation: BaseNavigationKind
@@ -13,8 +13,8 @@ public class CurrentNavigation: BaseNavigationKind
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor1.md) | <summary> The Current Navigation settings for the Provisioning Template </summary>
-| [CurrentNavigation(CurrentNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor2.md) | <summary> The Current Navigation settings for the Provisioning Template </summary>
+| [CurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor1.md) |  The Current Navigation settings for the Provisioning Template 
+| [CurrentNavigation(CurrentNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.ctor2.md) |  The Current Navigation settings for the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

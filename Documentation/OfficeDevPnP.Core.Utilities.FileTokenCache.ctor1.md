@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public FileTokenCache(String filePath)
+public FileTokenCache(string filePath)
 ```
 ### Parameters
 #### (optional) filePath  

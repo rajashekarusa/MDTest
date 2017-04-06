@@ -15,7 +15,7 @@ public static void SetRating(List list, VotingExperience experience)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.VotingExperience](OfficeDevPnP.Core.VotingExperience.md)  
 &emsp;&emsp;Likes/Ratings  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

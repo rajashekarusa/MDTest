@@ -15,7 +15,7 @@ public void RemoveMembership(String accountName, Guid sourceInternal, String sou
 *sourceReference*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

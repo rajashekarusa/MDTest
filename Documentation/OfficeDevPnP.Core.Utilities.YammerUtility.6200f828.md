@@ -25,7 +25,7 @@ public static string CreateYammerOpenGraphDiscussionPartXml(String yammerNetwork
 *(optional) groupId*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

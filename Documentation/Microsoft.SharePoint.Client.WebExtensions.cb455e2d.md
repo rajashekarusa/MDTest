@@ -24,7 +24,7 @@ public static void UninstallSolution(Site site, Guid packageGuid, String fileNam
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Optional minor version of the solution, defaults to 0  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

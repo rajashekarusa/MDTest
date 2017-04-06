@@ -8,7 +8,7 @@
 public Leader[] GetLeaders()
 ```
 ### Return Value
-Type: OfficeDevPnP.Core.UPAWebService.Leader[]  
+Type: Leader[]  
 
 ## Remarks 
 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<guid> TermSetId { get; set; }
+public Nullable<Guid> TermSetId { get; set; }
 ```
 
 ### Property Value

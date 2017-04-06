@@ -5,7 +5,7 @@ Defines the Permissions of the Role Definition
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<permissionkind> Permissions { get; }
+public List<PermissionKind> Permissions { get; }
 ```
 
 ### Property Value

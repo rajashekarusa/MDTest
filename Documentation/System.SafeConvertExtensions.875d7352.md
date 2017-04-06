@@ -15,7 +15,7 @@ public static double ToDouble(String input, Double defaultValue)
 &emsp;&emsp;Type: System.Double  
 &emsp;&emsp;A default value to return for a null input value.  
 ### Return Value
-Type: System.Double  
+Type: double  
 
 ## See also
 - [System](System.md)

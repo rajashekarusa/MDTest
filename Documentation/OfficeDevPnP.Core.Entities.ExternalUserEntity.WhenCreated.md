@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime WhenCreated { get; set; }
+public DateTime WhenCreated { get; set; }
 ```
 
 ### Property Value

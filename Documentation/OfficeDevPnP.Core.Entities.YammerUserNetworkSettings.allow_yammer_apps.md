@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean allow_yammer_apps { get; set; }
+public bool allow_yammer_apps { get; set; }
 ```
 
 ### Property Value

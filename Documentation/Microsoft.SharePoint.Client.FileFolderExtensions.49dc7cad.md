@@ -20,7 +20,7 @@ public static File UploadFileWebDav(Folder folder, String fileName, String local
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;true (default) to overwite existing files  
 ### Return Value
-Type: Microsoft.SharePoint.Client.File  
+Type: File  
 The uploaded File, so that additional operations (such as setting properties) can be done.
 
 ## See also

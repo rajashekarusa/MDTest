@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(DefaultDocument other)
+public bool Equals(DefaultDocument other)
 ```
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

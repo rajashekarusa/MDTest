@@ -13,7 +13,7 @@ public void Invoke(Object sender, AddColleagueCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

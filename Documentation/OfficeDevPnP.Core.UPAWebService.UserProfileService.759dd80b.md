@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string[] GetPropertyChoiceList(String propertyName)
+public String[] GetPropertyChoiceList(String propertyName)
 ```
 ### Parameters
 *propertyName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String[]  
+Type: String[]  
 
 ## Remarks 
 

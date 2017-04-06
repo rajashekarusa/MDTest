@@ -5,7 +5,7 @@ Add content type to list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddContentTypeToList(List list, ContentType contentType, Boolean defaultContent)
+public static bool AddContentTypeToList(List list, ContentType contentType, Boolean defaultContent)
 ```
 ### Parameters
 *list*  
@@ -18,7 +18,7 @@ public static boolean AddContentTypeToList(List list, ContentType contentType, B
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

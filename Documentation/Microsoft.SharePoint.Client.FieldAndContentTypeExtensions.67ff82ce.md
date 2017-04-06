@@ -5,7 +5,7 @@ Field exists in list by name
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean FieldExistsByName(List list, String fieldName)
+public static bool FieldExistsByName(List list, String fieldName)
 ```
 ### Parameters
 *list*  
@@ -15,7 +15,7 @@ public static boolean FieldExistsByName(List list, String fieldName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Internal name of the field  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if the fields exists, false otherwise
 
 ## See also

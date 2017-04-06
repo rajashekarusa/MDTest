@@ -5,7 +5,7 @@ Role Assignment for a target Principal
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class RoleAssignment: BaseModel
@@ -13,7 +13,7 @@ public class RoleAssignment: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) | <summary> Role Assignment for a target Principal </summary>
+| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.ctor1.md) |  Role Assignment for a target Principal 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -8,5 +8,4 @@
 public ClientSideWebPart()
 ```
 ## See also
-- [T:OfficeDevPnP.Core.Pages.ClientSidePage](T:OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

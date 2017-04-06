@@ -15,7 +15,7 @@ public static Folder EnsureFolder(Folder parentFolder, String folderName, Expres
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder, System.Object>>[]  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Folder  
+Type: Folder  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

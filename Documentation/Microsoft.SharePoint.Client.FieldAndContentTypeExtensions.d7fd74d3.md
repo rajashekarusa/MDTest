@@ -5,7 +5,7 @@ Does field exist in web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean FieldExistsById(Web web, String fieldId, Boolean searchInSiteHierarchy)
+public static bool FieldExistsById(Web web, String fieldId, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
 *web*  
@@ -18,7 +18,7 @@ public static boolean FieldExistsById(Web web, String fieldId, Boolean searchInS
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If true, search parent sites and root site  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if exists, false otherwise
 
 ## See also

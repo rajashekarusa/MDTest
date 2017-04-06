@@ -12,7 +12,7 @@ public static long ToInt64(String input)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 ### Return Value
-Type: System.Int64  
+Type: long  
 
 ## See also
 - [System](System.md)

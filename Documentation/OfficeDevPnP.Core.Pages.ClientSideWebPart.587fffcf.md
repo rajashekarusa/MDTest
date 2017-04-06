@@ -13,8 +13,7 @@ public void Import(ClientSideComponent component, Func<String, String> clientSid
 *(optional) clientSideWebPartPropertiesUpdater*  
 &emsp;&emsp;Type: System.Func<System.String, System.String>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
-- [T:OfficeDevPnP.Core.Pages.ClientSidePage](T:OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

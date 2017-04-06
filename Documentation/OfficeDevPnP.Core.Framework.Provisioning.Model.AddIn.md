@@ -5,7 +5,7 @@ Defines an Add-in to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class AddIn: BaseModel
@@ -13,7 +13,7 @@ public class AddIn: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddIn()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.ctor1.md) | <summary> Defines an Add-in to provision </summary>
+| [AddIn()](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.ctor1.md) |  Defines an Add-in to provision 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,7 +5,7 @@ Send email notification Mapped to property "SendNotificationEmailPropertyName"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SendNotificationEmail { get; set; }
+public bool SendNotificationEmail { get; set; }
 ```
 
 ### Property Value

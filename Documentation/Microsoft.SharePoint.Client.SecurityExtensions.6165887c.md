@@ -15,7 +15,7 @@ public static string GetSharingCapabilitiesTenant(Web web, Uri siteUrl)
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site to get the sharing capabilities from  
 ### Return Value
-Type: System.String  
+Type: string  
 Sharing capabilities of the site collection
 
 ## See also

@@ -6,6 +6,7 @@ This class will be used to provide access to the right base template configurati
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class BaseTemplateManager

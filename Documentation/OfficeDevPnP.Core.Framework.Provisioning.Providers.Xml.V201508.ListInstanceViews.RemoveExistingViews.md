@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RemoveExistingViews { get; set; }
+public bool RemoveExistingViews { get; set; }
 ```
 
 ### Property Value

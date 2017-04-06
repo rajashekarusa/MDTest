@@ -5,7 +5,7 @@ Domain Object that represents an Feature.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class Feature: BaseModel
@@ -13,7 +13,7 @@ public class Feature: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) | <summary> Domain Object that represents an Feature. </summary>
+| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.ctor1.md) |  Domain Object that represents an Feature. 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

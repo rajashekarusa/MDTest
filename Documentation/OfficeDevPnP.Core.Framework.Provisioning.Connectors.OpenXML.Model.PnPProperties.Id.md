@@ -5,7 +5,7 @@ Unique ID for the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; set; }
+public Guid Id { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ Collection of DataRow objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.md) 
 ## Syntax
 ```C#
 public class DataRowCollection: ProvisioningTemplateCollection<DataRow>
@@ -13,6 +13,6 @@ public class DataRowCollection: ProvisioningTemplateCollection<DataRow>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataRowCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.ctor1.md) | <summary> Collection of DataRow objects </summary>
+| [DataRowCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.ctor1.md) |  Collection of DataRow objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

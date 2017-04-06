@@ -11,7 +11,7 @@ public string ParseString(String input)
 *input*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

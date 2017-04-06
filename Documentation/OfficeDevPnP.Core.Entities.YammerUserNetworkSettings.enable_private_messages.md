@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean enable_private_messages { get; set; }
+public bool enable_private_messages { get; set; }
 ```
 
 ### Property Value

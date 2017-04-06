@@ -12,9 +12,9 @@ public WebAPIContexCacheItem Get(String cacheKey)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key to retrieve an item from cache  
 ### Return Value
-Type: [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)  
+Type: WebAPIContexCacheItem  
 A  object
 
 ## See also
-- [T:OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](T:OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)
+- [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

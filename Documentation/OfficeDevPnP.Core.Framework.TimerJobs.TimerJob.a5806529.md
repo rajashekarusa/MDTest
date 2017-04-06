@@ -14,7 +14,7 @@ public void SetEnumerationCredentials(String userUPN, SecureString password)
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password of the enumeration user  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -15,7 +15,7 @@ public static void RemoveGroup(Web web, String groupName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

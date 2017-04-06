@@ -1,11 +1,11 @@
 # PropertyContainerType.Properties Ipersonalizable
-<summary></summary>  
+  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public collection<propertytype> Ipersonalizable { get; }
+public Collection<PropertyType> Ipersonalizable { get; }
 ```
 
 ### Property Value

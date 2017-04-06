@@ -8,10 +8,10 @@
 ## Interfaces
 |**Interface**|**Description**|
 |:-----|:-----|
-|[ITreeNodeList`1](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeList`1.md)||
-|[ITreeNode`1](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode`1.md)||
+|[ITreeNodeList](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeList.md)||
 |[ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md)||
-|[ITreeNodeAware`1](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeAware`1.md)||
+|[ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md)||
+|[ITreeNodeAware](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeAware.md)||
 ## Enumerations
 |**Enumeration**|**Description**|
 |:-----|:-----|

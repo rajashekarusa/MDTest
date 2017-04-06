@@ -8,9 +8,8 @@ Returns a HTML representation of the client side web part
 public string ToHtml()
 ```
 ### Return Value
-Type: System.String  
+Type: string  
 HTML representation of the client side web part
 
 ## See also
-- [T:OfficeDevPnP.Core.Pages.ClientSidePage](T:OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

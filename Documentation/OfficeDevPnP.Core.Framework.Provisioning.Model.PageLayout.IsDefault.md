@@ -5,7 +5,7 @@ Defines whether the Page Layout is the default for the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsDefault { get; set; }
+public bool IsDefault { get; set; }
 ```
 
 ### Property Value

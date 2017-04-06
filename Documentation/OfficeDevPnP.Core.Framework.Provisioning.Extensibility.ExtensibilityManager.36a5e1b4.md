@@ -18,7 +18,7 @@ public void ExecuteExtensibilityCallOut(ClientContext ctx, ExtensibilityHandler 
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;ProvisioningTemplate that is passed to the custom provider  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

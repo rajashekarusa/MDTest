@@ -15,7 +15,7 @@ public static string ToDetailedString(Exception exception, ClientRuntimeContext 
 *options*  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [System](System.md)

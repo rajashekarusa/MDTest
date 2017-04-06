@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md)
+  [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md) 
 ## Syntax
 ```C#
 public class Tree: TreeNode

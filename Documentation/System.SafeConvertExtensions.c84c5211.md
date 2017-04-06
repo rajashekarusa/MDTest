@@ -15,7 +15,7 @@ public static int ToInt32(String input, Int32 defaultValue)
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;A default value to return for a null input value.  
 ### Return Value
-Type: System.Int32  
+Type: int  
 
 ## See also
 - [System](System.md)

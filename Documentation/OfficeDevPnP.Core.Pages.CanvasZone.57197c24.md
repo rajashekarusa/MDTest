@@ -11,7 +11,7 @@ public void AddSection(CanvasSection section)
 *section*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

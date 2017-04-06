@@ -15,7 +15,7 @@ public static Field GetFieldById(Web web, Guid fieldId, Boolean searchInSiteHier
 *(optional) searchInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -13,7 +13,7 @@ public static void AddRange(IDictionary<TKey, TValue> dictionary, IDictionary<TK
 *range*  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey, TValue>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

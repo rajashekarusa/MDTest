@@ -6,6 +6,7 @@ Extension type for Dictionaries
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class DictionaryExtensions

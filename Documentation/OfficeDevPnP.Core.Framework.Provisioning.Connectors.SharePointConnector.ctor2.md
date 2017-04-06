@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public SharePointConnector(ClientRuntimeContext clientContext, String connectionString, String container)
+public SharePointConnector(ClientRuntimeContext clientContext, string connectionString, string container)
 ```
 ### Parameters
 #### clientContext  

@@ -9,7 +9,7 @@ public GlobalNavigationType NavigationType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigationType.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

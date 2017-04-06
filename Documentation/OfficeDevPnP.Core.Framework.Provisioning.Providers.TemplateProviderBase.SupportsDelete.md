@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SupportsDelete { get; }
+public bool SupportsDelete { get; }
 ```
 
 ### Property Value

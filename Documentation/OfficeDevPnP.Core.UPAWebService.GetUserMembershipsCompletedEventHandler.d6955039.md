@@ -13,7 +13,7 @@ public void Invoke(Object sender, GetUserMembershipsCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ExtensiblityPipelineException(String message, Exception innerException)
+public ExtensiblityPipelineException(string message, Exception innerException)
 ```
 ### Parameters
 #### message  

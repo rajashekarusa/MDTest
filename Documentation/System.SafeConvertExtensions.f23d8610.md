@@ -5,14 +5,14 @@ Converts the input string to a Guid and if null, it returns the default value.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid ToGuid(String input)
+public static Guid ToGuid(String input)
 ```
 ### Parameters
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 ### Return Value
-Type: System.Guid  
+Type: Guid  
 
 ## See also
 - [System](System.md)

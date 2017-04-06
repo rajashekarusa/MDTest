@@ -27,7 +27,7 @@ public static File DeployMasterPage(Web web, String sourceFilePath, String title
 *(optional) folderPath*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.File  
+Type: File  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

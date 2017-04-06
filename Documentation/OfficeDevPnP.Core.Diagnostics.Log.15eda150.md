@@ -11,7 +11,7 @@ public static void Error(LogEntry logEntry)
 *logEntry*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

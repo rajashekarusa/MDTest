@@ -6,6 +6,7 @@ Safely convert strings to specified types.
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class SafeConvertExtensions

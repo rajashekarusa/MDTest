@@ -5,7 +5,7 @@ Gets a value indicating whether the variation label has been created
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsCreated { get; set; }
+public bool IsCreated { get; set; }
 ```
 
 ### Property Value

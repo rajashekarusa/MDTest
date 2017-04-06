@@ -15,7 +15,8 @@ public static void SetListManualRecordDeclaration(List list, EcmListManualRecord
 &emsp;&emsp;Type: [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)  
 &emsp;&emsp; enum that defines the manual in place record declaration settings for this list  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
+- [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

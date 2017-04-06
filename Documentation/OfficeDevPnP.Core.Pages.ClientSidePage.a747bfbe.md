@@ -13,7 +13,7 @@ public void AddZone(CanvasZone zone, Int32 order)
 *order*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

@@ -18,7 +18,7 @@ public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Application secret of the Application which is requesting the ClientContext object  
 ### Return Value
-Type: Microsoft.SharePoint.Client.ClientContext  
+Type: ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

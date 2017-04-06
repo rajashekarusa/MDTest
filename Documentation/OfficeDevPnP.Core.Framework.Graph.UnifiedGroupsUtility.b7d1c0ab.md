@@ -39,7 +39,7 @@ public static UnifiedGroupEntity CreateUnifiedGroup(String displayName, String d
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 ### Return Value
-Type: [OfficeDevPnP.Core.Entities.UnifiedGroupEntity](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.md)  
+Type: UnifiedGroupEntity  
 The just created Office 365 Group
 
 ## See also

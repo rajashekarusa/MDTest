@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean NoCrawlSpecified { get; set; }
+public bool NoCrawlSpecified { get; set; }
 ```
 
 ### Property Value

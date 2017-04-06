@@ -15,7 +15,7 @@ public void SaveAs(ProvisioningTemplate template, String uri, ITemplateProviderE
 *extensions*  
 &emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

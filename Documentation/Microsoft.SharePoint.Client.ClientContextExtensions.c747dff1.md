@@ -5,14 +5,14 @@ Checks if the used ClientContext is app-only
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsAppOnly(ClientRuntimeContext clientContext)
+public static bool IsAppOnly(ClientRuntimeContext clientContext)
 ```
 ### Parameters
 *clientContext*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;The ClientContext to inspect  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if app-only, false otherwise
 
 ## See also

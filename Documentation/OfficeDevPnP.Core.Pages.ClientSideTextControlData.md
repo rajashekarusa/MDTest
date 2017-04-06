@@ -5,7 +5,7 @@ Control data for controls of type 4 (= text control)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)
+  [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md) 
 ## Syntax
 ```C#
 public class ClientSideTextControlData: ClientSideCanvasControlData
@@ -13,7 +13,7 @@ public class ClientSideTextControlData: ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideTextControlData()](OfficeDevPnP.Core.Pages.ClientSideTextControlData.ctor1.md) | <summary> Control data for controls of type 4 (= text control) </summary>
+| [ClientSideTextControlData()](OfficeDevPnP.Core.Pages.ClientSideTextControlData.ctor1.md) |  Control data for controls of type 4 (= text control) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

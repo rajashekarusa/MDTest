@@ -5,7 +5,7 @@ Declares whether the to break role inheritance for the site, if it is a sub-site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean BreakRoleInheritance { get; set; }
+public bool BreakRoleInheritance { get; set; }
 ```
 
 ### Property Value

@@ -13,7 +13,7 @@ public static Field GetFieldById(List list, Guid fieldId)
 *fieldId*  
 &emsp;&emsp;Type: System.Guid  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

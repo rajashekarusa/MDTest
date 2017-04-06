@@ -11,7 +11,7 @@ public void AddControl(CanvasControl control)
 *control*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

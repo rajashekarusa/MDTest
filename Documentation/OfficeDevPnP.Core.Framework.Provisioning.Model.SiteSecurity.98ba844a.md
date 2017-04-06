@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(SiteSecurity other)
+public bool Equals(SiteSecurity other)
 ```
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

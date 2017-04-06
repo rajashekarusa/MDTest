@@ -5,7 +5,7 @@ Checks if a specific folder exists
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean DoesFolderExists(Web web, String serverRelativeFolderUrl)
+public static bool DoesFolderExists(Web web, String serverRelativeFolderUrl)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean DoesFolderExists(Web web, String serverRelativeFolderUrl)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder to check  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 
 ## See also

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowPolicyOverride { get; set; }
+public bool AllowPolicyOverride { get; set; }
 ```
 
 ### Property Value

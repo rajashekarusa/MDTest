@@ -13,7 +13,7 @@ public void Invoke(Object sender, GetUserOrganizationsCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

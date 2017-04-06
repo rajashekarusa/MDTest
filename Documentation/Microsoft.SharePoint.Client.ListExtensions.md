@@ -6,6 +6,7 @@ Class that holds deprecated generic list creation and manipulation methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class ListExtensions
@@ -25,7 +26,7 @@ public static class ListExtensions
 | [CreateViewsFromXMLFile(List, String)](Microsoft.SharePoint.Client.ListExtensions.7dfceb65.md) | Create list views based on specific xml structure in external file
 | [CreateViewsFromXMLString(Web, String, String)](Microsoft.SharePoint.Client.ListExtensions.a682431e.md) | Creates views based on specific xml structure from string
 | [CreateViewsFromXMLString(List, String)](Microsoft.SharePoint.Client.ListExtensions.e6e048f7.md) | Create list views based on specific xml structure in string
-| [GetDefaultColumnValues(List)](Microsoft.SharePoint.Client.ListExtensions.b3d11314.md) | <summary> <para>Gets default values for column values.</para> <para></para> <para>The returned list contains one dictionary per default setting per folder.</para> <para>Each dictionary has the following keys set: Path, Field, Value</para> <para></para> <para>Path: Relative path to the library/folder</para> <para>Field: Internal name of the field which has a default value</para> <para>Value: The default value for the field</para> </summary>
+| [GetDefaultColumnValues(List)](Microsoft.SharePoint.Client.ListExtensions.b3d11314.md) |  <para>Gets default values for column values.</para> <para></para> <para>The returned list contains one dictionary per default setting per folder.</para> <para>Each dictionary has the following keys set: Path, Field, Value</para> <para></para> <para>Path: Relative path to the library/folder</para> <para>Field: Internal name of the field which has a default value</para> <para>Value: The default value for the field</para> 
 | [GetEventReceiverById(List, Guid)](Microsoft.SharePoint.Client.ListExtensions.63be7c1a.md) | Returns an event receiver definition
 | [GetEventReceiverByName(List, String)](Microsoft.SharePoint.Client.ListExtensions.fcdeff9f.md) | Returns an event receiver definition
 | [GetListByTitle(Web, String, Expression<Func<List, Object>>[])](Microsoft.SharePoint.Client.ListExtensions.8078cf54.md) | 

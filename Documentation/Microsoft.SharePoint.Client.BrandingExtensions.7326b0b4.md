@@ -14,7 +14,7 @@ public static string GetRelativeUrlForMasterByName(Web web, String masterPageNam
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the masterpage, e.g. 'default' or 'seattle'  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

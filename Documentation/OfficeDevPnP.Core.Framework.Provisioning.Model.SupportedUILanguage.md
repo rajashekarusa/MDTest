@@ -5,7 +5,7 @@ Defines a single Supported UI Language for a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class SupportedUILanguage: BaseModel
@@ -13,7 +13,7 @@ public class SupportedUILanguage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) | <summary> Defines a single Supported UI Language for a site </summary>
+| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) |  Defines a single Supported UI Language for a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

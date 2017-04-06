@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid AddWorkflowDefinition(Web web, WorkflowDefinition definition, Boolean publish)
+public static Guid AddWorkflowDefinition(Web web, WorkflowDefinition definition, Boolean publish)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static guid AddWorkflowDefinition(Web web, WorkflowDefinition definition,
 *(optional) publish*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Guid  
+Type: Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

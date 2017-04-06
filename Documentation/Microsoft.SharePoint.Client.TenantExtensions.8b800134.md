@@ -27,7 +27,7 @@ public static ListItem DeployApplicationPackageToAppCatalog(Tenant tenant, Strin
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Overwrite the package if it was already listed in the app catalog  
 ### Return Value
-Type: Microsoft.SharePoint.Client.ListItem  
+Type: ListItem  
 The ListItem of the added package row
 
 ## See also

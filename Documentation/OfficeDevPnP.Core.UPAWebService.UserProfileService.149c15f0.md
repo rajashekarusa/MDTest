@@ -8,7 +8,7 @@
 public void GetProfileSchemaNamesAsync()
 ```
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

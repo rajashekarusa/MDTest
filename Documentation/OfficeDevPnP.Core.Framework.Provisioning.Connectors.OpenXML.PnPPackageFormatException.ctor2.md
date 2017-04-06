@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public PnPPackageFormatException(String message, Exception innerException)
+public PnPPackageFormatException(string message, Exception innerException)
 ```
 ### Parameters
 #### message  

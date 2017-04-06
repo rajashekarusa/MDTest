@@ -12,7 +12,7 @@ public static string GetWebRelativeUrl(List list)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to export the URL of.  
 ### Return Value
-Type: System.String  
+Type: string  
 The web relative URL of the list.
 
 ## See also

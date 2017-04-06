@@ -5,7 +5,7 @@ Domain Object that defines a Composed Look in the Provision Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class ComposedLook: BaseModel
@@ -13,7 +13,7 @@ public class ComposedLook: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) | <summary> Domain Object that defines a Composed Look in the Provision Template </summary>
+| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.ctor1.md) |  Domain Object that defines a Composed Look in the Provision Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

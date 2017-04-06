@@ -9,7 +9,7 @@ public SiteLockState LockState { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.SiteLockState  
+Type: [OfficeDevPnP.Core.SiteLockState](OfficeDevPnP.Core.SiteLockState.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,9 +5,10 @@ Abstract base class representing the json control data that will be included in 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)
-----  [OfficeDevPnP.Core.Pages.ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md)
-----  [OfficeDevPnP.Core.Pages.ClientSideWebPartControlData](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.md)
+[OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)
+
++++[OfficeDevPnP.Core.Pages.ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md) 
++++[OfficeDevPnP.Core.Pages.ClientSideWebPartControlData](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.md) 
 ## Syntax
 ```C#
 public class ClientSideCanvasControlData
@@ -15,7 +16,7 @@ public class ClientSideCanvasControlData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideCanvasControlData()](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.ctor1.md) | <summary> Abstract base class representing the json control data that will be included in each client side control (de-)serialization (data-sp-controldata attribute) </summary>
+| [ClientSideCanvasControlData()](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.ctor1.md) |  Abstract base class representing the json control data that will be included in each client side control (de-)serialization (data-sp-controldata attribute) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

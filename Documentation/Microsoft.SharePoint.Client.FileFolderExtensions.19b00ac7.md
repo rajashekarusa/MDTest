@@ -15,7 +15,7 @@ public static Folder ConvertFolderToDocumentSet(List list, Folder folder)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder to convert  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Folder  
+Type: Folder  
 The newly converted Document Set, so that additional operations (such as setting properties) can be done.
 
 ## Remarks 

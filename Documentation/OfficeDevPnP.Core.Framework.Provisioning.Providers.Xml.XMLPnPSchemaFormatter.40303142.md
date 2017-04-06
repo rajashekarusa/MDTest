@@ -11,7 +11,7 @@ public static ITemplateFormatter GetSpecificFormatter(String namespaceUri)
 *namespaceUri*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
+Type: ITemplateFormatter  
 
 
 ## See also

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean DeleteSiteCollection(Tenant tenant, String siteFullUrl, Boolean useRecycleBin, Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static bool DeleteSiteCollection(Tenant tenant, String siteFullUrl, Boolean useRecycleBin, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 *tenant*  
@@ -17,7 +17,7 @@ public static boolean DeleteSiteCollection(Tenant tenant, String siteFullUrl, Bo
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,7 +5,7 @@ Defines the Structural Navigation settings of a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class StructuralNavigation: BaseModel
@@ -13,7 +13,7 @@ public class StructuralNavigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.ctor1.md) | <summary> Defines the Structural Navigation settings of a site </summary>
+| [StructuralNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.StructuralNavigation.ctor1.md) |  Defines the Structural Navigation settings of a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

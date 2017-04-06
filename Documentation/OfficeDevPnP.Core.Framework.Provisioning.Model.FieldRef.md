@@ -5,7 +5,7 @@ Represents a Field XML Markup that is used to define information about a field
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class FieldRef: BaseModel
@@ -13,8 +13,8 @@ public class FieldRef: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor1.md) | <summary> Represents a Field XML Markup that is used to define information about a field </summary>
-| [FieldRef(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor2.md) | <summary> Represents a Field XML Markup that is used to define information about a field </summary>
+| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor1.md) |  Represents a Field XML Markup that is used to define information about a field 
+| [FieldRef(String)](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.ctor2.md) |  Represents a Field XML Markup that is used to define information about a field 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

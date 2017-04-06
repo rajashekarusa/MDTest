@@ -12,8 +12,9 @@ public static EcmRecordDeclarationBy GetRecordUnDeclarationBy(Site site)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 ### Return Value
-Type: OfficeDevPnP.Core.EcmRecordDeclarationBy  
+Type: EcmRecordDeclarationBy  
  enum that defines who can undeclare a record
 
 ## See also
+- [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

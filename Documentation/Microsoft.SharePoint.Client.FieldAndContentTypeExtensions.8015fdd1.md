@@ -21,7 +21,7 @@ public static void AddContentTypeToList(Web web, String listTitle, ContentType c
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -19,7 +19,7 @@ public ContactData AddColleague(String accountName, String colleagueAccountName,
 *isInWorkGroup*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md)  
+Type: ContactData  
 
 ## Remarks 
 

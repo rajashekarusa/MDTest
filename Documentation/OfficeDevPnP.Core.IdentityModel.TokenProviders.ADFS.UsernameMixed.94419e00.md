@@ -5,7 +5,7 @@ Performs active authentication against ADFS using the trust/13/usernamemixed ADF
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public cookiecontainer GetFedAuthCookie(String siteUrl, String userName, String password, Uri userNameMixed, String relyingPartyIdentifier, Int32 logonTokenCacheExpirationWindow)
+public CookieContainer GetFedAuthCookie(String siteUrl, String userName, String password, Uri userNameMixed, String relyingPartyIdentifier, Int32 logonTokenCacheExpirationWindow)
 ```
 ### Parameters
 *siteUrl*  
@@ -26,7 +26,7 @@ public cookiecontainer GetFedAuthCookie(String siteUrl, String userName, String 
 *logonTokenCacheExpirationWindow*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Net.CookieContainer  
+Type: CookieContainer  
 A cookiecontainer holding the FedAuth cookie
 
 ## See also

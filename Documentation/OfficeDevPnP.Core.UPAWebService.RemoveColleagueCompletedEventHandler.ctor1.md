@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public RemoveColleagueCompletedEventHandler(Object object, IntPtr method)
+public RemoveColleagueCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

@@ -11,7 +11,7 @@ public void GetUserProfileByNameAsync(String AccountName)
 *AccountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

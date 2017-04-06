@@ -12,8 +12,9 @@ public static EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 ### Return Value
-Type: OfficeDevPnP.Core.EcmSiteRecordRestrictions  
+Type: EcmSiteRecordRestrictions  
  enum that defines the current restrictions
 
 ## See also
+- [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

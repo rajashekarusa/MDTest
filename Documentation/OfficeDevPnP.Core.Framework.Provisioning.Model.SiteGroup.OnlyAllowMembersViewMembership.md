@@ -5,7 +5,7 @@ Defines whether to allow members only to view the membership of the Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OnlyAllowMembersViewMembership { get; set; }
+public bool OnlyAllowMembersViewMembership { get; set; }
 ```
 
 ### Property Value

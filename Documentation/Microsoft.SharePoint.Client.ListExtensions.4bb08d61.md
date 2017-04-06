@@ -13,7 +13,7 @@ public static void SetDefaultColumnValues(List list, IEnumerable<IDefaultColumnV
 *columnValues*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

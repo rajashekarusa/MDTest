@@ -6,6 +6,7 @@
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class YammerGroupStats

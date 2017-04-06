@@ -5,7 +5,7 @@ The variation label locale
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint32 Locale { get; set; }
+public uint Locale { get; set; }
 ```
 
 ### Property Value

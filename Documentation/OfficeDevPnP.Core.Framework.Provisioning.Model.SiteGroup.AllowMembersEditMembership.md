@@ -5,7 +5,7 @@ Defines whether the members can edit membership of the Site Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowMembersEditMembership { get; set; }
+public bool AllowMembersEditMembership { get; set; }
 ```
 
 ### Property Value

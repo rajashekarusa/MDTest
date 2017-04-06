@@ -11,7 +11,7 @@ public void add_AddLinkCompleted(AddLinkCompletedEventHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

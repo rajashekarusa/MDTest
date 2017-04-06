@@ -18,7 +18,7 @@ public static void SetDefaultContentTypeToList(Web web, String listTitle, String
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

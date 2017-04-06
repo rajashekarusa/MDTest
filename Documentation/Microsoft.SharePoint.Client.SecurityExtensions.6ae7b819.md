@@ -15,7 +15,7 @@ public static void AddAdministrators(Web web, List<UserEntity> adminLogins, Bool
 *(optional) addToOwnersGroup*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

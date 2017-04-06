@@ -5,7 +5,7 @@ Event arguments for the TimerJobRun event
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [System.EventArgs](System.EventArgs.md)
+  [System.EventArgs](System.EventArgs.md) 
 ## Syntax
 ```C#
 public class TimerJobRunEventArgs: EventArgs

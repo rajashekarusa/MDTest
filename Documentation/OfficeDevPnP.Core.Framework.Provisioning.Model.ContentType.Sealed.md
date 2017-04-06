@@ -5,7 +5,7 @@ True to prevent changes to this content type. You cannot change the value of thi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Sealed { get; set; }
+public bool Sealed { get; set; }
 ```
 
 ### Property Value

@@ -8,7 +8,7 @@
 public void GetLeadersAsync()
 ```
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

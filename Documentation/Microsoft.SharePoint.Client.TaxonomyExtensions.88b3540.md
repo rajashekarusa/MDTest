@@ -11,7 +11,7 @@ public static TermStore GetDefaultKeywordsTermStore(Site site)
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Taxonomy.TermStore  
+Type: TermStore  
 
 
 ## See also

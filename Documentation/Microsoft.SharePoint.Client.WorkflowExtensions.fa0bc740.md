@@ -11,7 +11,7 @@ public static void Delete(WorkflowDefinition definition)
 *definition*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

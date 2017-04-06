@@ -5,7 +5,7 @@ A set of custom Properties for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> Properties { get; }
+public Dictionary<String, String> Properties { get; }
 ```
 
 ### Property Value

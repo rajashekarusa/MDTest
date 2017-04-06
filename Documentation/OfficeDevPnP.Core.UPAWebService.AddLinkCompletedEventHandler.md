@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [System.MulticastDelegate](System.MulticastDelegate.md)
+  [System.MulticastDelegate](System.MulticastDelegate.md) 
 ## Syntax
 ```C#
 public class AddLinkCompletedEventHandler: MulticastDelegate

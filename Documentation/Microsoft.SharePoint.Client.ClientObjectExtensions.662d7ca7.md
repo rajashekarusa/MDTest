@@ -1,5 +1,5 @@
 # ClientObjectExtensions.EnsureProperties Method  
- Ensures that particular properties are loaded on the Microsoft.SharePoint.Client.ClientObject  
+ Ensures that particular properties are loaded on the T:Microsoft.SharePoint.Client.ClientObject  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -14,8 +14,9 @@ public static void EnsureProperties(T clientObject, Expression<Func<T, Object>>[
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>[]  
 &emsp;&emsp;Lamda expressions containing the properties to ensure (e.g. w => w.HasUniqueRoleAssignments, w => w.ServerRelativeUrl)  
 ### Return Value
-Type: System.Void  
+Type: void  
 Property value
 
 ## See also
+- Microsoft.SharePoint.Client.ClientObject
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

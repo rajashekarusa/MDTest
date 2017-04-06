@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<int32> group_id { get; set; }
+public Nullable<Int32> group_id { get; set; }
 ```
 
 ### Property Value

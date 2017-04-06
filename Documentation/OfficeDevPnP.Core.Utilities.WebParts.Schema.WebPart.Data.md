@@ -1,5 +1,5 @@
 # WebPart.Properties Data
-<summary></summary>  
+  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

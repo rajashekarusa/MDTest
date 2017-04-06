@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsCustomComposedLook { get; set; }
+public bool IsCustomComposedLook { get; set; }
 ```
 
 ### Property Value

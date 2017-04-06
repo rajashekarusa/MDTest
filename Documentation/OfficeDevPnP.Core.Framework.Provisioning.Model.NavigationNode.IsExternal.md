@@ -5,7 +5,7 @@ Defines whether the Navigation Node for the Structural Navigation targets an Ext
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsExternal { get; set; }
+public bool IsExternal { get; set; }
 ```
 
 ### Property Value

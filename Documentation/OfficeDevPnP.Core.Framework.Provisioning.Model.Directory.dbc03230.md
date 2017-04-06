@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(Directory other)
+public bool Equals(Directory other)
 ```
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

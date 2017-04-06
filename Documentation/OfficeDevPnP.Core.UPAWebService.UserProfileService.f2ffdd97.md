@@ -11,7 +11,7 @@ public void add_GetCommonMembershipsCompleted(GetCommonMembershipsCompletedEvent
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -19,7 +19,7 @@ public static void SetSiteLockState(Tenant tenant, String siteFullUrl, SiteLockS
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

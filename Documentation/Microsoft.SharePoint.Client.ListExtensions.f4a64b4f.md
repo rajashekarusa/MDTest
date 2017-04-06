@@ -18,7 +18,7 @@ public static void SetPropertyBagValue(List list, String key, String value)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String value for the property bag entry  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

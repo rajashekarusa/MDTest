@@ -5,7 +5,7 @@ Checks if a user is member of a group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsUserInGroup(Web web, String groupName, String userLoginName)
+public static bool IsUserInGroup(Web web, String groupName, String userLoginName)
 ```
 ### Parameters
 *web*  
@@ -18,7 +18,7 @@ public static boolean IsUserInGroup(Web web, String groupName, String userLoginN
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Loginname of the user  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if the user is in the group, false otherwise
 
 ## See also

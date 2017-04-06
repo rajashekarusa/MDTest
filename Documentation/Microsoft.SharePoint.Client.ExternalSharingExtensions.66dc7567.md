@@ -30,7 +30,8 @@ public static SharingResult ShareDocument(Web web, String urlToDocument, String 
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
 ### Return Value
-Type: Microsoft.SharePoint.Client.SharingResult  
+Type: SharingResult  
 
 ## See also
+- Microsoft.SharePoint.Client.ExternalSharingExtensions.ShareDocument(Microsoft.SharePoint.Client.Web,System.String,System.String,Microsoft.SharePoint.Client.ExternalSharingDocumentOption,System.Boolean,System.String,System.Boolean)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

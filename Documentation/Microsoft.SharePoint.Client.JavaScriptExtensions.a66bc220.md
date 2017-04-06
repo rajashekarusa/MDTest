@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ExistsJsLinkImplementation(ClientObject clientObject, String key)
+public static bool ExistsJsLinkImplementation(ClientObject clientObject, String key)
 ```
 ### Parameters
 *clientObject*  
@@ -13,7 +13,7 @@ public static boolean ExistsJsLinkImplementation(ClientObject clientObject, Stri
 *key*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

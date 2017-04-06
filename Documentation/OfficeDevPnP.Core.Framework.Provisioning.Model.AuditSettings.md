@@ -5,7 +5,7 @@ The Audit Settings for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class AuditSettings: BaseModel
@@ -13,7 +13,7 @@ public class AuditSettings: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.ctor1.md) | <summary> The Audit Settings for the Provisioning Template </summary>
+| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.ctor1.md) |  The Audit Settings for the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

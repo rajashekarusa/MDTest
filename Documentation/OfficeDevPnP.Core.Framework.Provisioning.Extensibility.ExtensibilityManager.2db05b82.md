@@ -27,7 +27,7 @@ public void ExecuteExtensibilityProvisionCallOut(ClientContext ctx, Extensibilit
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md)  
 &emsp;&emsp;The PnPMonitoredScope of the current step in the pipeline  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

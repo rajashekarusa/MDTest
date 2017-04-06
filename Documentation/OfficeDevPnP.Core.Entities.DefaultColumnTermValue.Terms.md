@@ -5,7 +5,7 @@ Taxonomy paths in the shape of "TermGroup|TermSet|Term"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<term> Terms { get; }
+public IList<Term> Terms { get; }
 ```
 
 ### Property Value

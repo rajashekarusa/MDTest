@@ -24,13 +24,8 @@ public static string ViewQuery(ViewScope scope, String whereClause, String order
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;<RowLimit> node.  
 ### Return Value
-Type: System.String  
+Type: string  
 String to be used in CAML queries
-
-## Examples
-```C#
- CAML.ViewQuery( CAML.Where( CAML.And( CAML.Eq(CAML.FieldValue("Project", "Integer", "{0}")), CAML.Geq(CAML.FieldValue("StartDate","DateTime", CAML.Today())) ) ), CAML.OrderBy( new OrderByField("StartDate", false), new OrderByField("Title") ), rowLimit: 5 ); 
-```
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

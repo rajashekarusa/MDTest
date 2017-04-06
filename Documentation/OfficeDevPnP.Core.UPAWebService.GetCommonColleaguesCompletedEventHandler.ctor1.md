@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetCommonColleaguesCompletedEventHandler(Object object, IntPtr method)
+public GetCommonColleaguesCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

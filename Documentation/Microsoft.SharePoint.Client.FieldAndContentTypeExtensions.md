@@ -6,6 +6,7 @@ This class holds deprecated extension methods that will help you work with field
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class FieldAndContentTypeExtensions

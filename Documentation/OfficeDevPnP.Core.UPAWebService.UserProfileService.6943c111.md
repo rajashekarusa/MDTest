@@ -11,7 +11,7 @@ public PropertyData[] GetUserProfileByName(String AccountName)
 *AccountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
+Type: PropertyData[]  
 
 ## Remarks 
 

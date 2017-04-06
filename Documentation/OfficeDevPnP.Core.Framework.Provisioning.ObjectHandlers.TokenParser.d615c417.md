@@ -11,7 +11,7 @@ public void AddToken(TokenDefinition tokenDefinition)
 *tokenDefinition*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

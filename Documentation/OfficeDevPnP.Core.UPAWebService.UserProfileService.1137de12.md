@@ -13,7 +13,7 @@ public void UpdatePinnedLink(String accountName, PinnedLinkData data)
 *data*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.PinnedLinkData](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

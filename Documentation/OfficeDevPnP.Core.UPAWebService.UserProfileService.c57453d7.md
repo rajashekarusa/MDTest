@@ -15,7 +15,7 @@ public void RemoveColleagueAsync(String accountName, String colleagueAccountName
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

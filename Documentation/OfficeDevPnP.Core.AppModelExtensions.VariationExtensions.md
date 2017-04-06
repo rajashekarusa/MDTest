@@ -6,6 +6,7 @@ Class that holds deprecated methods for variations
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class VariationExtensions

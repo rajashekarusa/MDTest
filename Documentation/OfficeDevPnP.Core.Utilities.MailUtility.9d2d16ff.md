@@ -27,7 +27,7 @@ public static void SendEmail(String servername, String fromAddress, String fromU
 *(optional) asyncUserToken*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

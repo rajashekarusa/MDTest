@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean dismissed_profile_prompt { get; set; }
+public bool dismissed_profile_prompt { get; set; }
 ```
 
 ### Property Value

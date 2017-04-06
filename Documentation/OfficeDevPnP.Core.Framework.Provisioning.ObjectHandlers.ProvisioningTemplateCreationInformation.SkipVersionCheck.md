@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SkipVersionCheck { get; set; }
+public bool SkipVersionCheck { get; set; }
 ```
 
 ### Property Value

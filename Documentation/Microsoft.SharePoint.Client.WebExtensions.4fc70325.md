@@ -21,7 +21,13 @@ public static void SetLocalizationLabels(Web web, String cultureName, String tit
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized Description string  
 ### Return Value
-Type: System.Void  
+Type: void  
+
+## Examples
+```C#
+ web.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish"); 
+```
 
 ## See also
+- [http://blogs.msdn.com/b/vesku/archive/2014/03/20/office365-multilingual-content-types-site-columns-and-site-other-elements.aspx](http://blogs.msdn.com/b/vesku/archive/2014/03/20/office365-multilingual-content-types-site-columns-and-site-other-elements.aspx)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

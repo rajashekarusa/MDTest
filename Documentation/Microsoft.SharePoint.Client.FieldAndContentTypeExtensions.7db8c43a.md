@@ -15,7 +15,7 @@ public static void DeleteContentTypeById(Web web, String contentTypeId)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Id of the content type to delete  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -9,7 +9,7 @@ public AddInsAddinSource Source { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AddInsAddinSource  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AddInsAddinSource](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AddInsAddinSource.md)  
 
 ## Remarks 
 

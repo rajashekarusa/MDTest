@@ -15,7 +15,7 @@ public static void ValidateNotNullOrEmpty(T input, String variableName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the variable name to report in the error  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [System](System.md)

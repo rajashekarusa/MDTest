@@ -11,7 +11,7 @@ public static string Serialize(T objectToSerialize)
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
 ### Return Value
-Type: System.String  
+Type: string  
 An string that represents the serialized object.
 
 ## See also

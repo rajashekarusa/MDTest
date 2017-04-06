@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public exception Exception { get; set; }
+public Exception Exception { get; set; }
 ```
 
 ### Property Value

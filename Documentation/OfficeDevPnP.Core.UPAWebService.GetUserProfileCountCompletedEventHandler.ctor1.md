@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetUserProfileCountCompletedEventHandler(Object object, IntPtr method)
+public GetUserProfileCountCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

@@ -6,6 +6,7 @@ Represents a section in a canvas zone
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class CanvasSection

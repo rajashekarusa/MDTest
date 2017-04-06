@@ -6,6 +6,7 @@ Enables: Ratings / Likes functionality on list in publishing web.
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class ListRatingExtensions

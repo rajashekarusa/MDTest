@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Equals(Page other)
+public bool Equals(Page other)
 ```
 ### Parameters
 *other*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

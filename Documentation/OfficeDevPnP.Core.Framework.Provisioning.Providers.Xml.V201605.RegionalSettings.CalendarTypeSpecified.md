@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CalendarTypeSpecified { get; set; }
+public bool CalendarTypeSpecified { get; set; }
 ```
 
 ### Property Value

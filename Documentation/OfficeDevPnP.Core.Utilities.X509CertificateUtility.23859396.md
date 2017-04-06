@@ -5,7 +5,7 @@ Loads a certificate from a given certificate store
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static x509certificate2 LoadCertificate(StoreName storeName, StoreLocation storeLocation, String thumbprint)
+public static X509Certificate2 LoadCertificate(StoreName storeName, StoreLocation storeLocation, String thumbprint)
 ```
 ### Parameters
 *storeName*  
@@ -18,8 +18,9 @@ public static x509certificate2 LoadCertificate(StoreName storeName, StoreLocatio
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to load  
 ### Return Value
-Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
+Type: X509Certificate2  
 An  certificate
 
 ## See also
+- System.Security.Cryptography.X509Certificates.X509Certificate2
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

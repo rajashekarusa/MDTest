@@ -11,7 +11,7 @@ public ProvisioningTemplate GetTemplate(String uri)
 *uri*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

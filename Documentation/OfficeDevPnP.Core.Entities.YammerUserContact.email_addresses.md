@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<yammeruseremailaddress> email_addresses { get; set; }
+public IList<YammerUserEmailAddress> email_addresses { get; set; }
 ```
 
 ### Property Value

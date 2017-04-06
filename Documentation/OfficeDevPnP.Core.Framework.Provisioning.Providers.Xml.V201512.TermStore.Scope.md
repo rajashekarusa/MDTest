@@ -9,7 +9,7 @@ public TermStoreScope Scope { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermStoreScope  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermStoreScope](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermStoreScope.md)  
 
 ## Remarks 
 

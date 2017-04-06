@@ -5,7 +5,7 @@ Do composed look files (theme files, site logo, alternate css) need to be persis
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean PersistComposedLookFiles { get; set; }
+public bool PersistComposedLookFiles { get; set; }
 ```
 
 ### Property Value

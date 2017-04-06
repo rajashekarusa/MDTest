@@ -27,7 +27,7 @@ public static Group AddGroup(Web web, String groupName, String groupDescription,
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set whether members are allowed to see group membership, defaults to false  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Group  
+Type: Group  
 The created group
 
 ## See also

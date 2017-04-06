@@ -12,7 +12,7 @@ public static List GetPagesLibrary(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web.  
 ### Return Value
-Type: Microsoft.SharePoint.Client.List  
+Type: List  
 The publishing pages library. Returns null if library was not found.
 
 ## See also

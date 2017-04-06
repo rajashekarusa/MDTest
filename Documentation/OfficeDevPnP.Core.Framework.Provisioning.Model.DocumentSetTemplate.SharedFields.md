@@ -5,7 +5,7 @@ The list of Shared Fields for the Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<guid> SharedFields { get; }
+public List<Guid> SharedFields { get; }
 ```
 
 ### Property Value

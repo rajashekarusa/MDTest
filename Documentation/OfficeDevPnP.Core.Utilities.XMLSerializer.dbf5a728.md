@@ -5,13 +5,13 @@ Serializes an object instance to a stream.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static stream SerializeToStream(T objectToSerialize)
+public static Stream SerializeToStream(T objectToSerialize)
 ```
 ### Parameters
 *objectToSerialize*  
 &emsp;&emsp;Type: T  
 ### Return Value
-Type: System.IO.Stream  
+Type: Stream  
 An string that represents the serialized object.
 
 ## See also

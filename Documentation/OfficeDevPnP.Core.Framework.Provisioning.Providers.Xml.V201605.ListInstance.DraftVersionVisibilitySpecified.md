@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean DraftVersionVisibilitySpecified { get; set; }
+public bool DraftVersionVisibilitySpecified { get; set; }
 ```
 
 ### Property Value

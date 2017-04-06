@@ -21,7 +21,7 @@ public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;SharePoint environment being used  
 ### Return Value
-Type: Microsoft.SharePoint.Client.ClientContext  
+Type: ClientContext  
 ClientContext to be used by CSOM code
 
 ## See also

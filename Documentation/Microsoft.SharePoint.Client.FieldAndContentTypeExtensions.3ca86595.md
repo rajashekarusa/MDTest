@@ -17,7 +17,7 @@ public static Field GetFieldByInternalName(Web web, String internalName, Boolean
 *(optional) searchInSiteHierarchy*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 
 
 ## See also

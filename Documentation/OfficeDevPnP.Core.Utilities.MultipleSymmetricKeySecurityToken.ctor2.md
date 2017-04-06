@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public MultipleSymmetricKeySecurityToken(String tokenId, IEnumerable<Byte[]> keys)
+public MultipleSymmetricKeySecurityToken(string tokenId, IEnumerable<Byte[]> keys)
 ```
 ### Parameters
 #### tokenId  

@@ -15,7 +15,7 @@ public static void CheckOutFile(Web web, String serverRelativeUrl)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The server relative url of the file to checkout  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid CorrelationId { get; set; }
+public Guid CorrelationId { get; set; }
 ```
 
 ### Property Value

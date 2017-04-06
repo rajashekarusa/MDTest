@@ -21,7 +21,7 @@ public static void SetCustomMasterPageByUrl(Web web, String masterPageServerRela
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false (default) to apply to subsites; true to only apply to specified site  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

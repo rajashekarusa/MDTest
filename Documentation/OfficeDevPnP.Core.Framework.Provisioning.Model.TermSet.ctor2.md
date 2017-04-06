@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public TermSet(Guid id, String name, Nullable<Int32> language, Boolean isAvailableForTagging, Boolean isOpenForTermCreation, List<Term> terms, Dictionary<String, String> properties)
+public TermSet(Guid id, string name, Nullable<Int32> language, bool isAvailableForTagging, bool isOpenForTermCreation, List<Term> terms, Dictionary<String, String> properties)
 ```
 ### Parameters
 #### id  

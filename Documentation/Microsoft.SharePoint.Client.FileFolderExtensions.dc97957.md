@@ -15,7 +15,7 @@ public static void SetFileProperties(File file, IDictionary<String, String> prop
 *(optional) checkoutIfRequired*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

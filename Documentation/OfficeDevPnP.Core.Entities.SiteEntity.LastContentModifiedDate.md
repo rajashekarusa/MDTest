@@ -5,7 +5,7 @@ The last modified date/time of the site collection's content
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime LastContentModifiedDate { get; set; }
+public DateTime LastContentModifiedDate { get; set; }
 ```
 
 ### Property Value

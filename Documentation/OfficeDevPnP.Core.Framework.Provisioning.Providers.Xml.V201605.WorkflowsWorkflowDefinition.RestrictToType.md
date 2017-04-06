@@ -9,7 +9,7 @@ public WorkflowsWorkflowDefinitionRestrictToType RestrictToType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinitionRestrictToType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinitionRestrictToType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinitionRestrictToType.md)  
 
 ## Remarks 
 

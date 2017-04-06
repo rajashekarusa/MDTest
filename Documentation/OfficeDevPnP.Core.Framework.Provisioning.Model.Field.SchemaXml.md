@@ -1,5 +1,5 @@
 # Field.Properties SchemaXml
-<summary> Gets a value that specifies the XML Schema representing the Field type. <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ff407271.aspx</cref></seealso></summary>  
+ Gets a value that specifies the XML Schema representing the Field type. <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ff407271.aspx</cref></seealso>  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

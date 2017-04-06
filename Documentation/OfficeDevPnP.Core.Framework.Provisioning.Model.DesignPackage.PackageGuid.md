@@ -5,7 +5,7 @@ The ID of the Design Package to import into the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid PackageGuid { get; set; }
+public Guid PackageGuid { get; set; }
 ```
 
 ### Property Value

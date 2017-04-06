@@ -6,6 +6,7 @@ Default processor when others are not resolved
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PassThroughProcessor
@@ -13,7 +14,7 @@ public class PassThroughProcessor
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PassThroughProcessor()](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.ctor1.md) | <summary> Default processor when others are not resolved </summary>
+| [PassThroughProcessor()](OfficeDevPnP.Core.Utilities.WebParts.Processors.PassThroughProcessor.ctor1.md) |  Default processor when others are not resolved 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

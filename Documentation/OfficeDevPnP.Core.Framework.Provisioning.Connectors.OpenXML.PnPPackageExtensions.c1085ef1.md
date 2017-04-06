@@ -11,7 +11,7 @@ public static string AsInternalFilename(String filename)
 *filename*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

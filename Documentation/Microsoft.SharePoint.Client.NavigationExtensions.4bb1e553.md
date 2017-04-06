@@ -12,7 +12,7 @@ public static NavigationNodeCollection LoadSearchNavigation(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 ### Return Value
-Type: Microsoft.SharePoint.Client.NavigationNodeCollection  
+Type: NavigationNodeCollection  
 Collection of NavigationNode instances
 
 ## See also

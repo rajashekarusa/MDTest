@@ -17,7 +17,7 @@ public static string GetPropertyBagValueString(Web web, String key, String defau
 *defaultValue*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 Value of the property bag entry as string
 
 ## See also

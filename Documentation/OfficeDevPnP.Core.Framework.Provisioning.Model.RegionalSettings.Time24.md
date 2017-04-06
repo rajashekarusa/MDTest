@@ -5,7 +5,7 @@ Defines whether to use a 24-hour time format in representing the hours of the da
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Time24 { get; set; }
+public bool Time24 { get; set; }
 ```
 
 ### Property Value

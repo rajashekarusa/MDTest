@@ -15,8 +15,8 @@ public void Put(String cacheKey, WebAPIContexCacheItem sharePointServiceContextC
 &emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)  
 &emsp;&emsp;A  object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
-- [T:OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](T:OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)
+- [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

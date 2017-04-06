@@ -11,7 +11,7 @@ public PinnedLinkData[] GetUserPinnedLinks(String accountName)
 *accountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: OfficeDevPnP.Core.UPAWebService.PinnedLinkData[]  
+Type: PinnedLinkData[]  
 
 ## Remarks 
 

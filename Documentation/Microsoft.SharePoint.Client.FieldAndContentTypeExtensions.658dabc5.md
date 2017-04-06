@@ -18,7 +18,7 @@ public static void SetDefaultContentTypeToList(Web web, String listTitle, Conten
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to make default  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 Notice. Currently removes other content types from the list. Known issue

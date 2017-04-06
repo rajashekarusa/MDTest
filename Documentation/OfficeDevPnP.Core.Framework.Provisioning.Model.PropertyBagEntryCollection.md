@@ -5,7 +5,7 @@ Collection of PropertyBagEntry objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.md) 
 ## Syntax
 ```C#
 public class PropertyBagEntryCollection: ProvisioningTemplateCollection<PropertyBagEntry>
@@ -13,6 +13,6 @@ public class PropertyBagEntryCollection: ProvisioningTemplateCollection<Property
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.ctor1.md) | <summary> Collection of PropertyBagEntry objects </summary>
+| [PropertyBagEntryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntryCollection.ctor1.md) |  Collection of PropertyBagEntry objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

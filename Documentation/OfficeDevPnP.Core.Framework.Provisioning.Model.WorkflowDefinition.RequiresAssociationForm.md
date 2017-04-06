@@ -5,7 +5,7 @@ Defines if the Workflow requires the Association Form
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RequiresAssociationForm { get; set; }
+public bool RequiresAssociationForm { get; set; }
 ```
 
 ### Property Value

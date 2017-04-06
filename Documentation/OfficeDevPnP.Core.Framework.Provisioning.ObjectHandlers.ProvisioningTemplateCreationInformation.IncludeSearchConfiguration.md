@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IncludeSearchConfiguration { get; set; }
+public bool IncludeSearchConfiguration { get; set; }
 ```
 
 ### Property Value

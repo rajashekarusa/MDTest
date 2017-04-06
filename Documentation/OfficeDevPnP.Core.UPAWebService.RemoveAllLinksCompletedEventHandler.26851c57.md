@@ -13,7 +13,7 @@ public void Invoke(Object sender, AsyncCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: System.ComponentModel.AsyncCompletedEventArgs  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

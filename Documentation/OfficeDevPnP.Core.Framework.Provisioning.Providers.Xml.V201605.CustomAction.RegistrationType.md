@@ -9,7 +9,7 @@ public RegistrationType RegistrationType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegistrationType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegistrationType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RegistrationType.md)  
 
 ## Remarks 
 

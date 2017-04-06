@@ -5,7 +5,7 @@ Set as source variation
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsSource { get; set; }
+public bool IsSource { get; set; }
 ```
 
 ### Property Value

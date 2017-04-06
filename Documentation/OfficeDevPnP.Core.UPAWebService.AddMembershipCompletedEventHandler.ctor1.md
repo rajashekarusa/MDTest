@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public AddMembershipCompletedEventHandler(Object object, IntPtr method)
+public AddMembershipCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

@@ -15,7 +15,7 @@ public void RemoveLinkAsync(String accountName, Int32 id, Object userState)
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

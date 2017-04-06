@@ -5,7 +5,7 @@ Will create resource files named "PnP_Resource_[LCID].resx for every supported l
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean PersistMultiLanguageResources { get; set; }
+public bool PersistMultiLanguageResources { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public icollection<string> RoleDefinitionBindings { get; set; }
+public ICollection<String> RoleDefinitionBindings { get; set; }
 ```
 
 ### Property Value

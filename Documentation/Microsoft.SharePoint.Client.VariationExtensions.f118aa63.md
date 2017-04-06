@@ -5,14 +5,14 @@ Retrieve all configured variation labels
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ienumerable<variationlabelentity> GetVariationLabels(ClientContext context)
+public static IEnumerable<VariationLabelEntity> GetVariationLabels(ClientContext context)
 ```
 ### Parameters
 *context*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
 ### Return Value
-Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.VariationLabelEntity>  
+Type: IEnumerable<VariationLabelEntity>  
 Collection of VariationLabelEntity objects
 
 ## See also

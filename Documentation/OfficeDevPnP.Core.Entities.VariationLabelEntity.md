@@ -6,6 +6,7 @@ Class represents variation label
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class VariationLabelEntity
@@ -13,7 +14,7 @@ public class VariationLabelEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [VariationLabelEntity()](OfficeDevPnP.Core.Entities.VariationLabelEntity.ctor1.md) | <summary> Class represents variation label </summary>
+| [VariationLabelEntity()](OfficeDevPnP.Core.Entities.VariationLabelEntity.ctor1.md) |  Class represents variation label 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

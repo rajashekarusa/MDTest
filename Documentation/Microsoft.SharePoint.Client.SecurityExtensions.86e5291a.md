@@ -18,7 +18,7 @@ public static void AddUserToGroup(Web web, Group group, User user)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.User  
 &emsp;&emsp;User object representing the user  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

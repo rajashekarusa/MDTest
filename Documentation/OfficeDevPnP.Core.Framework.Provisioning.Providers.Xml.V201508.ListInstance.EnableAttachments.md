@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableAttachments { get; set; }
+public bool EnableAttachments { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ Gets or Sets if the Content Type should be the default Content Type in the libra
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Default { get; set; }
+public bool Default { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ Defines a File element, to describe a file that will be provisioned into the tar
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class File: BaseModel
@@ -13,8 +13,8 @@ public class File: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [File()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor1.md) | <summary> Defines a File element, to describe a file that will be provisioned into the target Site </summary>
-| [File(String, String, Boolean, IEnumerable<WebPart>, IDictionary<String, String>, ObjectSecurity, FileLevel)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor2.md) | <summary> Defines a File element, to describe a file that will be provisioned into the target Site </summary>
+| [File()](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor1.md) |  Defines a File element, to describe a file that will be provisioned into the target Site 
+| [File(String, String, Boolean, IEnumerable<WebPart>, IDictionary<String, String>, ObjectSecurity, FileLevel)](OfficeDevPnP.Core.Framework.Provisioning.Model.File.ctor2.md) |  Defines a File element, to describe a file that will be provisioned into the target Site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

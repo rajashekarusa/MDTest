@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableVersioning { get; set; }
+public bool EnableVersioning { get; set; }
 ```
 
 ### Property Value

@@ -13,7 +13,7 @@ public static void SetAvailableWebTemplates(Web web, List<WebTemplateEntity> ava
 *availableTemplates*  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.WebTemplateEntity>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

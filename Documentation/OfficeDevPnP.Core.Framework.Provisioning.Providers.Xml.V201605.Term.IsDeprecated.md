@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsDeprecated { get; set; }
+public bool IsDeprecated { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetProfileSchemaNameByAccountNameCompletedEventHandler(Object object, IntPtr method)
+public GetProfileSchemaNameByAccountNameCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

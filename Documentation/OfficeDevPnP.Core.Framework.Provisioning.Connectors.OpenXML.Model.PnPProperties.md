@@ -6,6 +6,7 @@ Properties of the PnP OpenXML container
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PnPProperties
@@ -13,7 +14,7 @@ public class PnPProperties
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPProperties()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.ctor1.md) | <summary> Properties of the PnP OpenXML container </summary>
+| [PnPProperties()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPProperties.ctor1.md) |  Properties of the PnP OpenXML container 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

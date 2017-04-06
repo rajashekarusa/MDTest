@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, Version minimallyRequiredVersion)
+public static bool HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, Version minimallyRequiredVersion)
 ```
 ### Parameters
 *clientContext*  
@@ -13,7 +13,7 @@ public static boolean HasMinimalServerLibraryVersion(ClientRuntimeContext client
 *minimallyRequiredVersion*  
 &emsp;&emsp;Type: System.Version  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

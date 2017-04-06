@@ -5,7 +5,7 @@ Returns all site collection that match with the provided title
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static list<siteentity> SiteSearchScopedByTitle(Web web, String siteTitle)
+public static List<SiteEntity> SiteSearchScopedByTitle(Web web, String siteTitle)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static list<siteentity> SiteSearchScopedByTitle(Web web, String siteTitle
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the site to search for  
 ### Return Value
-Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
+Type: List<SiteEntity>  
 All found site collections
 
 ## See also

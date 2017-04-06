@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Folder(String name, List<Folder> folders, ObjectSecurity security)
+public Folder(string name, List<Folder> folders, ObjectSecurity security)
 ```
 ### Parameters
 #### name  

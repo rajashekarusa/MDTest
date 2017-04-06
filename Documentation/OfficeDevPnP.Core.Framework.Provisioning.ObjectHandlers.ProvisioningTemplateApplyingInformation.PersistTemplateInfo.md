@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean PersistTemplateInfo { get; set; }
+public bool PersistTemplateInfo { get; set; }
 ```
 
 ### Property Value

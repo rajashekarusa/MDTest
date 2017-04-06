@@ -11,8 +11,7 @@ public static IWebPartPostProcessor Resolve(String wpXml)
 *wpXml*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor  
+Type: IWebPartPostProcessor  
 
 ## See also
-- [T:OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor](T:OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor.md)
 - [OfficeDevPnP.Core.Utilities.WebParts](OfficeDevPnP.Core.Utilities.WebParts.md)

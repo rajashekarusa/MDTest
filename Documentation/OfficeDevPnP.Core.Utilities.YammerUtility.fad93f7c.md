@@ -23,7 +23,7 @@ public static WebPartEntity GetYammerOpenGraphDiscussionPart(String yammerNetwor
 *(optional) defaultGroupId*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
+Type: WebPartEntity  
 
 
 ## See also

@@ -5,7 +5,7 @@ Gets or sets whether moderation/content approval is enabled on the list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableModeration { get; set; }
+public bool EnableModeration { get; set; }
 ```
 
 ### Property Value

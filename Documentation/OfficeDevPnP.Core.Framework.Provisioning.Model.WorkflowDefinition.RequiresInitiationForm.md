@@ -5,7 +5,7 @@ Defines if the Workflow requires the Initiation Form
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RequiresInitiationForm { get; set; }
+public bool RequiresInitiationForm { get; set; }
 ```
 
 ### Property Value

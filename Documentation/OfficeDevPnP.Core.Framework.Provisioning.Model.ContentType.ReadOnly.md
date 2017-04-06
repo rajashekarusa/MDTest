@@ -5,7 +5,7 @@ True to specify that the content type cannot be edited without explicitly removi
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ReadOnly { get; set; }
+public bool ReadOnly { get; set; }
 ```
 
 ### Property Value

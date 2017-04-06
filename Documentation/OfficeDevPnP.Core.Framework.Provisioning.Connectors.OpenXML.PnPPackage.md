@@ -6,6 +6,7 @@ Defines a PnP OpenXML package file
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PnPPackage
@@ -13,7 +14,7 @@ public class PnPPackage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackage()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.ctor1.md) | <summary> Defines a PnP OpenXML package file </summary>
+| [PnPPackage()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.ctor1.md) |  Defines a PnP OpenXML package file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -17,7 +17,7 @@ public static void Error(Exception ex, String source, String message, Object[] a
 *args*  
 &emsp;&emsp;Type: System.Object[]  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

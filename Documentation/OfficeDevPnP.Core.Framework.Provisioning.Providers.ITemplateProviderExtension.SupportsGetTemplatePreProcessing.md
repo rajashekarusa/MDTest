@@ -5,7 +5,7 @@ Declares whether the object supports pre-processing during GetTemplate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SupportsGetTemplatePreProcessing { get; }
+public bool SupportsGetTemplatePreProcessing { get; }
 ```
 
 ### Property Value

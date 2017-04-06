@@ -6,6 +6,7 @@ External user entity
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class ExternalUserEntity
@@ -13,7 +14,7 @@ public class ExternalUserEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExternalUserEntity()](OfficeDevPnP.Core.Entities.ExternalUserEntity.ctor1.md) | <summary> External user entity </summary>
+| [ExternalUserEntity()](OfficeDevPnP.Core.Entities.ExternalUserEntity.ctor1.md) |  External user entity 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

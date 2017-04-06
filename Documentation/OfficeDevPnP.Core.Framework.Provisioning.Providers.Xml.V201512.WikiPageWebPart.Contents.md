@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xmlelement Contents { get; set; }
+public XmlElement Contents { get; set; }
 ```
 
 ### Property Value

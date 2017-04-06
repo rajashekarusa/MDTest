@@ -5,15 +5,16 @@ Returns a list all external users in your tenant
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static list<externaluserentity> GetExternalUsersTenant(Web web)
+public static List<ExternalUserEntity> GetExternalUsersTenant(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
 ### Return Value
-Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.ExternalUserEntity>  
+Type: List<ExternalUserEntity>  
 A list of  objects
 
 ## See also
+- [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

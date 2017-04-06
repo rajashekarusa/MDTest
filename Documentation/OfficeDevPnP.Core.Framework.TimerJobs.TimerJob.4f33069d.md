@@ -8,7 +8,7 @@ Clears the list of added site Url's and/or wildcard site Url's
 public void ClearAddedSites()
 ```
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

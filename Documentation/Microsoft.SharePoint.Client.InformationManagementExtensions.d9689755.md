@@ -5,7 +5,7 @@ Apply a policy to a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ApplySitePolicy(Web web, String sitePolicy)
+public static bool ApplySitePolicy(Web web, String sitePolicy)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean ApplySitePolicy(Web web, String sitePolicy)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Policy to apply  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if applied, false otherwise
 
 ## See also

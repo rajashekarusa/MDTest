@@ -15,7 +15,7 @@ public static View GetViewById(List list, Guid id, Expression<Func<View, Object>
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View, System.Object>>[]  
 ### Return Value
-Type: Microsoft.SharePoint.Client.View  
+Type: View  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

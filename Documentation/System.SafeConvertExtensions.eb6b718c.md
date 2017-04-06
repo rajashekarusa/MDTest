@@ -5,14 +5,14 @@ Converts the input string to a boolean and if null, it returns the default value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ToBoolean(String input)
+public static bool ToBoolean(String input)
 ```
 ### Parameters
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [System](System.md)

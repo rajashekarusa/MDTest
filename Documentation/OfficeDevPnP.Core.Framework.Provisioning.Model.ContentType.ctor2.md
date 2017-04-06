@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ContentType(String id, String name, String description, String group, Boolean contenttypeSealed, Boolean hidden, Boolean readyonly, String documentTemplate, Boolean overwrite, IEnumerable<FieldRef> fieldRefs)
+public ContentType(string id, string name, string description, string group, bool contenttypeSealed, bool hidden, bool readyonly, string documentTemplate, bool overwrite, IEnumerable<FieldRef> fieldRefs)
 ```
 ### Parameters
 #### id  
@@ -29,5 +29,4 @@ public ContentType(String id, String name, String description, String group, Boo
 #### fieldRefs  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>  
 ## See also
-- [https://msdn.microsoft.com/en-us/library/office/ms463449.aspx](https://msdn.microsoft.com/en-us/library/office/ms463449.aspx)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

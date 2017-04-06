@@ -11,7 +11,7 @@ public static void ClearAvailableWebTemplates(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

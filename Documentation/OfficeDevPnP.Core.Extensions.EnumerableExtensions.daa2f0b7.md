@@ -5,7 +5,7 @@ Compares to instances of IEnumerable<T>
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean DeepEquals(IEnumerable source, IEnumerable target)
+public static bool DeepEquals(IEnumerable source, IEnumerable target)
 ```
 ### Parameters
 *source*  
@@ -15,7 +15,7 @@ public static boolean DeepEquals(IEnumerable source, IEnumerable target)
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Target enumeration  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 Wether the two enumerations are deep equal
 
 ## See also

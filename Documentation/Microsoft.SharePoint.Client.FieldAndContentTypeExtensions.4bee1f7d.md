@@ -24,7 +24,7 @@ public static void AddContentTypeToListByName(Web web, String listTitle, String 
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;search for content type in site hierarchy  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

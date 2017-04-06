@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<canvascontrol> Controls { get; }
+public List<CanvasControl> Controls { get; }
 ```
 
 ### Property Value

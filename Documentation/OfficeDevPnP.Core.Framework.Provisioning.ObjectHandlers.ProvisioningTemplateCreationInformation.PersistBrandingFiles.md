@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean PersistBrandingFiles { get; set; }
+public bool PersistBrandingFiles { get; set; }
 ```
 
 ### Property Value

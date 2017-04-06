@@ -5,7 +5,7 @@ Gets or sets whether attachments are enabled. Defaults to true.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableAttachments { get; set; }
+public bool EnableAttachments { get; set; }
 ```
 
 ### Property Value

@@ -5,10 +5,10 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public regex[] GetRegex()
+public Regex[] GetRegex()
 ```
 ### Return Value
-Type: System.Text.RegularExpressions.Regex[]  
+Type: Regex[]  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

@@ -1,5 +1,5 @@
 # ClientContextExtensions.ExecuteQueryRetry Method  
-<summary></summary>  
+  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -17,7 +17,7 @@ public static void ExecuteQueryRetry(ClientRuntimeContext clientContext, Int32 r
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

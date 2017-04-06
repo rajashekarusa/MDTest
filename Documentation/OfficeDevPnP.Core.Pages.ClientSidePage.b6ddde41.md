@@ -5,10 +5,10 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ienumerable<clientsidecomponent> AvailableClientSideComponents()
+public IEnumerable<ClientSideComponent> AvailableClientSideComponents()
 ```
 ### Return Value
-Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Pages.ClientSideComponent>  
+Type: IEnumerable<ClientSideComponent>  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

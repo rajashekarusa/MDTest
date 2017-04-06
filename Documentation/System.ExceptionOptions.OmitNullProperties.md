@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OmitNullProperties { get; set; }
+public bool OmitNullProperties { get; set; }
 ```
 
 ### Property Value

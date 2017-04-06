@@ -11,7 +11,7 @@ public static SharePointOnlineCredentials GetSharePointOnlineCredential(String n
 *name*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.SharePointOnlineCredentials  
+Type: SharePointOnlineCredentials  
 Microsoft.SharePoint.Client.SharePointOnlineCredentials
 
 ## See also

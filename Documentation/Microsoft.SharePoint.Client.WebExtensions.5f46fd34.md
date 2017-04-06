@@ -5,7 +5,7 @@ Determines if a Web (site) exists at the specified full URL, either accessible o
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean WebExistsFullUrl(ClientRuntimeContext context, String webFullUrl)
+public static bool WebExistsFullUrl(ClientRuntimeContext context, String webFullUrl)
 ```
 ### Parameters
 *context*  
@@ -15,7 +15,7 @@ public static boolean WebExistsFullUrl(ClientRuntimeContext context, String webF
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Full URL of the site to check.  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 true if the Web (site) exists; otherwise false
 
 ## See also

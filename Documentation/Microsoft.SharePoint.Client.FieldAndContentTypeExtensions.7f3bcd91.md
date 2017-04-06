@@ -14,7 +14,7 @@ public static void RemoveFieldById(Web web, String fieldId)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The id of the field to remove  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

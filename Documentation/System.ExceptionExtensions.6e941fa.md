@@ -11,7 +11,7 @@ public static string ToDetailedString(Exception exception)
 *exception*  
 &emsp;&emsp;Type: System.Exception  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [System](System.md)

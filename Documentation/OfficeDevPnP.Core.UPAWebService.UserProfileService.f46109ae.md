@@ -11,7 +11,7 @@ public void remove_GetUserProfileSchemaCompleted(GetUserProfileSchemaCompletedEv
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

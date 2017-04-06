@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsAdminEditable { get; set; }
+public bool IsAdminEditable { get; set; }
 ```
 
 ### Property Value

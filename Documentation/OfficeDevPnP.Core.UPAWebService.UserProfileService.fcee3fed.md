@@ -13,7 +13,7 @@ public void CreateMemberGroupAsync(MembershipData membershipInfo, Object userSta
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

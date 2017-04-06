@@ -11,7 +11,7 @@ public void GetUserProfileByIndexAsync(Int32 index)
 *index*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

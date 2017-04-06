@@ -16,7 +16,7 @@ public static Term GetTermByName(Site site, Guid termSetId, String term)
 *term*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Taxonomy.Term  
+Type: Term  
 
 
 ## See also

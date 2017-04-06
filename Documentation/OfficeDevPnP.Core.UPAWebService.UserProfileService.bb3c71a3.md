@@ -13,7 +13,7 @@ public void RemoveColleagueAsync(String accountName, String colleagueAccountName
 *colleagueAccountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

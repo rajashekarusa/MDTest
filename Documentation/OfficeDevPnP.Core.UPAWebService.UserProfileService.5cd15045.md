@@ -15,7 +15,7 @@ public void ModifyUserPropertyByAccountNameAsync(String accountName, PropertyDat
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

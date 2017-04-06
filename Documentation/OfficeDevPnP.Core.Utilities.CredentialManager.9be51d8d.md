@@ -5,13 +5,13 @@ Returns a NetworkCredential given a certain name. Add the credential in the Wind
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static networkcredential GetCredential(String name)
+public static NetworkCredential GetCredential(String name)
 ```
 ### Parameters
 *name*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Net.NetworkCredential  
+Type: NetworkCredential  
 System.Net.NetworkCredential
 
 ## See also

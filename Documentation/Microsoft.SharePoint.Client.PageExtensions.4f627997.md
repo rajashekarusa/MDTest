@@ -17,7 +17,7 @@ public static PropertyValues GetWebPartProperties(Web web, Guid id, String serve
 *serverRelativePageUrl*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.PropertyValues  
+Type: PropertyValues  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

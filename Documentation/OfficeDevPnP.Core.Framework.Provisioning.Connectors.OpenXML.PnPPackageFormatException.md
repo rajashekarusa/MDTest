@@ -5,7 +5,7 @@ Custom Exception type for PnP Packaging handling
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [System.ApplicationException](System.ApplicationException.md)
+  [System.ApplicationException](System.ApplicationException.md) 
 ## Syntax
 ```C#
 public class PnPPackageFormatException: ApplicationException
@@ -13,7 +13,7 @@ public class PnPPackageFormatException: ApplicationException
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackageFormatException(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.ctor1.md) | <summary> Custom Exception type for PnP Packaging handling </summary>
-| [PnPPackageFormatException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.ctor2.md) | <summary> Custom Exception type for PnP Packaging handling </summary>
+| [PnPPackageFormatException(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.ctor1.md) |  Custom Exception type for PnP Packaging handling 
+| [PnPPackageFormatException(String, Exception)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFormatException.ctor2.md) |  Custom Exception type for PnP Packaging handling 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

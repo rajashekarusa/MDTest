@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ForceCheckout { get; set; }
+public bool ForceCheckout { get; set; }
 ```
 
 ### Property Value

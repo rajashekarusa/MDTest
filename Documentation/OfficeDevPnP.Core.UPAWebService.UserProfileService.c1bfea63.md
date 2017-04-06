@@ -11,7 +11,7 @@ public void add_ModifyUserPropertyByAccountNameCompleted(ModifyUserPropertyByAcc
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.ModifyUserPropertyByAccountNameCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

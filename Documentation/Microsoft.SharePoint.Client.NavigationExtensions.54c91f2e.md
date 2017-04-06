@@ -21,7 +21,7 @@ public static void DeleteNavigationNode(Web web, String nodeTitle, String parent
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.NavigationType](OfficeDevPnP.Core.Enums.NavigationType.md)  
 &emsp;&emsp;the type of navigation, quick launch, top navigation or search navigation  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

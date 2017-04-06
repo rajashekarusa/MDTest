@@ -15,7 +15,7 @@ public static PublishingPage GetPublishingPage(Web web, String fileLeafRef)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The file leaf reference.  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Publishing.PublishingPage  
+Type: PublishingPage  
 The PublishingPage object, if any. Otherwise null.
 
 ## See also

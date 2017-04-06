@@ -33,7 +33,7 @@ public static List CreateList(Web web, Guid featureId, Int32 listType, String li
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;(Optional) Enable content type management  
 ### Return Value
-Type: Microsoft.SharePoint.Client.List  
+Type: List  
 The newly created list
 
 ## See also

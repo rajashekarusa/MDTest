@@ -5,7 +5,7 @@ Removes the custom action that triggers the execution of a javascript link
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean DeleteJsLink(Web web, String key)
+public static bool DeleteJsLink(Web web, String key)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean DeleteJsLink(Web web, String key)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be deleted  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if action was ok
 
 ## See also

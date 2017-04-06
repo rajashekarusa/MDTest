@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsValueChanged { get; set; }
+public bool IsValueChanged { get; set; }
 ```
 
 ### Property Value

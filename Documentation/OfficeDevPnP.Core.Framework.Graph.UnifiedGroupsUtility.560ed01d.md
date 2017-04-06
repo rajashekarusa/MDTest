@@ -24,7 +24,7 @@ public static UnifiedGroupEntity GetUnifiedGroup(String groupId, String accessTo
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether to return details about the Modern SharePoint Site backing the group. Default is true.  
 ### Return Value
-Type: [OfficeDevPnP.Core.Entities.UnifiedGroupEntity](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.md)  
+Type: UnifiedGroupEntity  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

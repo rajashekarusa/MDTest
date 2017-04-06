@@ -13,7 +13,7 @@ public ProvisioningTemplate GetTemplate(String uri, String identifier)
 *identifier*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

@@ -15,7 +15,7 @@ public void GetUserPropertyByAccountNameAsync(String accountName, String propert
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

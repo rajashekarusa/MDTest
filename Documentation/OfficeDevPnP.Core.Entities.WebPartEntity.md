@@ -6,6 +6,7 @@ Class that describes information about a web part
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class WebPartEntity
@@ -13,7 +14,7 @@ public class WebPartEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartEntity()](OfficeDevPnP.Core.Entities.WebPartEntity.ctor1.md) | <summary> Class that describes information about a web part </summary>
+| [WebPartEntity()](OfficeDevPnP.Core.Entities.WebPartEntity.ctor1.md) |  Class that describes information about a web part 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

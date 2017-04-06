@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> Map { get; set; }
+public Dictionary<String, String> Map { get; set; }
 ```
 
 ### Property Value

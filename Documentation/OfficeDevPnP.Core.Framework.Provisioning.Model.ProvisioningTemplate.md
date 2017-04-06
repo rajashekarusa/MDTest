@@ -6,6 +6,7 @@ Domain Object for the Provisioning Template
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class ProvisioningTemplate
@@ -13,8 +14,8 @@ public class ProvisioningTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor1.md) | <summary> Domain Object for the Provisioning Template </summary>
-| [ProvisioningTemplate(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor2.md) | <summary> Domain Object for the Provisioning Template </summary>
+| [ProvisioningTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor1.md) |  Domain Object for the Provisioning Template 
+| [ProvisioningTemplate(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.ctor2.md) |  Domain Object for the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

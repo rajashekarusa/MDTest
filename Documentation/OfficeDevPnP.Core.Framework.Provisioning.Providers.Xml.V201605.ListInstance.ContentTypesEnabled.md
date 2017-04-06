@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ContentTypesEnabled { get; set; }
+public bool ContentTypesEnabled { get; set; }
 ```
 
 ### Property Value

@@ -17,7 +17,7 @@ public void AddMembershipAsync(String accountName, MembershipData membershipInfo
 *privacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

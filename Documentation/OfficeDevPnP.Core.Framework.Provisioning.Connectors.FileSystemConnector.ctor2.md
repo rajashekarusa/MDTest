@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public FileSystemConnector(String connectionString, String container)
+public FileSystemConnector(string connectionString, string container)
 ```
 ### Parameters
 #### connectionString  

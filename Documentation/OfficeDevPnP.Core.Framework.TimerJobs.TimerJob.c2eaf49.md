@@ -11,7 +11,7 @@ public void remove_TimerJobRun(TimerJobRunHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

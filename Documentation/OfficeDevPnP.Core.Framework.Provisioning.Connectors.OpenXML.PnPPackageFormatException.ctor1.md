@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public PnPPackageFormatException(String message)
+public PnPPackageFormatException(string message)
 ```
 ### Parameters
 #### message  

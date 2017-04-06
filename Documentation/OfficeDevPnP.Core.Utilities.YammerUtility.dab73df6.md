@@ -21,7 +21,7 @@ public static string CreateYammerGroupDiscussionPartXml(String yammerNetworkName
 *(optional) useSSO*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.String  
+Type: string  
 The constructed web part XML
 
 ## See also

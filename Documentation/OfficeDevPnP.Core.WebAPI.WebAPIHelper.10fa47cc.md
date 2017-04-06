@@ -12,7 +12,7 @@ public static void AddToCache(WebAPIContext sharePointServiceContext)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md)  
 &emsp;&emsp;Object holding information about the requesting SharePoint app  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

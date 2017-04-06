@@ -5,7 +5,7 @@ Domain Object for Extensiblity Call out
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class ExtensibilityHandler: BaseModel
@@ -13,7 +13,7 @@ public class ExtensibilityHandler: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.ctor1.md) | <summary> Domain Object for Extensiblity Call out </summary>
+| [ExtensibilityHandler()](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler.ctor1.md) |  Domain Object for Extensiblity Call out 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

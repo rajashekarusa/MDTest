@@ -12,7 +12,7 @@ public static string GetWebSearchCenterUrl(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint site - current web  
 ### Return Value
-Type: System.String  
+Type: string  
 Search results page url for web
 
 ## See also

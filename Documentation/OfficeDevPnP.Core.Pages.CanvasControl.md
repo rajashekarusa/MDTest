@@ -5,9 +5,10 @@ Base control
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
-----  [OfficeDevPnP.Core.Pages.ClientSideText](OfficeDevPnP.Core.Pages.ClientSideText.md)
-----  [OfficeDevPnP.Core.Pages.ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md)
+[OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
+
++++[OfficeDevPnP.Core.Pages.ClientSideText](OfficeDevPnP.Core.Pages.ClientSideText.md) 
++++[OfficeDevPnP.Core.Pages.ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 ## Syntax
 ```C#
 public class CanvasControl
@@ -15,7 +16,7 @@ public class CanvasControl
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CanvasControl()](OfficeDevPnP.Core.Pages.CanvasControl.ctor1.md) | <summary> Base control </summary>
+| [CanvasControl()](OfficeDevPnP.Core.Pages.CanvasControl.ctor1.md) |  Base control 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -6,6 +6,7 @@ This class holds the information that's being cached as part of the WebAPI servi
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class WebAPIContexCacheItem
@@ -13,7 +14,7 @@ public class WebAPIContexCacheItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContexCacheItem()](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.ctor1.md) | <summary> This class holds the information that's being cached as part of the WebAPI service implementation </summary>
+| [WebAPIContexCacheItem()](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.ctor1.md) |  This class holds the information that's being cached as part of the WebAPI service implementation 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

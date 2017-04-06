@@ -24,7 +24,7 @@ public static void AddFieldToContentType(Web web, ContentType contentType, Field
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this a hidden field  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

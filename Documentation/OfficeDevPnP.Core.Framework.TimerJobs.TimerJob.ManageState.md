@@ -5,7 +5,7 @@ Gets and sets the state management value: when true the timer job will automatic
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ManageState { get; set; }
+public bool ManageState { get; set; }
 ```
 
 ### Property Value

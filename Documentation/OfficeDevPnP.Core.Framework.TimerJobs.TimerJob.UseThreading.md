@@ -5,7 +5,7 @@ Can this timer job use multiple threads. Defaults to true
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UseThreading { get; set; }
+public bool UseThreading { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean WorkflowStartEvent { get; set; }
+public bool WorkflowStartEvent { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ Does the timerjob need to fire as well for every sub site in the site?
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ExpandSubSites { get; set; }
+public bool ExpandSubSites { get; set; }
 ```
 
 ### Property Value

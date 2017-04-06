@@ -13,7 +13,7 @@ public void AddFile(String fileName, Byte[] value)
 *value*  
 &emsp;&emsp;Type: System.Byte[]  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

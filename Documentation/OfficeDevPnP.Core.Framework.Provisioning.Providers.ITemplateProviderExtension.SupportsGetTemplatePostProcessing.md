@@ -5,7 +5,7 @@ Declares whether the object supports post-processing during GetTemplate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SupportsGetTemplatePostProcessing { get; }
+public bool SupportsGetTemplatePostProcessing { get; }
 ```
 
 ### Property Value

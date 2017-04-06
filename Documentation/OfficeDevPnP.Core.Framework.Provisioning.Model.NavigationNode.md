@@ -5,7 +5,7 @@ Defines a Navigation Node for the Structural Navigation of a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class NavigationNode: BaseModel
@@ -13,7 +13,7 @@ public class NavigationNode: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) | <summary> Defines a Navigation Node for the Structural Navigation of a site </summary>
+| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.ctor1.md) |  Defines a Navigation Node for the Structural Navigation of a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

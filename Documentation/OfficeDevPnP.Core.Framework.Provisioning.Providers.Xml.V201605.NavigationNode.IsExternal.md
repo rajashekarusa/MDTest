@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsExternal { get; set; }
+public bool IsExternal { get; set; }
 ```
 
 ### Property Value

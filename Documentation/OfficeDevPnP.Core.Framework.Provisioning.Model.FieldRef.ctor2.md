@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public FieldRef(String fieldRefName)
+public FieldRef(string fieldRefName)
 ```
 ### Parameters
 #### fieldRefName  

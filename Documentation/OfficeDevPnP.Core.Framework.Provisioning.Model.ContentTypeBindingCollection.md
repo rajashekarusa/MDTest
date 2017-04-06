@@ -5,7 +5,7 @@ Collection of ContentTypeBinding objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.md) 
 ## Syntax
 ```C#
 public class ContentTypeBindingCollection: ProvisioningTemplateCollection<ContentTypeBinding>
@@ -13,6 +13,6 @@ public class ContentTypeBindingCollection: ProvisioningTemplateCollection<Conten
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBindingCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.ctor1.md) | <summary> Collection of ContentTypeBinding objects </summary>
+| [ContentTypeBindingCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.ctor1.md) |  Collection of ContentTypeBinding objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

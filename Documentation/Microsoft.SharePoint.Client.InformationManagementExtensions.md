@@ -6,6 +6,7 @@ Class that holds deprecated information management extension methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class InformationManagementExtensions
@@ -24,5 +25,5 @@ public static class InformationManagementExtensions
 | [SetClosedBySitePolicy(Web)](Microsoft.SharePoint.Client.InformationManagementExtensions.54b583bd.md) | Close a site, if it has a site policy applied and is currently not closed
 | [SetOpenBySitePolicy(Web)](Microsoft.SharePoint.Client.InformationManagementExtensions.5c8597df.md) | Open a site, if it has a site policy applied and is currently closed
 ## See also
-- [T:OfficeDevPnP.Core.Entities.SitePolicyEntity](T:OfficeDevPnP.Core.Entities.SitePolicyEntity.md)
+- [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

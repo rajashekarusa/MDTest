@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetUserPropertyByAccountNameCompletedEventHandler(Object object, IntPtr method)
+public GetUserPropertyByAccountNameCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

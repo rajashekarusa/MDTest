@@ -5,7 +5,7 @@ Defines a Directory element, to describe a folder in the current repository that
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class Directory: BaseModel
@@ -13,8 +13,8 @@ public class Directory: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor1.md) | <summary> Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site </summary>
-| [Directory(String, String, Boolean, FileLevel, Boolean, String, String, String, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor2.md) | <summary> Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site </summary>
+| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor1.md) |  Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site 
+| [Directory(String, String, Boolean, FileLevel, Boolean, String, String, String, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.ctor2.md) |  Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

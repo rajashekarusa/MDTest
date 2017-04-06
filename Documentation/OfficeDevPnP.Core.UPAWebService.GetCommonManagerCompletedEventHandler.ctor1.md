@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetCommonManagerCompletedEventHandler(Object object, IntPtr method)
+public GetCommonManagerCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

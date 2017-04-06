@@ -5,7 +5,7 @@ Gets or sets whether to force checkout of documents in the library
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ForceCheckout { get; set; }
+public bool ForceCheckout { get; set; }
 ```
 
 ### Property Value

@@ -13,7 +13,7 @@ public void RemoveLink(String accountName, Int32 id)
 *id*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

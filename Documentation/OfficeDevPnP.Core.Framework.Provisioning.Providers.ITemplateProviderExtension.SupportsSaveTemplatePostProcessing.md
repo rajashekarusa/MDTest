@@ -5,7 +5,7 @@ Declares whether the object supports post-processing during SaveTemplate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SupportsSaveTemplatePostProcessing { get; }
+public bool SupportsSaveTemplatePostProcessing { get; }
 ```
 
 ### Property Value

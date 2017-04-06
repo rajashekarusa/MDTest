@@ -11,7 +11,7 @@ public static string FormatFieldXml(FieldCreationInformation fieldCreationInform
 *fieldCreationInformation*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

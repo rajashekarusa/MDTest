@@ -18,7 +18,7 @@ public static void SetPropertyBagValue(Web web, String key, DateTime value)
 &emsp;&emsp;Type: System.DateTime  
 &emsp;&emsp;Datetime value for the property bag entry  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -21,7 +21,7 @@ public static void DeleteWebPart(Web web, String folder, String title, String pa
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to remove the web part from  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

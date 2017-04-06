@@ -15,7 +15,8 @@ public static void SetRecordUnDeclarationBy(Site site, EcmRecordDeclarationBy by
 &emsp;&emsp;Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)  
 &emsp;&emsp; enum that defines who can undeclare a record  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
+- [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

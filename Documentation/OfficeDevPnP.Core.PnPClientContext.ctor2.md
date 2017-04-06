@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public PnPClientContext(Uri uri, Int32 retryCount, Int32 delay)
+public PnPClientContext(Uri uri, int retryCount, int delay)
 ```
 ### Parameters
 #### uri  

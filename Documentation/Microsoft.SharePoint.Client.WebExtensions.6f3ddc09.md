@@ -24,7 +24,7 @@ public static void SetPageOutputCache(Web web, Boolean enableOutputCache, Int32 
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specify true to enable the display of additional cache information on pages in this site collection. False otherwise.  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

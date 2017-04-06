@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetCommonMembershipsCompletedEventHandler(Object object, IntPtr method)
+public GetCommonMembershipsCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

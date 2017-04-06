@@ -11,7 +11,7 @@ public static ITemplateFormatter GetSpecificFormatter(XMLPnPSchemaVersion versio
 *version*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaVersion](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaVersion.md)  
 ### Return Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter  
+Type: ITemplateFormatter  
 
 
 ## See also

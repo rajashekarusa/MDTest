@@ -15,7 +15,7 @@ public static PnPClientContext ConvertFrom(ClientContext clientContext, Int32 re
 *(optional) delay*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md)  
+Type: PnPClientContext  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

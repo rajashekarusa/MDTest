@@ -13,7 +13,7 @@ public void Invoke(Object sender, GetCommonColleaguesCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -24,7 +24,7 @@ public static void WireUpTaxonomyField(Web web, Guid id, String mmsGroupName, St
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If true, create a multivalue field  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

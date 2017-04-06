@@ -5,7 +5,7 @@ TimerJobRun delegate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [System.MulticastDelegate](System.MulticastDelegate.md)
+  [System.MulticastDelegate](System.MulticastDelegate.md) 
 ## Syntax
 ```C#
 public class TimerJobRunHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class TimerJobRunHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJobRunHandler(Object, IntPtr)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.ctor1.md) | <summary> TimerJobRun delegate </summary>
+| [TimerJobRunHandler(Object, IntPtr)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.ctor1.md) |  TimerJobRun delegate 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

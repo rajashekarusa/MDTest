@@ -5,14 +5,14 @@ Detects if the site in question has no script enabled or not. Detection is done 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsNoScriptSite(Site site)
+public static bool IsNoScriptSite(Site site)
 ```
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;site to verify  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if noscript, false otherwise
 
 ## See also

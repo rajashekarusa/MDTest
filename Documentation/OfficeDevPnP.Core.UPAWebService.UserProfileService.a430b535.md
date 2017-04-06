@@ -11,7 +11,7 @@ public void add_GetCommonColleaguesCompleted(GetCommonColleaguesCompletedEventHa
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

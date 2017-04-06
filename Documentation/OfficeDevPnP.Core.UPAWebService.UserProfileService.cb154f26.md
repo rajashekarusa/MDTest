@@ -15,7 +15,7 @@ public void AddSuggestions(SuggestionType type, String[] suggestions, Double[] w
 *weights*  
 &emsp;&emsp;Type: System.Double[]  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

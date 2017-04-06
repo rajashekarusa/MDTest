@@ -11,7 +11,7 @@ public void Initialize(TemplateProviderBase provider)
 *provider*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

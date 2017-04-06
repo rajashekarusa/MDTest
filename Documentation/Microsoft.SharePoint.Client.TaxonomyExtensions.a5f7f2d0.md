@@ -24,7 +24,7 @@ public static void WireUpTaxonomyField(List list, Guid id, String mmsGroupName, 
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Allow multiple selection  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

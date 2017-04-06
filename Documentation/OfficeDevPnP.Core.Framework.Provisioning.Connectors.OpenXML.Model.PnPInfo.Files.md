@@ -5,7 +5,7 @@ Files contained in the PnP OpenXML file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<pnpfileinfo> Files { get; set; }
+public List<PnPFileInfo> Files { get; set; }
 ```
 
 ### Property Value

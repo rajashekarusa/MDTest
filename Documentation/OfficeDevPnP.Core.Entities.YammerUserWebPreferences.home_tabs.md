@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<yammeruserhometab> home_tabs { get; set; }
+public IList<YammerUserHomeTab> home_tabs { get; set; }
 ```
 
 ### Property Value

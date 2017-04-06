@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RegistrationTypeSpecified { get; set; }
+public bool RegistrationTypeSpecified { get; set; }
 ```
 
 ### Property Value

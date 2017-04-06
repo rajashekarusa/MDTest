@@ -5,14 +5,14 @@ Checks if in place records management functionality is enabled for this site col
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsInPlaceRecordsManagementActive(Site site)
+public static bool IsInPlaceRecordsManagementActive(Site site)
 ```
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if in place records management is enabled, false otherwise
 
 ## See also

@@ -5,7 +5,7 @@ Defines if the Workflow Definition is enabled for the current Subscription
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Enabled { get; set; }
+public bool Enabled { get; set; }
 ```
 
 ### Property Value

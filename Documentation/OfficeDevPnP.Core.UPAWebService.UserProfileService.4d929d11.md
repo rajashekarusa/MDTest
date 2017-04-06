@@ -19,7 +19,7 @@ public ContactData AddColleagueWithoutEmailNotification(String accountName, Stri
 *isInWorkGroup*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md)  
+Type: ContactData  
 
 ## Remarks 
 

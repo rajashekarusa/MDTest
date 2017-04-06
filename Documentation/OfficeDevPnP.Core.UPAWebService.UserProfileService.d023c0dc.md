@@ -11,7 +11,7 @@ public void add_GetProfileSchemaNameByAccountNameCompleted(GetProfileSchemaNameB
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -30,7 +30,7 @@ public static NavigationNode AddNavigationNode(Web web, String nodeTitle, Uri no
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;true if the link should be added as the last node of the collection  
 ### Return Value
-Type: Microsoft.SharePoint.Client.NavigationNode  
+Type: NavigationNode  
 Newly added NavigationNode
 
 ## See also

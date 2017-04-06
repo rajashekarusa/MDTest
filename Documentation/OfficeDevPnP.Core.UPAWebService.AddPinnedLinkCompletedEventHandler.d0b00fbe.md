@@ -13,7 +13,7 @@ public void Invoke(Object sender, AddPinnedLinkCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

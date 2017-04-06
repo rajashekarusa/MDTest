@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ManagedNavigation { get; set; }
+public bool ManagedNavigation { get; set; }
 ```
 
 ### Property Value

@@ -13,7 +13,7 @@ public void GetUserProfileByNameAsync(String AccountName, Object userState)
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

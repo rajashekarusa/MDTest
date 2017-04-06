@@ -5,7 +5,7 @@ The list of Welcome Page Fields for the Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<guid> WelcomePageFields { get; }
+public List<Guid> WelcomePageFields { get; }
 ```
 
 ### Property Value

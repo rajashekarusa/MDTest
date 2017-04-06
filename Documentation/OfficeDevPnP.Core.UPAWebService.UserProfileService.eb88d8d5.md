@@ -15,7 +15,7 @@ public void UpdateColleaguePrivacyAsync(String accountName, String colleagueAcco
 *newPrivacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

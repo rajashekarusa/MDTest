@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ienumerable<itreenode> Subtree { get; }
+public IEnumerable<ITreeNode> Subtree { get; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RequiresAssociationFormSpecified { get; set; }
+public bool RequiresAssociationFormSpecified { get; set; }
 ```
 
 ### Property Value

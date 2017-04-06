@@ -17,7 +17,7 @@ public static void AddAdministrators(Tenant tenant, IEnumerable<UserEntity> admi
 *(optional) addToOwnersGroup*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -15,7 +15,7 @@ public static void SetHomePage(Web web, String rootFolderRelativePath)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path relative to the root folder of the site, e.g. SitePages/Home.aspx  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

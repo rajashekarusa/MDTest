@@ -13,7 +13,7 @@ public void Invoke(Object sender, AddColleagueWithoutEmailNotificationCompletedE
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

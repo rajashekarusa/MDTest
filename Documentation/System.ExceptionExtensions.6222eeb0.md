@@ -13,7 +13,7 @@ public static string ToDetailedString(Exception exception, ClientRuntimeContext 
 *cc*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [System](System.md)

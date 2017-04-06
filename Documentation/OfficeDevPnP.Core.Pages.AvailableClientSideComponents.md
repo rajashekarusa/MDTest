@@ -6,6 +6,7 @@ Class holding a collection of client side webparts (retrieved via the _api/web/G
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class AvailableClientSideComponents
@@ -13,7 +14,7 @@ public class AvailableClientSideComponents
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.ctor1.md) | <summary> Class holding a collection of client side webparts (retrieved via the _api/web/GetClientSideWebParts REST call) </summary>
+| [AvailableClientSideComponents()](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.ctor1.md) |  Class holding a collection of client side webparts (retrieved via the _api/web/GetClientSideWebParts REST call) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

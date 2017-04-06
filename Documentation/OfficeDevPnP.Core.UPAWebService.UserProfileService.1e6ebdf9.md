@@ -21,7 +21,7 @@ public void AddColleagueAsync(String accountName, String colleagueAccountName, S
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

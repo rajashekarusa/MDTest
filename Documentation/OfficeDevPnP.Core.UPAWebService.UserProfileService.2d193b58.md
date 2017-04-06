@@ -11,7 +11,7 @@ public void CreateMemberGroupAsync(MembershipData membershipInfo)
 *membershipInfo*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

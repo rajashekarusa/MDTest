@@ -5,7 +5,7 @@ Gets a list of fields from a list by names.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ienumerable<field> GetFields(List list, String[] fieldInternalNames)
+public static IEnumerable<Field> GetFields(List list, String[] fieldInternalNames)
 ```
 ### Parameters
 *list*  
@@ -15,7 +15,7 @@ public static ienumerable<field> GetFields(List list, String[] fieldInternalName
 &emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;List of field names to retreieve.  
 ### Return Value
-Type: System.Collections.Generic.IEnumerable<Microsoft.SharePoint.Client.Field>  
+Type: IEnumerable<Field>  
 List of fields requested.
 
 ## See also

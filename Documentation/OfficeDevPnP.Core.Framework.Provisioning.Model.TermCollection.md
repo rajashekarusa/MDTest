@@ -5,7 +5,7 @@ Collection of Term objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
 ## Syntax
 ```C#
 public class TermCollection: ProvisioningTemplateCollection<Term>
@@ -13,6 +13,6 @@ public class TermCollection: ProvisioningTemplateCollection<Term>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.ctor1.md) | <summary> Collection of Term objects </summary>
+| [TermCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.ctor1.md) |  Collection of Term objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

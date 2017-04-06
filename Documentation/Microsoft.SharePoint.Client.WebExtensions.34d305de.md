@@ -5,7 +5,7 @@ Deletes the child website with the specified leaf URL, from a parent Web, if it 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean DeleteWeb(Web parentWeb, String leafUrl)
+public static bool DeleteWeb(Web parentWeb, String leafUrl)
 ```
 ### Parameters
 *parentWeb*  
@@ -15,7 +15,7 @@ public static boolean DeleteWeb(Web parentWeb, String leafUrl)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 true if the web was deleted; otherwise false if nothing was done
 
 ## See also

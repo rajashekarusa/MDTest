@@ -5,7 +5,7 @@ Defines the Managed Navigation settings of a site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class ManagedNavigation: BaseModel
@@ -13,7 +13,7 @@ public class ManagedNavigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.ctor1.md) | <summary> Defines the Managed Navigation settings of a site </summary>
+| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.ctor1.md) |  Defines the Managed Navigation settings of a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

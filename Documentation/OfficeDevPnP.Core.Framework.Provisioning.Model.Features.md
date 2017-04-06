@@ -5,7 +5,7 @@ Domain Object that is used in the Site Template for OOB Features
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class Features: BaseModel
@@ -13,7 +13,7 @@ public class Features: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.ctor1.md) | <summary> Domain Object that is used in the Site Template for OOB Features </summary>
+| [Features()](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.ctor1.md) |  Domain Object that is used in the Site Template for OOB Features 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

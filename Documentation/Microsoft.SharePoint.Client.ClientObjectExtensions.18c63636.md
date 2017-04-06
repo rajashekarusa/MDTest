@@ -5,7 +5,7 @@ Check if a property is available on a object
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsPropertyAvailable(T clientObject, Expression<Func<T, Object>> propertySelector)
+public static bool IsPropertyAvailable(T clientObject, Expression<Func<T, Object>> propertySelector)
 ```
 ### Parameters
 *clientObject*  
@@ -15,7 +15,7 @@ public static boolean IsPropertyAvailable(T clientObject, Expression<Func<T, Obj
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>  
 &emsp;&emsp;Lamda expression containing the properties to check (e.g. w => w.HasUniqueRoleAssignments)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if the property is available, false otherwise
 
 ## See also

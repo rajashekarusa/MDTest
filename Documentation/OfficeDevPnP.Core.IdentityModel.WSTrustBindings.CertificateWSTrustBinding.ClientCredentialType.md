@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public httpclientcredentialtype ClientCredentialType { get; set; }
+public HttpClientCredentialType ClientCredentialType { get; set; }
 ```
 
 ### Property Value

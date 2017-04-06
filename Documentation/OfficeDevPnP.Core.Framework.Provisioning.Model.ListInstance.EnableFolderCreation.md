@@ -5,7 +5,7 @@ Gets or sets whether folder is enabled. Defaults to true.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableFolderCreation { get; set; }
+public bool EnableFolderCreation { get; set; }
 ```
 
 ### Property Value

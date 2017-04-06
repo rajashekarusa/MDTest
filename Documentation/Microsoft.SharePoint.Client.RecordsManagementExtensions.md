@@ -6,6 +6,7 @@ Class that deals with deprecated records management functionality
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class RecordsManagementExtensions
@@ -31,7 +32,7 @@ public static class RecordsManagementExtensions
 | [SetRecordRestrictions(Site, EcmSiteRecordRestrictions)](Microsoft.SharePoint.Client.RecordsManagementExtensions.1b685f24.md) | Defines the restrictions that are placed on a document once it's declared as a record
 | [SetRecordUnDeclarationBy(Site, EcmRecordDeclarationBy)](Microsoft.SharePoint.Client.RecordsManagementExtensions.794eadc1.md) | Defines who can undeclare records
 ## See also
-- [T:OfficeDevPnP.Core.EcmListManualRecordDeclaration](T:OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)
-- [T:OfficeDevPnP.Core.EcmRecordDeclarationBy](T:OfficeDevPnP.Core.EcmRecordDeclarationBy.md)
-- [T:OfficeDevPnP.Core.EcmSiteRecordRestrictions](T:OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)
+- [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)
+- [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)
+- [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

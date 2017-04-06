@@ -5,7 +5,7 @@ A default document for a Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class DefaultDocument: BaseModel
@@ -13,7 +13,7 @@ public class DefaultDocument: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) | <summary> A default document for a Document Set </summary>
+| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) |  A default document for a Document Set 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

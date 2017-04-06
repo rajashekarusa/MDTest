@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public TermGroup(Guid id, String name, List<TermSet> termSets, Boolean siteCollectionTermGroup, IEnumerable<User> contributors, IEnumerable<User> managers)
+public TermGroup(Guid id, string name, List<TermSet> termSets, bool siteCollectionTermGroup, IEnumerable<User> contributors, IEnumerable<User> managers)
 ```
 ### Parameters
 #### id  

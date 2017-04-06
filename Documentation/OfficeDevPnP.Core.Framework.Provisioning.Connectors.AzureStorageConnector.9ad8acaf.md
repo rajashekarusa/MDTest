@@ -12,7 +12,7 @@ public void DeleteFile(String fileName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to delete  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)

@@ -18,7 +18,7 @@ public static void SetListPermission(List list, BuiltInIdentity user, RoleType r
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.RoleType  
 &emsp;&emsp;Role type  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

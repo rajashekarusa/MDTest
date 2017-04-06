@@ -5,14 +5,14 @@ This method returns a Boolean value that specifies whether or not the current ob
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean Contains(Guid fid)
+public static bool Contains(Guid fid)
 ```
 ### Parameters
 *fid*  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;File identifier.  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
             Returns a GUID.
             

@@ -19,7 +19,7 @@ public static void SendEmail(ClientContext context, IEnumerable<String> to, IEnu
 *body*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

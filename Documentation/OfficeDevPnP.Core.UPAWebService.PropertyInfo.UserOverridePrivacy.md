@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UserOverridePrivacy { get; set; }
+public bool UserOverridePrivacy { get; set; }
 ```
 
 ### Property Value

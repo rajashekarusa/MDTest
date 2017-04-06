@@ -5,7 +5,7 @@ Gets or sets the feature Id
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid Id { get; set; }
+public Guid Id { get; set; }
 ```
 
 ### Property Value

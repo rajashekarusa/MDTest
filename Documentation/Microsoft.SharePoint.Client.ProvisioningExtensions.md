@@ -6,6 +6,7 @@ File-based (CAML) deprecated provisioning extensions
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class ProvisioningExtensions

@@ -11,7 +11,7 @@ public void add_GetUserProfileByGuidCompleted(GetUserProfileByGuidCompletedEvent
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

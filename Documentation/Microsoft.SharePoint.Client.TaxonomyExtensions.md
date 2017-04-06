@@ -6,6 +6,7 @@ Class for deprecated taxonomy extension methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class TaxonomyExtensions

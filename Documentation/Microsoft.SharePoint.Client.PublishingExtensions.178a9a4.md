@@ -15,7 +15,7 @@ public static void RemovePublishingImageRendition(Web web, String imageRendition
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the image rendition  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

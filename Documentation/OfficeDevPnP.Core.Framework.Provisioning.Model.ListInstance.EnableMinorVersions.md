@@ -5,7 +5,7 @@ Gets or sets whether minor verisioning is enabled on the list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableMinorVersions { get; set; }
+public bool EnableMinorVersions { get; set; }
 ```
 
 ### Property Value

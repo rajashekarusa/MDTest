@@ -8,7 +8,7 @@
 public int GetHashCode()
 ```
 ### Return Value
-Type: System.Int32  
+Type: int  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@ Encrypts data based on the RSACryptoServiceProvider
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static byte[] Encrypt(Byte[] plainData, Boolean fOAEP, X509Certificate2 certificate)
+public static Byte[] Encrypt(Byte[] plainData, Boolean fOAEP, X509Certificate2 certificate)
 ```
 ### Parameters
 *plainData*  
@@ -18,7 +18,7 @@ public static byte[] Encrypt(Byte[] plainData, Boolean fOAEP, X509Certificate2 c
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
 &emsp;&emsp;Certificate to use  
 ### Return Value
-Type: System.Byte[]  
+Type: Byte[]  
 Encrypted bytes
 
 ## See also

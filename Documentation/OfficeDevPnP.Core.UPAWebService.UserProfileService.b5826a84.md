@@ -11,7 +11,7 @@ public string GetProfileSchemaNameByAccountName(String accountName)
 *accountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## Remarks 
 

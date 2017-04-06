@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean allow_external_sharing { get; set; }
+public bool allow_external_sharing { get; set; }
 ```
 
 ### Property Value

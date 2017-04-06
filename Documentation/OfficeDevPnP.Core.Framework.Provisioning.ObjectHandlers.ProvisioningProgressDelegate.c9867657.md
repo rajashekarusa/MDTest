@@ -11,7 +11,7 @@ public void EndInvoke(IAsyncResult result)
 *result*  
 &emsp;&emsp;Type: System.IAsyncResult  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

@@ -13,7 +13,7 @@ public void GetProfileSchemaNameByAccountNameAsync(String accountName, Object us
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

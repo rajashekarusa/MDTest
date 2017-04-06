@@ -9,7 +9,7 @@ public AutoCheckRequirementsOptions AutoCheckRequirements { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions](OfficeDevPnP.Core.Framework.Provisioning.Model.AutoCheckRequirementsOptions.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -1,5 +1,5 @@
 # ExternalSharingExtensions.CreateAnonymousLinkWithExpirationForDocument Method  
-<summary> Creates anonymous link to the given document with automatic expiration time. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslinkwithexpiration.aspx">MSDN</a></summary>  
+ Creates anonymous link to the given document with automatic expiration time. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslinkwithexpiration.aspx">MSDN</a>  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -21,7 +21,7 @@ public static string CreateAnonymousLinkWithExpirationForDocument(Web web, Strin
 &emsp;&emsp;Type: System.DateTime  
 &emsp;&emsp;Date time for link expiration - will be converted to ISO 8601 format automatically  
 ### Return Value
-Type: System.String  
+Type: string  
 Anonymous URL to the file as string
 
 ## See also

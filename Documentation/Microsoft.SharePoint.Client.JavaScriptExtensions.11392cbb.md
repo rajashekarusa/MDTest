@@ -5,7 +5,7 @@ Injects javascript via a adding a custom action to the site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddJsBlock(Web web, String key, String scriptBlock, Int32 sequence)
+public static bool AddJsBlock(Web web, String key, String scriptBlock, Int32 sequence)
 ```
 ### Parameters
 *web*  
@@ -20,7 +20,7 @@ public static boolean AddJsBlock(Web web, String key, String scriptBlock, Int32 
 *(optional) sequence*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if action was ok
 
 ## See also

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowMembersEditMembershipSpecified { get; set; }
+public bool AllowMembersEditMembershipSpecified { get; set; }
 ```
 
 ### Property Value

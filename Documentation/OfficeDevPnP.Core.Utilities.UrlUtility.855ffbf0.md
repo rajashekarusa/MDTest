@@ -13,7 +13,7 @@ public static string Combine(String path, String[] relativePaths)
 *relativePaths*  
 &emsp;&emsp;Type: System.String[]  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

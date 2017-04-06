@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public XMLAzureStorageTemplateProvider(String connectionString, String container)
+public XMLAzureStorageTemplateProvider(string connectionString, string container)
 ```
 ### Parameters
 #### connectionString  

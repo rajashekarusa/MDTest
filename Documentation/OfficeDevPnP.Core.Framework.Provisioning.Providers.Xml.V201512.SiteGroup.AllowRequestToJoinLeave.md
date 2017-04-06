@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowRequestToJoinLeave { get; set; }
+public bool AllowRequestToJoinLeave { get; set; }
 ```
 
 ### Property Value

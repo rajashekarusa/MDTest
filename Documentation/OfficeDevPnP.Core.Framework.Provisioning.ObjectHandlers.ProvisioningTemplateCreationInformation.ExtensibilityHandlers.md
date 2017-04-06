@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<extensibilityhandler> ExtensibilityHandlers { get; set; }
+public List<ExtensibilityHandler> ExtensibilityHandlers { get; set; }
 ```
 
 ### Property Value

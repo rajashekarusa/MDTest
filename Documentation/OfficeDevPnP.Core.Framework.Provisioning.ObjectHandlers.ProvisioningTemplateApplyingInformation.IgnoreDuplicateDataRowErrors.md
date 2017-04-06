@@ -5,7 +5,7 @@ If true then duplicate id errors when the same importing datarows simply generat
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IgnoreDuplicateDataRowErrors { get; set; }
+public bool IgnoreDuplicateDataRowErrors { get; set; }
 ```
 
 ### Property Value

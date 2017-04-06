@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ProvisioningMessagesDelegate(Object object, IntPtr method)
+public ProvisioningMessagesDelegate(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

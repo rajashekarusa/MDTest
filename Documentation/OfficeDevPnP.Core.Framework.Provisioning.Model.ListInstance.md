@@ -5,7 +5,7 @@ This class holds deprecated ListInstance properties and methods
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class ListInstance: BaseModel
@@ -13,11 +13,11 @@ public class ListInstance: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor1.md) | <summary> This class holds deprecated ListInstance properties and methods </summary>
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor2.md) | <summary> This class holds deprecated ListInstance properties and methods </summary>
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor3.md) | <summary> This class holds deprecated ListInstance properties and methods </summary>
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor4.md) | <summary> This class holds deprecated ListInstance properties and methods </summary>
-| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>, List<CustomAction>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor5.md) | <summary> This class holds deprecated ListInstance properties and methods </summary>
+| [ListInstance()](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor1.md) |  This class holds deprecated ListInstance properties and methods 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor2.md) |  This class holds deprecated ListInstance properties and methods 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor3.md) |  This class holds deprecated ListInstance properties and methods 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor4.md) |  This class holds deprecated ListInstance properties and methods 
+| [ListInstance(IEnumerable<ContentTypeBinding>, IEnumerable<View>, IEnumerable<Field>, IEnumerable<FieldRef>, List<DataRow>, Dictionary<String, String>, ObjectSecurity, List<Folder>, List<CustomAction>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.ctor5.md) |  This class holds deprecated ListInstance properties and methods 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -15,7 +15,7 @@ public static Field CreateTaxonomyField(Web web, TaxonomyFieldCreationInformatio
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md)  
 &emsp;&emsp;Creation Information of the field  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 New taxonomy field
 
 ## See also

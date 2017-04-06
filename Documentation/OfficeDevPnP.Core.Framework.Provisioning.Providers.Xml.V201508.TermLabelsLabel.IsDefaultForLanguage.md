@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsDefaultForLanguage { get; set; }
+public bool IsDefaultForLanguage { get; set; }
 ```
 
 ### Property Value

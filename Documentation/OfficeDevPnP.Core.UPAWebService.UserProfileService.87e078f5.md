@@ -11,7 +11,7 @@ public void remove_UpdatePinnedLinkCompleted(UpdatePinnedLinkCompletedEventHandl
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdatePinnedLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdatePinnedLinkCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

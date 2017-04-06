@@ -15,7 +15,7 @@ public void UseAppOnlyAuthentication(String clientId, String clientSecret)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Client Secret of the app  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

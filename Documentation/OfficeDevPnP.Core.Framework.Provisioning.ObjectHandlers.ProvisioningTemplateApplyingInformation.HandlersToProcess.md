@@ -9,7 +9,7 @@ public Handlers HandlersToProcess { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers](OfficeDevPnP.Core.Framework.Provisioning.Model.Handlers.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

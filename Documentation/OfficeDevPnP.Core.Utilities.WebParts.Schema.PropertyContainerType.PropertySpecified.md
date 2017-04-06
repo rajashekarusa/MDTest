@@ -1,11 +1,11 @@
 # PropertyContainerType.Properties PropertySpecified
-<summary> <para xml:lang="en">Gets a value indicating whether the Property collection is empty.</para> </summary>  
+ <para xml:lang="en">Gets a value indicating whether the Property collection is empty.</para>   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean PropertySpecified { get; }
+public bool PropertySpecified { get; }
 ```
 
 ### Property Value

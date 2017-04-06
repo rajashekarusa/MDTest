@@ -5,7 +5,7 @@ Returns if a site collection is in a particular status. If the url contains a su
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean CheckIfSiteExists(Tenant tenant, String siteFullUrl, String status)
+public static bool CheckIfSiteExists(Tenant tenant, String siteFullUrl, String status)
 ```
 ### Parameters
 *tenant*  
@@ -18,7 +18,7 @@ public static boolean CheckIfSiteExists(Tenant tenant, String siteFullUrl, Strin
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Status to check (Active, Creating, Recycled)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if in status, false if not in status
 
 ## See also

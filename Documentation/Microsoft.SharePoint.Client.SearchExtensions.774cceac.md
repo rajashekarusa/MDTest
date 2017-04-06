@@ -11,7 +11,7 @@ public static string GetSearchConfiguration(Web web)
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

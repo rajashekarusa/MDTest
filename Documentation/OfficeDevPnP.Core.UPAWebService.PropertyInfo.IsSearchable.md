@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsSearchable { get; set; }
+public bool IsSearchable { get; set; }
 ```
 
 ### Property Value

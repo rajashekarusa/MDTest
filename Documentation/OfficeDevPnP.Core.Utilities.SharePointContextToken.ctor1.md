@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public SharePointContextToken(String issuer, String audience, DateTime validFrom, DateTime validTo, IEnumerable<JsonWebTokenClaim> claims)
+public SharePointContextToken(string issuer, string audience, DateTime validFrom, DateTime validTo, IEnumerable<JsonWebTokenClaim> claims)
 ```
 ### Parameters
 #### issuer  

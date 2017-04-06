@@ -5,7 +5,7 @@ The Files Parts of the package
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<packagepart> FilesPackageParts { get; }
+public IList<PackagePart> FilesPackageParts { get; }
 ```
 
 ### Property Value

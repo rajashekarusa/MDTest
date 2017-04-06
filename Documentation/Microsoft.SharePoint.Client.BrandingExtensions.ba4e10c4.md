@@ -15,7 +15,7 @@ public static void SetMasterPagesByName(Web web, String masterPageName, String c
 *customMasterPageName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

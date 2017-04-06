@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetUserPinnedLinksCompletedEventHandler(Object object, IntPtr method)
+public GetUserPinnedLinksCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

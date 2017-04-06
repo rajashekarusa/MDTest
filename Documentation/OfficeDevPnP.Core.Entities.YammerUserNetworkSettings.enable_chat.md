@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean enable_chat { get; set; }
+public bool enable_chat { get; set; }
 ```
 
 ### Property Value

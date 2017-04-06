@@ -21,7 +21,7 @@ public static void SetTaxonomyFieldDefaultValue(Field field, TaxonomyItem taxono
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;push changes to lists  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

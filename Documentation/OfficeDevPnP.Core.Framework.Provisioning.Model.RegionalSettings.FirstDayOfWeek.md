@@ -5,7 +5,7 @@ The First Day of the Week used in calendars on the server
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dayofweek FirstDayOfWeek { get; set; }
+public DayOfWeek FirstDayOfWeek { get; set; }
 ```
 
 ### Property Value

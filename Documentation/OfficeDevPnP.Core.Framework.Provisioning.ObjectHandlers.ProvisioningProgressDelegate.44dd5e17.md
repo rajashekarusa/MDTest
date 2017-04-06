@@ -15,7 +15,7 @@ public void Invoke(String message, Int32 step, Int32 total)
 *total*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

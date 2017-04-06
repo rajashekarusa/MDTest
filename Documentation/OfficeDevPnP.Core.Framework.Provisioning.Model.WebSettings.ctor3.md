@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public WebSettings(Boolean noCrawl, String requestAccessEmail, String welcomePage, String title, String description, String siteLogo, String alternateCSS)
+public WebSettings(bool noCrawl, string requestAccessEmail, string welcomePage, string title, string description, string siteLogo, string alternateCSS)
 ```
 ### Parameters
 #### noCrawl  

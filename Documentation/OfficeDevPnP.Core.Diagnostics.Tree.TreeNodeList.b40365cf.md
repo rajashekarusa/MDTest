@@ -8,7 +8,7 @@
 public string ToString()
 ```
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

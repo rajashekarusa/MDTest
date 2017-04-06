@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<canvaszone> Zones { get; }
+public List<CanvasZone> Zones { get; }
 ```
 
 ### Property Value

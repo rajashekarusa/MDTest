@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsReused { get; set; }
+public bool IsReused { get; set; }
 ```
 
 ### Property Value

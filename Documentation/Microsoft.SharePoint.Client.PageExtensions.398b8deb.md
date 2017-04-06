@@ -15,8 +15,9 @@ public static ClientSidePage LoadClientSidePage(Web web, String pageName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name (e.g. demo.aspx) of the page to be loaded  
 ### Return Value
-Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  
+Type: ClientSidePage  
 A  instance
 
 ## See also
+- [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

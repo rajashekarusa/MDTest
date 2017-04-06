@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsMultiValue { get; set; }
+public bool IsMultiValue { get; set; }
 ```
 
 ### Property Value

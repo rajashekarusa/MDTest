@@ -24,7 +24,7 @@ public ProvisioningTemplate ExecuteExtensibilityExtractionCallOut(ClientContext 
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md)  
 &emsp;&emsp;The PnPMonitoredScope of the current step in the pipeline  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 
 ## Remarks 
 

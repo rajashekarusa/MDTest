@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public AddColleagueWithoutEmailNotificationCompletedEventHandler(Object object, IntPtr method)
+public AddColleagueWithoutEmailNotificationCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

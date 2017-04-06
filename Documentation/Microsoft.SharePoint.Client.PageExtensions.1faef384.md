@@ -18,8 +18,9 @@ public static WebPartDefinition AddWebPartToWebPartPage(Web web, WebPartEntity w
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to add the web part on  
 ### Return Value
-Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
+Type: WebPartDefinition  
 Returns the added  object
 
 ## See also
+- Microsoft.SharePoint.Client.WebParts.WebPartDefinition
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

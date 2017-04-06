@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AuditLogTrimmingRetentionSpecified { get; set; }
+public bool AuditLogTrimmingRetentionSpecified { get; set; }
 ```
 
 ### Property Value

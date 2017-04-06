@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public package Package { get; }
+public Package Package { get; }
 ```
 
 ### Property Value

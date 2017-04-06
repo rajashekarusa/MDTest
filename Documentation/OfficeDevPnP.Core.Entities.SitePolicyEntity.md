@@ -6,6 +6,7 @@ Properties of a site policy object
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class SitePolicyEntity
@@ -13,7 +14,7 @@ public class SitePolicyEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SitePolicyEntity()](OfficeDevPnP.Core.Entities.SitePolicyEntity.ctor1.md) | <summary> Properties of a site policy object </summary>
+| [SitePolicyEntity()](OfficeDevPnP.Core.Entities.SitePolicyEntity.ctor1.md) |  Properties of a site policy object 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

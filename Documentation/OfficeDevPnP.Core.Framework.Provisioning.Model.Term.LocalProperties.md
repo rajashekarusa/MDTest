@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> LocalProperties { get; }
+public Dictionary<String, String> LocalProperties { get; }
 ```
 
 ### Property Value

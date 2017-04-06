@@ -6,6 +6,7 @@ Global container of the PnP OpenXML file
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PnPInfo
@@ -13,7 +14,7 @@ public class PnPInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.ctor1.md) | <summary> Global container of the PnP OpenXML file </summary>
+| [PnPInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.ctor1.md) |  Global container of the PnP OpenXML file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

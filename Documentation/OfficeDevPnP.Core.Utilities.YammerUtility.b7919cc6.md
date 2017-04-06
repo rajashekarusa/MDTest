@@ -17,7 +17,7 @@ public static WebPartEntity GetYammerGroupDiscussionPart(String yammerNetworkNam
 *showFooter*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
+Type: WebPartEntity  
 
 
 ## See also

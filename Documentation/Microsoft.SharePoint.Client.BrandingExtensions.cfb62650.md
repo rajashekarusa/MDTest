@@ -33,7 +33,7 @@ public static void SetComposedLookByUrl(Web web, String lookName, String palette
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false to apply to subsites; true (default) to only apply to specified site  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean Contains(String id)
+public static bool Contains(String id)
 ```
 ### Parameters
 *id*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

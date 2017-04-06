@@ -11,7 +11,7 @@ public void remove_GetUserOrganizationsCompleted(GetUserOrganizationsCompletedEv
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

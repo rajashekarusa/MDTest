@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Page(String url, Boolean overwrite, WikiPageLayout layout, IEnumerable<WebPart> webParts, Boolean welcomePage, ObjectSecurity security)
+public Page(string url, bool overwrite, WikiPageLayout layout, IEnumerable<WebPart> webParts, bool welcomePage, ObjectSecurity security)
 ```
 ### Parameters
 #### url  

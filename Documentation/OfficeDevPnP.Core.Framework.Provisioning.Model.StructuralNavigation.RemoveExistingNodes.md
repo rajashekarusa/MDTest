@@ -5,7 +5,7 @@ Defines whether to remove existing nodes before creating those described through
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RemoveExistingNodes { get; set; }
+public bool RemoveExistingNodes { get; set; }
 ```
 
 ### Property Value

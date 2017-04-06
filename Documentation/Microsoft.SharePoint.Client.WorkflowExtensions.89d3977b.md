@@ -15,7 +15,7 @@ public static WorkflowDefinition GetWorkflowDefinition(Web web, String displayNa
 *(optional) publishedOnly*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
+Type: WorkflowDefinition  
 
 
 ## See also

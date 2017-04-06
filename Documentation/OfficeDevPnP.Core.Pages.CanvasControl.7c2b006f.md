@@ -8,7 +8,7 @@ Converts a control object to it's html representation
 public string ToHtml()
 ```
 ### Return Value
-Type: System.String  
+Type: string  
 Html representation of a control
 
 ## See also

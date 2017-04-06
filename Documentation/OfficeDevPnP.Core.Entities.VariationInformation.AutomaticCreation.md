@@ -5,7 +5,7 @@ Automatic creation Mapped to property "EnableAutoSpawnPropertyName"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AutomaticCreation { get; set; }
+public bool AutomaticCreation { get; set; }
 ```
 
 ### Property Value

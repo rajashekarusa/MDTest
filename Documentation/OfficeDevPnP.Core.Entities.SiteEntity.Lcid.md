@@ -5,7 +5,7 @@ The site locale. See http://technet.microsoft.com/en-us/library/ff463597.aspx fo
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint32 Lcid { get; set; }
+public uint Lcid { get; set; }
 ```
 
 ### Property Value

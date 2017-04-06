@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public TimerJob(String name, String version)
+public TimerJob(string name, string version)
 ```
 ### Parameters
 #### name  

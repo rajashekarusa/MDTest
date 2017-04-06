@@ -5,7 +5,7 @@ Gets or sets a value that specifies whether to Remove the CustomAction from the 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove { get; set; }
+public bool Remove { get; set; }
 ```
 
 ### Property Value

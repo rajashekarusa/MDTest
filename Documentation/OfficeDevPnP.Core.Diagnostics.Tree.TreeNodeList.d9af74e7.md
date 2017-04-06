@@ -11,7 +11,7 @@ public void remove_PropertyChanged(PropertyChangedEventHandler value)
 *value*  
 &emsp;&emsp;Type: System.ComponentModel.PropertyChangedEventHandler  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

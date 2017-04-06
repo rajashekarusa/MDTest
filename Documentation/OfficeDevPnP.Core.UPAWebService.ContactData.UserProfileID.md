@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid UserProfileID { get; set; }
+public Guid UserProfileID { get; set; }
 ```
 
 ### Property Value

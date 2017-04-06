@@ -5,7 +5,7 @@ Connector for files in file system
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 ## Syntax
 ```C#
 public class FileSystemConnector: FileConnectorBase
@@ -13,8 +13,8 @@ public class FileSystemConnector: FileConnectorBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FileSystemConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.ctor1.md) | <summary> Connector for files in file system </summary>
-| [FileSystemConnector(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.ctor2.md) | <summary> Connector for files in file system </summary>
+| [FileSystemConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.ctor1.md) |  Connector for files in file system 
+| [FileSystemConnector(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.ctor2.md) |  Connector for files in file system 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

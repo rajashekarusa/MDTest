@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public PnPMonitoredScope(String name)
+public PnPMonitoredScope(string name)
 ```
 ### Parameters
 #### name  

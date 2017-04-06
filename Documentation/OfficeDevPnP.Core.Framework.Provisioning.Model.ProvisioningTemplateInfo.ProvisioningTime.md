@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime ProvisioningTime { get; set; }
+public DateTime ProvisioningTime { get; set; }
 ```
 
 ### Property Value

@@ -6,6 +6,7 @@ Defines a Unified Group
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class UnifiedGroupEntity
@@ -13,7 +14,7 @@ public class UnifiedGroupEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UnifiedGroupEntity()](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.ctor1.md) | <summary> Defines a Unified Group </summary>
+| [UnifiedGroupEntity()](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.ctor1.md) |  Defines a Unified Group 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

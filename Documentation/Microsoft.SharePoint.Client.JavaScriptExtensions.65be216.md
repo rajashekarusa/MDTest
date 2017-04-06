@@ -5,7 +5,7 @@ Injects links to javascript files via a adding a custom action to the site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddJsLink(Web web, String key, String scriptLinks, Int32 sequence)
+public static bool AddJsLink(Web web, String key, String scriptLinks, Int32 sequence)
 ```
 ### Parameters
 *web*  
@@ -20,7 +20,7 @@ public static boolean AddJsLink(Web web, String key, String scriptLinks, Int32 s
 *(optional) sequence*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if action was ok
 
 ## See also

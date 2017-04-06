@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean dismissed_apps_tooltip { get; set; }
+public bool dismissed_apps_tooltip { get; set; }
 ```
 
 ### Property Value

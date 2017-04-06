@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid StartWorkflowInstance(ListItem item, String subscriptionName, IDictionary<String, Object> payload)
+public static Guid StartWorkflowInstance(ListItem item, String subscriptionName, IDictionary<String, Object> payload)
 ```
 ### Parameters
 *item*  
@@ -15,7 +15,7 @@ public static guid StartWorkflowInstance(ListItem item, String subscriptionName,
 *payload*  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String, System.Object>  
 ### Return Value
-Type: System.Guid  
+Type: Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

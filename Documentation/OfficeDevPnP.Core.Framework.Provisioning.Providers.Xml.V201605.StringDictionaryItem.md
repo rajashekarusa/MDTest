@@ -5,8 +5,9 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem.md)
-----  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry.md)
+[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem.md)
+
++++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PropertyBagEntry.md) 
 ## Syntax
 ```C#
 public class StringDictionaryItem

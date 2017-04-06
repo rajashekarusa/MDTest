@@ -24,7 +24,7 @@ public static SharingResult ShareSite(Web web, String email, Group group, Boolea
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added on share email sent to receiver.  
 ### Return Value
-Type: Microsoft.SharePoint.Client.SharingResult  
+Type: SharingResult  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

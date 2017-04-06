@@ -5,7 +5,7 @@ Gets or sets whether existing content types should be removed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RemoveExistingContentTypes { get; set; }
+public bool RemoveExistingContentTypes { get; set; }
 ```
 
 ### Property Value

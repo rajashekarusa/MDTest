@@ -6,6 +6,7 @@ Class for deprecated search extension methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class SearchExtensions

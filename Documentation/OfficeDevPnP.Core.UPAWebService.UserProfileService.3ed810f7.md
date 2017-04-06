@@ -13,7 +13,7 @@ public void UpdateLink(String accountName, QuickLinkData data)
 *data*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData](OfficeDevPnP.Core.UPAWebService.QuickLinkData.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

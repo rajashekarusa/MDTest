@@ -15,7 +15,7 @@ public void AddPinnedLinkAsync(String accountName, String name, String url)
 *url*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

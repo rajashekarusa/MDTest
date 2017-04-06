@@ -19,7 +19,7 @@ public void UpdateMembershipPrivacyAsync(String accountName, Guid sourceInternal
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

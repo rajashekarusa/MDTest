@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean has_fake_email { get; set; }
+public bool has_fake_email { get; set; }
 ```
 
 ### Property Value

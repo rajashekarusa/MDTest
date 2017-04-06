@@ -5,7 +5,7 @@ Does content type exist in list
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ContentTypeExistsById(List list, String contentTypeId)
+public static bool ContentTypeExistsById(List list, String contentTypeId)
 ```
 ### Parameters
 *list*  
@@ -15,7 +15,7 @@ public static boolean ContentTypeExistsById(List list, String contentTypeId)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if the content type exists, false otherwise
 
 ## See also

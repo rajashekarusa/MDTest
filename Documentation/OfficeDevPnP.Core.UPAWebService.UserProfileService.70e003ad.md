@@ -11,7 +11,7 @@ public void add_AddSuggestionsCompleted(AddSuggestionsCompletedEventHandler valu
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

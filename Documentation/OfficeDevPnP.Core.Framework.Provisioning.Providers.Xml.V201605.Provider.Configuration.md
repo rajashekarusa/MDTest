@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xmlnode Configuration { get; set; }
+public XmlNode Configuration { get; set; }
 ```
 
 ### Property Value

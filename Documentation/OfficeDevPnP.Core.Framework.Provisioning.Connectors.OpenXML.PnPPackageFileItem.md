@@ -6,6 +6,7 @@ Defines a single file in the PnP Open XML file package
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PnPPackageFileItem
@@ -13,7 +14,7 @@ public class PnPPackageFileItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.ctor1.md) | <summary> Defines a single file in the PnP Open XML file package </summary>
+| [PnPPackageFileItem()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageFileItem.ctor1.md) |  Defines a single file in the PnP Open XML file package 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -11,7 +11,7 @@ public void add_RemoveLeaderCompleted(RemoveLeaderCompletedEventHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveLeaderCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveLeaderCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

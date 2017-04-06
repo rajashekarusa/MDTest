@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public CreateMemberGroupCompletedEventHandler(Object object, IntPtr method)
+public CreateMemberGroupCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

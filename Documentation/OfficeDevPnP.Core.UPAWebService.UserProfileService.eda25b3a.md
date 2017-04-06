@@ -11,7 +11,7 @@ public PropertyData[] GetUserProfileByGuid(Guid guid)
 *guid*  
 &emsp;&emsp;Type: System.Guid  
 ### Return Value
-Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
+Type: PropertyData[]  
 
 ## Remarks 
 

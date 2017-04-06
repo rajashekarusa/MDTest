@@ -19,7 +19,7 @@ public QuickLinkData AddLink(String accountName, String name, String url, String
 *privacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData](OfficeDevPnP.Core.UPAWebService.QuickLinkData.md)  
+Type: QuickLinkData  
 
 ## Remarks 
 

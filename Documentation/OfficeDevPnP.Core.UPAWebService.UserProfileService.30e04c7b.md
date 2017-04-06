@@ -21,7 +21,7 @@ public void AddLinkAsync(String accountName, String name, String url, String gro
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

@@ -5,7 +5,7 @@ Is this a site collection term group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SiteCollectionTermGroup { get; set; }
+public bool SiteCollectionTermGroup { get; set; }
 ```
 
 ### Property Value

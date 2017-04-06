@@ -30,7 +30,7 @@ public static List CreateList(Web web, ListTemplateType listType, String listNam
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;(Optional) Enable content type management  
 ### Return Value
-Type: Microsoft.SharePoint.Client.List  
+Type: List  
 The newly created list
 
 ## See also

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public DocumentSetTemplate(String welcomePage, IEnumerable<String> allowedContentTypes, IEnumerable<DefaultDocument> defaultDocuments, IEnumerable<Guid> sharedFields, IEnumerable<Guid> welcomePageFields)
+public DocumentSetTemplate(string welcomePage, IEnumerable<String> allowedContentTypes, IEnumerable<DefaultDocument> defaultDocuments, IEnumerable<Guid> sharedFields, IEnumerable<Guid> welcomePageFields)
 ```
 ### Parameters
 #### welcomePage  

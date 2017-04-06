@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ContainsInvalidUrlChars(String content)
+public static bool ContainsInvalidUrlChars(String content)
 ```
 ### Parameters
 *content*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

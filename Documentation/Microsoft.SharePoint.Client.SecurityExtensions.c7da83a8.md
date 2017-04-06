@@ -15,7 +15,7 @@ public static User AddReaderAccess(Web web, BuiltInIdentity user)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.BuiltInIdentity](OfficeDevPnP.Core.Enums.BuiltInIdentity.md)  
 &emsp;&emsp;Built in user to add to the visitors group  
 ### Return Value
-Type: Microsoft.SharePoint.Client.User  
+Type: User  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,14 +5,14 @@ Check if a site is closed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsClosedBySitePolicy(Web web)
+public static bool IsClosedBySitePolicy(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if site is closed, false otherwise
 
 ## See also

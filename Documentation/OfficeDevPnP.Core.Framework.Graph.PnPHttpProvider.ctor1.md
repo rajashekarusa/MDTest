@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public PnPHttpProvider(Int32 retryCount, Int32 delay)
+public PnPHttpProvider(int retryCount, int delay)
 ```
 ### Parameters
 #### (optional) retryCount  

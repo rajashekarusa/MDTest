@@ -5,7 +5,7 @@ Defines the ID of the Workflow Definition for the current Subscription
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid DefinitionId { get; set; }
+public Guid DefinitionId { get; set; }
 ```
 
 ### Property Value

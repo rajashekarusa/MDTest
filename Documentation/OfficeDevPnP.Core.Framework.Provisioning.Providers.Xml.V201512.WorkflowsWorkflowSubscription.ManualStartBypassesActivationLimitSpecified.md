@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ManualStartBypassesActivationLimitSpecified { get; set; }
+public bool ManualStartBypassesActivationLimitSpecified { get; set; }
 ```
 
 ### Property Value

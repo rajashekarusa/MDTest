@@ -5,7 +5,7 @@ Defines an available Web Template for the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class AvailableWebTemplate: BaseModel
@@ -13,7 +13,7 @@ public class AvailableWebTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) | <summary> Defines an available Web Template for the current Publishing site </summary>
+| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) |  Defines an available Web Template for the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

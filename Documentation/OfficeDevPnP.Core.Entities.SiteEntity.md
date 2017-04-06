@@ -6,6 +6,7 @@ SiteEntity class describes the information for a SharePoint site (collection)
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class SiteEntity
@@ -13,7 +14,7 @@ public class SiteEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteEntity()](OfficeDevPnP.Core.Entities.SiteEntity.ctor1.md) | <summary> SiteEntity class describes the information for a SharePoint site (collection) </summary>
+| [SiteEntity()](OfficeDevPnP.Core.Entities.SiteEntity.ctor1.md) |  SiteEntity class describes the information for a SharePoint site (collection) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

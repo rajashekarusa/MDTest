@@ -17,7 +17,7 @@ public void RemoveMembershipAsync(String accountName, Guid sourceInternal, Strin
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

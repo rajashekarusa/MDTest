@@ -5,7 +5,7 @@ Defines a list of default values for the Fields of the List Instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> FieldDefaults { get; }
+public Dictionary<String, String> FieldDefaults { get; }
 ```
 
 ### Property Value

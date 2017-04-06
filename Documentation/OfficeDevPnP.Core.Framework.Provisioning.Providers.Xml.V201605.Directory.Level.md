@@ -9,7 +9,7 @@ public FileLevel Level { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FileLevel.md)  
 
 ## Remarks 
 

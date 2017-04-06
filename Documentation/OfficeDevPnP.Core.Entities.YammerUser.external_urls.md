@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<object> external_urls { get; set; }
+public IList<Object> external_urls { get; set; }
 ```
 
 ### Property Value

@@ -21,7 +21,7 @@ public static void RemovePermissionLevelFromGroup(SecurableObject securableObjec
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true to remove all permission level.  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

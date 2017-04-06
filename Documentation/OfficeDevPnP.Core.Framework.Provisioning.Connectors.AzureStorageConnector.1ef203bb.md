@@ -5,10 +5,10 @@ Get the files available in the default container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<string> GetFiles()
+public List<String> GetFiles()
 ```
 ### Return Value
-Type: System.Collections.Generic.List<System.String>  
+Type: List<String>  
 List of files
 
 ## See also

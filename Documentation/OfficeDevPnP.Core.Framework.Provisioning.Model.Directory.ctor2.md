@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Directory(String src, String folder, Boolean overwrite, FileLevel level, Boolean recursive, String includeExtensions, String excludeExtensions, String metadataMappingFile, ObjectSecurity security)
+public Directory(string src, string folder, bool overwrite, FileLevel level, bool recursive, string includeExtensions, string excludeExtensions, string metadataMappingFile, ObjectSecurity security)
 ```
 ### Parameters
 #### src  

@@ -9,7 +9,7 @@ public DayOfWeek FirstDayOfWeek { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DayOfWeek  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DayOfWeek](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DayOfWeek.md)  
 
 ## Remarks 
 

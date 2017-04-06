@@ -5,7 +5,7 @@ Determines whether the current Web has the managed navigation enabled
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsManagedNavigationEnabled(Web web, ManagedNavigationKind navigationKind)
+public static bool IsManagedNavigationEnabled(Web web, ManagedNavigationKind navigationKind)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean IsManagedNavigationEnabled(Web web, ManagedNavigationKind 
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ManagedNavigationKind](Microsoft.SharePoint.Client.ManagedNavigationKind.md)  
 &emsp;&emsp;The kind of navigation (Current or Global).  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 A boolean result of the test.
 
 ## See also

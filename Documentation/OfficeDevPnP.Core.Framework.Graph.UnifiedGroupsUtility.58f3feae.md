@@ -5,7 +5,7 @@ Returns all the Office 365 Groups in the current Tenant based on a startIndex. I
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static list<unifiedgroupentity> ListUnifiedGroups(String accessToken, String displayName, String mailNickname, Int32 startIndex, Int32 endIndex, Boolean includeSite, Int32 retryCount, Int32 delay)
+public static List<UnifiedGroupEntity> ListUnifiedGroups(String accessToken, String displayName, String mailNickname, Int32 startIndex, Int32 endIndex, Boolean includeSite, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
 *accessToken*  
@@ -33,7 +33,7 @@ public static list<unifiedgroupentity> ListUnifiedGroups(String accessToken, Str
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 ### Return Value
-Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UnifiedGroupEntity>  
+Type: List<UnifiedGroupEntity>  
 An IList of SiteEntity objects
 
 ## See also

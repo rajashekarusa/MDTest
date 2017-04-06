@@ -5,7 +5,7 @@ Checks if a composed look exists.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ComposedLookExists(Web web, String composedLookName)
+public static bool ComposedLookExists(Web web, String composedLookName)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean ComposedLookExists(Web web, String composedLookName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 true if it exists; otherwise false
 
 ## See also

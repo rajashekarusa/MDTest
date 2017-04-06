@@ -5,7 +5,7 @@ Method to Invoke Custom Provisioning Token Providers which implement the IProvis
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ienumerable<tokendefinition> ExecuteTokenProviderCallOut(ClientContext ctx, ExtensibilityHandler provider, ProvisioningTemplate template)
+public IEnumerable<TokenDefinition> ExecuteTokenProviderCallOut(ClientContext ctx, ExtensibilityHandler provider, ProvisioningTemplate template)
 ```
 ### Parameters
 *ctx*  
@@ -18,7 +18,7 @@ public ienumerable<tokendefinition> ExecuteTokenProviderCallOut(ClientContext ct
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;ProvisioningTemplate that is passed to the custom provider  
 ### Return Value
-Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition>  
+Type: IEnumerable<TokenDefinition>  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

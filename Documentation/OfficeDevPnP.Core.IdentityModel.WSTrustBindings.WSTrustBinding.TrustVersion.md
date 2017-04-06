@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public trustversion TrustVersion { get; set; }
+public TrustVersion TrustVersion { get; set; }
 ```
 
 ### Property Value

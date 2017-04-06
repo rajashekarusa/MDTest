@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Time24Specified { get; set; }
+public bool Time24Specified { get; set; }
 ```
 
 ### Property Value

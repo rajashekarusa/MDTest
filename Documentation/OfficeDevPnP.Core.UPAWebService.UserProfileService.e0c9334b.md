@@ -17,7 +17,7 @@ public void UpdateMembershipPrivacyAsync(String accountName, Guid sourceInternal
 *newPrivacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

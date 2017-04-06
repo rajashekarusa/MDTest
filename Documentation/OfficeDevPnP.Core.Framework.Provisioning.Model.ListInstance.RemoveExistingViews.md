@@ -5,7 +5,7 @@ Gets or sets whether existing views should be removed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RemoveExistingViews { get; set; }
+public bool RemoveExistingViews { get; set; }
 ```
 
 ### Property Value

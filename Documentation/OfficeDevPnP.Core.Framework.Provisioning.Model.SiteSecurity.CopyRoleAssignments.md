@@ -5,7 +5,7 @@ Defines whether to copy role assignments or not while breaking role inheritance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CopyRoleAssignments { get; set; }
+public bool CopyRoleAssignments { get; set; }
 ```
 
 ### Property Value

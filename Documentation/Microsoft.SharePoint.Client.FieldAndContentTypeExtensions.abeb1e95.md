@@ -15,7 +15,7 @@ public static void CreateFieldsFromXMLString(Web web, String xmlStructure)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;XML structure in string format  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

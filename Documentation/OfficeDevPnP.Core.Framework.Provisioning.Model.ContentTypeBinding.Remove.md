@@ -5,7 +5,7 @@ Declares if the Content Type should be Removed from the list or library
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove { get; set; }
+public bool Remove { get; set; }
 ```
 
 ### Property Value

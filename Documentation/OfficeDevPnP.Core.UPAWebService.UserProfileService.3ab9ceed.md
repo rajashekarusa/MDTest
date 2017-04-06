@@ -17,7 +17,7 @@ public MembershipData AddMembership(String accountName, MembershipData membershi
 *privacy*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
+Type: MembershipData  
 
 ## Remarks 
 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UseSamePermissionsAsParentSiteSpecified { get; set; }
+public bool UseSamePermissionsAsParentSiteSpecified { get; set; }
 ```
 
 ### Property Value

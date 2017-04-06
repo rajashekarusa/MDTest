@@ -5,7 +5,7 @@ Defines whether to recursively browse through all the child folders of the Direc
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Recursive { get; set; }
+public bool Recursive { get; set; }
 ```
 
 ### Property Value

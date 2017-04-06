@@ -25,7 +25,7 @@ public static TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, G
 *(optional) termSetOwner*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Taxonomy.TermSet  
+Type: TermSet  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

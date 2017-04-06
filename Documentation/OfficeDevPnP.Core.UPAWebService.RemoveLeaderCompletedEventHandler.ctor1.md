@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public RemoveLeaderCompletedEventHandler(Object object, IntPtr method)
+public RemoveLeaderCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

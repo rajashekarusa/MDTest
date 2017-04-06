@@ -6,6 +6,7 @@ Manifest of a PnP OpenXML file
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class PnPManifest
@@ -13,7 +14,7 @@ public class PnPManifest
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPManifest()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.ctor1.md) | <summary> Manifest of a PnP OpenXML file </summary>
+| [PnPManifest()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPManifest.ctor1.md) |  Manifest of a PnP OpenXML file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

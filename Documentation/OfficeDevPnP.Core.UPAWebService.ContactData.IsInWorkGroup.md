@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsInWorkGroup { get; set; }
+public bool IsInWorkGroup { get; set; }
 ```
 
 ### Property Value

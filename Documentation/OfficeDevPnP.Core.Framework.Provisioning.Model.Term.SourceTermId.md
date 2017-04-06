@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid SourceTermId { get; set; }
+public Guid SourceTermId { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ The Navigation configurations of the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class Navigation: BaseModel
@@ -13,8 +13,8 @@ public class Navigation: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) | <summary> The Navigation configurations of the Provisioning Template </summary>
-| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) | <summary> The Navigation configurations of the Provisioning Template </summary>
+| [Navigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor1.md) |  The Navigation configurations of the Provisioning Template 
+| [Navigation(GlobalNavigation, CurrentNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.ctor2.md) |  The Navigation configurations of the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

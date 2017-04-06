@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OverwriteSpecified { get; set; }
+public bool OverwriteSpecified { get; set; }
 ```
 
 ### Property Value

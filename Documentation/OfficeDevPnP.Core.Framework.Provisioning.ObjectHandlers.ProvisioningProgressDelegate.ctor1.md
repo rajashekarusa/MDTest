@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ProvisioningProgressDelegate(Object object, IntPtr method)
+public ProvisioningProgressDelegate(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

@@ -5,7 +5,7 @@ Defines the Property Definitions of the Workflows to provision
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> PropertyDefinitions { get; }
+public Dictionary<String, String> PropertyDefinitions { get; }
 ```
 
 ### Property Value

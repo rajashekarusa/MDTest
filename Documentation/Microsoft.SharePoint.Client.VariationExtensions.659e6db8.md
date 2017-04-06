@@ -15,7 +15,7 @@ public static void WaitForVariationLabelCreation(ClientContext context, Variatio
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md)  
 &emsp;&emsp;Variation label  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

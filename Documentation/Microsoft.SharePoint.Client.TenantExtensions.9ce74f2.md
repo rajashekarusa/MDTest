@@ -5,7 +5,7 @@ Returns all site collections in the current Tenant based on a startIndex. Includ
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ilist<siteentity> GetSiteCollections(Tenant tenant, Int32 startIndex, Int32 endIndex, Boolean includeDetail, Boolean includeOD4BSites)
+public static IList<SiteEntity> GetSiteCollections(Tenant tenant, Int32 startIndex, Int32 endIndex, Boolean includeDetail, Boolean includeOD4BSites)
 ```
 ### Parameters
 *tenant*  
@@ -24,7 +24,7 @@ public static ilist<siteentity> GetSiteCollections(Tenant tenant, Int32 startInd
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Also return the OD4B sites  
 ### Return Value
-Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.SiteEntity>  
+Type: IList<SiteEntity>  
 An IList of SiteEntity objects
 
 ## See also

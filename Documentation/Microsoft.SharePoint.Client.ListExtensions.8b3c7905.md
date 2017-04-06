@@ -13,7 +13,7 @@ public static void CreateViewsFromXML(List list, XmlDocument xmlDoc)
 *xmlDoc*  
 &emsp;&emsp;Type: System.Xml.XmlDocument  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

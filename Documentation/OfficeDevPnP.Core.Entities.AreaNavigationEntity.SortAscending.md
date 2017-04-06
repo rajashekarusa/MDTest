@@ -5,7 +5,7 @@ Defines if sorted ascending
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SortAscending { get; set; }
+public bool SortAscending { get; set; }
 ```
 
 ### Property Value

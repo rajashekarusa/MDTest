@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public iasyncresult BeginInvoke(Object sender, GetUserProfileSchemaCompletedEventArgs e, AsyncCallback callback, Object object)
+public IAsyncResult BeginInvoke(Object sender, GetUserProfileSchemaCompletedEventArgs e, AsyncCallback callback, Object object)
 ```
 ### Parameters
 *sender*  
@@ -17,7 +17,7 @@ public iasyncresult BeginInvoke(Object sender, GetUserProfileSchemaCompletedEven
 *object*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.IAsyncResult  
+Type: IAsyncResult  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

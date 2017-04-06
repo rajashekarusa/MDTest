@@ -5,7 +5,7 @@ Gets the cryptographic keys associated with the security token.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public readonlycollection<securitykey> SecurityKeys { get; }
+public ReadOnlyCollection<SecurityKey> SecurityKeys { get; }
 ```
 
 ### Property Value

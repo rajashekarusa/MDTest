@@ -13,7 +13,7 @@ public static WorkflowSubscription GetWorkflowSubscription(Web web, Guid id)
 *id*  
 &emsp;&emsp;Type: System.Guid  
 ### Return Value
-Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
+Type: WorkflowSubscription  
 
 
 ## See also

@@ -15,7 +15,7 @@ public static void DeleteAllNavigationNodes(Web web, NavigationType navigationTy
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Enums.NavigationType](OfficeDevPnP.Core.Enums.NavigationType.md)  
 &emsp;&emsp;The type of navigation to support  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

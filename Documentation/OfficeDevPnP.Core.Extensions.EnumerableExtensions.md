@@ -6,6 +6,7 @@ Extension methods to make working with IEnumerable<T> values easier.
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class EnumerableExtensions

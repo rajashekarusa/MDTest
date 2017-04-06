@@ -11,7 +11,7 @@ public void add_GetUserLinksCompleted(GetUserLinksCompletedEventHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

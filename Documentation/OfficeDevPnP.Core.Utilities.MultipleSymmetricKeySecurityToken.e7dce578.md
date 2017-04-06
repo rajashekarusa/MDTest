@@ -5,14 +5,14 @@ Returns a value that indicates whether the key identifier for this instance can 
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentifierClause)
+public bool MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentifierClause)
 ```
 ### Parameters
 *keyIdentifierClause*  
 &emsp;&emsp;Type: System.IdentityModel.Tokens.SecurityKeyIdentifierClause  
 &emsp;&emsp;A SecurityKeyIdentifierClause to compare to this instance  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 true if keyIdentifierClause is a SecurityKeyIdentifierClause and it has the same unique identifier as the Id property; otherwise, false.
 
 ## See also

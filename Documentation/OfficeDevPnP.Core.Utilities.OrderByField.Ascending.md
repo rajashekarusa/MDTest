@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Ascending { get; set; }
+public bool Ascending { get; set; }
 ```
 
 ### Property Value

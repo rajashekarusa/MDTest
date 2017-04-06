@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public TimerJobRunHandler(Object object, IntPtr method)
+public TimerJobRunHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

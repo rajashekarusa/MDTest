@@ -5,13 +5,13 @@ Open a site, if it has a site policy applied and is currently closed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean SetOpenBySitePolicy(Web web)
+public static bool SetOpenBySitePolicy(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if site was opened, false otherwise
 
 ## See also

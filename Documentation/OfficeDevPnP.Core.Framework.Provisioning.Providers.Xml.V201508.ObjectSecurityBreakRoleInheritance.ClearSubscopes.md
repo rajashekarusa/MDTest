@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ClearSubscopes { get; set; }
+public bool ClearSubscopes { get; set; }
 ```
 
 ### Property Value

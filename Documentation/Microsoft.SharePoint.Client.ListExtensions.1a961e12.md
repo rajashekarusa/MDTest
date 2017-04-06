@@ -27,7 +27,7 @@ public static View CreateView(List list, String viewName, ViewType viewType, Str
 *(optional) paged*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: Microsoft.SharePoint.Client.View  
+Type: View  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

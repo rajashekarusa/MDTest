@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean MinorVersionSpecified { get; set; }
+public bool MinorVersionSpecified { get; set; }
 ```
 
 ### Property Value

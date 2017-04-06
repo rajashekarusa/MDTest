@@ -11,7 +11,7 @@ public void add_CreateUserProfileByAccountNameCompleted(CreateUserProfileByAccou
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

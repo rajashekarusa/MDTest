@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<object> previous_companies { get; set; }
+public IList<Object> previous_companies { get; set; }
 ```
 
 ### Property Value

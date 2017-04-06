@@ -11,7 +11,7 @@ public void OnActionExecuting(HttpActionContext actionContext)
 *actionContext*  
 &emsp;&emsp;Type: System.Web.Http.Controllers.HttpActionContext  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

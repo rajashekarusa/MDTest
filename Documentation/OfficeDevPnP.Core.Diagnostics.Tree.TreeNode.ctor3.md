@@ -11,6 +11,6 @@ public TreeNode(T Value, TreeNode Parent)
 #### Value  
 &emsp;&emsp;Type: T  
 #### Parent  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNode  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md)  
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

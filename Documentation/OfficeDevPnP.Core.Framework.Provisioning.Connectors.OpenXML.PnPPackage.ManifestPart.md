@@ -5,7 +5,7 @@ The Manifest Part of the package file
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public packagepart ManifestPart { get; }
+public PackagePart ManifestPart { get; }
 ```
 
 ### Property Value

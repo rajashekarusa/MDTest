@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<object> phone_numbers { get; set; }
+public IList<Object> phone_numbers { get; set; }
 ```
 
 ### Property Value

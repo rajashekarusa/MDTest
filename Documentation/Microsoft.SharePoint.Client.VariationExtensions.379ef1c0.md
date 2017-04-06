@@ -13,7 +13,7 @@ public static void ProvisionTargetVariationLabels(ClientContext context, List<Va
 *variationLabels*  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.VariationLabelEntity>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RestrictToTypeSpecified { get; set; }
+public bool RestrictToTypeSpecified { get; set; }
 ```
 
 ### Property Value

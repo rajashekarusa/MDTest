@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [System.Configuration.ConfigurationElement](System.Configuration.ConfigurationElement.md)
+  [System.Configuration.ConfigurationElement](System.Configuration.ConfigurationElement.md) 
 ## Syntax
 ```C#
 public class LogConfigurationTracingLoggerElement: ConfigurationElement

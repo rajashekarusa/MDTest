@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetPropertyChoiceListCompletedEventHandler(Object object, IntPtr method)
+public GetPropertyChoiceListCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

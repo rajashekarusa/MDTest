@@ -5,7 +5,7 @@ The Files of the package
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public idictionary<string, pnppackagefileitem> Files { get; }
+public IDictionary<String, PnPPackageFileItem> Files { get; }
 ```
 
 ### Property Value

@@ -11,7 +11,7 @@ public static void CancelWorkFlow(WorkflowInstance instance)
 *instance*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

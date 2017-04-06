@@ -5,7 +5,7 @@ Updates the logo, members or visibility state of an Office 365 Group
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean UpdateUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay, String displayName, String description, String[] owners, String[] members, Stream groupLogo, Boolean isPrivate)
+public static bool UpdateUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay, String displayName, String description, String[] owners, String[] members, Stream groupLogo, Boolean isPrivate)
 ```
 ### Parameters
 *groupId*  
@@ -39,7 +39,7 @@ public static boolean UpdateUnifiedGroup(String groupId, String accessToken, Int
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether the group will be private or public, optional with default false (i.e. public)  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 Declares whether the Office 365 Group has been updated or not
 
 ## See also

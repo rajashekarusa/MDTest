@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public File(String src, String folder, Boolean overwrite, IEnumerable<WebPart> webParts, IDictionary<String, String> properties, ObjectSecurity security, FileLevel level)
+public File(string src, string folder, bool overwrite, IEnumerable<WebPart> webParts, IDictionary<String, String> properties, ObjectSecurity security, FileLevel level)
 ```
 ### Parameters
 #### src  

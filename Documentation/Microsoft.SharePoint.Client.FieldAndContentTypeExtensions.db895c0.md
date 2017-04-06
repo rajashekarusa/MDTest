@@ -18,7 +18,7 @@ public static Field CreateField(List list, String fieldAsXml, Boolean executeQue
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally skip the executeQuery action  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 The newly created field or existing field.
 
 ## See also

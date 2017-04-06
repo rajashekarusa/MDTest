@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetLeadersCompletedEventHandler(Object object, IntPtr method)
+public GetLeadersCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

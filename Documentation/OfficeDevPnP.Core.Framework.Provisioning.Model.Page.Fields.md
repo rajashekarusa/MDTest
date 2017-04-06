@@ -5,7 +5,7 @@ The Fields to setup for the Page
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> Fields { get; }
+public Dictionary<String, String> Fields { get; }
 ```
 
 ### Property Value

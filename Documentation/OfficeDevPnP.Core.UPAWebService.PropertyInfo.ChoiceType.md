@@ -9,7 +9,7 @@ public ChoiceTypes ChoiceType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.UPAWebService.ChoiceTypes  
+Type: [OfficeDevPnP.Core.UPAWebService.ChoiceTypes](OfficeDevPnP.Core.UPAWebService.ChoiceTypes.md)  
 
 ## Remarks 
 

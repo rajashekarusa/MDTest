@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean follow_general_messages { get; set; }
+public bool follow_general_messages { get; set; }
 ```
 
 ### Property Value

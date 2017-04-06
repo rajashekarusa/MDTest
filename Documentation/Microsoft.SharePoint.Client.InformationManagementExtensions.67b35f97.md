@@ -15,8 +15,9 @@ public static SitePolicyEntity GetSitePolicyByName(Web web, String sitePolicy)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site policy to fetch  
 ### Return Value
-Type: [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  
+Type: SitePolicyEntity  
 A  object holding the fetched policy
 
 ## See also
+- [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

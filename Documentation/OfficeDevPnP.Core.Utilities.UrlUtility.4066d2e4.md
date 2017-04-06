@@ -1,5 +1,5 @@
 # UrlUtility.AppendQueryString Method  
-<summary> Adds query string parameters to the end of a querystring and guarantees the proper concatenation with <b>?</b> and <b>&amp;.</b></summary>  
+ Adds query string parameters to the end of a querystring and guarantees the proper concatenation with <b>?</b> and <b>&amp;.</b>  
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,7 +13,7 @@ public static string AppendQueryString(String path, String queryString)
 *queryString*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

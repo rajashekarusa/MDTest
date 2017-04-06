@@ -15,7 +15,7 @@ public static void SetWebSearchCenterUrl(Web web, String searchCenterUrl)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Search results page url  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

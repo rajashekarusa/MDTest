@@ -17,7 +17,7 @@ public static Field CreateField(Web web, String fieldAsXml, Boolean executeQuery
 *(optional) executeQuery*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 The newly created field or existing field.
 
 ## See also

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public JsonSharePointTemplateProvider(ClientRuntimeContext cc, String connectionString, String container)
+public JsonSharePointTemplateProvider(ClientRuntimeContext cc, string connectionString, string container)
 ```
 ### Parameters
 #### cc  

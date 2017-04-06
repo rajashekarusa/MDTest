@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsAvailableForTagging { get; set; }
+public bool IsAvailableForTagging { get; set; }
 ```
 
 ### Property Value

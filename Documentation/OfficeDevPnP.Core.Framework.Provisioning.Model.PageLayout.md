@@ -5,7 +5,7 @@ Defines an available Page Layout for the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class PageLayout: BaseModel
@@ -13,7 +13,7 @@ public class PageLayout: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) | <summary> Defines an available Page Layout for the current Publishing site </summary>
+| [PageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.ctor1.md) |  Defines an available Page Layout for the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

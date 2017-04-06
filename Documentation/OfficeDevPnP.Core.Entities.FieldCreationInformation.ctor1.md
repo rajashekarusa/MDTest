@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public FieldCreationInformation(String fieldType)
+public FieldCreationInformation(string fieldType)
 ```
 ### Parameters
 #### fieldType  

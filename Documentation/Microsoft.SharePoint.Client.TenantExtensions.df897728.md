@@ -5,7 +5,7 @@ Checks if a site collection is Active
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsSiteActive(Tenant tenant, String siteFullUrl)
+public static bool IsSiteActive(Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
 *tenant*  
@@ -15,7 +15,7 @@ public static boolean IsSiteActive(Tenant tenant, String siteFullUrl)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL to the site collection  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if active, false if not
 
 ## See also

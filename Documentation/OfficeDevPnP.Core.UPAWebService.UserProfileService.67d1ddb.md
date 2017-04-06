@@ -13,7 +13,7 @@ public PropertyData GetUserPropertyByAccountName(String accountName, String prop
 *propertyName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: [OfficeDevPnP.Core.UPAWebService.PropertyData](OfficeDevPnP.Core.UPAWebService.PropertyData.md)  
+Type: PropertyData  
 
 ## Remarks 
 

@@ -13,7 +13,7 @@ public void Invoke(Object sender, TimerJobRunEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

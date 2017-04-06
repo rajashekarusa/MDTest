@@ -33,7 +33,7 @@ public static Web CreateWeb(Web parentWeb, String title, String leafUrl, String 
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specifies whether the site inherits navigation.  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Web  
+Type: Web  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

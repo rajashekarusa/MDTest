@@ -1,11 +1,11 @@
 # PropertyType.Properties NullSpecified
-<summary> <para xml:lang="en">Gets or sets a value indicating whether the Null property is specified.</para> </summary>  
+ <para xml:lang="en">Gets or sets a value indicating whether the Null property is specified.</para>   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean NullSpecified { get; set; }
+public bool NullSpecified { get; set; }
 ```
 
 ### Property Value

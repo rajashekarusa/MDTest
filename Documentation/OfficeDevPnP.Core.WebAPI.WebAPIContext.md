@@ -6,6 +6,7 @@ This class holds the information that's passed from the SharePoint app to the "R
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class WebAPIContext
@@ -13,7 +14,7 @@ public class WebAPIContext
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContext()](OfficeDevPnP.Core.WebAPI.WebAPIContext.ctor1.md) | <summary> This class holds the information that's passed from the SharePoint app to the "Register" WebAPI service call </summary>
+| [WebAPIContext()](OfficeDevPnP.Core.WebAPI.WebAPIContext.ctor1.md) |  This class holds the information that's passed from the SharePoint app to the "Register" WebAPI service call 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

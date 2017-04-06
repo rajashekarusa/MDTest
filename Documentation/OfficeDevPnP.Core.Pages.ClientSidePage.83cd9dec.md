@@ -13,7 +13,7 @@ public static ClientSidePage Load(ClientContext cc, String pageName)
 *pageName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  
+Type: ClientSidePage  
 
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

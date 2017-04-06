@@ -11,7 +11,7 @@ public OrganizationProfileData[] GetUserOrganizations(String accountName)
 *accountName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]  
+Type: OrganizationProfileData[]  
 
 ## Remarks 
 

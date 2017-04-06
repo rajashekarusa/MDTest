@@ -15,7 +15,7 @@ public static void RemovePropertyBagValue(Web web, String key)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to remove  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -11,7 +11,7 @@ public void remove_RemoveAllMembershipsCompleted(RemoveAllMembershipsCompletedEv
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveAllMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllMembershipsCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

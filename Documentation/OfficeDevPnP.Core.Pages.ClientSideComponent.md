@@ -6,6 +6,7 @@ Client side webpart object (retrieved via the _api/web/GetClientSideWebParts RES
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class ClientSideComponent
@@ -13,7 +14,7 @@ public class ClientSideComponent
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideComponent()](OfficeDevPnP.Core.Pages.ClientSideComponent.ctor1.md) | <summary> Client side webpart object (retrieved via the _api/web/GetClientSideWebParts REST call) </summary>
+| [ClientSideComponent()](OfficeDevPnP.Core.Pages.ClientSideComponent.ctor1.md) |  Client side webpart object (retrieved via the _api/web/GetClientSideWebParts REST call) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

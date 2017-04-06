@@ -33,7 +33,7 @@ public static void CreateComposedLookByName(Web web, String lookName, String pal
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Replace composed look if it already exists (default true)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

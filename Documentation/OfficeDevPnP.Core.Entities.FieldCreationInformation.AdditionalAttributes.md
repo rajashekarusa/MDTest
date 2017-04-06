@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ienumerable<keyvaluepair<string, string>> AdditionalAttributes { get; set; }
+public IEnumerable<KeyValuePair<String, String>> AdditionalAttributes { get; set; }
 ```
 
 ### Property Value

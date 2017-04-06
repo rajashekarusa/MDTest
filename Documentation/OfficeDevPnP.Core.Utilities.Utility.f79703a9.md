@@ -11,7 +11,7 @@ public static int GetHealthScore(String url)
 *url*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Int32  
+Type: int  
 
 
 ## See also

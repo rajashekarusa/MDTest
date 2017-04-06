@@ -13,7 +13,7 @@ public static EventReceiverDefinition GetEventReceiverByName(Web web, String nam
 *name*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.EventReceiverDefinition  
+Type: EventReceiverDefinition  
 
 
 ## See also

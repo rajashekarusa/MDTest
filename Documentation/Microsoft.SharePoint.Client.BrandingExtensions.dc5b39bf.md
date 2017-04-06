@@ -15,7 +15,7 @@ public static void SetAvailablePageLayouts(Web web, Web rootWeb, IEnumerable<Str
 *pageLayouts*  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

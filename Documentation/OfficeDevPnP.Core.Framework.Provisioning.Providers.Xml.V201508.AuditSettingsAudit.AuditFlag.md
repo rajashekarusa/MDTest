@@ -9,7 +9,7 @@ public AuditSettingsAuditAuditFlag AuditFlag { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAuditAuditFlag  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAuditAuditFlag](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AuditSettingsAuditAuditFlag.md)  
 
 ## Remarks 
 

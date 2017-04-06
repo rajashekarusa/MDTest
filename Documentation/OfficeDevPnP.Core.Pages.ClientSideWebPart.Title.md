@@ -12,6 +12,6 @@ public string Title { get; set; }
 Type: System.String  
 
 ## See also
-- [T:Newtonsoft.Json.Linq.JObject](T:Newtonsoft.Json.Linq.JObject.md)
+- Newtonsoft.Json.Linq.JObject
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 

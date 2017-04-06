@@ -9,7 +9,7 @@ public CalendarType AlternateCalendarType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CalendarType.md)  
 
 ## Remarks 
 

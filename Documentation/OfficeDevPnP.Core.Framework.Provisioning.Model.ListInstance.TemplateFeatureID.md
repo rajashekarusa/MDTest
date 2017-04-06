@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid TemplateFeatureID { get; set; }
+public Guid TemplateFeatureID { get; set; }
 ```
 
 ### Property Value

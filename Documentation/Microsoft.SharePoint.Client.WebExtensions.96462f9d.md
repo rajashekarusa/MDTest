@@ -5,14 +5,14 @@ Returns all site collections that are indexed. In MT the search center, mysite h
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static list<siteentity> SiteSearch(Web web)
+public static List<SiteEntity> SiteSearch(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 ### Return Value
-Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
+Type: List<SiteEntity>  
 All site collections
 
 ## See also

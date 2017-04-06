@@ -15,7 +15,7 @@ public static string GetWikiPageContent(Web web, String serverRelativePageUrl)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative url of the page, e.g. /sites/demo/SitePages/Test.aspx  
 ### Return Value
-Type: System.String  
+Type: string  
 
 
 ## See also

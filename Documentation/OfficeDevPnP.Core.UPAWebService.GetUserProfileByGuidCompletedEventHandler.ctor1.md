@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetUserProfileByGuidCompletedEventHandler(Object object, IntPtr method)
+public GetUserProfileByGuidCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

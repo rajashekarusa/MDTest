@@ -13,7 +13,7 @@ public static Field GetFieldByInternalName(FieldCollection fields, String intern
 *internalName*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Field  
+Type: Field  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

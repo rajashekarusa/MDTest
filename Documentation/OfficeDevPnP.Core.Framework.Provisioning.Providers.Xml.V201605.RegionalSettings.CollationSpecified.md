@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CollationSpecified { get; set; }
+public bool CollationSpecified { get; set; }
 ```
 
 ### Property Value

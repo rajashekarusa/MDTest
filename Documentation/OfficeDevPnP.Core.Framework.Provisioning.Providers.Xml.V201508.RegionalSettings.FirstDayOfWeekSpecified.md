@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean FirstDayOfWeekSpecified { get; set; }
+public bool FirstDayOfWeekSpecified { get; set; }
 ```
 
 ### Property Value

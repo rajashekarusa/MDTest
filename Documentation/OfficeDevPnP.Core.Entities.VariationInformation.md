@@ -6,6 +6,7 @@ Class containing variation configuration information
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class VariationInformation
@@ -13,7 +14,7 @@ public class VariationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.ctor1.md) | <summary> Class containing variation configuration information </summary>
+| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.ctor1.md) |  Class containing variation configuration information 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

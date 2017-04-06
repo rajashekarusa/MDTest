@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<object> schools { get; set; }
+public IList<Object> schools { get; set; }
 ```
 
 ### Property Value

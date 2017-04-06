@@ -5,7 +5,7 @@ Get DateTime typed property bag value. If does not contain, returns default valu
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static nullable<datetime> GetPropertyBagValueDateTime(Web web, String key, DateTime defaultValue)
+public static Nullable<DateTime> GetPropertyBagValueDateTime(Web web, String key, DateTime defaultValue)
 ```
 ### Parameters
 *web*  
@@ -17,7 +17,7 @@ public static nullable<datetime> GetPropertyBagValueDateTime(Web web, String key
 *defaultValue*  
 &emsp;&emsp;Type: System.DateTime  
 ### Return Value
-Type: System.Nullable<System.DateTime>  
+Type: Nullable<DateTime>  
 Value of the property bag entry as integer
 
 ## See also

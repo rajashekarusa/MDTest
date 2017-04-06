@@ -5,7 +5,7 @@ Connector for files in SharePoint
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 ## Syntax
 ```C#
 public class SharePointConnector: FileConnectorBase
@@ -13,8 +13,8 @@ public class SharePointConnector: FileConnectorBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor1.md) | <summary> Connector for files in SharePoint </summary>
-| [SharePointConnector(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor2.md) | <summary> Connector for files in SharePoint </summary>
+| [SharePointConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor1.md) |  Connector for files in SharePoint 
+| [SharePointConnector(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor2.md) |  Connector for files in SharePoint 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

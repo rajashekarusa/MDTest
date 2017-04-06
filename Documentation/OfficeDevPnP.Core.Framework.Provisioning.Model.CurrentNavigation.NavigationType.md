@@ -9,7 +9,7 @@ public CurrentNavigationType NavigationType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@ Defines the list of events that will start the workflow instance
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<string> EventTypes { get; set; }
+public List<String> EventTypes { get; set; }
 ```
 
 ### Property Value

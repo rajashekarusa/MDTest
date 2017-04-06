@@ -21,7 +21,7 @@ public static void AddFieldById(ContentType contentType, Guid fieldId, Boolean r
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is hidden  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

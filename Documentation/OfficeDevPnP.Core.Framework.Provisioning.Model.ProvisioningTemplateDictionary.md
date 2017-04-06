@@ -5,7 +5,7 @@ Generic keyed collection of items stored in the ProvisioningTemplate graph
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [TKey,TItem](TKey,TItem.md)
+  [TKey,TItem](TKey,TItem.md) 
 ## Syntax
 ```C#
 public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
@@ -13,7 +13,7 @@ public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateDictionary(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ctor1.md) | <summary> Generic keyed collection of items stored in the ProvisioningTemplate graph </summary>
+| [ProvisioningTemplateDictionary(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateDictionary.ctor1.md) |  Generic keyed collection of items stored in the ProvisioningTemplate graph 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

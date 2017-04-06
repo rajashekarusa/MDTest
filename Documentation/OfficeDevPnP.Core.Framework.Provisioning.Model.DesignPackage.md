@@ -5,7 +5,7 @@ Defines a Design Package to import into the current Publishing site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class DesignPackage: BaseModel
@@ -13,7 +13,7 @@ public class DesignPackage: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) | <summary> Defines a Design Package to import into the current Publishing site </summary>
+| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) |  Defines a Design Package to import into the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

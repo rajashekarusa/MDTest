@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public guid SourceInternal { get; set; }
+public Guid SourceInternal { get; set; }
 ```
 
 ### Property Value

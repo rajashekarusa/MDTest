@@ -5,14 +5,14 @@ Gets a file as stream from the default container
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public stream GetFileStream(String fileName)
+public Stream GetFileStream(String fileName)
 ```
 ### Parameters
 *fileName*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
 ### Return Value
-Type: System.IO.Stream  
+Type: Stream  
 String containing the file contents
 
 ## See also

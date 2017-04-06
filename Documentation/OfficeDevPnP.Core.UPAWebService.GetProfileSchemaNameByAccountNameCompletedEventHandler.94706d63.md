@@ -13,7 +13,7 @@ public void Invoke(Object sender, GetProfileSchemaNameByAccountNameCompletedEven
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

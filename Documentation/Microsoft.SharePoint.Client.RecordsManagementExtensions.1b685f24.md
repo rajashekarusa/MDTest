@@ -15,7 +15,8 @@ public static void SetRecordRestrictions(Site site, EcmSiteRecordRestrictions re
 &emsp;&emsp;Type: [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)  
 &emsp;&emsp; enum that holds the restrictions to be applied  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
+- [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

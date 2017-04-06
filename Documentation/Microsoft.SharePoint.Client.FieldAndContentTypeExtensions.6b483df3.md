@@ -5,7 +5,7 @@ Field exists in content type
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean FieldExistsByNameInContentType(Web web, String contentTypeName, String fieldName)
+public static bool FieldExistsByNameInContentType(Web web, String contentTypeName, String fieldName)
 ```
 ### Parameters
 *web*  
@@ -18,7 +18,7 @@ public static boolean FieldExistsByNameInContentType(Web web, String contentType
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the field  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if exists, false otherwise
 
 ## See also

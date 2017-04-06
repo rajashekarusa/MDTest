@@ -5,7 +5,7 @@ Connector for files in Azure blob storage
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 ## Syntax
 ```C#
 public class AzureStorageConnector: FileConnectorBase
@@ -13,8 +13,8 @@ public class AzureStorageConnector: FileConnectorBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AzureStorageConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.ctor1.md) | <summary> Connector for files in Azure blob storage </summary>
-| [AzureStorageConnector(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.ctor2.md) | <summary> Connector for files in Azure blob storage </summary>
+| [AzureStorageConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.ctor1.md) |  Connector for files in Azure blob storage 
+| [AzureStorageConnector(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.ctor2.md) |  Connector for files in Azure blob storage 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

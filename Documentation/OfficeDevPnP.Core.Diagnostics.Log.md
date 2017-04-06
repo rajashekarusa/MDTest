@@ -6,6 +6,7 @@ Logging class
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class Log

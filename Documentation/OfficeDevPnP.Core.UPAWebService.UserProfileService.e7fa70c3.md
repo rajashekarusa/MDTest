@@ -11,7 +11,7 @@ public void remove_CreateMemberGroupCompleted(CreateMemberGroupCompletedEventHan
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

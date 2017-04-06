@@ -9,7 +9,7 @@ public WikiPageLayout Layout { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLayout  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLayout](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WikiPageLayout.md)  
 
 ## Remarks 
 

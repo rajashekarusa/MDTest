@@ -13,7 +13,7 @@ public void SaveAs(ProvisioningTemplate template, String uri)
 *uri*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

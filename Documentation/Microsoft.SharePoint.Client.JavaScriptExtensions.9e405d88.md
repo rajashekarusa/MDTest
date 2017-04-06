@@ -5,7 +5,7 @@ Checks if the target web already has a custom JsLink with a specified key
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ExistsJsLink(Web web, String key)
+public static bool ExistsJsLink(Web web, String key)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean ExistsJsLink(Web web, String key)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 
 ## See also

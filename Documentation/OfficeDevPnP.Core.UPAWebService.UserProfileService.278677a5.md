@@ -11,7 +11,7 @@ public void remove_UpdateLinkCompleted(UpdateLinkCompletedEventHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdateLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdateLinkCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

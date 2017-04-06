@@ -21,7 +21,7 @@ public static TermGroup CreateTermGroup(TermStore termStore, String groupName, G
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;(Optional) Description of the term group  
 ### Return Value
-Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
+Type: TermGroup  
 The created term group
 
 ## See also

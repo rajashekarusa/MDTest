@@ -5,7 +5,7 @@ Removes the app instance with the specified title.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean RemoveAppInstanceByTitle(Web web, String appTitle)
+public static bool RemoveAppInstanceByTitle(Web web, String appTitle)
 ```
 ### Parameters
 *web*  
@@ -15,7 +15,7 @@ public static boolean RemoveAppInstanceByTitle(Web web, String appTitle)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the app instance to remove  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 true if the the app instance was removed; false if it does not exist
 
 ## See also

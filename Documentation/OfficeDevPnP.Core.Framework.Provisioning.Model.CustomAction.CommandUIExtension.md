@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xelement CommandUIExtension { get; set; }
+public XElement CommandUIExtension { get; set; }
 ```
 
 ### Property Value

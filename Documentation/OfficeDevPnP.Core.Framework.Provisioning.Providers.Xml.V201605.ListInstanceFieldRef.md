@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefFull](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefFull.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefFull](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefFull.md) 
 ## Syntax
 ```C#
 public class ListInstanceFieldRef: FieldRefFull

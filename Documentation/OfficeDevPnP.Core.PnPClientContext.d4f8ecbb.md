@@ -12,7 +12,7 @@ public PnPClientContext Clone(Uri siteUri)
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site url to be used for cloned ClientContext  
 ### Return Value
-Type: [OfficeDevPnP.Core.PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md)  
+Type: PnPClientContext  
 A PnPClientContext object created for the passed site url
 
 ## See also

@@ -6,6 +6,7 @@
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class ExternalSharingExtensions
@@ -13,12 +14,12 @@ public static class ExternalSharingExtensions
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [CreateAnonymousLinkForDocument(Web, String, ExternalSharingDocumentOption)](Microsoft.SharePoint.Client.ExternalSharingExtensions.65ade625.md) | <summary> Creates anonymous link to given document. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslink.aspx">MSDN</a></summary>
-| [CreateAnonymousLinkWithExpirationForDocument(Web, String, ExternalSharingDocumentOption, DateTime)](Microsoft.SharePoint.Client.ExternalSharingExtensions.d634f954.md) | <summary> Creates anonymous link to the given document with automatic expiration time. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslinkwithexpiration.aspx">MSDN</a></summary>
+| [CreateAnonymousLinkForDocument(Web, String, ExternalSharingDocumentOption)](Microsoft.SharePoint.Client.ExternalSharingExtensions.65ade625.md) |  Creates anonymous link to given document. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslink.aspx">MSDN</a>
+| [CreateAnonymousLinkWithExpirationForDocument(Web, String, ExternalSharingDocumentOption, DateTime)](Microsoft.SharePoint.Client.ExternalSharingExtensions.d634f954.md) |  Creates anonymous link to the given document with automatic expiration time. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslinkwithexpiration.aspx">MSDN</a>
 | [GetObjectSharingSettingsForDocument(Web, String, Boolean)](Microsoft.SharePoint.Client.ExternalSharingExtensions.f6e910ee.md) | Get current sharing settings for document and load list of users it has been shared automatically.
 | [GetObjectSharingSettingsForSite(Web, Boolean)](Microsoft.SharePoint.Client.ExternalSharingExtensions.67d0238b.md) | Get current sharing settings for site and load list of users it has been shared automatically.
 | [InviteExternalUser(Group, String, Boolean, String)](Microsoft.SharePoint.Client.ExternalSharingExtensions.aa73b5f1.md) | Invites an external user as a group member
-| [ResolvePeoplePickerValueForEmail(Web, String)](Microsoft.SharePoint.Client.ExternalSharingExtensions.7657a39c.md) | <summary> Can be used to get needed people picker search result value for given email account. See <a href="https://msdn.microsoft.com/en-us/library/office/jj179690.aspx">MSDN</a></summary>
+| [ResolvePeoplePickerValueForEmail(Web, String)](Microsoft.SharePoint.Client.ExternalSharingExtensions.7657a39c.md) |  Can be used to get needed people picker search result value for given email account. See <a href="https://msdn.microsoft.com/en-us/library/office/jj179690.aspx">MSDN</a>
 | [ShareDocument(Web, String, String, ExternalSharingDocumentOption, Boolean, String, Boolean)](Microsoft.SharePoint.Client.ExternalSharingExtensions.66dc7567.md) | Abstracted methid for sharing documents just with given email address.
 | [ShareDocumentWithPeoplePickerValue(Web, String, String, ExternalSharingDocumentOption, Boolean, String, Boolean)](Microsoft.SharePoint.Client.ExternalSharingExtensions.1122069f.md) | Share document with complex JSON string value.
 | [ShareSite(Web, String, Group, Boolean, String)](Microsoft.SharePoint.Client.ExternalSharingExtensions.3710fea1.md) | Share site for a person using just email. Will resolve needed people picker JSON value automatically.
@@ -27,5 +28,5 @@ public static class ExternalSharingExtensions
 | [ShareSiteWithPeoplePickerValue(Web, String, Group, Boolean, String)](Microsoft.SharePoint.Client.ExternalSharingExtensions.d3ee6e16.md) | Share site for a person using complex JSON object for people picker value.
 | [UnshareDocument(Web, String)](Microsoft.SharePoint.Client.ExternalSharingExtensions.fa304889.md) | Can be used to programatically to unshare any document with the document URL.
 ## See also
-- [M:Microsoft.SharePoint.Client.ExternalSharingExtensions.ShareDocument(Microsoft.SharePoint.Client.Web,System.String,System.String,Microsoft.SharePoint.Client.ExternalSharingDocumentOption,System.Boolean,System.String,System.Boolean)](M:Microsoft.SharePoint.Client.ExternalSharingExtensions.ShareDocument(Microsoft.SharePoint.Client.Web,System.String,System.String,Microsoft.SharePoint.Client.ExternalSharingDocumentOption,System.Boolean,System.String,System.Boolean).md)
+- Microsoft.SharePoint.Client.ExternalSharingExtensions.ShareDocument(Microsoft.SharePoint.Client.Web,System.String,System.String,Microsoft.SharePoint.Client.ExternalSharingDocumentOption,System.Boolean,System.String,System.Boolean)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

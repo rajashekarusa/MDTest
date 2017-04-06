@@ -17,7 +17,7 @@ public void UpdateColleaguePrivacyAsync(String accountName, String colleagueAcco
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

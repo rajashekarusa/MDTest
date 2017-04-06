@@ -6,6 +6,7 @@ Json web part data that will be included in each client side web part (de-)seria
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class ClientSideWebPartData
@@ -13,7 +14,7 @@ public class ClientSideWebPartData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.ctor1.md) | <summary> Json web part data that will be included in each client side web part (de-)serialization (data-sp-webpartdata) </summary>
+| [ClientSideWebPartData()](OfficeDevPnP.Core.Pages.ClientSideWebPartData.ctor1.md) |  Json web part data that will be included in each client side web part (de-)serialization (data-sp-webpartdata) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

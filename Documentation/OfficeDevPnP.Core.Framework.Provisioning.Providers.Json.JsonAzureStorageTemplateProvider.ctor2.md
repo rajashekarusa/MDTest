@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public JsonAzureStorageTemplateProvider(String connectionString, String container)
+public JsonAzureStorageTemplateProvider(string connectionString, string container)
 ```
 ### Parameters
 #### connectionString  

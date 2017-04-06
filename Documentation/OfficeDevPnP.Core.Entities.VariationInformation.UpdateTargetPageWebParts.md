@@ -5,7 +5,7 @@ Update Target Page Web Parts Mapped to property "UpdateWebPartsPropertyName"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UpdateTargetPageWebParts { get; set; }
+public bool UpdateTargetPageWebParts { get; set; }
 ```
 
 ### Property Value

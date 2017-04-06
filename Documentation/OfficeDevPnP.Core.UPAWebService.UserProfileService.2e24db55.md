@@ -13,7 +13,7 @@ public void CreateUserProfileByAccountNameAsync(String accountName, Object userS
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

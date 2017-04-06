@@ -5,7 +5,7 @@ Gets or sets a value that specifies whether the new list is displayed on the Qui
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean OnQuickLaunch { get; set; }
+public bool OnQuickLaunch { get; set; }
 ```
 
 ### Property Value

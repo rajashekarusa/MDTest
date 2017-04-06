@@ -5,7 +5,7 @@ Copy resources Mapped to property "CopyResourcesPropertyName"
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CopyResources { get; set; }
+public bool CopyResources { get; set; }
 ```
 
 ### Property Value

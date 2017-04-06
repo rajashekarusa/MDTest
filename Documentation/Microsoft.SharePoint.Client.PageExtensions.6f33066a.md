@@ -18,8 +18,9 @@ public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Already persist the created, empty, page before returning the instantiated  instance  
 ### Return Value
-Type: [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  
+Type: ClientSidePage  
 A  instance
 
 ## See also
+- [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

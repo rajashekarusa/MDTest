@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean LocaleIdSpecified { get; set; }
+public bool LocaleIdSpecified { get; set; }
 ```
 
 ### Property Value

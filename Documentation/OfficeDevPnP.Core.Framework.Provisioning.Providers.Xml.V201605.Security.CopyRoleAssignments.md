@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean CopyRoleAssignments { get; set; }
+public bool CopyRoleAssignments { get; set; }
 ```
 
 ### Property Value

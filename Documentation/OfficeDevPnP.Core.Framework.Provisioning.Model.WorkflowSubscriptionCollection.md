@@ -5,7 +5,7 @@ Defines a collection of objects of type WorkflowSubscription
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md) 
 ## Syntax
 ```C#
 public class WorkflowSubscriptionCollection: ProvisioningTemplateCollection<WorkflowSubscription>
@@ -13,6 +13,6 @@ public class WorkflowSubscriptionCollection: ProvisioningTemplateCollection<Work
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowSubscriptionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.ctor1.md) | <summary> Defines a collection of objects of type WorkflowSubscription </summary>
+| [WorkflowSubscriptionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.ctor1.md) |  Defines a collection of objects of type WorkflowSubscription 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

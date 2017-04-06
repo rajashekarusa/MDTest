@@ -5,7 +5,7 @@ Defines a DocumentSet Template for creating multiple DocumentSet instances
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class DocumentSetTemplate: BaseModel
@@ -13,8 +13,8 @@ public class DocumentSetTemplate: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor1.md) | <summary> Defines a DocumentSet Template for creating multiple DocumentSet instances </summary>
-| [DocumentSetTemplate(String, IEnumerable<String>, IEnumerable<DefaultDocument>, IEnumerable<Guid>, IEnumerable<Guid>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor2.md) | <summary> Defines a DocumentSet Template for creating multiple DocumentSet instances </summary>
+| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor1.md) |  Defines a DocumentSet Template for creating multiple DocumentSet instances 
+| [DocumentSetTemplate(String, IEnumerable<String>, IEnumerable<DefaultDocument>, IEnumerable<Guid>, IEnumerable<Guid>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.ctor2.md) |  Defines a DocumentSet Template for creating multiple DocumentSet instances 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

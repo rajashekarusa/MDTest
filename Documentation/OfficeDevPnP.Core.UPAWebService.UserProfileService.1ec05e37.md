@@ -11,7 +11,7 @@ public void add_GetUserProfileByIndexCompleted(GetUserProfileByIndexCompletedEve
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

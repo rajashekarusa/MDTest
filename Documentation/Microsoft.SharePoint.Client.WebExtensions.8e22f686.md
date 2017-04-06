@@ -15,7 +15,7 @@ public static ProvisioningTemplate GetProvisioningTemplate(Web web, Provisioning
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md)  
 &emsp;&emsp;Specifies additional settings and/or properties  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 ProvisioningTemplate object with generated values from existing site
 
 ## See also

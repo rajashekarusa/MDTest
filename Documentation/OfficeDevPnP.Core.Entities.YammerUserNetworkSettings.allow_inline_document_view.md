@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean allow_inline_document_view { get; set; }
+public bool allow_inline_document_view { get; set; }
 ```
 
 ### Property Value

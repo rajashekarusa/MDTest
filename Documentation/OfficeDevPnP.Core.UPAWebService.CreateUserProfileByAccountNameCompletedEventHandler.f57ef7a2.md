@@ -13,7 +13,7 @@ public void Invoke(Object sender, CreateUserProfileByAccountNameCompletedEventAr
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -15,7 +15,7 @@ public static string Encrypt(String stringToEncrypt, String thumbPrint)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to use  
 ### Return Value
-Type: System.String  
+Type: string  
 Encrypted text
 
 ## See also

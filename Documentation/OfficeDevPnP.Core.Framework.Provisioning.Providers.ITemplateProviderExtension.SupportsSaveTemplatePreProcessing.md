@@ -5,7 +5,7 @@ Declares whether the object supports pre-processing during SaveTemplate
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean SupportsSaveTemplatePreProcessing { get; }
+public bool SupportsSaveTemplatePreProcessing { get; }
 ```
 
 ### Property Value

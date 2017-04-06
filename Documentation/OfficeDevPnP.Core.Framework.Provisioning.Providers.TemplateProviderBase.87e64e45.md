@@ -13,7 +13,7 @@ public ProvisioningTemplate GetTemplate(String uri, ITemplateProviderExtension[]
 *extensions*  
 &emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)

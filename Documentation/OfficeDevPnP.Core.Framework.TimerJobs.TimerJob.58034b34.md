@@ -18,7 +18,7 @@ public void SetEnumerationCredentials(String samAccountName, String password, St
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Domain of the enumeration user  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

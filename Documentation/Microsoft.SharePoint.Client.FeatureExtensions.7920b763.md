@@ -18,7 +18,7 @@ public static void DeactivateFeature(Site site, Guid featureID, Int32 pollingInt
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The time in seconds between polls for "IsActive"  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

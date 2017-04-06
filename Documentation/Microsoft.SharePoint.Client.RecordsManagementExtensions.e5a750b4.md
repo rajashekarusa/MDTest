@@ -15,7 +15,7 @@ public static void SetManualRecordDeclarationInAllLocations(Site site, Boolean i
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if allowed in all places, false otherwise  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public nullable<boolean> private { get; set; }
+public Nullable<Boolean> private { get; set; }
 ```
 
 ### Property Value

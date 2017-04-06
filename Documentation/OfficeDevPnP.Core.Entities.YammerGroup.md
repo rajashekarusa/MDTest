@@ -6,6 +6,7 @@ Represents Yammer Group information Generated based on Yammer response on 30th o
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class YammerGroup
@@ -13,7 +14,7 @@ public class YammerGroup
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerGroup()](OfficeDevPnP.Core.Entities.YammerGroup.ctor1.md) | <summary> Represents Yammer Group information Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service </summary>
+| [YammerGroup()](OfficeDevPnP.Core.Entities.YammerGroup.ctor1.md) |  Represents Yammer Group information Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

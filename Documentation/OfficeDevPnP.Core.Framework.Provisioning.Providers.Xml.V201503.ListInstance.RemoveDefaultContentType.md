@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RemoveDefaultContentType { get; set; }
+public bool RemoveDefaultContentType { get; set; }
 ```
 
 ### Property Value

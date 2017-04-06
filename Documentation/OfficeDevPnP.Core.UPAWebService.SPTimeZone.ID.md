@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint16 ID { get; set; }
+public ushort ID { get; set; }
 ```
 
 ### Property Value

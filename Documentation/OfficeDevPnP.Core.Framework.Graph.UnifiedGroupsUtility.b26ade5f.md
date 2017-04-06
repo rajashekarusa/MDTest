@@ -21,7 +21,7 @@ public static void DeleteUnifiedGroup(String groupId, String accessToken, Int32 
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)

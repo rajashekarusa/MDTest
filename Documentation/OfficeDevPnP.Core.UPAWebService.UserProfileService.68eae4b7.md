@@ -5,10 +5,10 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string[] GetProfileSchemaNames()
+public String[] GetProfileSchemaNames()
 ```
 ### Return Value
-Type: System.String[]  
+Type: String[]  
 
 ## Remarks 
 

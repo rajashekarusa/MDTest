@@ -6,6 +6,7 @@ Class that provides methods for variations
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class VariationExtensions

@@ -6,6 +6,7 @@ Class that holds deprecated feature activation and deactivation methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class FeatureExtensions

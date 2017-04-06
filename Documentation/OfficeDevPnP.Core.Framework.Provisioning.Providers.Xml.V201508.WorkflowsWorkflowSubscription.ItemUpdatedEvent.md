@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ItemUpdatedEvent { get; set; }
+public bool ItemUpdatedEvent { get; set; }
 ```
 
 ### Property Value

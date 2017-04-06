@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public UpdateLinkCompletedEventHandler(Object object, IntPtr method)
+public UpdateLinkCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

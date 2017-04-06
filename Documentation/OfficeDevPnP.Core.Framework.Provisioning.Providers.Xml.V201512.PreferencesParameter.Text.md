@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string[] Text { get; set; }
+public String[] Text { get; set; }
 ```
 
 ### Property Value

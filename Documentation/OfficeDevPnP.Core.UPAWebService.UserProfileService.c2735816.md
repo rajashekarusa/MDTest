@@ -11,7 +11,7 @@ public void remove_RemoveColleagueCompleted(RemoveColleagueCompletedEventHandler
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -6,6 +6,7 @@ This class holds deprecated navigation related methods
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class NavigationExtensions
@@ -36,5 +37,5 @@ public static class NavigationExtensions
 ```
 
 ## See also
-- [GetCustomActions](GetCustomActions.md)
+- GetCustomActions
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

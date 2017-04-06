@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public RemoveAllPinnedLinksCompletedEventHandler(Object object, IntPtr method)
+public RemoveAllPinnedLinksCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

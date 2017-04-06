@@ -21,7 +21,7 @@ public void AddColleagueWithoutEmailNotificationAsync(String accountName, String
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

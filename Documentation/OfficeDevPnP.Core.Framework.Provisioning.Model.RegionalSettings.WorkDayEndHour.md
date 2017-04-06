@@ -9,7 +9,7 @@ public WorkHour WorkDayEndHour { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

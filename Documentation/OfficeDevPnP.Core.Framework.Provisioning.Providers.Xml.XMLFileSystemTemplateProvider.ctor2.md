@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public XMLFileSystemTemplateProvider(String connectionString, String container)
+public XMLFileSystemTemplateProvider(string connectionString, string container)
 ```
 ### Parameters
 #### connectionString  

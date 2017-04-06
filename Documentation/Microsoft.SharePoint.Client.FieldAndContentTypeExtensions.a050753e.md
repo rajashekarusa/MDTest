@@ -5,7 +5,7 @@ Does content type exist in web
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean ContentTypeExistsById(Web web, String listTitle, String contentTypeId)
+public static bool ContentTypeExistsById(Web web, String listTitle, String contentTypeId)
 ```
 ### Parameters
 *web*  
@@ -18,7 +18,7 @@ public static boolean ContentTypeExistsById(Web web, String listTitle, String co
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if the content type exists, false otherwise
 
 ## See also

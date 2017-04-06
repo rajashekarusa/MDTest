@@ -21,7 +21,7 @@ public static SharingResult InviteExternalUser(Group group, String email, Boolea
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added to the email  
 ### Return Value
-Type: Microsoft.SharePoint.Client.SharingResult  
+Type: SharingResult  
 
 
 ## See also

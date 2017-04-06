@@ -9,7 +9,7 @@ public TreeNodeList Children { get; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList  
+Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

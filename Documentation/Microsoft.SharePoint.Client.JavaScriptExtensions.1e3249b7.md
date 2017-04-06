@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean AddJsLink(Site site, String key, IEnumerable<String> scriptLinks, Int32 sequence)
+public static bool AddJsLink(Site site, String key, IEnumerable<String> scriptLinks, Int32 sequence)
 ```
 ### Parameters
 *site*  
@@ -17,7 +17,7 @@ public static boolean AddJsLink(Site site, String key, IEnumerable<String> scrip
 *(optional) sequence*  
 &emsp;&emsp;Type: System.Int32  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

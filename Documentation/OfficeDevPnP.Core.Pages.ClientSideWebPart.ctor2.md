@@ -11,5 +11,4 @@ public ClientSideWebPart(ClientSideComponent component)
 #### component  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)  
 ## See also
-- [T:OfficeDevPnP.Core.Pages.ClientSidePage](T:OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

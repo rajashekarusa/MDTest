@@ -5,7 +5,7 @@ Collection of Directory objects
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
 ## Syntax
 ```C#
 public class DirectoryCollection: ProvisioningTemplateCollection<Directory>
@@ -13,6 +13,6 @@ public class DirectoryCollection: ProvisioningTemplateCollection<Directory>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DirectoryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection.ctor1.md) | <summary> Collection of Directory objects </summary>
+| [DirectoryCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DirectoryCollection.ctor1.md) |  Collection of Directory objects 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

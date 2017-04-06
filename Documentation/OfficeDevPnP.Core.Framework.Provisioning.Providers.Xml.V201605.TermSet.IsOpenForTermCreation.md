@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsOpenForTermCreation { get; set; }
+public bool IsOpenForTermCreation { get; set; }
 ```
 
 ### Property Value

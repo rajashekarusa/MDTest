@@ -6,6 +6,7 @@ Abstract base class for creating timer jobs (background processes) that operate 
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class TimerJob
@@ -13,9 +14,9 @@ public class TimerJob
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TimerJob(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor1.md) | <summary> Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint. </summary>
-| [TimerJob(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor2.md) | <summary> Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint. </summary>
-| [TimerJob(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor3.md) | <summary> Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint. </summary>
+| [TimerJob(String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor1.md) |  Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint. 
+| [TimerJob(String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor2.md) |  Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint. 
+| [TimerJob(String, String, String)](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.ctor3.md) |  Abstract base class for creating timer jobs (background processes) that operate against SharePoint sites. These timer jobs are designed to use the CSOM API and thus can run on any server that can communicate with SharePoint. 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

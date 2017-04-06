@@ -13,7 +13,7 @@ public void Invoke(Object sender, GetUserProfileCountCompletedEventArgs e)
 *e*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventArgs.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

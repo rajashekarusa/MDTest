@@ -5,9 +5,10 @@ DefaultColumnValue
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
-----  [OfficeDevPnP.Core.Entities.DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md)
-----  [OfficeDevPnP.Core.Entities.DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md)
+[OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
+
++++[OfficeDevPnP.Core.Entities.DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md) 
++++[OfficeDevPnP.Core.Entities.DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md) 
 ## Syntax
 ```C#
 public class DefaultColumnValue
@@ -15,7 +16,7 @@ public class DefaultColumnValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.ctor1.md) | <summary> DefaultColumnValue </summary>
+| [DefaultColumnValue()](OfficeDevPnP.Core.Entities.DefaultColumnValue.ctor1.md) |  DefaultColumnValue 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -15,7 +15,7 @@ public ProvisioningTemplate GetTemplate(String uri, String identifier, ITemplate
 *formatter*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

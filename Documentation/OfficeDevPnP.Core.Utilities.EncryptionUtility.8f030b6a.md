@@ -5,14 +5,14 @@ Converts a string to a SecureString
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static securestring ToSecureString(String input)
+public static SecureString ToSecureString(String input)
 ```
 ### Parameters
 *input*  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String to convert  
 ### Return Value
-Type: System.Security.SecureString  
+Type: SecureString  
 SecureString representation of the passed in string
 
 ## See also

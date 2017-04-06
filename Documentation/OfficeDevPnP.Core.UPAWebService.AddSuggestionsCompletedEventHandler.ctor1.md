@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public AddSuggestionsCompletedEventHandler(Object object, IntPtr method)
+public AddSuggestionsCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

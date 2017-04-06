@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public XMLSharePointTemplateProvider(ClientRuntimeContext cc, String connectionString, String container)
+public XMLSharePointTemplateProvider(ClientRuntimeContext cc, string connectionString, string container)
 ```
 ### Parameters
 #### cc  

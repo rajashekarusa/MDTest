@@ -13,7 +13,7 @@ public void SetParent(ITreeNode node, Boolean updateChildNodes)
 *(optional) updateChildNodes*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

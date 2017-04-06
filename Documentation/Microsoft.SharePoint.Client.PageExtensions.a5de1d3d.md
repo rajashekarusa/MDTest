@@ -18,7 +18,7 @@ public static void AddWikiPageByUrl(Web web, String serverRelativePageUrl, Strin
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;HTML to add to wiki page  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

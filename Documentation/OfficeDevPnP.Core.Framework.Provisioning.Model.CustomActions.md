@@ -5,7 +5,7 @@ Domain Object that represents a Collections of Custom Actions
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class CustomActions: BaseModel
@@ -13,7 +13,7 @@ public class CustomActions: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.ctor1.md) | <summary> Domain Object that represents a Collections of Custom Actions </summary>
+| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.ctor1.md) |  Domain Object that represents a Collections of Custom Actions 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -15,7 +15,7 @@ public static List GetListByTitle(Web web, String listTitle, Expression<Func<Lis
 *expressions*  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.List, System.Object>>[]  
 ### Return Value
-Type: Microsoft.SharePoint.Client.List  
+Type: List  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

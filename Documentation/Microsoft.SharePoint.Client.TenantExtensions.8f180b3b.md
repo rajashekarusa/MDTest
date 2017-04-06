@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid CreateSiteCollection(Tenant tenant, SiteEntity properties, Boolean removeFromRecycleBin, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static Guid CreateSiteCollection(Tenant tenant, SiteEntity properties, Boolean removeFromRecycleBin, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 *tenant*  
@@ -19,7 +19,7 @@ public static guid CreateSiteCollection(Tenant tenant, SiteEntity properties, Bo
 *(optional) timeoutFunction*  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 ### Return Value
-Type: System.Guid  
+Type: Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

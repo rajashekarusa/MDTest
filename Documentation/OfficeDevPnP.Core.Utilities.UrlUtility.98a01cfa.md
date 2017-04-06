@@ -11,7 +11,7 @@ public static string MakeRelativeUrl(String urlToProcess)
 *urlToProcess*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.String  
+Type: string  
 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

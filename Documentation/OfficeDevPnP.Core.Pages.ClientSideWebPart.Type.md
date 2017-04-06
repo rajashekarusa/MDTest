@@ -5,14 +5,14 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public type Type { get; }
+public Type Type { get; }
 ```
 
 ### Property Value
 Type: System.Type  
 
 ## See also
-- [T:Newtonsoft.Json.Linq.JObject](T:Newtonsoft.Json.Linq.JObject.md)
-- [P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type](P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md)
+- Newtonsoft.Json.Linq.JObject
+- P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 

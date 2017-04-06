@@ -21,7 +21,7 @@ public static string GetUnifiedGroupSiteUrl(String groupId, String accessToken, 
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 ### Return Value
-Type: System.String  
+Type: string  
 The URL of the modern site backing the Office 365 Group
 
 ## See also

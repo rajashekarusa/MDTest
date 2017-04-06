@@ -5,7 +5,7 @@ Permission settings for the target Site
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class SiteSecurityPermissions: BaseModel
@@ -13,7 +13,7 @@ public class SiteSecurityPermissions: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteSecurityPermissions()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.ctor1.md) | <summary> Permission settings for the target Site </summary>
+| [SiteSecurityPermissions()](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.ctor1.md) |  Permission settings for the target Site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

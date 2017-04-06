@@ -5,14 +5,14 @@ Returns all my site site collections
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static list<siteentity> MySiteSearch(Web web)
+public static List<SiteEntity> MySiteSearch(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 ### Return Value
-Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.SiteEntity>  
+Type: List<SiteEntity>  
 All my site site collections
 
 ## See also

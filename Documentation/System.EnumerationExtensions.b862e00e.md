@@ -5,7 +5,7 @@ Checks if an enumerated type contains a value
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean Has(Enum value, T check)
+public static bool Has(Enum value, T check)
 ```
 ### Parameters
 *value*  
@@ -13,7 +13,7 @@ public static boolean Has(Enum value, T check)
 *check*  
 &emsp;&emsp;Type: T  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [System](System.md)

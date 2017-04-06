@@ -13,7 +13,7 @@ public void GetUserProfileByGuidAsync(Guid guid, Object userState)
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

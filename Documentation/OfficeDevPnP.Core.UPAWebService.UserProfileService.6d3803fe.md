@@ -19,7 +19,7 @@ public void AddColleagueWithoutEmailNotificationAsync(String accountName, String
 *isInWorkGroup*  
 &emsp;&emsp;Type: System.Boolean  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

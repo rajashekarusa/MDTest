@@ -15,7 +15,7 @@ public static ProvisioningTemplate GetBaseTemplate(Web web, String webTemplate, 
 *configuration*  
 &emsp;&emsp;Type: System.Int16  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+Type: ProvisioningTemplate  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

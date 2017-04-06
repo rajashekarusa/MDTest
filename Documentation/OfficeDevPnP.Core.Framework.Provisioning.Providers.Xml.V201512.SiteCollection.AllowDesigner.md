@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AllowDesigner { get; set; }
+public bool AllowDesigner { get; set; }
 ```
 
 ### Property Value

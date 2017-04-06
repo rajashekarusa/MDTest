@@ -5,11 +5,12 @@ Base file connector class
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
---  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)
-----  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.md)
-----  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.md)
-----  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.md)
-----  [OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.md)
+[OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)
+
++++[OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.md) 
++++[OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.md) 
++++[OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXMLConnector.md) 
++++[OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.md) 
 ## Syntax
 ```C#
 public class FileConnectorBase

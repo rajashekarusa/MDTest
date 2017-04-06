@@ -17,7 +17,7 @@ public static SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;14 for SharePoint 2010, 15 for SharePoint 2013/SharePoint Online  
 ### Return Value
-Type: Microsoft.Online.SharePoint.TenantAdministration.SPOTenantWebTemplateCollection  
+Type: SPOTenantWebTemplateCollection  
 
 
 ## See also

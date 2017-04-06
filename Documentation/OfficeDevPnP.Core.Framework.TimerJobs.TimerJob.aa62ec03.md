@@ -12,7 +12,7 @@ public void UseOffice365Authentication(String credentialName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the credential manager registration  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)

@@ -5,7 +5,7 @@ The Global Navigation settings for the Provisioning Template
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 
 ## Syntax
 ```C#
 public class GlobalNavigation: BaseNavigationKind
@@ -13,8 +13,8 @@ public class GlobalNavigation: BaseNavigationKind
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GlobalNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.ctor1.md) | <summary> The Global Navigation settings for the Provisioning Template </summary>
-| [GlobalNavigation(GlobalNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.ctor2.md) | <summary> The Global Navigation settings for the Provisioning Template </summary>
+| [GlobalNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.ctor1.md) |  The Global Navigation settings for the Provisioning Template 
+| [GlobalNavigation(GlobalNavigationType, StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.ctor2.md) |  The Global Navigation settings for the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

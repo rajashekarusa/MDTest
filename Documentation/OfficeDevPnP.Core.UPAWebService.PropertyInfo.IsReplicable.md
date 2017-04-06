@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsReplicable { get; set; }
+public bool IsReplicable { get; set; }
 ```
 
 ### Property Value

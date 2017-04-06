@@ -5,7 +5,7 @@ If true then any content types in the template will be provisioned to subwebs
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean ProvisionContentTypesToSubWebs { get; set; }
+public bool ProvisionContentTypesToSubWebs { get; set; }
 ```
 
 ### Property Value

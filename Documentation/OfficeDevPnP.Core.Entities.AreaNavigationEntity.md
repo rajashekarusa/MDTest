@@ -6,6 +6,7 @@ Entity description navigation
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class AreaNavigationEntity
@@ -13,7 +14,7 @@ public class AreaNavigationEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AreaNavigationEntity()](OfficeDevPnP.Core.Entities.AreaNavigationEntity.ctor1.md) | <summary> Entity description navigation </summary>
+| [AreaNavigationEntity()](OfficeDevPnP.Core.Entities.AreaNavigationEntity.ctor1.md) |  Entity description navigation 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

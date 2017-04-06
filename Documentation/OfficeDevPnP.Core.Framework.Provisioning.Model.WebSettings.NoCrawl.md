@@ -5,7 +5,7 @@ Defines whether the site has to be crawled or not
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean NoCrawl { get; set; }
+public bool NoCrawl { get; set; }
 ```
 
 ### Property Value

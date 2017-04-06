@@ -13,7 +13,7 @@ public void Save(ProvisioningTemplate template, ITemplateProviderExtension[] ext
 *(optional) extensions*  
 &emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)

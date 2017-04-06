@@ -5,7 +5,7 @@ The list of allowed Content Types for the Document Set
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public list<string> AllowedContentTypes { get; }
+public List<String> AllowedContentTypes { get; }
 ```
 
 ### Property Value

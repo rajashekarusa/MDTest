@@ -19,7 +19,7 @@ public static void SaveFileToLocal(Web web, String serverRelativeUrl, String loc
 *(optional) fileExistsCallBack*  
 &emsp;&emsp;Type: System.Func<System.String, System.Boolean>  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

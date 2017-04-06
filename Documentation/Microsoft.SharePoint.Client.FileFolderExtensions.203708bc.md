@@ -20,7 +20,7 @@ public static File UploadFile(Folder folder, String fileName, Stream stream, Boo
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;true (default) to overwite existing files  
 ### Return Value
-Type: Microsoft.SharePoint.Client.File  
+Type: File  
 The uploaded File, so that additional operations (such as setting properties) can be done.
 
 ## See also

@@ -1,5 +1,5 @@
 # ClientObjectExtensions.EnsureProperty Method  
- Ensures that particular property is loaded on the Microsoft.SharePoint.Client.ClientObject and immediately returns this property   
+ Ensures that particular property is loaded on the T:Microsoft.SharePoint.Client.ClientObject and immediately returns this property   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -18,4 +18,5 @@ Type: TResult
 Property value
 
 ## See also
+- Microsoft.SharePoint.Client.ClientObject
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

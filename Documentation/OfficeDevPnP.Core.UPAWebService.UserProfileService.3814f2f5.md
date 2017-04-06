@@ -11,7 +11,7 @@ public void remove_GetCommonManagerCompleted(GetCommonManagerCompletedEventHandl
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

@@ -19,7 +19,7 @@ public void AddMembershipAsync(String accountName, MembershipData membershipInfo
 *userState*  
 &emsp;&emsp;Type: System.Object  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## Remarks 
 

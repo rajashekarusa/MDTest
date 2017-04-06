@@ -11,7 +11,7 @@ public void add_GetInCommonCompleted(GetInCommonCompletedEventHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

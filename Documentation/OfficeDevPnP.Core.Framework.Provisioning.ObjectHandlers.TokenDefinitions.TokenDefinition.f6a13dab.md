@@ -5,13 +5,13 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public regex GetRegexForToken(String token)
+public Regex GetRegexForToken(String token)
 ```
 ### Parameters
 *token*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Text.RegularExpressions.Regex  
+Type: Regex  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)

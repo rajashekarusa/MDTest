@@ -9,7 +9,7 @@ public TreeNode Node { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Diagnostics.Tree.TreeNode  
+Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

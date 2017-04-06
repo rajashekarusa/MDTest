@@ -17,7 +17,7 @@ public static void PublishCustomEvent(WorkflowInstance instance, String eventNam
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The payload that will be sent to the event  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

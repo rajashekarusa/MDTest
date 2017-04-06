@@ -15,7 +15,7 @@ public static void CreateFieldsFromXMLFile(Web web, String xmlFilePath)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Absolute path to the xml location  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -15,7 +15,7 @@ public static void SetMasterPagesByUrl(Web web, String masterPageUrl, String cus
 *customMasterPageUrl*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

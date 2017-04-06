@@ -5,7 +5,7 @@ Recreate Deleted Target Page; set to false to enable recreation Mapped to proper
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean RecreateDeletedTargetPage { get; set; }
+public bool RecreateDeletedTargetPage { get; set; }
 ```
 
 ### Property Value

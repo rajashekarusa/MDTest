@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean UseDefaultCredentials { get; set; }
+public bool UseDefaultCredentials { get; set; }
 ```
 
 ### Property Value

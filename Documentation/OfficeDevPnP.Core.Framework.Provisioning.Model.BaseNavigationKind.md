@@ -5,7 +5,7 @@ Base abstract class for the navigation kinds (global or current)
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-    [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)
+  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
 ## Syntax
 ```C#
 public class BaseNavigationKind: BaseModel
@@ -13,8 +13,8 @@ public class BaseNavigationKind: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) | <summary> Base abstract class for the navigation kinds (global or current) </summary>
-| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) | <summary> Base abstract class for the navigation kinds (global or current) </summary>
+| [BaseNavigationKind()](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor1.md) |  Base abstract class for the navigation kinds (global or current) 
+| [BaseNavigationKind(StructuralNavigation, ManagedNavigation)](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.ctor2.md) |  Base abstract class for the navigation kinds (global or current) 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

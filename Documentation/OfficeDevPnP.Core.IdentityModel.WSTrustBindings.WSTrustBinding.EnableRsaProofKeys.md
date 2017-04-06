@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableRsaProofKeys { get; set; }
+public bool EnableRsaProofKeys { get; set; }
 ```
 
 ### Property Value

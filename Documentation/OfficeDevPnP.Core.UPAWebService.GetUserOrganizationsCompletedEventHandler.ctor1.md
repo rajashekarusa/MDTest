@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public GetUserOrganizationsCompletedEventHandler(Object object, IntPtr method)
+public GetUserOrganizationsCompletedEventHandler(object object, IntPtr method)
 ```
 ### Parameters
 #### object  

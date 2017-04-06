@@ -5,7 +5,7 @@ Used to compare the server file to the local file. This enables users with faste
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean VerifyIfUploadRequired(File serverFile, String localFile)
+public static bool VerifyIfUploadRequired(File serverFile, String localFile)
 ```
 ### Parameters
 *serverFile*  
@@ -15,7 +15,7 @@ public static boolean VerifyIfUploadRequired(File serverFile, String localFile)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;File to validate against.  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

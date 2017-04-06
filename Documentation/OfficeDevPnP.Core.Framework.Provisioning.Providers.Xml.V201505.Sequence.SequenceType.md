@@ -9,7 +9,7 @@ public SequenceSequenceType SequenceType { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.SequenceSequenceType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.SequenceSequenceType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.SequenceSequenceType.md)  
 
 ## Remarks 
 

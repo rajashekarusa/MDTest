@@ -5,14 +5,14 @@ Checks if the current web is a sub site or not
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean IsSubSite(Web web)
+public static bool IsSubSite(Web web)
 ```
 ### Parameters
 *web*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True is sub site, false otherwise
 
 ## See also

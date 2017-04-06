@@ -15,7 +15,7 @@ public static void CreateViewsFromXMLFile(Web web, String listUrl, String filePa
 *filePath*  
 &emsp;&emsp;Type: System.String  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

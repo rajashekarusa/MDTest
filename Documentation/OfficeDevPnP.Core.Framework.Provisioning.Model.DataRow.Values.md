@@ -5,7 +5,7 @@ Defines the fields to provision within a row that will be added to the List Inst
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public dictionary<string, string> Values { get; }
+public Dictionary<String, String> Values { get; }
 ```
 
 ### Property Value

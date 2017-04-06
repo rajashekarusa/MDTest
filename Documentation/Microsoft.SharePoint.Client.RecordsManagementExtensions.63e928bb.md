@@ -5,14 +5,14 @@ Get the value of the records management is allowed in all places setting
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static boolean GetManualRecordDeclarationInAllLocations(Site site)
+public static bool GetManualRecordDeclarationInAllLocations(Site site)
 ```
 ### Parameters
 *site*  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 ### Return Value
-Type: System.Boolean  
+Type: bool  
 True if records management is allowed in all places, false otherwise
 
 ## See also

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean AddToDefaultView { get; set; }
+public bool AddToDefaultView { get; set; }
 ```
 
 ### Property Value

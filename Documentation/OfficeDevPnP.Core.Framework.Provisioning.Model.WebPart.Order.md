@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public uint32 Order { get; set; }
+public uint Order { get; set; }
 ```
 
 ### Property Value

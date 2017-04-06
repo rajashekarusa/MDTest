@@ -5,7 +5,7 @@ Indicates if the custom action will need to be removed
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean Remove { get; set; }
+public bool Remove { get; set; }
 ```
 
 ### Property Value

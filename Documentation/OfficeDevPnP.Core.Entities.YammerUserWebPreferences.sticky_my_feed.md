@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean sticky_my_feed { get; set; }
+public bool sticky_my_feed { get; set; }
 ```
 
 ### Property Value

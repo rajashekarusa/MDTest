@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IncludeAllTermGroups { get; set; }
+public bool IncludeAllTermGroups { get; set; }
 ```
 
 ### Property Value

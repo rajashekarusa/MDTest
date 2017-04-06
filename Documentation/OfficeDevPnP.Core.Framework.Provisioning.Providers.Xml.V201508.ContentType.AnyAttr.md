@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public xmlattribute[] AnyAttr { get; set; }
+public XmlAttribute[] AnyAttr { get; set; }
 ```
 
 ### Property Value

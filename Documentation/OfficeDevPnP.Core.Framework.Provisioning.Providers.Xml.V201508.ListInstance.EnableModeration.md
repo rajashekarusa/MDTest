@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean EnableModeration { get; set; }
+public bool EnableModeration { get; set; }
 ```
 
 ### Property Value

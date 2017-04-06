@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static guid AddWorkflowSubscription(List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
+public static Guid AddWorkflowSubscription(List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
 ```
 ### Parameters
 *list*  
@@ -27,7 +27,7 @@ public static guid AddWorkflowSubscription(List list, WorkflowDefinition workflo
 *(optional) associationValues*  
 &emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 ### Return Value
-Type: System.Guid  
+Type: Guid  
 
 ## See also
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

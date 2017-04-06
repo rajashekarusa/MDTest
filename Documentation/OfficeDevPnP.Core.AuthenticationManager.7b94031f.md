@@ -12,7 +12,7 @@ public string GetAzureADACSEndPointPrefix(AzureEnvironment environment)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;Environment to get the login information for  
 ### Return Value
-Type: System.String  
+Type: string  
 Azure ACS login endpoint prefix
 
 ## See also

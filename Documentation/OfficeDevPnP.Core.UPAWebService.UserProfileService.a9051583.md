@@ -11,7 +11,7 @@ public void add_AddMembershipCompleted(AddMembershipCompletedEventHandler value)
 *value*  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventHandler.md)  
 ### Return Value
-Type: System.Void  
+Type: void  
 
 ## See also
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

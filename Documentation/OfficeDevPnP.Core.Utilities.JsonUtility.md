@@ -6,6 +6,7 @@ Utility class that supports the serialization from Json to type and vice versa
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public static class JsonUtility

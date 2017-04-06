@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public boolean IsImported { get; set; }
+public bool IsImported { get; set; }
 ```
 
 ### Property Value

@@ -15,7 +15,7 @@ public static PnPPackage Open(Stream stream, FileMode mode, FileAccess access)
 *access*  
 &emsp;&emsp;Type: System.IO.FileAccess  
 ### Return Value
-Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md)  
+Type: PnPPackage  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)

@@ -9,7 +9,7 @@ public static LogLevel LogLevel { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Diagnostics.LogLevel  
+Type: [OfficeDevPnP.Core.Diagnostics.LogLevel](OfficeDevPnP.Core.Diagnostics.LogLevel.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

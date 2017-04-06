@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ilist<string> network_domains { get; set; }
+public IList<String> network_domains { get; set; }
 ```
 
 ### Property Value

@@ -9,7 +9,7 @@ public PackageType Type { get; set; }
 ```
 
 ### Property Value
-Type: OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType  
+Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PackageType.md)  
 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)

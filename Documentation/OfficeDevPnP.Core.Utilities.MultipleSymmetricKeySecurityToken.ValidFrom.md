@@ -5,7 +5,7 @@ Gets the first instant in time at which this security token is valid.
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public datetime ValidFrom { get; }
+public DateTime ValidFrom { get; }
 ```
 
 ### Property Value

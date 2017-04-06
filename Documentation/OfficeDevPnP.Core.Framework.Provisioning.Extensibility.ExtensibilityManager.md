@@ -6,6 +6,7 @@ Provisioning Framework Component that is used for invoking custom providers duri
 ## Inheritance Hierarchy
 System.Object  
 
+
 ## Syntax
 ```C#
 public class ExtensibilityManager
@@ -13,7 +14,7 @@ public class ExtensibilityManager
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ExtensibilityManager()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.ctor1.md) | <summary> Provisioning Framework Component that is used for invoking custom providers during the provisioning process. </summary>
+| [ExtensibilityManager()](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.ctor1.md) |  Provisioning Framework Component that is used for invoking custom providers during the provisioning process. 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
