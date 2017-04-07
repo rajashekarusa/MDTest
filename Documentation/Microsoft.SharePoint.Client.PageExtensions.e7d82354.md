@@ -8,15 +8,15 @@ Inserts a web part on a web part page
 public static WebPartDefinition AddWebPartToWebPartPage(Web web, String serverRelativePageUrl, WebPartEntity webPart)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to add the web part on  
 
-*webPart*  
+#### webPart  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md)  
 &emsp;&emsp;Information about the web part to insert  
 
@@ -26,4 +26,6 @@ Returns the added  object
 
 ## See also
 - Microsoft.SharePoint.Client.WebParts.WebPartDefinition
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

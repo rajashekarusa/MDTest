@@ -8,7 +8,7 @@ Ensures that there is a trailing slash at the end of the url
 public static string EnsureTrailingSlash(String urlToProcess)
 ```
 ### Parameters
-*urlToProcess*  
+#### urlToProcess  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

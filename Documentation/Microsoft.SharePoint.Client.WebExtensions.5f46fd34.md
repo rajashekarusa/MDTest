@@ -8,11 +8,11 @@ Determines if a Web (site) exists at the specified full URL, either accessible o
 public static bool WebExistsFullUrl(ClientRuntimeContext context, String webFullUrl)
 ```
 ### Parameters
-*context*  
+#### context  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;Existing context, used to provide credentials.  
 
-*webFullUrl*  
+#### webFullUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Full URL of the site to check.  
 

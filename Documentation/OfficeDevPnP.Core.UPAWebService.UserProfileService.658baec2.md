@@ -8,7 +8,7 @@
 public void GetPropertyChoiceListAsync(String propertyName)
 ```
 ### Parameters
-*propertyName*  
+#### propertyName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

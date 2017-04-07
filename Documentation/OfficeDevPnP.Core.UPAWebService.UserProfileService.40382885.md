@@ -8,7 +8,7 @@
 public void GetUserMembershipsAsync(String accountName)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,10 +8,10 @@
 public static bool ExistsJsLinkImplementation(ClientObject clientObject, String key)
 ```
 ### Parameters
-*clientObject*  
+#### clientObject  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientObject  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

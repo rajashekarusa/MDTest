@@ -8,7 +8,7 @@
 public void AddSection(CanvasSection section)
 ```
 ### Parameters
-*section*  
+#### section  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md)  
 
 ### Return Value

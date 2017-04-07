@@ -8,11 +8,11 @@ Removes an existing image rendition
 public static void RemovePublishingImageRendition(Web web, String imageRenditionName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
 
-*imageRenditionName*  
+#### imageRenditionName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the image rendition  
 

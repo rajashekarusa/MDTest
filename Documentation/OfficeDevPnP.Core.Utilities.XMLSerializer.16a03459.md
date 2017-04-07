@@ -8,10 +8,10 @@ Serializes an object instance to a stream, providing custom namespace prefixes.
 public static Stream SerializeToStream(T objectToSerialize, XmlSerializerNamespaces ns)
 ```
 ### Parameters
-*objectToSerialize*  
+#### objectToSerialize  
 &emsp;&emsp;Type: T  
 
-*ns*  
+#### ns  
 &emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
 
 ### Return Value

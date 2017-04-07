@@ -8,10 +8,10 @@ Returns a workflow definition
 public static WorkflowDefinition GetWorkflowDefinition(Web web, Guid id)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 
 ### Return Value

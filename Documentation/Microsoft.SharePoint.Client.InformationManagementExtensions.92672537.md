@@ -8,7 +8,7 @@ Gets a list of the available site policies
 public static List<SitePolicyEntity> GetSitePolicies(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 

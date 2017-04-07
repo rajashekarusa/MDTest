@@ -8,28 +8,28 @@ Constructs web part definition for Open Graph discussion web part definition
 public static string CreateYammerOpenGraphDiscussionPartXml(String yammerNetworkName, String url, Boolean showHeader, Boolean showFooter, String postTitle, String postImageUrl, Boolean useSso, String groupId)
 ```
 ### Parameters
-*yammerNetworkName*  
+#### yammerNetworkName  
 &emsp;&emsp;Type: System.String  
 
-*url*  
+#### url  
 &emsp;&emsp;Type: System.String  
 
-*showHeader*  
+#### showHeader  
 &emsp;&emsp;Type: System.Boolean  
 
-*showFooter*  
+#### showFooter  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) postTitle*  
+#### (optional) postTitle  
 &emsp;&emsp;Type: System.String  
 
-*(optional) postImageUrl*  
+#### (optional) postImageUrl  
 &emsp;&emsp;Type: System.String  
 
-*(optional) useSso*  
+#### (optional) useSso  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) groupId*  
+#### (optional) groupId  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,7 +8,7 @@ Disables the request access on the web.
 public static void DisableRequestAccess(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to disable request access.  
 

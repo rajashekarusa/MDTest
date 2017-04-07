@@ -8,15 +8,15 @@ Sets a key/value pair in the list property bag
 public static void SetPropertyBagValue(List list, String key, String value)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List that will hold the property bag entry  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key for the property bag entry  
 
-*value*  
+#### value  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String value for the property bag entry  
 

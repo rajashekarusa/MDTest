@@ -8,21 +8,21 @@ Constructs the webpart XML for yammer group needed to inject as Yammer web part 
 public static string CreateYammerGroupDiscussionPartXml(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter, Boolean useSSO)
 ```
 ### Parameters
-*yammerNetworkName*  
+#### yammerNetworkName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the network  
 
-*yammerGroupId*  
+#### yammerGroupId  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Group ID  
 
-*showHeader*  
+#### showHeader  
 &emsp;&emsp;Type: System.Boolean  
 
-*showFooter*  
+#### showFooter  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) useSSO*  
+#### (optional) useSSO  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

@@ -8,7 +8,7 @@ Returns the navigation settings for the selected web
 public static AreaNavigationEntity GetNavigationSettings(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
 ### Return Value

@@ -8,40 +8,40 @@
 public static void SetSiteProperties(Tenant tenant, String siteFullUrl, String title, Nullable<Boolean> allowSelfServiceUpgrade, Nullable<SharingCapabilities> sharingCapability, Nullable<Int64> storageMaximumLevel, Nullable<Int64> storageWarningLevel, Nullable<Double> userCodeMaximumLevel, Nullable<Double> userCodeWarningLevel, Nullable<Boolean> noScriptSite, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.String  
 
-*(optional) title*  
+#### (optional) title  
 &emsp;&emsp;Type: System.String  
 
-*(optional) allowSelfServiceUpgrade*  
+#### (optional) allowSelfServiceUpgrade  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
 
-*(optional) sharingCapability*  
+#### (optional) sharingCapability  
 &emsp;&emsp;Type: System.Nullable<Microsoft.Online.SharePoint.TenantManagement.SharingCapabilities>  
 
-*(optional) storageMaximumLevel*  
+#### (optional) storageMaximumLevel  
 &emsp;&emsp;Type: System.Nullable<System.Int64>  
 
-*(optional) storageWarningLevel*  
+#### (optional) storageWarningLevel  
 &emsp;&emsp;Type: System.Nullable<System.Int64>  
 
-*(optional) userCodeMaximumLevel*  
+#### (optional) userCodeMaximumLevel  
 &emsp;&emsp;Type: System.Nullable<System.Double>  
 
-*(optional) userCodeWarningLevel*  
+#### (optional) userCodeWarningLevel  
 &emsp;&emsp;Type: System.Nullable<System.Double>  
 
-*(optional) noScriptSite*  
+#### (optional) noScriptSite  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
 
-*(optional) wait*  
+#### (optional) wait  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) timeoutFunction*  
+#### (optional) timeoutFunction  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 
 ### Return Value

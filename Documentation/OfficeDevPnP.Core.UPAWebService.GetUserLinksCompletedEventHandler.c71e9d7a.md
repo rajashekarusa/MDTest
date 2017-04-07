@@ -8,10 +8,10 @@
 public void Invoke(Object sender, GetUserLinksCompletedEventArgs e)
 ```
 ### Parameters
-*sender*  
+#### sender  
 &emsp;&emsp;Type: System.Object  
 
-*e*  
+#### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventArgs.md)  
 
 ### Return Value

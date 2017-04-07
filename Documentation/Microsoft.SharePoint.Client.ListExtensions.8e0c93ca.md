@@ -8,11 +8,11 @@ Removes a content type from a list/library by name
 public static void RemoveContentTypeByName(List list, String contentTypeName)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list  
 
-*contentTypeName*  
+#### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The content type name to remove from the list  
 
@@ -20,4 +20,6 @@ public static void RemoveContentTypeByName(List list, String contentTypeName)
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

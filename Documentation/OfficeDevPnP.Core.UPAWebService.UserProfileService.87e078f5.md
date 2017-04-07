@@ -8,7 +8,7 @@
 public void remove_UpdatePinnedLinkCompleted(UpdatePinnedLinkCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdatePinnedLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdatePinnedLinkCompletedEventHandler.md)  
 
 ### Return Value

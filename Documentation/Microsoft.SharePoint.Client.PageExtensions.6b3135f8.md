@@ -8,19 +8,19 @@ Add html to a wiki style page
 public static void AddHtmlToWikiPage(Web web, String folder, String html, String page)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*folder*  
+#### folder  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;System name of the wiki page library - typically sitepages  
 
-*html*  
+#### html  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The html to insert  
 
-*page*  
+#### page  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to add the html on  
 
@@ -28,4 +28,6 @@ public static void AddHtmlToWikiPage(Web web, String folder, String html, String
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

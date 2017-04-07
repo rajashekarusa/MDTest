@@ -8,7 +8,7 @@
 public void add_GetUserProfileSchemaCompleted(GetUserProfileSchemaCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.md)  
 
 ### Return Value

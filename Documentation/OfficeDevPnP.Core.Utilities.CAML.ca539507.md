@@ -8,15 +8,15 @@ Root <View> and <Query> nodes.
 public static string ViewQuery(String whereClause, String orderByClause, Int32 rowLimit)
 ```
 ### Parameters
-*(optional) whereClause*  
+#### (optional) whereClause  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;<Where> node.  
 
-*(optional) orderByClause*  
+#### (optional) orderByClause  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;<OrderBy> node.  
 
-*(optional) rowLimit*  
+#### (optional) rowLimit  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;<RowLimit> node.  
 

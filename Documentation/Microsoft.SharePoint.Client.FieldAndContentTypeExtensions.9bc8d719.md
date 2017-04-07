@@ -8,11 +8,11 @@ Creates field from xml structure which follows the classic feature framework str
 public static void CreateFieldsFromXML(Web web, XDocument xDocument)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
 
-*xDocument*  
+#### xDocument  
 &emsp;&emsp;Type: System.Xml.Linq.XDocument  
 &emsp;&emsp;Actual XML document  
 

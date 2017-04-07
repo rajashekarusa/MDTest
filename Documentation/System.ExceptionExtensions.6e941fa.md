@@ -8,7 +8,7 @@
 public static string ToDetailedString(Exception exception)
 ```
 ### Parameters
-*exception*  
+#### exception  
 &emsp;&emsp;Type: System.Exception  
 
 ### Return Value

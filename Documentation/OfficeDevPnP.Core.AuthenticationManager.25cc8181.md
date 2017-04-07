@@ -8,15 +8,15 @@ Returns a SharePointOnline ClientContext object
 public ClientContext GetSharePointOnlineAuthenticatedContextTenant(String siteUrl, String tenantUser, SecureString tenantUserPassword)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
 
-*tenantUser*  
+#### tenantUser  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;User to be used to instantiate the ClientContext object  
 
-*tenantUserPassword*  
+#### tenantUserPassword  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password (SecureString) of the user used to instantiate the ClientContext object  
 

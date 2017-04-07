@@ -8,7 +8,7 @@ Returns all instances of a workflow for this subscription
 public static WorkflowInstanceCollection GetInstances(WorkflowSubscription subscription)
 ```
 ### Parameters
-*subscription*  
+#### subscription  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
 
 ### Return Value

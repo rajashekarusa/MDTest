@@ -8,11 +8,11 @@ Used to compare the server file to the local file. This enables users with faste
 public static bool VerifyIfUploadRequired(File serverFile, String localFile)
 ```
 ### Parameters
-*serverFile*  
+#### serverFile  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
 &emsp;&emsp;File located on the server.  
 
-*localFile*  
+#### localFile  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;File to validate against.  
 

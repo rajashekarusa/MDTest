@@ -8,11 +8,11 @@ Checks if list exists on the particular site based on the list's site relative p
 public static bool ListExists(Web web, Uri siteRelativeUrlPath)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*siteRelativeUrlPath*  
+#### siteRelativeUrlPath  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site relative path of the list  
 

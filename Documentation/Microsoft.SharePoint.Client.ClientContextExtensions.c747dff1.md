@@ -8,7 +8,7 @@ Checks if the used ClientContext is app-only
 public static bool IsAppOnly(ClientRuntimeContext clientContext)
 ```
 ### Parameters
-*clientContext*  
+#### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;The ClientContext to inspect  
 

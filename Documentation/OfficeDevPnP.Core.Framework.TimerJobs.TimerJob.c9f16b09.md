@@ -8,7 +8,7 @@ Adds a site Url or wildcard site Url to the collection of sites that the timer j
 public void AddSite(String site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site Url or wildcard site Url to be processed by the timer job  
 

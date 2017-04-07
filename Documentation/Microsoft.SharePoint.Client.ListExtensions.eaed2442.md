@@ -8,13 +8,13 @@ Create list views based on xml structure loaded to memory
 public static void CreateViewsFromXML(Web web, String listUrl, XmlDocument xmlDoc)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*listUrl*  
+#### listUrl  
 &emsp;&emsp;Type: System.String  
 
-*xmlDoc*  
+#### xmlDoc  
 &emsp;&emsp;Type: System.Xml.XmlDocument  
 
 ### Return Value

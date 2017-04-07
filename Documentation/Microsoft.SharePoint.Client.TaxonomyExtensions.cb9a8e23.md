@@ -8,15 +8,15 @@ Finds a termset by name
 public static TermSetCollection GetTermSetsByName(Site site, String name, Int32 lcid)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the termset  
 
-*(optional) lcid*  
+#### (optional) lcid  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The locale ID for the termset to return, defaults to 1033  
 

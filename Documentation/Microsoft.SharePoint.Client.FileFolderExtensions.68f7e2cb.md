@@ -8,11 +8,11 @@ Gets a file in a document library.
 public static File GetFile(Folder folder, String fileName)
 ```
 ### Parameters
-*folder*  
+#### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder containing the target file.  
 
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;File name.  
 

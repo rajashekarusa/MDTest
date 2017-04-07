@@ -8,15 +8,15 @@ Get DateTime typed property bag value. If does not contain, returns default valu
 public static Nullable<DateTime> GetPropertyBagValueDateTime(Web web, String key, DateTime defaultValue)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to read the property bag value from  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to return  
 
-*defaultValue*  
+#### defaultValue  
 &emsp;&emsp;Type: System.DateTime  
 
 ### Return Value

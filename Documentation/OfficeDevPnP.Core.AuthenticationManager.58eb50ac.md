@@ -8,19 +8,19 @@ Returns an app only ClientContext object
 public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId, String appSecret, AzureEnvironment environment)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
 
-*appId*  
+#### appId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Application ID which is requesting the ClientContext object  
 
-*appSecret*  
+#### appSecret  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Application secret of the Application which is requesting the ClientContext object  
 
-*(optional) environment*  
+#### (optional) environment  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;SharePoint environment being used  
 

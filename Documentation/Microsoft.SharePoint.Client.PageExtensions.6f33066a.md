@@ -8,15 +8,15 @@ Adds a client side "modern" page to a "classic" or "modern" site
 public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean alreadyPersist)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to add the page to  
 
-*pageName*  
+#### pageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name (e.g. demo.aspx) of the page to be added  
 
-*(optional) alreadyPersist*  
+#### (optional) alreadyPersist  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Already persist the created, empty, page before returning the instantiated  instance  
 

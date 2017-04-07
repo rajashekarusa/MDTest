@@ -8,11 +8,11 @@ Gets the named term group, if it exists in the term store.
 public static TermGroup GetTermGroupByName(TermStore termStore, String groupName)
 ```
 ### Parameters
-*termStore*  
+#### termStore  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermStore  
 &emsp;&emsp;The term store to use  
 
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the term group  
 

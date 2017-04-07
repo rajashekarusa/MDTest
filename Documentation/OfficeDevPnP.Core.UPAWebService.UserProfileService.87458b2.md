@@ -8,7 +8,7 @@
 public void add_GetUserMembershipsCompleted(GetUserMembershipsCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.md)  
 
 ### Return Value

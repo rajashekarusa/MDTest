@@ -8,11 +8,11 @@ Does content type exist in list
 public static bool ContentTypeExistsById(List list, String contentTypeId)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
 
-*contentTypeId*  
+#### contentTypeId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 

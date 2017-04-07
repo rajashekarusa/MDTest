@@ -8,10 +8,10 @@
 public void RemoveColleagueAsync(String accountName, String colleagueAccountName)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*colleagueAccountName*  
+#### colleagueAccountName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

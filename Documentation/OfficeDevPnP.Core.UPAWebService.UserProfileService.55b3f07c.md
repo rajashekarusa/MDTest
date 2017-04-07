@@ -8,7 +8,7 @@
 public void add_CreateMemberGroupCompleted(CreateMemberGroupCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.CreateMemberGroupCompletedEventHandler.md)  
 
 ### Return Value

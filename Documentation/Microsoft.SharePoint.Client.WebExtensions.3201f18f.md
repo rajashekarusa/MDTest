@@ -8,7 +8,7 @@ Gets the collection of the URLs of all Web sites that are contained within the s
 public static IEnumerable<String> GetAllWebUrls(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to retrieve the URLs for.  
 

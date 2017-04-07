@@ -8,7 +8,7 @@
 public bool Equals(SiteSecurity other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md)  
 
 ### Return Value

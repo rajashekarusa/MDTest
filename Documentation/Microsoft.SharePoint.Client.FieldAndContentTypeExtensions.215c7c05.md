@@ -8,10 +8,10 @@
 public static void ReorderContentTypes(List list, IEnumerable<String> contentTypeNamesOrIds)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*contentTypeNamesOrIds*  
+#### contentTypeNamesOrIds  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 
 ### Return Value

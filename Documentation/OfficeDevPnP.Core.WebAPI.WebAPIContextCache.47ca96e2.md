@@ -8,11 +8,11 @@ Adds an item to the cache. Updates if the item already existed
 public void Put(String cacheKey, WebAPIContexCacheItem sharePointServiceContextCacheItem)
 ```
 ### Parameters
-*cacheKey*  
+#### cacheKey  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key to cache the item  
 
-*sharePointServiceContextCacheItem*  
+#### sharePointServiceContextCacheItem  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)  
 &emsp;&emsp;A  object  
 

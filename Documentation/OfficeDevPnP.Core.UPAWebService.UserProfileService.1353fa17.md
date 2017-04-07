@@ -8,7 +8,7 @@
 public void add_AddColleagueCompleted(AddColleagueCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventHandler.md)  
 
 ### Return Value

@@ -8,13 +8,13 @@ Returns a workflow definition for a site
 public static WorkflowDefinition GetWorkflowDefinition(Web web, String displayName, Boolean publishedOnly)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*displayName*  
+#### displayName  
 &emsp;&emsp;Type: System.String  
 
-*(optional) publishedOnly*  
+#### (optional) publishedOnly  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

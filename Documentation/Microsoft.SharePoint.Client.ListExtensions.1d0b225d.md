@@ -8,7 +8,7 @@ Gets the web relative URL. Allow users to get the web relative URL of a list. Th
 public static string GetWebRelativeUrl(List list)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to export the URL of.  
 

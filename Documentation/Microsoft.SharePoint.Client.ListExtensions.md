@@ -62,5 +62,8 @@ public static class ListExtensions
 ```
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
+- System.InvalidOperationException
 - [http://blogs.msdn.com/b/vesku/archive/2014/03/20/office365-multilingual-content-types-site-columns-and-site-other-elements.aspx](http://blogs.msdn.com/b/vesku/archive/2014/03/20/office365-multilingual-content-types-site-columns-and-site-other-elements.aspx)
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

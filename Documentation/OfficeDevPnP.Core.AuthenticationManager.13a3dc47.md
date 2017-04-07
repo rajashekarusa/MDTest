@@ -8,7 +8,7 @@ Get's the Azure AD login end point for the given environment
 public string GetAzureADLoginEndPoint(AzureEnvironment environment)
 ```
 ### Parameters
-*environment*  
+#### environment  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;Environment to get the login information for  
 

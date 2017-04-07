@@ -8,7 +8,7 @@
 public bool Equals(Publishing other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md)  
 
 ### Return Value

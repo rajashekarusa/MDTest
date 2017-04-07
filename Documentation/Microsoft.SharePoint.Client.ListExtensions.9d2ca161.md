@@ -8,7 +8,7 @@ Queues a list for a full crawl the next incremental crawl
 public static void ReIndexList(List list)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
 ### Return Value

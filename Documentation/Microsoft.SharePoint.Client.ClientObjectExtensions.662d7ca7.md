@@ -8,10 +8,10 @@
 public static void EnsureProperties(T clientObject, Expression<Func<T, Object>>[] propertySelector)
 ```
 ### Parameters
-*clientObject*  
+#### clientObject  
 &emsp;&emsp;Type: T  
 
-*propertySelector*  
+#### propertySelector  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>[]  
 &emsp;&emsp;Lamda expressions containing the properties to ensure (e.g. w => w.HasUniqueRoleAssignments, w => w.ServerRelativeUrl)  
 

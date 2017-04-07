@@ -8,11 +8,11 @@ Finds a termgroup by name
 public static TermGroup GetTermGroupByName(Site site, String name)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the termgroup  
 

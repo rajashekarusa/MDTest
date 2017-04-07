@@ -8,7 +8,7 @@
 public void AddControl(CanvasControl control)
 ```
 ### Parameters
-*control*  
+#### control  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)  
 
 ### Return Value

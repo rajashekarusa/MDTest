@@ -8,10 +8,10 @@
 public void Invoke(Object sender, AddMembershipCompletedEventArgs e)
 ```
 ### Parameters
-*sender*  
+#### sender  
 &emsp;&emsp;Type: System.Object  
 
-*e*  
+#### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddMembershipCompletedEventArgs.md)  
 
 ### Return Value

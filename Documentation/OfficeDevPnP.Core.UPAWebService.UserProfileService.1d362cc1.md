@@ -8,7 +8,7 @@
 public void remove_AddSuggestionsCompleted(AddSuggestionsCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddSuggestionsCompletedEventHandler.md)  
 
 ### Return Value

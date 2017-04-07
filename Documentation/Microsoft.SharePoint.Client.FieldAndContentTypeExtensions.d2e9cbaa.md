@@ -8,19 +8,19 @@ Add content type to list
 public static bool AddContentTypeToListById(List list, String contentTypeID, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to add content type to  
 
-*contentTypeID*  
+#### contentTypeID  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 
-*(optional) defaultContent*  
+#### (optional) defaultContent  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
 
-*(optional) searchContentTypeInSiteHierarchy*  
+#### (optional) searchContentTypeInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;search for content type in site hierarchy  
 

@@ -8,7 +8,7 @@
 public bool Equals(RoleDefinition other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md)  
 
 ### Return Value

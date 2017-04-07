@@ -8,7 +8,7 @@ Formats a fieldcreationinformation object into Field CAML xml.
 public static string FormatFieldXml(FieldCreationInformation fieldCreationInformation)
 ```
 ### Parameters
-*fieldCreationInformation*  
+#### fieldCreationInformation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)  
 
 ### Return Value

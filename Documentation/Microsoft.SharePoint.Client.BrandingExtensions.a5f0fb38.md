@@ -8,17 +8,19 @@ Can be used to set master page and custom master page in single command
 public static void SetMasterPagesByUrl(Web web, String masterPageUrl, String customMasterPageUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*masterPageUrl*  
+#### masterPageUrl  
 &emsp;&emsp;Type: System.String  
 
-*customMasterPageUrl*  
+#### customMasterPageUrl  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

@@ -8,7 +8,7 @@ Checks if this list has active in place records management settings defined
 public static bool IsListRecordSettingDefined(List list)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
 

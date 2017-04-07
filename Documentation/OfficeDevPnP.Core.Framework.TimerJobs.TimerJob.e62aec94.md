@@ -8,15 +8,15 @@ Provides the timer job with the enumeration credentials. For SharePoint on-premi
 public void SetEnumerationCredentials(String samAccountName, SecureString password, String domain)
 ```
 ### Parameters
-*samAccountName*  
+#### samAccountName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Account name of the enumeration user  
 
-*password*  
+#### password  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password of the enumeration user  
 
-*domain*  
+#### domain  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Domain of the enumeration user  
 

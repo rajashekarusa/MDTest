@@ -8,7 +8,7 @@
 public void add_PropertyChanged(PropertyChangedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: System.ComponentModel.PropertyChangedEventHandler  
 
 ### Return Value

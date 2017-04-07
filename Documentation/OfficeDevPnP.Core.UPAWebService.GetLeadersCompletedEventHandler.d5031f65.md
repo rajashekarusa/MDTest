@@ -8,10 +8,10 @@
 public void Invoke(Object sender, GetLeadersCompletedEventArgs e)
 ```
 ### Parameters
-*sender*  
+#### sender  
 &emsp;&emsp;Type: System.Object  
 
-*e*  
+#### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventArgs.md)  
 
 ### Return Value

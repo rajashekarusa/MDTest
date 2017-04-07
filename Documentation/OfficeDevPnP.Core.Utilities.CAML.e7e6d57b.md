@@ -8,16 +8,16 @@ Creates both a <FieldRef> and <Value> nodes combination for Where clauses.
 public static string FieldValue(Guid fieldId, String fieldValueType, String value, String additionalFieldRefParams)
 ```
 ### Parameters
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 
-*fieldValueType*  
+#### fieldValueType  
 &emsp;&emsp;Type: System.String  
 
-*value*  
+#### value  
 &emsp;&emsp;Type: System.String  
 
-*(optional) additionalFieldRefParams*  
+#### (optional) additionalFieldRefParams  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

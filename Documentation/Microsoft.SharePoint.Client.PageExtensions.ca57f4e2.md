@@ -8,27 +8,29 @@ Sets a web part property
 public static void SetWebPartProperty(Web web, String key, String value, Guid id, String serverRelativePageUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to update  
 
-*value*  
+#### value  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The value to set  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the webpart  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

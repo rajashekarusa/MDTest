@@ -8,7 +8,7 @@ Returns the default keywords termstore for the current site
 public static TermStore GetDefaultKeywordsTermStore(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
 ### Return Value

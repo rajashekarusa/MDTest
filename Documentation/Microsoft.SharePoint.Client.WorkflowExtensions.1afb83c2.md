@@ -8,7 +8,7 @@ Cancels a workflow instance
 public static void CancelWorkFlow(WorkflowInstance instance)
 ```
 ### Parameters
-*instance*  
+#### instance  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
 
 ### Return Value

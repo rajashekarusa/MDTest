@@ -8,7 +8,7 @@
 public static ClientSidePage FromHtml(String html)
 ```
 ### Parameters
-*html*  
+#### html  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

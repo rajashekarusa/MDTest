@@ -8,19 +8,19 @@ Creates an Image Rendition if the name of the Image Rendition doesn't already ex
 public static void CreatePublishingImageRendition(Web web, String imageRenditionName, Int32 imageRenditionWidth, Int32 imageRenditionHeight)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
 
-*imageRenditionName*  
+#### imageRenditionName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The display name of the Image Rendition  
 
-*imageRenditionWidth*  
+#### imageRenditionWidth  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The width of the Image Rendition  
 
-*imageRenditionHeight*  
+#### imageRenditionHeight  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The height of the Image Rendition  
 

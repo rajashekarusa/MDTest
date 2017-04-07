@@ -8,7 +8,7 @@ Get the search center url for the site collection (Site Settings -> Site collect
 public static string GetSiteCollectionSearchCenterUrl(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint site - root web  
 

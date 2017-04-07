@@ -8,11 +8,11 @@ Master page is set by using master page name. Master page is set from the curren
 public static void SetCustomMasterPageByName(Web web, String masterPageName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Current web  
 
-*masterPageName*  
+#### masterPageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the master page. Path is resolved from this.  
 
@@ -20,4 +20,6 @@ public static void SetCustomMasterPageByName(Web web, String masterPageName)
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

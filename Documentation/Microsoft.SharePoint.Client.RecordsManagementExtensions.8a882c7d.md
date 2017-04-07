@@ -8,7 +8,7 @@ Gets who can declare records
 public static EcmRecordDeclarationBy GetRecordDeclarationBy(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

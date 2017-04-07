@@ -8,13 +8,13 @@
 public static Folder EnsureFolder(Folder parentFolder, String folderName, Expression<Func<Folder, Object>>[] expressions)
 ```
 ### Parameters
-*parentFolder*  
+#### parentFolder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 
-*folderName*  
+#### folderName  
 &emsp;&emsp;Type: System.String  
 
-*expressions*  
+#### expressions  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder, System.Object>>[]  
 
 ### Return Value

@@ -8,7 +8,7 @@
 public GetUserProfileByIndexResult GetUserProfileByIndex(Int32 index)
 ```
 ### Parameters
-*index*  
+#### index  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

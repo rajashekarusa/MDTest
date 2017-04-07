@@ -8,10 +8,10 @@
 public void UpdateLink(String accountName, QuickLinkData data)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*data*  
+#### data  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData](OfficeDevPnP.Core.UPAWebService.QuickLinkData.md)  
 
 ### Return Value

@@ -8,7 +8,7 @@
 public void add_RemoveAllColleaguesCompleted(RemoveAllColleaguesCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveAllColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllColleaguesCompletedEventHandler.md)  
 
 ### Return Value

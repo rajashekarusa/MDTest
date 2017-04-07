@@ -8,7 +8,7 @@ Resumes a workflow
 public static void ResumeWorkflow(WorkflowInstance instance)
 ```
 ### Parameters
-*instance*  
+#### instance  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
 
 ### Return Value

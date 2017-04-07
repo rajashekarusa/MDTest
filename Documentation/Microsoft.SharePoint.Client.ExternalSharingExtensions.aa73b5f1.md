@@ -8,19 +8,19 @@ Invites an external user as a group member
 public static SharingResult InviteExternalUser(Group group, String email, Boolean sendEmail, String emailBody)
 ```
 ### Parameters
-*group*  
+#### group  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group to add the user to  
 
-*email*  
+#### email  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The email address of the external user  
 
-*(optional) sendEmail*  
+#### (optional) sendEmail  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Should we send an email to the given address  
 
-*(optional) emailBody*  
+#### (optional) emailBody  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added to the email  
 

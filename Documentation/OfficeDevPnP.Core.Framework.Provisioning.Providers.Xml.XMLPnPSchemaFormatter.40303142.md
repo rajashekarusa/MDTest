@@ -8,7 +8,7 @@ Static method to retrieve a specific XMLPnPSchemaFormatter instance
 public static ITemplateFormatter GetSpecificFormatter(String namespaceUri)
 ```
 ### Parameters
-*namespaceUri*  
+#### namespaceUri  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

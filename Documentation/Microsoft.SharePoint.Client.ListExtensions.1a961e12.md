@@ -8,31 +8,31 @@ Create view to existing list
 public static View CreateView(List list, String viewName, ViewType viewType, String[] viewFields, UInt32 rowLimit, Boolean setAsDefault, String query, Boolean personal, Boolean paged)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*viewName*  
+#### viewName  
 &emsp;&emsp;Type: System.String  
 
-*viewType*  
+#### viewType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ViewType  
 
-*viewFields*  
+#### viewFields  
 &emsp;&emsp;Type: System.String[]  
 
-*rowLimit*  
+#### rowLimit  
 &emsp;&emsp;Type: System.UInt32  
 
-*setAsDefault*  
+#### setAsDefault  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) query*  
+#### (optional) query  
 &emsp;&emsp;Type: System.String  
 
-*(optional) personal*  
+#### (optional) personal  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) paged*  
+#### (optional) paged  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

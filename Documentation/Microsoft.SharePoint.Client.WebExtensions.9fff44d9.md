@@ -8,11 +8,11 @@ Returns all site collection that match with the provided title
 public static List<SiteEntity> SiteSearchScopedByTitle(Web web, String siteTitle)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*siteTitle*  
+#### siteTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the site to search for  
 

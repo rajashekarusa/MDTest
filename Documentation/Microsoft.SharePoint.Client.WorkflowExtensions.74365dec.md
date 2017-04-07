@@ -8,7 +8,7 @@ Returns all the workflow subscriptions (associations) for the web and the lists 
 public static WorkflowSubscription[] GetWorkflowSubscriptions(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target Web  
 

@@ -8,11 +8,11 @@ Checks if the subfolder exists.
 public static bool FolderExists(Folder parentFolder, String folderName)
 ```
 ### Parameters
-*parentFolder*  
+#### parentFolder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Parent folder to check for the named subfolder  
 
-*folderName*  
+#### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve  
 

@@ -8,13 +8,13 @@ Creates a new document set as a child of an existing folder, with the specified 
 public static Folder CreateDocumentSet(Folder folder, String documentSetName, ContentTypeId contentTypeId)
 ```
 ### Parameters
-*folder*  
+#### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 
-*documentSetName*  
+#### documentSetName  
 &emsp;&emsp;Type: System.String  
 
-*contentTypeId*  
+#### contentTypeId  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentTypeId  
 &emsp;&emsp;Content type of the document set  
 

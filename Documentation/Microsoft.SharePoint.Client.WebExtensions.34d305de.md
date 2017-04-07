@@ -8,11 +8,11 @@ Deletes the child website with the specified leaf URL, from a parent Web, if it 
 public static bool DeleteWeb(Web parentWeb, String leafUrl)
 ```
 ### Parameters
-*parentWeb*  
+#### parentWeb  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The parent Web (site) to delete from  
 
-*leafUrl*  
+#### leafUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
 

@@ -8,7 +8,7 @@ Gets a file as string from the default container
 public string GetFile(String fileName)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
 

@@ -8,11 +8,11 @@ Returns if the field is found
 public static bool FieldExistsById(List list, Guid fieldId)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Guid of the field ID  
 

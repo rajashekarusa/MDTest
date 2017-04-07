@@ -8,11 +8,11 @@ Returns a list all external users for a given site that have at least the viewpa
 public static List<ExternalUserEntity> GetExternalUsersForSiteTenant(Web web, Uri siteUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
 
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Url of the site fetch the external users for  
 

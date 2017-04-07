@@ -8,10 +8,10 @@ Checks if an enumerated type is missing a value
 public static bool Missing(Enum obj, T value)
 ```
 ### Parameters
-*obj*  
+#### obj  
 &emsp;&emsp;Type: System.Enum  
 
-*value*  
+#### value  
 &emsp;&emsp;Type: T  
 
 ### Return Value

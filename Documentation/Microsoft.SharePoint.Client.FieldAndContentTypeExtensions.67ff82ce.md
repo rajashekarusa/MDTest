@@ -8,11 +8,11 @@ Field exists in list by name
 public static bool FieldExistsByName(List list, String fieldName)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
 
-*fieldName*  
+#### fieldName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Internal name of the field  
 

@@ -8,10 +8,10 @@
 public ProvisioningTemplate GetTemplate(String uri, String identifier)
 ```
 ### Parameters
-*uri*  
+#### uri  
 &emsp;&emsp;Type: System.String  
 
-*identifier*  
+#### identifier  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,10 +8,10 @@
 public void LogInfo(String message, Object[] args)
 ```
 ### Parameters
-*message*  
+#### message  
 &emsp;&emsp;Type: System.String  
 
-*args*  
+#### args  
 &emsp;&emsp;Type: System.Object[]  
 
 ### Return Value

@@ -8,13 +8,13 @@ Can be used to create Yammer group to the Yammer network
 public static YammerGroup CreateYammerGroup(String groupName, Boolean isPrivate, String accessToken)
 ```
 ### Parameters
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 
-*isPrivate*  
+#### isPrivate  
 &emsp;&emsp;Type: System.Boolean  
 
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

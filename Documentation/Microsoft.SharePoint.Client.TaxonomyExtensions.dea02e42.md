@@ -8,25 +8,25 @@
 public static TermSet ImportTermSet(TermGroup termGroup, Stream termSetData, Guid termSetId, Boolean synchroniseDeletions, Nullable<Boolean> termSetIsOpen, String termSetContact, String termSetOwner)
 ```
 ### Parameters
-*termGroup*  
+#### termGroup  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 
-*termSetData*  
+#### termSetData  
 &emsp;&emsp;Type: System.IO.Stream  
 
-*(optional) termSetId*  
+#### (optional) termSetId  
 &emsp;&emsp;Type: System.Guid  
 
-*(optional) synchroniseDeletions*  
+#### (optional) synchroniseDeletions  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) termSetIsOpen*  
+#### (optional) termSetIsOpen  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
 
-*(optional) termSetContact*  
+#### (optional) termSetContact  
 &emsp;&emsp;Type: System.String  
 
-*(optional) termSetOwner*  
+#### (optional) termSetOwner  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

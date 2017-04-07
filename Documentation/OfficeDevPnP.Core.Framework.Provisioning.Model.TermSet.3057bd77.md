@@ -8,7 +8,7 @@
 public bool Equals(TermSet other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md)  
 
 ### Return Value

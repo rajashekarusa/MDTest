@@ -21,4 +21,6 @@ public static class PublishingExtensions
 | [GetPublishingPage(Web, String, Folder)](Microsoft.SharePoint.Client.PublishingExtensions.b3f6e3da.md) | Gets a Publishing Page from any folder in the Pages library.
 | [RemovePublishingImageRendition(Web, String)](Microsoft.SharePoint.Client.PublishingExtensions.178a9a4.md) | Removes an existing image rendition
 ## See also
+- System.ArgumentNullException
+- System.ArgumentException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

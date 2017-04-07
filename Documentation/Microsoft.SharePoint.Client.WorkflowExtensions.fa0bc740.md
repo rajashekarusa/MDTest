@@ -8,7 +8,7 @@ Deletes a workflow definition
 public static void Delete(WorkflowDefinition definition)
 ```
 ### Parameters
-*definition*  
+#### definition  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
 
 ### Return Value

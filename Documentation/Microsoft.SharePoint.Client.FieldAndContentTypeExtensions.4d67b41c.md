@@ -8,23 +8,23 @@ Set localized labels for content type
 public static void SetLocalizationForContentType(List list, String contentTypeId, String cultureName, String nameResource, String descriptionResource)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
 
-*contentTypeId*  
+#### contentTypeId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 
-*cultureName*  
+#### cultureName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture for the localization (en-es, nl-be, fi-fi,...)  
 
-*nameResource*  
+#### nameResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Name property  
 
-*descriptionResource*  
+#### descriptionResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Description property  
 

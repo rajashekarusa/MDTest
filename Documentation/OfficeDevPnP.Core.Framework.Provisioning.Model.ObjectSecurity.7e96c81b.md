@@ -8,7 +8,7 @@
 public bool Equals(ObjectSecurity other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
 
 ### Return Value

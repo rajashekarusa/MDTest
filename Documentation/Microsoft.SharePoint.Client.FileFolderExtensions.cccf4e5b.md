@@ -8,11 +8,11 @@ Returns a file as string
 public static string GetFileAsString(Web web, String serverRelativeUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web to process  
 
-*serverRelativeUrl*  
+#### serverRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The server relative url to the file  
 

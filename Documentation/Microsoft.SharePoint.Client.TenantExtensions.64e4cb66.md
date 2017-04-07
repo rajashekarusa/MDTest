@@ -8,11 +8,11 @@ Gets the ID of site collection with specified URL
 public static Guid GetSiteGuidByUrl(Tenant tenant, Uri siteFullUrl)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;A URL that specifies a site collection to get ID.  
 

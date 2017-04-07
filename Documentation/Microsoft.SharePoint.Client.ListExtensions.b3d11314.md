@@ -8,7 +8,7 @@
 public static List<Dictionary<String, String>> GetDefaultColumnValues(List list)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
 ### Return Value

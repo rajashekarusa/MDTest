@@ -8,10 +8,10 @@
 public static void SetDefaultColumnValues(List list, IEnumerable<IDefaultColumnValue> columnValues)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*columnValues*  
+#### columnValues  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.IDefaultColumnValue>  
 
 ### Return Value

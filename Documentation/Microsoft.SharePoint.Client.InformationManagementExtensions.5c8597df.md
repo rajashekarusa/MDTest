@@ -8,7 +8,7 @@ Open a site, if it has a site policy applied and is currently closed
 public static bool SetOpenBySitePolicy(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
 ### Return Value

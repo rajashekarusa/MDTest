@@ -8,10 +8,10 @@ Returns a workflow subscription (associations) for a list
 public static WorkflowSubscription GetWorkflowSubscription(List list, String name)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,23 +8,23 @@ Set localized labels for field
 public static void SetLocalizationForField(Web web, Guid siteColumnId, String cultureName, String titleResource, String descriptionResource)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 
-*siteColumnId*  
+#### siteColumnId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Guid with the site column ID  
 
-*cultureName*  
+#### cultureName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture for the localization (en-es, nl-be, fi-fi,...)  
 
-*titleResource*  
+#### titleResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Title property  
 
-*descriptionResource*  
+#### descriptionResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Description property  
 

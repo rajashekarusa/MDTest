@@ -8,11 +8,11 @@ Checks if a sub site exists
 public static bool SubSiteExists(Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL to the sub site  
 

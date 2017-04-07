@@ -8,10 +8,10 @@
 public static string And(String clause1, String[] conditionClauses)
 ```
 ### Parameters
-*clause1*  
+#### clause1  
 &emsp;&emsp;Type: System.String  
 
-*conditionClauses*  
+#### conditionClauses  
 &emsp;&emsp;Type: System.String[]  
 
 ### Return Value

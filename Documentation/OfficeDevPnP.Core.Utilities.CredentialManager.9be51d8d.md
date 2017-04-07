@@ -8,7 +8,7 @@ Returns a NetworkCredential given a certain name. Add the credential in the Wind
 public static NetworkCredential GetCredential(String name)
 ```
 ### Parameters
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

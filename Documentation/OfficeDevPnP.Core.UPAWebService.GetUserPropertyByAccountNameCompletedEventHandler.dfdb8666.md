@@ -8,10 +8,10 @@
 public void Invoke(Object sender, GetUserPropertyByAccountNameCompletedEventArgs e)
 ```
 ### Parameters
-*sender*  
+#### sender  
 &emsp;&emsp;Type: System.Object  
 
-*e*  
+#### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventArgs.md)  
 
 ### Return Value

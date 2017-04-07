@@ -8,10 +8,10 @@
 public string ParseString(String input, String[] tokensToSkip)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.String  
 
-*tokensToSkip*  
+#### tokensToSkip  
 &emsp;&emsp;Type: System.String[]  
 
 ### Return Value

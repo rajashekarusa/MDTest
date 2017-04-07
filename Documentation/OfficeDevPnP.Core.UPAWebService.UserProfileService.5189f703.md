@@ -8,10 +8,10 @@
 public void RemovePinnedLinkAsync(String accountName, Int32 id)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

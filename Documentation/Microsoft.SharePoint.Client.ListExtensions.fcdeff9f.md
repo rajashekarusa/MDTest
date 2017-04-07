@@ -8,11 +8,11 @@ Returns an event receiver definition
 public static EventReceiverDefinition GetEventReceiverByName(List list, String name)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to process  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

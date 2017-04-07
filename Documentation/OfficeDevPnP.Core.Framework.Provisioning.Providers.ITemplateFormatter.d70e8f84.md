@@ -8,7 +8,7 @@ Method to convert a formatted template into a ProvisioningTemplate
 public ProvisioningTemplate ToProvisioningTemplate(Stream template)
 ```
 ### Parameters
-*template*  
+#### template  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The input formatted template as a Stream  
 

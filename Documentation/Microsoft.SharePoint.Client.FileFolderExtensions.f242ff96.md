@@ -8,11 +8,11 @@ Checks if a specific folder exists
 public static bool DoesFolderExists(Web web, String serverRelativeFolderUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*serverRelativeFolderUrl*  
+#### serverRelativeFolderUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder to check  
 

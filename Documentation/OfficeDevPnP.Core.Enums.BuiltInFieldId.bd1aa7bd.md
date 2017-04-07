@@ -8,7 +8,7 @@ This method returns a Boolean value that specifies whether or not the current ob
 public static bool Contains(Guid fid)
 ```
 ### Parameters
-*fid*  
+#### fid  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;File identifier.  
 

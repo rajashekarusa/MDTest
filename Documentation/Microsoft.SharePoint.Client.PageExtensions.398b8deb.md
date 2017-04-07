@@ -8,11 +8,11 @@ Loads a client side "modern" page
 public static ClientSidePage LoadClientSidePage(Web web, String pageName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to load the page from  
 
-*pageName*  
+#### pageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name (e.g. demo.aspx) of the page to be loaded  
 

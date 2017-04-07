@@ -8,11 +8,11 @@ Returns Yammer Group if group exists. If the group does not exist, returns null.
 public static YammerGroup GetYammerGroupById(Int32 groupId, String accessToken)
 ```
 ### Parameters
-*groupId*  
+#### groupId  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Group Id to search for  
 
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

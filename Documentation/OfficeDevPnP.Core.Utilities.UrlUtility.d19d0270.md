@@ -8,7 +8,7 @@
 public static bool IsIisVirtualDirectory(String url)
 ```
 ### Parameters
-*url*  
+#### url  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

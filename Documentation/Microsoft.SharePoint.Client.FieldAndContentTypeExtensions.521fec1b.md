@@ -8,11 +8,11 @@ Create a content type based on the classic feature framework structure.
 public static ContentType CreateContentTypeFromXMLFile(Web web, String absolutePathToFile)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*absolutePathToFile*  
+#### absolutePathToFile  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Absolute path to the xml location  
 

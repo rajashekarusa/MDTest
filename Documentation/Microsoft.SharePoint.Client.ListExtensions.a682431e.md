@@ -8,13 +8,13 @@ Creates views based on specific xml structure from string
 public static void CreateViewsFromXMLString(Web web, String listUrl, String xmlString)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*listUrl*  
+#### listUrl  
 &emsp;&emsp;Type: System.String  
 
-*xmlString*  
+#### xmlString  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

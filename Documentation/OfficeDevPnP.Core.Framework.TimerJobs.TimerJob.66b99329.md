@@ -8,15 +8,15 @@ Prepares the timerjob to operate against SharePoint on-premises with user name p
 public void UseNetworkCredentialsAuthentication(String samAccountName, SecureString password, String domain)
 ```
 ### Parameters
-*samAccountName*  
+#### samAccountName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;samAccontName of the windows user  
 
-*password*  
+#### password  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password of the windows user  
 
-*domain*  
+#### domain  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;NT domain of the windows user  
 

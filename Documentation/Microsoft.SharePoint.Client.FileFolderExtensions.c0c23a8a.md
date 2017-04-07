@@ -8,19 +8,19 @@ Checks in a file
 public static void CheckInFile(Web web, String serverRelativeUrl, CheckinType checkinType, String comment)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*serverRelativeUrl*  
+#### serverRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The server relative url of the file to checkin  
 
-*checkinType*  
+#### checkinType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.CheckinType  
 &emsp;&emsp;The type of the checkin  
 
-*comment*  
+#### comment  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Message to be recorded with the approval  
 

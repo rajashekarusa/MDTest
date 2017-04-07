@@ -8,19 +8,19 @@ Deletes an Office 365 Group (i.e. Unified Group)
 public static void DeleteUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
-*groupId*  
+#### groupId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The ID of the Office 365 Group  
 
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The OAuth 2.0 Access Token to use for invoking the Microsoft Graph  
 
-*(optional) retryCount*  
+#### (optional) retryCount  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Number of times to retry the request in case of throttling  
 
-*(optional) delay*  
+#### (optional) delay  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 

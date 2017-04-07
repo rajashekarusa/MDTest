@@ -8,11 +8,11 @@ Returns a SharePoint ClientContext using Azure Active Directory authentication. 
 public ClientContext GetAzureADAccessTokenAuthenticatedContext(String siteUrl, String accessToken)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
 
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;An explicit value for the AccessToken  
 

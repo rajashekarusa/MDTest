@@ -8,7 +8,7 @@ Gets the site expiration date
 public static DateTime GetSiteExpirationDate(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 

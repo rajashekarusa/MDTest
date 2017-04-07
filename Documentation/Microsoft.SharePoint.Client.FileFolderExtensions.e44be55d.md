@@ -8,11 +8,11 @@ Checks if the folder exists at the top level of the web site.
 public static bool FolderExists(Web web, String folderName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check for the named folder  
 
-*folderName*  
+#### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve  
 

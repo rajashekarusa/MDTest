@@ -8,7 +8,7 @@
 public static MemoryStream ToMemoryStream(Stream source)
 ```
 ### Parameters
-*source*  
+#### source  
 &emsp;&emsp;Type: System.IO.Stream  
 
 ### Return Value

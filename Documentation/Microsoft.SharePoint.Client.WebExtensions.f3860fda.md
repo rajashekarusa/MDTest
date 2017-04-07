@@ -8,10 +8,10 @@ Returns an event receiver definition
 public static EventReceiverDefinition GetEventReceiverByName(Web web, String name)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,11 +8,11 @@ Defines who can undeclare records
 public static void SetRecordUnDeclarationBy(Site site, EcmRecordDeclarationBy by)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 
-*by*  
+#### by  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.EcmRecordDeclarationBy](OfficeDevPnP.Core.EcmRecordDeclarationBy.md)  
 &emsp;&emsp; enum that defines who can undeclare a record  
 

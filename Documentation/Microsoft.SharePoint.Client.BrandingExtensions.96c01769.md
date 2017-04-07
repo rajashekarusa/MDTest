@@ -8,11 +8,11 @@ Gets a page layout from the master page catalog. Can be called with paramter as 
 public static ListItem GetPageLayoutListItemByName(Web web, String pageLayoutName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;root web  
 
-*pageLayoutName*  
+#### pageLayoutName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;name of the page layout to retrieve  
 

@@ -8,11 +8,11 @@ Returns all site collection that start with the provided URL
 public static List<SiteEntity> SiteSearchScopedByUrl(Web web, String siteUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Base URL for which sites can be returned  
 

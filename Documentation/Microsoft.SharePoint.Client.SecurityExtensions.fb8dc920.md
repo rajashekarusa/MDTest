@@ -8,15 +8,15 @@ Adds a user to a group
 public static void AddUserToGroup(Web web, Group group, String userLoginName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*group*  
+#### group  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group object representing the group  
 
-*userLoginName*  
+#### userLoginName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Login name of the user  
 

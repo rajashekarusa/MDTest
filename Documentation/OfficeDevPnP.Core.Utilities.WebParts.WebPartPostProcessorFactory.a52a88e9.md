@@ -8,7 +8,7 @@
 public static IWebPartPostProcessor Resolve(String wpXml)
 ```
 ### Parameters
-*wpXml*  
+#### wpXml  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

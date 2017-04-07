@@ -8,13 +8,13 @@
 public PinnedLinkData AddPinnedLink(String accountName, String name, String url)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
-*url*  
+#### url  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

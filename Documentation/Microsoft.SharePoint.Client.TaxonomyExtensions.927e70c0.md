@@ -8,13 +8,13 @@
 public static void SetTaxonomyFieldValues(ListItem item, Guid fieldId, IEnumerable<KeyValuePair<Guid, String>> termValues)
 ```
 ### Parameters
-*item*  
+#### item  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 
-*termValues*  
+#### termValues  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.Guid, System.String>>  
 
 ### Return Value

@@ -8,35 +8,35 @@ Returns all the Office 365 Groups in the current Tenant based on a startIndex. I
 public static List<UnifiedGroupEntity> ListUnifiedGroups(String accessToken, String displayName, String mailNickname, Int32 startIndex, Int32 endIndex, Boolean includeSite, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The OAuth 2.0 Access Token to use for invoking the Microsoft Graph  
 
-*(optional) displayName*  
+#### (optional) displayName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The DisplayName of the Office 365 Group  
 
-*(optional) mailNickname*  
+#### (optional) mailNickname  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The MailNickname of the Office 365 Group  
 
-*(optional) startIndex*  
+#### (optional) startIndex  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Not relevant anymore  
 
-*(optional) endIndex*  
+#### (optional) endIndex  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Not relevant anymore  
 
-*(optional) includeSite*  
+#### (optional) includeSite  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether to return details about the Modern SharePoint Site backing the group. Default is true.  
 
-*(optional) retryCount*  
+#### (optional) retryCount  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Number of times to retry the request in case of throttling  
 
-*(optional) delay*  
+#### (optional) delay  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 

@@ -8,7 +8,7 @@
 public void remove_GetProfileSchemaNameByAccountNameCompleted(GetProfileSchemaNameByAccountNameCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventHandler.md)  
 
 ### Return Value

@@ -8,7 +8,7 @@ Creates a <FieldRef> node for ViewFields clause
 public static string FieldRef(String fieldName)
 ```
 ### Parameters
-*fieldName*  
+#### fieldName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

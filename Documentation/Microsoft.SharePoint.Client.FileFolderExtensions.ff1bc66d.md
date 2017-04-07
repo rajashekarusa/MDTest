@@ -8,16 +8,16 @@
 public static Folder EnsureFolder(Web web, Folder parentFolder, String folderPath, Expression<Func<Folder, Object>>[] expressions)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*parentFolder*  
+#### parentFolder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 
-*folderPath*  
+#### folderPath  
 &emsp;&emsp;Type: System.String  
 
-*expressions*  
+#### expressions  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder, System.Object>>[]  
 
 ### Return Value

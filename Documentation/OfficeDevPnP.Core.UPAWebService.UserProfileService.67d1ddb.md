@@ -8,10 +8,10 @@
 public PropertyData GetUserPropertyByAccountName(String accountName, String propertyName)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*propertyName*  
+#### propertyName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

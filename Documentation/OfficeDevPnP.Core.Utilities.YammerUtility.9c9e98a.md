@@ -8,7 +8,7 @@
 public static YammerUser GetYammerUser(String accessToken)
 ```
 ### Parameters
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

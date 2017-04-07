@@ -8,19 +8,19 @@ Create new content type to web
 public static ContentType CreateContentType(Web web, String name, String id, String group)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 
-*group*  
+#### group  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Group for the content type  
 

@@ -8,7 +8,7 @@ Deserializes a json string to an object of type T
 public static T Deserialize(String json)
 ```
 ### Parameters
-*json*  
+#### json  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;json string  
 

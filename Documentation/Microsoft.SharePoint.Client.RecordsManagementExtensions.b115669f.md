@@ -8,7 +8,7 @@ Gets the manual in place record declaration for this list
 public static EcmListManualRecordDeclaration GetListManualRecordDeclaration(List list)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
 

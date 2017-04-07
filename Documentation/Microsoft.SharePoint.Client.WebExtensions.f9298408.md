@@ -8,7 +8,7 @@ Detects if the site in question has no script enabled or not. Detection is done 
 public static bool IsNoScriptSite(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;site to verify  
 

@@ -8,11 +8,11 @@ Determines if a web exists by title.
 public static bool WebExistsByTitle(Web parentWeb, String title)
 ```
 ### Parameters
-*parentWeb*  
+#### parentWeb  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Parent web to check under.  
 
-*title*  
+#### title  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web to check.  
 

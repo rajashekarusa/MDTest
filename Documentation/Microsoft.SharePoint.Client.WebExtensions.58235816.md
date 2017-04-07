@@ -8,7 +8,7 @@ Can be used to extract custom provisioning template from existing site. The extr
 public static ProvisioningTemplate GetProvisioningTemplate(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to get template from  
 

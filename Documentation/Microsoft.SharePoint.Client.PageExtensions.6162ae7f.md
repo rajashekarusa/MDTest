@@ -8,23 +8,23 @@ Add a HTML fragment to a location on a wiki style page
 public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, String html, Int32 row, Int32 col)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;server relative Url of the page to add the fragment to  
 
-*html*  
+#### html  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;html to be inserted  
 
-*row*  
+#### row  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Row of the wiki table that should hold the inserted web part  
 
-*col*  
+#### col  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Column of the wiki table that should hold the inserted web part  
 
@@ -32,4 +32,6 @@ public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, Stri
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

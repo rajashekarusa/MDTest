@@ -8,15 +8,15 @@ Saves a stream to the specified container with the given name. If the file exist
 public void SaveFileStream(String fileName, String container, Stream stream)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to save  
 
-*container*  
+#### container  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to save the file to  
 
-*stream*  
+#### stream  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;Stream containing the file contents  
 

@@ -8,7 +8,7 @@
 public static string Today(Nullable<Int32> offset)
 ```
 ### Parameters
-*(optional) offset*  
+#### (optional) offset  
 &emsp;&emsp;Type: System.Nullable<System.Int32>  
 
 ### Return Value

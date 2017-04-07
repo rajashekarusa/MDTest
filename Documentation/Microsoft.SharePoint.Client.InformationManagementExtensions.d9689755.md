@@ -8,11 +8,11 @@ Apply a policy to a site
 public static bool ApplySitePolicy(Web web, String sitePolicy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 
-*sitePolicy*  
+#### sitePolicy  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Policy to apply  
 

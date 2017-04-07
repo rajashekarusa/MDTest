@@ -8,7 +8,7 @@ Get the files available in the specified container
 public List<String> GetFiles(String container)
 ```
 ### Parameters
-*container*  
+#### container  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the files from  
 

@@ -8,7 +8,7 @@ Returns all my site site collections
 public static List<SiteEntity> MySiteSearch(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 

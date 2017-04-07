@@ -8,10 +8,10 @@ Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise return
 public static int GetWssIdForTerm(Web web, Term term)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*term*  
+#### term  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.Term  
 
 ### Return Value

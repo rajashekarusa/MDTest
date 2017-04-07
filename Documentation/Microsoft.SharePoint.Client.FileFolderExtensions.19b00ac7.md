@@ -8,11 +8,11 @@ Converts a folder with the given name as a child of the List RootFolder.
 public static Folder ConvertFolderToDocumentSet(List list, Folder folder)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List in which the folder exists  
 
-*folder*  
+#### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder to convert  
 

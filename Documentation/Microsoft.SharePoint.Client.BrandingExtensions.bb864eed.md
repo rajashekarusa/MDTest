@@ -8,7 +8,7 @@ Disables the Responsive UI on a Classic SharePoint Site
 public static void DisableReponsiveUI(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The Site to disable the Responsive UI on  
 

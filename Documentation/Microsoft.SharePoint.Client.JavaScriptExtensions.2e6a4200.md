@@ -8,19 +8,19 @@ Injects links to javascript files via a adding a custom action to the site
 public static bool AddJsLink(Site site, String key, String scriptLinks, Int32 sequence)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
 
-*scriptLinks*  
+#### scriptLinks  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;semi colon delimited list of links to javascript files  
 
-*(optional) sequence*  
+#### (optional) sequence  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

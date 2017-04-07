@@ -8,7 +8,7 @@
 public static XmlQualifiedName GetSchema(XmlSchemaSet schemaSet)
 ```
 ### Parameters
-*schemaSet*  
+#### schemaSet  
 &emsp;&emsp;Type: System.Xml.Schema.XmlSchemaSet  
 
 ### Return Value

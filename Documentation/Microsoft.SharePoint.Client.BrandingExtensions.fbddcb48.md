@@ -8,7 +8,7 @@ Returns the current theme of a web
 public static ThemeEntity GetCurrentComposedLook(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 

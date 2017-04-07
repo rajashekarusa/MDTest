@@ -8,11 +8,11 @@ Checks if a composed look exists.
 public static bool ComposedLookExists(Web web, String composedLookName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 
-*composedLookName*  
+#### composedLookName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look  
 

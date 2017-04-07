@@ -8,7 +8,7 @@ Serializes an object instance to a stream.
 public static Stream SerializeToStream(T objectToSerialize)
 ```
 ### Parameters
-*objectToSerialize*  
+#### objectToSerialize  
 &emsp;&emsp;Type: T  
 
 ### Return Value

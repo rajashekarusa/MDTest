@@ -8,7 +8,7 @@ Converts the input string to a double and if null, it returns the default value.
 public static double ToDouble(String input)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 

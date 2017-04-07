@@ -8,7 +8,7 @@ Get the folders of a specified container
 public List<String> GetFolders(String container)
 ```
 ### Parameters
-*container*  
+#### container  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the folders from  
 

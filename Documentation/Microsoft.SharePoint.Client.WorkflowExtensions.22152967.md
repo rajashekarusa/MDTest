@@ -8,31 +8,31 @@
 public static Guid AddWorkflowSubscription(List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*workflowDefinition*  
+#### workflowDefinition  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
 
-*subscriptionName*  
+#### subscriptionName  
 &emsp;&emsp;Type: System.String  
 
-*startManually*  
+#### startManually  
 &emsp;&emsp;Type: System.Boolean  
 
-*startOnCreate*  
+#### startOnCreate  
 &emsp;&emsp;Type: System.Boolean  
 
-*startOnChange*  
+#### startOnChange  
 &emsp;&emsp;Type: System.Boolean  
 
-*historyListName*  
+#### historyListName  
 &emsp;&emsp;Type: System.String  
 
-*taskListName*  
+#### taskListName  
 &emsp;&emsp;Type: System.String  
 
-*(optional) associationValues*  
+#### (optional) associationValues  
 &emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 
 ### Return Value

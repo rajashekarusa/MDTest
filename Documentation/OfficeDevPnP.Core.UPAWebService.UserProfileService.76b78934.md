@@ -8,7 +8,7 @@
 public void remove_GetUserOrganizationsCompleted(GetUserOrganizationsCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventHandler.md)  
 
 ### Return Value

@@ -8,19 +8,19 @@ Set master page by using given URL as parameter. Suitable for example in cases w
 public static void SetMasterPageByUrl(Web web, String masterPageServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Context web  
 
-*masterPageServerRelativeUrl*  
+#### masterPageServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL to the master page.  
 
-*(optional) resetSubsitesToInherit*  
+#### (optional) resetSubsitesToInherit  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false (default) to apply to currently inheriting subsites only; true to force all subsites to inherit  
 
-*(optional) updateRootOnly*  
+#### (optional) updateRootOnly  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false (default) to apply to subsites; true to only apply to specified site  
 

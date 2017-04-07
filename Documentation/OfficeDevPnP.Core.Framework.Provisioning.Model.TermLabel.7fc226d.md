@@ -8,7 +8,7 @@
 public bool Equals(TermLabel other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md)  
 
 ### Return Value

@@ -8,13 +8,13 @@ Sets specific page layout the default page layout for the particular site
 public static void SetDefaultPageLayoutForSite(Web web, Web rootWeb, String pageLayoutName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*rootWeb*  
+#### rootWeb  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*pageLayoutName*  
+#### pageLayoutName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

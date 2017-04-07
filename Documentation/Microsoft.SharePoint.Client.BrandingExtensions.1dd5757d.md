@@ -8,15 +8,15 @@ Uploads the specified file (usually an spcolor or spfont file) to the web site t
 public static File UploadThemeFile(Web web, String localFilePath, String themeFolderVersion)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web site to upload to  
 
-*localFilePath*  
+#### localFilePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Location of the file to be uploaded  
 
-*(optional) themeFolderVersion*  
+#### (optional) themeFolderVersion  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Leaf folder name to upload to; default is "15"  
 

@@ -8,13 +8,13 @@ Creates list views based on specific xml structure from file
 public static void CreateViewsFromXMLFile(Web web, String listUrl, String filePath)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*listUrl*  
+#### listUrl  
 &emsp;&emsp;Type: System.String  
 
-*filePath*  
+#### filePath  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

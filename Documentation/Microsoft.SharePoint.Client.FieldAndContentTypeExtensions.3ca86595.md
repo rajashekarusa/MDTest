@@ -8,15 +8,15 @@ Returns the field if it exists. Null if does not exist.
 public static Field GetFieldByInternalName(Web web, String internalName, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
 
-*internalName*  
+#### internalName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;If true, search parent sites and root site  
 
-*(optional) searchInSiteHierarchy*  
+#### (optional) searchInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

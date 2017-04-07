@@ -8,11 +8,11 @@ Decrypt a piece of text based on a given certificate
 public static string Decrypt(String stringToDecrypt, String thumbPrint)
 ```
 ### Parameters
-*stringToDecrypt*  
+#### stringToDecrypt  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to decrypt  
 
-*thumbPrint*  
+#### thumbPrint  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to use  
 

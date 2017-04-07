@@ -8,11 +8,11 @@ Unmarks a property bag key for indexing
 public static bool RemoveIndexedPropertyBagKey(Web web, String key)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The site to process  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to unmark for indexed. Case-sensitive  
 

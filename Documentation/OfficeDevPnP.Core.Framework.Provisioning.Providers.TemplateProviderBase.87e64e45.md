@@ -8,10 +8,10 @@
 public ProvisioningTemplate GetTemplate(String uri, ITemplateProviderExtension[] extensions)
 ```
 ### Parameters
-*uri*  
+#### uri  
 &emsp;&emsp;Type: System.String  
 
-*extensions*  
+#### extensions  
 &emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
 
 ### Return Value

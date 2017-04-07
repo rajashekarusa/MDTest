@@ -8,7 +8,7 @@
 public PropertyInfo[] GetProfileSchema(String schemaName)
 ```
 ### Parameters
-*schemaName*  
+#### schemaName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

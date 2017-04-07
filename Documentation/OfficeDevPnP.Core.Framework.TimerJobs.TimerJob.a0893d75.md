@@ -8,10 +8,10 @@ Prepares the timerjob to operate against Office 365 with user and password crede
 public void UseOffice365Authentication(String userUPN, SecureString password)
 ```
 ### Parameters
-*userUPN*  
+#### userUPN  
 &emsp;&emsp;Type: System.String  
 
-*password*  
+#### password  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;Password of the user that will be used to operate the timer job work  
 

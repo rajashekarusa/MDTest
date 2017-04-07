@@ -8,7 +8,7 @@ Deletes a property from the custom property list
 public void DeleteProperty(String propertyKey)
 ```
 ### Parameters
-*propertyKey*  
+#### propertyKey  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the property to delete  
 

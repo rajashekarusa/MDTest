@@ -8,10 +8,10 @@
 public static string ReplaceInvalidUrlChars(String content, String replacer)
 ```
 ### Parameters
-*content*  
+#### content  
 &emsp;&emsp;Type: System.String  
 
-*replacer*  
+#### replacer  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

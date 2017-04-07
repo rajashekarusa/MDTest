@@ -8,10 +8,10 @@ Combines a path and a relative path.
 public static string Combine(String path, String[] relativePaths)
 ```
 ### Parameters
-*path*  
+#### path  
 &emsp;&emsp;Type: System.String  
 
-*relativePaths*  
+#### relativePaths  
 &emsp;&emsp;Type: System.String[]  
 
 ### Return Value

@@ -8,7 +8,7 @@ Returns the default site collection termstore
 public static TermStore GetDefaultSiteCollectionTermStore(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
 ### Return Value

@@ -8,10 +8,10 @@
 public void AddParameterAsString(String key, String value)
 ```
 ### Parameters
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 
-*value*  
+#### value  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

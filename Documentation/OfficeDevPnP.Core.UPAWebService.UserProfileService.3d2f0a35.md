@@ -8,7 +8,7 @@
 public void add_RemoveLinkCompleted(RemoveLinkCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveLinkCompletedEventHandler.md)  
 
 ### Return Value

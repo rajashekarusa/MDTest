@@ -8,11 +8,11 @@ Determines if a child Web site with the specified leaf URL exists.
 public static bool WebExists(Web parentWeb, String leafUrl)
 ```
 ### Parameters
-*parentWeb*  
+#### parentWeb  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web site to check under  
 
-*leafUrl*  
+#### leafUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
 

@@ -8,15 +8,15 @@ Adds a term to a given termset
 public static Term AddTermToTermset(Site site, Guid termSetId, String term)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
-*termSetId*  
+#### termSetId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termset  
 
-*term*  
+#### term  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The label of the new term to create  
 

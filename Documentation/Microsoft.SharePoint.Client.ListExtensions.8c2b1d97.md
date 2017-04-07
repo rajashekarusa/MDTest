@@ -8,31 +8,31 @@ Adds a default list to a site
 public static List CreateList(Web web, ListTemplateType listType, String listName, Boolean enableVersioning, Boolean updateAndExecuteQuery, String urlPath, Boolean enableContentTypes)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listType*  
+#### listType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListTemplateType  
 &emsp;&emsp;Built in list template type  
 
-*listName*  
+#### listName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the list  
 
-*enableVersioning*  
+#### enableVersioning  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Enable versioning on the list  
 
-*(optional) updateAndExecuteQuery*  
+#### (optional) updateAndExecuteQuery  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;(Optional) Perform list update and executequery, defaults to true  
 
-*(optional) urlPath*  
+#### (optional) urlPath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;(Optional) URL to use for the list  
 
-*(optional) enableContentTypes*  
+#### (optional) enableContentTypes  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;(Optional) Enable content type management  
 

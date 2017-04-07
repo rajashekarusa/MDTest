@@ -8,7 +8,7 @@
 public bool Equals(View other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.View](OfficeDevPnP.Core.Framework.Provisioning.Model.View.md)  
 
 ### Return Value

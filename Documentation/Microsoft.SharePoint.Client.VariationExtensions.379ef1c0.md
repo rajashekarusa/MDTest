@@ -8,10 +8,10 @@
 public static void ProvisionTargetVariationLabels(ClientContext context, List<VariationLabelEntity> variationLabels)
 ```
 ### Parameters
-*context*  
+#### context  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 
-*variationLabels*  
+#### variationLabels  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.VariationLabelEntity>  
 
 ### Return Value

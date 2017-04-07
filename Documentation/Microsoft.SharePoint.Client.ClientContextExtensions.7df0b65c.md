@@ -8,14 +8,14 @@
 public static void ExecuteQueryRetry(ClientRuntimeContext clientContext, Int32 retryCount, Int32 delay)
 ```
 ### Parameters
-*clientContext*  
+#### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 
-*(optional) retryCount*  
+#### (optional) retryCount  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Number of times to retry the request  
 
-*(optional) delay*  
+#### (optional) delay  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Milliseconds to wait before retrying the request. The delay will be increased (doubled) every retry  
 

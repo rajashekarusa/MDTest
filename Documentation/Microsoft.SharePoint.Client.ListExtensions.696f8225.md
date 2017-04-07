@@ -8,11 +8,11 @@ Checks if list exists on the particular site based on the list Title property.
 public static bool ListExists(Web web, String listTitle)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listTitle*  
+#### listTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list to be checked.  
 
@@ -21,4 +21,6 @@ Type: bool
 True if the list exists
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

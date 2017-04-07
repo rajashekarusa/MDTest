@@ -8,10 +8,10 @@ Updates navigation settings for the current web
 public static void UpdateNavigationSettings(Web web, AreaNavigationEntity navigationSettings)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*navigationSettings*  
+#### navigationSettings  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md)  
 
 ### Return Value

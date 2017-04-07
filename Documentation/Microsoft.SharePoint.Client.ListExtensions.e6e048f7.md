@@ -8,10 +8,10 @@ Create list views based on specific xml structure in string
 public static void CreateViewsFromXMLString(List list, String xmlString)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*xmlString*  
+#### xmlString  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

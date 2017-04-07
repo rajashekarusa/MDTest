@@ -8,19 +8,19 @@
 public static Guid CreateSiteCollection(Tenant tenant, SiteEntity properties, Boolean removeFromRecycleBin, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 
-*properties*  
+#### properties  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  
 
-*(optional) removeFromRecycleBin*  
+#### (optional) removeFromRecycleBin  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) wait*  
+#### (optional) wait  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) timeoutFunction*  
+#### (optional) timeoutFunction  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 
 ### Return Value

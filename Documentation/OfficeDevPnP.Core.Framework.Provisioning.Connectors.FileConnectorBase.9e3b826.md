@@ -8,7 +8,7 @@ Returns a filename without a path
 public string GetFilenamePart(String fileName)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Path to the file to retrieve the filename from  
 

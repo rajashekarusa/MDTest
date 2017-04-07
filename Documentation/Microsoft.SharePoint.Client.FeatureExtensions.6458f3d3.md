@@ -8,15 +8,15 @@ Deactivates a site collection or site scoped feature
 public static void DeactivateFeature(Web web, Guid featureID, Int32 pollingIntervalSeconds)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed - can be root web or sub web  
 
-*featureID*  
+#### featureID  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the feature to deactivate  
 
-*(optional) pollingIntervalSeconds*  
+#### (optional) pollingIntervalSeconds  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The time in seconds between polls for "IsActive"  
 

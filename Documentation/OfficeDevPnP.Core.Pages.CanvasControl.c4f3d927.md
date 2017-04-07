@@ -8,7 +8,7 @@ Receives data-sp-controldata content and detects the type of the control
 public static Type GetType(String controlDataJson)
 ```
 ### Parameters
-*controlDataJson*  
+#### controlDataJson  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;data-sp-controldata json string  
 

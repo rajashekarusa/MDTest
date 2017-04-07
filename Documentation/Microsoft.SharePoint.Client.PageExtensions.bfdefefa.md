@@ -8,11 +8,11 @@ Returns the HTML contents of a wiki page
 public static string GetWikiPageContent(Web web, String serverRelativePageUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative url of the page, e.g. /sites/demo/SitePages/Test.aspx  
 
@@ -21,4 +21,6 @@ Type: string
 
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

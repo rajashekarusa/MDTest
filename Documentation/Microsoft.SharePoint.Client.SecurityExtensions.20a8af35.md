@@ -8,11 +8,11 @@ Remove a group
 public static void RemoveGroup(Web web, String groupName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
 

@@ -8,10 +8,10 @@ Checks if an enumerated type contains a value
 public static bool Has(Enum value, T check)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: System.Enum  
 
-*check*  
+#### check  
 &emsp;&emsp;Type: T  
 
 ### Return Value

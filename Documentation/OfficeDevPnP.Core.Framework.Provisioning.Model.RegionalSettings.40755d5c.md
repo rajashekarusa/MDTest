@@ -8,7 +8,7 @@
 public bool Equals(RegionalSettings other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md)  
 
 ### Return Value

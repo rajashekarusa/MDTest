@@ -8,7 +8,7 @@
 public List<ProvisioningTemplate> GetTemplates(ITemplateFormatter formatter)
 ```
 ### Parameters
-*formatter*  
+#### formatter  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
 
 ### Return Value

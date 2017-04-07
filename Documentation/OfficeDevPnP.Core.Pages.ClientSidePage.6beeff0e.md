@@ -8,7 +8,7 @@
 public IEnumerable<ClientSideComponent> AvailableClientSideComponents(DefaultClientSideWebParts webPart)
 ```
 ### Parameters
-*webPart*  
+#### webPart  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts](OfficeDevPnP.Core.Pages.DefaultClientSideWebParts.md)  
 
 ### Return Value

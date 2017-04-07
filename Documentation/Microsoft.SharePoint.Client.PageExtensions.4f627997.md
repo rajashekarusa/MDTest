@@ -8,19 +8,21 @@ Returns web part properties
 public static PropertyValues GetWebPartProperties(Web web, Guid id, String serverRelativePageUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the webpart  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value
 Type: PropertyValues  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

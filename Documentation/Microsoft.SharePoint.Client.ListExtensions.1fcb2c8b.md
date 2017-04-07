@@ -8,11 +8,11 @@ Checks if the given property bag entry exists
 public static bool PropertyBagContainsKey(List list, String key)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to check  
 

@@ -8,14 +8,14 @@ Get current sharing settings for document and load list of users it has been sha
 public static ObjectSharingSettings GetObjectSharingSettingsForDocument(Web web, String urlToDocument, Boolean useSimplifiedPolicies)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context  
 
-*urlToDocument*  
+#### urlToDocument  
 &emsp;&emsp;Type: System.String  
 
-*(optional) useSimplifiedPolicies*  
+#### (optional) useSimplifiedPolicies  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

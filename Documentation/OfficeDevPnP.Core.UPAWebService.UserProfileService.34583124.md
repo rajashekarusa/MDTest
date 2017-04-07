@@ -8,13 +8,13 @@
 public void RemoveMembership(String accountName, Guid sourceInternal, String sourceReference)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*sourceInternal*  
+#### sourceInternal  
 &emsp;&emsp;Type: System.Guid  
 
-*sourceReference*  
+#### sourceReference  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

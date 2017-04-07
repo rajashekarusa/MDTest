@@ -8,19 +8,19 @@ Prepares the timerjob to operate against SharePoint Only with Azure AD app-only 
 public void UseAzureADAppOnlyAuthentication(String clientId, String azureTenant, String certificatePath, SecureString certificatePassword)
 ```
 ### Parameters
-*clientId*  
+#### clientId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Client ID of the app  
 
-*azureTenant*  
+#### azureTenant  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Azure tenant name, like contoso.com  
 
-*certificatePath*  
+#### certificatePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path to the *.pfx certicate file  
 
-*certificatePassword*  
+#### certificatePassword  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;The password to the certificate  
 

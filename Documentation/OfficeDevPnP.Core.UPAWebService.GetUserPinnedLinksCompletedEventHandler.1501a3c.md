@@ -8,16 +8,16 @@
 public IAsyncResult BeginInvoke(Object sender, GetUserPinnedLinksCompletedEventArgs e, AsyncCallback callback, Object object)
 ```
 ### Parameters
-*sender*  
+#### sender  
 &emsp;&emsp;Type: System.Object  
 
-*e*  
+#### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventArgs.md)  
 
-*callback*  
+#### callback  
 &emsp;&emsp;Type: System.AsyncCallback  
 
-*object*  
+#### object  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

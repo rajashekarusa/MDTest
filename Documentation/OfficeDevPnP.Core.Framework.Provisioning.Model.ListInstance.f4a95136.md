@@ -8,7 +8,7 @@
 public bool Equals(ListInstance other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md)  
 
 ### Return Value

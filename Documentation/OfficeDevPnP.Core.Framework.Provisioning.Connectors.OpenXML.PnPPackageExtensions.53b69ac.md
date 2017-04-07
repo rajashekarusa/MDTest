@@ -8,7 +8,7 @@
 public static Byte[] PackTemplate(PnPInfo pnpInfo)
 ```
 ### Parameters
-*pnpInfo*  
+#### pnpInfo  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPInfo.md)  
 
 ### Return Value

@@ -8,11 +8,11 @@ Find files in a specific folder
 public static List<File> FindFiles(Folder folder, String match)
 ```
 ### Parameters
-*folder*  
+#### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;The folder to process  
 
-*match*  
+#### match  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;a wildcard pattern to match  
 

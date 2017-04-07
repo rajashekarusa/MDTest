@@ -8,23 +8,23 @@ Associates field to content type
 public static void AddFieldToContentTypeById(Web web, String contentTypeID, String fieldId, Boolean required, Boolean hidden)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*contentTypeID*  
+#### contentTypeID  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String representation of the id of the content type to add the field to  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String representation of the field ID (=guid)  
 
-*(optional) required*  
+#### (optional) required  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is required  
 
-*(optional) hidden*  
+#### (optional) hidden  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is hidden  
 

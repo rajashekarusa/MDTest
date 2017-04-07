@@ -8,13 +8,13 @@
 public void RemoveLinkAsync(String accountName, Int32 id, Object userState)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Int32  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

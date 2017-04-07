@@ -8,23 +8,23 @@ Sets output cache on publishing web. The settings can be maintained from UI by v
 public static void SetPageOutputCache(Web web, Boolean enableOutputCache, Int32 anonymousCacheProfileId, Int32 authenticatedCacheProfileId, Boolean debugCacheInformation)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint web  
 
-*enableOutputCache*  
+#### enableOutputCache  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specify true to enable output cache. False otherwise.  
 
-*anonymousCacheProfileId*  
+#### anonymousCacheProfileId  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Applies for anonymous users access for a site in Site Collection. Id of the profile specified in "Cache Profiles" list.  
 
-*authenticatedCacheProfileId*  
+#### authenticatedCacheProfileId  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Applies for authenticated users access for a site in the Site Collection. Id of the profile specified in "Cache Profiles" list.  
 
-*debugCacheInformation*  
+#### debugCacheInformation  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specify true to enable the display of additional cache information on pages in this site collection. False otherwise.  
 

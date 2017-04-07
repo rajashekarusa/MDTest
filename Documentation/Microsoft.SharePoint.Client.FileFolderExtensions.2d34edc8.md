@@ -8,11 +8,11 @@ Creates a folder with the given name.
 public static Folder CreateFolder(Folder parentFolder, String folderName)
 ```
 ### Parameters
-*parentFolder*  
+#### parentFolder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Parent folder to create under  
 
-*folderName*  
+#### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve or create  
 

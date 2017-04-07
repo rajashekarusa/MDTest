@@ -8,11 +8,11 @@ Deletes a content type from the web by id
 public static void DeleteContentTypeById(Web web, String contentTypeId)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to delete the content type from  
 
-*contentTypeId*  
+#### contentTypeId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Id of the content type to delete  
 

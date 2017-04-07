@@ -8,11 +8,11 @@ Finds files in the web. Can be slow.
 public static List<File> FindFiles(Web web, String match)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*match*  
+#### match  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;a wildcard pattern to match  
 

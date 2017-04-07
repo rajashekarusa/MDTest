@@ -8,11 +8,11 @@ Sets the search results page url on current web (Site Settings -> Search --> Sea
 public static void SetWebSearchCenterUrl(Web web, String searchCenterUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint current web  
 
-*searchCenterUrl*  
+#### searchCenterUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Search results page url  
 

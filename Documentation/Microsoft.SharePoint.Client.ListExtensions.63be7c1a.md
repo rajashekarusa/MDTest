@@ -8,10 +8,10 @@ Returns an event receiver definition
 public static EventReceiverDefinition GetEventReceiverById(List list, Guid id)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 
 ### Return Value

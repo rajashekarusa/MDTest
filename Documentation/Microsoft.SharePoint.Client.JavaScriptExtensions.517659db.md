@@ -8,19 +8,19 @@ Injects javascript via a adding a custom action to the site
 public static bool AddJsBlock(Site site, String key, String scriptBlock, Int32 sequence)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
 
-*scriptBlock*  
+#### scriptBlock  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Javascript to be injected  
 
-*(optional) sequence*  
+#### (optional) sequence  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

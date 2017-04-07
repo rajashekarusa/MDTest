@@ -8,27 +8,27 @@ Share site for a person using complex JSON object for people picker value.
 public static SharingResult ShareSiteWithPeoplePickerValue(Web web, String peoplePickerInput, ExternalSharingSiteOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context of the site to be shared.  
 
-*peoplePickerInput*  
+#### peoplePickerInput  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;JSON object with the people picker value  
 
-*shareOption*  
+#### shareOption  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingSiteOption](Microsoft.SharePoint.Client.ExternalSharingSiteOption.md)  
 &emsp;&emsp;Sharing style - View, Edit, Owner  
 
-*(optional) sendEmail*  
+#### (optional) sendEmail  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Should we send email for the given address.  
 
-*(optional) emailBody*  
+#### (optional) emailBody  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added on share email sent to receiver.  
 
-*(optional) useSimplifiedRoles*  
+#### (optional) useSimplifiedRoles  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
 

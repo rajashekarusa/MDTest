@@ -8,11 +8,11 @@ Set default content type to list
 public static void SetDefaultContentTypeToList(List list, ContentType contentType)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
 
-*contentType*  
+#### contentType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to make default  
 

@@ -8,10 +8,10 @@
 public ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl, Func<String, String> accessTokenGetter)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 
-*accessTokenGetter*  
+#### accessTokenGetter  
 &emsp;&emsp;Type: System.Func<System.String, System.String>  
 
 ### Return Value

@@ -8,35 +8,35 @@ Retrieves the named composed look, overrides with specified palette, font, backg
 public static void SetComposedLookByUrl(Web web, String lookName, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, String masterServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to apply composed look to  
 
-*lookName*  
+#### lookName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look to apply; null will apply the override values only  
 
-*(optional) paletteServerRelativeUrl*  
+#### (optional) paletteServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Override palette file URL to use  
 
-*(optional) fontServerRelativeUrl*  
+#### (optional) fontServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Override font file URL to use  
 
-*(optional) backgroundServerRelativeUrl*  
+#### (optional) backgroundServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Override background image file URL to use  
 
-*(optional) masterServerRelativeUrl*  
+#### (optional) masterServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Override master page file URL to use  
 
-*(optional) resetSubsitesToInherit*  
+#### (optional) resetSubsitesToInherit  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false (default) to apply to currently inheriting subsites only; true to force all subsites to inherit  
 
-*(optional) updateRootOnly*  
+#### (optional) updateRootOnly  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false to apply to subsites; true (default) to only apply to specified site  
 

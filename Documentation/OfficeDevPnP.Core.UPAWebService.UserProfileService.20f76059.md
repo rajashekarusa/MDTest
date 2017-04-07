@@ -8,10 +8,10 @@
 public void RemoveAllPinnedLinksAsync(String accountName, Object userState)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

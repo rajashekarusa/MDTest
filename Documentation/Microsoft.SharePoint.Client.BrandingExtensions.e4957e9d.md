@@ -8,7 +8,7 @@ Can be used to set the site to inherit the default page layout option from paren
 public static void SetSiteToInheritPageLayouts(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 

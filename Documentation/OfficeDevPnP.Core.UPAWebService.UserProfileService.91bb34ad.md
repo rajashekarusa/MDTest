@@ -8,16 +8,16 @@
 public void AddPinnedLinkAsync(String accountName, String name, String url, Object userState)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
-*url*  
+#### url  
 &emsp;&emsp;Type: System.String  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

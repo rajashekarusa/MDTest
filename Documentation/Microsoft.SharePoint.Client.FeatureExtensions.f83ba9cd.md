@@ -8,11 +8,11 @@ Checks if a feature is active
 public static bool IsFeatureActive(Web web, Guid featureID)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*featureID*  
+#### featureID  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the feature to check  
 

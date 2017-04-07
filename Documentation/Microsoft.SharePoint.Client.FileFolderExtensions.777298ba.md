@@ -8,11 +8,11 @@ Checks out a file
 public static void CheckOutFile(Web web, String serverRelativeUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*serverRelativeUrl*  
+#### serverRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The server relative url of the file to checkout  
 

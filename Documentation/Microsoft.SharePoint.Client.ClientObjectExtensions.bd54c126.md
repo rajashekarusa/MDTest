@@ -8,7 +8,7 @@ Checks if the ClientObject is null
 public static bool ServerObjectIsNull(T clientObject)
 ```
 ### Parameters
-*clientObject*  
+#### clientObject  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
 

@@ -8,10 +8,10 @@
 public void GetUserProfileByGuidAsync(Guid guid, Object userState)
 ```
 ### Parameters
-*guid*  
+#### guid  
 &emsp;&emsp;Type: System.Guid  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

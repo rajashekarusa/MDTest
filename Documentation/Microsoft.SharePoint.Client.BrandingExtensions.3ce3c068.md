@@ -8,11 +8,11 @@ Enables the responsive UI of a classic SharePoint Site
 public static void EnableResponsiveUI(Site site, String infrastructureUrl)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The Site to activate the Responsive UI to  
 
-*(optional) infrastructureUrl*  
+#### (optional) infrastructureUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL pointing to an infrastructure site  
 

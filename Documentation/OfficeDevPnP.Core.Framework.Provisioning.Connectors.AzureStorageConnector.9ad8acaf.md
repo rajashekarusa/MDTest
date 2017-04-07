@@ -8,7 +8,7 @@ Deletes a file from the default container
 public void DeleteFile(String fileName)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to delete  
 

@@ -8,7 +8,7 @@
 public void remove_GetPropertyChoiceListCompleted(GetPropertyChoiceListCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.md)  
 
 ### Return Value

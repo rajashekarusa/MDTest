@@ -8,7 +8,7 @@
 public void add_GetUserPinnedLinksCompleted(GetUserPinnedLinksCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.md)  
 
 ### Return Value

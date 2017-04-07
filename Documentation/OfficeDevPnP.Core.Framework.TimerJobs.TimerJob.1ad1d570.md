@@ -8,7 +8,7 @@
 public List<String> UpdateAddedSites(List<String> addedSites)
 ```
 ### Parameters
-*addedSites*  
+#### addedSites  
 &emsp;&emsp;Type: System.Collections.Generic.List<System.String>  
 
 ### Return Value

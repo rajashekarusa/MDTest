@@ -8,15 +8,15 @@ Does content type exist in web
 public static bool ContentTypeExistsById(Web web, String listTitle, String contentTypeId)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
 
-*listTitle*  
+#### listTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list to be updated  
 
-*contentTypeId*  
+#### contentTypeId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
 

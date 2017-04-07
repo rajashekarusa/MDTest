@@ -8,11 +8,11 @@ Can be used to create taxonomy field remotely in a list.
 public static Field CreateTaxonomyField(List list, TaxonomyFieldCreationInformation fieldCreationInformation)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
 
-*fieldCreationInformation*  
+#### fieldCreationInformation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md)  
 &emsp;&emsp;Creation information of the field  
 

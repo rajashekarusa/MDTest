@@ -8,7 +8,7 @@
 public string ParseString(String input)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

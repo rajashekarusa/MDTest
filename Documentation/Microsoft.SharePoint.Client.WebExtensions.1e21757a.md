@@ -8,11 +8,11 @@ Marks a property bag key for indexing
 public static bool AddIndexedPropertyBagKey(Web web, String key)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to mark for indexing  
 

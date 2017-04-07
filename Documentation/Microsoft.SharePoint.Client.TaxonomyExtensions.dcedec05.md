@@ -8,23 +8,23 @@ Imports an array of | delimited strings into the deafult site collection termsto
 public static void ImportTerms(Site site, String[] termLines, Int32 lcid, TermStore termStore, String delimiter, Boolean synchronizeDeletions)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
-*termLines*  
+#### termLines  
 &emsp;&emsp;Type: System.String[]  
 
-*lcid*  
+#### lcid  
 &emsp;&emsp;Type: System.Int32  
 
-*termStore*  
+#### termStore  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermStore  
 &emsp;&emsp;The termstore to import the terms into  
 
-*(optional) delimiter*  
+#### (optional) delimiter  
 &emsp;&emsp;Type: System.String  
 
-*(optional) synchronizeDeletions*  
+#### (optional) synchronizeDeletions  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Remove tags that are not present in the import  
 

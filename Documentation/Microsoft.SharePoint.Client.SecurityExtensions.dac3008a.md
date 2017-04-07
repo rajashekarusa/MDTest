@@ -8,7 +8,7 @@ Returns a list all external users in your tenant
 public static List<ExternalUserEntity> GetExternalUsersTenant(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
 

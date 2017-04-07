@@ -8,11 +8,11 @@ Validates an object for not being null or not being the default value
 public static void ValidateNotNullOrEmpty(T input, String variableName)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;The objec tto check  
 
-*variableName*  
+#### variableName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the variable name to report in the error  
 
@@ -20,4 +20,6 @@ public static void ValidateNotNullOrEmpty(T input, String variableName)
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [System](System.md)

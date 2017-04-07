@@ -8,10 +8,10 @@ Removes a field by specifying its internal name
 public static void RemoveFieldByInternalName(Web web, String internalName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*internalName*  
+#### internalName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

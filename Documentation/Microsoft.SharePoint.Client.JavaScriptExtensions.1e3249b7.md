@@ -8,16 +8,16 @@
 public static bool AddJsLink(Site site, String key, IEnumerable<String> scriptLinks, Int32 sequence)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 
-*scriptLinks*  
+#### scriptLinks  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 
-*(optional) sequence*  
+#### (optional) sequence  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

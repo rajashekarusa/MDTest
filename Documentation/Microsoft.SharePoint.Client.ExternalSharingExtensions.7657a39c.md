@@ -8,11 +8,11 @@
 public static string ResolvePeoplePickerValueForEmail(Web web, String emailAddress)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context used for people picker search  
 
-*emailAddress*  
+#### emailAddress  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Email address to be used as the query parameter. Should be pointing to unique person which is then searched using people picker capability programatically.  
 

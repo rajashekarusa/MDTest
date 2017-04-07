@@ -8,11 +8,11 @@ Searches the list content types and returns the content type identifier (ID) tha
 public static ContentTypeId BestMatchContentTypeId(List list, String baseContentTypeId)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to check for content types  
 
-*baseContentTypeId*  
+#### baseContentTypeId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string with the base content type ID to match.  
 

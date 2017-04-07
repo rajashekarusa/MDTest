@@ -8,7 +8,7 @@
 public void add_GetLeadersCompleted(GetLeadersCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetLeadersCompletedEventHandler.md)  
 
 ### Return Value

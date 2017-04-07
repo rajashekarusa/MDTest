@@ -8,11 +8,11 @@ Converts the input string to a double and if null, it returns the default value.
 public static double ToDouble(String input, Double defaultValue)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 
-*defaultValue*  
+#### defaultValue  
 &emsp;&emsp;Type: System.Double  
 &emsp;&emsp;A default value to return for a null input value.  
 

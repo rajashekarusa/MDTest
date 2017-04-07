@@ -8,13 +8,13 @@
 public static string ToDetailedString(Exception exception, ClientRuntimeContext cc, ExceptionOptions options)
 ```
 ### Parameters
-*exception*  
+#### exception  
 &emsp;&emsp;Type: System.Exception  
 
-*cc*  
+#### cc  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 
-*options*  
+#### options  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
 
 ### Return Value

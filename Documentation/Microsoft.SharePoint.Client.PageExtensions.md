@@ -41,5 +41,7 @@ public static class PageExtensions
 | [SetWebPartProperty(Web, String, Boolean, Guid, String)](Microsoft.SharePoint.Client.PageExtensions.76177fde.md) | Sets a web part property
 ## See also
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
+- System.ArgumentException
+- System.ArgumentNullException
 - Microsoft.SharePoint.Client.WebParts.WebPartDefinition
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

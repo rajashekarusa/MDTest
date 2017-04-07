@@ -8,16 +8,16 @@
 public static bool DeleteSiteCollection(Tenant tenant, String siteFullUrl, Boolean useRecycleBin, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.String  
 
-*useRecycleBin*  
+#### useRecycleBin  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) timeoutFunction*  
+#### (optional) timeoutFunction  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 
 ### Return Value

@@ -8,15 +8,15 @@ Sets a key/value pair in the web property bag
 public static void SetPropertyBagValue(Web web, String key, Int32 value)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web that will hold the property bag entry  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key for the property bag entry  
 
-*value*  
+#### value  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Integer value for the property bag entry  
 

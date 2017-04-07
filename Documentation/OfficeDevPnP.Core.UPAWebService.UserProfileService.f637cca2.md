@@ -8,10 +8,10 @@
 public void GetUserProfileByNameAsync(String AccountName, Object userState)
 ```
 ### Parameters
-*AccountName*  
+#### AccountName  
 &emsp;&emsp;Type: System.String  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

@@ -8,7 +8,7 @@ Returns the authentication realm for the current web
 public static Guid GetAuthenticationRealm(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
 ### Return Value

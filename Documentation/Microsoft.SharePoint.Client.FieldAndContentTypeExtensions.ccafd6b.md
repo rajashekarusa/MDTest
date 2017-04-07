@@ -8,11 +8,11 @@ Create a content type based on the classic feature framework structure.
 public static ContentType CreateContentTypeFromXML(Web web, XDocument xDocument)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*xDocument*  
+#### xDocument  
 &emsp;&emsp;Type: System.Xml.Linq.XDocument  
 &emsp;&emsp;Actual XML document  
 

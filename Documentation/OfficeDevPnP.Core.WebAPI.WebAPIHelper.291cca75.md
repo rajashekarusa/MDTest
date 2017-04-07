@@ -8,7 +8,7 @@ Creates a ClientContext token for the incoming WebAPI request. This is done by -
 public static ClientContext GetClientContext(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
-*httpControllerContext*  
+#### httpControllerContext  
 &emsp;&emsp;Type: System.Web.Http.Controllers.HttpControllerContext  
 &emsp;&emsp;Information about the HTTP request that reached the WebAPI controller  
 

@@ -8,29 +8,29 @@ Deploys a new masterpage
 public static File DeployMasterPage(Web web, String sourceFilePath, String title, String description, String uiVersion, String defaultCSSFile, String folderPath)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*sourceFilePath*  
+#### sourceFilePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path to the source file  
 
-*title*  
+#### title  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The title of the masterpage  
 
-*description*  
+#### description  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The description of the masterpage  
 
-*(optional) uiVersion*  
+#### (optional) uiVersion  
 &emsp;&emsp;Type: System.String  
 
-*(optional) defaultCSSFile*  
+#### (optional) defaultCSSFile  
 &emsp;&emsp;Type: System.String  
 
-*(optional) folderPath*  
+#### (optional) folderPath  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

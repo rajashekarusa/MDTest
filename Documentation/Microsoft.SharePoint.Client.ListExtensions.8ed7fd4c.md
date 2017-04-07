@@ -8,19 +8,19 @@ Can be used to set translations for different cultures.
 public static void SetLocalizationLabelsForList(List list, String cultureName, String titleResource, String descriptionResource)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed   
 
-*cultureName*  
+#### cultureName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture name like en-us or fi-fi  
 
-*titleResource*  
+#### titleResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized Title string  
 
-*descriptionResource*  
+#### descriptionResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized Description string  
 

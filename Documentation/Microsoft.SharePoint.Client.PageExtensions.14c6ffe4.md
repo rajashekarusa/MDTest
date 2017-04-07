@@ -8,15 +8,15 @@ Deletes a web part from a page
 public static void DeleteWebPart(Web web, String serverRelativePageUrl, String title)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative URL of the page to remove  
 
-*title*  
+#### title  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web part that needs to be deleted  
 
@@ -24,4 +24,6 @@ public static void DeleteWebPart(Web web, String serverRelativePageUrl, String t
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

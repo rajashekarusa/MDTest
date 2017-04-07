@@ -8,23 +8,23 @@ Share site for a person using complex JSON object for people picker value.
 public static SharingResult ShareSiteWithPeoplePickerValue(Web web, String peoplePickerInput, Group group, Boolean sendEmail, String emailBody)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context of the site to be shared.  
 
-*peoplePickerInput*  
+#### peoplePickerInput  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;JSON object with the people picker value  
 
-*group*  
+#### group  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;The group to invite the user to  
 
-*(optional) sendEmail*  
+#### (optional) sendEmail  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Should we send email for the given address.  
 
-*(optional) emailBody*  
+#### (optional) emailBody  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to be added on share email sent to receiver.  
 

@@ -8,15 +8,15 @@ Returns if the field is found
 public static bool FieldExistsByName(Web web, String fieldName, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
 
-*fieldName*  
+#### fieldName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String for the field internal name to be used as query criteria  
 
-*(optional) searchInSiteHierarchy*  
+#### (optional) searchInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If true, search parent sites and root site  
 

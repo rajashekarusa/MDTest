@@ -8,10 +8,10 @@ Actual implementation of the view creation logic based on given xml
 public static void CreateViewsFromXML(List list, XmlDocument xmlDoc)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*xmlDoc*  
+#### xmlDoc  
 &emsp;&emsp;Type: System.Xml.XmlDocument  
 
 ### Return Value

@@ -8,7 +8,7 @@
 public void remove_RemoveColleagueCompleted(RemoveColleagueCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveColleagueCompletedEventHandler.md)  
 
 ### Return Value

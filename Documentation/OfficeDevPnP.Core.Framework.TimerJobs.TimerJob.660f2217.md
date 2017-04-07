@@ -8,7 +8,7 @@ Takes over the settings from the passed timer job. Is useful when you run multip
 public void Clone(TimerJob job)
 ```
 ### Parameters
-*job*  
+#### job  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.TimerJobs.TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md)  
 
 ### Return Value

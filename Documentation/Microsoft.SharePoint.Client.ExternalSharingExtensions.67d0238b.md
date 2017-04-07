@@ -8,11 +8,11 @@ Get current sharing settings for site and load list of users it has been shared 
 public static ObjectSharingSettings GetObjectSharingSettingsForSite(Web web, Boolean useSimplifiedPolicies)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context  
 
-*(optional) useSimplifiedPolicies*  
+#### (optional) useSimplifiedPolicies  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

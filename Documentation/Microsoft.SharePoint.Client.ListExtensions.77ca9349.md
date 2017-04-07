@@ -8,13 +8,13 @@
 public static View GetViewById(List list, Guid id, Expression<Func<View, Object>>[] expressions)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 
-*expressions*  
+#### expressions  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.View, System.Object>>[]  
 
 ### Return Value

@@ -8,15 +8,15 @@ Checks if a user is member of a group
 public static bool IsUserInGroup(Web web, String groupName, String userLoginName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
 
-*userLoginName*  
+#### userLoginName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Loginname of the user  
 

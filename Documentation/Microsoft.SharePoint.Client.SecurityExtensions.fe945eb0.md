@@ -8,11 +8,11 @@ Removes an administrators from the site collection
 public static void RemoveAdministrator(Web web, UserEntity admin)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
 
-*admin*  
+#### admin  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)  
 &emsp;&emsp; that describes the admin to be removed  
 

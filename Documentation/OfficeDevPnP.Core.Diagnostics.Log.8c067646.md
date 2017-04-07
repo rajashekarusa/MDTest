@@ -8,7 +8,7 @@
 public static void Info(LogEntry logEntry)
 ```
 ### Parameters
-*logEntry*  
+#### logEntry  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
 
 ### Return Value

@@ -8,10 +8,10 @@ Returns the relative URL for a masterpage
 public static string GetRelativeUrlForMasterByName(Web web, String masterPageName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*masterPageName*  
+#### masterPageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the masterpage, e.g. 'default' or 'seattle'  
 

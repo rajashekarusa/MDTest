@@ -8,11 +8,11 @@ Creates a folder with the given name as a child of the Web. Note it is more comm
 public static Folder CreateFolder(Web web, String folderName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check for the named folder  
 
-*folderName*  
+#### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve or create  
 

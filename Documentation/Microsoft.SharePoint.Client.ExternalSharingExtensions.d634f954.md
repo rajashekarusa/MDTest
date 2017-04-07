@@ -8,19 +8,19 @@
 public static string CreateAnonymousLinkWithExpirationForDocument(Web web, String urlToDocument, ExternalSharingDocumentOption shareOption, DateTime expireTime)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context used for people picker search  
 
-*urlToDocument*  
+#### urlToDocument  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Full URL to the file which is shared  
 
-*shareOption*  
+#### shareOption  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;Type of the link to be created - View or Edit  
 
-*expireTime*  
+#### expireTime  
 &emsp;&emsp;Type: System.DateTime  
 &emsp;&emsp;Date time for link expiration - will be converted to ISO 8601 format automatically  
 

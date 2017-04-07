@@ -8,7 +8,7 @@ Returns a SharePoint Online Credential given a certain name. Add the credential 
 public static SharePointOnlineCredentials GetSharePointOnlineCredential(String name)
 ```
 ### Parameters
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

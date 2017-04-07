@@ -8,7 +8,7 @@
 public bool Equals(Object obj)
 ```
 ### Parameters
-*obj*  
+#### obj  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

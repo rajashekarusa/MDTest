@@ -8,7 +8,7 @@
 public static T ToEnum(Int32 enumValue)
 ```
 ### Parameters
-*enumValue*  
+#### enumValue  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

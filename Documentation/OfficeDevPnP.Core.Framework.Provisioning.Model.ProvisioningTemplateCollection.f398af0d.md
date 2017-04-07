@@ -8,7 +8,7 @@ Finds an item matching a search predicate
 public T Find(Predicate match)
 ```
 ### Parameters
-*match*  
+#### match  
 &emsp;&emsp;Type: System.Predicate  
 &emsp;&emsp;The matching predicate to use for finding any target item  
 

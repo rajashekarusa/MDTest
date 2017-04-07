@@ -8,7 +8,7 @@ Deserialize an XDocuemnt to instance of an object T
 public static T Deserialize(XDocument xdoc)
 ```
 ### Parameters
-*xdoc*  
+#### xdoc  
 &emsp;&emsp;Type: System.Xml.Linq.XDocument  
 
 ### Return Value

@@ -8,16 +8,16 @@
 public void RemoveMembershipAsync(String accountName, Guid sourceInternal, String sourceReference, Object userState)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*sourceInternal*  
+#### sourceInternal  
 &emsp;&emsp;Type: System.Guid  
 
-*sourceReference*  
+#### sourceReference  
 &emsp;&emsp;Type: System.String  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

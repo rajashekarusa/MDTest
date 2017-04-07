@@ -8,10 +8,10 @@ Returns a workflow subscription
 public static WorkflowSubscription GetWorkflowSubscription(Web web, Guid id)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 
 ### Return Value

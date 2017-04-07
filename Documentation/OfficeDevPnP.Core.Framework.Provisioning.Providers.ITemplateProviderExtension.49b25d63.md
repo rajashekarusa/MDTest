@@ -8,7 +8,7 @@ Method invoked after deserializing the template from the source repository
 public ProvisioningTemplate PostProcessGetTemplate(ProvisioningTemplate template)
 ```
 ### Parameters
-*template*  
+#### template  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The just deserialized template  
 

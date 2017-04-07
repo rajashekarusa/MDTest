@@ -8,25 +8,25 @@ Creates web part entity with the Yammer OpenGraph structure on it for specific U
 public static WebPartEntity GetYammerOpenGraphDiscussionPart(String yammerNetworkName, String url, Boolean showHeader, Boolean showFooter, String postTitle, String postImageUrl, String defaultGroupId)
 ```
 ### Parameters
-*yammerNetworkName*  
+#### yammerNetworkName  
 &emsp;&emsp;Type: System.String  
 
-*url*  
+#### url  
 &emsp;&emsp;Type: System.String  
 
-*showHeader*  
+#### showHeader  
 &emsp;&emsp;Type: System.Boolean  
 
-*showFooter*  
+#### showFooter  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) postTitle*  
+#### (optional) postTitle  
 &emsp;&emsp;Type: System.String  
 
-*(optional) postImageUrl*  
+#### (optional) postImageUrl  
 &emsp;&emsp;Type: System.String  
 
-*(optional) defaultGroupId*  
+#### (optional) defaultGroupId  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,11 +8,11 @@ Finds a termgroup by its ID
 public static TermGroup GetTermGroupById(Site site, Guid termGroupId)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
-*termGroupId*  
+#### termGroupId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termgroup  
 

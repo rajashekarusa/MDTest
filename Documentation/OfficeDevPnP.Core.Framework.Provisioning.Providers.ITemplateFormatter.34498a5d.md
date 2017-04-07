@@ -8,7 +8,7 @@ Method to format a ProvisioningTemplate into a formatted template
 public Stream ToFormattedTemplate(ProvisioningTemplate template)
 ```
 ### Parameters
-*template*  
+#### template  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The input ProvisioningTemplate  
 

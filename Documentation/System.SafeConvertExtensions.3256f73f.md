@@ -8,7 +8,7 @@
 public static T ToEnum(Byte enumValue)
 ```
 ### Parameters
-*enumValue*  
+#### enumValue  
 &emsp;&emsp;Type: System.Byte  
 
 ### Return Value

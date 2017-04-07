@@ -8,28 +8,28 @@
 public static TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, Guid termSetId, Nullable<Int32> lcid, String description, Nullable<Boolean> isOpen, String termSetContact, String termSetOwner)
 ```
 ### Parameters
-*parentGroup*  
+#### parentGroup  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
 
-*termSetName*  
+#### termSetName  
 &emsp;&emsp;Type: System.String  
 
-*(optional) termSetId*  
+#### (optional) termSetId  
 &emsp;&emsp;Type: System.Guid  
 
-*(optional) lcid*  
+#### (optional) lcid  
 &emsp;&emsp;Type: System.Nullable<System.Int32>  
 
-*(optional) description*  
+#### (optional) description  
 &emsp;&emsp;Type: System.String  
 
-*(optional) isOpen*  
+#### (optional) isOpen  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
 
-*(optional) termSetContact*  
+#### (optional) termSetContact  
 &emsp;&emsp;Type: System.String  
 
-*(optional) termSetOwner*  
+#### (optional) termSetOwner  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

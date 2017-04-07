@@ -8,23 +8,23 @@ Returns a SharePoint ClientContext using Azure Active Directory authentication. 
 public ClientContext GetAzureADNativeApplicationAuthenticatedContext(String siteUrl, String clientId, String redirectUrl, TokenCache tokenCache, AzureEnvironment environment)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
 
-*clientId*  
+#### clientId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Azure AD Native Application Client ID  
 
-*redirectUrl*  
+#### redirectUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Azure AD Native Application Redirect Uri as a string  
 
-*(optional) tokenCache*  
+#### (optional) tokenCache  
 &emsp;&emsp;Type: Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache  
 &emsp;&emsp;Optional token cache. If not specified an in-memory token cache will be used  
 
-*(optional) environment*  
+#### (optional) environment  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;SharePoint environment being used  
 

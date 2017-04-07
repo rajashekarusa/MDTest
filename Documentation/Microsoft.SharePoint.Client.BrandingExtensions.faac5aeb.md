@@ -8,11 +8,11 @@ Sets the web home page
 public static void SetHomePage(Web web, String rootFolderRelativePath)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web to process  
 
-*rootFolderRelativePath*  
+#### rootFolderRelativePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path relative to the root folder of the site, e.g. SitePages/Home.aspx  
 

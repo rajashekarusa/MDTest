@@ -8,11 +8,11 @@ Removes a custom action
 public static void DeleteCustomAction(Web web, Guid id)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the action to remove. GetCustomActions  
 

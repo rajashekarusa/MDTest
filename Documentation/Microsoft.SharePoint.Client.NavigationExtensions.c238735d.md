@@ -8,11 +8,11 @@ Adds custom action to a site collection. If the CustomAction exists the item wil
 public static bool AddCustomAction(Site site, CustomActionEntity customAction)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to be processed  
 
-*customAction*  
+#### customAction  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md)  
 &emsp;&emsp;Information about the custom action be added or deleted  
 

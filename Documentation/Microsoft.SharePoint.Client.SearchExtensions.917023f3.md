@@ -8,7 +8,7 @@ Get the search results page url for the web (Site Settings -> Search --> Search 
 public static string GetWebSearchCenterUrl(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint site - current web  
 

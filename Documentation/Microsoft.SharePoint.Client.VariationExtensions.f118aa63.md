@@ -8,7 +8,7 @@ Retrieve all configured variation labels
 public static IEnumerable<VariationLabelEntity> GetVariationLabels(ClientContext context)
 ```
 ### Parameters
-*context*  
+#### context  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
 

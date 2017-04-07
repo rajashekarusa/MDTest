@@ -8,7 +8,7 @@
 public static string ViewFields(String[] fieldRefs)
 ```
 ### Parameters
-*fieldRefs*  
+#### fieldRefs  
 &emsp;&emsp;Type: System.String[]  
 
 ### Return Value

@@ -8,23 +8,23 @@ Returns a SharePoint ClientContext using Azure Active Directory App Only Authent
 public ClientContext GetAzureADAppOnlyAuthenticatedContext(String siteUrl, String clientId, String tenant, X509Certificate2 certificate, AzureEnvironment environment)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
 
-*clientId*  
+#### clientId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Azure AD Application Client ID  
 
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The Azure AD Tenant, e.g. mycompany.onmicrosoft.com  
 
-*certificate*  
+#### certificate  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
 &emsp;&emsp;Certificate used to authenticate  
 
-*(optional) environment*  
+#### (optional) environment  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;SharePoint environment being used  
 

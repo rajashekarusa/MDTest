@@ -8,10 +8,10 @@ Returns alls workflow instances for a list item
 public static WorkflowInstanceCollection GetWorkflowInstances(Web web, ListItem item)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*item*  
+#### item  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
 
 ### Return Value

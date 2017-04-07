@@ -8,7 +8,7 @@ Gets a property from the custom properties list
 public string GetProperty(String propertyKey)
 ```
 ### Parameters
-*propertyKey*  
+#### propertyKey  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property to retrieve  
 

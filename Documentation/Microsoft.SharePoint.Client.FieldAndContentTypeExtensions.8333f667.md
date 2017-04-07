@@ -8,15 +8,15 @@ Removes content type from list
 public static void RemoveContentTypeFromListByName(Web web, String listTitle, String contentTypeName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listTitle*  
+#### listTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list  
 
-*contentTypeName*  
+#### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the content type  
 

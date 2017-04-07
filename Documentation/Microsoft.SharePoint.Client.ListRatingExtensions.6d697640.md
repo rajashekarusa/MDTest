@@ -8,11 +8,11 @@ Enable Social Settings Likes/Ratings on list. Note: 1. Requires Publishing featu
 public static void SetRating(List list, VotingExperience experience)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;Current List  
 
-*experience*  
+#### experience  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.VotingExperience](OfficeDevPnP.Core.VotingExperience.md)  
 &emsp;&emsp;Likes/Ratings  
 

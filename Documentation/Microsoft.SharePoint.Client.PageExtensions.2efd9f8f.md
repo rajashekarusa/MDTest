@@ -8,15 +8,15 @@ Returns the Url for the requested wiki page, creates it if the pageis not yet av
 public static string EnsureWikiPage(Web web, String wikiPageLibraryName, String wikiPageName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*wikiPageLibraryName*  
+#### wikiPageLibraryName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the wiki page library  
 
-*wikiPageName*  
+#### wikiPageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Wiki page to operate on  
 
@@ -25,4 +25,6 @@ Type: string
 The relative URL of the added wiki page
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

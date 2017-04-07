@@ -8,19 +8,19 @@
 public static void SendEmail(ClientContext context, IEnumerable<String> to, IEnumerable<String> cc, String subject, String body)
 ```
 ### Parameters
-*context*  
+#### context  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 
-*to*  
+#### to  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 
-*cc*  
+#### cc  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
 
-*subject*  
+#### subject  
 &emsp;&emsp;Type: System.String  
 
-*body*  
+#### body  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

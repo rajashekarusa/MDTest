@@ -8,11 +8,11 @@ Checks if the given property bag entry exists
 public static bool PropertyBagContainsKey(Web web, String key)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to check  
 

@@ -8,7 +8,7 @@ Serializes an object instance to an XML represented string.
 public static string Serialize(T objectToSerialize)
 ```
 ### Parameters
-*objectToSerialize*  
+#### objectToSerialize  
 &emsp;&emsp;Type: T  
 
 ### Return Value

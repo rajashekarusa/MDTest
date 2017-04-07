@@ -8,13 +8,13 @@
 public static void Info(String source, String message, Object[] args)
 ```
 ### Parameters
-*source*  
+#### source  
 &emsp;&emsp;Type: System.String  
 
-*message*  
+#### message  
 &emsp;&emsp;Type: System.String  
 
-*args*  
+#### args  
 &emsp;&emsp;Type: System.Object[]  
 
 ### Return Value

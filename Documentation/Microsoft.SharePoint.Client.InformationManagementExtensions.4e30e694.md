@@ -8,7 +8,7 @@ Check if a site is closed
 public static bool IsClosedBySitePolicy(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 

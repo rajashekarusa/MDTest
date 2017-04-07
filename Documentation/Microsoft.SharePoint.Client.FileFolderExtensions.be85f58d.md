@@ -8,11 +8,11 @@ Publishes a file based on the type of versioning required on the parent library.
 public static void PublishFileToLevel(File file, FileLevel level)
 ```
 ### Parameters
-*file*  
+#### file  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
 &emsp;&emsp;Target file to publish.  
 
-*level*  
+#### level  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.FileLevel  
 &emsp;&emsp;Target publish direction (Draft and Published only apply, Checkout is ignored).  
 

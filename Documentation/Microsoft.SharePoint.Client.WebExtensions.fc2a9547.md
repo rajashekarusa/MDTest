@@ -8,7 +8,7 @@ Returns all keys in the property bag that have been marked for indexing
 public static IEnumerable<String> GetIndexedPropertyBagKeys(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The site to process  
 

@@ -8,7 +8,7 @@ Deserializes an XML string to an object instance
 public static T Deserialize(String xmlString)
 ```
 ### Parameters
-*xmlString*  
+#### xmlString  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string in XML format that representing the serialized object  
 

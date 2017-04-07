@@ -8,10 +8,10 @@ Includes an enumerated type and returns the new value
 public static T Include(Enum value, T append)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: System.Enum  
 
-*append*  
+#### append  
 &emsp;&emsp;Type: T  
 
 ### Return Value

@@ -8,11 +8,11 @@ Gets the site policy with the given name
 public static SitePolicyEntity GetSitePolicyByName(Web web, String sitePolicy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 
-*sitePolicy*  
+#### sitePolicy  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site policy to fetch  
 

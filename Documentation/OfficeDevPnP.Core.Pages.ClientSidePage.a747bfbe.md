@@ -8,10 +8,10 @@
 public void AddZone(CanvasZone zone, Int32 order)
 ```
 ### Parameters
-*zone*  
+#### zone  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md)  
 
-*order*  
+#### order  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

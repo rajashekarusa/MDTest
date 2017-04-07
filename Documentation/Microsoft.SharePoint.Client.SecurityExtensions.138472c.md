@@ -8,15 +8,15 @@ Removes a user from a group
 public static void RemoveUserFromGroup(Web web, Group group, User user)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
-*group*  
+#### group  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group object to operate against  
 
-*user*  
+#### user  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.User  
 &emsp;&emsp;User object that needs to be removed  
 

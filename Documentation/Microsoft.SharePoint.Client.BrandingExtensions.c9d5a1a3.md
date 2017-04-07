@@ -8,35 +8,35 @@ Creates (or updates) a composed look in the web site; usually this is done in th
 public static void CreateComposedLookByUrl(Web web, String lookName, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, String masterServerRelativeUrl, Int32 displayOrder, Boolean replaceContent)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to create the composed look in  
 
-*lookName*  
+#### lookName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the theme  
 
-*paletteServerRelativeUrl*  
+#### paletteServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the palette file, usually in the theme catalog of the site collection  
 
-*fontServerRelativeUrl*  
+#### fontServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the font file, usually in the theme catalog of the site collection  
 
-*backgroundServerRelativeUrl*  
+#### backgroundServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the background image file, usually in /_layouts/15/images  
 
-*masterServerRelativeUrl*  
+#### masterServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL of the master page, usually in the masterpage catalog of the web site  
 
-*(optional) displayOrder*  
+#### (optional) displayOrder  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Display order of the composed look  
 
-*(optional) replaceContent*  
+#### (optional) replaceContent  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Replace composed look if it already exists (default true)  
 

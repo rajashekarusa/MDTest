@@ -8,10 +8,10 @@
 public void GetUserProfileByIndexAsync(Int32 index, Object userState)
 ```
 ### Parameters
-*index*  
+#### index  
 &emsp;&emsp;Type: System.Int32  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

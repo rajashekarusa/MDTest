@@ -8,7 +8,7 @@
 public bool Equals(Localization other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md)  
 
 ### Return Value

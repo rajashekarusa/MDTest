@@ -8,10 +8,10 @@
 public void AddControl(CanvasControl control, Int32 order)
 ```
 ### Parameters
-*control*  
+#### control  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)  
 
-*order*  
+#### order  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

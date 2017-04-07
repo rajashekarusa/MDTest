@@ -8,19 +8,19 @@ Adds content type to list
 public static void AddContentTypeToList(Web web, String listTitle, ContentType contentType, Boolean defaultContent)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listTitle*  
+#### listTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list  
 
-*contentType*  
+#### contentType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to be added to the list  
 
-*(optional) defaultContent*  
+#### (optional) defaultContent  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
 

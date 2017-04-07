@@ -8,7 +8,7 @@ Checks if in place records management functionality is enabled for this site col
 public static bool IsInPlaceRecordsManagementActive(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

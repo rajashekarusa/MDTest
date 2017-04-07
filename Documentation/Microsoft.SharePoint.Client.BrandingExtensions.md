@@ -49,4 +49,6 @@ public static class BrandingExtensions
 | [UploadThemeFile(Web, String, String, String)](Microsoft.SharePoint.Client.BrandingExtensions.80e3ffa7.md) | Uploads the specified file (usually an spcolor or spfont file) to the web site themes gallery (usually only exists in the root web of a site collection).
 | [UploadThemeFile(Web, String, Stream, String)](Microsoft.SharePoint.Client.BrandingExtensions.38560132.md) | Uploads the specified file (usually an spcolor or spfont file) to the web site themes gallery (usually only exists in the root web of a site collection).
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

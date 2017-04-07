@@ -8,7 +8,7 @@
 public static bool IsPublishingWeb(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
 ### Return Value

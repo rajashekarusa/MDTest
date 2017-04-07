@@ -8,11 +8,11 @@ Checks if list exists on the particular site based on the list id property.
 public static bool ListExists(Web web, Guid id)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the list to be checked.  
 
@@ -21,4 +21,6 @@ Type: bool
 True if the list exists
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

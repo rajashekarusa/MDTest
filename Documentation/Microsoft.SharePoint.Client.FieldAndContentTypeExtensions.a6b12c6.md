@@ -8,10 +8,10 @@
 public static Field GetFieldByInternalName(FieldCollection fields, String internalName)
 ```
 ### Parameters
-*fields*  
+#### fields  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.FieldCollection  
 
-*internalName*  
+#### internalName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

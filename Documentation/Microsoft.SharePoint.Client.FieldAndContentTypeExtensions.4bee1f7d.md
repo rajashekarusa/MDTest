@@ -8,23 +8,23 @@ Adds content type to list
 public static void AddContentTypeToListByName(Web web, String listTitle, String contentTypeName, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listTitle*  
+#### listTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the list  
 
-*contentTypeName*  
+#### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
 
-*(optional) defaultContent*  
+#### (optional) defaultContent  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this the default content type  
 
-*(optional) searchContentTypeInSiteHierarchy*  
+#### (optional) searchContentTypeInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;search for content type in site hierarchy  
 

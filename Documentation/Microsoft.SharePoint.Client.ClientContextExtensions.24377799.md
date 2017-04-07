@@ -8,11 +8,11 @@ Clones a ClientContext object while "taking over" the security context of the ex
 public static ClientContext Clone(ClientRuntimeContext clientContext, Uri siteUrl)
 ```
 ### Parameters
-*clientContext*  
+#### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;ClientContext to be cloned  
 
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site url to be used for cloned ClientContext  
 

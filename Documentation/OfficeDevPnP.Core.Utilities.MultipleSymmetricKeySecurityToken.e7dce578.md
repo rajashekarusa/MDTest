@@ -8,7 +8,7 @@ Returns a value that indicates whether the key identifier for this instance can 
 public bool MatchesKeyIdentifierClause(SecurityKeyIdentifierClause keyIdentifierClause)
 ```
 ### Parameters
-*keyIdentifierClause*  
+#### keyIdentifierClause  
 &emsp;&emsp;Type: System.IdentityModel.Tokens.SecurityKeyIdentifierClause  
 &emsp;&emsp;A SecurityKeyIdentifierClause to compare to this instance  
 

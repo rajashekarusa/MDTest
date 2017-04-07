@@ -8,13 +8,13 @@
 public void LogInfo(Exception ex, String message, Object[] args)
 ```
 ### Parameters
-*ex*  
+#### ex  
 &emsp;&emsp;Type: System.Exception  
 
-*message*  
+#### message  
 &emsp;&emsp;Type: System.String  
 
-*args*  
+#### args  
 &emsp;&emsp;Type: System.Object[]  
 
 ### Return Value

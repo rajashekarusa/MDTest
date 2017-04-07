@@ -8,19 +8,19 @@ Associates field to content type
 public static void AddFieldById(ContentType contentType, Guid fieldId, Boolean required, Boolean hidden)
 ```
 ### Parameters
-*contentType*  
+#### contentType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content Type to add the field to  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The Id of the field  
 
-*(optional) required*  
+#### (optional) required  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is required  
 
-*(optional) hidden*  
+#### (optional) hidden  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True if the field is hidden  
 

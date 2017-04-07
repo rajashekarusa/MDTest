@@ -8,13 +8,13 @@
 public static void AddAdministrators(Web web, List<UserEntity> adminLogins, Boolean addToOwnersGroup)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*adminLogins*  
+#### adminLogins  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>  
 
-*(optional) addToOwnersGroup*  
+#### (optional) addToOwnersGroup  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

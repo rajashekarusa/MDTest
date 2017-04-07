@@ -8,23 +8,23 @@ Enable/disable versioning on a list
 public static void UpdateListVersioning(Web web, String listName, Boolean enableVersioning, Boolean enableMinorVersioning, Boolean updateAndExecuteQuery)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listName*  
+#### listName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;List to operate on  
 
-*enableVersioning*  
+#### enableVersioning  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to enable versioning, false to disable  
 
-*(optional) enableMinorVersioning*  
+#### (optional) enableMinorVersioning  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Enable/Disable minor versioning  
 
-*(optional) updateAndExecuteQuery*  
+#### (optional) updateAndExecuteQuery  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Perform list update and executequery, defaults to true  
 
@@ -32,4 +32,6 @@ public static void UpdateListVersioning(Web web, String listName, Boolean enable
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

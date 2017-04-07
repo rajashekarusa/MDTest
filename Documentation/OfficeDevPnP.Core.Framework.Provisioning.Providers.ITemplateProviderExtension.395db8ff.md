@@ -8,7 +8,7 @@ Method invoked before deserializing the template from the source repository
 public Stream PreProcessGetTemplate(Stream stream)
 ```
 ### Parameters
-*stream*  
+#### stream  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The source stream  
 

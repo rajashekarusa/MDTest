@@ -8,15 +8,15 @@ Returns the site collections that comply with the passed keyword query
 public static List<SiteEntity> SiteSearch(Web web, String keywordQueryValue, Boolean trimDuplicates)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*keywordQueryValue*  
+#### keywordQueryValue  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Keyword query  
 
-*(optional) trimDuplicates*  
+#### (optional) trimDuplicates  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Indicates if dublicates should be trimmed or not  
 

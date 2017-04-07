@@ -8,19 +8,19 @@ Removes a permission level from a user
 public static void RemovePermissionLevelFromUser(SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeAllPermissionLevels)
 ```
 ### Parameters
-*securableObject*  
+#### securableObject  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.SecurableObject  
 &emsp;&emsp;Web/List/Item to operate against  
 
-*userLoginName*  
+#### userLoginName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Loginname of user  
 
-*permissionLevel*  
+#### permissionLevel  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.RoleType  
 &emsp;&emsp;Permission level to remove. If null all permission levels are removed  
 
-*(optional) removeAllPermissionLevels*  
+#### (optional) removeAllPermissionLevels  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true to remove all permission level.  
 

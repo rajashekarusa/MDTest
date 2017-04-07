@@ -8,7 +8,7 @@ Enable in place records management. The in place records management feature will
 public static void EnableSiteForInPlaceRecordsManagement(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

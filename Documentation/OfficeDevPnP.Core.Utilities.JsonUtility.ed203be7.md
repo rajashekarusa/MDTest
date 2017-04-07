@@ -8,7 +8,7 @@ Serializes an object of type T to a json string
 public static string Serialize(T obj)
 ```
 ### Parameters
-*obj*  
+#### obj  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to serialize  
 

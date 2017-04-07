@@ -8,19 +8,19 @@ Enable/disable versioning on a list
 public static void UpdateListVersioning(List list, Boolean enableVersioning, Boolean enableMinorVersioning, Boolean updateAndExecuteQuery)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
 
-*enableVersioning*  
+#### enableVersioning  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to enable versioning, false to disable  
 
-*(optional) enableMinorVersioning*  
+#### (optional) enableMinorVersioning  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Enable/Disable minor versioning  
 
-*(optional) updateAndExecuteQuery*  
+#### (optional) updateAndExecuteQuery  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Perform list update and executequery, defaults to true  
 

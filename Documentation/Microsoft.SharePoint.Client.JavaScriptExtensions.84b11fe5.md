@@ -8,11 +8,11 @@ Checks if the target site already has a custom JsLink with a specified key
 public static bool ExistsJsLink(Site site, String key)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be created  
 

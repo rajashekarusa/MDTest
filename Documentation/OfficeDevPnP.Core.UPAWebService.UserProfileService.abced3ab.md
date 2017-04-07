@@ -8,7 +8,7 @@
 public void GetUserProfileSchemaAsync(Object userState)
 ```
 ### Parameters
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

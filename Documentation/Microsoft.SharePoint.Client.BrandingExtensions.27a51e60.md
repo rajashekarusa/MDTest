@@ -8,27 +8,27 @@
 public static void DeployPageLayout(Web web, String sourceFilePath, String title, String description, String associatedContentTypeID, String folderHierarchy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web as the root site of the publishing site collection  
 
-*sourceFilePath*  
+#### sourceFilePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Full path to the file which will be uploaded  
 
-*title*  
+#### title  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title for the page layout  
 
-*description*  
+#### description  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Description for the page layout  
 
-*associatedContentTypeID*  
+#### associatedContentTypeID  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Associated content type ID  
 
-*(optional) folderHierarchy*  
+#### (optional) folderHierarchy  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder hierarchy where the page layouts will be deployed  
 

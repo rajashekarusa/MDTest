@@ -8,7 +8,7 @@ Gets a site collection context for the passed web. This site collection client c
 public static ClientContext GetSiteCollectionContext(ClientRuntimeContext clientContext)
 ```
 ### Parameters
-*clientContext*  
+#### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;Client context to take the credentials from  
 

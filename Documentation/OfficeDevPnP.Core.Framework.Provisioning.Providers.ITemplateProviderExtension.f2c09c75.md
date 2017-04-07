@@ -8,7 +8,7 @@ Initialization method to setup the extension object
 public void Initialize(Object settings)
 ```
 ### Parameters
-*settings*  
+#### settings  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

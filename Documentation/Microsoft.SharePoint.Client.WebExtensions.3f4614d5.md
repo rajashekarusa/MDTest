@@ -8,7 +8,7 @@ Checks if the current web is a sub site or not
 public static bool IsSubSite(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 

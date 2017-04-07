@@ -8,15 +8,15 @@ Adds jsLink to a list field.
 public static void SetJsLinkCustomizations(List list, String fieldName, String jsLink)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list where the field exists.  
 
-*fieldName*  
+#### fieldName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The field to add jsLink to.  
 
-*jsLink*  
+#### jsLink  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;JSLink to set to the form. Set to empty string to remove the set JSLink customization.
             Specify multiple values separated by pipe symbol. For e.g.: ~sitecollection/_catalogs/masterpage/jquery-2.1.0.min.js|~sitecollection/_catalogs/masterpage/custom.js

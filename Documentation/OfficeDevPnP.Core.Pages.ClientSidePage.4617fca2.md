@@ -8,7 +8,7 @@
 public void AddZone(CanvasZone zone)
 ```
 ### Parameters
-*zone*  
+#### zone  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md)  
 
 ### Return Value

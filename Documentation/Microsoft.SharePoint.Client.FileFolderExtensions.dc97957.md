@@ -8,13 +8,13 @@
 public static void SetFileProperties(File file, IDictionary<String, String> properties, Boolean checkoutIfRequired)
 ```
 ### Parameters
-*file*  
+#### file  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
 
-*properties*  
+#### properties  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String, System.String>  
 
-*(optional) checkoutIfRequired*  
+#### (optional) checkoutIfRequired  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

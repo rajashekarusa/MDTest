@@ -8,7 +8,7 @@ Provides the timer job with the enumeration credentials. For SharePoint on-premi
 public void SetEnumerationCredentials(String credentialName)
 ```
 ### Parameters
-*credentialName*  
+#### credentialName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the credential manager registration  
 

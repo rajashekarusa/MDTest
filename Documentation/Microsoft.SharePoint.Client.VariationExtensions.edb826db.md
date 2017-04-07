@@ -8,11 +8,11 @@ Configures the variation settings 1. Go to "Site Actions" -> "Site settings" 2. 
 public static void ConfigureVariationsSettings(ClientContext context, VariationInformation variationSettings)
 ```
 ### Parameters
-*context*  
+#### context  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
 
-*variationSettings*  
+#### variationSettings  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md)  
 &emsp;&emsp;Variation settings  
 

@@ -8,15 +8,15 @@ Encrypts data based on the RSACryptoServiceProvider
 public static Byte[] Encrypt(Byte[] plainData, Boolean fOAEP, X509Certificate2 certificate)
 ```
 ### Parameters
-*plainData*  
+#### plainData  
 &emsp;&emsp;Type: System.Byte[]  
 &emsp;&emsp;Bytes to encrypt  
 
-*fOAEP*  
+#### fOAEP  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp; true to perform direct System.Security.Cryptography.RSA decryption using OAEP padding  
 
-*certificate*  
+#### certificate  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.X509Certificate2  
 &emsp;&emsp;Certificate to use  
 

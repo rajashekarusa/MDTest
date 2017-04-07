@@ -8,7 +8,7 @@ Method to validate the content of a formatted template instace
 public bool IsValid(Stream template)
 ```
 ### Parameters
-*template*  
+#### template  
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The formatted template instance as a Stream  
 

@@ -8,10 +8,10 @@
 public static string ToDetailedString(Exception exception, ExceptionOptions options)
 ```
 ### Parameters
-*exception*  
+#### exception  
 &emsp;&emsp;Type: System.Exception  
 
-*options*  
+#### options  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
 
 ### Return Value

@@ -8,7 +8,7 @@ Gets the request access e-mail addresses of the web.
 public static IEnumerable<String> GetRequestAccessEmails(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to get the request access e-mail addresses from.  
 

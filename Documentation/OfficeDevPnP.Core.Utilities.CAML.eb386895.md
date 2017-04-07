@@ -8,23 +8,23 @@ Root <View> and <Query> nodes.
 public static string ViewQuery(ViewScope scope, String whereClause, String orderByClause, String viewFields, Int32 rowLimit)
 ```
 ### Parameters
-*scope*  
+#### scope  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ViewScope  
 &emsp;&emsp;View scope  
 
-*(optional) whereClause*  
+#### (optional) whereClause  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;<Where> node.  
 
-*(optional) orderByClause*  
+#### (optional) orderByClause  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;<OrderBy> node.  
 
-*(optional) viewFields*  
+#### (optional) viewFields  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;<ViewFields> node.  
 
-*(optional) rowLimit*  
+#### (optional) rowLimit  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;<RowLimit> node.  
 

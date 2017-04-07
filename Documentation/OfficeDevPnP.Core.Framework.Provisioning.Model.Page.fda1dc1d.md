@@ -8,7 +8,7 @@
 public bool Equals(Page other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Page](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.md)  
 
 ### Return Value

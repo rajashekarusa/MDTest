@@ -8,11 +8,11 @@ Returns the integer ID for a given group name
 public static int GetGroupID(Web web, String groupName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;SharePoint group name  
 

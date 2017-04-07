@@ -8,7 +8,7 @@ Converts generic Expression<Func<TInput, TOutput>> to Expression with object ret
 public static Expression<Func<TInput, Object>> ToUntypedPropertyExpression(Expression<Func<TInput, TOutput>> expression)
 ```
 ### Parameters
-*expression*  
+#### expression  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<TInput, TOutput>>  
 &emsp;&emsp; to convert   
 

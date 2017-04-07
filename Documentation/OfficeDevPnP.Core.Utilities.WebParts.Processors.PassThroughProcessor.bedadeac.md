@@ -8,10 +8,10 @@
 public void Process(WebPartDefinition wpDefinition, File webPartPage)
 ```
 ### Parameters
-*wpDefinition*  
+#### wpDefinition  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
 
-*webPartPage*  
+#### webPartPage  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
 
 ### Return Value

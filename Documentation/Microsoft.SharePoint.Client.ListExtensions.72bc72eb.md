@@ -8,7 +8,7 @@ Gets the publishing pages library of the web based on site language
 public static List GetPagesLibrary(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web.  
 
@@ -17,4 +17,5 @@ Type: List
 The publishing pages library. Returns null if library was not found.
 
 ## See also
+- System.InvalidOperationException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

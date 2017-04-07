@@ -8,7 +8,7 @@ Returns all image renditions
 public static IList<ImageRendition> GetPublishingImageRenditions(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
 

@@ -8,10 +8,10 @@
 public static IEnumerable<UserCustomAction> GetCustomActions(Site site, Expression<Func<UserCustomAction, Object>>[] expressions)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
-*expressions*  
+#### expressions  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.UserCustomAction, System.Object>>[]  
 
 ### Return Value

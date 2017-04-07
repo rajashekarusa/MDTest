@@ -8,15 +8,15 @@ Adds a wiki page by Url
 public static void AddWikiPageByUrl(Web web, String serverRelativePageUrl, String html)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative URL of the wiki page to process  
 
-*(optional) html*  
+#### (optional) html  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;HTML to add to wiki page  
 
@@ -24,4 +24,6 @@ public static void AddWikiPageByUrl(Web web, String serverRelativePageUrl, Strin
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

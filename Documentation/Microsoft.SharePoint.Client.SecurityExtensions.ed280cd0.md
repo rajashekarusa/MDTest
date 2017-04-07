@@ -8,7 +8,7 @@ Add read access to the group "Everyone except external users".
 public static User AddReaderAccess(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 

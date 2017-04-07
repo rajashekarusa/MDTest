@@ -8,11 +8,11 @@ Deletes a file from the specified container
 public void DeleteFile(String fileName, String container)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to delete  
 
-*container*  
+#### container  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to delete the file from  
 

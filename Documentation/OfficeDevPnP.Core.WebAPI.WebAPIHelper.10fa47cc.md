@@ -8,7 +8,7 @@ Uses the information regarding the requesting app to obtain an access token and 
 public static void AddToCache(WebAPIContext sharePointServiceContext)
 ```
 ### Parameters
-*sharePointServiceContext*  
+#### sharePointServiceContext  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.WebAPI.WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md)  
 &emsp;&emsp;Object holding information about the requesting SharePoint app  
 

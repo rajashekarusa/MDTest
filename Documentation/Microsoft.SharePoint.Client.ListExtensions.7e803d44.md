@@ -8,11 +8,11 @@ Returns the GUID id of a list
 public static Guid GetListID(Web web, String listName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*listName*  
+#### listName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;List to operate on  
 
@@ -20,4 +20,6 @@ public static Guid GetListID(Web web, String listName)
 Type: Guid  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

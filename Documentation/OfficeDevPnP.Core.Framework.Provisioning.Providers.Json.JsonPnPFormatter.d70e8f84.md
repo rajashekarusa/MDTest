@@ -8,7 +8,7 @@
 public ProvisioningTemplate ToProvisioningTemplate(Stream template)
 ```
 ### Parameters
-*template*  
+#### template  
 &emsp;&emsp;Type: System.IO.Stream  
 
 ### Return Value

@@ -8,7 +8,7 @@
 public bool Equals(FieldRef other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md)  
 
 ### Return Value

@@ -8,7 +8,7 @@ Gets the current restrictions on declared records
 public static EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

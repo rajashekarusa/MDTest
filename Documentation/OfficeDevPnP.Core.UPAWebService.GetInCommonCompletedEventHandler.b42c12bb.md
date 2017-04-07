@@ -8,10 +8,10 @@
 public void Invoke(Object sender, GetInCommonCompletedEventArgs e)
 ```
 ### Parameters
-*sender*  
+#### sender  
 &emsp;&emsp;Type: System.Object  
 
-*e*  
+#### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs.md)  
 
 ### Return Value

@@ -8,15 +8,15 @@ Does content type exists in the web
 public static bool ContentTypeExistsByName(Web web, String contentTypeName, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
 
-*contentTypeName*  
+#### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
 
-*(optional) searchInSiteHierarchy*  
+#### (optional) searchInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Searches accross all content types in the site up to the root site  
 

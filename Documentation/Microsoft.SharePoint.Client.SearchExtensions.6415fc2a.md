@@ -8,7 +8,7 @@ Returns the current search configuration as as string
 public static string GetSearchConfiguration(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
 ### Return Value

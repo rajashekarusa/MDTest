@@ -8,7 +8,7 @@ Returns if auto record declaration is active for this list
 public static bool GetListAutoRecordDeclaration(List list)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
 

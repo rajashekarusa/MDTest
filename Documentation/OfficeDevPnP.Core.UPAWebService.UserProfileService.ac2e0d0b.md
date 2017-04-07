@@ -8,19 +8,19 @@
 public ContactData AddColleague(String accountName, String colleagueAccountName, String group, Privacy privacy, Boolean isInWorkGroup)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*colleagueAccountName*  
+#### colleagueAccountName  
 &emsp;&emsp;Type: System.String  
 
-*group*  
+#### group  
 &emsp;&emsp;Type: System.String  
 
-*privacy*  
+#### privacy  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 
-*isInWorkGroup*  
+#### isInWorkGroup  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

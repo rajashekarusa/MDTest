@@ -8,7 +8,7 @@
 public bool Equals(Field other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Field](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.md)  
 
 ### Return Value

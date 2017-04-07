@@ -8,11 +8,11 @@ Removes the custom action that triggers the execution of a javascript link
 public static bool DeleteJsLink(Site site, String key)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be deleted  
 

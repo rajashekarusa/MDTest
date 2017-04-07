@@ -8,7 +8,7 @@ Queues a web for a full crawl the next incremental/continous crawl
 public static void ReIndexWeb(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed  
 

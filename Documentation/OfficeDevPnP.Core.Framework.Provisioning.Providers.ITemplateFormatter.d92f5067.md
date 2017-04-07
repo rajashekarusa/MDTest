@@ -8,7 +8,7 @@ Method to initialize the formatter with the proper TemplateProvider instance
 public void Initialize(TemplateProviderBase provider)
 ```
 ### Parameters
-*provider*  
+#### provider  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)  
 &emsp;&emsp;The provider that is calling the current template formatter  
 

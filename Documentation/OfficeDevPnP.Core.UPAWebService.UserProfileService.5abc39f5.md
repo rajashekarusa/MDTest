@@ -8,7 +8,7 @@
 public void remove_GetUserPropertyByAccountNameCompleted(GetUserPropertyByAccountNameCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPropertyByAccountNameCompletedEventHandler.md)  
 
 ### Return Value

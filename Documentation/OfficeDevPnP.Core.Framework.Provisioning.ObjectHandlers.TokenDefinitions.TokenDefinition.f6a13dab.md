@@ -8,7 +8,7 @@
 public Regex GetRegexForToken(String token)
 ```
 ### Parameters
-*token*  
+#### token  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

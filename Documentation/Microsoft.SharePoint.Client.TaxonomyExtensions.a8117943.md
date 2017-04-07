@@ -8,7 +8,7 @@ Returns a new taxonomy session for the current site
 public static TaxonomySession GetTaxonomySession(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 
 ### Return Value

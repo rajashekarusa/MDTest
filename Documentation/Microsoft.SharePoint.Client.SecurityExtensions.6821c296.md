@@ -8,27 +8,27 @@ Adds a group
 public static Group AddGroup(Web web, String groupName, String groupDescription, Boolean groupIsOwner, Boolean updateAndExecuteQuery, Boolean onlyAllowMembersViewMembership)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to add the group to  
 
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the group  
 
-*groupDescription*  
+#### groupDescription  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Description of the group  
 
-*groupIsOwner*  
+#### groupIsOwner  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Sets the created group as group owner if true  
 
-*(optional) updateAndExecuteQuery*  
+#### (optional) updateAndExecuteQuery  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to false to postpone the executequery call  
 
-*(optional) onlyAllowMembersViewMembership*  
+#### (optional) onlyAllowMembersViewMembership  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set whether members are allowed to see group membership, defaults to false  
 

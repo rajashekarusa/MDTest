@@ -8,19 +8,19 @@ Deletes a web part from a page
 public static void DeleteWebPart(Web web, String folder, String title, String page)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*folder*  
+#### folder  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;System name of the wiki page library - typically sitepages  
 
-*title*  
+#### title  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web part that needs to be deleted  
 
-*page*  
+#### page  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Page to remove the web part from  
 
@@ -28,4 +28,6 @@ public static void DeleteWebPart(Web web, String folder, String title, String pa
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

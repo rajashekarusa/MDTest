@@ -8,14 +8,14 @@ Gets a Taxonomy Term by Name
 public static Term GetTermByName(Site site, Guid termSetId, String term)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The site to process  
 
-*termSetId*  
+#### termSetId  
 &emsp;&emsp;Type: System.Guid  
 
-*term*  
+#### term  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

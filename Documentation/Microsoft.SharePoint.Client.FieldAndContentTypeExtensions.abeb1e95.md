@@ -8,11 +8,11 @@ Creates fields from feature element xml file schema. XML file can contain one or
 public static void CreateFieldsFromXMLString(Web web, String xmlStructure)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
 
-*xmlStructure*  
+#### xmlStructure  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;XML structure in string format  
 

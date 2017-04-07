@@ -8,7 +8,7 @@ Prepares the timerjob to operate against Office 365 with user and password crede
 public void UseOffice365Authentication(String credentialName)
 ```
 ### Parameters
-*credentialName*  
+#### credentialName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the credential manager registration  
 

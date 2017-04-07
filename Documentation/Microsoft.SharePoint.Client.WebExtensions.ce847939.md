@@ -8,11 +8,11 @@ Removes the app instance with the specified title.
 public static bool RemoveAppInstanceByTitle(Web web, String appTitle)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to remove the app instance from  
 
-*appTitle*  
+#### appTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the app instance to remove  
 

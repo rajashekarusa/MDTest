@@ -8,10 +8,10 @@ Create list views based on specific xml structure in external file
 public static void CreateViewsFromXMLFile(List list, String filePath)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*filePath*  
+#### filePath  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

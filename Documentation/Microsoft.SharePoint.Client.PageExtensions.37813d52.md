@@ -8,11 +8,11 @@ List the web parts on a page
 public static IEnumerable<WebPartDefinition> GetWebParts(Web web, String serverRelativePageUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Server relative url of the page containing the webparts  
 
@@ -20,4 +20,6 @@ public static IEnumerable<WebPartDefinition> GetWebParts(Web web, String serverR
 Type: IEnumerable<WebPartDefinition>  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

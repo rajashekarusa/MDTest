@@ -8,7 +8,7 @@
 public void add_UpdateLinkCompleted(UpdateLinkCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdateLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdateLinkCompletedEventHandler.md)  
 
 ### Return Value

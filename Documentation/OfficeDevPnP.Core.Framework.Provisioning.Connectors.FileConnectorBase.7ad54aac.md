@@ -8,11 +8,11 @@ Gets a file as string from the specified container
 public string GetFile(String fileName, String container)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
 
-*container*  
+#### container  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the file from  
 

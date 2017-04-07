@@ -8,11 +8,11 @@ Gets a file as stream from the specified container
 public Stream GetFileStream(String fileName, String container)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
 
-*container*  
+#### container  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the container to get the file from  
 

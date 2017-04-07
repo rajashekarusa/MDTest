@@ -8,11 +8,11 @@ Determines whether the current Web has the managed navigation enabled
 public static bool IsManagedNavigationEnabled(Web web, ManagedNavigationKind navigationKind)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target web.  
 
-*navigationKind*  
+#### navigationKind  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ManagedNavigationKind](Microsoft.SharePoint.Client.ManagedNavigationKind.md)  
 &emsp;&emsp;The kind of navigation (Current or Global).  
 

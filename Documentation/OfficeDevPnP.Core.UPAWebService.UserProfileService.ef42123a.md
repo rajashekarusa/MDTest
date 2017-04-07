@@ -8,7 +8,7 @@
 public void RemoveLeader(String accountName)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

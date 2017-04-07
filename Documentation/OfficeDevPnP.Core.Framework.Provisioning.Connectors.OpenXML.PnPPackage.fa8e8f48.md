@@ -8,13 +8,13 @@
 public static PnPPackage Open(Stream stream, FileMode mode, FileAccess access)
 ```
 ### Parameters
-*stream*  
+#### stream  
 &emsp;&emsp;Type: System.IO.Stream  
 
-*mode*  
+#### mode  
 &emsp;&emsp;Type: System.IO.FileMode  
 
-*access*  
+#### access  
 &emsp;&emsp;Type: System.IO.FileAccess  
 
 ### Return Value

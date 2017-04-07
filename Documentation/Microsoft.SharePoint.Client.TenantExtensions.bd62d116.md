@@ -8,15 +8,15 @@ Returns if a site collection is in a particular status. If the url contains a su
 public static bool CheckIfSiteExists(Tenant tenant, String siteFullUrl, String status)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Url to the site collection  
 
-*status*  
+#### status  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Status to check (Active, Creating, Recycled)  
 

@@ -8,7 +8,7 @@ Checks if this request has a servicesToken cookie. To be used from inside the We
 public static bool HasCacheEntry(HttpControllerContext httpControllerContext)
 ```
 ### Parameters
-*httpControllerContext*  
+#### httpControllerContext  
 &emsp;&emsp;Type: System.Web.Http.Controllers.HttpControllerContext  
 &emsp;&emsp;Information about the HTTP request that reached the WebAPI controller  
 

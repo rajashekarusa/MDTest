@@ -8,27 +8,27 @@ Performs active authentication against ADFS using the trust/13/usernamemixed ADF
 public CookieContainer GetFedAuthCookie(String siteUrl, String userName, String password, Uri userNameMixed, String relyingPartyIdentifier, Int32 logonTokenCacheExpirationWindow)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Url of the SharePoint site that's secured via ADFS  
 
-*userName*  
+#### userName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the user (e.g. domain\administrator)   
 
-*password*  
+#### password  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Password of th user  
 
-*userNameMixed*  
+#### userNameMixed  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Uri to the ADFS usernamemixed endpoint  
 
-*relyingPartyIdentifier*  
+#### relyingPartyIdentifier  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier of the ADFS relying party that we're hitting  
 
-*logonTokenCacheExpirationWindow*  
+#### logonTokenCacheExpirationWindow  
 &emsp;&emsp;Type: System.Int32  
 
 ### Return Value

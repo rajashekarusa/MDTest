@@ -8,11 +8,11 @@ Encrypt a piece of text based on a given certificate
 public static string Encrypt(String stringToEncrypt, String thumbPrint)
 ```
 ### Parameters
-*stringToEncrypt*  
+#### stringToEncrypt  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to encrypt  
 
-*thumbPrint*  
+#### thumbPrint  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to use  
 

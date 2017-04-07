@@ -8,7 +8,7 @@ Converts the input string to a Int64 and if null, it returns the default value.
 public static int ToInt32(String input)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 

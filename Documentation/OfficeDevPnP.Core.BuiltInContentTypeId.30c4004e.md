@@ -8,7 +8,7 @@
 public static bool Contains(String id)
 ```
 ### Parameters
-*id*  
+#### id  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

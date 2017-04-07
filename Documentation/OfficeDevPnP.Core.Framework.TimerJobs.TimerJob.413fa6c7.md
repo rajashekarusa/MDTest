@@ -8,7 +8,7 @@ Prepares the timerjob to operate against SharePoint on-premises with user name p
 public void UseNetworkCredentialsAuthentication(String credentialName)
 ```
 ### Parameters
-*credentialName*  
+#### credentialName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the credential manager registration  
 

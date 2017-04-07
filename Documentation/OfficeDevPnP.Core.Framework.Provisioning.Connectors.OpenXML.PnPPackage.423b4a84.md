@@ -8,13 +8,13 @@
 public static PnPPackage Open(String path, FileMode mode, FileAccess access)
 ```
 ### Parameters
-*path*  
+#### path  
 &emsp;&emsp;Type: System.String  
 
-*mode*  
+#### mode  
 &emsp;&emsp;Type: System.IO.FileMode  
 
-*access*  
+#### access  
 &emsp;&emsp;Type: System.IO.FileAccess  
 
 ### Return Value

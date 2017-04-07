@@ -8,7 +8,7 @@ Can be used to remote filters from the available web template
 public static void ClearAvailableWebTemplates(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
 ### Return Value

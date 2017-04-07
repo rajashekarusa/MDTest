@@ -8,7 +8,7 @@ Gets who can undeclare records
 public static EcmRecordDeclarationBy GetRecordUnDeclarationBy(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

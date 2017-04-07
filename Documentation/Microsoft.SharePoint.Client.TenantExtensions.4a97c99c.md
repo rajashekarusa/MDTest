@@ -8,7 +8,7 @@ Gets the UserProfileService proxy to enable calls to the UPA web service.
 public static UserProfileService GetUserProfileServiceClient(Tenant tenant)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 
 ### Return Value

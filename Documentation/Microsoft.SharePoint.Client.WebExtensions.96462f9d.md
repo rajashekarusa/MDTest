@@ -8,7 +8,7 @@ Returns all site collections that are indexed. In MT the search center, mysite h
 public static List<SiteEntity> SiteSearch(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 

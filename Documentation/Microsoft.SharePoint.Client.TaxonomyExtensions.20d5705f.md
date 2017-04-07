@@ -8,11 +8,11 @@ Removes a taxonomy field (site column) and its associated hidden field by id
 public static void RemoveTaxonomyFieldById(Web web, Guid id)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web object were the field (site column) exists  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Guid representing the id of the taxonomy field (site column) to be removed  
 

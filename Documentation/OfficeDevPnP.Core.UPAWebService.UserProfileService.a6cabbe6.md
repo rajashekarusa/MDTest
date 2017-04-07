@@ -8,16 +8,16 @@
 public void AddSuggestionsAsync(SuggestionType type, String[] suggestions, Double[] weights, Object userState)
 ```
 ### Parameters
-*type*  
+#### type  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.SuggestionType](OfficeDevPnP.Core.UPAWebService.SuggestionType.md)  
 
-*suggestions*  
+#### suggestions  
 &emsp;&emsp;Type: System.String[]  
 
-*weights*  
+#### weights  
 &emsp;&emsp;Type: System.Double[]  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

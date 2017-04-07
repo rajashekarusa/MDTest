@@ -8,23 +8,23 @@ Associates field to content type
 public static void AddFieldToContentType(Web web, ContentType contentType, Field field, Boolean required, Boolean hidden)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*contentType*  
+#### contentType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to associate field to  
 
-*field*  
+#### field  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to associate to the content type  
 
-*(optional) required*  
+#### (optional) required  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this a required field  
 
-*(optional) hidden*  
+#### (optional) hidden  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Optionally make this a hidden field  
 

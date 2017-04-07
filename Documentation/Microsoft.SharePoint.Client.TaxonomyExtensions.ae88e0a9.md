@@ -8,19 +8,19 @@ Creates a new term group, in the specified term store.
 public static TermGroup CreateTermGroup(TermStore termStore, String groupName, Guid groupId, String groupDescription)
 ```
 ### Parameters
-*termStore*  
+#### termStore  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermStore  
 &emsp;&emsp;the term store to use  
 
-*groupName*  
+#### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the term group  
 
-*(optional) groupId*  
+#### (optional) groupId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;(Optional) ID of the group; if not provided a random GUID is used  
 
-*(optional) groupDescription*  
+#### (optional) groupDescription  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;(Optional) Description of the term group  
 

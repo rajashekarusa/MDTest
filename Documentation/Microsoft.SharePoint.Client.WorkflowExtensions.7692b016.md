@@ -8,11 +8,11 @@ Returns all the workflow definitions
 public static WorkflowDefinition[] GetWorkflowDefinitions(Web web, Boolean publishedOnly)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target Web  
 
-*publishedOnly*  
+#### publishedOnly  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether to include only published definition, or all the definitions  
 

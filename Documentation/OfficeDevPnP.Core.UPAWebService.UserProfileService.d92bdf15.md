@@ -8,16 +8,16 @@
 public void UpdateColleaguePrivacyAsync(String accountName, String colleagueAccountName, Privacy newPrivacy, Object userState)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*colleagueAccountName*  
+#### colleagueAccountName  
 &emsp;&emsp;Type: System.String  
 
-*newPrivacy*  
+#### newPrivacy  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

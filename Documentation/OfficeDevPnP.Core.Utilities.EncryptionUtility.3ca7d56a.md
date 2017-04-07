@@ -8,7 +8,7 @@ Converts a SecureString to a "regular" string
 public static string ToInsecureString(SecureString input)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;SecureString to convert  
 

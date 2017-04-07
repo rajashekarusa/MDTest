@@ -8,46 +8,46 @@
 public static Guid CreateSiteCollection(Tenant tenant, String siteFullUrl, String title, String siteOwnerLogin, String template, Int32 storageMaximumLevel, Int32 storageWarningLevel, Int32 timeZoneId, Int32 userCodeMaximumLevel, Int32 userCodeWarningLevel, UInt32 lcid, Boolean removeFromRecycleBin, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.String  
 
-*title*  
+#### title  
 &emsp;&emsp;Type: System.String  
 
-*siteOwnerLogin*  
+#### siteOwnerLogin  
 &emsp;&emsp;Type: System.String  
 
-*template*  
+#### template  
 &emsp;&emsp;Type: System.String  
 
-*storageMaximumLevel*  
+#### storageMaximumLevel  
 &emsp;&emsp;Type: System.Int32  
 
-*storageWarningLevel*  
+#### storageWarningLevel  
 &emsp;&emsp;Type: System.Int32  
 
-*timeZoneId*  
+#### timeZoneId  
 &emsp;&emsp;Type: System.Int32  
 
-*userCodeMaximumLevel*  
+#### userCodeMaximumLevel  
 &emsp;&emsp;Type: System.Int32  
 
-*userCodeWarningLevel*  
+#### userCodeWarningLevel  
 &emsp;&emsp;Type: System.Int32  
 
-*lcid*  
+#### lcid  
 &emsp;&emsp;Type: System.UInt32  
 
-*(optional) removeFromRecycleBin*  
+#### (optional) removeFromRecycleBin  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) wait*  
+#### (optional) wait  
 &emsp;&emsp;Type: System.Boolean  
 
-*(optional) timeoutFunction*  
+#### (optional) timeoutFunction  
 &emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
 
 ### Return Value

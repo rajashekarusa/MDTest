@@ -23,4 +23,7 @@ public class ExtensibilityManager
 | [ExecuteExtensibilityProvisionCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate, ProvisioningTemplateApplyingInformation, TokenParser, PnPMonitoredScope)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.2db05b82.md) | Method to Invoke Custom Provisioning Handlers.
 | [ExecuteTokenProviderCallOut(ClientContext, ExtensibilityHandler, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.2865f124.md) | Method to Invoke Custom Provisioning Token Providers which implement the IProvisioningExtensibilityTokenProvider interface. Ensure the ClientContext is not disposed in the custom provider.
 ## See also
+- [OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.md)
+- System.ArgumentException
+- System.ArgumentNullException
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)

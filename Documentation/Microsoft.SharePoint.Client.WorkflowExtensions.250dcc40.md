@@ -8,10 +8,10 @@ Returns a workflow subscription for a site.
 public static WorkflowSubscription GetWorkflowSubscription(Web web, String name)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,7 +8,7 @@ Does this web have a site policy applied?
 public static bool HasSitePolicyApplied(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 

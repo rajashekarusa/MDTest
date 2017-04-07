@@ -8,19 +8,19 @@ Returns a SharePoint on-premises / SharePoint Online Dedicated ClientContext obj
 public ClientContext GetNetworkCredentialAuthenticatedContext(String siteUrl, String user, String password, String domain)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site for which the ClientContext object will be instantiated  
 
-*user*  
+#### user  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;User to be used to instantiate the ClientContext object  
 
-*password*  
+#### password  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Password of the user used to instantiate the ClientContext object  
 
-*domain*  
+#### domain  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Domain of the user used to instantiate the ClientContext object  
 

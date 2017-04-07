@@ -8,11 +8,11 @@ Removes a property bag value from the property bag
 public static void RemovePropertyBagValue(Web web, String key)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The site to process  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to remove  
 

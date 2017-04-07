@@ -8,10 +8,10 @@
 public void GetPropertyChoiceListAsync(String propertyName, Object userState)
 ```
 ### Parameters
-*propertyName*  
+#### propertyName  
 &emsp;&emsp;Type: System.String  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

@@ -8,10 +8,10 @@
 public static Field GetFieldById(List list, Guid fieldId)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 
 ### Return Value

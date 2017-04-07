@@ -8,7 +8,7 @@ Get a list of site collection administrators
 public static List<UserEntity> GetAdministrators(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
 

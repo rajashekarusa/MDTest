@@ -8,7 +8,7 @@
 public void add_GetUserProfileByGuidCompleted(GetUserProfileByGuidCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByGuidCompletedEventHandler.md)  
 
 ### Return Value

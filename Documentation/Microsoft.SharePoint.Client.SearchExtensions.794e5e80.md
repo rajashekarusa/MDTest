@@ -8,10 +8,10 @@ Sets the search configuration
 public static void SetSearchConfiguration(Web web, String searchConfiguration)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*searchConfiguration*  
+#### searchConfiguration  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

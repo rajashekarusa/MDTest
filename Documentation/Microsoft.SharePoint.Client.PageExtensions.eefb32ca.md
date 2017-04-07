@@ -8,18 +8,20 @@ Add HTML to a wiki page
 public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, String html)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*serverRelativePageUrl*  
+#### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
 
-*html*  
+#### html  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value
 Type: void  
 
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

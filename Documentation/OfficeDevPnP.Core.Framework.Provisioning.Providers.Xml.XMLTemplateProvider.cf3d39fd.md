@@ -8,7 +8,7 @@
 public void Delete(String uri)
 ```
 ### Parameters
-*uri*  
+#### uri  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

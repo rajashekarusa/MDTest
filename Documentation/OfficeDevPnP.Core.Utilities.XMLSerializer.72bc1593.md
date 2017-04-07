@@ -8,10 +8,10 @@ Serializes an object instance to an XML represented string, providing custom nam
 public static string Serialize(T objectToSerialize, XmlSerializerNamespaces ns)
 ```
 ### Parameters
-*objectToSerialize*  
+#### objectToSerialize  
 &emsp;&emsp;Type: T  
 
-*ns*  
+#### ns  
 &emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
 
 ### Return Value

@@ -8,10 +8,10 @@
 public void AddControl(CanvasControl control, CanvasSection section)
 ```
 ### Parameters
-*control*  
+#### control  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)  
 
-*section*  
+#### section  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md)  
 
 ### Return Value

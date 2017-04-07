@@ -8,11 +8,11 @@ Enables request access for the specified e-mail addresses.
 public static void EnableRequestAccess(Web web, String[] emails)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to enable request access.  
 
-*emails*  
+#### emails  
 &emsp;&emsp;Type: System.String[]  
 &emsp;&emsp;The e-mail addresses to send access requests to.  
 

@@ -8,7 +8,7 @@
 public bool Equals(PageLayout other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.md)  
 
 ### Return Value

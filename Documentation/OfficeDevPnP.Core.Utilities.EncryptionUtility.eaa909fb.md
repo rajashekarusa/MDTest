@@ -8,7 +8,7 @@ Decrypts a DPAPI encryped string
 public static SecureString DecryptStringWithDPAPI(String encryptedData)
 ```
 ### Parameters
-*encryptedData*  
+#### encryptedData  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Encrypted string  
 

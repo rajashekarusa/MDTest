@@ -8,11 +8,11 @@ Returns the named composed look from the web gallery
 public static ThemeEntity GetComposedLook(Web web, String composedLookName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 
-*composedLookName*  
+#### composedLookName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look to retrieve  
 

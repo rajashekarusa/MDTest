@@ -8,11 +8,11 @@ Checks if a field exists in a content type by id
 public static bool FieldExistsByNameInContentType(ContentType contentType, String fieldName)
 ```
 ### Parameters
-*contentType*  
+#### contentType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;The content type to check  
 
-*fieldName*  
+#### fieldName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the field to look for  
 

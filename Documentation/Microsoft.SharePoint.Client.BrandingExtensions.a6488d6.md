@@ -8,7 +8,7 @@ Allow the web to use all available page layouts
 public static void AllowAllPageLayouts(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 

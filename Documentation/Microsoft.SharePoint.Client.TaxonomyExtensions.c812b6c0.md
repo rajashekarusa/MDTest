@@ -8,23 +8,23 @@ Wires up MMS field to the specified term set.
 public static void WireUpTaxonomyField(Web web, Guid id, String mmsGroupName, String mmsTermSetName, Boolean multiValue)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Field ID to be wired up  
 
-*mmsGroupName*  
+#### mmsGroupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Taxonomy group  
 
-*mmsTermSetName*  
+#### mmsTermSetName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Term set name  
 
-*(optional) multiValue*  
+#### (optional) multiValue  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If true, create a multivalue field  
 

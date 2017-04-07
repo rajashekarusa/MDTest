@@ -8,7 +8,7 @@
 public void EndInvoke(IAsyncResult result)
 ```
 ### Parameters
-*result*  
+#### result  
 &emsp;&emsp;Type: System.IAsyncResult  
 
 ### Return Value

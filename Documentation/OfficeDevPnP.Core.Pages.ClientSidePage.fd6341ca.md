@@ -8,7 +8,7 @@
 public IEnumerable<ClientSideComponent> AvailableClientSideComponents(String name)
 ```
 ### Parameters
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

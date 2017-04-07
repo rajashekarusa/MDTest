@@ -8,7 +8,7 @@ Deactivate the in place records management feature
 public static void DisableInPlaceRecordsManagementFeature(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

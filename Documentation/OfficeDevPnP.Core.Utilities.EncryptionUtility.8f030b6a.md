@@ -8,7 +8,7 @@ Converts a string to a SecureString
 public static SecureString ToSecureString(String input)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String to convert  
 

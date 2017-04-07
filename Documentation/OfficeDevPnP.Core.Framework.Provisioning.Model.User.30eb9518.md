@@ -8,7 +8,7 @@
 public bool Equals(User other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.User](OfficeDevPnP.Core.Framework.Provisioning.Model.User.md)  
 
 ### Return Value

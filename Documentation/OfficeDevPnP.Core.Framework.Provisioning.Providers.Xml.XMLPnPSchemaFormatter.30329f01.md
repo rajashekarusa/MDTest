@@ -8,7 +8,7 @@ Static method to retrieve a specific XMLPnPSchemaFormatter instance
 public static ITemplateFormatter GetSpecificFormatter(XMLPnPSchemaVersion version)
 ```
 ### Parameters
-*version*  
+#### version  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaVersion](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaVersion.md)  
 
 ### Return Value

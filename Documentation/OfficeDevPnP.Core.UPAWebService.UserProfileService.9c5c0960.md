@@ -8,7 +8,7 @@
 public void add_RemoveLeaderCompleted(RemoveLeaderCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveLeaderCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveLeaderCompletedEventHandler.md)  
 
 ### Return Value

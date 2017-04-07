@@ -8,11 +8,11 @@ Checks if a site collection is Active
 public static bool IsSiteActive(Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
 
-*siteFullUrl*  
+#### siteFullUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL to the site collection  
 

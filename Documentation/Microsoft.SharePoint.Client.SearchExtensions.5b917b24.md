@@ -8,11 +8,11 @@ Sets the search center url on site collection (Site Settings -> Site collection 
 public static void SetSiteCollectionSearchCenterUrl(Web web, String searchCenterUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint site - root web  
 
-*searchCenterUrl*  
+#### searchCenterUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Search center url  
 

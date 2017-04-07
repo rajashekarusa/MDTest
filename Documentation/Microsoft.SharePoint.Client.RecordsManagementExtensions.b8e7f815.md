@@ -8,11 +8,11 @@ Defines if auto record declaration is active for this list: all added items will
 public static void SetListAutoRecordDeclaration(List list, Boolean autoDeclareRecords)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate on  
 
-*autoDeclareRecords*  
+#### autoDeclareRecords  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to automatically declare all added items as record, false otherwise  
 

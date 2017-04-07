@@ -8,11 +8,11 @@ Find files in the list, Can be slow.
 public static List<File> FindFiles(List list, String match)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to process  
 
-*match*  
+#### match  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;a wildcard pattern to match  
 

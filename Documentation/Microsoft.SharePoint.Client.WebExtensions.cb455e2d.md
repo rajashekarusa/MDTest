@@ -8,23 +8,23 @@ Uninstalls a sandbox solution package (.WSP) file
 public static void UninstallSolution(Site site, Guid packageGuid, String fileName, Int32 majorVersion, Int32 minorVersion)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to install to  
 
-*packageGuid*  
+#### packageGuid  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the solution, from the solution manifest  
 
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;filename of the WSP file to uninstall  
 
-*(optional) majorVersion*  
+#### (optional) majorVersion  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Optional major version of the solution, defaults to 1  
 
-*(optional) minorVersion*  
+#### (optional) minorVersion  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Optional minor version of the solution, defaults to 0  
 

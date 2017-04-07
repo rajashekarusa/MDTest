@@ -8,7 +8,7 @@
 public bool Equals(AddIn other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md)  
 
 ### Return Value

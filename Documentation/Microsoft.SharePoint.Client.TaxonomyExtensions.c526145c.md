@@ -8,15 +8,15 @@ Returns a taxonomy item by it's path, e.g. Group|Set|Term
 public static TaxonomyItem GetTaxonomyItemByPath(Site site, String path, String delimiter)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
-*path*  
+#### path  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path of the item to return  
 
-*(optional) delimiter*  
+#### (optional) delimiter  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The delimeter separating groups, sets and term in the path. Defaults to |  
 

@@ -8,15 +8,15 @@ Get string typed property bag value. If does not contain, returns given default 
 public static string GetPropertyBagValueString(List list, String key, String defaultValue)
 ```
 ### Parameters
-*list*  
+#### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to read the property bag value from  
 
-*key*  
+#### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to return  
 
-*defaultValue*  
+#### defaultValue  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

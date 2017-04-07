@@ -8,7 +8,7 @@ Clones a PnPClientContext object while "taking over" the security context of the
 public PnPClientContext Clone(String siteUrl)
 ```
 ### Parameters
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site url to be used for cloned ClientContext  
 

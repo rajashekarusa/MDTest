@@ -8,7 +8,7 @@ Serializes a template to XML
 public string ToXML(ITemplateFormatter formatter)
 ```
 ### Parameters
-*(optional) formatter*  
+#### (optional) formatter  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
 
 ### Return Value

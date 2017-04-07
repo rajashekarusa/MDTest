@@ -8,13 +8,13 @@
 public static Field GetFieldById(Web web, Guid fieldId, Boolean searchInSiteHierarchy)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 
-*(optional) searchInSiteHierarchy*  
+#### (optional) searchInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

@@ -8,10 +8,10 @@
 public static ClientSidePage Load(ClientContext cc, String pageName)
 ```
 ### Parameters
-*cc*  
+#### cc  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 
-*pageName*  
+#### pageName  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

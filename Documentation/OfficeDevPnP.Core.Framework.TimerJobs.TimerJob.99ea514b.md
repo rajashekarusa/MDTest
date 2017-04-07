@@ -8,10 +8,10 @@ Provides the timer job with the enumeration credentials. For Office 365 username
 public void SetEnumerationCredentials(String userUPN, String password)
 ```
 ### Parameters
-*userUPN*  
+#### userUPN  
 &emsp;&emsp;Type: System.String  
 
-*password*  
+#### password  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Password of the enumeration user  
 

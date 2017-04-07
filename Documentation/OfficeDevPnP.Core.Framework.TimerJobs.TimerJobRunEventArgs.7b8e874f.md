@@ -8,11 +8,11 @@ Adds or updates a property in the custom properties list
 public void SetProperty(String propertyKey, String propertyValue)
 ```
 ### Parameters
-*propertyKey*  
+#### propertyKey  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property to add or update  
 
-*propertyValue*  
+#### propertyValue  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Value of the property to add or update  
 

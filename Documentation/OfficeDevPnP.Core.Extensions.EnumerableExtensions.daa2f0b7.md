@@ -8,11 +8,11 @@ Compares to instances of IEnumerable<T>
 public static bool DeepEquals(IEnumerable source, IEnumerable target)
 ```
 ### Parameters
-*source*  
+#### source  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Source enumeration  
 
-*target*  
+#### target  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Target enumeration  
 

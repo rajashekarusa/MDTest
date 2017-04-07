@@ -8,19 +8,19 @@ Add a permission level (e.g.Contribute, Reader,...) to a user
 public static void AddPermissionLevelToUser(SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeExistingPermissionLevels)
 ```
 ### Parameters
-*securableObject*  
+#### securableObject  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.SecurableObject  
 &emsp;&emsp;Web/List/Item to operate against  
 
-*userLoginName*  
+#### userLoginName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Loginname of the user  
 
-*permissionLevel*  
+#### permissionLevel  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.RoleType  
 &emsp;&emsp;Permission level to add  
 
-*(optional) removeExistingPermissionLevels*  
+#### (optional) removeExistingPermissionLevels  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true to remove all other permission levels for that user  
 

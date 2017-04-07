@@ -8,11 +8,11 @@ Prepares the timerjob to operate against SharePoint on-premises with app-only cr
 public void UseAppOnlyAuthentication(String clientId, String clientSecret)
 ```
 ### Parameters
-*clientId*  
+#### clientId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Client ID of the app  
 
-*clientSecret*  
+#### clientSecret  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Client Secret of the app  
 

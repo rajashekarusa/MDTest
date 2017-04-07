@@ -8,11 +8,11 @@
 public static Folder ResolveSubFolder(Folder folder, String folderName)
 ```
 ### Parameters
-*folder*  
+#### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp; in which to search for  
 
-*folderName*  
+#### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the folder to search for  
 

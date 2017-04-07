@@ -8,11 +8,11 @@ Can be used to extract custom provisioning template from existing site. The extr
 public static ProvisioningTemplate GetProvisioningTemplate(Web web, ProvisioningTemplateCreationInformation creationInfo)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to get template from  
 
-*creationInfo*  
+#### creationInfo  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md)  
 &emsp;&emsp;Specifies additional settings and/or properties  
 

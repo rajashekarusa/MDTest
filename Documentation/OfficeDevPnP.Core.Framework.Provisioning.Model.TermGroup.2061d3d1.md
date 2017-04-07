@@ -8,7 +8,7 @@
 public bool Equals(TermGroup other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md)  
 
 ### Return Value

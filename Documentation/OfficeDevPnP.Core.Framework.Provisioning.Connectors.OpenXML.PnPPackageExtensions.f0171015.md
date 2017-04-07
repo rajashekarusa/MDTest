@@ -8,7 +8,7 @@
 public static PnPInfo UnpackTemplate(MemoryStream stream)
 ```
 ### Parameters
-*stream*  
+#### stream  
 &emsp;&emsp;Type: System.IO.MemoryStream  
 
 ### Return Value

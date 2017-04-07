@@ -8,7 +8,7 @@ Get the value of the records management is allowed in all places setting
 public static bool GetManualRecordDeclarationInAllLocations(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 

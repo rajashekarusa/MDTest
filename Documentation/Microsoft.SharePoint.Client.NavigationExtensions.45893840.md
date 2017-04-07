@@ -8,10 +8,10 @@ Utility method to check particular custom action already exists on the web
 public static bool CustomActionExists(Web web, String name)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*name*  
+#### name  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the custom action  
 

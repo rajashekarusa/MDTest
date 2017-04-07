@@ -8,7 +8,7 @@ Gets a file as stream from the default container
 public Stream GetFileStream(String fileName)
 ```
 ### Parameters
-*fileName*  
+#### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
 

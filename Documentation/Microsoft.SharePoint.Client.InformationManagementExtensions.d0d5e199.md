@@ -8,7 +8,7 @@ Gets the site policy that currently is applied
 public static SitePolicyEntity GetAppliedSitePolicy(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 

@@ -8,7 +8,7 @@
 public bool Equals(DataRow other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.md)  
 
 ### Return Value

@@ -8,19 +8,19 @@
 public void AddMembershipAsync(String accountName, MembershipData membershipInfo, String group, Privacy privacy, Object userState)
 ```
 ### Parameters
-*accountName*  
+#### accountName  
 &emsp;&emsp;Type: System.String  
 
-*membershipInfo*  
+#### membershipInfo  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)  
 
-*group*  
+#### group  
 &emsp;&emsp;Type: System.String  
 
-*privacy*  
+#### privacy  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 
-*userState*  
+#### userState  
 &emsp;&emsp;Type: System.Object  
 
 ### Return Value

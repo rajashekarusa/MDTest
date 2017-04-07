@@ -8,11 +8,11 @@ Returns an event receiver definition
 public static EventReceiverDefinition GetEventReceiverById(Web web, Guid id)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to process  
 
-*id*  
+#### id  
 &emsp;&emsp;Type: System.Guid  
 
 ### Return Value

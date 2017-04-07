@@ -8,7 +8,7 @@ Get OneDrive site collections by iterating through all user profiles.
 public static IList<SiteEntity> GetOneDriveSiteCollections(Tenant tenant)
 ```
 ### Parameters
-*tenant*  
+#### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 
 ### Return Value

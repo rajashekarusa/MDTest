@@ -8,10 +8,10 @@ Checks the server library version of the context for a minimally required versio
 public static bool HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, String minimallyRequiredVersion)
 ```
 ### Parameters
-*clientContext*  
+#### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 
-*minimallyRequiredVersion*  
+#### minimallyRequiredVersion  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

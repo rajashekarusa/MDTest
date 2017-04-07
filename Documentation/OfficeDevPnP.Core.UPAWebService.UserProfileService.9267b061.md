@@ -8,7 +8,7 @@
 public void remove_GetUserProfileByIndexCompleted(GetUserProfileByIndexCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventHandler.md)  
 
 ### Return Value

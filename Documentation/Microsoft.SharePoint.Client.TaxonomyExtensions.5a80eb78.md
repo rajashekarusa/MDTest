@@ -8,15 +8,15 @@ Sets a value in a taxonomy field
 public static void SetTaxonomyFieldValueByTermPath(ListItem item, String TermPath, Guid fieldId)
 ```
 ### Parameters
-*item*  
+#### item  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
 &emsp;&emsp;The item to set the value to  
 
-*TermPath*  
+#### TermPath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path of the term in the shape of "TermGroupName|TermSetName|TermName"  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The id of the field  
 
@@ -24,4 +24,5 @@ public static void SetTaxonomyFieldValueByTermPath(ListItem item, String TermPat
 Type: void  
 
 ## See also
+- System.Collections.Generic.KeyNotFoundException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

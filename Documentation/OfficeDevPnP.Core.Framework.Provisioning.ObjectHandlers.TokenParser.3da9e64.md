@@ -8,7 +8,7 @@
 public List<Tuple<String, String>> GetResourceTokenResourceValues(String tokenValue)
 ```
 ### Parameters
-*tokenValue*  
+#### tokenValue  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

@@ -8,7 +8,7 @@
 public static bool ContainsInvalidUrlChars(String content)
 ```
 ### Parameters
-*content*  
+#### content  
 &emsp;&emsp;Type: System.String  
 
 ### Return Value

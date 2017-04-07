@@ -8,19 +8,19 @@ Add a role definition (e.g.Contribute, Read, Approve) to a group
 public static void AddPermissionLevelToPrincipal(SecurableObject securableObject, Principal principal, String roleDefinitionName, Boolean removeExistingPermissionLevels)
 ```
 ### Parameters
-*securableObject*  
+#### securableObject  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.SecurableObject  
 &emsp;&emsp;Web/List/Item to operate against  
 
-*principal*  
+#### principal  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Principal  
 &emsp;&emsp;Principal to add permission to  
 
-*roleDefinitionName*  
+#### roleDefinitionName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the role definition to add, Full Control|Design|Contribute|Read|Approve|Manage Hierarchy|Restricted Read. Use the correct name of the language of the root site you are using  
 
-*(optional) removeExistingPermissionLevels*  
+#### (optional) removeExistingPermissionLevels  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true to remove all other permission levels for that group  
 

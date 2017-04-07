@@ -8,16 +8,16 @@ Creates web part entity with the Yammer group structure on it
 public static WebPartEntity GetYammerGroupDiscussionPart(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter)
 ```
 ### Parameters
-*yammerNetworkName*  
+#### yammerNetworkName  
 &emsp;&emsp;Type: System.String  
 
-*yammerGroupId*  
+#### yammerGroupId  
 &emsp;&emsp;Type: System.Int32  
 
-*showHeader*  
+#### showHeader  
 &emsp;&emsp;Type: System.Boolean  
 
-*showFooter*  
+#### showFooter  
 &emsp;&emsp;Type: System.Boolean  
 
 ### Return Value

@@ -8,10 +8,10 @@ Removes an enumerated type and returns the new value
 public static T Remove(Enum value, T remove)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: System.Enum  
 
-*remove*  
+#### remove  
 &emsp;&emsp;Type: T  
 
 ### Return Value

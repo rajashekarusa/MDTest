@@ -8,7 +8,7 @@ Gets all sub sites for a given site
 public IEnumerable<String> GetAllSubSites(Site site)
 ```
 ### Parameters
-*site*  
+#### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to find all sub site for  
 

@@ -8,15 +8,15 @@ Field exists in content type
 public static bool FieldExistsByNameInContentType(Web web, String contentTypeName, String fieldName)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site. Site columns should be created to root site.  
 
-*contentTypeName*  
+#### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
 
-*fieldName*  
+#### fieldName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the field  
 

@@ -8,11 +8,11 @@ Check if a property is available on a object
 public static bool IsPropertyAvailable(T clientObject, Expression<Func<T, Object>> propertySelector)
 ```
 ### Parameters
-*clientObject*  
+#### clientObject  
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
 
-*propertySelector*  
+#### propertySelector  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>  
 &emsp;&emsp;Lamda expression containing the properties to check (e.g. w => w.HasUniqueRoleAssignments)  
 

@@ -8,7 +8,7 @@
 public void remove_GetCommonManagerCompleted(GetCommonManagerCompletedEventHandler value)
 ```
 ### Parameters
-*value*  
+#### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.md)  
 
 ### Return Value

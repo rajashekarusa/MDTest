@@ -8,11 +8,11 @@ Get the external sharing settings for the provided site. Only works in Office 36
 public static string GetSharingCapabilitiesTenant(Web web, Uri siteUrl)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
 
-*siteUrl*  
+#### siteUrl  
 &emsp;&emsp;Type: System.Uri  
 &emsp;&emsp;Site to get the sharing capabilities from  
 

@@ -16,4 +16,6 @@ public static class ValidationExtensions
 |:-----|:-----|
 | [ValidateNotNullOrEmpty(T, String)](System.ValidationExtensions.4b2ec538.md) | Validates an object for not being null or not being the default value
 ## See also
+- System.ArgumentException
+- System.ArgumentNullException
 - [System](System.md)

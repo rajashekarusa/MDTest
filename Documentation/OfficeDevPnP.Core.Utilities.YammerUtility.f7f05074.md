@@ -8,7 +8,7 @@ Returns Yammer groups based on the access token. All groups are returned for reg
 public static List<YammerGroup> GetYammerGroups(String accessToken)
 ```
 ### Parameters
-*accessToken*  
+#### accessToken  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Access token to the Yammer network  
 

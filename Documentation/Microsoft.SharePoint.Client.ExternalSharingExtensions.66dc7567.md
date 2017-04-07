@@ -8,31 +8,31 @@ Abstracted methid for sharing documents just with given email address.
 public static SharingResult ShareDocument(Web web, String urlToDocument, String targetEmailToShare, ExternalSharingDocumentOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web for the context used for people picker search  
 
-*urlToDocument*  
+#### urlToDocument  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Full URL to the file which is shared  
 
-*targetEmailToShare*  
+#### targetEmailToShare  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Email address for the person to whom the document will be shared  
 
-*shareOption*  
+#### shareOption  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ExternalSharingDocumentOption](Microsoft.SharePoint.Client.ExternalSharingDocumentOption.md)  
 &emsp;&emsp;View or Edit option  
 
-*(optional) sendEmail*  
+#### (optional) sendEmail  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Send email or not  
 
-*(optional) emailBody*  
+#### (optional) emailBody  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text attached to the email sent for the person to whom the document is shared  
 
-*(optional) useSimplifiedRoles*  
+#### (optional) useSimplifiedRoles  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View)  
 

@@ -8,19 +8,19 @@ Adds a new child Web (site) to a parent Web.
 public static Web CreateWeb(Web parentWeb, SiteEntity subsite, Boolean inheritPermissions, Boolean inheritNavigation)
 ```
 ### Parameters
-*parentWeb*  
+#### parentWeb  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The parent Web (site) to create under  
 
-*subsite*  
+#### subsite  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  
 &emsp;&emsp;Details of the Web (site) to add. Only Title, Url (as the leaf URL), Description, Template and Language are used.  
 
-*(optional) inheritPermissions*  
+#### (optional) inheritPermissions  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specifies whether the new site will inherit permissions from its parent site.  
 
-*(optional) inheritNavigation*  
+#### (optional) inheritNavigation  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Specifies whether the site inherits navigation.  
 

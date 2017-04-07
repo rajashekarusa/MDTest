@@ -8,15 +8,15 @@ Exports the search settings to file.
 public static void ExportSearchSettings(ClientContext context, String exportFilePath, SearchObjectLevel searchSettingsExportLevel)
 ```
 ### Parameters
-*context*  
+#### context  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
 &emsp;&emsp;Context for SharePoint objects and operations  
 
-*exportFilePath*  
+#### exportFilePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Path where to export the search settings  
 
-*searchSettingsExportLevel*  
+#### searchSettingsExportLevel  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Search.Administration.SearchObjectLevel  
 &emsp;&emsp;Search settings export level
             Reference: http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.client.search.administration.searchobjectlevel(v=office.15).aspx

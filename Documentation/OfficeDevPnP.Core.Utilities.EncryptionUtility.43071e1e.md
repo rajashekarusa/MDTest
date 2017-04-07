@@ -8,7 +8,7 @@ Encrypts a string using the machine's DPAPI
 public static string EncryptStringWithDPAPI(SecureString input)
 ```
 ### Parameters
-*input*  
+#### input  
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;String (SecureString) to encrypt  
 

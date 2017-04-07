@@ -8,7 +8,7 @@ Close a site, if it has a site policy applied and is currently not closed
 public static bool SetClosedBySitePolicy(Web web)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
 ### Return Value

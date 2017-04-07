@@ -8,15 +8,15 @@ Loads a certificate from a given certificate store
 public static X509Certificate2 LoadCertificate(StoreName storeName, StoreLocation storeLocation, String thumbprint)
 ```
 ### Parameters
-*storeName*  
+#### storeName  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.StoreName  
 &emsp;&emsp;Name of the certificate store  
 
-*storeLocation*  
+#### storeLocation  
 &emsp;&emsp;Type: System.Security.Cryptography.X509Certificates.StoreLocation  
 &emsp;&emsp;Location of the certificate store  
 
-*thumbprint*  
+#### thumbprint  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to load  
 

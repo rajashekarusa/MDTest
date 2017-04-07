@@ -8,10 +8,10 @@ Removes a field by specifying its ID
 public static void RemoveFieldById(Web web, String fieldId)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*fieldId*  
+#### fieldId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The id of the field to remove  
 

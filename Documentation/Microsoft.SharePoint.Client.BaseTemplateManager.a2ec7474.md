@@ -8,13 +8,13 @@
 public static ProvisioningTemplate GetBaseTemplate(Web web, String webTemplate, Int16 configuration)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 
-*webTemplate*  
+#### webTemplate  
 &emsp;&emsp;Type: System.String  
 
-*configuration*  
+#### configuration  
 &emsp;&emsp;Type: System.Int16  
 
 ### Return Value

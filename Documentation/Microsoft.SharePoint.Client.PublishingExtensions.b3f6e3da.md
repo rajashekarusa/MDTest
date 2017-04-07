@@ -8,15 +8,15 @@ Gets a Publishing Page from any folder in the Pages library.
 public static PublishingPage GetPublishingPage(Web web, String fileLeafRef, Folder folder)
 ```
 ### Parameters
-*web*  
+#### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web.  
 
-*fileLeafRef*  
+#### fileLeafRef  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The file leaf reference.  
 
-*folder*  
+#### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;The folder where to search the page.  
 
@@ -25,4 +25,6 @@ Type: PublishingPage
 The PublishingPage object, if any. Otherwise null.
 
 ## See also
+- System.ArgumentNullException
+- System.ArgumentException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

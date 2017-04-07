@@ -8,13 +8,13 @@
 public int FindIndex(Int32 startIndex, Int32 count, Predicate match)
 ```
 ### Parameters
-*startIndex*  
+#### startIndex  
 &emsp;&emsp;Type: System.Int32  
 
-*count*  
+#### count  
 &emsp;&emsp;Type: System.Int32  
 
-*match*  
+#### match  
 &emsp;&emsp;Type: System.Predicate  
 
 ### Return Value

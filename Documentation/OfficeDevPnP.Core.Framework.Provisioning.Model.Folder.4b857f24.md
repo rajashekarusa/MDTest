@@ -8,7 +8,7 @@
 public bool Equals(Folder other)
 ```
 ### Parameters
-*other*  
+#### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Folder](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.md)  
 
 ### Return Value
