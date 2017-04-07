@@ -21,5 +21,7 @@ public class MailUtility
 | [SendEmail(String, String, String, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.9d2d16ff.md) | 
 | [SendEmail(String, String, SecureString, IEnumerable<String>, IEnumerable<String>, String, String, Boolean, Object)](OfficeDevPnP.Core.Utilities.MailUtility.a9e1c8f5.md) | 
 | [SendEmail(ClientContext, IEnumerable<String>, IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.71209e1d.md) | 
+| [SendEmailAsync(String, String, String, IEnumerable<String>, IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.ebfc1131.md) | 
+| [SendEmailAsync(String, String, SecureString, IEnumerable<String>, IEnumerable<String>, String, String)](OfficeDevPnP.Core.Utilities.MailUtility.962b582d.md) | 
 ## See also
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

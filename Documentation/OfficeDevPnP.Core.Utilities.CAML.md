@@ -41,7 +41,21 @@ public static class CAML
 | [Where(String)](OfficeDevPnP.Core.Utilities.CAML.93c72eea.md) | 
 ## Examples
 ```C#
- CAML.ViewQuery( CAML.Where( CAML.And( CAML.Eq(CAML.FieldValue("Project", "Integer", "{0}")), CAML.Geq(CAML.FieldValue("StartDate","DateTime", CAML.Today())) ) ), CAML.OrderBy( new OrderByField("StartDate", false), new OrderByField("Title") ), rowLimit: 5 ); 
+
+            CAML.ViewQuery(
+                CAML.Where(
+                    CAML.And(
+                        CAML.Eq(CAML.FieldValue("Project", "Integer", "{0}")),
+                        CAML.Geq(CAML.FieldValue("StartDate","DateTime", CAML.Today()))
+                    )
+                ),
+                CAML.OrderBy(
+                    new OrderByField("StartDate", false),
+                    new OrderByField("Title")
+                ),
+                rowLimit: 5
+            );
+            
 ```
 
 ## See also

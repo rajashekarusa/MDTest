@@ -22,7 +22,21 @@ True if action was successfull
 
 ## Examples
 ```C#
- var editAction = new CustomActionEntity() { Title = "Edit Site Classification", Description = "Manage business impact information for site collection or sub sites.", Sequence = 1000, Group = "SiteActions", Location = "Microsoft.SharePoint.StandardMenu", Url = EditFormUrl, ImageUrl = EditFormImageUrl, Rights = new BasePermissions(), }; editAction.Rights.Set(PermissionKind.ManageWeb); web.AddCustomAction(editAction); 
+
+            var editAction = new CustomActionEntity()
+            {
+               Title = "Edit Site Classification",
+               Description = "Manage business impact information for site collection or sub sites.",
+               Sequence = 1000,
+               Group = "SiteActions",
+               Location = "Microsoft.SharePoint.StandardMenu",
+               Url = EditFormUrl,
+               ImageUrl = EditFormImageUrl,
+               Rights = new BasePermissions(),
+            };
+            editAction.Rights.Set(PermissionKind.ManageWeb);
+            web.AddCustomAction(editAction);
+            
 ```
 
 ## See also
