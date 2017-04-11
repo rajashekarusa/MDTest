@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class StreamExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ToMemoryStream(Stream)](OfficeDevPnP.Core.Extensions.StreamExtensions.b7fb4a7.md) | 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class TermLabel: BaseModel
@@ -13,7 +13,7 @@ public class TermLabel: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermLabel()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.ctor1.md) | 
+| [TermLabel()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

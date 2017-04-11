@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.SetLocalizationForField Method  
-Set localized labels for field  
+ Set localized labels for field   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,24 +12,35 @@ public static void SetLocalizationForField(List list, Guid siteColumnId, String 
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
 
+  
+
 #### siteColumnId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Guid of the site column ID  
+
+  
 
 #### cultureName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Culture for the localization (en-es, nl-be, fi-fi,...)  
 
+  
+
 #### titleResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Title property  
+
+  
 
 #### descriptionResource  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Localized value for the Description property  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

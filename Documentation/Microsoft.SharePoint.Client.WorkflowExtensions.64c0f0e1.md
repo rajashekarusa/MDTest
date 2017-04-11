@@ -1,5 +1,5 @@
 # WorkflowExtensions.ResumeWorkflow Method  
-Resumes a workflow  
+ Resumes a workflow   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,9 +10,13 @@ public static void ResumeWorkflow(WorkflowInstance instance)
 ### Parameters
 #### instance  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
+&emsp;&emsp; Resumes a workflow   
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

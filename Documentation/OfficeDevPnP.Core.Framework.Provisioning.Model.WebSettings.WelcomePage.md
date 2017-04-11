@@ -1,5 +1,5 @@
 # WebSettings.Properties WelcomePage
-Defines the Welcome Page (Home Page) of the site to which the Provisioning Template is applied.  
+ Defines the Welcome Page (Home Page) of the site to which the Provisioning Template is applied.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string WelcomePage { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -1,12 +1,10 @@
 # WebPartEntity
-Class that describes information about a web part  
+ Class that describes information about a web part   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebPartEntity

@@ -12,5 +12,5 @@ public T Value { get; set; }
 Type: T  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ManagedNavigation
@@ -14,7 +12,7 @@ public class ManagedNavigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.ctor1.md) | 
+| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

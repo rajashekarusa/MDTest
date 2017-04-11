@@ -1,5 +1,5 @@
 # TaxonomyExtensions.CreateTaxonomyField Method  
-Can be used to create taxonomy field remotely in a list.  
+ Can be used to create taxonomy field remotely in a list.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static Field CreateTaxonomyField(List list, TaxonomyFieldCreationInformat
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
 
+  
+
 #### fieldCreationInformation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md)  
 &emsp;&emsp;Creation information of the field  
 
+  
+
 ### Return Value
 Type: Field  
-New taxonomy field
+New taxonomy field  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

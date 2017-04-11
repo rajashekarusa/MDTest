@@ -1,5 +1,5 @@
 # Localization.Properties LCID
-The Locale ID of a Localization Language  
+ The Locale ID of a Localization Language   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int LCID { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Localization](OfficeDevPnP.Core.Framework.Provisioning.Model.Localization.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

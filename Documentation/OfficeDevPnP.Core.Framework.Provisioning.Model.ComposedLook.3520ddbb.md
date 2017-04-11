@@ -10,9 +10,13 @@ public bool Equals(Object obj)
 ### Parameters
 #### obj  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -1,17 +1,15 @@
 # PageExtensions
-Class that holds all deprecated page and web part related operations  
+ Class that holds all deprecated page and web part related operations   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class PageExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddClientSidePage(Web, String, Boolean)](Microsoft.SharePoint.Client.PageExtensions.6f33066a.md) | Adds a client side "modern" page to a "classic" or "modern" site

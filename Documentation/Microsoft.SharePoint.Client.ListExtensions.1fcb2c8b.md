@@ -1,5 +1,5 @@
 # ListExtensions.PropertyBagContainsKey Method  
-Checks if the given property bag entry exists  
+ Checks if the given property bag entry exists   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool PropertyBagContainsKey(List list, String key)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to be processed  
 
+  
+
 #### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key of the property bag entry to check  
 
+  
+
 ### Return Value
 Type: bool  
-True if the entry exists, false otherwise
+True if the entry exists, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

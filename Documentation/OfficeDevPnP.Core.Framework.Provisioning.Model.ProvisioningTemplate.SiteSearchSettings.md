@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties SiteSearchSettings
-The Site Collection level Search Settings for the Provisioning Template  
+ The Site Collection level Search Settings for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string SiteSearchSettings { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

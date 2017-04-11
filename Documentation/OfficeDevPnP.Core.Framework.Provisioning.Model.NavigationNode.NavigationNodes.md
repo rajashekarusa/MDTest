@@ -1,5 +1,5 @@
 # NavigationNode.Properties NavigationNodes
-A collection of navigation nodes children of the current NavigatioNode  
+ A collection of navigation nodes children of the current NavigatioNode   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public NavigationNodeCollection NavigationNodes { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNodeCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

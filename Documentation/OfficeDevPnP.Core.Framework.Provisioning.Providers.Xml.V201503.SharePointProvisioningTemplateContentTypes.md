@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SharePointProvisioningTemplateContentTypes
@@ -14,7 +12,7 @@ public class SharePointProvisioningTemplateContentTypes
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateContentTypes()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.ctor1.md) | 
+| [SharePointProvisioningTemplateContentTypes()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

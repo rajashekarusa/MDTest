@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecu
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
 - [Folder](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Folder.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class User
@@ -14,7 +12,7 @@ public class User
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [User()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.User.ctor1.md) | 
+| [User()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.User.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

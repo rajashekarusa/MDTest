@@ -1,12 +1,10 @@
 # PassThroughProcessor
-Default processor when others are not resolved  
+ Default processor when others are not resolved   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PassThroughProcessor

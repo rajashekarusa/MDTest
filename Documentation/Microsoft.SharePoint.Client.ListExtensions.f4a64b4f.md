@@ -1,5 +1,5 @@
 # ListExtensions.SetPropertyBagValue Method  
-Sets a key/value pair in the list property bag  
+ Sets a key/value pair in the list property bag   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,16 +12,23 @@ public static void SetPropertyBagValue(List list, String key, String value)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List that will hold the property bag entry  
 
+  
+
 #### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key for the property bag entry  
+
+  
 
 #### value  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;String value for the property bag entry  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

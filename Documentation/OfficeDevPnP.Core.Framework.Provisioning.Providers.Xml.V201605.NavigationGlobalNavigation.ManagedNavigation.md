@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNav
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)
 - [NavigationGlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationGlobalNavigation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

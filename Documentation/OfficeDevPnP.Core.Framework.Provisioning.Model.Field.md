@@ -1,11 +1,11 @@
 # Field
-Represents a Field XML Markup that is used to define information about a field  
+ Represents a Field XML Markup that is used to define information about a field   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class Field: BaseModel
@@ -17,7 +17,7 @@ public class Field: BaseModel
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [SchemaXml](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.SchemaXml.md) |  Gets a value that specifies the XML Schema representing the Field type. <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ff407271.aspx</cref></seealso>
+| [SchemaXml](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.SchemaXml.md) |  Gets a value that specifies the XML Schema representing the Field type. ><cref>https://msdn.microsoft.com/en-us/library/office/ff407271.aspx</cref></see>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

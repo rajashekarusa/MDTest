@@ -12,5 +12,5 @@ public static LogLevel LogLevel { get; set; }
 Type: [OfficeDevPnP.Core.Diagnostics.LogLevel](OfficeDevPnP.Core.Diagnostics.LogLevel.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

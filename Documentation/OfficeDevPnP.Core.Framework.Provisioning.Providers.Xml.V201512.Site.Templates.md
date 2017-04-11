@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Templates]
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
 - [Site](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Site.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

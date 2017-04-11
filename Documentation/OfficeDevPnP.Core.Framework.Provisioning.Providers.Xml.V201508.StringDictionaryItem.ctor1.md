@@ -8,4 +8,5 @@
 public StringDictionaryItem()
 ```
 ## See also
+- [StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

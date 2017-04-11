@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefBase.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefBase.md)  
 ## Syntax
 ```C#
 public class FieldRefFull: FieldRefBase
@@ -13,7 +13,7 @@ public class FieldRefFull: FieldRefBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefFull()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefFull.ctor1.md) | 
+| [FieldRefFull()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldRefFull.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

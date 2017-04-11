@@ -12,5 +12,5 @@ public int ControlType { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

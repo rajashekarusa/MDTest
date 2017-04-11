@@ -8,4 +8,5 @@
 public ClientSidePage()
 ```
 ## See also
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

@@ -1,5 +1,5 @@
 # SiteSecurity.Properties SiteGroups
-List of additional Groups for the Site  
+ List of additional Groups for the Site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public SiteGroupCollection SiteGroups { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -1,5 +1,5 @@
 # TermGroup.Properties SiteCollectionTermGroup
-Is this a site collection term group  
+ Is this a site collection term group   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool SiteCollectionTermGroup { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

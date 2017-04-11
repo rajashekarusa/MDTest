@@ -10,12 +10,19 @@ public static void AddRange(IDictionary<TKey, TValue> dictionary, IDictionary<TK
 ### Parameters
 #### dictionary  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey, TValue>  
+&emsp;&emsp;  
+
+  
 
 #### range  
 &emsp;&emsp;Type: System.Collections.Generic.IDictionary<TKey, TValue>  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)
+- [DictionaryExtensions](OfficeDevPnP.Core.Extensions.DictionaryExtensions.md) 
+- [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md) 

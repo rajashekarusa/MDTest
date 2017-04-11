@@ -1,5 +1,5 @@
 # WebAPIContext.Properties HostedAppHostName
-If the AppWebUrl is null then this value will be used. Needed to obtain an access token  
+ If the AppWebUrl is null then this value will be used. Needed to obtain an access token   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string HostedAppHostName { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
 - [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

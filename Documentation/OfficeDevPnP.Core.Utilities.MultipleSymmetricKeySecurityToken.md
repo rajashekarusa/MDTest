@@ -1,11 +1,11 @@
 # MultipleSymmetricKeySecurityToken
-Represents a security token which contains multiple security keys that are generated using symmetric algorithms.  
+ Represents a security token which contains multiple security keys that are generated using symmetric algorithms.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.IdentityModel.Tokens.SecurityToken](System.IdentityModel.Tokens.SecurityToken.md) 
+&ensp;System.IdentityModel.Tokens.SecurityToken  
 ## Syntax
 ```C#
 public class MultipleSymmetricKeySecurityToken: SecurityToken

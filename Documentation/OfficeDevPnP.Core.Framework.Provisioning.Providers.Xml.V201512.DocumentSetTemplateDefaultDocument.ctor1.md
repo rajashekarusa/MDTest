@@ -8,4 +8,5 @@
 public DocumentSetTemplateDefaultDocument()
 ```
 ## See also
+- [DocumentSetTemplateDefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.DocumentSetTemplateDefaultDocument.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

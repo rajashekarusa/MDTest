@@ -8,4 +8,5 @@
 public SecurityPermissions()
 ```
 ## See also
+- [SecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.SecurityPermissions.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

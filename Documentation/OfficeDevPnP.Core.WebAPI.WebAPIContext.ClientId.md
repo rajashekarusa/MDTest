@@ -1,5 +1,5 @@
 # WebAPIContext.Properties ClientId
-ClientId of the SharePoint app that's being registered. Needed to obtain an access token  
+ ClientId of the SharePoint app that's being registered. Needed to obtain an access token   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string ClientId { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
 - [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

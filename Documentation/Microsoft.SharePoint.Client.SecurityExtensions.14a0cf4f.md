@@ -1,5 +1,5 @@
 # SecurityExtensions.GetGroupID Method  
-Returns the integer ID for a given group name  
+ Returns the integer ID for a given group name   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static int GetGroupID(Web web, String groupName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
+  
+
 #### groupName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;SharePoint group name  
 
+  
+
 ### Return Value
 Type: int  
-Integer group ID
+Integer group ID  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

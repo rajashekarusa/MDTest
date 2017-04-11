@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class File
@@ -14,7 +12,7 @@ public class File
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [File()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.ctor1.md) | 
+| [File()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.File.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

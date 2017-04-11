@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class WebPart: BaseModel
@@ -13,7 +13,7 @@ public class WebPart: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPart()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.ctor1.md) | 
+| [WebPart()](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPart.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

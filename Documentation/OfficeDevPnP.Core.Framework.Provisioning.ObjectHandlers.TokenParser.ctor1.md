@@ -10,7 +10,14 @@ public TokenParser(Web web, ProvisioningTemplate template)
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp;  
+
+
 #### template  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+&emsp;&emsp;  
+
+
 ## See also
+- [TokenParser](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)

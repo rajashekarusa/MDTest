@@ -1,5 +1,5 @@
 # Utility.GetHealthScore Method  
-Returns the healthscore for a SharePoint Server  
+ Returns the healthscore for a SharePoint Server   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,10 +10,15 @@ public static int GetHealthScore(String url)
 ### Parameters
 #### url  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Returns the healthscore for a SharePoint Server   
+
+  
 
 ### Return Value
 Type: int  
+  
 
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [Utility](OfficeDevPnP.Core.Utilities.Utility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

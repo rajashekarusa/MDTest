@@ -12,5 +12,5 @@ public List<CanvasSection> Sections { get; }
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasSection>  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

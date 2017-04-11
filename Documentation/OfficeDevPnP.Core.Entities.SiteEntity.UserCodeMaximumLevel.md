@@ -1,5 +1,5 @@
 # SiteEntity.Properties UserCodeMaximumLevel
-The user code quota in points  
+ The user code quota in points   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public double UserCodeMaximumLevel { get; set; }
 Type: System.Double  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

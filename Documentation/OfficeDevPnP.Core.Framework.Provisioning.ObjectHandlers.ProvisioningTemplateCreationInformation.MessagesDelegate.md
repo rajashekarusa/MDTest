@@ -12,5 +12,5 @@ public ProvisioningMessagesDelegate MessagesDelegate { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)
 - [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md) 

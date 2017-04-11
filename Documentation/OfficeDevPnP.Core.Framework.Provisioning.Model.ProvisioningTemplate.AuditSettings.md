@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties AuditSettings
-The Audit Settings for the Provisioning Template  
+ The Audit Settings for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public AuditSettings AuditSettings { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebServ
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [AddColleagueCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueCompletedEventArgs.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

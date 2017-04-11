@@ -11,4 +11,5 @@ public void Clear()
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [FileTokenCache](OfficeDevPnP.Core.Utilities.FileTokenCache.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

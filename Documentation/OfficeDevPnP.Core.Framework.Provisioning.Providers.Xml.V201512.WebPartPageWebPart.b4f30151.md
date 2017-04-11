@@ -10,9 +10,13 @@ public static XmlQualifiedName GetSchema(XmlSchemaSet schemaSet)
 ### Parameters
 #### schemaSet  
 &emsp;&emsp;Type: System.Xml.Schema.XmlSchemaSet  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: XmlQualifiedName  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
+- [WebPartPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

@@ -8,4 +8,5 @@
 public File()
 ```
 ## See also
+- [File](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.File.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

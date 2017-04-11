@@ -8,4 +8,5 @@
 public CertificateWSTrustBinding()
 ```
 ## See also
+- [CertificateWSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.CertificateWSTrustBinding.md)
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

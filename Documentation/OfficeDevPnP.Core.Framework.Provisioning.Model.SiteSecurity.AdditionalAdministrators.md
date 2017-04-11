@@ -1,5 +1,5 @@
 # SiteSecurity.Properties AdditionalAdministrators
-A Collection of users that are associated as site collection adminsitrators  
+ A Collection of users that are associated as site collection adminsitrators   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public UserCollection AdditionalAdministrators { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ComposedLook
@@ -14,7 +12,7 @@ public class ComposedLook
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLook.ctor1.md) | 
+| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ComposedLook.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -8,4 +8,5 @@
 public YammerUserHomeTab()
 ```
 ## See also
+- [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

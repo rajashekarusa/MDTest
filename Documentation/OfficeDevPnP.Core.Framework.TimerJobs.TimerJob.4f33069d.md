@@ -1,5 +1,5 @@
 # TimerJob.ClearAddedSites Method  
-Clears the list of added site Url's and/or wildcard site Url's  
+ Clears the list of added site Url's and/or wildcard site Url's   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -11,4 +11,5 @@ public void ClearAddedSites()
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

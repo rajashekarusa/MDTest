@@ -1,5 +1,5 @@
 # TenantExtensions.GetWebTemplates Method  
-Returns available webtemplates/site definitions  
+ Returns available webtemplates/site definitions   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,16 +12,25 @@ public static SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
 &emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site  
 
+  
+
 #### lcid  
 &emsp;&emsp;Type: System.UInt32  
+&emsp;&emsp; Returns available webtemplates/site definitions   
+
+  
 
 #### compatibilityLevel  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;14 for SharePoint 2010, 15 for SharePoint 2013/SharePoint Online  
 
+  
+
 ### Return Value
 Type: SPOTenantWebTemplateCollection  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

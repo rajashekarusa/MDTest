@@ -1,5 +1,5 @@
 # ClientObjectExtensions.IsObjectPropertyInstantiated Method  
-Check if a property is instantiated on a object  
+ Check if a property is instantiated on a object   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool IsObjectPropertyInstantiated(T clientObject, Expression<Func<
 &emsp;&emsp;Type: T  
 &emsp;&emsp;Object to operate on  
 
+  
+
 #### propertySelector  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<T, System.Object>>  
 &emsp;&emsp;Lamda expression containing the properties to check (e.g. w => w.HasUniqueRoleAssignments)  
 
+  
+
 ### Return Value
 Type: bool  
-True if the property is instantiated, false otherwise
+True if the property is instantiated, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ClientObjectExtensions](Microsoft.SharePoint.Client.ClientObjectExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

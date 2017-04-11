@@ -10,6 +10,9 @@ public QuickLinkData[] GetUserLinks(String accountName)
 ### Parameters
 #### accountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: QuickLinkData[]  
@@ -17,4 +20,5 @@ Type: QuickLinkData[]
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

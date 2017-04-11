@@ -1,5 +1,5 @@
 # WebPartEntity.Properties WebPartIndex
-Index (order) of the web part in it's zone  
+ Index (order) of the web part in it's zone   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int WebPartIndex { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

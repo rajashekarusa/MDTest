@@ -10,9 +10,13 @@ public static string Includes(String fieldValue)
 ### Parameters
 #### fieldValue  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [CAML](OfficeDevPnP.Core.Utilities.CAML.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

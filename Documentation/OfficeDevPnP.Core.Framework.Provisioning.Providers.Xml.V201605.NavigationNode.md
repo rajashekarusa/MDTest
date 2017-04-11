@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class NavigationNode
@@ -14,7 +12,7 @@ public class NavigationNode
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.ctor1.md) | 
+| [NavigationNode()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

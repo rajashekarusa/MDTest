@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class GetPropertyChoiceListCompletedEventHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class GetPropertyChoiceListCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetPropertyChoiceListCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.ctor1.md) | 
+| [GetPropertyChoiceListCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventHandler.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

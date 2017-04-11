@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebPartPageWebPart
@@ -14,7 +12,7 @@ public class WebPartPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.ctor1.md) | 
+| [WebPartPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,7 +20,7 @@ public class WebPartPageWebPart
 | [Order](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.Order.md) | 
 | [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.Title.md) | 
 | [Zone](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.Zone.md) | 
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebPartPageWebPart.b4f30151.md) | 

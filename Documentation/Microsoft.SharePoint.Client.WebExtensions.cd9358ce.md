@@ -1,5 +1,5 @@
 # WebExtensions.MySiteSearch Method  
-Returns all my site site collections  
+ Returns all my site site collections   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static List<SiteEntity> MySiteSearch(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
+  
+
 ### Return Value
 Type: List<SiteEntity>  
-All my site site collections
+All my site site collections  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -14,5 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)
 - [ListInstanceViews](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ListInstanceViews.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

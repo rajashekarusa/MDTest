@@ -12,5 +12,5 @@ public string Url { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

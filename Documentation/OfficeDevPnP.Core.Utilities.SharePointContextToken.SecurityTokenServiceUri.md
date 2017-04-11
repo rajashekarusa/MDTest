@@ -1,5 +1,5 @@
 # SharePointContextToken.Properties SecurityTokenServiceUri
-The context token's "SecurityTokenServiceUri" claim  
+ The context token's "SecurityTokenServiceUri" claim   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string SecurityTokenServiceUri { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
 - [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

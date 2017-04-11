@@ -10,9 +10,13 @@ public void Error(LogEntry entry)
 ### Parameters
 #### entry  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [ILogger](OfficeDevPnP.Core.Diagnostics.ILogger.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

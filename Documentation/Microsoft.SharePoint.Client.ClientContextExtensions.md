@@ -1,17 +1,15 @@
 # ClientContextExtensions
-Class that holds the deprecated clientcontext methods  
+ Class that holds the deprecated clientcontext methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class ClientContextExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [Clone(ClientRuntimeContext, String)](Microsoft.SharePoint.Client.ClientContextExtensions.496ce2a9.md) | Clones a ClientContext object while "taking over" the security context of the existing ClientContext instance

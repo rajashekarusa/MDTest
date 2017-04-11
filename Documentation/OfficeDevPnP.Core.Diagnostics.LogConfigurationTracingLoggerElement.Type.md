@@ -12,5 +12,5 @@ public string Type { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

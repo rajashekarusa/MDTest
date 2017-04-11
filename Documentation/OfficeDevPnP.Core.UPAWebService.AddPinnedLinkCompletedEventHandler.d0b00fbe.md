@@ -10,12 +10,19 @@ public void Invoke(Object sender, AddPinnedLinkCompletedEventArgs e)
 ### Parameters
 #### sender  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 #### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventArgs.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [AddPinnedLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddPinnedLinkCompletedEventHandler.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

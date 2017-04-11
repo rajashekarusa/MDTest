@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ValueData
@@ -14,7 +12,7 @@ public class ValueData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ValueData()](OfficeDevPnP.Core.UPAWebService.ValueData.ctor1.md) | 
+| [ValueData()](OfficeDevPnP.Core.UPAWebService.ValueData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,5 +1,5 @@
 # SecurityExtensions.RemovePermissionLevelFromPrincipal Method  
-Removes a permission level from a user  
+ Removes a permission level from a user   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,20 +12,29 @@ public static void RemovePermissionLevelFromPrincipal(SecurableObject securableO
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.SecurableObject  
 &emsp;&emsp;Web/List/Item to operate against  
 
+  
+
 #### principal  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Principal  
 &emsp;&emsp;Principal to remove permission from  
+
+  
 
 #### permissionLevel  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.RoleType  
 &emsp;&emsp;Permission level to remove. If null all permission levels are removed  
 
+  
+
 #### (optional) removeAllPermissionLevels  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Set to true to remove all permission level.  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -11,4 +11,5 @@ public int GetHashCode()
 Type: int  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Field](OfficeDevPnP.Core.Framework.Provisioning.Model.Field.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

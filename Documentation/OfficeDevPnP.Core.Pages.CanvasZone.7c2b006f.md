@@ -11,4 +11,5 @@ public string ToHtml()
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

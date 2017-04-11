@@ -1,5 +1,5 @@
 # VariationLabelEntity.Properties IsSource
-Set as source variation  
+ Set as source variation   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool IsSource { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

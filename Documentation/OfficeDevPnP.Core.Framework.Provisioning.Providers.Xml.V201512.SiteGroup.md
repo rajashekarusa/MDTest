@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SiteGroup
@@ -14,7 +12,7 @@ public class SiteGroup
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup.ctor1.md) | 
+| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

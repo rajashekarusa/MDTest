@@ -1,11 +1,11 @@
 # CustomAction
-Domain Object for custom actions associated with a SharePoint list, Web site, or subsite.  
+ Domain Object for custom actions associated with a SharePoint list, Web site, or subsite.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class CustomAction: BaseModel
@@ -28,7 +28,7 @@ public class CustomAction: BaseModel
 | [RegistrationType](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.RegistrationType.md) | 
 | [Remove](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.Remove.md) | Gets or sets a value that specifies whether to Remove the CustomAction from the target
 | [Rights](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.Rights.md) | Gets or sets the value that specifies the permissions needed for the custom action.
-| [RightsValue](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.RightsValue.md) |  Gets or sets the value that specifies the permissions needed for the custom action. <seealso><cref>https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx</cref></seealso>
+| [RightsValue](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.RightsValue.md) |  Gets or sets the value that specifies the permissions needed for the custom action. ><cref>https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx</cref></see>
 | [ScriptBlock](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.ScriptBlock.md) | Gets or sets the value that specifies the ECMAScript to be executed when the custom action is performed.
 | [ScriptSrc](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.ScriptSrc.md) | Gets or sets a value that specifies the URI of a file which contains the ECMAScript to execute on the page
 | [Sequence](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.Sequence.md) | Gets or sets the value that specifies an implementation-specific value that determines the order of the custom action that appears on the page.

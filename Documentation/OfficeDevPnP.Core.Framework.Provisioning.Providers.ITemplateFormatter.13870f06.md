@@ -1,5 +1,5 @@
 # ITemplateFormatter.IsValid Method  
-Method to validate the content of a formatted template instace  
+ Method to validate the content of a formatted template instace   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public bool IsValid(Stream template)
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The formatted template instance as a Stream  
 
+  
+
 ### Return Value
 Type: bool  
-Boolean result of the validation
+Boolean result of the validation  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

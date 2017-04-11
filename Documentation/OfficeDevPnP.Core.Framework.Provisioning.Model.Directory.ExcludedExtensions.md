@@ -1,5 +1,5 @@
 # Directory.Properties ExcludedExtensions
-The file Extensions to exclude while uploading the Directory  
+ The file Extensions to exclude while uploading the Directory   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string ExcludedExtensions { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

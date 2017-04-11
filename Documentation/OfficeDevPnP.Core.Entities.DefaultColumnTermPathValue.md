@@ -1,12 +1,10 @@
 # DefaultColumnTermPathValue
-Specifies a default column value for a document library  
+ Specifies a default column value for a document library   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class DefaultColumnTermPathValue

@@ -1,5 +1,5 @@
 # TimerJob.Properties Name
-Gets the name of this timer job  
+ Gets the name of this timer job   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Name { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
 - [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

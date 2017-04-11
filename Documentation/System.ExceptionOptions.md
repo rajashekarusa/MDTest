@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.ValueType](System.ValueType.md) 
+&ensp;System.ValueType  
 ## Syntax
 ```C#
 public class ExceptionOptions: ValueType

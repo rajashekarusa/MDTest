@@ -1,5 +1,5 @@
 # CustomActionEntity.Properties Name
-Gets or sets the name of the custom action.  
+ Gets or sets the name of the custom action.   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Name { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -12,5 +12,5 @@ public ClientSideComponent[] value { get; set; }
 Type: OfficeDevPnP.Core.Pages.ClientSideComponent[]  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [AvailableClientSideComponents](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

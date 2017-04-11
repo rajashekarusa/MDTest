@@ -1,5 +1,5 @@
 # RoleAssignment.Properties RoleDefinition
-Defines the Role to which the assignment will apply  
+ Defines the Role to which the assignment will apply   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string RoleDefinition { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [RoleAssignment](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleAssignment.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

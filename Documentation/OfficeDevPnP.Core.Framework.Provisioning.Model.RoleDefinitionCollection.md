@@ -1,11 +1,11 @@
 # RoleDefinitionCollection
-Collection of RoleDefinition objects  
+ Collection of RoleDefinition objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition  
 ## Syntax
 ```C#
 public class RoleDefinitionCollection: ProvisioningTemplateCollection<RoleDefinition>

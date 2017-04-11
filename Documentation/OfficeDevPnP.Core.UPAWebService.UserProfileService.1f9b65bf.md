@@ -10,6 +10,9 @@ public ContactData GetCommonManager(String accountName)
 ### Parameters
 #### accountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ContactData  
@@ -17,4 +20,5 @@ Type: ContactData
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

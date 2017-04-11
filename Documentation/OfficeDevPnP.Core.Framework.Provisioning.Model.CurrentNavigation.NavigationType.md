@@ -1,5 +1,5 @@
 # CurrentNavigation.Properties NavigationType
-Defines the type of Current Navigation  
+ Defines the type of Current Navigation   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public CurrentNavigationType NavigationType { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigationType.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

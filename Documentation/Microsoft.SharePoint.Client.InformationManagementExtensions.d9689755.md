@@ -1,5 +1,5 @@
 # InformationManagementExtensions.ApplySitePolicy Method  
-Apply a policy to a site  
+ Apply a policy to a site   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool ApplySitePolicy(Web web, String sitePolicy)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 
+  
+
 #### sitePolicy  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Policy to apply  
 
+  
+
 ### Return Value
 Type: bool  
-True if applied, false otherwise
+True if applied, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

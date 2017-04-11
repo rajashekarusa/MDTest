@@ -1,5 +1,5 @@
 # CustomActionEntity.Properties ScriptSrc
-Gets or sets a value that specifies the URI of a file which contains the ECMAScript to execute on the page  
+ Gets or sets a value that specifies the URI of a file which contains the ECMAScript to execute on the page   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string ScriptSrc { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

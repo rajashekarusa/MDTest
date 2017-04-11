@@ -12,5 +12,5 @@ public string NameId { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
 - [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

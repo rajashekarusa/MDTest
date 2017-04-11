@@ -12,5 +12,5 @@ public string username { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

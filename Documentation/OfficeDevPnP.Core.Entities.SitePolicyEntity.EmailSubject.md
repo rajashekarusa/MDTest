@@ -1,5 +1,5 @@
 # SitePolicyEntity.Properties EmailSubject
-The subject of the notification email.  
+ The subject of the notification email.   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string EmailSubject { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

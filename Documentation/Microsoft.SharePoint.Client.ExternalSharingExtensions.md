@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class ExternalSharingExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [CreateAnonymousLinkForDocument(Web, String, ExternalSharingDocumentOption)](Microsoft.SharePoint.Client.ExternalSharingExtensions.65ade625.md) |  Creates anonymous link to given document. See <a href="https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.web.createanonymouslink.aspx">MSDN</a>

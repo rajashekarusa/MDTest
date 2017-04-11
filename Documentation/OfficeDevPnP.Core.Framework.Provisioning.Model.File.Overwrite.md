@@ -1,5 +1,5 @@
 # File.Properties Overwrite
-The Overwrite flag for the File  
+ The Overwrite flag for the File   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool Overwrite { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

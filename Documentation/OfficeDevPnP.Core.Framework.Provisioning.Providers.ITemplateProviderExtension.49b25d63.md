@@ -1,5 +1,5 @@
 # ITemplateProviderExtension.PostProcessGetTemplate Method  
-Method invoked after deserializing the template from the source repository  
+ Method invoked after deserializing the template from the source repository   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public ProvisioningTemplate PostProcessGetTemplate(ProvisioningTemplate template
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The just deserialized template  
 
+  
+
 ### Return Value
 Type: ProvisioningTemplate  
-The resulting template, after post-processing
+The resulting template, after post-processing  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

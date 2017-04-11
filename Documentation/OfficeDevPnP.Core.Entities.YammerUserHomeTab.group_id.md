@@ -12,5 +12,5 @@ public Nullable<Int32> group_id { get; set; }
 Type: System.Nullable<System.Int32>  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

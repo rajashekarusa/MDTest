@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class UpdateColleaguePrivacyCompletedEventHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class UpdateColleaguePrivacyCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UpdateColleaguePrivacyCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler.ctor1.md) | 
+| [UpdateColleaguePrivacyCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.UpdateColleaguePrivacyCompletedEventHandler.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

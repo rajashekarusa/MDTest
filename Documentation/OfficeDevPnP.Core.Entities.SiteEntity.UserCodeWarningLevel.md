@@ -1,5 +1,5 @@
 # SiteEntity.Properties UserCodeWarningLevel
-The user code quota warning level in points  
+ The user code quota warning level in points   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public double UserCodeWarningLevel { get; set; }
 Type: System.Double  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

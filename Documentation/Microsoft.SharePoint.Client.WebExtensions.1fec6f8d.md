@@ -1,5 +1,5 @@
 # WebExtensions.DisableRequestAccess Method  
-Disables the request access on the web.  
+ Disables the request access on the web.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public static void DisableRequestAccess(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to disable request access.  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -8,4 +8,5 @@
 public ClientSideComponent()
 ```
 ## See also
+- [ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

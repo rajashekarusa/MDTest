@@ -1,5 +1,5 @@
 # WorkflowExtensions.GetWorkflowInstances Method  
-Returns alls workflow instances for a list item  
+ Returns alls workflow instances for a list item   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,13 +10,21 @@ public static WorkflowInstanceCollection GetWorkflowInstances(Web web, ListItem 
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp; Returns alls workflow instances for a list item   
+
+  
 
 #### item  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ListItem  
+&emsp;&emsp; Returns alls workflow instances for a list item   
+
+  
 
 ### Return Value
 Type: WorkflowInstanceCollection  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class RoleDefinition: BaseModel
@@ -13,8 +13,8 @@ public class RoleDefinition: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.ctor1.md) | 
-| [RoleDefinition(IEnumerable<PermissionKind>)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.ctor2.md) | 
+| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.ctor1.md) |  
+| [RoleDefinition(IEnumerable<PermissionKind>)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

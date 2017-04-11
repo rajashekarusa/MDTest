@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.ServiceModel.Channels.Binding](System.ServiceModel.Channels.Binding.md) 
+&ensp;System.ServiceModel.Channels.Binding  
 ## Syntax
 ```C#
 public class WSTrustBinding: Binding

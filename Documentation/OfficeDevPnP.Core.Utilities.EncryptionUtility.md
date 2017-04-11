@@ -1,17 +1,15 @@
 # EncryptionUtility
-Utility class that support certificate based encryption/decryption  
+ Utility class that support certificate based encryption/decryption   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class EncryptionUtility
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [Decrypt(String, String)](OfficeDevPnP.Core.Utilities.EncryptionUtility.2aead82c.md) | Decrypt a piece of text based on a given certificate

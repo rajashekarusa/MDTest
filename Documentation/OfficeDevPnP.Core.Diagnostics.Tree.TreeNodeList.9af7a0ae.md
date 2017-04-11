@@ -10,9 +10,13 @@ public void add_PropertyChanged(PropertyChangedEventHandler value)
 ### Parameters
 #### value  
 &emsp;&emsp;Type: System.ComponentModel.PropertyChangedEventHandler  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
+- [TreeNodeList](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

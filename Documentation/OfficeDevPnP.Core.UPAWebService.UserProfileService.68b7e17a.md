@@ -10,9 +10,15 @@ public void RemovePinnedLink(String accountName, Int32 id)
 ### Parameters
 #### accountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### id  
 &emsp;&emsp;Type: System.Int32  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
@@ -20,4 +26,5 @@ Type: void
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

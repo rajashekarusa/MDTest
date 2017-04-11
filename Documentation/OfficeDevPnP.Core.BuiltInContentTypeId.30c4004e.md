@@ -10,9 +10,13 @@ public static bool Contains(String id)
 ### Parameters
 #### id  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
+- [BuiltInContentTypeId](OfficeDevPnP.Core.BuiltInContentTypeId.md) 
+- [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

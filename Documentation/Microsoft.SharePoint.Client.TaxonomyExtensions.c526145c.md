@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetTaxonomyItemByPath Method  
-Returns a taxonomy item by it's path, e.g. Group|Set|Term  
+ Returns a taxonomy item by it's path, e.g. Group|Set|Term   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,17 +12,25 @@ public static TaxonomyItem GetTaxonomyItemByPath(Site site, String path, String 
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
+  
+
 #### path  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The path of the item to return  
+
+  
 
 #### (optional) delimiter  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The delimeter separating groups, sets and term in the path. Defaults to |  
 
+  
+
 ### Return Value
 Type: TaxonomyItem  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

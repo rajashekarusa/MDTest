@@ -8,4 +8,5 @@
 public PublishingWebTemplate()
 ```
 ## See also
+- [PublishingWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

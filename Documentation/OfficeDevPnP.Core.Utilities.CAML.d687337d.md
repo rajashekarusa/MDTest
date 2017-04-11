@@ -10,12 +10,19 @@ public static string Or(String clause1, String[] conditionClauses)
 ### Parameters
 #### clause1  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### conditionClauses  
 &emsp;&emsp;Type: System.String[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [CAML](OfficeDevPnP.Core.Utilities.CAML.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

@@ -1,5 +1,5 @@
 # ClientContextExtensions.HasMinimalServerLibraryVersion Method  
-Checks the server library version of the context for a minimally required version  
+ Checks the server library version of the context for a minimally required version   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,13 +10,21 @@ public static bool HasMinimalServerLibraryVersion(ClientRuntimeContext clientCon
 ### Parameters
 #### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
+&emsp;&emsp; Checks the server library version of the context for a minimally required version   
+
+  
 
 #### minimallyRequiredVersion  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Checks the server library version of the context for a minimally required version   
+
+  
 
 ### Return Value
 Type: bool  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,5 +1,5 @@
 # Publishing.Properties AvailableWebTemplates
-Defines the Available Web Templates for the current Publishing site  
+ Defines the Available Web Templates for the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public AvailableWebTemplateCollection AvailableWebTemplates { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplateCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

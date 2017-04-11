@@ -14,5 +14,5 @@ Type: System.Int32
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)
 - [WikiPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.WikiPageWebPart.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

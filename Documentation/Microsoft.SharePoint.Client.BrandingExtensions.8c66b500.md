@@ -1,5 +1,5 @@
 # BrandingExtensions.SetMasterPageByName Method  
-Master page is set by using master page name. Master page is set from the current web.  
+ Master page is set by using master page name. Master page is set from the current web.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,14 +12,19 @@ public static void SetMasterPageByName(Web web, String masterPageName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Current web  
 
+  
+
 #### masterPageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the master page. Path is resolved from this.  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - System.ArgumentException
 - System.ArgumentNullException
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

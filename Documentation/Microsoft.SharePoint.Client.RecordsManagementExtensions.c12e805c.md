@@ -1,5 +1,5 @@
 # RecordsManagementExtensions.GetListAutoRecordDeclaration Method  
-Returns if auto record declaration is active for this list  
+ Returns if auto record declaration is active for this list   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static bool GetListAutoRecordDeclaration(List list)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
 
+  
+
 ### Return Value
 Type: bool  
-True if auto record declaration is active, false otherwise
+True if auto record declaration is active, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

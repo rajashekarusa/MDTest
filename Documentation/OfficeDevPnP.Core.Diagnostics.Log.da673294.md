@@ -10,18 +10,31 @@ public static void Error(Exception ex, String source, String message, Object[] a
 ### Parameters
 #### ex  
 &emsp;&emsp;Type: System.Exception  
+&emsp;&emsp;  
+
+  
 
 #### source  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### message  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### args  
 &emsp;&emsp;Type: System.Object[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

@@ -1,5 +1,5 @@
 # VariationLabelEntity.Properties Language
-The variation label language  
+ The variation label language   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Language { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

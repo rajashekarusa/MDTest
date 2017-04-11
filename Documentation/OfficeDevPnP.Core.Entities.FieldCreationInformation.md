@@ -5,9 +5,8 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)
-
-+++[OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
+&ensp;OfficeDevPnP.Core.Entities.FieldCreationInformation  
+&emsp;[OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md)  
 ## Syntax
 ```C#
 public class FieldCreationInformation
@@ -15,8 +14,8 @@ public class FieldCreationInformation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldCreationInformation(String)](OfficeDevPnP.Core.Entities.FieldCreationInformation.ctor1.md) | 
-| [FieldCreationInformation(FieldType)](OfficeDevPnP.Core.Entities.FieldCreationInformation.ctor2.md) | 
+| [FieldCreationInformation(String)](OfficeDevPnP.Core.Entities.FieldCreationInformation.ctor1.md) |  
+| [FieldCreationInformation(FieldType)](OfficeDevPnP.Core.Entities.FieldCreationInformation.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

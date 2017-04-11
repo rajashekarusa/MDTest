@@ -8,4 +8,5 @@
 public MembershipData()
 ```
 ## See also
+- [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md)
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

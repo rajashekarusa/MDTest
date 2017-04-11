@@ -10,9 +10,13 @@ public void add_RemoveAllMembershipsCompleted(RemoveAllMembershipsCompletedEvent
 ### Parameters
 #### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.RemoveAllMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllMembershipsCompletedEventHandler.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

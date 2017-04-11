@@ -10,12 +10,21 @@ public void RemoveMembershipAsync(String accountName, Guid sourceInternal, Strin
 ### Parameters
 #### accountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### sourceInternal  
 &emsp;&emsp;Type: System.Guid  
+&emsp;&emsp;  
+
+  
 
 #### sourceReference  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
@@ -23,4 +32,5 @@ Type: void
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

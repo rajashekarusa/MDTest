@@ -8,4 +8,5 @@
 public WebSettings()
 ```
 ## See also
+- [WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

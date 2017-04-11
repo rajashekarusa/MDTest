@@ -1,5 +1,5 @@
 # TimerJob.Properties IsRunning
-Is this timer job running?  
+ Is this timer job running?   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool IsRunning { get; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
 - [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

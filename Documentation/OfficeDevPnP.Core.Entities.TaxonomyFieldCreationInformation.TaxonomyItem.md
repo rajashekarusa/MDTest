@@ -12,5 +12,5 @@ public TaxonomyItem TaxonomyItem { get; set; }
 Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [TaxonomyFieldCreationInformation](OfficeDevPnP.Core.Entities.TaxonomyFieldCreationInformation.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

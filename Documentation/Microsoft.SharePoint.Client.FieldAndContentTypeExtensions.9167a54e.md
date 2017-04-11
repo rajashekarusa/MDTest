@@ -10,15 +10,25 @@ public static TField CreateField(List list, FieldCreationInformation fieldCreati
 ### Parameters
 #### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+&emsp;&emsp;  
+
+  
 
 #### fieldCreationInformation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)  
+&emsp;&emsp;  
+
+  
 
 #### (optional) executeQuery  
 &emsp;&emsp;Type: System.Boolean  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: TField  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

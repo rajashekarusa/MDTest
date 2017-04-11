@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WorkflowsWorkflowSubscription
@@ -14,7 +12,7 @@ public class WorkflowsWorkflowSubscription
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowsWorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowSubscription.ctor1.md) | 
+| [WorkflowsWorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WorkflowsWorkflowSubscription.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

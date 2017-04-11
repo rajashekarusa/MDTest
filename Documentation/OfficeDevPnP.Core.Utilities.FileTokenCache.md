@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache](Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache.md) 
+&ensp;Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache  
 ## Syntax
 ```C#
 public class FileTokenCache: TokenCache
@@ -13,7 +13,7 @@ public class FileTokenCache: TokenCache
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FileTokenCache(String)](OfficeDevPnP.Core.Utilities.FileTokenCache.ctor1.md) | 
+| [FileTokenCache(String)](OfficeDevPnP.Core.Utilities.FileTokenCache.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

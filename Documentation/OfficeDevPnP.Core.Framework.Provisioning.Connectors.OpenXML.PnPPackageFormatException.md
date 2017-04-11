@@ -1,11 +1,11 @@
 # PnPPackageFormatException
-Custom Exception type for PnP Packaging handling  
+ Custom Exception type for PnP Packaging handling   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.ApplicationException](System.ApplicationException.md) 
+&ensp;System.ApplicationException  
 ## Syntax
 ```C#
 public class PnPPackageFormatException: ApplicationException

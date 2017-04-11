@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.AddContentTypeToList Method  
-Add content type to list  
+ Add content type to list   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,16 +12,23 @@ public static bool AddContentTypeToList(List list, ContentType contentType, Bool
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to add content type to  
 
+  
+
 #### contentType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentType  
 &emsp;&emsp;Content type to add to the list  
+
+  
 
 #### (optional) defaultContent  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If set true, content type is updated to be default content type for the list  
 
+  
+
 ### Return Value
 Type: bool  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

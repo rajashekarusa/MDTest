@@ -1,5 +1,5 @@
 # ListInstance.Properties EnableModeration
-Gets or sets whether moderation/content approval is enabled on the list  
+ Gets or sets whether moderation/content approval is enabled on the list   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool EnableModeration { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

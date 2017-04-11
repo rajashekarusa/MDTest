@@ -1,5 +1,5 @@
 # IXMLSchemaFormatter.Properties NamespacePrefix
-The default namespace prefix of the target XML Namespace  
+ The default namespace prefix of the target XML Namespace   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string NamespacePrefix { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
 - [IXMLSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md) 

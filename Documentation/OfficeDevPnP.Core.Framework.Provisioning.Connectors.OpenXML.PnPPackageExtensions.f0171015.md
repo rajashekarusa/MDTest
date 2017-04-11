@@ -10,9 +10,13 @@ public static PnPInfo UnpackTemplate(MemoryStream stream)
 ### Parameters
 #### stream  
 &emsp;&emsp;Type: System.IO.MemoryStream  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: PnPInfo  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)
+- [PnPPackageExtensions](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md) 

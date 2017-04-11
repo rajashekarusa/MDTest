@@ -1,11 +1,11 @@
 # CurrentNavigation
-The Current Navigation settings for the Provisioning Template  
+ The Current Navigation settings for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md)  
 ## Syntax
 ```C#
 public class CurrentNavigation: BaseNavigationKind

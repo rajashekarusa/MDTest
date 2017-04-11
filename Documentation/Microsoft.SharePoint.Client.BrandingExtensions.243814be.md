@@ -1,5 +1,5 @@
 # BrandingExtensions.SetDefaultPageLayoutForSite Method  
-Sets specific page layout the default page layout for the particular site  
+ Sets specific page layout the default page layout for the particular site   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,15 +10,25 @@ public static void SetDefaultPageLayoutForSite(Web web, Web rootWeb, String page
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp; Sets specific page layout the default page layout for the particular site   
+
+  
 
 #### rootWeb  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp; Sets specific page layout the default page layout for the particular site   
+
+  
 
 #### pageLayoutName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Sets specific page layout the default page layout for the particular site   
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

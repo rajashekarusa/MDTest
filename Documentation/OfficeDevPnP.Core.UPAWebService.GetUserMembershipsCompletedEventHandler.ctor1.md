@@ -10,7 +10,14 @@ public GetUserMembershipsCompletedEventHandler(object object, IntPtr method)
 ### Parameters
 #### object  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+
 #### method  
 &emsp;&emsp;Type: System.IntPtr  
+&emsp;&emsp;  
+
+
 ## See also
+- [GetUserMembershipsCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserMembershipsCompletedEventHandler.md)
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

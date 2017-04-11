@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class GetProfileSchemaNamesCompletedEventHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class GetProfileSchemaNamesCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetProfileSchemaNamesCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNamesCompletedEventHandler.ctor1.md) | 
+| [GetProfileSchemaNamesCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNamesCompletedEventHandler.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

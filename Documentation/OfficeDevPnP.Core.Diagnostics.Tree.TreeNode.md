@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class TreeNode
@@ -14,9 +12,9 @@ public class TreeNode
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TreeNode()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor1.md) | 
-| [TreeNode(T)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor2.md) | 
-| [TreeNode(T, TreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor3.md) | 
+| [TreeNode()](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor1.md) |  
+| [TreeNode(T)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor2.md) |  
+| [TreeNode(T, TreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.ctor3.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

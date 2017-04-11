@@ -1,5 +1,5 @@
 # CustomActionEntity.Properties Rights
-Gets or sets the value that specifies the permissions needed for the custom action.  
+ Gets or sets the value that specifies the permissions needed for the custom action.   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public BasePermissions Rights { get; set; }
 Type: Microsoft.SharePoint.Client.BasePermissions  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

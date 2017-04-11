@@ -1,17 +1,15 @@
 # InformationManagementExtensions
-Class that holds deprecated information management extension methods  
+ Class that holds deprecated information management extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class InformationManagementExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ApplySitePolicy(Web, String)](Microsoft.SharePoint.Client.InformationManagementExtensions.d9689755.md) | Apply a policy to a site

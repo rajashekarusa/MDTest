@@ -12,5 +12,5 @@ public int ThreadId { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

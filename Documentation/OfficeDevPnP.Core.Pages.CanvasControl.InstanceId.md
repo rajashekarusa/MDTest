@@ -12,5 +12,5 @@ public Guid InstanceId { get; }
 Type: System.Guid  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

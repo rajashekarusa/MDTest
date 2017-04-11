@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.ContentTypeExistsByName Method  
-Does content type exist in list  
+ Does content type exist in list   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool ContentTypeExistsByName(List list, String contentTypeName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
 
+  
+
 #### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
 
+  
+
 ### Return Value
 Type: bool  
-True if the content type exists, false otherwise
+True if the content type exists, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

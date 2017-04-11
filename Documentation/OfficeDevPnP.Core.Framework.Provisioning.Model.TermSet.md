@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class TermSet: BaseModel
@@ -13,8 +13,8 @@ public class TermSet: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermSet()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.ctor1.md) | 
-| [TermSet(Guid, String, Nullable<Int32>, Boolean, Boolean, List<Term>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.ctor2.md) | 
+| [TermSet()](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.ctor1.md) |  
+| [TermSet(Guid, String, Nullable<Int32>, Boolean, Boolean, List<Term>, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

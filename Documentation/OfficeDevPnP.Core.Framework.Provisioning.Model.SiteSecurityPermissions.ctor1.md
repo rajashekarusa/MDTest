@@ -8,4 +8,5 @@
 public SiteSecurityPermissions()
 ```
 ## See also
+- [SiteSecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurityPermissions.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PropertyType
@@ -14,7 +12,7 @@ public class PropertyType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.ctor1.md) | 
+| [PropertyType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

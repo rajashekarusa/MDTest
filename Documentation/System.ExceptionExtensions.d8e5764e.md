@@ -10,12 +10,19 @@ public static string ToDetailedString(Exception exception, ExceptionOptions opti
 ### Parameters
 #### exception  
 &emsp;&emsp;Type: System.Exception  
+&emsp;&emsp;  
+
+  
 
 #### options  
 &emsp;&emsp;Type: [System.ExceptionOptions](System.ExceptionOptions.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: string  
 
 ## See also
-- [System](System.md)
+- [ExceptionExtensions](System.ExceptionExtensions.md) 
+- [System](System.md) 

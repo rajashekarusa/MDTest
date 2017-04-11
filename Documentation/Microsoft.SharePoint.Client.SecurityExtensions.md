@@ -1,20 +1,18 @@
 # SecurityExtensions
-This manager class holds deprecated security related methods  
+ This manager class holds deprecated security related methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class SecurityExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddAdministrators(Web, List<UserEntity>, Boolean)](Microsoft.SharePoint.Client.SecurityExtensions.6ae7b819.md) | 
+| [AddAdministrators(Web, List<UserEntity>, Boolean)](Microsoft.SharePoint.Client.SecurityExtensions.6ae7b819.md) | Add a site collection administrator to a site collection
 | [AddGroup(Web, String, String, Boolean, Boolean, Boolean)](Microsoft.SharePoint.Client.SecurityExtensions.6821c296.md) | Adds a group
 | [AddPermissionLevelToGroup(SecurableObject, String, RoleType, Boolean)](Microsoft.SharePoint.Client.SecurityExtensions.7e8844c.md) | Add a permission level (e.g.Contribute, Reader,...) to a group
 | [AddPermissionLevelToGroup(SecurableObject, String, String, Boolean)](Microsoft.SharePoint.Client.SecurityExtensions.e4482cf4.md) | Add a role definition (e.g.Contribute, Read, Approve) to a group

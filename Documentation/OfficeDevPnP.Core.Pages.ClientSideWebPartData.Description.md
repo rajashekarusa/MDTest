@@ -12,5 +12,5 @@ public string Description { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideWebPartData](OfficeDevPnP.Core.Pages.ClientSideWebPartData.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

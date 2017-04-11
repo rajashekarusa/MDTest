@@ -1,5 +1,5 @@
 # TimerJob.GetAllSubSites Method  
-Gets all sub sites for a given site  
+ Gets all sub sites for a given site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public IEnumerable<String> GetAllSubSites(Site site)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to find all sub site for  
 
+  
+
 ### Return Value
 Type: IEnumerable<String>  
-IEnumerable of strings holding the sub site urls
+IEnumerable of strings holding the sub site urls  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

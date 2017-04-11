@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.Web.Services.Protocols.SoapHttpClientProtocol](System.Web.Services.Protocols.SoapHttpClientProtocol.md) 
+&ensp;System.Web.Services.Protocols.SoapHttpClientProtocol  
 ## Syntax
 ```C#
 public class UserProfileService: SoapHttpClientProtocol
@@ -13,7 +13,7 @@ public class UserProfileService: SoapHttpClientProtocol
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserProfileService()](OfficeDevPnP.Core.UPAWebService.UserProfileService.ctor1.md) | 
+| [UserProfileService()](OfficeDevPnP.Core.UPAWebService.UserProfileService.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

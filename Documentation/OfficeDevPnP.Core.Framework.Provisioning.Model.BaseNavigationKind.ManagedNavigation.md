@@ -1,5 +1,5 @@
 # BaseNavigationKind.Properties ManagedNavigation
-Defines the Managed Navigation settings of the site  
+ Defines the Managed Navigation settings of the site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public ManagedNavigation ManagedNavigation { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.ManagedNavigation.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

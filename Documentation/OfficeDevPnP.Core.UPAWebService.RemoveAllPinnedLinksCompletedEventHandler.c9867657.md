@@ -10,9 +10,13 @@ public void EndInvoke(IAsyncResult result)
 ### Parameters
 #### result  
 &emsp;&emsp;Type: System.IAsyncResult  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [RemoveAllPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllPinnedLinksCompletedEventHandler.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

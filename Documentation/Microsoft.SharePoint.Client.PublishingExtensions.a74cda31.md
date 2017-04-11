@@ -1,5 +1,5 @@
 # PublishingExtensions.GetPublishingImageRenditions Method  
-Returns all image renditions  
+ Returns all image renditions   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public static IList<ImageRendition> GetPublishingImageRenditions(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;SharePoint Web  
 
+  
+
 ### Return Value
 Type: IList<ImageRendition>  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

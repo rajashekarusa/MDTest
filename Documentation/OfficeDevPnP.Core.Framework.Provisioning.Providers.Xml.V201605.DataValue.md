@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.md)  
 ## Syntax
 ```C#
 public class DataValue: BaseFieldValue
@@ -13,6 +13,6 @@ public class DataValue: BaseFieldValue
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DataValue.ctor1.md) | 
+| [DataValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DataValue.ctor1.md) |  
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

@@ -10,5 +10,9 @@ public OrderByField(string name)
 ### Parameters
 #### name  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+
 ## See also
+- [OrderByField](OfficeDevPnP.Core.Utilities.OrderByField.md)
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)

@@ -10,5 +10,9 @@ public ProvisioningTemplateCollection(ProvisioningTemplate parentTemplate)
 ### Parameters
 #### parentTemplate  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+&emsp;&emsp;  
+
+
 ## See also
+- [ProvisioningTemplateCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

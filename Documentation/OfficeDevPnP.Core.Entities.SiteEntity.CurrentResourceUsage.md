@@ -1,5 +1,5 @@
 # SiteEntity.Properties CurrentResourceUsage
-The current resource usage points  
+ The current resource usage points   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public double CurrentResourceUsage { get; set; }
 Type: System.Double  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

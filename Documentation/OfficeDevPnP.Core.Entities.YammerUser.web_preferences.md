@@ -12,5 +12,5 @@ public YammerUserWebPreferences web_preferences { get; set; }
 Type: [OfficeDevPnP.Core.Entities.YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

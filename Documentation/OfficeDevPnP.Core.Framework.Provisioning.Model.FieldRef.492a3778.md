@@ -10,9 +10,13 @@ public bool Equals(FieldRef other)
 ### Parameters
 #### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

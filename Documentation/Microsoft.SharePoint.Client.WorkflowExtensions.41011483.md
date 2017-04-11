@@ -1,5 +1,5 @@
 # WorkflowExtensions.PublishCustomEvent Method  
-Publish a custom event to a target workflow instance  
+ Publish a custom event to a target workflow instance   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,17 +10,25 @@ public static void PublishCustomEvent(WorkflowInstance instance, String eventNam
 ### Parameters
 #### instance  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
+&emsp;&emsp; Publish a custom event to a target workflow instance   
+
+  
 
 #### eventName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the target event  
 
+  
+
 #### payload  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The payload that will be sent to the event  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

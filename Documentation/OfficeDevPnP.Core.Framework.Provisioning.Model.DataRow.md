@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class DataRow: BaseModel
@@ -13,9 +13,9 @@ public class DataRow: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataRow()](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor1.md) | 
-| [DataRow(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor2.md) | 
-| [DataRow(Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor3.md) | 
+| [DataRow()](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor1.md) |  
+| [DataRow(Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor2.md) |  
+| [DataRow(Dictionary<String, String>, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow.ctor3.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

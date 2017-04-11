@@ -1,5 +1,5 @@
 # SiteEntity.Properties LastContentModifiedDate
-The last modified date/time of the site collection's content  
+ The last modified date/time of the site collection's content   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public DateTime LastContentModifiedDate { get; set; }
 Type: System.DateTime  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

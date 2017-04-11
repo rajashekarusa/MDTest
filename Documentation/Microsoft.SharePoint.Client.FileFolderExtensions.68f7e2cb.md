@@ -1,5 +1,5 @@
 # FileFolderExtensions.GetFile Method  
-Gets a file in a document library.  
+ Gets a file in a document library.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static File GetFile(Folder folder, String fileName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Folder containing the target file.  
 
+  
+
 #### fileName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;File name.  
 
+  
+
 ### Return Value
 Type: File  
-The target file if found, null if no file is found.
+The target file if found, null if no file is found.  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

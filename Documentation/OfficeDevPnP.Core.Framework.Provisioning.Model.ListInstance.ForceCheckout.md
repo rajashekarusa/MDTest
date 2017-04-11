@@ -1,5 +1,5 @@
 # ListInstance.Properties ForceCheckout
-Gets or sets whether to force checkout of documents in the library  
+ Gets or sets whether to force checkout of documents in the library   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool ForceCheckout { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

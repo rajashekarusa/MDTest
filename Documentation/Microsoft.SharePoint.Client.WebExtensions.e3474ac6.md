@@ -1,5 +1,5 @@
 # WebExtensions.GetRequestAccessEmails Method  
-Gets the request access e-mail addresses of the web.  
+ Gets the request access e-mail addresses of the web.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static IEnumerable<String> GetRequestAccessEmails(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to get the request access e-mail addresses from.  
 
+  
+
 ### Return Value
 Type: IEnumerable<String>  
-The request access e-mail addresses of the web.
+The request access e-mail addresses of the web.  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,17 +1,15 @@
 # UrlUtility
-Static methods to modify URL paths.  
+ Static methods to modify URL paths.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class UrlUtility
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AppendQueryString(String, String)](OfficeDevPnP.Core.Utilities.UrlUtility.4066d2e4.md) |  Adds query string parameters to the end of a querystring and guarantees the proper concatenation with <b>?</b> and <b>&amp;.</b>

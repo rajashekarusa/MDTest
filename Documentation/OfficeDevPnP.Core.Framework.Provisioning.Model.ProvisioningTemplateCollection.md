@@ -1,11 +1,11 @@
 # ProvisioningTemplateCollection
-Generic collection of items stored in the ProvisioningTemplate graph  
+ Generic collection of items stored in the ProvisioningTemplate graph   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.Collections.ObjectModel.Collection](System.Collections.ObjectModel.Collection.md) 
+&ensp;System.Collections.ObjectModel.Collection  
 ## Syntax
 ```C#
 public class ProvisioningTemplateCollection: Collection

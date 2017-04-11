@@ -1,5 +1,5 @@
 # ClientSideWebPart.Properties Title
-Title of the web part  
+ Title of the web part   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,6 +12,6 @@ public string Title { get; set; }
 Type: System.String  
 
 ## See also
-- Newtonsoft.Json.Linq.JObject
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- Newtonsoft.Json.Linq.JObject
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

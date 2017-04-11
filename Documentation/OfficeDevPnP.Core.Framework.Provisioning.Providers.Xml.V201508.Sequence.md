@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Sequence
@@ -14,7 +12,7 @@ public class Sequence
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Sequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Sequence.ctor1.md) | 
+| [Sequence()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Sequence.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

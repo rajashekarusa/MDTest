@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetTermByName Method  
-Gets a Taxonomy Term by Name  
+ Gets a Taxonomy Term by Name   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,15 +12,25 @@ public static Term GetTermByName(Site site, Guid termSetId, String term)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The site to process  
 
+  
+
 #### termSetId  
 &emsp;&emsp;Type: System.Guid  
+&emsp;&emsp; Gets a Taxonomy Term by Name   
+
+  
 
 #### term  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Gets a Taxonomy Term by Name   
+
+  
 
 ### Return Value
 Type: Term  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

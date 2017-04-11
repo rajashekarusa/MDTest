@@ -10,12 +10,19 @@ public static bool HasMinimalServerLibraryVersion(ClientRuntimeContext clientCon
 ### Parameters
 #### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
+&emsp;&emsp;  
+
+  
 
 #### minimallyRequiredVersion  
 &emsp;&emsp;Type: System.Version  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

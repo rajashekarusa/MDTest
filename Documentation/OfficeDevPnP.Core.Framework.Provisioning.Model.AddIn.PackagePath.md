@@ -1,5 +1,5 @@
 # AddIn.Properties PackagePath
-Defines the .app file of the SharePoint Add-in to provision  
+ Defines the .app file of the SharePoint Add-in to provision   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string PackagePath { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

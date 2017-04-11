@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class View: BaseModel
@@ -13,7 +13,7 @@ public class View: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [View()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.ctor1.md) | 
+| [View()](OfficeDevPnP.Core.Framework.Provisioning.Model.View.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

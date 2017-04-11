@@ -12,5 +12,5 @@ public string last_message_at { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

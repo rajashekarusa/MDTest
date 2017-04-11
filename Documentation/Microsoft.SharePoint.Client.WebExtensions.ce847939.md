@@ -1,5 +1,5 @@
 # WebExtensions.RemoveAppInstanceByTitle Method  
-Removes the app instance with the specified title.  
+ Removes the app instance with the specified title.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool RemoveAppInstanceByTitle(Web web, String appTitle)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to remove the app instance from  
 
+  
+
 #### appTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the app instance to remove  
 
+  
+
 ### Return Value
 Type: bool  
-true if the the app instance was removed; false if it does not exist
+true if the the app instance was removed; false if it does not exist  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

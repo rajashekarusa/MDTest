@@ -12,5 +12,5 @@ public int Language { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

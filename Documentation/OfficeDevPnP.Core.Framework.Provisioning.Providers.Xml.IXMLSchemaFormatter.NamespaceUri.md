@@ -1,5 +1,5 @@
 # IXMLSchemaFormatter.Properties NamespaceUri
-The URI of the target XML Namespace  
+ The URI of the target XML Namespace   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string NamespaceUri { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
 - [IXMLSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md) 

@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [QuickLinkData](OfficeDevPnP.Core.UPAWebService.QuickLinkData.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

@@ -1,5 +1,5 @@
 # PageExtensions.AddClientSidePage Method  
-Adds a client side "modern" page to a "classic" or "modern" site  
+ Adds a client side "modern" page to a "classic" or "modern" site   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,18 +12,25 @@ public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to add the page to  
 
+  
+
 #### pageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name (e.g. demo.aspx) of the page to be added  
 
+  
+
 #### (optional) alreadyPersist  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;Already persist the created, empty, page before returning the instantiated  instance  
+&emsp;&emsp;Already persist the created, empty, page before returning the instantiated instance  
+
+  
 
 ### Return Value
 Type: ClientSidePage  
-A  instance
+A  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  instance  
 
 ## See also
+- [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

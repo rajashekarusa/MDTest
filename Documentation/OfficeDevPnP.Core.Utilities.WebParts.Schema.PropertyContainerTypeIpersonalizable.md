@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PropertyContainerTypeIpersonalizable
@@ -14,7 +12,7 @@ public class PropertyContainerTypeIpersonalizable
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyContainerTypeIpersonalizable()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerTypeIpersonalizable.ctor1.md) | 
+| [PropertyContainerTypeIpersonalizable()](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerTypeIpersonalizable.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

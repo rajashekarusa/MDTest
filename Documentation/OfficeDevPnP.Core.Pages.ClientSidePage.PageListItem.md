@@ -12,5 +12,5 @@ public ListItem PageListItem { get; }
 Type: Microsoft.SharePoint.Client.ListItem  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

@@ -1,5 +1,5 @@
 # Navigation.Properties CurrentNavigation
-The Current Navigation settings for the Provisioning Template  
+ The Current Navigation settings for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public CurrentNavigation CurrentNavigation { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

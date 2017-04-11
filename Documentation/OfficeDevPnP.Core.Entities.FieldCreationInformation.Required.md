@@ -12,5 +12,5 @@ public bool Required { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

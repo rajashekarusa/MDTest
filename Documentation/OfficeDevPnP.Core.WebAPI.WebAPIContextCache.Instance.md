@@ -1,5 +1,5 @@
 # WebAPIContextCache.Properties Instance
-Singleton instance to access this class  
+ Singleton instance to access this class   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public static WebAPIContextCache Instance { get; }
 Type: [OfficeDevPnP.Core.WebAPI.WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md)  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
 - [WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

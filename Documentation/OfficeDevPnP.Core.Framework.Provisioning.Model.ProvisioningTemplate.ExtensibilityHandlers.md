@@ -12,5 +12,5 @@ public ExtensibilityHandlerCollection ExtensibilityHandlers { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandlerCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

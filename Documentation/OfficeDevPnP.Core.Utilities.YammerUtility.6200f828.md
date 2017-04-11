@@ -1,5 +1,5 @@
 # YammerUtility.CreateYammerOpenGraphDiscussionPartXml Method  
-Constructs web part definition for Open Graph discussion web part definition  
+ Constructs web part definition for Open Graph discussion web part definition   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,31 +10,57 @@ public static string CreateYammerOpenGraphDiscussionPartXml(String yammerNetwork
 ### Parameters
 #### yammerNetworkName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### url  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### showHeader  
 &emsp;&emsp;Type: System.Boolean  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### showFooter  
 &emsp;&emsp;Type: System.Boolean  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### (optional) postTitle  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### (optional) postImageUrl  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### (optional) useSso  
 &emsp;&emsp;Type: System.Boolean  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 #### (optional) groupId  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Constructs web part definition for Open Graph discussion web part definition   
+
+  
 
 ### Return Value
 Type: string  
+  
 
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [YammerUtility](OfficeDevPnP.Core.Utilities.YammerUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

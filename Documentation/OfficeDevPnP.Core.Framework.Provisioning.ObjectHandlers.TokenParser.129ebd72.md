@@ -10,12 +10,19 @@ public string ParseString(String input, String[] tokensToSkip)
 ### Parameters
 #### input  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### tokensToSkip  
 &emsp;&emsp;Type: System.String[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)
+- [TokenParser](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md) 

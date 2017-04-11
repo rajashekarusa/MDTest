@@ -1,5 +1,5 @@
 # TimerJob.AddSite Method  
-Adds a site Url or wildcard site Url to the collection of sites that the timer job will process  
+ Adds a site Url or wildcard site Url to the collection of sites that the timer job will process   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public void AddSite(String site)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Site Url or wildcard site Url to be processed by the timer job  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

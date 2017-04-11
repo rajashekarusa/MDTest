@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.MembershipData[]
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [InCommonData](OfficeDevPnP.Core.UPAWebService.InCommonData.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

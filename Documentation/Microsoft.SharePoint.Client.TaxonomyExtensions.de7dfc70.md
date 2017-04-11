@@ -1,5 +1,5 @@
 # TaxonomyExtensions.EnsureTermSet Method  
-  
+ Ensures the named term set exists, returning a reference to the set, and creating or updating as necessary.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,30 +10,57 @@ public static TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, G
 ### Parameters
 #### parentGroup  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermGroup  
+&emsp;&emsp;Group to check or create the term set in  
+
+  
 
 #### termSetName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;Name of the term set  
+
+  
 
 #### (optional) termSetId  
 &emsp;&emsp;Type: System.Guid  
+&emsp;&emsp;(Optional) ID of the term set; if not provided the parameter is ignored, a random GUID is used if necessary to create the term set, otherwise if the ID differs a warning is logged  
+
+  
 
 #### (optional) lcid  
 &emsp;&emsp;Type: System.Nullable<System.Int32>  
+&emsp;&emsp;(Optional) Default language of the term set; if not provided the default of the associate term store is used  
+
+  
 
 #### (optional) description  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;(Optional) Description of the term set; if null or not provided the parameter is ignored, otherwise the term set is updated as necessary to match the description; passing an empty string will clear the description  
+
+  
 
 #### (optional) isOpen  
 &emsp;&emsp;Type: System.Nullable<System.Boolean>  
+&emsp;&emsp;(Optional) Whether the term store is open for new term creation or not  
+
+  
 
 #### (optional) termSetContact  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Ensures the named term set exists, returning a reference to the set, and creating or updating as necessary.   
+
+  
 
 #### (optional) termSetOwner  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Ensures the named term set exists, returning a reference to the set, and creating or updating as necessary.   
+
+  
 
 ### Return Value
 Type: TermSet  
+The required term set  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

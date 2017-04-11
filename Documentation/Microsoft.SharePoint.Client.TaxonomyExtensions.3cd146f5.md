@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetTermGroupById Method  
-Finds a termgroup by its ID  
+ Finds a termgroup by its ID   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static TermGroup GetTermGroupById(Site site, Guid termGroupId)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
+  
+
 #### termGroupId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;The ID of the termgroup  
 
+  
+
 ### Return Value
 Type: TermGroup  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

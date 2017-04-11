@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class LogEntry
@@ -14,7 +12,7 @@ public class LogEntry
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogEntry()](OfficeDevPnP.Core.Diagnostics.LogEntry.ctor1.md) | 
+| [LogEntry()](OfficeDevPnP.Core.Diagnostics.LogEntry.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

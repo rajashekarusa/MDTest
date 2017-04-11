@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties ContentTypes
-Gets a collection of Content Types to create  
+ Gets a collection of Content Types to create   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public ContentTypeCollection ContentTypes { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

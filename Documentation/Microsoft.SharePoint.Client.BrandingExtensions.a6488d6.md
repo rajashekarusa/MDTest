@@ -1,5 +1,5 @@
 # BrandingExtensions.AllowAllPageLayouts Method  
-Allow the web to use all available page layouts  
+ Allow the web to use all available page layouts   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public static void AllowAllPageLayouts(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

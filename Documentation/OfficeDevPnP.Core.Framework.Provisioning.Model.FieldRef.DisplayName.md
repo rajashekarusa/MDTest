@@ -1,5 +1,5 @@
 # FieldRef.Properties DisplayName
-Gets or sets the Display Name of the field. Only applicable to fields associated with lists.  
+ Gets or sets the Display Name of the field. Only applicable to fields associated with lists.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string DisplayName { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [FieldRef](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

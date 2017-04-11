@@ -1,5 +1,5 @@
 # Directory.Properties Recursive
-Defines whether to recursively browse through all the child folders of the Directory  
+ Defines whether to recursively browse through all the child folders of the Directory   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool Recursive { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Directory](OfficeDevPnP.Core.Framework.Provisioning.Model.Directory.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

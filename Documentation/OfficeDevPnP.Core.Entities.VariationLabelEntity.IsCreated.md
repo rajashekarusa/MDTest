@@ -1,5 +1,5 @@
 # VariationLabelEntity.Properties IsCreated
-Gets a value indicating whether the variation label has been created  
+ Gets a value indicating whether the variation label has been created   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool IsCreated { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

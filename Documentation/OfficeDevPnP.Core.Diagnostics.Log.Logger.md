@@ -12,5 +12,5 @@ public static ILogger Logger { get; set; }
 Type: [OfficeDevPnP.Core.Diagnostics.ILogger](OfficeDevPnP.Core.Diagnostics.ILogger.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

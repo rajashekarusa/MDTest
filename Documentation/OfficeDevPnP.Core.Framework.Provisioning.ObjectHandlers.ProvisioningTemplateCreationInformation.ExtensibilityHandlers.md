@@ -12,5 +12,5 @@ public List<ExtensibilityHandler> ExtensibilityHandlers { get; set; }
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.ExtensibilityHandler>  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)
 - [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md) 

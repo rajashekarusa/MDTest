@@ -1,5 +1,5 @@
 # ListInstance.Properties DraftVersionVisibility
-Gets or sets the DraftVersionVisibility for the list  
+ Gets or sets the DraftVersionVisibility for the list   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int DraftVersionVisibility { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

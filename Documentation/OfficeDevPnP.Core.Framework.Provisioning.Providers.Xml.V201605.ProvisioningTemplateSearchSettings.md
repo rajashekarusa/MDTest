@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ProvisioningTemplateSearchSettings
@@ -14,7 +12,7 @@ public class ProvisioningTemplateSearchSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateSearchSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.ctor1.md) | 
+| [ProvisioningTemplateSearchSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplateSearchSettings.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

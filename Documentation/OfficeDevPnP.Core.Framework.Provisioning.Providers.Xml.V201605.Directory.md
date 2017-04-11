@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Directory
@@ -14,7 +12,7 @@ public class Directory
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.ctor1.md) | 
+| [Directory()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Directory.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

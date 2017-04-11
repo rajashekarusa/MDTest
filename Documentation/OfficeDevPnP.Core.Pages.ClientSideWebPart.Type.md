@@ -1,6 +1,5 @@
 # ClientSideWebPart.Properties Type
- Return P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type of the client side web part   
-
+Return  [OfficeDevPnP.Core.Pages.ClientSideWebPart.Type](OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md)  of the client side web part  
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -12,7 +11,7 @@ public Type Type { get; }
 Type: System.Type  
 
 ## See also
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - Newtonsoft.Json.Linq.JObject
 - P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
-- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

@@ -1,5 +1,5 @@
 # WebAPIContext.Properties CacheKey
-The cacheKey that will be used. The cache key is unique for each combination of user name, user name issuer, application, and farm.  
+ The cacheKey that will be used. The cache key is unique for each combination of user name, user name issuer, application, and farm.   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string CacheKey { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
 - [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

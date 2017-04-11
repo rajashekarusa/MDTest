@@ -1,5 +1,5 @@
 # ClientContextExtensions.IsAppOnly Method  
-Checks if the used ClientContext is app-only  
+ Checks if the used ClientContext is app-only   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static bool IsAppOnly(ClientRuntimeContext clientContext)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
 &emsp;&emsp;The ClientContext to inspect  
 
+  
+
 ### Return Value
 Type: bool  
-True if app-only, false otherwise
+True if app-only, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

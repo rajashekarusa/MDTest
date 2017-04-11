@@ -1,12 +1,10 @@
 # Log
-Logging class  
+ Logging class   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class Log
@@ -16,7 +14,7 @@ public static class Log
 |:-----|:-----|
 | [Logger](OfficeDevPnP.Core.Diagnostics.Log.Logger.md) | 
 | [LogLevel](OfficeDevPnP.Core.Diagnostics.Log.LogLevel.md) | 
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [Debug(String, String, Object[])](OfficeDevPnP.Core.Diagnostics.Log.515334b0.md) | 

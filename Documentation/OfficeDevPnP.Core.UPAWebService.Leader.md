@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Leader
@@ -14,7 +12,7 @@ public class Leader
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Leader()](OfficeDevPnP.Core.UPAWebService.Leader.ctor1.md) | 
+| [Leader()](OfficeDevPnP.Core.UPAWebService.Leader.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

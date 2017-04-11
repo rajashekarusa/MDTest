@@ -1,5 +1,5 @@
 # WorkflowExtensions.CancelWorkFlow Method  
-Cancels a workflow instance  
+ Cancels a workflow instance   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,9 +10,13 @@ public static void CancelWorkFlow(WorkflowInstance instance)
 ### Parameters
 #### instance  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
+&emsp;&emsp; Cancels a workflow instance   
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

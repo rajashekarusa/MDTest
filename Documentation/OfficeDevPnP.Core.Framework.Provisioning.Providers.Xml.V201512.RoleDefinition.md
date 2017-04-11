@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class RoleDefinition
@@ -14,7 +12,7 @@ public class RoleDefinition
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleDefinition.ctor1.md) | 
+| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleDefinition.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

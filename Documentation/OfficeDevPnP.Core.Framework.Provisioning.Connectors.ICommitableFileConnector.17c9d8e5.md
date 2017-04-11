@@ -11,4 +11,5 @@ public void Commit()
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)
+- [ICommitableFileConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.ICommitableFileConnector.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

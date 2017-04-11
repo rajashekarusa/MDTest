@@ -1,5 +1,5 @@
 # SiteEntity.Properties TimeZoneId
-TimeZoneID for the site. "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris" = 3 See http://blog.jussipalo.com/2013/10/list-of-sharepoint-timezoneid-values.html for a complete list  
+ TimeZoneID for the site. "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris" = 3 See http://blog.jussipalo.com/2013/10/list-of-sharepoint-timezoneid-values.html for a complete list   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int TimeZoneId { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

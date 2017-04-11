@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ContentType
@@ -14,7 +12,7 @@ public class ContentType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentType.ctor1.md) | 
+| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentType.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

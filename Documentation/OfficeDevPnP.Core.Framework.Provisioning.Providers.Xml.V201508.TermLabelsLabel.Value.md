@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
 - [TermLabelsLabel](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermLabelsLabel.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

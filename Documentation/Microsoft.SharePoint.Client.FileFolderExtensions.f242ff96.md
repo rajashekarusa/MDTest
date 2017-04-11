@@ -1,5 +1,5 @@
 # FileFolderExtensions.DoesFolderExists Method  
-Checks if a specific folder exists  
+ Checks if a specific folder exists   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool DoesFolderExists(Web web, String serverRelativeFolderUrl)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The web to process  
 
+  
+
 #### serverRelativeFolderUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder to check  
 
+  
+
 ### Return Value
 Type: bool  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

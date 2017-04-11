@@ -1,5 +1,5 @@
 # Publishing.Properties PageLayouts
-Defines the Available Page Layouts for the current Publishing site  
+ Defines the Available Page Layouts for the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public PageLayoutCollection PageLayouts { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayoutCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

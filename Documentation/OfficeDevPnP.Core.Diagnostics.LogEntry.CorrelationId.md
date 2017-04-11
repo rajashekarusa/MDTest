@@ -12,5 +12,5 @@ public Guid CorrelationId { get; set; }
 Type: System.Guid  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

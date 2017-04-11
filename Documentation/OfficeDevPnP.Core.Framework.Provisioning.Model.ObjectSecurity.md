@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class ObjectSecurity: BaseModel
@@ -13,8 +13,8 @@ public class ObjectSecurity: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.ctor1.md) | 
-| [ObjectSecurity(IEnumerable<RoleAssignment>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.ctor2.md) | 
+| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.ctor1.md) |  
+| [ObjectSecurity(IEnumerable<RoleAssignment>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

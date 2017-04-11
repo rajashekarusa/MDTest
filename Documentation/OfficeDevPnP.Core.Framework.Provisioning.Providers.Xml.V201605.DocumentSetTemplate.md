@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class DocumentSetTemplate
@@ -14,7 +12,7 @@ public class DocumentSetTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplate.ctor1.md) | 
+| [DocumentSetTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplate.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

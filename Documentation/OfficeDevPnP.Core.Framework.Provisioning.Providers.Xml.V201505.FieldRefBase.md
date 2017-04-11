@@ -5,10 +5,9 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.md)
-
-+++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeFieldRef](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeFieldRef.md) 
-+++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceFieldRef](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceFieldRef.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeFieldRef](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeFieldRef.md)  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceFieldRef](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceFieldRef.md)  
 ## Syntax
 ```C#
 public class FieldRefBase
@@ -16,7 +15,7 @@ public class FieldRefBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRefBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.ctor1.md) | 
+| [FieldRefBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.FieldRefBase.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Site
@@ -14,7 +12,7 @@ public class Site
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Site()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Site.ctor1.md) | 
+| [Site()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Site.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

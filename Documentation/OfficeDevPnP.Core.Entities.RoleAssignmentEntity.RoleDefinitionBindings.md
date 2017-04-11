@@ -12,5 +12,5 @@ public ICollection<String> RoleDefinitionBindings { get; set; }
 Type: System.Collections.Generic.ICollection<System.String>  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [RoleAssignmentEntity](OfficeDevPnP.Core.Entities.RoleAssignmentEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

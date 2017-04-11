@@ -8,4 +8,5 @@
 public TermSet()
 ```
 ## See also
+- [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSet.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

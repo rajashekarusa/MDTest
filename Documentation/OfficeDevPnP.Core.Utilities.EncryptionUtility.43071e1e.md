@@ -1,5 +1,5 @@
 # EncryptionUtility.EncryptStringWithDPAPI Method  
-Encrypts a string using the machine's DPAPI  
+ Encrypts a string using the machine's DPAPI   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static string EncryptStringWithDPAPI(SecureString input)
 &emsp;&emsp;Type: System.Security.SecureString  
 &emsp;&emsp;String (SecureString) to encrypt  
 
+  
+
 ### Return Value
 Type: string  
-Encrypted string
+Encrypted string  
+
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [EncryptionUtility](OfficeDevPnP.Core.Utilities.EncryptionUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

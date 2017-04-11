@@ -10,18 +10,33 @@ public QuickLinkData AddLink(String accountName, String name, String url, String
 ### Parameters
 #### accountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### name  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### url  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### group  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### privacy  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: QuickLinkData  
@@ -29,4 +44,5 @@ Type: QuickLinkData
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

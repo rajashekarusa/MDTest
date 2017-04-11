@@ -8,4 +8,5 @@
 public WebAPIContext()
 ```
 ## See also
+- [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md)
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)

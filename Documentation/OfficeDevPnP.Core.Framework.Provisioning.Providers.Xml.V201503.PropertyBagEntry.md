@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PropertyBagEntry
@@ -14,7 +12,7 @@ public class PropertyBagEntry
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.PropertyBagEntry.ctor1.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.PropertyBagEntry.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

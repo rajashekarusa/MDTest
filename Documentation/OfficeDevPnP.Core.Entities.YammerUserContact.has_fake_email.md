@@ -12,5 +12,5 @@ public bool has_fake_email { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

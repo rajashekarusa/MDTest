@@ -10,9 +10,13 @@ public static T ToEnum(String name)
 ### Parameters
 #### name  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: T  
 
 ## See also
-- [System](System.md)
+- [SafeConvertExtensions](System.SafeConvertExtensions.md) 
+- [System](System.md) 

@@ -1,5 +1,5 @@
 # WebAPIContext.Properties HostWebUrl
-Url of the SharePoint host web. Needed to obtain an access token  
+ Url of the SharePoint host web. Needed to obtain an access token   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string HostWebUrl { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
 - [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

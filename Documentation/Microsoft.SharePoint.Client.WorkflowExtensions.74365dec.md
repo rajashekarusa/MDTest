@@ -1,5 +1,5 @@
 # WorkflowExtensions.GetWorkflowSubscriptions Method  
-Returns all the workflow subscriptions (associations) for the web and the lists of that web  
+ Returns all the workflow subscriptions (associations) for the web and the lists of that web   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static WorkflowSubscription[] GetWorkflowSubscriptions(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target Web  
 
+  
+
 ### Return Value
 Type: WorkflowSubscription[]  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

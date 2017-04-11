@@ -1,5 +1,5 @@
 # EncryptionUtility.Decrypt Method  
-Decrypt a piece of text based on a given certificate  
+ Decrypt a piece of text based on a given certificate   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static string Decrypt(String stringToDecrypt, String thumbPrint)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Text to decrypt  
 
+  
+
 #### thumbPrint  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Thumbprint of the certificate to use  
 
+  
+
 ### Return Value
 Type: string  
-Decrypted text
+Decrypted text  
+
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [EncryptionUtility](OfficeDevPnP.Core.Utilities.EncryptionUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

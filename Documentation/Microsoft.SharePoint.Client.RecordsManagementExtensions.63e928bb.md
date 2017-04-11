@@ -1,5 +1,5 @@
 # RecordsManagementExtensions.GetManualRecordDeclarationInAllLocations Method  
-Get the value of the records management is allowed in all places setting  
+ Get the value of the records management is allowed in all places setting   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static bool GetManualRecordDeclarationInAllLocations(Site site)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 
+  
+
 ### Return Value
 Type: bool  
-True if records management is allowed in all places, false otherwise
+True if records management is allowed in all places, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

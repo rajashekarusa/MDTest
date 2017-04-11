@@ -1,5 +1,5 @@
 # InformationManagementExtensions.GetSiteCloseDate Method  
-Gets the site closure date  
+ Gets the site closure date   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static DateTime GetSiteCloseDate(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate on  
 
+  
+
 ### Return Value
 Type: DateTime  
-DateTime value holding the closure date, DateTime.MinValue in case there was no policy applied
+DateTime value holding the closure date, DateTime.MinValue in case there was no policy applied  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,5 +1,5 @@
 # VariationInformation.Properties UpdateTargetPageWebParts
-Update Target Page Web Parts Mapped to property "UpdateWebPartsPropertyName"  
+ Update Target Page Web Parts Mapped to property "UpdateWebPartsPropertyName"   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool UpdateTargetPageWebParts { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

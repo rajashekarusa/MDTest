@@ -1,5 +1,5 @@
 # DefaultDocument.Properties Name
-The name (including the relative path) of the Default Document for a Document Set  
+ The name (including the relative path) of the Default Document for a Document Set   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Name { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [DefaultDocument](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

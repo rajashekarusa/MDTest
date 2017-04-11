@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class AddInsAddin
@@ -14,7 +12,7 @@ public class AddInsAddin
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddInsAddin()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AddInsAddin.ctor1.md) | 
+| [AddInsAddin()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AddInsAddin.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

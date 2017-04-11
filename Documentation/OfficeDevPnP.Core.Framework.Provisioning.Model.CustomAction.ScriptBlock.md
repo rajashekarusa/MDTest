@@ -1,5 +1,5 @@
 # CustomAction.Properties ScriptBlock
-Gets or sets the value that specifies the ECMAScript to be executed when the custom action is performed.  
+ Gets or sets the value that specifies the ECMAScript to be executed when the custom action is performed.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,6 +12,6 @@ public string ScriptBlock { get; set; }
 Type: System.String  
 
 ## See also
-- [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
+- [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

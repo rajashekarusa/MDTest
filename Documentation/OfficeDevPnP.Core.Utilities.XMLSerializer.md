@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class XMLSerializer
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [Deserialize(XDocument)](OfficeDevPnP.Core.Utilities.XMLSerializer.ec7d110.md) | Deserialize an XDocuemnt to instance of an object T

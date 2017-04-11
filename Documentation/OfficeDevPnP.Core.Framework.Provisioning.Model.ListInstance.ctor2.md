@@ -10,13 +10,29 @@ public ListInstance(IEnumerable<ContentTypeBinding> contentTypeBindings, IEnumer
 ### Parameters
 #### contentTypeBindings  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding>  
+&emsp;&emsp;  
+
+
 #### views  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.View>  
+&emsp;&emsp;  
+
+
 #### fields  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.Field>  
+&emsp;&emsp;  
+
+
 #### fieldRefs  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>  
+&emsp;&emsp;  
+
+
 #### dataRows  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>  
+&emsp;&emsp;  
+
+
 ## See also
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

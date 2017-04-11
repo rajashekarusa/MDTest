@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebParts
@@ -14,7 +12,7 @@ public class WebParts
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebParts()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebParts.ctor1.md) | 
+| [WebParts()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebParts.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

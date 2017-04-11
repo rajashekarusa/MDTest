@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class NavigationCurrentNavigation
@@ -14,7 +12,7 @@ public class NavigationCurrentNavigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationCurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.ctor1.md) | 
+| [NavigationCurrentNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationCurrentNavigation.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

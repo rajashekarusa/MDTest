@@ -10,12 +10,19 @@ public static Field GetFieldByName(FieldCollection fields, String internalName)
 ### Parameters
 #### fields  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.FieldCollection  
+&emsp;&emsp;  
+
+  
 
 #### internalName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: Field  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

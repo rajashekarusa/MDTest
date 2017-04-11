@@ -12,5 +12,5 @@ public Dictionary<String, String> LocalProperties { get; }
 Type: System.Collections.Generic.Dictionary<System.String, System.String>  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

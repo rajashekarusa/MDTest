@@ -10,9 +10,13 @@ public static string StripInvalidUrlChars(String content)
 ### Parameters
 #### content  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [UrlUtility](OfficeDevPnP.Core.Utilities.UrlUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

@@ -8,4 +8,5 @@
 public LogConfigurationTracingLoggerElement()
 ```
 ## See also
+- [LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md)
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

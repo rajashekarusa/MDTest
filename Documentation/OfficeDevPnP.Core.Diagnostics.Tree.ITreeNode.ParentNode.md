@@ -12,5 +12,5 @@ public ITreeNode ParentNode { get; }
 Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

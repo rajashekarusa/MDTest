@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ThemeEntity
@@ -14,7 +12,7 @@ public class ThemeEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ThemeEntity()](OfficeDevPnP.Core.Entities.ThemeEntity.ctor1.md) | 
+| [ThemeEntity()](OfficeDevPnP.Core.Entities.ThemeEntity.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

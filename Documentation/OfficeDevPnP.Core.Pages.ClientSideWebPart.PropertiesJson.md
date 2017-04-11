@@ -1,5 +1,5 @@
 # ClientSideWebPart.Properties PropertiesJson
-Json serialized web part properties  
+ Json serialized web part properties   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,6 +12,6 @@ public string PropertiesJson { get; set; }
 Type: System.String  
 
 ## See also
-- Newtonsoft.Json.Linq.JObject
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- Newtonsoft.Json.Linq.JObject
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

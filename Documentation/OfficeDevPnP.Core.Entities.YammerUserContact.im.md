@@ -12,5 +12,5 @@ public YammerUserIm im { get; set; }
 Type: [OfficeDevPnP.Core.Entities.YammerUserIm](OfficeDevPnP.Core.Entities.YammerUserIm.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

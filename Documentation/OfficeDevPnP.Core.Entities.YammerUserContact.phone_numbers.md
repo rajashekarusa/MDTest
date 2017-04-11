@@ -12,5 +12,5 @@ public IList<Object> phone_numbers { get; set; }
 Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

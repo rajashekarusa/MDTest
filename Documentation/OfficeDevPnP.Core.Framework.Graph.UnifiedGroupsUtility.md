@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class UnifiedGroupsUtility
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [CreateUnifiedGroup(String, String, String, String, String[], String[], Stream, Boolean, Int32, Int32)](OfficeDevPnP.Core.Framework.Graph.UnifiedGroupsUtility.b7d1c0ab.md) | Creates a new Office 365 Group (i.e. Unified Group) with its backing Modern SharePoint Site

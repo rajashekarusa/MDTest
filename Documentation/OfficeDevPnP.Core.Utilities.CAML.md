@@ -1,17 +1,15 @@
 # CAML
-Use this class to build your CAML xml and avoid XML issues.  
+ Use this class to build your CAML xml and avoid XML issues.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class CAML
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [And(String, String[])](OfficeDevPnP.Core.Utilities.CAML.2163f362.md) | 
@@ -34,7 +32,7 @@ public static class CAML
 | [NotIncludes(String)](OfficeDevPnP.Core.Utilities.CAML.1518f754.md) | 
 | [Or(String, String[])](OfficeDevPnP.Core.Utilities.CAML.d687337d.md) | 
 | [OrderBy(OrderByField[])](OfficeDevPnP.Core.Utilities.CAML.e8e4df3.md) | 
-| [Today(Nullable<Int32>)](OfficeDevPnP.Core.Utilities.CAML.964aa169.md) | 
+| [Today(Nullable<Int32>)](OfficeDevPnP.Core.Utilities.CAML.964aa169.md) | Creates the <Today /> node.
 | [ViewFields(String[])](OfficeDevPnP.Core.Utilities.CAML.4f215fe4.md) | 
 | [ViewQuery(String, String, Int32)](OfficeDevPnP.Core.Utilities.CAML.ca539507.md) | Root <View> and <Query> nodes.
 | [ViewQuery(ViewScope, String, String, String, Int32)](OfficeDevPnP.Core.Utilities.CAML.eb386895.md) | Root <View> and <Query> nodes.

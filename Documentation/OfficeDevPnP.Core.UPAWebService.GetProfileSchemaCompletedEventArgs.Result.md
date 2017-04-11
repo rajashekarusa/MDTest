@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.PropertyInfo[]
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [GetProfileSchemaCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaCompletedEventArgs.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

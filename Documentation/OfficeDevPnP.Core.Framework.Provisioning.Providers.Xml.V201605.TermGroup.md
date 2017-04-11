@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TaxonomyItem.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TaxonomyItem.md)  
 ## Syntax
 ```C#
 public class TermGroup: TaxonomyItem
@@ -13,7 +13,7 @@ public class TermGroup: TaxonomyItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermGroup.ctor1.md) | 
+| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.TermGroup.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

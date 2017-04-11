@@ -1,5 +1,5 @@
 # SecurityExtensions.GetAdministrators Method  
-Get a list of site collection administrators  
+ Get a list of site collection administrators   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,10 +12,13 @@ public static List<UserEntity> GetAdministrators(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to operate on  
 
+  
+
 ### Return Value
 Type: List<UserEntity>  
-List of  objects
+List of  [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)  objects  
 
 ## See also
+- [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [OfficeDevPnP.Core.Entities.UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

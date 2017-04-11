@@ -10,12 +10,19 @@ public ProvisioningTemplate GetTemplate(String uri, String identifier)
 ### Parameters
 #### uri  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### identifier  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ProvisioningTemplate  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
+- [XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md) 

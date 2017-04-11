@@ -12,5 +12,5 @@ public static ComposedLook Empty { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

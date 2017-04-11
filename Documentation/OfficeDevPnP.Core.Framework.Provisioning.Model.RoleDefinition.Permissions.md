@@ -1,5 +1,5 @@
 # RoleDefinition.Properties Permissions
-Defines the Permissions of the Role Definition  
+ Defines the Permissions of the Role Definition   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public List<PermissionKind> Permissions { get; }
 Type: System.Collections.Generic.List<Microsoft.SharePoint.Client.PermissionKind>  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -8,4 +8,5 @@
 public VariationInformation()
 ```
 ## See also
+- [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

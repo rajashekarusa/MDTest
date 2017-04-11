@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties Security
-Security Groups Members for the Template  
+ Security Groups Members for the Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public SiteSecurity Security { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

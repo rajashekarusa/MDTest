@@ -1,5 +1,5 @@
 # Navigation.Properties GlobalNavigation
-The Global Navigation settings for the Provisioning Template  
+ The Global Navigation settings for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public GlobalNavigation GlobalNavigation { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

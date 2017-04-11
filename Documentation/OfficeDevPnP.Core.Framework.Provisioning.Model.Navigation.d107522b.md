@@ -10,9 +10,13 @@ public bool Equals(Navigation other)
 ### Parameters
 #### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

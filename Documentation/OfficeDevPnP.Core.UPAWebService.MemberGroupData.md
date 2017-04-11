@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class MemberGroupData
@@ -14,7 +12,7 @@ public class MemberGroupData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MemberGroupData()](OfficeDevPnP.Core.UPAWebService.MemberGroupData.ctor1.md) | 
+| [MemberGroupData()](OfficeDevPnP.Core.UPAWebService.MemberGroupData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

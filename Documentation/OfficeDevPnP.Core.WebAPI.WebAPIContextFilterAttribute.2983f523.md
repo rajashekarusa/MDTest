@@ -10,9 +10,13 @@ public void OnActionExecuting(HttpActionContext actionContext)
 ### Parameters
 #### actionContext  
 &emsp;&emsp;Type: System.Web.Http.Controllers.HttpActionContext  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
+- [WebAPIContextFilterAttribute](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

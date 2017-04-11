@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PublishingWebTemplate
@@ -14,7 +12,7 @@ public class PublishingWebTemplate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate.ctor1.md) | 
+| [PublishingWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingWebTemplate.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

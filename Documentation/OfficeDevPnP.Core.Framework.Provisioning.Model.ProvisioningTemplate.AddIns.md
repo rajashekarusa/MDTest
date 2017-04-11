@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties AddIns
-Defines the SharePoint Add-ins to provision  
+ Defines the SharePoint Add-ins to provision   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public AddInCollection AddIns { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

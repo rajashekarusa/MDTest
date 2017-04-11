@@ -1,5 +1,5 @@
 # JavaScriptExtensions.DeleteJsLink Method  
-Removes the custom action that triggers the execution of a javascript link  
+ Removes the custom action that triggers the execution of a javascript link   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool DeleteJsLink(Site site, String key)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site to be processed  
 
+  
+
 #### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Identifier (key) for the custom action that will be deleted  
 
+  
+
 ### Return Value
 Type: bool  
-True if action was ok
+True if action was ok  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [JavaScriptExtensions](Microsoft.SharePoint.Client.JavaScriptExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,11 +1,11 @@
 # DefaultColumnTermValue
-Specifies a default column value for a document library  
+ Specifies a default column value for a document library   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md) 
+&ensp;[OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)  
 ## Syntax
 ```C#
 public class DefaultColumnTermValue: DefaultColumnValue

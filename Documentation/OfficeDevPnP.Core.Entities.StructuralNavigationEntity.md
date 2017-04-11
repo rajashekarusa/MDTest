@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class StructuralNavigationEntity
@@ -14,7 +12,7 @@ public class StructuralNavigationEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [StructuralNavigationEntity()](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.ctor1.md) | 
+| [StructuralNavigationEntity()](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

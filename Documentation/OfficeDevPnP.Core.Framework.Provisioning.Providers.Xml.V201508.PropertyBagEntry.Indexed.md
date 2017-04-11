@@ -14,5 +14,5 @@ Type: System.Boolean
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)
 - [PropertyBagEntry](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

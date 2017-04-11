@@ -1,5 +1,5 @@
 # WebExtensions.SiteSearch Method  
-Returns the site collections that comply with the passed keyword query  
+ Returns the site collections that comply with the passed keyword query   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,17 +12,25 @@ public static List<SiteEntity> SiteSearch(Web web, String keywordQueryValue, Boo
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
+  
+
 #### keywordQueryValue  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Keyword query  
+
+  
 
 #### (optional) trimDuplicates  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Indicates if dublicates should be trimmed or not  
 
+  
+
 ### Return Value
 Type: List<SiteEntity>  
-All found site collections
+All found site collections  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

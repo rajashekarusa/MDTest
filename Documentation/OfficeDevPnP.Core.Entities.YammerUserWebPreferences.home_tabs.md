@@ -12,5 +12,5 @@ public IList<YammerUserHomeTab> home_tabs { get; set; }
 Type: System.Collections.Generic.IList<OfficeDevPnP.Core.Entities.YammerUserHomeTab>  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -1,5 +1,5 @@
 # BrandingExtensions.GetComposedLook Method  
-Returns the named composed look from the web gallery  
+ Returns the named composed look from the web gallery   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static ThemeEntity GetComposedLook(Web web, String composedLookName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 
+  
+
 #### composedLookName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the composed look to retrieve  
 
+  
+
 ### Return Value
 Type: ThemeEntity  
-Entity with the attributes of the composed look, or null if the composed look does not exists or cannot be determined
+Entity with the attributes of the composed look, or null if the composed look does not exists or cannot be determined  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

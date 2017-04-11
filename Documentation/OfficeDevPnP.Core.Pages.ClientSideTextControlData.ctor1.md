@@ -8,4 +8,5 @@
 public ClientSideTextControlData()
 ```
 ## See also
+- [ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

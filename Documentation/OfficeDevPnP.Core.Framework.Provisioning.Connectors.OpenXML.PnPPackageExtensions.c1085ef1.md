@@ -10,9 +10,13 @@ public static string AsInternalFilename(String filename)
 ### Parameters
 #### filename  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)
+- [PnPPackageExtensions](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md) 

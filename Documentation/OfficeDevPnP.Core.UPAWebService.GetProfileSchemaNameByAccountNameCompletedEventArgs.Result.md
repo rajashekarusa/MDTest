@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [GetProfileSchemaNameByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetProfileSchemaNameByAccountNameCompletedEventArgs.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

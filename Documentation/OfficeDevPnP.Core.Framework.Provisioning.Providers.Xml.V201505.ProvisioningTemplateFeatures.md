@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ProvisioningTemplateFeatures
@@ -14,7 +12,7 @@ public class ProvisioningTemplateFeatures
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateFeatures()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateFeatures.ctor1.md) | 
+| [ProvisioningTemplateFeatures()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateFeatures.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

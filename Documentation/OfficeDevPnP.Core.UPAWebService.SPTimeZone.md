@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SPTimeZone
@@ -14,7 +12,7 @@ public class SPTimeZone
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SPTimeZone()](OfficeDevPnP.Core.UPAWebService.SPTimeZone.ctor1.md) | 
+| [SPTimeZone()](OfficeDevPnP.Core.UPAWebService.SPTimeZone.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -12,5 +12,5 @@ public bool IsCustomComposedLook { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

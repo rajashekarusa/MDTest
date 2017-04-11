@@ -1,5 +1,5 @@
 # CustomAction.Properties Title
-Gets or sets the display title of the custom action.  
+ Gets or sets the display title of the custom action.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,6 +12,6 @@ public string Title { get; set; }
 Type: System.String  
 
 ## See also
-- [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
+- [https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx](https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.client.permissionkind.aspx)
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

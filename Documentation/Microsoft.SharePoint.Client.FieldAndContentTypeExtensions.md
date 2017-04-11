@@ -1,17 +1,15 @@
 # FieldAndContentTypeExtensions
-This class holds deprecated extension methods that will help you work with fields and content types.  
+ This class holds deprecated extension methods that will help you work with fields and content types.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class FieldAndContentTypeExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddContentTypeToList(Web, String, ContentType, Boolean)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.8015fdd1.md) | Adds content type to list
@@ -80,7 +78,7 @@ public static class FieldAndContentTypeExtensions
 | [RemoveContentTypeFromListByName(Web, List, String)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.8aac8612.md) | Removes content type from list
 | [RemoveFieldById(Web, String)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.7f3bcd91.md) | Removes a field by specifying its ID
 | [RemoveFieldByInternalName(Web, String)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.d0b69cca.md) | Removes a field by specifying its internal name
-| [ReorderContentTypes(List, IEnumerable<String>)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.215c7c05.md) | 
+| [ReorderContentTypes(List, IEnumerable<String>)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.215c7c05.md) | Reorders content types on the list. The first one in the list is the default item. Any items left out from the list will still be on the content type, but will not be visible on the new button.
 | [SetDefaultContentTypeToList(Web, List, String)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.6b5dce6c.md) | Set default content type to list
 | [SetDefaultContentTypeToList(Web, List, ContentType)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.156c371a.md) | Set default content type to list
 | [SetDefaultContentTypeToList(Web, String, String)](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.43df7b04.md) | Set default content type to list

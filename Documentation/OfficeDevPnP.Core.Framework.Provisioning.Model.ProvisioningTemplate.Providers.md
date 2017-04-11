@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties Providers
-Gets a collection of Providers that are used during the extensibility pipeline  
+ Gets a collection of Providers that are used during the extensibility pipeline   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public ProviderCollection Providers { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProviderCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

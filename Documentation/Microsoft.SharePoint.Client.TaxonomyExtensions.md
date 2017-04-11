@@ -1,17 +1,15 @@
 # TaxonomyExtensions
-Class for deprecated taxonomy extension methods  
+ Class for deprecated taxonomy extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class TaxonomyExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddTermToTermset(Site, Guid, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.8c1fbbaf.md) | Adds a term to a given termset
@@ -20,7 +18,7 @@ public static class TaxonomyExtensions
 | [CreateTaxonomyField(List, TaxonomyFieldCreationInformation)](Microsoft.SharePoint.Client.TaxonomyExtensions.61031b4.md) | Can be used to create taxonomy field remotely in a list.
 | [CreateTermGroup(TermStore, String, Guid, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.ae88e0a9.md) | Creates a new term group, in the specified term store.
 | [EnsureTermGroup(Site, String, Guid, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.8773c292.md) | Ensures the named group exists, returning a reference to the group, and creating or updating as necessary.
-| [EnsureTermSet(TermGroup, String, Guid, Nullable<Int32>, String, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.de7dfc70.md) | 
+| [EnsureTermSet(TermGroup, String, Guid, Nullable<Int32>, String, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.de7dfc70.md) | Ensures the named term set exists, returning a reference to the set, and creating or updating as necessary.
 | [ExportAllTerms(Site, Boolean, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.eb0ebf3c.md) | Exports the full list of terms from all termsets in all termstores.
 | [ExportTermSet(Site, Guid, Boolean, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.a25b0591.md) | Exports the full list of terms from all termsets in all termstores.
 | [ExportTermSet(Site, Guid, Boolean, TermStore, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.ecbde79a.md) | Exports the full list of terms from all termsets in all termstores.
@@ -36,14 +34,14 @@ public static class TaxonomyExtensions
 | [GetWssIdForTerm(Web, Term)](Microsoft.SharePoint.Client.TaxonomyExtensions.32328193.md) | Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise returns -1;
 | [ImportTerms(Site, String[], Int32, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.767ce9a0.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup|TermSet|Term E.g. "Locations|Nordics|Sweden"
 | [ImportTerms(Site, String[], Int32, TermStore, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.dcedec05.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup|TermSet|Term E.g. "Locations|Nordics|Sweden"
-| [ImportTermSet(TermGroup, String, Guid, Boolean, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.3bb4401a.md) | 
-| [ImportTermSet(TermGroup, Stream, Guid, Boolean, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.dea02e42.md) | 
+| [ImportTermSet(TermGroup, String, Guid, Boolean, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.3bb4401a.md) | Imports terms from a term set file, updating with any new terms, in the same format at that used by the web interface import ability.
+| [ImportTermSet(TermGroup, Stream, Guid, Boolean, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.dea02e42.md) | Imports terms from a term set stream, updating with any new terms, in the same format at that used by the web interface import ability.
 | [RemoveTaxonomyFieldById(Web, Guid)](Microsoft.SharePoint.Client.TaxonomyExtensions.20d5705f.md) | Removes a taxonomy field (site column) and its associated hidden field by id
 | [RemoveTaxonomyFieldByInternalName(Web, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.9f4bb750.md) | Removes a taxonomy field (site column) and its associated hidden field by internal name
 | [SetTaxonomyFieldDefaultValue(Field, TaxonomyItem, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.8f744f2e.md) | Sets the default value for a managed metadata field
 | [SetTaxonomyFieldValue(ListItem, Guid, String, Guid)](Microsoft.SharePoint.Client.TaxonomyExtensions.f79bdcab.md) | Sets a value of a taxonomy field
 | [SetTaxonomyFieldValueByTermPath(ListItem, String, Guid)](Microsoft.SharePoint.Client.TaxonomyExtensions.5a80eb78.md) | Sets a value in a taxonomy field
-| [SetTaxonomyFieldValues(ListItem, Guid, IEnumerable<KeyValuePair<Guid, String>>)](Microsoft.SharePoint.Client.TaxonomyExtensions.927e70c0.md) | 
+| [SetTaxonomyFieldValues(ListItem, Guid, IEnumerable<KeyValuePair<Guid, String>>)](Microsoft.SharePoint.Client.TaxonomyExtensions.927e70c0.md) | Sets a value of a taxonomy field that supports multiple values
 | [WireUpTaxonomyField(Web, Field, String, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.298466cf.md) | Wires up MMS field to the specified term set.
 | [WireUpTaxonomyField(Web, Field, TermSet, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.f35778b0.md) | Wires up MMS field to the specified term set.
 | [WireUpTaxonomyField(Web, Field, Term, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.a589d5c2.md) | Wires up MMS field to the specified term.

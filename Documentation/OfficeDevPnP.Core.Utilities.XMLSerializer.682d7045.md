@@ -1,5 +1,5 @@
 # XMLSerializer.Deserialize Method  
-Deserializes an XML string to an object instance  
+ Deserializes an XML string to an object instance   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static T Deserialize(String xmlString)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string in XML format that representing the serialized object  
 
+  
+
 ### Return Value
 Type: T  
-An object instance of T
+An object instance of T  
+
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [XMLSerializer](OfficeDevPnP.Core.Utilities.XMLSerializer.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

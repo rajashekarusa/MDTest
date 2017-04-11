@@ -12,5 +12,5 @@ public int IndentSpaces { get; set; }
 Type: System.Int32  
 
 ## See also
-- [System](System.md)
 - [ExceptionOptions](System.ExceptionOptions.md) 
+- [System](System.md) 

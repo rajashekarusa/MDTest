@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties Pages
-Gets a collection of Wiki Pages for the template  
+ Gets a collection of Wiki Pages for the template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public PageCollection Pages { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.PageCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

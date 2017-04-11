@@ -1,5 +1,5 @@
 # FileConnectorBase.GetFile Method  
-Gets a file as string from the default container  
+ Gets a file as string from the default container   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public string GetFile(String fileName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the file to get  
 
+  
+
 ### Return Value
 Type: string  
-String containing the file contents
+String containing the file contents  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)
+- [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

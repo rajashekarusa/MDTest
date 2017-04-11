@@ -1,5 +1,5 @@
 # ITemplateProviderExtension.Initialize Method  
-Initialization method to setup the extension object  
+ Initialization method to setup the extension object   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,9 +10,13 @@ public void Initialize(Object settings)
 ### Parameters
 #### settings  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp; Initialization method to setup the extension object   
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

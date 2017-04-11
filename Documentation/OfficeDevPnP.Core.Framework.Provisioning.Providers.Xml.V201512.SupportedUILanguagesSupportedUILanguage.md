@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SupportedUILanguagesSupportedUILanguage
@@ -14,7 +12,7 @@ public class SupportedUILanguagesSupportedUILanguage
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguagesSupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SupportedUILanguagesSupportedUILanguage.ctor1.md) | 
+| [SupportedUILanguagesSupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SupportedUILanguagesSupportedUILanguage.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

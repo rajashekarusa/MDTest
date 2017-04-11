@@ -12,5 +12,5 @@ public string show_in_directory { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

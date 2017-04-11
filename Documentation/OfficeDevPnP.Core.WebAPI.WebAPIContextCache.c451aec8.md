@@ -1,5 +1,5 @@
 # WebAPIContextCache.Get Method  
-Gets an item from the cache  
+ Gets an item from the cache   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,10 +12,13 @@ public WebAPIContexCacheItem Get(String cacheKey)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Key to retrieve an item from cache  
 
+  
+
 ### Return Value
 Type: WebAPIContexCacheItem  
-A  object
+A  [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)  object  
 
 ## See also
+- [WebAPIContextCache](OfficeDevPnP.Core.WebAPI.WebAPIContextCache.md) 
 - [OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem](OfficeDevPnP.Core.WebAPI.WebAPIContexCacheItem.md)
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

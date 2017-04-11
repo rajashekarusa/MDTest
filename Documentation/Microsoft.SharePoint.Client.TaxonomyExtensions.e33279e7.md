@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetTermGroupByName Method  
-Finds a termgroup by name  
+ Finds a termgroup by name   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static TermGroup GetTermGroupByName(Site site, String name)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
+  
+
 #### name  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the termgroup  
 
+  
+
 ### Return Value
 Type: TermGroup  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

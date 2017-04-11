@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PreferencesParameter
@@ -14,7 +12,7 @@ public class PreferencesParameter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PreferencesParameter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PreferencesParameter.ctor1.md) | 
+| [PreferencesParameter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PreferencesParameter.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

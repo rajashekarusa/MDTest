@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Security
@@ -14,7 +12,7 @@ public class Security
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Security()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security.ctor1.md) | 
+| [Security()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Security.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -10,12 +10,19 @@ public void LogDebug(String message, Object[] args)
 ### Parameters
 #### message  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### args  
 &emsp;&emsp;Type: System.Object[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

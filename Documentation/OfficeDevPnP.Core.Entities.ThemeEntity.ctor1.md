@@ -8,4 +8,5 @@
 public ThemeEntity()
 ```
 ## See also
+- [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

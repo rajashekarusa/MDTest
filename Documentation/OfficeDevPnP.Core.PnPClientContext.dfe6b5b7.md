@@ -10,15 +10,25 @@ public static PnPClientContext ConvertFrom(ClientContext clientContext, Int32 re
 ### Parameters
 #### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
+&emsp;&emsp;  
+
+  
 
 #### (optional) retryCount  
 &emsp;&emsp;Type: System.Int32  
+&emsp;&emsp;  
+
+  
 
 #### (optional) delay  
 &emsp;&emsp;Type: System.Int32  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: PnPClientContext  
 
 ## See also
-- [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
+- [PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md) 
+- [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

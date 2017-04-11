@@ -12,5 +12,5 @@ public TreeNodeList Children { get; }
 Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

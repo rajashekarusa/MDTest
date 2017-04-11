@@ -1,5 +1,5 @@
 # AreaNavigationEntity.Properties SortAscending
-Defines if sorted ascending  
+ Defines if sorted ascending   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool SortAscending { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

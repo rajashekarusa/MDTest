@@ -1,5 +1,5 @@
 # WebTemplateEntity.Properties LanguageCode
-Language code, use 'all' or leave empty when not relevant  
+ Language code, use 'all' or leave empty when not relevant   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string LanguageCode { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

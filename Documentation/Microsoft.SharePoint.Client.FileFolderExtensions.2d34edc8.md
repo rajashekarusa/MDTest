@@ -1,5 +1,5 @@
 # FileFolderExtensions.CreateFolder Method  
-Creates a folder with the given name.  
+ Creates a folder with the given name.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,18 @@ public static Folder CreateFolder(Folder parentFolder, String folderName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
 &emsp;&emsp;Parent folder to create under  
 
+  
+
 #### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve or create  
 
+  
+
 ### Return Value
 Type: Folder  
-The newly created folder
+The newly created folder  
+
 
 ## Remarks 
 
@@ -27,4 +32,5 @@ The newly created folder
                 var folder = list.RootFolder.CreateFolder("new-folder");
             
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

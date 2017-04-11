@@ -1,17 +1,15 @@
 # BrandingExtensions
-Class that holds the deprecated branding methods  
+ Class that holds the deprecated branding methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class BrandingExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AllowAllPageLayouts(Web)](Microsoft.SharePoint.Client.BrandingExtensions.a6488d6.md) | Allow the web to use all available page layouts
@@ -32,8 +30,8 @@ public static class BrandingExtensions
 | [GetCurrentComposedLook(Web)](Microsoft.SharePoint.Client.BrandingExtensions.fbddcb48.md) | Returns the current theme of a web
 | [GetPageLayoutListItemByName(Web, String)](Microsoft.SharePoint.Client.BrandingExtensions.96c01769.md) | Gets a page layout from the master page catalog. Can be called with paramter as "pagelayout.aspx" or as full path like "_catalog/masterpage/pagelayout.aspx"
 | [GetRelativeUrlForMasterByName(Web, String)](Microsoft.SharePoint.Client.BrandingExtensions.7326b0b4.md) | Returns the relative URL for a masterpage
-| [SetAvailablePageLayouts(Web, Web, IEnumerable<String>)](Microsoft.SharePoint.Client.BrandingExtensions.dc5b39bf.md) | 
-| [SetAvailableWebTemplates(Web, List<WebTemplateEntity>)](Microsoft.SharePoint.Client.BrandingExtensions.99c4bf57.md) | 
+| [SetAvailablePageLayouts(Web, Web, IEnumerable<String>)](Microsoft.SharePoint.Client.BrandingExtensions.dc5b39bf.md) | Sets the available page layouts
+| [SetAvailableWebTemplates(Web, List<WebTemplateEntity>)](Microsoft.SharePoint.Client.BrandingExtensions.99c4bf57.md) | Defines which templates are available for subsite creation
 | [SetComposedLookByUrl(Web, String, String, String, String, String, Boolean, Boolean)](Microsoft.SharePoint.Client.BrandingExtensions.cfb62650.md) | Retrieves the named composed look, overrides with specified palette, font, background and master page, and then recursively sets the specified values.
 | [SetCustomMasterPageByName(Web, String)](Microsoft.SharePoint.Client.BrandingExtensions.466447f0.md) | Master page is set by using master page name. Master page is set from the current web.
 | [SetCustomMasterPageByUrl(Web, String, Boolean, Boolean)](Microsoft.SharePoint.Client.BrandingExtensions.75358b14.md) | Set Custom master page by using given URL as parameter. Suitable for example in cases where you want sub sites to reference root site master page gallery. This is typical with publishing sites.
@@ -49,6 +47,7 @@ public static class BrandingExtensions
 | [UploadThemeFile(Web, String, String, String)](Microsoft.SharePoint.Client.BrandingExtensions.80e3ffa7.md) | Uploads the specified file (usually an spcolor or spfont file) to the web site themes gallery (usually only exists in the root web of a site collection).
 | [UploadThemeFile(Web, String, Stream, String)](Microsoft.SharePoint.Client.BrandingExtensions.38560132.md) | Uploads the specified file (usually an spcolor or spfont file) to the web site themes gallery (usually only exists in the root web of a site collection).
 ## See also
+- [OfficeDevPnP.Core.Entities.WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md)
 - System.ArgumentException
 - System.ArgumentNullException
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)

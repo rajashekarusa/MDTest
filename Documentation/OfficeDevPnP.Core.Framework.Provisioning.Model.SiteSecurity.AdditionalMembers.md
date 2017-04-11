@@ -1,5 +1,5 @@
 # SiteSecurity.Properties AdditionalMembers
-A Collection of users that are associated to the sites members group  
+ A Collection of users that are associated to the sites members group   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public UserCollection AdditionalMembers { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.UserCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

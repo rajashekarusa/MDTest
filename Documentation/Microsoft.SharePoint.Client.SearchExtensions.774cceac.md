@@ -1,5 +1,5 @@
 # SearchExtensions.GetSearchConfiguration Method  
-Returns the current search configuration as as string  
+ Returns the current search configuration as as string   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,10 +10,15 @@ public static string GetSearchConfiguration(Web web)
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp; Returns the current search configuration as as string   
+
+  
 
 ### Return Value
 Type: string  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [SearchExtensions](Microsoft.SharePoint.Client.SearchExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

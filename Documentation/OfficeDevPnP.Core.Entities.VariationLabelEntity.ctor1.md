@@ -8,4 +8,5 @@
 public VariationLabelEntity()
 ```
 ## See also
+- [VariationLabelEntity](OfficeDevPnP.Core.Entities.VariationLabelEntity.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

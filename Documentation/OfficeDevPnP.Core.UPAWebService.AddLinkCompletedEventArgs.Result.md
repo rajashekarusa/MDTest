@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.QuickLinkData](OfficeDevPnP.Core.UPAWebSe
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [AddLinkCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddLinkCompletedEventArgs.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

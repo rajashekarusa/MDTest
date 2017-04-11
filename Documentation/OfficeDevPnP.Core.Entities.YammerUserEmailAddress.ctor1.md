@@ -8,4 +8,5 @@
 public YammerUserEmailAddress()
 ```
 ## See also
+- [YammerUserEmailAddress](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -1,5 +1,5 @@
 # RegionalSettings.Properties WorkDayEndHour
-The the default hour at which the work day ends on the calendar that is in use on the server  
+ The the default hour at which the work day ends on the calendar that is in use on the server   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public WorkHour WorkDayEndHour { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkHour.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [RegionalSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.RegionalSettings.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

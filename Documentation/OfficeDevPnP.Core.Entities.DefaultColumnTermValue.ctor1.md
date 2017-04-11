@@ -8,4 +8,5 @@
 public DefaultColumnTermValue()
 ```
 ## See also
+- [DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

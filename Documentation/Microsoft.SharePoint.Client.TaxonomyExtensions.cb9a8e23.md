@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetTermSetsByName Method  
-Finds a termset by name  
+ Finds a termset by name   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,17 +12,25 @@ public static TermSetCollection GetTermSetsByName(Site site, String name, Int32 
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;The current site  
 
+  
+
 #### name  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The name of the termset  
+
+  
 
 #### (optional) lcid  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The locale ID for the termset to return, defaults to 1033  
 
+  
+
 ### Return Value
 Type: TermSetCollection  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

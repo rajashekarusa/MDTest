@@ -12,5 +12,5 @@ public string xdr_proxy { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

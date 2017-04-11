@@ -14,5 +14,5 @@ Type: System.String
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)
 - [ContentTypeDocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeDocumentTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

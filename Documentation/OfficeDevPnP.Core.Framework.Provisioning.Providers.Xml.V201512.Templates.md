@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Templates
@@ -14,7 +12,7 @@ public class Templates
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Templates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Templates.ctor1.md) | 
+| [Templates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Templates.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

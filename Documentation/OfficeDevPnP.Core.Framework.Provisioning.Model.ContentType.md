@@ -1,11 +1,11 @@
 # ContentType
- Domain Object used in the Provisioning template that defines a Content Type <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></seealso>  
+ Domain Object used in the Provisioning template that defines a Content Type ><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></see>  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class ContentType: BaseModel
@@ -13,8 +13,8 @@ public class ContentType: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.ctor1.md) |  Domain Object used in the Provisioning template that defines a Content Type <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></seealso>
-| [ContentType(String, String, String, String, Boolean, Boolean, Boolean, String, Boolean, IEnumerable<FieldRef>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.ctor2.md) |  Domain Object used in the Provisioning template that defines a Content Type <seealso><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></seealso>
+| [ContentType()](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.ctor1.md) |  Domain Object used in the Provisioning template that defines a Content Type ><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></see> 
+| [ContentType(String, String, String, String, Boolean, Boolean, Boolean, String, Boolean, IEnumerable<FieldRef>)](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentType.ctor2.md) |  Domain Object used in the Provisioning template that defines a Content Type ><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></see> 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

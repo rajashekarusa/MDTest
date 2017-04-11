@@ -8,4 +8,5 @@
 public AddInsAddin()
 ```
 ## See also
+- [AddInsAddin](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.AddInsAddin.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

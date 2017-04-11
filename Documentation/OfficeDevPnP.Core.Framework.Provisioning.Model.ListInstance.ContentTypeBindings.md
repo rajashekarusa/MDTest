@@ -1,5 +1,5 @@
 # ListInstance.Properties ContentTypeBindings
-Gets or sets the content types to associate to the list  
+ Gets or sets the content types to associate to the list   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public ContentTypeBindingCollection ContentTypeBindings { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBindingCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

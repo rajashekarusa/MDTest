@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties WebSettings
-The Web Settings of the Provisioning Template  
+ The Web Settings of the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public WebSettings WebSettings { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings](OfficeDevPnP.Core.Framework.Provisioning.Model.WebSettings.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

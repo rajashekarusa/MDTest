@@ -1,5 +1,5 @@
 # BrandingExtensions.EnableResponsiveUI Method  
-Enables the responsive UI of a classic SharePoint Web  
+ Enables the responsive UI of a classic SharePoint Web   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static void EnableResponsiveUI(Web web, String infrastructureUrl)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web to activate the Responsive UI to  
 
+  
+
 #### (optional) infrastructureUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL pointing to an infrastructure site  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

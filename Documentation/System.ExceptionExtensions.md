@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class ExceptionExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ToDetailedString(Exception)](System.ExceptionExtensions.6e941fa.md) | 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md) 
+&ensp;[OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.WSTrustBinding.md)  
 ## Syntax
 ```C#
 public class UserNameWSTrustBinding: WSTrustBinding
@@ -13,9 +13,9 @@ public class UserNameWSTrustBinding: WSTrustBinding
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserNameWSTrustBinding()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor1.md) | 
-| [UserNameWSTrustBinding(SecurityMode)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor2.md) | 
-| [UserNameWSTrustBinding(SecurityMode, HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor3.md) | 
+| [UserNameWSTrustBinding()](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor1.md) |  
+| [UserNameWSTrustBinding(SecurityMode)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor2.md) |  
+| [UserNameWSTrustBinding(SecurityMode, HttpClientCredentialType)](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.ctor3.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

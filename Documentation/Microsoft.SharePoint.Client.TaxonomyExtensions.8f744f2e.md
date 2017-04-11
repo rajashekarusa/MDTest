@@ -1,5 +1,5 @@
 # TaxonomyExtensions.SetTaxonomyFieldDefaultValue Method  
-Sets the default value for a managed metadata field  
+ Sets the default value for a managed metadata field   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,20 +12,29 @@ public static void SetTaxonomyFieldDefaultValue(Field field, TaxonomyItem taxono
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to be wired up  
 
+  
+
 #### taxonomyItem  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TaxonomyItem  
 &emsp;&emsp;Taxonomy TermSet or Term  
+
+  
 
 #### defaultValue  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;default value for the field  
 
+  
+
 #### (optional) pushChangesToLists  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;push changes to lists  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

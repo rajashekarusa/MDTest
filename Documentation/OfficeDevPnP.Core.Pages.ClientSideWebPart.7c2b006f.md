@@ -1,5 +1,5 @@
 # ClientSideWebPart.ToHtml Method  
-Returns a HTML representation of the client side web part  
+ Returns a HTML representation of the client side web part   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -9,7 +9,9 @@ public string ToHtml()
 ```
 ### Return Value
 Type: string  
-HTML representation of the client side web part
+HTML representation of the client side web part  
+
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

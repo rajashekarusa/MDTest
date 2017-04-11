@@ -1,11 +1,11 @@
 # XMLTemplateProvider
-Provider for xml based configurations  
+ Provider for xml based configurations   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)  
 ## Syntax
 ```C#
 public class XMLTemplateProvider: TemplateProviderBase

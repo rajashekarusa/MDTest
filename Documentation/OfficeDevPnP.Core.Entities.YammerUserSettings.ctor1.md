@@ -8,4 +8,5 @@
 public YammerUserSettings()
 ```
 ## See also
+- [YammerUserSettings](OfficeDevPnP.Core.Entities.YammerUserSettings.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

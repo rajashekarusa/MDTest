@@ -10,18 +10,31 @@ public IAsyncResult BeginInvoke(Object sender, GetCommonManagerCompletedEventArg
 ### Parameters
 #### sender  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 #### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs.md)  
+&emsp;&emsp;  
+
+  
 
 #### callback  
 &emsp;&emsp;Type: System.AsyncCallback  
+&emsp;&emsp;  
+
+  
 
 #### object  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: IAsyncResult  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [GetCommonManagerCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventHandler.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

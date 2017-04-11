@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class LocalizationsLocalization
@@ -14,7 +12,7 @@ public class LocalizationsLocalization
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LocalizationsLocalization()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.LocalizationsLocalization.ctor1.md) | 
+| [LocalizationsLocalization()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.LocalizationsLocalization.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

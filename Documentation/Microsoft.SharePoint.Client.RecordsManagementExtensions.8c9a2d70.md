@@ -1,5 +1,5 @@
 # RecordsManagementExtensions.DisableInPlaceRecordsManagementFeature Method  
-Deactivate the in place records management feature  
+ Deactivate the in place records management feature   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public static void DisableInPlaceRecordsManagementFeature(Site site)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

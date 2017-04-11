@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class NavigationGlobalNavigation
@@ -14,7 +12,7 @@ public class NavigationGlobalNavigation
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [NavigationGlobalNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationGlobalNavigation.ctor1.md) | 
+| [NavigationGlobalNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationGlobalNavigation.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

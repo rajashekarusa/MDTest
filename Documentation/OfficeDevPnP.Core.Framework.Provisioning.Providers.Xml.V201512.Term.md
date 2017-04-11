@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSetItem.md)  
 ## Syntax
 ```C#
 public class Term: TermSetItem
@@ -13,7 +13,7 @@ public class Term: TermSetItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.ctor1.md) | 
+| [Term()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Term.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

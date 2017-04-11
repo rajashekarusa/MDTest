@@ -8,4 +8,5 @@
 public SitePolicyEntity()
 ```
 ## See also
+- [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

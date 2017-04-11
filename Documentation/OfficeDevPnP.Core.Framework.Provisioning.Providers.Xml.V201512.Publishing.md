@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Publishing
@@ -14,7 +12,7 @@ public class Publishing
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.ctor1.md) | 
+| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Publishing.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class GetUserPinnedLinksCompletedEventHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class GetUserPinnedLinksCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserPinnedLinksCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.ctor1.md) | 
+| [GetUserPinnedLinksCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

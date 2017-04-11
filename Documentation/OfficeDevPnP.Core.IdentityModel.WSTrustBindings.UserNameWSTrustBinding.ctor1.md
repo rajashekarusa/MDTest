@@ -8,4 +8,5 @@
 public UserNameWSTrustBinding()
 ```
 ## See also
+- [UserNameWSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.md)
 - [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)

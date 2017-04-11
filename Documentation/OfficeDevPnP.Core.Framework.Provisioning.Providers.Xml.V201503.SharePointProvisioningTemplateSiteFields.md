@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SharePointProvisioningTemplateSiteFields
@@ -14,7 +12,7 @@ public class SharePointProvisioningTemplateSiteFields
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSiteFields.ctor1.md) | 
+| [SharePointProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateSiteFields.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

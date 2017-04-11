@@ -1,5 +1,5 @@
 # WebExtensions.ApplyProvisioningTemplate Method  
-Can be used to apply custom remote provisioning template on top of existing site.  
+ Can be used to apply custom remote provisioning template on top of existing site.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,17 +10,25 @@ public static void ApplyProvisioningTemplate(Web web, ProvisioningTemplate templ
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp; Can be used to apply custom remote provisioning template on top of existing site.   
+
+  
 
 #### template  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;ProvisioningTemplate with the settings to be applied  
 
+  
+
 #### (optional) applyingInformation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateApplyingInformation.md)  
 &emsp;&emsp;Specified additional settings and or properties  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

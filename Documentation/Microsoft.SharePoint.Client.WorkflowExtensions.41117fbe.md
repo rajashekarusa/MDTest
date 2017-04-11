@@ -1,5 +1,5 @@
 # WorkflowExtensions.GetInstances Method  
-Returns all instances of a workflow for this subscription  
+ Returns all instances of a workflow for this subscription   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,10 +10,15 @@ public static WorkflowInstanceCollection GetInstances(WorkflowSubscription subsc
 ### Parameters
 #### subscription  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowSubscription  
+&emsp;&emsp; Returns all instances of a workflow for this subscription   
+
+  
 
 ### Return Value
 Type: WorkflowInstanceCollection  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

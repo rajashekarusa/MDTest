@@ -8,4 +8,5 @@
 public ClientSideWebPartControlData()
 ```
 ## See also
+- [ClientSideWebPartControlData](OfficeDevPnP.Core.Pages.ClientSideWebPartControlData.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

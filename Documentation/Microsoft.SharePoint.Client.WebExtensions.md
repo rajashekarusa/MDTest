@@ -1,17 +1,15 @@
 # WebExtensions
-Class that holds deprecated methods for site (both site collection and web site) creation, status, retrieval and settings  
+ Class that holds deprecated methods for site (both site collection and web site) creation, status, retrieval and settings   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class WebExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddIndexedPropertyBagKey(Web, String)](Microsoft.SharePoint.Client.WebExtensions.1e21757a.md) | Marks a property bag key for indexing
@@ -23,7 +21,7 @@ public static class WebExtensions
 | [DeleteWeb(Web, String)](Microsoft.SharePoint.Client.WebExtensions.34d305de.md) | Deletes the child website with the specified leaf URL, from a parent Web, if it exists.
 | [DisableRequestAccess(Web)](Microsoft.SharePoint.Client.WebExtensions.1fec6f8d.md) | Disables the request access on the web.
 | [EnableRequestAccess(Web, String[])](Microsoft.SharePoint.Client.WebExtensions.a6aeb360.md) | Enables request access for the specified e-mail addresses.
-| [EnableRequestAccess(Web, IEnumerable<String>)](Microsoft.SharePoint.Client.WebExtensions.efaf0293.md) | 
+| [EnableRequestAccess(Web, IEnumerable<String>)](Microsoft.SharePoint.Client.WebExtensions.efaf0293.md) | Enables request access for the specified e-mail addresses.
 | [GetAllWebUrls(Site)](Microsoft.SharePoint.Client.WebExtensions.3201f18f.md) | Gets the collection of the URLs of all Web sites that are contained within the site collection, including the top-level site and its subsites.
 | [GetAppInstances(Web, Expression<Func<AppInstance, Object>>[])](Microsoft.SharePoint.Client.WebExtensions.b057f688.md) | 
 | [GetBaseTemplateId(Web)](Microsoft.SharePoint.Client.WebExtensions.f90c56f2.md) | Returns the Base Template ID for the current web

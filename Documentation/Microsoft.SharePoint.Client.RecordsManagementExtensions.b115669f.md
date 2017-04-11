@@ -1,5 +1,5 @@
 # RecordsManagementExtensions.GetListManualRecordDeclaration Method  
-Gets the manual in place record declaration for this list  
+ Gets the manual in place record declaration for this list   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,10 +12,14 @@ public static EcmListManualRecordDeclaration GetListManualRecordDeclaration(List
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate against  
 
+  
+
 ### Return Value
 Type: EcmListManualRecordDeclaration  
- enum that defines the manual in place record declaration settings for this list
+ OfficeDevPnP.Core.EcmListManualRecordDeclaration enum that defines the manual in place record declaration settings for this list 
+
 
 ## See also
+- [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

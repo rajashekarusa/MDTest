@@ -1,5 +1,5 @@
 # ListExtensions.GetEventReceiverByName Method  
-Returns an event receiver definition  
+ Returns an event receiver definition   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,19 @@ public static EventReceiverDefinition GetEventReceiverByName(List list, String n
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list to process  
 
+  
+
 #### name  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Returns an event receiver definition   
+
+  
 
 ### Return Value
 Type: EventReceiverDefinition  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

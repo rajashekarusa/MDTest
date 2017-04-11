@@ -1,11 +1,11 @@
 # UsernameMixed
-ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint.  
+ ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint.   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider.md) 
+&ensp;[OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.BaseProvider.md)  
 ## Syntax
 ```C#
 public class UsernameMixed: BaseProvider

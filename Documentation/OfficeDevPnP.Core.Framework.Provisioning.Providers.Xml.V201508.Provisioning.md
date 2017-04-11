@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Provisioning
@@ -14,7 +12,7 @@ public class Provisioning
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provisioning()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.ctor1.md) | 
+| [Provisioning()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Provisioning.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

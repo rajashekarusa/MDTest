@@ -11,4 +11,5 @@ public void Delete()
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

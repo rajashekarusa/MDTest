@@ -12,5 +12,5 @@ public List<CanvasControl> Controls { get; }
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasControl>  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

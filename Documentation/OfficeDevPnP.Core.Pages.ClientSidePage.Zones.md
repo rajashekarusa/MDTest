@@ -12,5 +12,5 @@ public List<CanvasZone> Zones { get; }
 Type: System.Collections.Generic.List<OfficeDevPnP.Core.Pages.CanvasZone>  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

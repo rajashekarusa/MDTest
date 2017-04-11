@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Feature
@@ -14,7 +12,7 @@ public class Feature
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature.ctor1.md) | 
+| [Feature()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

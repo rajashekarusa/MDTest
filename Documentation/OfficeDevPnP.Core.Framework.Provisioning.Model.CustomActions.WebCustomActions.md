@@ -1,5 +1,5 @@
 # CustomActions.Properties WebCustomActions
-A Collection of CustomActions at the Web level  
+ A Collection of CustomActions at the Web level   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public CustomActionCollection WebCustomActions { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActionCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

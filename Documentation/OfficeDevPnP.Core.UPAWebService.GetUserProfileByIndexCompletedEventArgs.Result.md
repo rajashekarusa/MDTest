@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult](OfficeDevPnP
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [GetUserProfileByIndexCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexCompletedEventArgs.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

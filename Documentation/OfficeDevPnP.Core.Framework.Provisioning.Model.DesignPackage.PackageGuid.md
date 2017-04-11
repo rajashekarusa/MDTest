@@ -1,5 +1,5 @@
 # DesignPackage.Properties PackageGuid
-The ID of the Design Package to import into the current Publishing site  
+ The ID of the Design Package to import into the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public Guid PackageGuid { get; set; }
 Type: System.Guid  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

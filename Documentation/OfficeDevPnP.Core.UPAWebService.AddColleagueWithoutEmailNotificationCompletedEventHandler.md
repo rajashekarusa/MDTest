@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class AddColleagueWithoutEmailNotificationCompletedEventHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class AddColleagueWithoutEmailNotificationCompletedEventHandler: Multicas
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddColleagueWithoutEmailNotificationCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.ctor1.md) | 
+| [AddColleagueWithoutEmailNotificationCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

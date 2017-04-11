@@ -12,5 +12,5 @@ public string address { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserEmailAddress](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PropertyInfo
@@ -14,7 +12,7 @@ public class PropertyInfo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyInfo()](OfficeDevPnP.Core.UPAWebService.PropertyInfo.ctor1.md) | 
+| [PropertyInfo()](OfficeDevPnP.Core.UPAWebService.PropertyInfo.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

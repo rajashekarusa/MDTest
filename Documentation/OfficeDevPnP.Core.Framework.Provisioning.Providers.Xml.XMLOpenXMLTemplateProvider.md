@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md)  
 ## Syntax
 ```C#
 public class XMLOpenXMLTemplateProvider: XMLTemplateProvider
@@ -13,7 +13,7 @@ public class XMLOpenXMLTemplateProvider: XMLTemplateProvider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [XMLOpenXMLTemplateProvider(String, FileConnectorBase, String, X509Certificate2)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLOpenXMLTemplateProvider.ctor1.md) | 
-| [XMLOpenXMLTemplateProvider(OpenXMLConnector)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLOpenXMLTemplateProvider.ctor2.md) | 
+| [XMLOpenXMLTemplateProvider(String, FileConnectorBase, String, X509Certificate2)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLOpenXMLTemplateProvider.ctor1.md) |  
+| [XMLOpenXMLTemplateProvider(OpenXMLConnector)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLOpenXMLTemplateProvider.ctor2.md) |  
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)

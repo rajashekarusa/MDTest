@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebTemplateEntity
@@ -14,7 +12,7 @@ public class WebTemplateEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebTemplateEntity()](OfficeDevPnP.Core.Entities.WebTemplateEntity.ctor1.md) | 
+| [WebTemplateEntity()](OfficeDevPnP.Core.Entities.WebTemplateEntity.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

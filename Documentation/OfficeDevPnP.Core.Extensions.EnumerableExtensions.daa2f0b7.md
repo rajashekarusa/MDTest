@@ -1,5 +1,5 @@
 # EnumerableExtensions.DeepEquals Method  
-Compares to instances of IEnumerable<T>  
+ Compares to instances of IEnumerable&lt;T&gt;   
 
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool DeepEquals(IEnumerable source, IEnumerable target)
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Source enumeration  
 
+  
+
 #### target  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable  
 &emsp;&emsp;Target enumeration  
 
+  
+
 ### Return Value
 Type: bool  
-Wether the two enumerations are deep equal
+Wether the two enumerations are deep equal  
+
 
 ## See also
-- [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)
+- [EnumerableExtensions](OfficeDevPnP.Core.Extensions.EnumerableExtensions.md) 
+- [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md) 

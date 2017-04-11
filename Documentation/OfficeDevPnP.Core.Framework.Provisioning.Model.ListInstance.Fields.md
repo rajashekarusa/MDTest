@@ -12,5 +12,5 @@ public FieldCollection Fields { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FieldCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

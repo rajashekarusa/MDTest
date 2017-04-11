@@ -12,5 +12,5 @@ public WebPartData Data { get; set; }
 Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
 - [WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md) 
+- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md) 

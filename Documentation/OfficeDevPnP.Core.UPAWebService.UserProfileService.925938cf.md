@@ -10,9 +10,13 @@ public void add_UpdatePinnedLinkCompleted(UpdatePinnedLinkCompletedEventHandler 
 ### Parameters
 #### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.UpdatePinnedLinkCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.UpdatePinnedLinkCompletedEventHandler.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

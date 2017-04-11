@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class FieldRef
@@ -14,7 +12,7 @@ public class FieldRef
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef.ctor1.md) | 
+| [FieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.FieldRef.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

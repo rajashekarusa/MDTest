@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class PropertyBagEntry: BaseModel
@@ -13,7 +13,7 @@ public class PropertyBagEntry: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.ctor1.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Model.PropertyBagEntry.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

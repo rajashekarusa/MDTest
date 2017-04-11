@@ -1,12 +1,10 @@
 # PnPPackage
-Defines a PnP OpenXML package file  
+ Defines a PnP OpenXML package file   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PnPPackage
@@ -31,6 +29,9 @@ public class PnPPackage
 |:-----|:-----|
 | [AddFile(String, Byte[])](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.c1f2e4e7.md) | 
 | [ClearFiles()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.8277ac85.md) | 
+## Extension Methods
+|**Name**|**Description**|
+|:-----|:-----|
 | [Open(String, FileMode, FileAccess)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.423b4a84.md) | 
 | [Open(Stream, FileMode, FileAccess)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.fa8e8f48.md) | 
 ## See also

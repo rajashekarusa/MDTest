@@ -10,12 +10,19 @@ public static ClientObjectList<AppInstance> GetAppInstances(Web web, Expression<
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp;  
+
+  
 
 #### expressions  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.AppInstance, System.Object>>[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ClientObjectList<AppInstance>  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

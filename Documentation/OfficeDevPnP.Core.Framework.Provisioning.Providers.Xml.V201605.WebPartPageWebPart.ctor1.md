@@ -8,4 +8,5 @@
 public WebPartPageWebPart()
 ```
 ## See also
+- [WebPartPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WebPartPageWebPart.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

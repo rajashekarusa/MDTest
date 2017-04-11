@@ -1,5 +1,5 @@
 # BrandingExtensions.SetCustomMasterPageByUrl Method  
-Set Custom master page by using given URL as parameter. Suitable for example in cases where you want sub sites to reference root site master page gallery. This is typical with publishing sites.  
+ Set Custom master page by using given URL as parameter. Suitable for example in cases where you want sub sites to reference root site master page gallery. This is typical with publishing sites.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,20 +12,29 @@ public static void SetCustomMasterPageByUrl(Web web, String masterPageServerRela
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Context web  
 
+  
+
 #### masterPageServerRelativeUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;URL to the master page.  
+
+  
 
 #### (optional) resetSubsitesToInherit  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false (default) to apply to currently inheriting subsites only; true to force all subsites to inherit  
 
+  
+
 #### (optional) updateRootOnly  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;false (default) to apply to subsites; true to only apply to specified site  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

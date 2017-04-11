@@ -8,4 +8,5 @@
 public PreferencesParameter()
 ```
 ## See also
+- [PreferencesParameter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PreferencesParameter.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

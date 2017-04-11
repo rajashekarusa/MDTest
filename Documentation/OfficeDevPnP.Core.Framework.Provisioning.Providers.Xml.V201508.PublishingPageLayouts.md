@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PublishingPageLayouts
@@ -14,7 +12,7 @@ public class PublishingPageLayouts
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PublishingPageLayouts()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingPageLayouts.ctor1.md) | 
+| [PublishingPageLayouts()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingPageLayouts.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

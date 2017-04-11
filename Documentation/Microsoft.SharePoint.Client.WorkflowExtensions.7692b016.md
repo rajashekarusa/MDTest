@@ -1,5 +1,5 @@
 # WorkflowExtensions.GetWorkflowDefinitions Method  
-Returns all the workflow definitions  
+ Returns all the workflow definitions   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static WorkflowDefinition[] GetWorkflowDefinitions(Web web, Boolean publi
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target Web  
 
+  
+
 #### publishedOnly  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Defines whether to include only published definition, or all the definitions  
 
+  
+
 ### Return Value
 Type: WorkflowDefinition[]  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

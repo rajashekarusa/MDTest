@@ -12,5 +12,5 @@ public UserCustomActionRegistrationType RegistrationType { get; set; }
 Type: Microsoft.SharePoint.Client.UserCustomActionRegistrationType  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

@@ -8,4 +8,5 @@
 public UnifiedGroupEntity()
 ```
 ## See also
+- [UnifiedGroupEntity](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

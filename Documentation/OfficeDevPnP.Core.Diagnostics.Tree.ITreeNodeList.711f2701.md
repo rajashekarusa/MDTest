@@ -10,9 +10,13 @@ public ITreeNode Add(ITreeNode node)
 ### Parameters
 #### node  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ITreeNode  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
+- [ITreeNodeList](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeList.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

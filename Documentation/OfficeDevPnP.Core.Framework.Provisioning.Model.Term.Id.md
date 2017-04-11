@@ -12,5 +12,5 @@ public Guid Id { get; set; }
 Type: System.Guid  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

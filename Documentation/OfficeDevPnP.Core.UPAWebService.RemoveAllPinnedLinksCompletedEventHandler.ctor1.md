@@ -10,7 +10,14 @@ public RemoveAllPinnedLinksCompletedEventHandler(object object, IntPtr method)
 ### Parameters
 #### object  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+
 #### method  
 &emsp;&emsp;Type: System.IntPtr  
+&emsp;&emsp;  
+
+
 ## See also
+- [RemoveAllPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.RemoveAllPinnedLinksCompletedEventHandler.md)
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

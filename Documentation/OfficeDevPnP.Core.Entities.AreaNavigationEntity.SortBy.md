@@ -1,5 +1,5 @@
 # AreaNavigationEntity.Properties SortBy
-Defines sorted by value  
+ Defines sorted by value   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public StructuralNavigationSortBy SortBy { get; set; }
 Type: [OfficeDevPnP.Core.Enums.StructuralNavigationSortBy](OfficeDevPnP.Core.Enums.StructuralNavigationSortBy.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

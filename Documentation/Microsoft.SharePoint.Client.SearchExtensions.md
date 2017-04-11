@@ -1,17 +1,15 @@
 # SearchExtensions
-Class for deprecated search extension methods  
+ Class for deprecated search extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class SearchExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ExportSearchSettings(ClientContext, String, SearchObjectLevel)](Microsoft.SharePoint.Client.SearchExtensions.bce58149.md) | Exports the search settings to file.

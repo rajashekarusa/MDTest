@@ -12,5 +12,5 @@ public WebPartCollection WebParts { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WebPartCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

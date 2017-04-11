@@ -1,5 +1,5 @@
 # NavigationExtensions.GetEditableNavigationTermSet Method  
-Returns an editable version of the Global Navigation TermSet for a web site  
+ Returns an editable version of the Global Navigation TermSet for a web site   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static NavigationTermSet GetEditableNavigationTermSet(Web web, ManagedNav
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The target web.  
 
+  
+
 #### navigationKind  
 &emsp;&emsp;Type: [Microsoft.SharePoint.Client.ManagedNavigationKind](Microsoft.SharePoint.Client.ManagedNavigationKind.md)  
 &emsp;&emsp;Declares whether to look for Current or Global Navigation  
 
+  
+
 ### Return Value
 Type: NavigationTermSet  
-The editable Global Navigation TermSet
+The editable Global Navigation TermSet  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

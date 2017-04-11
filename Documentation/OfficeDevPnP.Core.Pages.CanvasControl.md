@@ -1,14 +1,13 @@
 # CanvasControl
-Base control  
+ Base control   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Pages.CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md)
-
-+++[OfficeDevPnP.Core.Pages.ClientSideText](OfficeDevPnP.Core.Pages.ClientSideText.md) 
-+++[OfficeDevPnP.Core.Pages.ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+&ensp;OfficeDevPnP.Core.Pages.CanvasControl  
+&emsp;[OfficeDevPnP.Core.Pages.ClientSideText](OfficeDevPnP.Core.Pages.ClientSideText.md)  
+&emsp;[OfficeDevPnP.Core.Pages.ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md)  
 ## Syntax
 ```C#
 public class CanvasControl
@@ -33,7 +32,10 @@ public class CanvasControl
 |**Name**|**Description**|
 |:-----|:-----|
 | [Delete()](OfficeDevPnP.Core.Pages.CanvasControl.19cb6464.md) | Removes the control from the page
-| [GetType(String)](OfficeDevPnP.Core.Pages.CanvasControl.c4f3d927.md) | Receives data-sp-controldata content and detects the type of the control
 | [ToHtml()](OfficeDevPnP.Core.Pages.CanvasControl.7c2b006f.md) | Converts a control object to it's html representation
+## Extension Methods
+|**Name**|**Description**|
+|:-----|:-----|
+| [GetType(String)](OfficeDevPnP.Core.Pages.CanvasControl.c4f3d927.md) | Receives data-sp-controldata content and detects the type of the control
 ## See also
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

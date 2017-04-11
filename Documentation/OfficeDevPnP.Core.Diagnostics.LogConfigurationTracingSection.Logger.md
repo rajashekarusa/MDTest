@@ -12,5 +12,5 @@ public LogConfigurationTracingLoggerElement Logger { get; set; }
 Type: [OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [LogConfigurationTracingSection](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

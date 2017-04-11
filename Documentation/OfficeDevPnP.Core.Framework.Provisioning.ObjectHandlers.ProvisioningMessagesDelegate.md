@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class ProvisioningMessagesDelegate: MulticastDelegate
@@ -13,7 +13,7 @@ public class ProvisioningMessagesDelegate: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningMessagesDelegate(Object, IntPtr)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.ctor1.md) | 
+| [ProvisioningMessagesDelegate(Object, IntPtr)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningMessagesDelegate.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

@@ -10,9 +10,13 @@ public static T ToEnum(Int32 enumValue)
 ### Parameters
 #### enumValue  
 &emsp;&emsp;Type: System.Int32  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: T  
 
 ## See also
-- [System](System.md)
+- [SafeConvertExtensions](System.SafeConvertExtensions.md) 
+- [System](System.md) 

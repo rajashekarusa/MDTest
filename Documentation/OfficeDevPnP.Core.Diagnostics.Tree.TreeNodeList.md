@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+&ensp;OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode  
 ## Syntax
 ```C#
 public class TreeNodeList: List<ITreeNode>
@@ -13,7 +13,7 @@ public class TreeNodeList: List<ITreeNode>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TreeNodeList(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.ctor1.md) | 
+| [TreeNodeList(ITreeNode)](OfficeDevPnP.Core.Diagnostics.Tree.TreeNodeList.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

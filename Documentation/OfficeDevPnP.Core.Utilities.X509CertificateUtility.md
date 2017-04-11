@@ -1,17 +1,15 @@
 # X509CertificateUtility
-Supporting class for certificate based operations  
+ Supporting class for certificate based operations   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class X509CertificateUtility
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [Decrypt(Byte[], Boolean, X509Certificate2)](OfficeDevPnP.Core.Utilities.X509CertificateUtility.441713b6.md) | Decrypts data based on the RSACryptoServiceProvider

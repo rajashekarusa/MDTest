@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.Configuration.ConfigurationSection](System.Configuration.ConfigurationSection.md) 
+&ensp;System.Configuration.ConfigurationSection  
 ## Syntax
 ```C#
 public class LogConfigurationTracingSection: ConfigurationSection
@@ -13,7 +13,7 @@ public class LogConfigurationTracingSection: ConfigurationSection
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogConfigurationTracingSection()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.ctor1.md) | 
+| [LogConfigurationTracingSection()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingSection.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

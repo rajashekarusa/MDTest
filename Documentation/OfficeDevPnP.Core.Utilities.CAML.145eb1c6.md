@@ -1,5 +1,5 @@
 # CAML.FieldRef Method  
-Creates a <FieldRef> node for ViewFields clause  
+ Creates a &lt;FieldRef&gt; node for ViewFields clause   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,10 +10,15 @@ public static string FieldRef(String fieldName)
 ### Parameters
 #### fieldName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Creates a &lt;FieldRef&gt; node for ViewFields clause   
+
+  
 
 ### Return Value
 Type: string  
+  
 
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [CAML](OfficeDevPnP.Core.Utilities.CAML.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

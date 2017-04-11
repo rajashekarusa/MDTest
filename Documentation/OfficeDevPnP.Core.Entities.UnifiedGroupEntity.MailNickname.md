@@ -12,5 +12,5 @@ public string MailNickname { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [UnifiedGroupEntity](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

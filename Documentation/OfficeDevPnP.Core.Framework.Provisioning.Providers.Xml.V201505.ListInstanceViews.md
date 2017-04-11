@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ListInstanceViews
@@ -14,7 +12,7 @@ public class ListInstanceViews
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ListInstanceViews()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceViews.ctor1.md) | 
+| [ListInstanceViews()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceViews.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

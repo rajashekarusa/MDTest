@@ -1,5 +1,5 @@
 # IProvisioningExtensibilityProvider.ProcessRequest Method  
-Defines a interface that accepts requests from the provisioning processing component  
+ Defines a interface that accepts requests from the provisioning processing component   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,15 +10,25 @@ public void ProcessRequest(ClientContext ctx, ProvisioningTemplate template, Str
 ### Parameters
 #### ctx  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientContext  
+&emsp;&emsp; Defines a interface that accepts requests from the provisioning processing component   
+
+  
 
 #### template  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
+&emsp;&emsp; Defines a interface that accepts requests from the provisioning processing component   
+
+  
 
 #### configurationData  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Defines a interface that accepts requests from the provisioning processing component   
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)
+- [IProvisioningExtensibilityProvider](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityProvider.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md) 

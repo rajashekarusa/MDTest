@@ -10,9 +10,13 @@ public static ProvisioningTemplate GetBaseTemplate(Web web)
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ProvisioningTemplate  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BaseTemplateManager](Microsoft.SharePoint.Client.BaseTemplateManager.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

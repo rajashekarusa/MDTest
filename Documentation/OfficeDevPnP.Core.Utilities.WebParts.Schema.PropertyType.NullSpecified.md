@@ -12,5 +12,5 @@ public bool NullSpecified { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
 - [PropertyType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyType.md) 
+- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md) 

@@ -12,5 +12,5 @@ public int Height { get; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

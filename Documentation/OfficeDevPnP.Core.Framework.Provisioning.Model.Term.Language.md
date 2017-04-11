@@ -12,5 +12,5 @@ public Nullable<Int32> Language { get; set; }
 Type: System.Nullable<System.Int32>  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

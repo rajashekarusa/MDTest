@@ -1,11 +1,11 @@
 # ClientSideWebPartControlData
-Control data for controls of type 3 (= client side web parts)  
+ Control data for controls of type 3 (= client side web parts)   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md) 
+&ensp;[OfficeDevPnP.Core.Pages.ClientSideCanvasControlData](OfficeDevPnP.Core.Pages.ClientSideCanvasControlData.md)  
 ## Syntax
 ```C#
 public class ClientSideWebPartControlData: ClientSideCanvasControlData

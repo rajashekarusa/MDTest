@@ -8,4 +8,5 @@
 public UserEntity()
 ```
 ## See also
+- [UserEntity](OfficeDevPnP.Core.Entities.UserEntity.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class RegionalSettings
@@ -14,7 +12,7 @@ public class RegionalSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.ctor1.md) | 
+| [RegionalSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.RegionalSettings.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

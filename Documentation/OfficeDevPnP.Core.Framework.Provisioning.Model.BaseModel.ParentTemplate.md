@@ -1,5 +1,5 @@
 # BaseModel.Properties ParentTemplate
-References the parent ProvisioningTemplate for the current provisioning artifact  
+ References the parent ProvisioningTemplate for the current provisioning artifact   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public ProvisioningTemplate ParentTemplate { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

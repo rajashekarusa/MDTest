@@ -8,4 +8,5 @@
 public YammerUserWebPreferences()
 ```
 ## See also
+- [YammerUserWebPreferences](OfficeDevPnP.Core.Entities.YammerUserWebPreferences.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

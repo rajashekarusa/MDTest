@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.Configuration.ConfigurationElement](System.Configuration.ConfigurationElement.md) 
+&ensp;System.Configuration.ConfigurationElement  
 ## Syntax
 ```C#
 public class LogConfigurationTracingLoggerElement: ConfigurationElement
@@ -13,7 +13,7 @@ public class LogConfigurationTracingLoggerElement: ConfigurationElement
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LogConfigurationTracingLoggerElement()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.ctor1.md) | 
+| [LogConfigurationTracingLoggerElement()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,5 +1,5 @@
 # SafeConvertExtensions.ToGuid Method  
-Converts the input string to a Guid and if null, it returns the default value.  
+ Converts the input string to a Guid and if null, it returns the default value.   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static Guid ToGuid(String input, Guid defaultValue)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 
+  
+
 #### defaultValue  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;A default value to return for a null input value.  
+
+  
 
 ### Return Value
 Type: Guid  
 
 ## See also
-- [System](System.md)
+- [SafeConvertExtensions](System.SafeConvertExtensions.md) 
+- [System](System.md) 

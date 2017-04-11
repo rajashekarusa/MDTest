@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebSettings
@@ -14,7 +12,7 @@ public class WebSettings
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.ctor1.md) | 
+| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

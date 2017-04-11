@@ -1,5 +1,5 @@
 # Publishing.Properties DesignPackage
-Defines a Design Package to import into the current Publishing site  
+ Defines a Design Package to import into the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public DesignPackage DesignPackage { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Model.Publishing.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

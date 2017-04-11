@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class JsonPnPFormatter
@@ -14,7 +12,7 @@ public class JsonPnPFormatter
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [JsonPnPFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ctor1.md) | 
+| [JsonPnPFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

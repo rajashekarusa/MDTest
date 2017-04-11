@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class YammerUserEmailAddress
@@ -14,7 +12,7 @@ public class YammerUserEmailAddress
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserEmailAddress()](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.ctor1.md) | 
+| [YammerUserEmailAddress()](OfficeDevPnP.Core.Entities.YammerUserEmailAddress.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class PinnedLinkData
@@ -14,7 +12,7 @@ public class PinnedLinkData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PinnedLinkData()](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.ctor1.md) | 
+| [PinnedLinkData()](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

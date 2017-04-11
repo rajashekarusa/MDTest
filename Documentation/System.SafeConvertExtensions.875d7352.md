@@ -1,5 +1,5 @@
 # SafeConvertExtensions.ToDouble Method  
-Converts the input string to a double and if null, it returns the default value.  
+ Converts the input string to a double and if null, it returns the default value.   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static double ToDouble(String input, Double defaultValue)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 
+  
+
 #### defaultValue  
 &emsp;&emsp;Type: System.Double  
 &emsp;&emsp;A default value to return for a null input value.  
+
+  
 
 ### Return Value
 Type: double  
 
 ## See also
-- [System](System.md)
+- [SafeConvertExtensions](System.SafeConvertExtensions.md) 
+- [System](System.md) 

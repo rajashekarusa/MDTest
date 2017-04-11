@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SharePointProvisioningTemplateFeatures
@@ -14,7 +12,7 @@ public class SharePointProvisioningTemplateFeatures
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateFeatures()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateFeatures.ctor1.md) | 
+| [SharePointProvisioningTemplateFeatures()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateFeatures.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

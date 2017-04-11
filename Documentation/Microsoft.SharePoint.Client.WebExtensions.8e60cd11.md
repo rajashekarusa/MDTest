@@ -1,5 +1,5 @@
 # WebExtensions.InstallSolution Method  
-Uploads and installs a sandbox solution package (.WSP) file, replacing existing solution if necessary.  
+ Uploads and installs a sandbox solution package (.WSP) file, replacing existing solution if necessary.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,24 +12,35 @@ public static void InstallSolution(Site site, Guid packageGuid, String sourceFil
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to install to  
 
+  
+
 #### packageGuid  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the solution, from the solution manifest (required for the remove step)  
+
+  
 
 #### sourceFilePath  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Path to the sandbox solution package (.WSP) file  
 
+  
+
 #### (optional) majorVersion  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Optional major version of the solution, defaults to 1  
+
+  
 
 #### (optional) minorVersion  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;Optional minor version of the solution, defaults to 0  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

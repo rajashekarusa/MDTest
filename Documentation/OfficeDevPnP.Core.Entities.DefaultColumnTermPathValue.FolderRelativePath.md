@@ -1,5 +1,5 @@
 # DefaultColumnTermPathValue.Properties FolderRelativePath
-The Path of the folder, Rootfolder of the document library is "/"  
+ The Path of the folder, Rootfolder of the document library is "/"   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string FolderRelativePath { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [DefaultColumnTermPathValue](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

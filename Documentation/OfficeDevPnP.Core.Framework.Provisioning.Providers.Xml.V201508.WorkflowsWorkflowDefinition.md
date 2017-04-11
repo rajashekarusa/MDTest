@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WorkflowsWorkflowDefinition
@@ -14,7 +12,7 @@ public class WorkflowsWorkflowDefinition
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowsWorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowDefinition.ctor1.md) | 
+| [WorkflowsWorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowDefinition.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

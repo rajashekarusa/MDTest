@@ -12,5 +12,5 @@ public HttpClientCredentialType ClientCredentialType { get; set; }
 Type: System.ServiceModel.HttpClientCredentialType  
 
 ## See also
-- [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)
 - [UserNameWSTrustBinding](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.UserNameWSTrustBinding.md) 
+- [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md) 

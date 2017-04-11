@@ -10,12 +10,19 @@ public ProvisioningTemplate ToProvisioningTemplate(Stream template, String ident
 ### Parameters
 #### template  
 &emsp;&emsp;Type: System.IO.Stream  
+&emsp;&emsp;  
+
+  
 
 #### identifier  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ProvisioningTemplate  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
+- [XMLPnPSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md) 

@@ -5,9 +5,8 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.md)
-
-+++[OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken.md)  
 ## Syntax
 ```C#
 public class TokenDefinition
@@ -15,7 +14,7 @@ public class TokenDefinition
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TokenDefinition(Web, String[])](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.ctor1.md) | 
+| [TokenDefinition(Web, String[])](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.TokenDefinition.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

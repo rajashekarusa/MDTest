@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class SharePointProvisioningTemplateCustomActions
@@ -14,7 +12,7 @@ public class SharePointProvisioningTemplateCustomActions
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateCustomActions.ctor1.md) | 
+| [SharePointProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateCustomActions.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

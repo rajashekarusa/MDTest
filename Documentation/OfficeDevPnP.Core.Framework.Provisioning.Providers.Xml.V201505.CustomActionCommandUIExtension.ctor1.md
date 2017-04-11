@@ -8,4 +8,5 @@
 public CustomActionCommandUIExtension()
 ```
 ## See also
+- [CustomActionCommandUIExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.CustomActionCommandUIExtension.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

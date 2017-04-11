@@ -14,5 +14,5 @@ Type: [OfficeDevPnP.Core.UPAWebService.MemberGroupData](OfficeDevPnP.Core.UPAWeb
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

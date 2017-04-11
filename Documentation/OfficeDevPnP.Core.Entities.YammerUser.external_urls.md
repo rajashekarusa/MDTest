@@ -12,5 +12,5 @@ public IList<Object> external_urls { get; set; }
 Type: System.Collections.Generic.IList<System.Object>  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

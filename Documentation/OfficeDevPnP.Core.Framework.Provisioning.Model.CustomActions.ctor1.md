@@ -8,4 +8,5 @@
 public CustomActions()
 ```
 ## See also
+- [CustomActions](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomActions.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

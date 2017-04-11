@@ -1,5 +1,5 @@
 # FileFolderExtensions.FolderExists Method  
-Checks if the folder exists at the top level of the web site.  
+ Checks if the folder exists at the top level of the web site.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,17 +12,23 @@ public static bool FolderExists(Web web, String folderName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check for the named folder  
 
+  
+
 #### folderName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Folder name to retrieve  
 
+  
+
 ### Return Value
 Type: bool  
-true if the folder exists; false otherwise
+true if the folder exists; false otherwise  
+
 
 ## Remarks 
 
             Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters.
             
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

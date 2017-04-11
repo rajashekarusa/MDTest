@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class QuickLinkData
@@ -14,7 +12,7 @@ public class QuickLinkData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [QuickLinkData()](OfficeDevPnP.Core.UPAWebService.QuickLinkData.ctor1.md) | 
+| [QuickLinkData()](OfficeDevPnP.Core.UPAWebService.QuickLinkData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

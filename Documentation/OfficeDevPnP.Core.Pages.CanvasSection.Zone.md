@@ -12,5 +12,5 @@ public CanvasZone Zone { get; }
 Type: [OfficeDevPnP.Core.Pages.CanvasZone](OfficeDevPnP.Core.Pages.CanvasZone.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [CanvasSection](OfficeDevPnP.Core.Pages.CanvasSection.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

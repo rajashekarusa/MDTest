@@ -10,9 +10,13 @@ public static PnPInfo UnpackTemplate(Byte[] packageBytes)
 ### Parameters
 #### packageBytes  
 &emsp;&emsp;Type: System.Byte[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: PnPInfo  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)
+- [PnPPackageExtensions](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackageExtensions.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md) 

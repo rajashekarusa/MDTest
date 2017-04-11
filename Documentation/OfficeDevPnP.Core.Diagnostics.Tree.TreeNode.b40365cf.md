@@ -11,4 +11,5 @@ public string ToString()
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
+- [TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

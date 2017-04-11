@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ContactData
@@ -14,7 +12,7 @@ public class ContactData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContactData()](OfficeDevPnP.Core.UPAWebService.ContactData.ctor1.md) | 
+| [ContactData()](OfficeDevPnP.Core.UPAWebService.ContactData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

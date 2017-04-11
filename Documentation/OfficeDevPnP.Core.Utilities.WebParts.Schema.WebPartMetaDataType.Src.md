@@ -12,5 +12,5 @@ public string Src { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
 - [WebPartMetaDataType](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.md) 
+- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md) 

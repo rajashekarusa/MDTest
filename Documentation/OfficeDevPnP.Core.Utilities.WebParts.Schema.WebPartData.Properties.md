@@ -12,5 +12,5 @@ public PropertyContainerType Properties { get; set; }
 Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerType.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
 - [WebPartData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartData.md) 
+- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md) 

@@ -1,5 +1,5 @@
 # FileConnectorBase.GetFilenamePart Method  
-Returns a filename without a path  
+ Returns a filename without a path   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public string GetFilenamePart(String fileName)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Path to the file to retrieve the filename from  
 
+  
+
 ### Return Value
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)
+- [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

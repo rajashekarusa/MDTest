@@ -1,5 +1,5 @@
 # IDefaultColumnValue.Properties FieldInternalName
-Field internal name  
+ Field internal name   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string FieldInternalName { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [IDefaultColumnValue](OfficeDevPnP.Core.Entities.IDefaultColumnValue.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -10,12 +10,19 @@ public void Invoke(Object sender, TimerJobRunEventArgs e)
 ### Parameters
 #### sender  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 #### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJobRunHandler](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.Web.Http.Filters.ActionFilterAttribute](System.Web.Http.Filters.ActionFilterAttribute.md) 
+&ensp;System.Web.Http.Filters.ActionFilterAttribute  
 ## Syntax
 ```C#
 public class WebAPIContextFilterAttribute: ActionFilterAttribute
@@ -13,7 +13,7 @@ public class WebAPIContextFilterAttribute: ActionFilterAttribute
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebAPIContextFilterAttribute()](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.ctor1.md) | 
+| [WebAPIContextFilterAttribute()](OfficeDevPnP.Core.WebAPI.WebAPIContextFilterAttribute.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

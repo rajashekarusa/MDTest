@@ -1,17 +1,15 @@
 # WebAPIHelper
-This class provides helper methods that can be used to protect WebAPI services and to provide a way to reinstantiate a contextobject in the service call.  
+ This class provides helper methods that can be used to protect WebAPI services and to provide a way to reinstantiate a contextobject in the service call.   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class WebAPIHelper
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddToCache(WebAPIContext)](OfficeDevPnP.Core.WebAPI.WebAPIHelper.10fa47cc.md) | Uses the information regarding the requesting app to obtain an access token and caches that using the cachekey. This method is called from the Register WebAPI service api.

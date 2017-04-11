@@ -12,5 +12,5 @@ public Type Type { get; }
 Type: System.Type  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideText](OfficeDevPnP.Core.Pages.ClientSideText.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

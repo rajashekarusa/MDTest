@@ -1,5 +1,5 @@
 # RecordsManagementExtensions.GetRecordRestrictions Method  
-Gets the current restrictions on declared records  
+ Gets the current restrictions on declared records   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,10 +12,14 @@ public static EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
 &emsp;&emsp;Site collection to operate on  
 
+  
+
 ### Return Value
 Type: EcmSiteRecordRestrictions  
- enum that defines the current restrictions
+ OfficeDevPnP.Core.EcmSiteRecordRestrictions enum that defines the current restrictions 
+
 
 ## See also
+- [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

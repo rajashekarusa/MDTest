@@ -1,12 +1,10 @@
 # WebAPIContext
-This class holds the information that's passed from the SharePoint app to the "Register" WebAPI service call  
+ This class holds the information that's passed from the SharePoint app to the "Register" WebAPI service call   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebAPIContext

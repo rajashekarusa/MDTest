@@ -1,17 +1,15 @@
 # NavigationExtensions
-This class holds deprecated navigation related methods  
+ This class holds deprecated navigation related methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class NavigationExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddCustomAction(Web, CustomActionEntity)](Microsoft.SharePoint.Client.NavigationExtensions.c58ae7f0.md) | Adds custom action to a web. If the CustomAction exists the item will be updated. Setting CustomActionEntity.Remove == true will delete the CustomAction.

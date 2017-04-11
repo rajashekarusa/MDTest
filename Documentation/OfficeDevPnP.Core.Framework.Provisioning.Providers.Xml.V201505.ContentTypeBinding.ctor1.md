@@ -8,4 +8,5 @@
 public ContentTypeBinding()
 ```
 ## See also
+- [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeBinding.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md)

@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class ValidationExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ValidateNotNullOrEmpty(T, String)](System.ValidationExtensions.4b2ec538.md) | Validates an object for not being null or not being the default value

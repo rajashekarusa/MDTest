@@ -1,5 +1,5 @@
 # TaxonomyExtensions.WireUpTaxonomyField Method  
-Wires up MMS field to the specified term set.  
+ Wires up MMS field to the specified term set.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,20 +12,29 @@ public static void WireUpTaxonomyField(Web web, Field field, TermSet termSet, Bo
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
+  
+
 #### field  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Field  
 &emsp;&emsp;Field to be wired up  
+
+  
 
 #### termSet  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.TermSet  
 &emsp;&emsp;Taxonomy TermSet  
 
+  
+
 #### (optional) multiValue  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;If true, create a multivalue field  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

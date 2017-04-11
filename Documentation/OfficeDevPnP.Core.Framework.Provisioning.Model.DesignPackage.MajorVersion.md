@@ -1,5 +1,5 @@
 # DesignPackage.Properties MajorVersion
-The Major Version of the Design Package to import into the current Publishing site  
+ The Major Version of the Design Package to import into the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int MajorVersion { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

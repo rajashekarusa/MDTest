@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.SetDefaultContentTypeToList Method  
-Set's default content type list.  
+ Set's default content type list.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static void SetDefaultContentTypeToList(List list, String contentTypeId)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to update  
 
+  
+
 #### contentTypeId  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Complete ID for the content type  
+
+  
 
 ### Return Value
 Type: void  
@@ -22,4 +26,5 @@ Type: void
 ## Remarks 
 Notice. Currently removes other content types from the list. Known issue
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

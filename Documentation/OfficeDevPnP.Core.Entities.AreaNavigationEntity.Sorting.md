@@ -1,5 +1,5 @@
 # AreaNavigationEntity.Properties Sorting
-Defines the sorting  
+ Defines the sorting   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public StructuralNavigationSorting Sorting { get; set; }
 Type: [OfficeDevPnP.Core.Enums.StructuralNavigationSorting](OfficeDevPnP.Core.Enums.StructuralNavigationSorting.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

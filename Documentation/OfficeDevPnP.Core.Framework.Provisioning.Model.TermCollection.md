@@ -1,11 +1,11 @@
 # TermCollection
-Collection of Term objects  
+ Collection of Term objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.Term](OfficeDevPnP.Core.Framework.Provisioning.Model.Term.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Model.Term  
 ## Syntax
 ```C#
 public class TermCollection: ProvisioningTemplateCollection<Term>

@@ -12,5 +12,5 @@ public string InternalName { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -1,5 +1,5 @@
 # WebExtensions.IsSubSite Method  
-Checks if the current web is a sub site or not  
+ Checks if the current web is a sub site or not   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static bool IsSubSite(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to check  
 
+  
+
 ### Return Value
 Type: bool  
-True is sub site, false otherwise
+True is sub site, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

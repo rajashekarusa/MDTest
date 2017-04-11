@@ -1,5 +1,5 @@
 # ITemplateProviderExtension
-Interface for extending the XMLTemplateProvider while retrieving a template  
+ Interface for extending the XMLTemplateProvider while retrieving a template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -1,6 +1,5 @@
 # ClientSideWebPart.Import Method  
-  
-
+Imports a  [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)  to use it as base for configuring the client side web part instance  
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
@@ -10,12 +9,20 @@ public void Import(ClientSideComponent component, Func<String, String> clientSid
 ### Parameters
 #### component  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)  
+&emsp;&emsp; to import  
+
+  
 
 #### (optional) clientSideWebPartPropertiesUpdater  
 &emsp;&emsp;Type: System.Func<System.String, System.String>  
+&emsp;&emsp;Function callback that allows you to manipulate the client side web part properties after import  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

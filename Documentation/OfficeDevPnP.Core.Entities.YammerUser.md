@@ -1,12 +1,10 @@
 # YammerUser
-Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service  
+ Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class YammerUser

@@ -1,5 +1,5 @@
 # Features.Properties SiteFeatures
-A Collection of Features at the Site level  
+ A Collection of Features at the Site level   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public FeatureCollection SiteFeatures { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FeatureCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Features](OfficeDevPnP.Core.Framework.Provisioning.Model.Features.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

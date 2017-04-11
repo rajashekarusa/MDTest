@@ -1,5 +1,5 @@
 # ITemplateProviderExtension.PostProcessSaveTemplate Method  
-Method invoked after serializing the template and before it is saved onto the target repository  
+ Method invoked after serializing the template and before it is saved onto the target repository   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public Stream PostProcessSaveTemplate(Stream stream)
 &emsp;&emsp;Type: System.IO.Stream  
 &emsp;&emsp;The source stream  
 
+  
+
 ### Return Value
 Type: Stream  
-The resulting stream, after pre-processing
+The resulting stream, after pre-processing  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

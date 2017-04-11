@@ -8,4 +8,5 @@
 public WebTemplateEntity()
 ```
 ## See also
+- [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

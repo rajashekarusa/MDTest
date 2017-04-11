@@ -1,5 +1,5 @@
 # SafeConvertExtensions.ToInt64 Method  
-Converts the input string to a Int32 and if null, it returns the default value.  
+ Converts the input string to a Int32 and if null, it returns the default value.   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static long ToInt64(String input, Int32 defaultValue)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Input string.  
 
+  
+
 #### defaultValue  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;A default value to return for a null input value.  
+
+  
 
 ### Return Value
 Type: long  
 
 ## See also
-- [System](System.md)
+- [SafeConvertExtensions](System.SafeConvertExtensions.md) 
+- [System](System.md) 

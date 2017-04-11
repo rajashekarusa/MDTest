@@ -1,12 +1,10 @@
 # CustomActionEntity
-CustomActionEntity class describes the information for a Custom Action  
+ CustomActionEntity class describes the information for a Custom Action   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class CustomActionEntity

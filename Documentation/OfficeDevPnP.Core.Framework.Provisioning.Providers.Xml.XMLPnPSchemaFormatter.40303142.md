@@ -1,5 +1,5 @@
 # XMLPnPSchemaFormatter.GetSpecificFormatter Method  
-Static method to retrieve a specific XMLPnPSchemaFormatter instance  
+ Static method to retrieve a specific XMLPnPSchemaFormatter instance   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,10 +10,15 @@ public static ITemplateFormatter GetSpecificFormatter(String namespaceUri)
 ### Parameters
 #### namespaceUri  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Static method to retrieve a specific XMLPnPSchemaFormatter instance   
+
+  
 
 ### Return Value
 Type: ITemplateFormatter  
+  
 
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)
+- [XMLPnPSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md) 

@@ -8,4 +8,5 @@
 public Feature()
 ```
 ## See also
+- [Feature](OfficeDevPnP.Core.Framework.Provisioning.Model.Feature.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

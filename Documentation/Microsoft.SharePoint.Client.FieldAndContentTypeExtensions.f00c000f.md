@@ -10,12 +10,19 @@ public static Field GetFieldById(List list, Guid fieldId)
 ### Parameters
 #### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+&emsp;&emsp;  
+
+  
 
 #### fieldId  
 &emsp;&emsp;Type: System.Guid  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: Field  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -10,9 +10,13 @@ public static bool IsIisVirtualDirectory(String url)
 ### Parameters
 #### url  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [UrlUtility](OfficeDevPnP.Core.Utilities.UrlUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

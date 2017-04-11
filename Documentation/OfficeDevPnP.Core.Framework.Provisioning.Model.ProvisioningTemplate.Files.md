@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties Files
-Gets a collection of files for the template  
+ Gets a collection of files for the template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public FileCollection Files { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FileCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

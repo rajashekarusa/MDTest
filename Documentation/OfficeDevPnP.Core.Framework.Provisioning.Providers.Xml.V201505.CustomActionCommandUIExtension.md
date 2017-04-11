@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class CustomActionCommandUIExtension
@@ -14,7 +12,7 @@ public class CustomActionCommandUIExtension
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomActionCommandUIExtension()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.CustomActionCommandUIExtension.ctor1.md) | 
+| [CustomActionCommandUIExtension()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.CustomActionCommandUIExtension.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

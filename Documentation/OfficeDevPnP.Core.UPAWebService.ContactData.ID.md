@@ -14,5 +14,5 @@ Type: System.Int64
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

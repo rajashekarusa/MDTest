@@ -10,9 +10,13 @@ public void remove_GetUserPinnedLinksCompleted(GetUserPinnedLinksCompletedEventH
 ### Parameters
 #### value  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserPinnedLinksCompletedEventHandler.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

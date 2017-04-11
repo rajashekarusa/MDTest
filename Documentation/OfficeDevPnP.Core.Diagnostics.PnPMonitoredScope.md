@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.md) 
+&ensp;OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope  
 ## Syntax
 ```C#
 public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>
@@ -13,8 +13,8 @@ public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPMonitoredScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ctor1.md) | 
-| [PnPMonitoredScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ctor2.md) | 
+| [PnPMonitoredScope()](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ctor1.md) |  
+| [PnPMonitoredScope(String)](OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

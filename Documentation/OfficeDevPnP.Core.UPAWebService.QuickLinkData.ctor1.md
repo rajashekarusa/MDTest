@@ -8,4 +8,5 @@
 public QuickLinkData()
 ```
 ## See also
+- [QuickLinkData](OfficeDevPnP.Core.UPAWebService.QuickLinkData.md)
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

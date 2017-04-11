@@ -10,18 +10,31 @@ public IAsyncResult BeginInvoke(Object sender, GetUserProfileSchemaCompletedEven
 ### Parameters
 #### sender  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 #### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventArgs.md)  
+&emsp;&emsp;  
+
+  
 
 #### callback  
 &emsp;&emsp;Type: System.AsyncCallback  
+&emsp;&emsp;  
+
+  
 
 #### object  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: IAsyncResult  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [GetUserProfileSchemaCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetUserProfileSchemaCompletedEventHandler.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

@@ -10,9 +10,13 @@ public ClientSideWebPart InstantiateDefaultWebPart(DefaultClientSideWebParts web
 ### Parameters
 #### webPart  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Pages.DefaultClientSideWebParts](OfficeDevPnP.Core.Pages.DefaultClientSideWebParts.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: ClientSideWebPart  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

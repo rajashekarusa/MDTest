@@ -10,12 +10,19 @@ public void Invoke(Object sender, GetCommonColleaguesCompletedEventArgs e)
 ### Parameters
 #### sender  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 #### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventArgs.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [GetCommonColleaguesCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventHandler.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

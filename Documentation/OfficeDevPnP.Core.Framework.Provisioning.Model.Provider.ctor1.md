@@ -8,4 +8,5 @@
 public Provider()
 ```
 ## See also
+- [Provider](OfficeDevPnP.Core.Framework.Provisioning.Model.Provider.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

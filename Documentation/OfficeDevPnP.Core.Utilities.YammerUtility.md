@@ -5,13 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class YammerUtility
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [CreateYammerDiscussionPartXml(String, Int32, Boolean, Boolean, Boolean)](OfficeDevPnP.Core.Utilities.YammerUtility.4bbdbaf1.md) | Constructs the webpart XML for yammer group needed to inject as Yammer web part to SharePoint page

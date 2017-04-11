@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class CustomAction
@@ -14,7 +12,7 @@ public class CustomAction
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [CustomAction()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomAction.ctor1.md) | 
+| [CustomAction()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomAction.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

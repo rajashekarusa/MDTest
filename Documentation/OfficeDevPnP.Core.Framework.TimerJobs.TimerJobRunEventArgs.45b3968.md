@@ -1,5 +1,5 @@
 # TimerJobRunEventArgs.DeleteProperty Method  
-Deletes a property from the custom property list  
+ Deletes a property from the custom property list   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public void DeleteProperty(String propertyKey)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the property to delete  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJobRunEventArgs](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunEventArgs.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

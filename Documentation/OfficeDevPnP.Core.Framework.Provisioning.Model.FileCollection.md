@@ -1,11 +1,11 @@
 # FileCollection
-Collection of File objects  
+ Collection of File objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.File](OfficeDevPnP.Core.Framework.Provisioning.Model.File.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Model.File  
 ## Syntax
 ```C#
 public class FileCollection: ProvisioningTemplateCollection<File>

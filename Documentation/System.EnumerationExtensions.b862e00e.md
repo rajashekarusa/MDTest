@@ -1,5 +1,5 @@
 # EnumerationExtensions.Has Method  
-Checks if an enumerated type contains a value  
+ Checks if an enumerated type contains a value   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,19 @@ public static bool Has(Enum value, T check)
 ### Parameters
 #### value  
 &emsp;&emsp;Type: System.Enum  
+&emsp;&emsp; Checks if an enumerated type contains a value   
+
+  
 
 #### check  
 &emsp;&emsp;Type: T  
+&emsp;&emsp; Checks if an enumerated type contains a value   
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [System](System.md)
+- [EnumerationExtensions](System.EnumerationExtensions.md) 
+- [System](System.md) 

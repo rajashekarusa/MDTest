@@ -8,4 +8,5 @@
 public DefaultColumnTermPathValue()
 ```
 ## See also
+- [DefaultColumnTermPathValue](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

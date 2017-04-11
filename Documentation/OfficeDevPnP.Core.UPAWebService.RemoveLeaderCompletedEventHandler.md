@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [System.MulticastDelegate](System.MulticastDelegate.md) 
+&ensp;System.MulticastDelegate  
 ## Syntax
 ```C#
 public class RemoveLeaderCompletedEventHandler: MulticastDelegate
@@ -13,7 +13,7 @@ public class RemoveLeaderCompletedEventHandler: MulticastDelegate
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RemoveLeaderCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.RemoveLeaderCompletedEventHandler.ctor1.md) | 
+| [RemoveLeaderCompletedEventHandler(Object, IntPtr)](OfficeDevPnP.Core.UPAWebService.RemoveLeaderCompletedEventHandler.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

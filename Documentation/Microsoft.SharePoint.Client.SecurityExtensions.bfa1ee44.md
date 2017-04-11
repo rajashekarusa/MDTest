@@ -1,5 +1,5 @@
 # SecurityExtensions.RemoveGroup Method  
-Remove a group  
+ Remove a group   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static void RemoveGroup(Web web, Group group)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to operate against  
 
+  
+
 #### group  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Group  
 &emsp;&emsp;Group object to remove  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,5 +1,5 @@
 # FileFolderExtensions.CreateDocumentSet Method  
-Creates a new document set as a child of an existing folder, with the specified content type ID.  
+ Creates a new document set as a child of an existing folder, with the specified content type ID.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,17 +10,26 @@ public static Folder CreateDocumentSet(Folder folder, String documentSetName, Co
 ### Parameters
 #### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
+&emsp;&emsp; Creates a new document set as a child of an existing folder, with the specified content type ID.   
+
+  
 
 #### documentSetName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Creates a new document set as a child of an existing folder, with the specified content type ID.   
+
+  
 
 #### contentTypeId  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ContentTypeId  
 &emsp;&emsp;Content type of the document set  
 
+  
+
 ### Return Value
 Type: Folder  
-The created Folder representing the document set, so that additional operations (such as setting properties) can be done.
+The created Folder representing the document set, so that additional operations (such as setting properties) can be done.  
+
 
 ## Remarks 
 
@@ -28,4 +37,5 @@ The created Folder representing the document set, so that additional operations 
                 var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
             
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

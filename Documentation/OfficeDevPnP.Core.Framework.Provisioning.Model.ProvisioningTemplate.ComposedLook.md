@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties ComposedLook
-Gets or Sets the composed look of the template  
+ Gets or Sets the composed look of the template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public ComposedLook ComposedLook { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook](OfficeDevPnP.Core.Framework.Provisioning.Model.ComposedLook.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

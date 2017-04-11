@@ -8,4 +8,5 @@
 public OrganizationProfileData()
 ```
 ## See also
+- [OrganizationProfileData](OfficeDevPnP.Core.UPAWebService.OrganizationProfileData.md)
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

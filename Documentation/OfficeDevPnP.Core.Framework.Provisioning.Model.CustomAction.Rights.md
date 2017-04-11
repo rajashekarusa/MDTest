@@ -1,5 +1,5 @@
 # CustomAction.Properties Rights
-Gets or sets the value that specifies the permissions needed for the custom action.  
+ Gets or sets the value that specifies the permissions needed for the custom action.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public BasePermissions Rights { get; set; }
 Type: Microsoft.SharePoint.Client.BasePermissions  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

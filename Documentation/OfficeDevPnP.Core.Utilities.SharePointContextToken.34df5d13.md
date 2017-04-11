@@ -10,9 +10,13 @@ public static SharePointContextToken Create(JsonWebSecurityToken contextToken)
 ### Parameters
 #### contextToken  
 &emsp;&emsp;Type: SharePointPnP.IdentityModel.Extensions.S2S.Tokens.JsonWebSecurityToken  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: SharePointContextToken  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

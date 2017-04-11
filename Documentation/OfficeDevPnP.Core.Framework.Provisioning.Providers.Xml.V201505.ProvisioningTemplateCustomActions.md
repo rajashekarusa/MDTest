@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ProvisioningTemplateCustomActions
@@ -14,7 +12,7 @@ public class ProvisioningTemplateCustomActions
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.ctor1.md) | 
+| [ProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

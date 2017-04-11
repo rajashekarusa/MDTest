@@ -1,11 +1,11 @@
 # PageLayoutCollection
-Collection of PageLayout objects  
+ Collection of PageLayout objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout](OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Model.PageLayout  
 ## Syntax
 ```C#
 public class PageLayoutCollection: ProvisioningTemplateCollection<PageLayout>

@@ -11,4 +11,5 @@ public IEnumerable<ClientSideComponent> AvailableClientSideComponents()
 Type: IEnumerable<ClientSideComponent>  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

@@ -12,5 +12,5 @@ public YammerUserContact contact { get; set; }
 Type: [OfficeDevPnP.Core.Entities.YammerUserContact](OfficeDevPnP.Core.Entities.YammerUserContact.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

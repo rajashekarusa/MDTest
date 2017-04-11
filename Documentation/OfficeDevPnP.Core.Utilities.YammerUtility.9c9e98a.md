@@ -10,9 +10,13 @@ public static YammerUser GetYammerUser(String accessToken)
 ### Parameters
 #### accessToken  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: YammerUser  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [YammerUtility](OfficeDevPnP.Core.Utilities.YammerUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

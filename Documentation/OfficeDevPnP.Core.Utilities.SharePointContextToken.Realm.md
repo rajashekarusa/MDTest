@@ -1,5 +1,5 @@
 # SharePointContextToken.Properties Realm
-The realm portion of the context token's "audience" claim  
+ The realm portion of the context token's "audience" claim   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Realm { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
 - [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

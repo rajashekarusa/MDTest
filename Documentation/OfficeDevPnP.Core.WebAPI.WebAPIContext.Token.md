@@ -1,5 +1,5 @@
 # WebAPIContext.Properties Token
-The SharePoint context token. This will be used at the WebAPI level to obtain an access token  
+ The SharePoint context token. This will be used at the WebAPI level to obtain an access token   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Token { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)
 - [WebAPIContext](OfficeDevPnP.Core.WebAPI.WebAPIContext.md) 
+- [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

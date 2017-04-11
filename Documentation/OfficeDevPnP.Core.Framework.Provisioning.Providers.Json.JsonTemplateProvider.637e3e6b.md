@@ -11,4 +11,5 @@ public List<ProvisioningTemplate> GetTemplates()
 Type: List<ProvisioningTemplate>  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)
+- [JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md) 

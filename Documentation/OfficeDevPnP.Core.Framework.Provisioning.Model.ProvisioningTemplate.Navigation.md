@@ -1,5 +1,5 @@
 # ProvisioningTemplate.Properties Navigation
-The Navigation configurations of the Provisioning Template  
+ The Navigation configurations of the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public Navigation Navigation { get; set; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

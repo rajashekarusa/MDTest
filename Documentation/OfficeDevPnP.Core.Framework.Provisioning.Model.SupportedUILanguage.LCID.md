@@ -1,5 +1,5 @@
 # SupportedUILanguage.Properties LCID
-The Locale ID of a Supported UI Language  
+ The Locale ID of a Supported UI Language   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public int LCID { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [SupportedUILanguage](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

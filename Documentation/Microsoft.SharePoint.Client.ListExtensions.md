@@ -1,17 +1,15 @@
 # ListExtensions
-Class that holds deprecated generic list creation and manipulation methods  
+ Class that holds deprecated generic list creation and manipulation methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class ListExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [AddRemoteEventReceiver(List, String, String, EventReceiverType, EventReceiverSynchronization, Boolean)](Microsoft.SharePoint.Client.ListExtensions.b9c036ed.md) | Registers a remote event receiver
@@ -44,7 +42,7 @@ public static class ListExtensions
 | [PropertyBagContainsKey(List, String)](Microsoft.SharePoint.Client.ListExtensions.1fcb2c8b.md) | Checks if the given property bag entry exists
 | [ReIndexList(List)](Microsoft.SharePoint.Client.ListExtensions.9d2ca161.md) | Queues a list for a full crawl the next incremental crawl
 | [RemoveContentTypeByName(List, String)](Microsoft.SharePoint.Client.ListExtensions.8e0c93ca.md) | Removes a content type from a list/library by name
-| [SetDefaultColumnValues(List, IEnumerable<IDefaultColumnValue>)](Microsoft.SharePoint.Client.ListExtensions.4bb08d61.md) | 
+| [SetDefaultColumnValues(List, IEnumerable<IDefaultColumnValue>)](Microsoft.SharePoint.Client.ListExtensions.4bb08d61.md) |  <para>Sets default values for column values.</para> <para>In order to for instance set the default Enterprise Metadata keyword field to a term, add the enterprise metadata keyword to a library (internal name "TaxKeyword")</para> <para></para> <para>Column values are defined by the DefaultColumnValue class that has 3 properties:</para> <para>RelativeFolderPath : / to set a default value for the root of the document library, or /foldername to specify a subfolder</para> <para>FieldInternalName : The name of the field to set. For instance "TaxKeyword" to set the Enterprise Metadata field</para> <para>Terms : A collection of Taxonomy terms to set</para> <para></para> <para>Supported column types: Metadata, Text, Choice, MultiChoice, People, Boolean, DateTime, Number, Currency</para> 
 | [SetJSLinkCustomizations(List, PageType, String)](Microsoft.SharePoint.Client.ListExtensions.2f8c0ee3.md) | Sets JS link customization for a list form
 | [SetJSLinkCustomizations(List, String, String)](Microsoft.SharePoint.Client.ListExtensions.81a6f21d.md) | Sets JS link customization for a list view page
 | [SetListPermission(List, BuiltInIdentity, RoleType)](Microsoft.SharePoint.Client.ListExtensions.1f730c53.md) | Set custom permission to the list

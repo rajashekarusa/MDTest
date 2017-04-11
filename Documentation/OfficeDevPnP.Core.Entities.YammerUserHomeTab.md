@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class YammerUserHomeTab
@@ -14,7 +12,7 @@ public class YammerUserHomeTab
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [YammerUserHomeTab()](OfficeDevPnP.Core.Entities.YammerUserHomeTab.ctor1.md) | 
+| [YammerUserHomeTab()](OfficeDevPnP.Core.Entities.YammerUserHomeTab.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

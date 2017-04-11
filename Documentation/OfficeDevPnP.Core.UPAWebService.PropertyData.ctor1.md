@@ -8,4 +8,5 @@
 public PropertyData()
 ```
 ## See also
+- [PropertyData](OfficeDevPnP.Core.UPAWebService.PropertyData.md)
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)

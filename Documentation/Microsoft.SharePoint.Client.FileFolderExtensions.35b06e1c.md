@@ -10,15 +10,25 @@ public static Folder EnsureFolderPath(Web web, String webRelativeUrl, Expression
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp;  
+
+  
 
 #### webRelativeUrl  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### expressions  
 &emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<Microsoft.SharePoint.Client.Folder, System.Object>>[]  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: Folder  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

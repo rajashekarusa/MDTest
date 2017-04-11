@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetWssIdForTerm Method  
-Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise returns -1;  
+ Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise returns -1;   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,13 +10,21 @@ public static int GetWssIdForTerm(Web web, Term term)
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp; Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise returns -1;   
+
+  
 
 #### term  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Taxonomy.Term  
+&emsp;&emsp; Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise returns -1;   
+
+  
 
 ### Return Value
 Type: int  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

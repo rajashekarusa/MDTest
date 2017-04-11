@@ -10,15 +10,25 @@ public static PnPPackage Open(String path, FileMode mode, FileAccess access)
 ### Parameters
 #### path  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### mode  
 &emsp;&emsp;Type: System.IO.FileMode  
+&emsp;&emsp;  
+
+  
 
 #### access  
 &emsp;&emsp;Type: System.IO.FileAccess  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: PnPPackage  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)
+- [PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md) 

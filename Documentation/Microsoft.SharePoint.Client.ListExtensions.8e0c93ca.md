@@ -1,5 +1,5 @@
 # ListExtensions.RemoveContentTypeByName Method  
-Removes a content type from a list/library by name  
+ Removes a content type from a list/library by name   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,14 +12,19 @@ public static void RemoveContentTypeByName(List list, String contentTypeName)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;The list  
 
+  
+
 #### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The content type name to remove from the list  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
+- [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - System.ArgumentException
 - System.ArgumentNullException
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

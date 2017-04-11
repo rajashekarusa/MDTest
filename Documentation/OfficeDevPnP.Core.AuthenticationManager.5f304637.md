@@ -1,5 +1,5 @@
 # AuthenticationManager.GetAzureADWebApplicationAuthenticatedContext Method  
-  
+ Returns a SharePoint ClientContext using Azure Active Directory authentication. This requires that you have a Azure AD Web Application registered. The user will not be prompted for authentication, the current user's authentication context will be used by leveraging ADAL.   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,21 @@ public ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl
 ### Parameters
 #### siteUrl  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;Site for which the ClientContext object will be instantiated  
+
+  
 
 #### accessTokenGetter  
 &emsp;&emsp;Type: System.Func<System.String, System.String>  
+&emsp;&emsp;The AccessToken getter method to use  
+
+  
 
 ### Return Value
 Type: ClientContext  
+Client context object  
+
 
 ## See also
-- [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
+- [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
+- [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

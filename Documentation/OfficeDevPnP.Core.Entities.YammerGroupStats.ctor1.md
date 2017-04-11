@@ -8,4 +8,5 @@
 public YammerGroupStats()
 ```
 ## See also
+- [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

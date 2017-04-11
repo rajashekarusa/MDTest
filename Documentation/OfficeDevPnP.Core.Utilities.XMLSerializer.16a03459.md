@@ -1,5 +1,5 @@
 # XMLSerializer.SerializeToStream Method  
-Serializes an object instance to a stream, providing custom namespace prefixes.  
+ Serializes an object instance to a stream, providing custom namespace prefixes.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,13 +10,21 @@ public static Stream SerializeToStream(T objectToSerialize, XmlSerializerNamespa
 ### Parameters
 #### objectToSerialize  
 &emsp;&emsp;Type: T  
+&emsp;&emsp; Serializes an object instance to a stream, providing custom namespace prefixes.   
+
+  
 
 #### ns  
 &emsp;&emsp;Type: System.Xml.Serialization.XmlSerializerNamespaces  
+&emsp;&emsp; Serializes an object instance to a stream, providing custom namespace prefixes.   
+
+  
 
 ### Return Value
 Type: Stream  
-An string that represents the serialized object.
+An string that represents the serialized object.  
+
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [XMLSerializer](OfficeDevPnP.Core.Utilities.XMLSerializer.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

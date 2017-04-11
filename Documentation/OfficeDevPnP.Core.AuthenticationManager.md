@@ -1,12 +1,10 @@
 # AuthenticationManager
-This manager class can be used to obtain a SharePointContext object  
+ This manager class can be used to obtain a SharePointContext object   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class AuthenticationManager
@@ -33,7 +31,7 @@ public class AuthenticationManager
 | [GetAzureADLoginEndPoint(AzureEnvironment)](OfficeDevPnP.Core.AuthenticationManager.13a3dc47.md) | Get's the Azure AD login end point for the given environment
 | [GetAzureADNativeApplicationAuthenticatedContext(String, String, String, TokenCache, AzureEnvironment)](OfficeDevPnP.Core.AuthenticationManager.4f3ffdaa.md) | Returns a SharePoint ClientContext using Azure Active Directory authentication. This requires that you have a Azure AD Native Application registered. The user will be prompted for authentication.
 | [GetAzureADNativeApplicationAuthenticatedContext(String, String, Uri, TokenCache, AzureEnvironment)](OfficeDevPnP.Core.AuthenticationManager.f536a6ce.md) | Returns a SharePoint ClientContext using Azure Active Directory authentication. This requires that you have a Azure AD Native Application registered. The user will be prompted for authentication.
-| [GetAzureADWebApplicationAuthenticatedContext(String, Func<String, String>)](OfficeDevPnP.Core.AuthenticationManager.5f304637.md) | 
+| [GetAzureADWebApplicationAuthenticatedContext(String, Func<String, String>)](OfficeDevPnP.Core.AuthenticationManager.5f304637.md) | Returns a SharePoint ClientContext using Azure Active Directory authentication. This requires that you have a Azure AD Web Application registered. The user will not be prompted for authentication, the current user's authentication context will be used by leveraging ADAL.
 | [GetNetworkCredentialAuthenticatedContext(String, String, String, String)](OfficeDevPnP.Core.AuthenticationManager.d3aeb52f.md) | Returns a SharePoint on-premises / SharePoint Online Dedicated ClientContext object
 | [GetNetworkCredentialAuthenticatedContext(String, String, SecureString, String)](OfficeDevPnP.Core.AuthenticationManager.34c7cc73.md) | Returns a SharePoint on-premises / SharePoint Online Dedicated ClientContext object
 | [GetSharePointOnlineAuthenticatedContextTenant(String, String, String)](OfficeDevPnP.Core.AuthenticationManager.e8fa5bc2.md) | Returns a SharePointOnline ClientContext object

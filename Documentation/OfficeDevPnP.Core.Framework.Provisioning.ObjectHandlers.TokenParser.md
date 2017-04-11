@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class TokenParser
@@ -14,7 +12,7 @@ public class TokenParser
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TokenParser(Web, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.ctor1.md) | 
+| [TokenParser(Web, ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenParser.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

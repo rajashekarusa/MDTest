@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
 public class Page: BaseModel
@@ -13,10 +13,10 @@ public class Page: BaseModel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor1.md) | 
-| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor2.md) | 
-| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor3.md) | 
-| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor4.md) | 
+| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor1.md) |  
+| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, Boolean, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor2.md) |  
+| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor3.md) |  
+| [Page(String, Boolean, WikiPageLayout, IEnumerable<WebPart>, ObjectSecurity, Dictionary<String, String>)](OfficeDevPnP.Core.Framework.Provisioning.Model.Page.ctor4.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

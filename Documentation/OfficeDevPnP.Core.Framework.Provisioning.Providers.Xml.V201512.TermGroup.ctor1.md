@@ -8,4 +8,5 @@
 public TermGroup()
 ```
 ## See also
+- [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermGroup.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

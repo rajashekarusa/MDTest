@@ -1,5 +1,5 @@
 # WebPartEntity.Properties WebPartTitle
-Title of the web part  
+ Title of the web part   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string WebPartTitle { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

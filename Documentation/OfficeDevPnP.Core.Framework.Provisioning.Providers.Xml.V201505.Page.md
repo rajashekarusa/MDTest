@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Page
@@ -14,7 +12,7 @@ public class Page
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Page.ctor1.md) | 
+| [Page()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Page.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

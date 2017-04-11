@@ -1,5 +1,5 @@
 # WebExtensions.RemovePropertyBagValue Method  
-Removes a property bag value from the property bag  
+ Removes a property bag value from the property bag   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static void RemovePropertyBagValue(Web web, String key)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The site to process  
 
+  
+
 #### key  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;The key to remove  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

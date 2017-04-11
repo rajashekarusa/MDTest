@@ -12,5 +12,5 @@ public TreeNode Node { get; set; }
 Type: [OfficeDevPnP.Core.Diagnostics.Tree.TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [ITreeNodeAware](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNodeAware.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

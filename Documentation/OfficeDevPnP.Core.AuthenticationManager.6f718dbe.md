@@ -1,5 +1,5 @@
 # AuthenticationManager.GetAzureADACSEndPoint Method  
-Get's the Azure ASC login end point for the given environment  
+ Get's the Azure ASC login end point for the given environment   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public string GetAzureADACSEndPoint(AzureEnvironment environment)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.AzureEnvironment](OfficeDevPnP.Core.AzureEnvironment.md)  
 &emsp;&emsp;Environment to get the login information for  
 
+  
+
 ### Return Value
 Type: string  
-Azure ASC login endpoint
+Azure ASC login endpoint  
+
 
 ## See also
-- [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
+- [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
+- [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

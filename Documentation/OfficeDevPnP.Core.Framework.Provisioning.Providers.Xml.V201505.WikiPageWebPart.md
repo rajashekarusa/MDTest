@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WikiPageWebPart
@@ -14,7 +12,7 @@ public class WikiPageWebPart
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.WikiPageWebPart.ctor1.md) | 
+| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.WikiPageWebPart.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

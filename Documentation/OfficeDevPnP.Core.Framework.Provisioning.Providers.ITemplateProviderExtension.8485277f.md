@@ -1,5 +1,5 @@
 # ITemplateProviderExtension.PreProcessSaveTemplate Method  
-Method invoked before serializing the template and before it is saved onto the target repository  
+ Method invoked before serializing the template and before it is saved onto the target repository   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public ProvisioningTemplate PreProcessSaveTemplate(ProvisioningTemplate template
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The template that is going to be serialized  
 
+  
+
 ### Return Value
 Type: ProvisioningTemplate  
-The resulting template, after pre-processing
+The resulting template, after pre-processing  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

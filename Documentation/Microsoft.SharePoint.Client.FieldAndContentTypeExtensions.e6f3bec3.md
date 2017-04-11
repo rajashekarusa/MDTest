@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.FieldExistsById Method  
-Returns if the field is found  
+ Returns if the field is found   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool FieldExistsById(List list, Guid fieldId)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to process  
 
+  
+
 #### fieldId  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;Guid of the field ID  
 
+  
+
 ### Return Value
 Type: bool  
-True if the fields exists, false otherwise
+True if the fields exists, false otherwise  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

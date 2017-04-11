@@ -1,5 +1,5 @@
 # SecurityExtensions.GetExternalUsersTenant Method  
-Returns a list all external users in your tenant  
+ Returns a list all external users in your tenant   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,10 +12,13 @@ public static List<ExternalUserEntity> GetExternalUsersTenant(Web web)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Tenant administration web  
 
+  
+
 ### Return Value
 Type: List<ExternalUserEntity>  
-A list of  objects
+A list of  [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)  objects  
 
 ## See also
+- [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

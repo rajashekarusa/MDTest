@@ -1,5 +1,5 @@
 # RecordsManagementExtensions.SetListAutoRecordDeclaration Method  
-Defines if auto record declaration is active for this list: all added items will be automatically declared as a record if active  
+ Defines if auto record declaration is active for this list: all added items will be automatically declared as a record if active   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,12 +12,17 @@ public static void SetListAutoRecordDeclaration(List list, Boolean autoDeclareRe
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
 &emsp;&emsp;List to operate on  
 
+  
+
 #### autoDeclareRecords  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;True to automatically declare all added items as record, false otherwise  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

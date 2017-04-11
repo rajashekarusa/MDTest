@@ -8,4 +8,5 @@
 public AddIn()
 ```
 ## See also
+- [AddIn](OfficeDevPnP.Core.Framework.Provisioning.Model.AddIn.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

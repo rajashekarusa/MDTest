@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class UserEntity
@@ -14,7 +12,7 @@ public class UserEntity
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [UserEntity()](OfficeDevPnP.Core.Entities.UserEntity.ctor1.md) | 
+| [UserEntity()](OfficeDevPnP.Core.Entities.UserEntity.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

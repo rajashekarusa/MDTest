@@ -1,5 +1,5 @@
 # CustomActionEntity.Properties Location
-Custom action location (A string that contains the location; for example, Microsoft.SharePoint.SiteSettings)  
+ Custom action location (A string that contains the location; for example, Microsoft.SharePoint.SiteSettings)   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string Location { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

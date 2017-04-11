@@ -1,5 +1,5 @@
 # JsonUtility.Deserialize Method  
-Deserializes a json string to an object of type T  
+ Deserializes a json string to an object of type T   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public static T Deserialize(String json)
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;json string  
 
+  
+
 ### Return Value
 Type: T  
-Object of type T
+Object of type T  
+
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
+- [JsonUtility](OfficeDevPnP.Core.Utilities.JsonUtility.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

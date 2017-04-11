@@ -1,5 +1,5 @@
 # AreaNavigationEntity.Properties GlobalNavigation
-Specifies the Global Navigation (top bar navigation)  
+ Specifies the Global Navigation (top bar navigation)   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public StructuralNavigationEntity GlobalNavigation { get; set; }
 Type: [OfficeDevPnP.Core.Entities.StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

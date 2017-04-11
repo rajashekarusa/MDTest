@@ -8,4 +8,5 @@
 public AvailableClientSideComponents()
 ```
 ## See also
+- [AvailableClientSideComponents](OfficeDevPnP.Core.Pages.AvailableClientSideComponents.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

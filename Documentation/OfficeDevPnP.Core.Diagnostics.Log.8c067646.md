@@ -10,9 +10,13 @@ public static void Info(LogEntry logEntry)
 ### Parameters
 #### logEntry  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
+- [Log](OfficeDevPnP.Core.Diagnostics.Log.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

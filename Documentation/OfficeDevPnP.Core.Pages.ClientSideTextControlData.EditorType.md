@@ -12,5 +12,5 @@ public string EditorType { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideTextControlData](OfficeDevPnP.Core.Pages.ClientSideTextControlData.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

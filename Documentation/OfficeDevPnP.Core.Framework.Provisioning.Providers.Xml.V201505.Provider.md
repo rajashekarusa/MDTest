@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class Provider
@@ -14,7 +12,7 @@ public class Provider
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provider.ctor1.md) | 
+| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provider.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

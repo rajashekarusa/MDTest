@@ -1,5 +1,5 @@
 # WorkflowExtensions.GetWorkflowSubscription Method  
-Returns a workflow subscription (associations) for a list  
+ Returns a workflow subscription (associations) for a list   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,13 +10,21 @@ public static WorkflowSubscription GetWorkflowSubscription(List list, String nam
 ### Parameters
 #### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+&emsp;&emsp; Returns a workflow subscription (associations) for a list   
+
+  
 
 #### name  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp; Returns a workflow subscription (associations) for a list   
+
+  
 
 ### Return Value
 Type: WorkflowSubscription  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

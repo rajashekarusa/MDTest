@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class TermLabelsLabel
@@ -14,7 +12,7 @@ public class TermLabelsLabel
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermLabelsLabel()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermLabelsLabel.ctor1.md) | 
+| [TermLabelsLabel()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermLabelsLabel.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

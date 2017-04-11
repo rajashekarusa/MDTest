@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class InCommonData
@@ -14,7 +12,7 @@ public class InCommonData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [InCommonData()](OfficeDevPnP.Core.UPAWebService.InCommonData.ctor1.md) | 
+| [InCommonData()](OfficeDevPnP.Core.UPAWebService.InCommonData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

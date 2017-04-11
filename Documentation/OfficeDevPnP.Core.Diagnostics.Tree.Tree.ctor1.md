@@ -8,4 +8,5 @@
 public Tree()
 ```
 ## See also
+- [Tree](OfficeDevPnP.Core.Diagnostics.Tree.Tree.md)
 - [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)

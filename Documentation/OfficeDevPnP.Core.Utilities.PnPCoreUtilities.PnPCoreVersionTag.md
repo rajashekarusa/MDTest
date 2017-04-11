@@ -1,5 +1,5 @@
 # PnPCoreUtilities.Properties PnPCoreVersionTag
-Get's a tag that identifies the PnP Core library  
+ Get's a tag that identifies the PnP Core library   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public static string PnPCoreVersionTag { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
 - [PnPCoreUtilities](OfficeDevPnP.Core.Utilities.PnPCoreUtilities.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

@@ -8,4 +8,5 @@
 public Term()
 ```
 ## See also
+- [Term](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Term.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -1,5 +1,5 @@
 # AreaNavigationEntity.Properties CurrentNavigation
-Specifies the Current Navigation (quick launch navigation)  
+ Specifies the Current Navigation (quick launch navigation)   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public StructuralNavigationEntity CurrentNavigation { get; set; }
 Type: [OfficeDevPnP.Core.Entities.StructuralNavigationEntity](OfficeDevPnP.Core.Entities.StructuralNavigationEntity.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

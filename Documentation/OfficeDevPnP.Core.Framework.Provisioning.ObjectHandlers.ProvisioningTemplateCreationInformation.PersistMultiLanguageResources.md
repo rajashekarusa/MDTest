@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties PersistMultiLanguageResources
-Will create resource files named "PnP_Resource_[LCID].resx for every supported language. The files will be persisted to the location specified by the connector  
+ Will create resource files named "PnP_Resource_[LCID].resx for every supported language. The files will be persisted to the location specified by the connector   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool PersistMultiLanguageResources { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)
 - [ProvisioningTemplateCreationInformation](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.ProvisioningTemplateCreationInformation.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md) 

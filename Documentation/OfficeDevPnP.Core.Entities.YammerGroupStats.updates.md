@@ -12,5 +12,5 @@ public int updates { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerGroupStats](OfficeDevPnP.Core.Entities.YammerGroupStats.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

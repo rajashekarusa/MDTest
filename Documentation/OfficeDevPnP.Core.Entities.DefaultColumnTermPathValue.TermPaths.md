@@ -1,5 +1,5 @@
 # DefaultColumnTermPathValue.Properties TermPaths
-Taxonomy paths in the shape of "TermGroup|TermSet|Term"  
+ Taxonomy paths in the shape of "TermGroup|TermSet|Term"   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public IList<String> TermPaths { get; }
 Type: System.Collections.Generic.IList<System.String>  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [DefaultColumnTermPathValue](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

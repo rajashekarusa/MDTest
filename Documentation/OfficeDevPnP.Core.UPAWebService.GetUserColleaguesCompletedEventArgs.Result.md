@@ -14,5 +14,5 @@ Type: OfficeDevPnP.Core.UPAWebService.ContactData[]
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
 - [GetUserColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserColleaguesCompletedEventArgs.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

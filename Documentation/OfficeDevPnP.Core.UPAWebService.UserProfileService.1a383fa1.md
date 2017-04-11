@@ -10,18 +10,33 @@ public void AddColleagueAsync(String accountName, String colleagueAccountName, S
 ### Parameters
 #### accountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### colleagueAccountName  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### group  
 &emsp;&emsp;Type: System.String  
+&emsp;&emsp;  
+
+  
 
 #### privacy  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
+&emsp;&emsp;  
+
+  
 
 #### isInWorkGroup  
 &emsp;&emsp;Type: System.Boolean  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
@@ -29,4 +44,5 @@ Type: void
 ## Remarks 
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

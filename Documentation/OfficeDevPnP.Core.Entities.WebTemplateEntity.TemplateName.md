@@ -1,5 +1,5 @@
 # WebTemplateEntity.Properties TemplateName
-Template name in format of BLOG#0  
+ Template name in format of BLOG#0   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string TemplateName { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.FormatFieldXml Method  
-Formats a fieldcreationinformation object into Field CAML xml.  
+ Formats a fieldcreationinformation object into Field CAML xml.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,10 +10,15 @@ public static string FormatFieldXml(FieldCreationInformation fieldCreationInform
 ### Parameters
 #### fieldCreationInformation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.FieldCreationInformation](OfficeDevPnP.Core.Entities.FieldCreationInformation.md)  
+&emsp;&emsp; Formats a fieldcreationinformation object into Field CAML xml.   
+
+  
 
 ### Return Value
 Type: string  
+  
 
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,5 +1,5 @@
 # WebExtensions.SiteSearchScopedByTitle Method  
-Returns all site collection that match with the provided title  
+ Returns all site collection that match with the provided title   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static List<SiteEntity> SiteSearchScopedByTitle(Web web, String siteTitle
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Site to be processed - can be root web or sub site  
 
+  
+
 #### siteTitle  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the site to search for  
 
+  
+
 ### Return Value
 Type: List<SiteEntity>  
-All found site collections
+All found site collections  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

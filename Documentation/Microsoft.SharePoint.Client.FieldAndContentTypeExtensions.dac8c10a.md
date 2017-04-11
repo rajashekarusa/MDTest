@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.GetContentTypeByName Method  
-Return content type by name  
+ Return content type by name   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,17 +12,25 @@ public static ContentType GetContentTypeByName(Web web, String contentTypeName, 
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed  
 
+  
+
 #### contentTypeName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name of the content type  
+
+  
 
 #### (optional) searchInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
 &emsp;&emsp;Searches accross all content types in the site up to the root site  
 
+  
+
 ### Return Value
 Type: ContentType  
-Content type object or null if was not found
+Content type object or null if was not found  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

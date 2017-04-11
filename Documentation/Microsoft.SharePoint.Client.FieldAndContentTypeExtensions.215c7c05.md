@@ -1,5 +1,5 @@
 # FieldAndContentTypeExtensions.ReorderContentTypes Method  
-  
+ Reorders content types on the list. The first one in the list is the default item. Any items left out from the list will still be on the content type, but will not be visible on the new button.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,19 @@ public static void ReorderContentTypes(List list, IEnumerable<String> contentTyp
 ### Parameters
 #### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
+&emsp;&emsp;Target list containing the content types  
+
+  
 
 #### contentTypeNamesOrIds  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+&emsp;&emsp;Content type names or ids to sort.  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -11,4 +11,5 @@ public string GetReplaceValue()
 Type: string  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)
+- [DateNowToken](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.DateNowToken.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md) 

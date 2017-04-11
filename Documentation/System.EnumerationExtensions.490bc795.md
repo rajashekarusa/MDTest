@@ -1,5 +1,5 @@
 # EnumerationExtensions.Include Method  
-Includes an enumerated type and returns the new value  
+ Includes an enumerated type and returns the new value   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,19 @@ public static T Include(Enum value, T append)
 ### Parameters
 #### value  
 &emsp;&emsp;Type: System.Enum  
+&emsp;&emsp; Includes an enumerated type and returns the new value   
+
+  
 
 #### append  
 &emsp;&emsp;Type: T  
+&emsp;&emsp; Includes an enumerated type and returns the new value   
+
+  
 
 ### Return Value
 Type: T  
 
 ## See also
-- [System](System.md)
+- [EnumerationExtensions](System.EnumerationExtensions.md) 
+- [System](System.md) 

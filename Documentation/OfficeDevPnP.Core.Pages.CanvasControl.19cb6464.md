@@ -1,5 +1,5 @@
 # CanvasControl.Delete Method  
-Removes the control from the page  
+ Removes the control from the page   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -11,4 +11,5 @@ public void Delete()
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
+- [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

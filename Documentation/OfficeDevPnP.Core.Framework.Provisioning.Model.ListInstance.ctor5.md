@@ -10,21 +10,49 @@ public ListInstance(IEnumerable<ContentTypeBinding> contentTypeBindings, IEnumer
 ### Parameters
 #### contentTypeBindings  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding>  
+&emsp;&emsp;  
+
+
 #### views  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.View>  
+&emsp;&emsp;  
+
+
 #### fields  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.Field>  
+&emsp;&emsp;  
+
+
 #### fieldRefs  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Framework.Provisioning.Model.FieldRef>  
+&emsp;&emsp;  
+
+
 #### dataRows  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.DataRow>  
+&emsp;&emsp;  
+
+
 #### fieldDefaults  
 &emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String, System.String>  
+&emsp;&emsp;  
+
+
 #### security  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md)  
+&emsp;&emsp;  
+
+
 #### folders  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.Folder>  
+&emsp;&emsp;  
+
+
 #### userCustomActions  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction>  
+&emsp;&emsp;  
+
+
 ## See also
+- [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

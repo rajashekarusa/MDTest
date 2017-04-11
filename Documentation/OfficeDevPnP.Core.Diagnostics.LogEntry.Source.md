@@ -12,5 +12,5 @@ public string Source { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)
 - [LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md) 
+- [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md) 

@@ -12,5 +12,5 @@ public string AcceptedAs { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

@@ -1,5 +1,5 @@
 # WebExtensions.GetWeb Method  
-Returns the child Web site with the specified leaf URL.  
+ Returns the child Web site with the specified leaf URL.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,17 +12,23 @@ public static Web GetWeb(Web parentWeb, String leafUrl)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;The Web site to check under  
 
+  
+
 #### leafUrl  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;A string that represents the URL leaf name.  
 
+  
+
 ### Return Value
 Type: Web  
-The requested Web, if it exists, otherwise null.
+The requested Web, if it exists, otherwise null.  
+
 
 ## Remarks 
 
             The ServerRelativeUrl property of the retrieved Web is instantiated.
             
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

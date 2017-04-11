@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class WebPartMetaDataType
@@ -14,7 +12,7 @@ public class WebPartMetaDataType
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WebPartMetaDataType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.ctor1.md) | 
+| [WebPartMetaDataType()](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaDataType.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

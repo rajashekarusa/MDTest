@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class MembershipData
@@ -14,7 +12,7 @@ public class MembershipData
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [MembershipData()](OfficeDevPnP.Core.UPAWebService.MembershipData.ctor1.md) | 
+| [MembershipData()](OfficeDevPnP.Core.UPAWebService.MembershipData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

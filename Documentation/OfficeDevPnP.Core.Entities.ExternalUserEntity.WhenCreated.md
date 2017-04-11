@@ -12,5 +12,5 @@ public DateTime WhenCreated { get; set; }
 Type: System.DateTime  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

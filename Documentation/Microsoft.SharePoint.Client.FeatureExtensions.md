@@ -1,17 +1,15 @@
 # FeatureExtensions
-Class that holds deprecated feature activation and deactivation methods  
+ Class that holds deprecated feature activation and deactivation methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class FeatureExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ActivateFeature(Web, Guid, Boolean, Int32)](Microsoft.SharePoint.Client.FeatureExtensions.f271be19.md) | Activates a site collection or site scoped feature

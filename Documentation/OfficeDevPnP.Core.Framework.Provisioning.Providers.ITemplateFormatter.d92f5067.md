@@ -1,5 +1,5 @@
 # ITemplateFormatter.Initialize Method  
-Method to initialize the formatter with the proper TemplateProvider instance  
+ Method to initialize the formatter with the proper TemplateProvider instance   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,8 +12,11 @@ public void Initialize(TemplateProviderBase provider)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)  
 &emsp;&emsp;The provider that is calling the current template formatter  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

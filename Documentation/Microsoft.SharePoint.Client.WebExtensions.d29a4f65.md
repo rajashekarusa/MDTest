@@ -1,5 +1,5 @@
 # WebExtensions.WebExistsByTitle Method  
-Determines if a web exists by title.  
+ Determines if a web exists by title.   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,13 +12,19 @@ public static bool WebExistsByTitle(Web parentWeb, String title)
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Parent web to check under.  
 
+  
+
 #### title  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Title of the web to check.  
 
+  
+
 ### Return Value
 Type: bool  
-True if a web with the given title exists.
+True if a web with the given title exists.  
+
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

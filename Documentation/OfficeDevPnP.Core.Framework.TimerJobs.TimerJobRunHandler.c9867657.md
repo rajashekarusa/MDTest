@@ -10,9 +10,13 @@ public void EndInvoke(IAsyncResult result)
 ### Parameters
 #### result  
 &emsp;&emsp;Type: System.IAsyncResult  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)
+- [TimerJobRunHandler](OfficeDevPnP.Core.Framework.TimerJobs.TimerJobRunHandler.md) 
+- [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

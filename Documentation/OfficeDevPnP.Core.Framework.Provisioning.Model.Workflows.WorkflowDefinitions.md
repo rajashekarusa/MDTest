@@ -1,5 +1,5 @@
 # Workflows.Properties WorkflowDefinitions
-Defines the Workflows Definitions to provision  
+ Defines the Workflows Definitions to provision   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public WorkflowDefinitionCollection WorkflowDefinitions { get; }
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowDefinitionCollection.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [Workflows](OfficeDevPnP.Core.Framework.Provisioning.Model.Workflows.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

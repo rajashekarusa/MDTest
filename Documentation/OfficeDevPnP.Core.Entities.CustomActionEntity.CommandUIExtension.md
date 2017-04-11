@@ -1,5 +1,5 @@
 # CustomActionEntity.Properties CommandUIExtension
-Gets or sets a value that specifies an implementation specific XML fragment that determines user interface properties of the custom action  
+ Gets or sets a value that specifies an implementation specific XML fragment that determines user interface properties of the custom action   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string CommandUIExtension { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [CustomActionEntity](OfficeDevPnP.Core.Entities.CustomActionEntity.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

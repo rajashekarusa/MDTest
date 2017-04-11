@@ -1,17 +1,15 @@
 # SafeConvertExtensions
-Safely convert strings to specified types.  
+ Safely convert strings to specified types.   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class SafeConvertExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ToBoolean(String, Boolean)](System.SafeConvertExtensions.3f71f0bb.md) | Converts the input string to a boolean and if null, it returns the default value.

@@ -10,9 +10,13 @@ public static MemoryStream ToMemoryStream(Stream source)
 ### Parameters
 #### source  
 &emsp;&emsp;Type: System.IO.Stream  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: MemoryStream  
 
 ## See also
-- [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)
+- [StreamExtensions](OfficeDevPnP.Core.Extensions.StreamExtensions.md) 
+- [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md) 

@@ -1,5 +1,5 @@
 # DesignPackage.Properties DesignPackagePath
-Defines the path of the Design Package to import into the current Publishing site  
+ Defines the path of the Design Package to import into the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string DesignPackagePath { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
 - [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

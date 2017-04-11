@@ -12,5 +12,5 @@ public WebPartMetaData MetaData { get; set; }
 Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPartMetaData.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)
 - [WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md) 
+- [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md) 

@@ -8,4 +8,5 @@
 public DefaultColumnTextValue()
 ```
 ## See also
+- [DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md)
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

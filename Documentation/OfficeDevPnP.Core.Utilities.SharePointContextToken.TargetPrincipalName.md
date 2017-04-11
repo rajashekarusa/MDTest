@@ -1,5 +1,5 @@
 # SharePointContextToken.Properties TargetPrincipalName
-The principal name portion of the context token's "appctxsender" claim  
+ The principal name portion of the context token's "appctxsender" claim   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public string TargetPrincipalName { get; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)
 - [SharePointContextToken](OfficeDevPnP.Core.Utilities.SharePointContextToken.md) 
+- [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

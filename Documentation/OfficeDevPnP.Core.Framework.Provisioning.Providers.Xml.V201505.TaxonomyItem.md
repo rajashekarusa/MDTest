@@ -5,10 +5,9 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.md)
-
-+++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.md) 
-+++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermGroup.md)  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSetItem.md)  
 ## Syntax
 ```C#
 public class TaxonomyItem
@@ -16,7 +15,7 @@ public class TaxonomyItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TaxonomyItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.ctor1.md) | 
+| [TaxonomyItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

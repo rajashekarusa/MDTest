@@ -12,5 +12,5 @@ public int Delay { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core](OfficeDevPnP.Core.md)
 - [PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md) 
+- [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

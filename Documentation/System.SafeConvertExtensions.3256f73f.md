@@ -10,9 +10,13 @@ public static T ToEnum(Byte enumValue)
 ### Parameters
 #### enumValue  
 &emsp;&emsp;Type: System.Byte  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: T  
 
 ## See also
-- [System](System.md)
+- [SafeConvertExtensions](System.SafeConvertExtensions.md) 
+- [System](System.md) 

@@ -12,5 +12,5 @@ public string Id { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

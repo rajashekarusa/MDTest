@@ -1,5 +1,5 @@
 # ITemplateFormatter.ToFormattedTemplate Method  
-Method to format a ProvisioningTemplate into a formatted template  
+ Method to format a ProvisioningTemplate into a formatted template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,9 +12,13 @@ public Stream ToFormattedTemplate(ProvisioningTemplate template)
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 &emsp;&emsp;The input ProvisioningTemplate  
 
+  
+
 ### Return Value
 Type: Stream  
-The output formatted template as a Stream
+The output formatted template as a Stream  
+
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)
+- [ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

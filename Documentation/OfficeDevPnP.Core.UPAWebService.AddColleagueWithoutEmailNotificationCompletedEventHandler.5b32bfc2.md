@@ -10,12 +10,19 @@ public void Invoke(Object sender, AddColleagueWithoutEmailNotificationCompletedE
 ### Parameters
 #### sender  
 &emsp;&emsp;Type: System.Object  
+&emsp;&emsp;  
+
+  
 
 #### e  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventArgs.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)
+- [AddColleagueWithoutEmailNotificationCompletedEventHandler](OfficeDevPnP.Core.UPAWebService.AddColleagueWithoutEmailNotificationCompletedEventHandler.md) 
+- [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

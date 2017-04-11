@@ -12,5 +12,5 @@ public string feed_description { get; set; }
 Type: System.String  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUserHomeTab](OfficeDevPnP.Core.Entities.YammerUserHomeTab.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

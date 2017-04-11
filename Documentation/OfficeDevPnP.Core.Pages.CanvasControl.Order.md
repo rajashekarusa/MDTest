@@ -12,5 +12,5 @@ public int Order { get; set; }
 Type: System.Int32  
 
 ## See also
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
 - [CanvasControl](OfficeDevPnP.Core.Pages.CanvasControl.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

@@ -1,5 +1,5 @@
 # FeatureExtensions.DeactivateFeature Method  
-Deactivates a site collection or site scoped feature  
+ Deactivates a site collection or site scoped feature   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,16 +12,23 @@ public static void DeactivateFeature(Web web, Guid featureID, Int32 pollingInter
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
 &emsp;&emsp;Web to be processed - can be root web or sub web  
 
+  
+
 #### featureID  
 &emsp;&emsp;Type: System.Guid  
 &emsp;&emsp;ID of the feature to deactivate  
+
+  
 
 #### (optional) pollingIntervalSeconds  
 &emsp;&emsp;Type: System.Int32  
 &emsp;&emsp;The time in seconds between polls for "IsActive"  
 
+  
+
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [FeatureExtensions](Microsoft.SharePoint.Client.FeatureExtensions.md) 
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

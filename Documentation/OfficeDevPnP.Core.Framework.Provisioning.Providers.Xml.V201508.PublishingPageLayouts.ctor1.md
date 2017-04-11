@@ -8,4 +8,5 @@
 public PublishingPageLayouts()
 ```
 ## See also
+- [PublishingPageLayouts](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingPageLayouts.md)
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md)

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class GetUserProfileByIndexResult
@@ -14,7 +12,7 @@ public class GetUserProfileByIndexResult
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [GetUserProfileByIndexResult()](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.ctor1.md) | 
+| [GetUserProfileByIndexResult()](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

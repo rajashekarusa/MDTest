@@ -12,5 +12,5 @@ public IEnumerable<ITreeNode> Descendants { get; }
 Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [TreeNode](OfficeDevPnP.Core.Diagnostics.Tree.TreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

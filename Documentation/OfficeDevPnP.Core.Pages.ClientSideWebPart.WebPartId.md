@@ -1,5 +1,5 @@
 # ClientSideWebPart.Properties WebPartId
-ID of the client side web part  
+ ID of the client side web part   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,7 +12,7 @@ public string WebPartId { get; }
 Type: System.String  
 
 ## See also
+- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - Newtonsoft.Json.Linq.JObject
 - P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type
-- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)
-- [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
+- [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

@@ -1,17 +1,15 @@
 # RecordsManagementExtensions
-Class that deals with deprecated records management functionality  
+ Class that deals with deprecated records management functionality   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public static class RecordsManagementExtensions
 ```
-## Methods
+## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [ActivateInPlaceRecordsManagementFeature(Site)](Microsoft.SharePoint.Client.RecordsManagementExtensions.3537381f.md) | Activate the in place records management feature

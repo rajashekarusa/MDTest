@@ -1,5 +1,5 @@
 # BrandingExtensions.SetAvailableWebTemplates Method  
-  
+ Defines which templates are available for subsite creation   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,20 @@ public static void SetAvailableWebTemplates(Web web, List<WebTemplateEntity> ava
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
+&emsp;&emsp;Web to operate against  
+
+  
 
 #### availableTemplates  
 &emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.WebTemplateEntity>  
+&emsp;&emsp;List of objects that define the templates that are allowed  
+
+  
 
 ### Return Value
 Type: void  
 
 ## See also
-- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)
+- [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
+- [OfficeDevPnP.Core.Entities.WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md)
+- [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

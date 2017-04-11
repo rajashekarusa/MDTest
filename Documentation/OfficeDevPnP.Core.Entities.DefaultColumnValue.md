@@ -1,14 +1,13 @@
 # DefaultColumnValue
-DefaultColumnValue  
+ DefaultColumnValue   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Entities.DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md)
-
-+++[OfficeDevPnP.Core.Entities.DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md) 
-+++[OfficeDevPnP.Core.Entities.DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md) 
+&ensp;OfficeDevPnP.Core.Entities.DefaultColumnValue  
+&emsp;[OfficeDevPnP.Core.Entities.DefaultColumnTermValue](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.md)  
+&emsp;[OfficeDevPnP.Core.Entities.DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md)  
 ## Syntax
 ```C#
 public class DefaultColumnValue

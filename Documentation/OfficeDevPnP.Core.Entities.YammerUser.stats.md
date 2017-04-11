@@ -12,5 +12,5 @@ public YammerUserStats stats { get; set; }
 Type: [OfficeDevPnP.Core.Entities.YammerUserStats](OfficeDevPnP.Core.Entities.YammerUserStats.md)  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [YammerUser](OfficeDevPnP.Core.Entities.YammerUser.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

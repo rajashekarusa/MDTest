@@ -1,5 +1,5 @@
 # ICommitableFileConnector
-Interface for File Connectors  
+ Interface for File Connectors   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -10,9 +10,13 @@ public bool Equals(TermLabel other)
 ### Parameters
 #### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md)  
+&emsp;&emsp;  
+
+  
 
 ### Return Value
 Type: bool  
 
 ## See also
-- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)
+- [TermLabel](OfficeDevPnP.Core.Framework.Provisioning.Model.TermLabel.md) 
+- [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

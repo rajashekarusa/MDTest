@@ -1,5 +1,5 @@
 # VariationInformation.Properties SendNotificationEmail
-Send email notification Mapped to property "SendNotificationEmailPropertyName"  
+ Send email notification Mapped to property "SendNotificationEmailPropertyName"   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -12,5 +12,5 @@ public bool SendNotificationEmail { get; set; }
 Type: System.Boolean  
 
 ## See also
-- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
 - [VariationInformation](OfficeDevPnP.Core.Entities.VariationInformation.md) 
+- [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

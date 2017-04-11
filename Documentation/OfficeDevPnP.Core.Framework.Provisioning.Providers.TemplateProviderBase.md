@@ -5,10 +5,9 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-[OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.md)
-
-+++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md) 
-+++[OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md) 
+&ensp;OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md)  
+&emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonTemplateProvider.md)  
 ## Syntax
 ```C#
 public class TemplateProviderBase
@@ -16,8 +15,8 @@ public class TemplateProviderBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TemplateProviderBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.ctor1.md) | 
-| [TemplateProviderBase(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.ctor2.md) | 
+| [TemplateProviderBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.ctor1.md) |  
+| [TemplateProviderBase(FileConnectorBase)](OfficeDevPnP.Core.Framework.Provisioning.Providers.TemplateProviderBase.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

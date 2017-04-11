@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-  [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.md) 
+&ensp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem.md)  
 ## Syntax
 ```C#
 public class PropertyBagEntry: StringDictionaryItem
@@ -13,7 +13,7 @@ public class PropertyBagEntry: StringDictionaryItem
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.ctor1.md) | 
+| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PropertyBagEntry.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class OrderByField
@@ -14,8 +12,8 @@ public class OrderByField
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [OrderByField(String)](OfficeDevPnP.Core.Utilities.OrderByField.ctor1.md) | 
-| [OrderByField(String, Boolean)](OfficeDevPnP.Core.Utilities.OrderByField.ctor2.md) | 
+| [OrderByField(String)](OfficeDevPnP.Core.Utilities.OrderByField.ctor1.md) |  
+| [OrderByField(String, Boolean)](OfficeDevPnP.Core.Utilities.OrderByField.ctor2.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

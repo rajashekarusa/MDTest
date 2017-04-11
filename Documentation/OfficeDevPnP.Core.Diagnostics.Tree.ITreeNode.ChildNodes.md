@@ -12,5 +12,5 @@ public IEnumerable<ITreeNode> ChildNodes { get; }
 Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode>  
 
 ## See also
-- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)
 - [ITreeNode](OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode.md) 
+- [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md) 

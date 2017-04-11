@@ -5,8 +5,6 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy
 System.Object  
-
-
 ## Syntax
 ```C#
 public class ContentTypeBinding
@@ -14,7 +12,7 @@ public class ContentTypeBinding
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTypeBinding.ctor1.md) | 
+| [ContentTypeBinding()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTypeBinding.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
