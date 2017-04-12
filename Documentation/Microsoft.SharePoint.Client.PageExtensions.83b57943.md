@@ -46,7 +46,7 @@ public static WebPartDefinition AddWebPartToWikiPage(Web web, String serverRelat
 
 ### Return Value
 Type: WebPartDefinition  
-Returns the added Microsoft.SharePoint.Client.WebParts.WebPartDefinition object 
+Returns the added Microsoft.SharePoint.Client.WebParts.WebPartDefinition object  
 
 
 ## See also

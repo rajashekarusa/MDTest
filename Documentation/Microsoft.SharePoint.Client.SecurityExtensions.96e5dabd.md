@@ -24,6 +24,7 @@ public static List<ExternalUserEntity> GetExternalUsersForSiteTenant(Web web, Ur
 Type: List<ExternalUserEntity>  
 A list of  [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)  objects  
 
+
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)

@@ -16,7 +16,7 @@ public static EcmRecordDeclarationBy GetRecordDeclarationBy(Site site)
 
 ### Return Value
 Type: EcmRecordDeclarationBy  
- OfficeDevPnP.Core.EcmRecordDeclarationBy enum that defines who can declare a record 
+ OfficeDevPnP.Core.EcmRecordDeclarationBy enum that defines who can declare a record  
 
 
 ## See also

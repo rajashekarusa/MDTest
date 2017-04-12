@@ -1,5 +1,6 @@
 # ClientSideWebPart
 This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)   
+
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Inheritance Hierarchy

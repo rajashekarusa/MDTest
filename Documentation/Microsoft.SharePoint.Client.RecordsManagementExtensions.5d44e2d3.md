@@ -16,7 +16,7 @@ public static EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
 
 ### Return Value
 Type: EcmSiteRecordRestrictions  
- OfficeDevPnP.Core.EcmSiteRecordRestrictions enum that defines the current restrictions 
+ OfficeDevPnP.Core.EcmSiteRecordRestrictions enum that defines the current restrictions  
 
 
 ## See also

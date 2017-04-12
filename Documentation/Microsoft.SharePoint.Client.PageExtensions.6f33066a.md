@@ -30,6 +30,7 @@ public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean
 Type: ClientSidePage  
 A  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  instance  
 
+
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)

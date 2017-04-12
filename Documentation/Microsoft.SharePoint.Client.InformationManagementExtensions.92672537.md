@@ -18,6 +18,7 @@ public static List<SitePolicyEntity> GetSitePolicies(Web web)
 Type: List<SitePolicyEntity>  
 A list of  [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  objects  
 
+
 ## See also
 - [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
 - [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)

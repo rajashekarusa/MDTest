@@ -28,7 +28,7 @@ public static X509Certificate2 LoadCertificate(StoreName storeName, StoreLocatio
 
 ### Return Value
 Type: X509Certificate2  
-An System.Security.Cryptography.X509Certificates.X509Certificate2 certificate 
+An System.Security.Cryptography.X509Certificates.X509Certificate2 certificate  
 
 
 ## See also

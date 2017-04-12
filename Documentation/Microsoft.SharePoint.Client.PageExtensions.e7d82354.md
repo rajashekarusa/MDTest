@@ -28,7 +28,7 @@ public static WebPartDefinition AddWebPartToWebPartPage(Web web, String serverRe
 
 ### Return Value
 Type: WebPartDefinition  
-Returns the added Microsoft.SharePoint.Client.WebParts.WebPartDefinition object 
+Returns the added Microsoft.SharePoint.Client.WebParts.WebPartDefinition object  
 
 
 ## See also

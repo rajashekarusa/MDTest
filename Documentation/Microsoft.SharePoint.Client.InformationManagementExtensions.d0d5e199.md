@@ -18,6 +18,7 @@ public static SitePolicyEntity GetAppliedSitePolicy(Web web)
 Type: SitePolicyEntity  
 A  [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  object holding the applied policy  
 
+
 ## See also
 - [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
 - [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)

@@ -18,6 +18,7 @@ public static IList<SiteEntity> GetOneDriveSiteCollections(Tenant tenant)
 Type: IList<SiteEntity>  
 List of  [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  objects containing site collection info  
 
+
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)

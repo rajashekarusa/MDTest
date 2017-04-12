@@ -22,7 +22,7 @@ public static List<File> FindFiles(Web web, String match)
 
 ### Return Value
 Type: List<File>  
-A list with the found Microsoft.SharePoint.Client.File objects 
+A list with the found Microsoft.SharePoint.Client.File objects  
 
 
 ## See also

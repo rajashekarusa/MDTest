@@ -24,6 +24,7 @@ public static ClientSidePage LoadClientSidePage(Web web, String pageName)
 Type: ClientSidePage  
 A  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  instance  
 
+
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
