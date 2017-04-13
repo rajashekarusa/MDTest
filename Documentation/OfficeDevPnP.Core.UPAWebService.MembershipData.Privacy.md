@@ -11,8 +11,9 @@ public Privacy Privacy { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.UPAWebService.Privacy](OfficeDevPnP.Core.UPAWebService.Privacy.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

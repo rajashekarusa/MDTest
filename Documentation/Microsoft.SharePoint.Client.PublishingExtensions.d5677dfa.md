@@ -65,6 +65,8 @@ public static void AddPublishingPage(Web web, String pageName, String pageTempla
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
 - System.ArgumentNullException

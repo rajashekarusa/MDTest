@@ -17,6 +17,8 @@ public static Guid ToGuid(String input)
 ### Return Value
 Type: Guid  
 
+## Remarks
+  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

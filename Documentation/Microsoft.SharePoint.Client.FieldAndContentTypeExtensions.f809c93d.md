@@ -23,8 +23,9 @@ public static void SetDefaultContentTypeToList(List list, String contentTypeId)
 ### Return Value
 Type: void  
 
-## Remarks 
+## Remarks
 Notice. Currently removes other content types from the list. Known issue
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

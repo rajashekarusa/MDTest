@@ -11,8 +11,9 @@ public bool EnableAttachments { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

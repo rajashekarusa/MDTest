@@ -37,6 +37,8 @@ Type: bool
 True if deleted  
 
 
+## Remarks
+  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

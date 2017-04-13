@@ -11,8 +11,9 @@ public string Contents { get; set; }
 ### Property Value
 Type: System.String  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [WikiPageWebPart](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

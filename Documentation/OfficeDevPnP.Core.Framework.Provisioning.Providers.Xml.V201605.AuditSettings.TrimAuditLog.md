@@ -11,8 +11,9 @@ public bool TrimAuditLog { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [AuditSettings](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettings.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

@@ -25,6 +25,8 @@ Type: bool
   
 
 
+## Remarks
+  
 ## See also
 - [JavaScriptExtensions](Microsoft.SharePoint.Client.JavaScriptExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

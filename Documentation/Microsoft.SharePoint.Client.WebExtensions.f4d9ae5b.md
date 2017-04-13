@@ -25,10 +25,9 @@ Type: Web
 The requested Web, if it exists, otherwise null.  
 
 
-## Remarks 
-
-            The ServerRelativeUrl property of the retrieved Web is instantiated.
-            
+## Remarks
+ The ServerRelativeUrl property of the retrieved Web is instantiated. 
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

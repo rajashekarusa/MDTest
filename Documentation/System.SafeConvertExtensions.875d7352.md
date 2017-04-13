@@ -23,6 +23,8 @@ public static double ToDouble(String input, Double defaultValue)
 ### Return Value
 Type: double  
 
+## Remarks
+  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

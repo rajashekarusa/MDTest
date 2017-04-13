@@ -23,6 +23,8 @@ public static bool Missing(Enum obj, T value)
 ### Return Value
 Type: bool  
 
+## Remarks
+  
 ## See also
 - [EnumerationExtensions](System.EnumerationExtensions.md) 
 - [System](System.md) 

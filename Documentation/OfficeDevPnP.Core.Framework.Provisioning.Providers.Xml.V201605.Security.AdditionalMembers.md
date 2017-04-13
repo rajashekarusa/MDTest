@@ -11,8 +11,9 @@ public User[] AdditionalMembers { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.User[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Security](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Security.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

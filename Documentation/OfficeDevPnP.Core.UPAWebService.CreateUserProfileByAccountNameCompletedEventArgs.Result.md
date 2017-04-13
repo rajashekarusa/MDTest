@@ -11,8 +11,9 @@ public PropertyData[] Result { get; }
 ### Property Value
 Type: OfficeDevPnP.Core.UPAWebService.PropertyData[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [CreateUserProfileByAccountNameCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.CreateUserProfileByAccountNameCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

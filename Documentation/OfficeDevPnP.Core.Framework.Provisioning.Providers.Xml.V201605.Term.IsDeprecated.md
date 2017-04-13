@@ -11,8 +11,9 @@ public bool IsDeprecated { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Term](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Term.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

@@ -11,8 +11,9 @@ public CustomActionCommandUIExtension CommandUIExtension { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.CustomActionCommandUIExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.CustomActionCommandUIExtension.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

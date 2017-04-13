@@ -37,6 +37,8 @@ Type: File
 The uploaded File, so that additional operations (such as setting properties) can be done.  
 
 
+## Remarks
+  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -31,6 +31,8 @@ Type: Byte[]
 Decrypted bytes  
 
 
+## Remarks
+  
 ## See also
 - [X509CertificateUtility](OfficeDevPnP.Core.Utilities.X509CertificateUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

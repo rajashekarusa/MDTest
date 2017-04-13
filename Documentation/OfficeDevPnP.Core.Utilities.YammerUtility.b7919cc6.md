@@ -37,6 +37,8 @@ Type: WebPartEntity
   
 
 
+## Remarks
+  
 ## See also
 - [YammerUtility](OfficeDevPnP.Core.Utilities.YammerUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

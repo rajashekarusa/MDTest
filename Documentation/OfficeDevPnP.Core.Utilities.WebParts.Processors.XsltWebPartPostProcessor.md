@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class XsltWebPartPostProcessor:IWebPartPostProcessor
+public class XsltWebPartPostProcessor: IWebPartPostProcessor
 ```
 ## Constructors
 |**Name**|**Description**|

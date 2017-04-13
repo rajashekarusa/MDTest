@@ -25,6 +25,8 @@ Type: bool
 True if applied, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

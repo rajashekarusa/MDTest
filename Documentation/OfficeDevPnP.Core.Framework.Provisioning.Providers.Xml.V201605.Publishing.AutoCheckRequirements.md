@@ -11,8 +11,9 @@ public PublishingAutoCheckRequirements AutoCheckRequirements { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingAutoCheckRequirements](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingAutoCheckRequirements.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Publishing](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Publishing.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

@@ -47,8 +47,9 @@ public void AddColleagueAsync(String accountName, String colleagueAccountName, S
 ### Return Value
 Type: void  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

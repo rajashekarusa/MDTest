@@ -19,6 +19,8 @@ Type: bool
 True if app-only, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

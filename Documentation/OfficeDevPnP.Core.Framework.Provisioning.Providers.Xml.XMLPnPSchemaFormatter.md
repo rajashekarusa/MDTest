@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class XMLPnPSchemaFormatter:ITemplateFormatter
+public class XMLPnPSchemaFormatter: ITemplateFormatter
 ```
 ## Constructors
 |**Name**|**Description**|

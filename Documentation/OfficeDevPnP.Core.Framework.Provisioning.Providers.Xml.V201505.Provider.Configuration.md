@@ -11,8 +11,9 @@ public XmlNode Configuration { get; set; }
 ### Property Value
 Type: System.Xml.XmlNode  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Provider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Provider.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

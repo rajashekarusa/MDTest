@@ -56,8 +56,7 @@ public static class ListExtensions
 | [UpdateTaxonomyFieldDefaultValue(Web, String, String, String, Guid, Guid)](Microsoft.SharePoint.Client.ListExtensions.24c445b5.md) | Sets the default value for a managed metadata column in the specified list. This operation will not change existing items in the list
 ## Examples
 ```C#
-
-                list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
+list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
             
 ```
 

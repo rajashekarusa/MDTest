@@ -25,10 +25,9 @@ Type: bool
 true if the folder exists; false otherwise  
 
 
-## Remarks 
-
-            Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters.
-            
+## Remarks
+ Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters. 
+  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

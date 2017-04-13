@@ -23,6 +23,8 @@ public static void SetRecordRestrictions(Site site, EcmSiteRecordRestrictions re
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)

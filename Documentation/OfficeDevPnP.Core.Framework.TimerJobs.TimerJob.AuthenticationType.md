@@ -11,6 +11,8 @@ public AuthenticationType AuthenticationType { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType](OfficeDevPnP.Core.Framework.TimerJobs.Enums.AuthenticationType.md)  
 
+## Remarks
+  
 ## See also
 - [TimerJob](OfficeDevPnP.Core.Framework.TimerJobs.TimerJob.md) 
 - [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md) 

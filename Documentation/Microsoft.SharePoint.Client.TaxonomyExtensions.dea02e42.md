@@ -55,26 +55,15 @@ Type: TermSet
 The created, or updated, term set  
 
 
-## Remarks 
-
-            The format of the file is the same as that used by the import function in the 
-            web interface. A sample file can be obtained from the web interface.
-            
-            This is a CSV file, with the following headings:
-            Term Set Name,Term Set Description,LCID,Available for Tagging,Term Description,Level 1 Term,Level 2 Term,Level 3 Term,Level 4 Term,Level 5 Term,Level 6 Term,Level 7 Term
-            The first data row must contain the Term Set Name, Term Set Description, and LCID, and should also contain the first term. 
-            
-            It is recommended that a fixed GUID be used as the termSetId, to allow the term set to be easily updated (so do not pass Guid.Empty).
-            
-            In contrast to the web interface import, this is not a one-off import but runs synchronisation logic allowing updating of an existing Term Set.
-            When synchronising, any existing terms are matched (with Term Description and Available for Tagging updated as necessary),
-            any new terms are added in the correct place in the hierarchy, and (if synchroniseDeletions is set) any terms not in the imported file 
-            are removed.
-            
-            The import file also supports an expanded syntax for the Term Set Name and term names (Level 1 Term, Level 2 Term, etc).
-            These columns support values with the format "Name|GUID", with the name and GUID separated by a pipe character (note that the pipe character is invalid to use within a taxomony item name).
-            This expanded syntax is not required, but can be used to ensure all terms have fixed IDs.
-            
+## Remarks
+ The format of the file is the same as that used by the import function in the web interface. A sample file can be obtained from the web interface. 
+ This is a CSV file, with the following headings: 
+Term Set Name,Term Set Description,LCID,Available for Tagging,Term Description,Level 1 Term,Level 2 Term,Level 3 Term,Level 4 Term,Level 5 Term,Level 6 Term,Level 7 Term
+ The first data row must contain the Term Set Name, Term Set Description, and LCID, and should also contain the first term. 
+ It is recommended that a fixed GUID be used as the termSetId, to allow the term set to be easily updated (so do not pass Guid.Empty). 
+ In contrast to the web interface import, this is not a one-off import but runs synchronisation logic allowing updating of an existing Term Set. When synchronising, any existing terms are matched (with Term Description and Available for Tagging updated as necessary), any new terms are added in the correct place in the hierarchy, and (if synchroniseDeletions is set) any terms not in the imported file are removed. 
+ The import file also supports an expanded syntax for the Term Set Name and term names (Level 1 Term, Level 2 Term, etc). These columns support values with the format "Name|GUID", with the name and GUID separated by a pipe character (note that the pipe character is invalid to use within a taxomony item name). This expanded syntax is not required, but can be used to ensure all terms have fixed IDs. 
+  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

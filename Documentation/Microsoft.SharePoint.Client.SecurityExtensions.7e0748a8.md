@@ -25,6 +25,8 @@ Type: bool
 True if the group exists, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

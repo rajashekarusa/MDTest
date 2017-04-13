@@ -35,6 +35,8 @@ public static void SetMasterPageByUrl(Web web, String masterPageServerRelativeUr
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

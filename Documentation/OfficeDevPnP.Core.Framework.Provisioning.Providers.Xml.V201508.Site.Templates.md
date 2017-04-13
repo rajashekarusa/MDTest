@@ -11,8 +11,9 @@ public Templates Templates { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Templates.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Site](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Site.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

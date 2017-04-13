@@ -19,6 +19,8 @@ Type: PnPClientContext
 A PnPClientContext object created for the passed site url  
 
 
+## Remarks
+  
 ## See also
 - [PnPClientContext](OfficeDevPnP.Core.PnPClientContext.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

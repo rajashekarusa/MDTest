@@ -59,6 +59,8 @@ public static void CreateComposedLookByUrl(Web web, String lookName, String pale
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

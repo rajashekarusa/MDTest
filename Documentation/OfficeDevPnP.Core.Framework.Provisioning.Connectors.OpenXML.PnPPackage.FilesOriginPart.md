@@ -11,6 +11,8 @@ public PackagePart FilesOriginPart { get; }
 ### Property Value
 Type: System.IO.Packaging.PackagePart  
 
+## Remarks
+  
 ## See also
 - [PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md) 

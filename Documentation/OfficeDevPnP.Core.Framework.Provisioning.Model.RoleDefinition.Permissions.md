@@ -11,6 +11,8 @@ public List<PermissionKind> Permissions { get; }
 ### Property Value
 Type: System.Collections.Generic.List<Microsoft.SharePoint.Client.PermissionKind>  
 
+## Remarks
+  
 ## See also
 - [RoleDefinition](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinition.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

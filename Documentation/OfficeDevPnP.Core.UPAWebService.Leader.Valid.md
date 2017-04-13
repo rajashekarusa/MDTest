@@ -11,8 +11,9 @@ public bool Valid { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Leader](OfficeDevPnP.Core.UPAWebService.Leader.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

@@ -19,6 +19,8 @@ Type: string
   
 
 
+## Remarks
+  
 ## See also
 - [UrlUtility](OfficeDevPnP.Core.Utilities.UrlUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

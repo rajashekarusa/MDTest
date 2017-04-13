@@ -31,6 +31,8 @@ Type: string
 Value of the property bag entry as string  
 
 
+## Remarks
+  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

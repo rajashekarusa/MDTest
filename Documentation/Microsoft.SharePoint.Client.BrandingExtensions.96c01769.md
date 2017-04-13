@@ -25,6 +25,8 @@ Type: ListItem
 ListItem holding the page layout, null if not found  
 
 
+## Remarks
+  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

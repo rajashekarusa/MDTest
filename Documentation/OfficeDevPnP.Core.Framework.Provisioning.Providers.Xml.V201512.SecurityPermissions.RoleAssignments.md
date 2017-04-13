@@ -11,8 +11,9 @@ public RoleAssignment[] RoleAssignments { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [SecurityPermissions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SecurityPermissions.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

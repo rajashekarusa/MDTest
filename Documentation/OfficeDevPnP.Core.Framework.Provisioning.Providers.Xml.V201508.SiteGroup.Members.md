@@ -11,8 +11,9 @@ public User[] Members { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.User[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

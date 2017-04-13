@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class ProvisioningTemplate:IEquatable<ProvisioningTemplate>
+public class ProvisioningTemplate: IEquatable<ProvisioningTemplate>
 ```
 ## Constructors
 |**Name**|**Description**|

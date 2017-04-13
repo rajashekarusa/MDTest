@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class PnPPackage:IDisposable
+public class PnPPackage: IDisposable
 ```
 ## Constructors
 |**Name**|**Description**|

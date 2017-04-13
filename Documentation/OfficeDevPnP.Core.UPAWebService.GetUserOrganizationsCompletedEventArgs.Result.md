@@ -11,8 +11,9 @@ public OrganizationProfileData[] Result { get; }
 ### Property Value
 Type: OfficeDevPnP.Core.UPAWebService.OrganizationProfileData[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetUserOrganizationsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserOrganizationsCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

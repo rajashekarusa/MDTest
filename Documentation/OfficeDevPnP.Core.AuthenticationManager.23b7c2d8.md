@@ -53,6 +53,8 @@ public void RefreshADFSUserNameMixedAuthenticatedContext(String siteUrl, String 
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

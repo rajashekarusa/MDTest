@@ -11,8 +11,9 @@ public int MaximumShown { get; set; }
 ### Property Value
 Type: System.Int32  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [PropertyInfo](OfficeDevPnP.Core.UPAWebService.PropertyInfo.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

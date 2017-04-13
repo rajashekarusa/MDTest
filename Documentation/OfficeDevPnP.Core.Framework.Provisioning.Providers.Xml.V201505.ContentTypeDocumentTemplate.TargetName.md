@@ -11,8 +11,9 @@ public string TargetName { get; set; }
 ### Property Value
 Type: System.String  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [ContentTypeDocumentTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeDocumentTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

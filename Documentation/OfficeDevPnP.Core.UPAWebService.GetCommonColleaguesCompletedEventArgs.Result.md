@@ -11,8 +11,9 @@ public ContactData[] Result { get; }
 ### Property Value
 Type: OfficeDevPnP.Core.UPAWebService.ContactData[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetCommonColleaguesCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonColleaguesCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

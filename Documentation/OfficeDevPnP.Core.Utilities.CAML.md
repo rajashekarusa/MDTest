@@ -39,8 +39,7 @@ public static class CAML
 | [Where(String)](OfficeDevPnP.Core.Utilities.CAML.93c72eea.md) | 
 ## Examples
 ```C#
-
-            CAML.ViewQuery(
+iewQuery(
                 CAML.Where(
                     CAML.And(
                         CAML.Eq(CAML.FieldValue("Project", "Integer", "{0}")),

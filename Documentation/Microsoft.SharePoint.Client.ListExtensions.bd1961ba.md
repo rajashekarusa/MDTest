@@ -29,6 +29,8 @@ public static void SetListPermission(List list, Principal principal, RoleType ro
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

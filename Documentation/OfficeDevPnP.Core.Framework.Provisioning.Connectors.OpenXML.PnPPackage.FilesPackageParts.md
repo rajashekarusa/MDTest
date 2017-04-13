@@ -11,6 +11,8 @@ public IList<PackagePart> FilesPackageParts { get; }
 ### Property Value
 Type: System.Collections.Generic.IList<System.IO.Packaging.PackagePart>  
 
+## Remarks
+  
 ## See also
 - [PnPPackage](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.PnPPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md) 

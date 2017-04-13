@@ -11,8 +11,9 @@ public Guid SourceInternal { get; set; }
 ### Property Value
 Type: System.Guid  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

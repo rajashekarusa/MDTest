@@ -25,6 +25,8 @@ Type: Folder
 The found Microsoft.SharePoint.Client.Folder if available, null otherwise  
 
 
+## Remarks
+  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - Microsoft.SharePoint.Client.Folder

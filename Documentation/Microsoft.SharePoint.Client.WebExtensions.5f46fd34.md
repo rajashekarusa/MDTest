@@ -25,6 +25,8 @@ Type: bool
 true if the Web (site) exists; otherwise false  
 
 
+## Remarks
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

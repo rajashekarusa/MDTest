@@ -11,8 +11,9 @@ public StructuralNavigation StructuralNavigation { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [NavigationGlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationGlobalNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

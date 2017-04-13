@@ -19,6 +19,8 @@ Type: string
 Public key of the certificate  
 
 
+## Remarks
+  
 ## See also
 - [X509CertificateUtility](OfficeDevPnP.Core.Utilities.X509CertificateUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

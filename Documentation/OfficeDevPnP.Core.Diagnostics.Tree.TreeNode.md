@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class TreeNode:ITreeNode, ITreeNode
+public class TreeNode: ITreeNode, ITreeNode
 ```
 ## Constructors
 |**Name**|**Description**|

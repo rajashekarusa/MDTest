@@ -25,6 +25,8 @@ Type: ClientContext
 Client context object  
 
 
+## Remarks
+  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

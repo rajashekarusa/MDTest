@@ -11,6 +11,8 @@ public FolderCollection Folders { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection.md)  
 
+## Remarks
+  
 ## See also
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Model.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

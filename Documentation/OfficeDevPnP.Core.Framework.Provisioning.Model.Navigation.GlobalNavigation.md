@@ -11,6 +11,8 @@ public GlobalNavigation GlobalNavigation { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md)  
 
+## Remarks
+  
 ## See also
 - [Navigation](OfficeDevPnP.Core.Framework.Provisioning.Model.Navigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

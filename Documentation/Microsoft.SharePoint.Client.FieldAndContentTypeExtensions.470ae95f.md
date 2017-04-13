@@ -25,6 +25,8 @@ Type: bool
 True if field exists in content type, otherwise false  
 
 
+## Remarks
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

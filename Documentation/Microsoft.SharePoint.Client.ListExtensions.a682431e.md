@@ -29,6 +29,8 @@ public static void CreateViewsFromXMLString(Web web, String listUrl, String xmlS
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

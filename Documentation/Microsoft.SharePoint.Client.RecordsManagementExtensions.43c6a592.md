@@ -19,6 +19,8 @@ Type: bool
 True if in place records management is enabled, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

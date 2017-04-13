@@ -11,8 +11,9 @@ public int LanguageCode { get; set; }
 ### Property Value
 Type: System.Int32  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [PublishingWebTemplate](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.PublishingWebTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

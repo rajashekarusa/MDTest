@@ -19,6 +19,8 @@ Type: ProvisioningTemplate
 The resulting template, after post-processing  
 
 
+## Remarks
+  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

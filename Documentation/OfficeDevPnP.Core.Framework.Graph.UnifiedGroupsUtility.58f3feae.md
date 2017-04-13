@@ -61,6 +61,8 @@ Type: List<UnifiedGroupEntity>
 An IList of SiteEntity objects  
 
 
+## Remarks
+  
 ## See also
 - [UnifiedGroupsUtility](OfficeDevPnP.Core.Framework.Graph.UnifiedGroupsUtility.md) 
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md) 

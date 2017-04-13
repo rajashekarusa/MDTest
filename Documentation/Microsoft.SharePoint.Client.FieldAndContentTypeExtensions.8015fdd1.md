@@ -35,6 +35,8 @@ public static void AddContentTypeToList(Web web, String listTitle, ContentType c
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

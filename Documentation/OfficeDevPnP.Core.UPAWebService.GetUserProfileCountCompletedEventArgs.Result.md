@@ -11,8 +11,9 @@ public long Result { get; }
 ### Property Value
 Type: System.Int64  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetUserProfileCountCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserProfileCountCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

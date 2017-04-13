@@ -23,6 +23,8 @@ public static void DeleteCustomAction(Site site, Guid id)
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [GetCustomActions](Microsoft.SharePoint.Client.NavigationExtensions.eac0e89b.md)

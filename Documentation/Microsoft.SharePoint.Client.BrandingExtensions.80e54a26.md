@@ -53,6 +53,8 @@ public static File DeployMasterPage(Web web, String sourceFilePath, String title
 ### Return Value
 Type: File  
 
+## Remarks
+  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

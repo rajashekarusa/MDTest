@@ -11,8 +11,9 @@ public AuditSettingsAuditAuditFlag AuditFlag { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AuditSettingsAuditAuditFlag](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AuditSettingsAuditAuditFlag.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [AuditSettingsAudit](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.AuditSettingsAudit.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

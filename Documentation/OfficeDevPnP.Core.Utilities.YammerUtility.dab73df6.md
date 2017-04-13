@@ -43,6 +43,8 @@ Type: string
 The constructed web part XML  
 
 
+## Remarks
+  
 ## See also
 - [YammerUtility](OfficeDevPnP.Core.Utilities.YammerUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

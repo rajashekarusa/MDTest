@@ -23,6 +23,8 @@ public static void EnableResponsiveUI(Web web, String infrastructureUrl)
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

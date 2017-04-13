@@ -11,8 +11,9 @@ public bool Default { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

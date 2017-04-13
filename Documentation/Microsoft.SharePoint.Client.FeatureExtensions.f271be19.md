@@ -35,6 +35,8 @@ public static void ActivateFeature(Web web, Guid featureID, Boolean sandboxed, I
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [FeatureExtensions](Microsoft.SharePoint.Client.FeatureExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

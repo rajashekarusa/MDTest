@@ -41,6 +41,8 @@ public static void AddFieldToContentType(Web web, ContentType contentType, Field
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -17,6 +17,8 @@ public static List<Dictionary<String, String>> GetDefaultColumnValues(List list)
 ### Return Value
 Type: List<Dictionary<String,  String>>  
 
+## Remarks
+  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

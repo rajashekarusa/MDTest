@@ -11,8 +11,9 @@ public string PackageGuid { get; set; }
 ### Property Value
 Type: System.String  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [PublishingDesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingDesignPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

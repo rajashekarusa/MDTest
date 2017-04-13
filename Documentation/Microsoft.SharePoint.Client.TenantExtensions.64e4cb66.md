@@ -25,6 +25,8 @@ Type: Guid
 The Guid of a site collection or an Guid.Empty if the Site does not exist  
 
 
+## Remarks
+  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

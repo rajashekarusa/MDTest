@@ -19,11 +19,9 @@ Type: IEnumerable<String>
 An enumeration containing the full URLs as strings.  
 
 
-## Remarks 
-
-            This is analagous to the SPSite.AllWebs property and can be used to get a collection
-            of all web site URLs to loop through, e.g. for branding.
-            
+## Remarks
+ This is analagous to the SPSite.AllWebs property and can be used to get a collection of all web site URLs to loop through, e.g. for branding. 
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

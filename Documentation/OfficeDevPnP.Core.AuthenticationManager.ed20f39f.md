@@ -43,6 +43,8 @@ Type: void
 ClientContext to be used by CSOM code  
 
 
+## Remarks
+  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

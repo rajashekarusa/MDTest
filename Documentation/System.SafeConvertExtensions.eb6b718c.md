@@ -17,6 +17,8 @@ public static bool ToBoolean(String input)
 ### Return Value
 Type: bool  
 
+## Remarks
+  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

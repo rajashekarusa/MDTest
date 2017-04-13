@@ -23,6 +23,8 @@ public static T Include(Enum value, T append)
 ### Return Value
 Type: T  
 
+## Remarks
+  
 ## See also
 - [EnumerationExtensions](System.EnumerationExtensions.md) 
 - [System](System.md) 

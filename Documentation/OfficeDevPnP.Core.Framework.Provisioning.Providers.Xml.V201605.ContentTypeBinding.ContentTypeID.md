@@ -11,8 +11,9 @@ public string ContentTypeID { get; set; }
 ### Property Value
 Type: System.String  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

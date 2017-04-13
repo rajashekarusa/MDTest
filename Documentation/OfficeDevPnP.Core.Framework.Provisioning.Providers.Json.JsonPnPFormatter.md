@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class JsonPnPFormatter:ITemplateFormatter
+public class JsonPnPFormatter: ITemplateFormatter
 ```
 ## Constructors
 |**Name**|**Description**|

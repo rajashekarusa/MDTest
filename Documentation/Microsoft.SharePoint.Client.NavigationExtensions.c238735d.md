@@ -25,6 +25,8 @@ Type: bool
 True if action was successfull  
 
 
+## Remarks
+  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

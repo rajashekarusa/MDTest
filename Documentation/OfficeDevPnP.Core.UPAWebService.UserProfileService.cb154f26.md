@@ -29,8 +29,9 @@ public void AddSuggestions(SuggestionType type, String[] suggestions, Double[] w
 ### Return Value
 Type: void  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

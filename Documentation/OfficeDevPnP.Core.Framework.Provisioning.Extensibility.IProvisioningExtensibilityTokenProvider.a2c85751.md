@@ -29,6 +29,8 @@ public IEnumerable<TokenDefinition> GetTokens(ClientContext ctx, ProvisioningTem
 ### Return Value
 Type: IEnumerable<TokenDefinition>  
 
+## Remarks
+  
 ## See also
 - [IProvisioningExtensibilityTokenProvider](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityTokenProvider.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md) 

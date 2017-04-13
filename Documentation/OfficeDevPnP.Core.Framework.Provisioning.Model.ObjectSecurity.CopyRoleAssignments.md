@@ -11,6 +11,8 @@ public bool CopyRoleAssignments { get; set; }
 ### Property Value
 Type: System.Boolean  
 
+## Remarks
+  
 ## See also
 - [ObjectSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.ObjectSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

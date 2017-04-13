@@ -19,6 +19,8 @@ Type: bool
 True if the server object is null, otherwise false  
 
 
+## Remarks
+  
 ## See also
 - [ClientObjectExtensions](Microsoft.SharePoint.Client.ClientObjectExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

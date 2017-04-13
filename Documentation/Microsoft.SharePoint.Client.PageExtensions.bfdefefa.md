@@ -25,6 +25,8 @@ Type: string
   
 
 
+## Remarks
+  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

@@ -29,8 +29,9 @@ public void AddPinnedLinkAsync(String accountName, String name, String url)
 ### Return Value
 Type: void  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

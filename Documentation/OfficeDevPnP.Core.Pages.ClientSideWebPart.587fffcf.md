@@ -23,6 +23,8 @@ public void Import(ClientSideComponent component, Func<String, String> clientSid
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)

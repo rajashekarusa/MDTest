@@ -25,6 +25,8 @@ Type: bool
 True if a web with the given title exists.  
 
 
+## Remarks
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -19,6 +19,8 @@ Type: Expression<Func<TInput,  Object>>
 New Expression where return type is object and not generic  
 
 
+## Remarks
+  
 ## See also
 - [ClientObjectExtensions](Microsoft.SharePoint.Client.ClientObjectExtensions.md) 
 - System.Linq.Expressions.Expression

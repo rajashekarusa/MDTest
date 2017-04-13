@@ -11,6 +11,8 @@ public static string PnPCoreVersionTag { get; }
 ### Property Value
 Type: System.String  
 
+## Remarks
+  
 ## See also
 - [PnPCoreUtilities](OfficeDevPnP.Core.Utilities.PnPCoreUtilities.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

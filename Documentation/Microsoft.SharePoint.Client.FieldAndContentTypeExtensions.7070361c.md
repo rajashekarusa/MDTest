@@ -29,6 +29,8 @@ public static bool AddContentTypeToList(List list, ContentType contentType, Bool
 ### Return Value
 Type: bool  
 
+## Remarks
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

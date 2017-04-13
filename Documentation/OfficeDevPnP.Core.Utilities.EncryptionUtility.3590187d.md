@@ -25,6 +25,8 @@ Type: string
 Encrypted text  
 
 
+## Remarks
+  
 ## See also
 - [EncryptionUtility](OfficeDevPnP.Core.Utilities.EncryptionUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

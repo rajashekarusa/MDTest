@@ -11,8 +11,9 @@ public StringDictionaryItem[] PropertyDefinitions { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.StringDictionaryItem[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [WorkflowsWorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

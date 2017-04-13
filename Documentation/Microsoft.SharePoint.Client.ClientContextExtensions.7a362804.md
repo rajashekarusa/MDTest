@@ -19,6 +19,8 @@ Type: ClientContext
 A site collection client context object for the site collection  
 
 
+## Remarks
+  
 ## See also
 - [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

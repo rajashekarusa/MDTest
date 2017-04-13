@@ -11,8 +11,9 @@ public Sequence[] Sequence { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Sequence[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Provisioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Provisioning.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

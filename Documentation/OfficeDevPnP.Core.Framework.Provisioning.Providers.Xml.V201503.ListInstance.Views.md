@@ -11,8 +11,9 @@ public ListInstanceViews Views { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstanceViews](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstanceViews.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [ListInstance](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstance.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md) 

@@ -11,8 +11,9 @@ public String[] Result { get; }
 ### Property Value
 Type: System.String[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetPropertyChoiceListCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetPropertyChoiceListCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

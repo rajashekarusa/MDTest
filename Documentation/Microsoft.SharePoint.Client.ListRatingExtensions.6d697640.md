@@ -23,6 +23,8 @@ public static void SetRating(List list, VotingExperience experience)
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ListRatingExtensions](Microsoft.SharePoint.Client.ListRatingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

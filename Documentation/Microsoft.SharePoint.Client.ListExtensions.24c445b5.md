@@ -47,6 +47,8 @@ public static void UpdateTaxonomyFieldDefaultValue(Web web, String termName, Str
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

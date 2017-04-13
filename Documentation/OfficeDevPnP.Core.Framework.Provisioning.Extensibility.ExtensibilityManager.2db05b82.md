@@ -47,10 +47,9 @@ public void ExecuteExtensibilityProvisionCallOut(ClientContext ctx, Extensibilit
 ### Return Value
 Type: void  
 
-## Remarks 
-
-            Ensure the ClientContext is not disposed in the custom provider.
-            
+## Remarks
+ Ensure the ClientContext is not disposed in the custom provider. 
+  
 ## See also
 - [ExtensibilityManager](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.md)

@@ -23,6 +23,8 @@ public static void ValidateNotNullOrEmpty(T input, String variableName)
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ValidationExtensions](System.ValidationExtensions.md) 
 - System.ArgumentException

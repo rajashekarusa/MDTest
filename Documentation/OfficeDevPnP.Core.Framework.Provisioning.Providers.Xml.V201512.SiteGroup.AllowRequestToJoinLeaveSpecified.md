@@ -11,8 +11,9 @@ public bool AllowRequestToJoinLeaveSpecified { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

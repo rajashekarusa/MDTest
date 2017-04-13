@@ -19,6 +19,8 @@ Type: ClientContext
 A valid ClientContext object  
 
 
+## Remarks
+  
 ## See also
 - [WebAPIHelper](OfficeDevPnP.Core.WebAPI.WebAPIHelper.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

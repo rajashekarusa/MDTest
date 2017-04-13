@@ -11,8 +11,9 @@ public MembershipData[] Result { get; }
 ### Property Value
 Type: OfficeDevPnP.Core.UPAWebService.MembershipData[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetCommonMembershipsCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonMembershipsCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

@@ -29,6 +29,8 @@ public void ExecuteExtensibilityCallOut(ClientContext ctx, ExtensibilityHandler 
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ExtensibilityManager](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensibilityManager.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.ExtensiblityPipelineException.md)

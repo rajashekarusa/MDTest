@@ -47,6 +47,8 @@ public static void DeployHtmlPageLayout(Web web, String sourceFilePath, String t
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

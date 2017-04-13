@@ -11,11 +11,9 @@ public string ListId { get; set; }
 ### Property Value
 Type: System.String  
 
-## Remarks 
-
-            Optional and if it is missing, the workflow subscription will 
-            be at Site level
-            
+## Remarks
+ Optional and if it is missing, the workflow subscription will be at Site level 
+  
 ## See also
 - [WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

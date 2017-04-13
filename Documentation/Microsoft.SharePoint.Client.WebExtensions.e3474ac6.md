@@ -19,6 +19,8 @@ Type: IEnumerable<String>
 The request access e-mail addresses of the web.  
 
 
+## Remarks
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

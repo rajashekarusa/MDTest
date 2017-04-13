@@ -11,8 +11,9 @@ public InCommonData Result { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.UPAWebService.InCommonData](OfficeDevPnP.Core.UPAWebService.InCommonData.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetInCommonCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetInCommonCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

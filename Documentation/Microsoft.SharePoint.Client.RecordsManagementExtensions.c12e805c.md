@@ -19,6 +19,8 @@ Type: bool
 True if auto record declaration is active, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -19,8 +19,9 @@ Type: T
 The target item matching the find predicate  
 
 
-## Remarks 
+## Remarks
 We implemented this to adhere to the generic List of T behavior
+  
 ## See also
 - [ProvisioningTemplateCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplateCollection.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

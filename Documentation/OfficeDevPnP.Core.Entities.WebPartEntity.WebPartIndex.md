@@ -11,6 +11,8 @@ public int WebPartIndex { get; set; }
 ### Property Value
 Type: System.Int32  
 
+## Remarks
+  
 ## See also
 - [WebPartEntity](OfficeDevPnP.Core.Entities.WebPartEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

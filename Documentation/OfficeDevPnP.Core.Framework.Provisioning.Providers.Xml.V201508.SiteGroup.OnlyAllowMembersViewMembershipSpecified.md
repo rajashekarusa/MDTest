@@ -11,8 +11,9 @@ public bool OnlyAllowMembersViewMembershipSpecified { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [SiteGroup](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SiteGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

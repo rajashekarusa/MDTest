@@ -11,6 +11,8 @@ public BasePermissions Rights { get; set; }
 ### Property Value
 Type: Microsoft.SharePoint.Client.BasePermissions  
 
+## Remarks
+  
 ## See also
 - [CustomAction](OfficeDevPnP.Core.Framework.Provisioning.Model.CustomAction.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

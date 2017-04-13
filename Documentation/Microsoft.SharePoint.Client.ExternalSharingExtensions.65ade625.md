@@ -31,6 +31,8 @@ Type: string
 Anonymous URL to the file as string  
 
 
+## Remarks
+  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

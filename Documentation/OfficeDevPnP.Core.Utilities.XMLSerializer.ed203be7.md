@@ -19,6 +19,8 @@ Type: string
 An string that represents the serialized object.  
 
 
+## Remarks
+  
 ## See also
 - [XMLSerializer](OfficeDevPnP.Core.Utilities.XMLSerializer.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

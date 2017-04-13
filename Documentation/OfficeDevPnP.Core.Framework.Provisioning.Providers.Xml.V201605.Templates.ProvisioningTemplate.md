@@ -11,8 +11,9 @@ public ProvisioningTemplate[] ProvisioningTemplate { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ProvisioningTemplate[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Templates](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Templates.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

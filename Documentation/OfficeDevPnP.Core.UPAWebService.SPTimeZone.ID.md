@@ -11,8 +11,9 @@ public ushort ID { get; set; }
 ### Property Value
 Type: System.UInt16  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [SPTimeZone](OfficeDevPnP.Core.UPAWebService.SPTimeZone.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

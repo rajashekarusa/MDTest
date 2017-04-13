@@ -11,8 +11,9 @@ public int ReportCount { get; set; }
 ### Property Value
 Type: System.Int32  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Leader](OfficeDevPnP.Core.UPAWebService.Leader.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

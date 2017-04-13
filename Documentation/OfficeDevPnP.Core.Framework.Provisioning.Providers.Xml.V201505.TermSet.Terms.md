@@ -11,8 +11,9 @@ public Term[] Terms { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Term[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TermSet.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

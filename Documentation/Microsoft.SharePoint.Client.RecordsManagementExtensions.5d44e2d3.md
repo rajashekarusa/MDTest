@@ -19,6 +19,8 @@ Type: EcmSiteRecordRestrictions
  OfficeDevPnP.Core.EcmSiteRecordRestrictions enum that defines the current restrictions  
 
 
+## Remarks
+  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)

@@ -11,8 +11,9 @@ public int Language { get; set; }
 ### Property Value
 Type: System.Int32  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [TermSet](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermSet.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

@@ -11,8 +11,9 @@ public QuickLinkData[] Result { get; }
 ### Property Value
 Type: OfficeDevPnP.Core.UPAWebService.QuickLinkData[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetUserLinksCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetUserLinksCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

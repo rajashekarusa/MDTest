@@ -11,8 +11,9 @@ public Feature[] SiteFeatures { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Feature[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Features](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Features.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

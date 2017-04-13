@@ -47,6 +47,8 @@ public void Provision(ClientContext ctx, ProvisioningTemplate template, Provisio
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [IProvisioningExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityHandler.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md) 

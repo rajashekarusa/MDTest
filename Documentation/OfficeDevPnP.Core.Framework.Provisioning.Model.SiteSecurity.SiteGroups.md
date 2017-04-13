@@ -11,6 +11,8 @@ public SiteGroupCollection SiteGroups { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteGroupCollection.md)  
 
+## Remarks
+  
 ## See also
 - [SiteSecurity](OfficeDevPnP.Core.Framework.Provisioning.Model.SiteSecurity.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

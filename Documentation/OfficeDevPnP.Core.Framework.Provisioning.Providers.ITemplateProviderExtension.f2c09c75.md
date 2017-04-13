@@ -17,6 +17,8 @@ public void Initialize(Object settings)
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

@@ -43,6 +43,8 @@ Type: ClientContext
   
 
 
+## Remarks
+  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

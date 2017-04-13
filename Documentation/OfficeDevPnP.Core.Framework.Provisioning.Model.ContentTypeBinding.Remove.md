@@ -11,6 +11,8 @@ public bool Remove { get; set; }
 ### Property Value
 Type: System.Boolean  
 
+## Remarks
+  
 ## See also
 - [ContentTypeBinding](OfficeDevPnP.Core.Framework.Provisioning.Model.ContentTypeBinding.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

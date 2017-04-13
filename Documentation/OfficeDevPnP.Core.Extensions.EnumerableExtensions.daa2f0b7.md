@@ -25,6 +25,8 @@ Type: bool
 Wether the two enumerations are deep equal  
 
 
+## Remarks
+  
 ## See also
 - [EnumerableExtensions](OfficeDevPnP.Core.Extensions.EnumerableExtensions.md) 
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md) 

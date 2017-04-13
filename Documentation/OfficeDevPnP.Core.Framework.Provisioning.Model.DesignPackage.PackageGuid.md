@@ -11,6 +11,8 @@ public Guid PackageGuid { get; set; }
 ### Property Value
 Type: System.Guid  
 
+## Remarks
+  
 ## See also
 - [DesignPackage](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

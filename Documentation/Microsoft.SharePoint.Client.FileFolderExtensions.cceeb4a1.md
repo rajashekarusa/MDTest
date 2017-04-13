@@ -31,11 +31,14 @@ Type: Folder
 The created Folder representing the document set, so that additional operations (such as setting properties) can be done.  
 
 
-## Remarks 
+## Remarks
 
-                var setContentType = list.BestMatchContentTypeId(BuiltInContentTypeId.DocumentSet);
-                var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
+```C#
+var setContentType = list.BestMatchContentTypeId(BuiltInContentTypeId.DocumentSet);
+var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
             
+```
+  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

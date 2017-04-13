@@ -55,6 +55,8 @@ Type: string
 The simple link URL just created.  
 
 
+## Remarks
+  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

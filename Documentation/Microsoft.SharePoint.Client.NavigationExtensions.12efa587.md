@@ -25,6 +25,8 @@ Type: NavigationTermSet
 The editable Global Navigation TermSet  
 
 
+## Remarks
+  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

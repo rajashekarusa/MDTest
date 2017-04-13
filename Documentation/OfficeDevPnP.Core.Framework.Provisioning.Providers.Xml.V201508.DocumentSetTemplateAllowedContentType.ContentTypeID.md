@@ -11,8 +11,9 @@ public string ContentTypeID { get; set; }
 ### Property Value
 Type: System.String  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [DocumentSetTemplateAllowedContentType](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.DocumentSetTemplateAllowedContentType.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.md) 

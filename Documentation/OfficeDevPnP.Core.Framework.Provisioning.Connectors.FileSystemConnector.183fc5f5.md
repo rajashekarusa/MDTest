@@ -12,6 +12,8 @@ Type: List<String>
 List of folders  
 
 
+## Remarks
+  
 ## See also
 - [FileSystemConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileSystemConnector.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

@@ -11,6 +11,8 @@ public long StorageUsage { get; set; }
 ### Property Value
 Type: System.Int64  
 
+## Remarks
+  
 ## See also
 - [SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

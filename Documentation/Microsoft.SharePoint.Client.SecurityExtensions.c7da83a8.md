@@ -23,6 +23,8 @@ public static User AddReaderAccess(Web web, BuiltInIdentity user)
 ### Return Value
 Type: User  
 
+## Remarks
+  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

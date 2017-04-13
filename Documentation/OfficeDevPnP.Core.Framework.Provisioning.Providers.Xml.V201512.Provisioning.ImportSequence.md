@@ -11,8 +11,9 @@ public ImportSequence[] ImportSequence { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ImportSequence[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [Provisioning](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provisioning.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md) 

@@ -17,8 +17,9 @@ public PropertyData[] GetUserProfileByName(String AccountName)
 ### Return Value
 Type: PropertyData[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

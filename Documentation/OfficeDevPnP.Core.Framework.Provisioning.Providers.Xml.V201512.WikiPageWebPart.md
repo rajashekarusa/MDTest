@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class WikiPageWebPart:IXmlSerializable
+public class WikiPageWebPart: IXmlSerializable
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -11,6 +11,8 @@ public string Name { get; set; }
 ### Property Value
 Type: System.String  
 
+## Remarks
+  
 ## See also
 - [Folder](OfficeDevPnP.Core.Framework.Provisioning.Model.Folder.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

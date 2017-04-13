@@ -11,6 +11,8 @@ public string FieldInternalName { get; set; }
 ### Property Value
 Type: System.String  
 
+## Remarks
+  
 ## See also
 - [DefaultColumnValue](OfficeDevPnP.Core.Entities.DefaultColumnValue.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

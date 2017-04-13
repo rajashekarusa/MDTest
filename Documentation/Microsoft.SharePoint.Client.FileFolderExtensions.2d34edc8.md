@@ -25,12 +25,14 @@ Type: Folder
 The newly created folder  
 
 
-## Remarks 
+## Remarks
+ Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters. 
 
-            Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters.
+```C#
+var folder = list.RootFolder.CreateFolder("new-folder");
             
-                var folder = list.RootFolder.CreateFolder("new-folder");
-            
+```
+  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

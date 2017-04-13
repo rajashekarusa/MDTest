@@ -31,6 +31,8 @@ Type: string
 The relative URL of the added wiki page  
 
 
+## Remarks
+  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

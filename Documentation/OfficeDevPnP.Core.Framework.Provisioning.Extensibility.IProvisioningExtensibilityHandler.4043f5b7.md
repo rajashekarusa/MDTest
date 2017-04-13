@@ -43,6 +43,8 @@ Type: ProvisioningTemplate
 The Provisioning Template eventually enriched by the handler during extraction  
 
 
+## Remarks
+  
 ## See also
 - [IProvisioningExtensibilityHandler](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.IProvisioningExtensibilityHandler.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md) 

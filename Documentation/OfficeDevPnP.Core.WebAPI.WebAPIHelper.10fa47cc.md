@@ -17,6 +17,8 @@ public static void AddToCache(WebAPIContext sharePointServiceContext)
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [WebAPIHelper](OfficeDevPnP.Core.WebAPI.WebAPIHelper.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

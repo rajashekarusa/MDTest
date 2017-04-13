@@ -11,8 +11,9 @@ public MemberGroupData MemberGroup { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.UPAWebService.MemberGroupData](OfficeDevPnP.Core.UPAWebService.MemberGroupData.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [MembershipData](OfficeDevPnP.Core.UPAWebService.MembershipData.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

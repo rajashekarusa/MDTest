@@ -25,6 +25,8 @@ Type: PublishingPage
 The PublishingPage object, if any. Otherwise null.  
 
 
+## Remarks
+  
 ## See also
 - [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
 - System.ArgumentNullException

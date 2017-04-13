@@ -35,6 +35,8 @@ public static bool DeleteSiteCollectionFromRecycleBin(Tenant tenant, String site
 ### Return Value
 Type: bool  
 
+## Remarks
+  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

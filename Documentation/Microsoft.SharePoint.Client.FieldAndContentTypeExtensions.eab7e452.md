@@ -25,11 +25,9 @@ Type: ContentTypeId
 The value of the Id property for the content type with the closest match to the value of the specified content type ID.   
 
 
-## Remarks 
-
-            If the search finds multiple matches, the shorter ID is returned. For example, if 0x0101 is the 
-            argument, and the collection contains both 0x010109 and 0x01010901, the method returns 0x010109.
-            
+## Remarks
+ If the search finds multiple matches, the shorter ID is returned. For example, if 0x0101 is the argument, and the collection contains both 0x010109 and 0x01010901, the method returns 0x010109. 
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

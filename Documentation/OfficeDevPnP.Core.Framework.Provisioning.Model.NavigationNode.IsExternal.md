@@ -11,6 +11,8 @@ public bool IsExternal { get; set; }
 ### Property Value
 Type: System.Boolean  
 
+## Remarks
+  
 ## See also
 - [NavigationNode](OfficeDevPnP.Core.Framework.Provisioning.Model.NavigationNode.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

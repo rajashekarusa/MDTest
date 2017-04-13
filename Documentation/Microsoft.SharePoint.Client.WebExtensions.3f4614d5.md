@@ -19,6 +19,8 @@ Type: bool
 True is sub site, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

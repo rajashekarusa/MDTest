@@ -11,6 +11,8 @@ public TermSetCollection TermSets { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection](OfficeDevPnP.Core.Framework.Provisioning.Model.TermSetCollection.md)  
 
+## Remarks
+  
 ## See also
 - [TermGroup](OfficeDevPnP.Core.Framework.Provisioning.Model.TermGroup.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

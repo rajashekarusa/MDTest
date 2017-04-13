@@ -41,6 +41,8 @@ public static void SetLocalizationForField(List list, String siteColumnName, Str
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

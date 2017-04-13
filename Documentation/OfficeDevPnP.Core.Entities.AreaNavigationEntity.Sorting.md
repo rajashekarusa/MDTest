@@ -11,6 +11,8 @@ public StructuralNavigationSorting Sorting { get; set; }
 ### Property Value
 Type: [OfficeDevPnP.Core.Enums.StructuralNavigationSorting](OfficeDevPnP.Core.Enums.StructuralNavigationSorting.md)  
 
+## Remarks
+  
 ## See also
 - [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md) 
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md) 

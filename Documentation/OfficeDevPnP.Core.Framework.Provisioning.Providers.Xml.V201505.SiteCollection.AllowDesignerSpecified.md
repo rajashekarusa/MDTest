@@ -11,8 +11,9 @@ public bool AllowDesignerSpecified { get; set; }
 ### Property Value
 Type: System.Boolean  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [SiteCollection](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.SiteCollection.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.md) 

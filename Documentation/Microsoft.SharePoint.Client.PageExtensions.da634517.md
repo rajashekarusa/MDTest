@@ -41,6 +41,8 @@ public static void SetWebPartProperty(Web web, String key, Int32 value, Guid id,
 ### Return Value
 Type: void  
 
+## Remarks
+  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

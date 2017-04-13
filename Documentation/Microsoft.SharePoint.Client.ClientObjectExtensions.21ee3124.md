@@ -25,6 +25,8 @@ Type: bool
 True if the property is instantiated, false otherwise  
 
 
+## Remarks
+  
 ## See also
 - [ClientObjectExtensions](Microsoft.SharePoint.Client.ClientObjectExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

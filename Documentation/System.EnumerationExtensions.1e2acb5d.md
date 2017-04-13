@@ -23,6 +23,8 @@ public static T Remove(Enum value, T remove)
 ### Return Value
 Type: T  
 
+## Remarks
+  
 ## See also
 - [EnumerationExtensions](System.EnumerationExtensions.md) 
 - [System](System.md) 

@@ -11,8 +11,9 @@ public ContactData Result { get; }
 ### Property Value
 Type: [OfficeDevPnP.Core.UPAWebService.ContactData](OfficeDevPnP.Core.UPAWebService.ContactData.md)  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [GetCommonManagerCompletedEventArgs](OfficeDevPnP.Core.UPAWebService.GetCommonManagerCompletedEventArgs.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 

@@ -25,6 +25,8 @@ Type: bool
 true if the the app instance was removed; false if it does not exist  
 
 
+## Remarks
+  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

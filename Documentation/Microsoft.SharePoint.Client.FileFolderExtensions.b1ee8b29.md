@@ -25,10 +25,9 @@ Type: Folder
 The newly converted Document Set, so that additional operations (such as setting properties) can be done.  
 
 
-## Remarks 
-
-            Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters.
-            
+## Remarks
+ Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters. 
+  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

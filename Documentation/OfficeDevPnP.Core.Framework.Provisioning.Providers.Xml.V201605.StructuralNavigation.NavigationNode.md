@@ -11,8 +11,9 @@ public NavigationNode[] NavigationNode { get; set; }
 ### Property Value
 Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.NavigationNode[]  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [StructuralNavigation](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StructuralNavigation.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md) 

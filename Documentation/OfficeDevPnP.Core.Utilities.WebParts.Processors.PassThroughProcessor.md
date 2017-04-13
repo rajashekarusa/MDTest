@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class PassThroughProcessor:IWebPartPostProcessor
+public class PassThroughProcessor: IWebPartPostProcessor
 ```
 ## Constructors
 |**Name**|**Description**|

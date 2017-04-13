@@ -23,8 +23,9 @@ public PropertyData GetUserPropertyByAccountName(String accountName, String prop
 ### Return Value
 Type: PropertyData  
 
-## Remarks 
+## Remarks
 
+  
 ## See also
 - [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md) 
 - [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md) 
