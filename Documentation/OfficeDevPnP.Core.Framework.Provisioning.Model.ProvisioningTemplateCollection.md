@@ -1,4 +1,4 @@
-# ProvisioningTemplateCollection
+# ProvisioningTemplateCollection Class
  Generic collection of items stored in the ProvisioningTemplate graph   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;System.Collections.ObjectModel.Collection  
 ## Syntax
 ```C#
-public class ProvisioningTemplateCollection: Collection
+public class ProvisioningTemplateCollection: Collection, IProvisioningTemplateDescendant
 ```
 ## Constructors
 |**Name**|**Description**|

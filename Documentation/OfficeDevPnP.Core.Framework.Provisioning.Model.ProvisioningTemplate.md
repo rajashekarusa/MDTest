@@ -1,4 +1,4 @@
-# ProvisioningTemplate
+# ProvisioningTemplate Class
  Domain Object for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class ProvisioningTemplate
+public class ProvisioningTemplate:IEquatable<ProvisioningTemplate>
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# InformationManagementExtensions
+# InformationManagementExtensions Class
  Class that holds deprecated information management extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

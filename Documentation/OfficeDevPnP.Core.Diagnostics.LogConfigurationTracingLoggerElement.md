@@ -1,4 +1,4 @@
-# LogConfigurationTracingLoggerElement
+# LogConfigurationTracingLoggerElement Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  

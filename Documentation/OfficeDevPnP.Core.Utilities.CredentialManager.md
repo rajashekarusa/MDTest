@@ -1,4 +1,4 @@
-# CredentialManager
+# CredentialManager Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

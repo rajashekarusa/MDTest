@@ -1,4 +1,4 @@
-# CAML
+# CAML Class
  Use this class to build your CAML xml and avoid XML issues.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

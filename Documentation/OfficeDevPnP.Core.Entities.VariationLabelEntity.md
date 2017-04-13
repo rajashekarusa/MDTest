@@ -1,4 +1,4 @@
-# VariationLabelEntity
+# VariationLabelEntity Class
  Class represents variation label   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

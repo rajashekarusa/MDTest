@@ -1,4 +1,4 @@
-# TaxonomyExtensions
+# TaxonomyExtensions Class
  Class for deprecated taxonomy extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

@@ -1,4 +1,4 @@
-# XMLTemplateProvider
+# XMLTemplateProvider Class
  Provider for xml based configurations   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  

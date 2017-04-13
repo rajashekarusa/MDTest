@@ -1,4 +1,4 @@
-# CertificateMixed
+# CertificateMixed Class
  ADFS Active authentication based on username + password. Uses the trust/13/usernamemixed ADFS endpoint.   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS](OfficeDevPnP.Core.IdentityModel.TokenProviders.ADFS.md)  

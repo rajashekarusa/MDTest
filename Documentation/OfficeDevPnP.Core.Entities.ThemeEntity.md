@@ -1,4 +1,4 @@
-# ThemeEntity
+# ThemeEntity Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

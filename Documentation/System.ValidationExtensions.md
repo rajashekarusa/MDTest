@@ -1,4 +1,4 @@
-# ValidationExtensions
+# ValidationExtensions Class
   
 
 **Namespace:** [System](System.md)  

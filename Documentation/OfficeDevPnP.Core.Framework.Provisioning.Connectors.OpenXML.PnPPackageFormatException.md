@@ -1,4 +1,4 @@
-# PnPPackageFormatException
+# PnPPackageFormatException Class
  Custom Exception type for PnP Packaging handling   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  

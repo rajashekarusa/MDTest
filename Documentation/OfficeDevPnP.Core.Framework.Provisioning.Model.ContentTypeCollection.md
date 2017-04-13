@@ -1,4 +1,4 @@
-# ContentTypeCollection
+# ContentTypeCollection Class
  Collection of ContentType objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

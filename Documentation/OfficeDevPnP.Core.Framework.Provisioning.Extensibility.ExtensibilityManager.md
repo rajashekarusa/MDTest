@@ -1,4 +1,4 @@
-# ExtensibilityManager
+# ExtensibilityManager Class
  Provisioning Framework Component that is used for invoking custom providers during the provisioning process.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  

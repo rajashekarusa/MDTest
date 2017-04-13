@@ -1,4 +1,4 @@
-# CustomAction
+# CustomAction Class
  Domain Object for custom actions associated with a SharePoint list, Web site, or subsite.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class CustomAction: BaseModel
+public class CustomAction: BaseModel, IEquatable<CustomAction>
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# FieldCollection
+# FieldCollection Class
  Collection of Field objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

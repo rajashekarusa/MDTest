@@ -1,4 +1,4 @@
-# DefaultColumnTermValue
+# DefaultColumnTermValue Class
  Specifies a default column value for a document library   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

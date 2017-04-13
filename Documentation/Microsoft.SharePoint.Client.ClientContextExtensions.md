@@ -1,4 +1,4 @@
-# ClientContextExtensions
+# ClientContextExtensions Class
  Class that holds the deprecated clientcontext methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

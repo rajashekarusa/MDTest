@@ -1,4 +1,4 @@
-# AuthenticationManager
+# AuthenticationManager Class
  This manager class can be used to obtain a SharePointContext object   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  

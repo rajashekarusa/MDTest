@@ -1,4 +1,4 @@
-# LogEntry
+# LogEntry Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  

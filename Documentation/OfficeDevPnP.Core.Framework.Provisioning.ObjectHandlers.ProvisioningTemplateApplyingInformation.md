@@ -1,4 +1,4 @@
-# ProvisioningTemplateApplyingInformation
+# ProvisioningTemplateApplyingInformation Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  

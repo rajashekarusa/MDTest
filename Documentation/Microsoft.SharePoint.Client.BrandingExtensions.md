@@ -1,4 +1,4 @@
-# BrandingExtensions
+# BrandingExtensions Class
  Class that holds the deprecated branding methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

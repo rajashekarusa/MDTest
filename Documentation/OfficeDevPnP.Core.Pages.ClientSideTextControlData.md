@@ -1,4 +1,4 @@
-# ClientSideTextControlData
+# ClientSideTextControlData Class
  Control data for controls of type 4 (= text control)   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  

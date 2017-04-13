@@ -1,4 +1,4 @@
-# MemberGroupData
+# MemberGroupData Class
   
 
 **Namespace:** [OfficeDevPnP.Core.UPAWebService](OfficeDevPnP.Core.UPAWebService.md)  

@@ -1,4 +1,4 @@
-# DictionaryExtensions
+# DictionaryExtensions Class
  Extension type for Dictionaries   
 
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  

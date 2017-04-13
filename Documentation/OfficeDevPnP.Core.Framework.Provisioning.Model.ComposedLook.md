@@ -1,4 +1,4 @@
-# ComposedLook
+# ComposedLook Class
  Domain Object that defines a Composed Look in the Provision Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class ComposedLook: BaseModel
+public class ComposedLook: BaseModel, IEquatable<ComposedLook>
 ```
 ## Constructors
 |**Name**|**Description**|

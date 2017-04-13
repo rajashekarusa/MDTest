@@ -1,4 +1,4 @@
-# IXMLSchemaFormatter
+# IXMLSchemaFormatter Interface  
  Interface for template formatters that read and write XML documents   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  

@@ -1,4 +1,4 @@
-# JsonSharePointTemplateProvider
+# JsonSharePointTemplateProvider Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  

@@ -1,4 +1,4 @@
-# ClientSideCanvasControlData
+# ClientSideCanvasControlData Class
  Abstract base class representing the json control data that will be included in each client side control (de-)serialization (data-sp-controldata attribute)   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  

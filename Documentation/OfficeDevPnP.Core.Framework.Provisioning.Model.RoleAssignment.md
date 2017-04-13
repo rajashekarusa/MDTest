@@ -1,4 +1,4 @@
-# RoleAssignment
+# RoleAssignment Class
  Role Assignment for a target Principal   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class RoleAssignment: BaseModel
+public class RoleAssignment: BaseModel, IEquatable<RoleAssignment>
 ```
 ## Constructors
 |**Name**|**Description**|

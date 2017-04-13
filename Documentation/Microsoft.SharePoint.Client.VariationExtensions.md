@@ -1,4 +1,4 @@
-# VariationExtensions
+# VariationExtensions Class
  Class that provides methods for variations   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

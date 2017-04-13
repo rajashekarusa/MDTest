@@ -1,4 +1,4 @@
-# CanvasSection
+# CanvasSection Class
  Represents a section in a canvas zone   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  

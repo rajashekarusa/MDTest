@@ -1,4 +1,4 @@
-# WorkflowExtensions
+# WorkflowExtensions Class
  Class for deprecated workflow extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

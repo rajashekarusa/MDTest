@@ -1,4 +1,4 @@
-# FileSystemConnector
+# FileSystemConnector Class
  Connector for files in file system   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  

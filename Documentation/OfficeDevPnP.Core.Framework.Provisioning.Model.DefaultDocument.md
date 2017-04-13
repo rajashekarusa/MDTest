@@ -1,4 +1,4 @@
-# DefaultDocument
+# DefaultDocument Class
  A default document for a Document Set   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class DefaultDocument: BaseModel
+public class DefaultDocument: BaseModel, IEquatable<DefaultDocument>
 ```
 ## Constructors
 |**Name**|**Description**|

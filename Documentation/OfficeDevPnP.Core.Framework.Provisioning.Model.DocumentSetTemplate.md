@@ -1,4 +1,4 @@
-# DocumentSetTemplate
+# DocumentSetTemplate Class
  Defines a DocumentSet Template for creating multiple DocumentSet instances   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class DocumentSetTemplate: BaseModel
+public class DocumentSetTemplate: BaseModel, IEquatable<DocumentSetTemplate>
 ```
 ## Constructors
 |**Name**|**Description**|

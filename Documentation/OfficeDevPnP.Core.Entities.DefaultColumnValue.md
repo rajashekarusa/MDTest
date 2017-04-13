@@ -1,4 +1,4 @@
-# DefaultColumnValue
+# DefaultColumnValue Class
  DefaultColumnValue   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
@@ -10,7 +10,7 @@ System.Object
 &emsp;[OfficeDevPnP.Core.Entities.DefaultColumnTextValue](OfficeDevPnP.Core.Entities.DefaultColumnTextValue.md)  
 ## Syntax
 ```C#
-public class DefaultColumnValue
+public class DefaultColumnValue:IDefaultColumnValue
 ```
 ## Constructors
 |**Name**|**Description**|

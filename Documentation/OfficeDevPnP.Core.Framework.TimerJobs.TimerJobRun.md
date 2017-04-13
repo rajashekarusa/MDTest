@@ -1,4 +1,4 @@
-# TimerJobRun
+# TimerJobRun Class
  Class that holds the state information that's being stored in the web property bag of web that's being "processed"   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  

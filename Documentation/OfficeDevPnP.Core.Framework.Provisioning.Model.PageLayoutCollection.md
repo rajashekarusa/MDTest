@@ -1,4 +1,4 @@
-# PageLayoutCollection
+# PageLayoutCollection Class
  Collection of PageLayout objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

@@ -1,4 +1,4 @@
-# PropertyBagEntryCollection
+# PropertyBagEntryCollection Class
  Collection of PropertyBagEntry objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

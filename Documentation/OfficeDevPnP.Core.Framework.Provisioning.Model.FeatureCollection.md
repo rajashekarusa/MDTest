@@ -1,4 +1,4 @@
-# FeatureCollection
+# FeatureCollection Class
  Collection of Feature objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

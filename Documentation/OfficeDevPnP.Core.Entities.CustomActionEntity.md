@@ -1,4 +1,4 @@
-# CustomActionEntity
+# CustomActionEntity Class
  CustomActionEntity class describes the information for a Custom Action   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

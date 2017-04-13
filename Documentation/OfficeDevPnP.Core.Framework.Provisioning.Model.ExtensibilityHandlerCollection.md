@@ -1,4 +1,4 @@
-# ExtensibilityHandlerCollection
+# ExtensibilityHandlerCollection Class
  Collection of ExtensibilityHandler objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

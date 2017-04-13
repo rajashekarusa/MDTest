@@ -1,4 +1,4 @@
-# PnPHttpProvider
+# PnPHttpProvider Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;Microsoft.Graph.HttpProvider  
 ## Syntax
 ```C#
-public class PnPHttpProvider: HttpProvider
+public class PnPHttpProvider: HttpProvider, IHttpProvider, IDisposable
 ```
 ## Constructors
 |**Name**|**Description**|

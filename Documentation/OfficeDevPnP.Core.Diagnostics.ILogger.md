@@ -1,4 +1,4 @@
-# ILogger
+# ILogger Interface  
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  

@@ -1,4 +1,4 @@
-# ExtensibilityHandler
+# ExtensibilityHandler Class
  Domain Object for Extensiblity Call out   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class ExtensibilityHandler: BaseModel
+public class ExtensibilityHandler: BaseModel, IEquatable<ExtensibilityHandler>
 ```
 ## Constructors
 |**Name**|**Description**|

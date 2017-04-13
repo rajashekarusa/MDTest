@@ -1,4 +1,4 @@
-# FileCollection
+# FileCollection Class
  Collection of File objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

@@ -1,4 +1,4 @@
-# VariationExtensions
+# VariationExtensions Class
  Class that holds deprecated methods for variations   
 
 **Namespace:** [OfficeDevPnP.Core.AppModelExtensions](OfficeDevPnP.Core.AppModelExtensions.md)  

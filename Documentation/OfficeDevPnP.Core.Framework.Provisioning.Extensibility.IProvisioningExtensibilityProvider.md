@@ -1,4 +1,4 @@
-# IProvisioningExtensibilityProvider
+# IProvisioningExtensibilityProvider Interface  
  Defines a interface that accepts requests from the provisioning processing component   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  

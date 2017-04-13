@@ -1,4 +1,4 @@
-# XMLFileSystemTemplateProvider
+# XMLFileSystemTemplateProvider Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  

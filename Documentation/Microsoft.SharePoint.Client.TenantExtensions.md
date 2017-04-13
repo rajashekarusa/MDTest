@@ -1,4 +1,4 @@
-# TenantExtensions
+# TenantExtensions Class
  Class for deprecated tenant extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

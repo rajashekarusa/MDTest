@@ -1,4 +1,4 @@
-# FileConnectorBase
+# FileConnectorBase Class
  Base file connector class   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  

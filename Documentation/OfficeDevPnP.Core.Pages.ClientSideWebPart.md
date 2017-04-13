@@ -1,4 +1,4 @@
-# ClientSideWebPart
+# ClientSideWebPart Class
 This class is used to instantiate controls of type 3 (= client side web parts). Using this class you can instantiate a control and add it on a  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
@@ -35,7 +35,7 @@ public class ClientSideWebPart: CanvasControl
 | [ToHtml()](OfficeDevPnP.Core.Pages.ClientSideWebPart.7c2b006f.md) | Returns a HTML representation of the client side web part
 ## See also
 - Newtonsoft.Json.Linq.JObject
-- P:OfficeDevPnP.Core.Pages.ClientSideWebPart.Type
+- [OfficeDevPnP.Core.Pages.ClientSideWebPart.Type](OfficeDevPnP.Core.Pages.ClientSideWebPart.Type.md)
 - [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)

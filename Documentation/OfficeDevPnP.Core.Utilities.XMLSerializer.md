@@ -1,4 +1,4 @@
-# XMLSerializer
+# XMLSerializer Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

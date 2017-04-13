@@ -1,4 +1,4 @@
-# ExceptionExtensions
+# ExceptionExtensions Class
   
 
 **Namespace:** [System](System.md)  

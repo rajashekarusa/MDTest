@@ -1,4 +1,4 @@
-# Provider
+# Provider Class
  Domain Object for Extensiblity Call out   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

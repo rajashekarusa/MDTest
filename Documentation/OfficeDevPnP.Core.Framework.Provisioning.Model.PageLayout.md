@@ -1,4 +1,4 @@
-# PageLayout
+# PageLayout Class
  Defines an available Page Layout for the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class PageLayout: BaseModel
+public class PageLayout: BaseModel, IEquatable<PageLayout>
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# WorkflowSubscriptionCollection
+# WorkflowSubscriptionCollection Class
  Defines a collection of objects of type WorkflowSubscription   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

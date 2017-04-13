@@ -1,4 +1,4 @@
-# Features
+# Features Class
  Domain Object that is used in the Site Template for OOB Features   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

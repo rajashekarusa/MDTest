@@ -1,4 +1,4 @@
-# DateNowToken
+# DateNowToken Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.TokenDefinitions.md)  

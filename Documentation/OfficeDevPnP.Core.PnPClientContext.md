@@ -1,4 +1,4 @@
-# PnPClientContext
+# PnPClientContext Class
   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  

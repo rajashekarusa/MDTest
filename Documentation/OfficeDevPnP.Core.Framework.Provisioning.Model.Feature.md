@@ -1,4 +1,4 @@
-# Feature
+# Feature Class
  Domain Object that represents an Feature.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class Feature: BaseModel
+public class Feature: BaseModel, IEquatable<Feature>
 ```
 ## Constructors
 |**Name**|**Description**|

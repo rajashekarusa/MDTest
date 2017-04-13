@@ -1,4 +1,4 @@
-# ClientObjectExtensions
+# ClientObjectExtensions Class
   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

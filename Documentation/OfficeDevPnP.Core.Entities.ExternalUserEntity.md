@@ -1,4 +1,4 @@
-# ExternalUserEntity
+# ExternalUserEntity Class
  External user entity   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

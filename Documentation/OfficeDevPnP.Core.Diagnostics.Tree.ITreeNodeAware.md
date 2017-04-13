@@ -1,4 +1,4 @@
-# ITreeNodeAware
+# ITreeNodeAware Interface  
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  

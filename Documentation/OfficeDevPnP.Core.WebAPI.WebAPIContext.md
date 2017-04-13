@@ -1,4 +1,4 @@
-# WebAPIContext
+# WebAPIContext Class
  This class holds the information that's passed from the SharePoint app to the "Register" WebAPI service call   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  

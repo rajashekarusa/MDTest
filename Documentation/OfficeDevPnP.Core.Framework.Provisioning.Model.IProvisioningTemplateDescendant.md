@@ -1,4 +1,4 @@
-# IProvisioningTemplateDescendant
+# IProvisioningTemplateDescendant Interface  
  Interface implemented by any descendant of a ProvisioningTemplate   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

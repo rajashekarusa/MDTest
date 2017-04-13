@@ -1,4 +1,4 @@
-# ICommitableFileConnector
+# ICommitableFileConnector Interface  
  Interface for File Connectors   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  

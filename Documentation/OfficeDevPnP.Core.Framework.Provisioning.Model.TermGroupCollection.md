@@ -1,4 +1,4 @@
-# TermGroupCollection
+# TermGroupCollection Class
  Collection of TermGroup objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

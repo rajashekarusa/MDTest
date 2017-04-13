@@ -1,4 +1,4 @@
-# XMLPnPSchemaFormatter
+# XMLPnPSchemaFormatter Class
  Helper class that abstracts from any specific version of XMLPnPSchemaFormatter   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class XMLPnPSchemaFormatter
+public class XMLPnPSchemaFormatter:ITemplateFormatter
 ```
 ## Constructors
 |**Name**|**Description**|

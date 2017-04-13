@@ -1,4 +1,4 @@
-# PassThroughProcessor
+# PassThroughProcessor Class
  Default processor when others are not resolved   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class PassThroughProcessor
+public class PassThroughProcessor:IWebPartPostProcessor
 ```
 ## Constructors
 |**Name**|**Description**|

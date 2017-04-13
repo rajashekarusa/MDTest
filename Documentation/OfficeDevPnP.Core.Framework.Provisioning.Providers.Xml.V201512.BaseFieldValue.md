@@ -1,4 +1,4 @@
-# BaseFieldValue
+# BaseFieldValue Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)  
@@ -10,7 +10,7 @@ System.Object
 &emsp;[OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldDefault](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.FieldDefault.md)  
 ## Syntax
 ```C#
-public class BaseFieldValue
+public class BaseFieldValue:IXmlSerializable
 ```
 ## Constructors
 |**Name**|**Description**|

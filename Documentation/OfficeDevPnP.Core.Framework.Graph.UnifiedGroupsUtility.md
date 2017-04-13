@@ -1,4 +1,4 @@
-# UnifiedGroupsUtility
+# UnifiedGroupsUtility Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)  

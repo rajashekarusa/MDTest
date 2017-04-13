@@ -1,4 +1,4 @@
-# IProvisioningExtensibilityTokenProvider
+# IProvisioningExtensibilityTokenProvider Interface  
  Defines an interface which allows to plugin custom TokenDefinitions to the template provisioning pipeline   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  

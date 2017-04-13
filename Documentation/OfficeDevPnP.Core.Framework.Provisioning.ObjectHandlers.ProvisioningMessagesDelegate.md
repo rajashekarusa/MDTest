@@ -1,4 +1,4 @@
-# ProvisioningMessagesDelegate
+# ProvisioningMessagesDelegate Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  

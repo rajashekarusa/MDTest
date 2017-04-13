@@ -1,4 +1,4 @@
-# ProviderCollection
+# ProviderCollection Class
  Collection of Provider objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

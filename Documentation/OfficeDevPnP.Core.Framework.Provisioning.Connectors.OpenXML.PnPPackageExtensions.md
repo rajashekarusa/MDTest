@@ -1,4 +1,4 @@
-# PnPPackageExtensions
+# PnPPackageExtensions Class
  Extension class for PnP OpenXML package files   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  

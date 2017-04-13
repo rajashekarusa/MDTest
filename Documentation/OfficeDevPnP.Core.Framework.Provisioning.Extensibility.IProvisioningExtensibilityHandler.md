@@ -1,4 +1,4 @@
-# IProvisioningExtensibilityHandler
+# IProvisioningExtensibilityHandler Interface  
  Defines an interface which allows to plugin custom Provisioning Extensibility Handlers to the template extraction/provisioning pipeline   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Extensibility](OfficeDevPnP.Core.Framework.Provisioning.Extensibility.md)  

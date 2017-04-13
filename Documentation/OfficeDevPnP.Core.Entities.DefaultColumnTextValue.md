@@ -1,4 +1,4 @@
-# DefaultColumnTextValue
+# DefaultColumnTextValue Class
  DefaultColumnTextValue   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

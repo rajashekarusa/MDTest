@@ -1,4 +1,4 @@
-# WebPartPageWebPart
+# WebPartPageWebPart Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class WebPartPageWebPart
+public class WebPartPageWebPart:IXmlSerializable
 ```
 ## Constructors
 |**Name**|**Description**|

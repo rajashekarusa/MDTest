@@ -1,4 +1,4 @@
-# IWebPartPostProcessor
+# IWebPartPostProcessor Interface  
   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts](OfficeDevPnP.Core.Utilities.WebParts.md)  

@@ -1,4 +1,4 @@
-# EnumerableExtensions
+# EnumerableExtensions Class
  Extension methods to make working with IEnumerable&lt;T&gt; values easier.   
 
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  

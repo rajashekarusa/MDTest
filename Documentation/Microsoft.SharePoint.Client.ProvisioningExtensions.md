@@ -1,4 +1,4 @@
-# ProvisioningExtensions
+# ProvisioningExtensions Class
  File-based (CAML) deprecated provisioning extensions   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

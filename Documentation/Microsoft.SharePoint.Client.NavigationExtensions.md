@@ -1,4 +1,4 @@
-# NavigationExtensions
+# NavigationExtensions Class
  This class holds deprecated navigation related methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

@@ -1,4 +1,4 @@
-# UnifiedGroupEntity
+# UnifiedGroupEntity Class
  Defines a Unified Group   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

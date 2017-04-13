@@ -1,4 +1,4 @@
-# FolderCollection
+# FolderCollection Class
  Collection of Folder objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

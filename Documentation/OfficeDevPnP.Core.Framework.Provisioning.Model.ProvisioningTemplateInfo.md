@@ -1,4 +1,4 @@
-# ProvisioningTemplateInfo
+# ProvisioningTemplateInfo Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

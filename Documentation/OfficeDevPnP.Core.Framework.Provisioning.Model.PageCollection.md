@@ -1,4 +1,4 @@
-# PageCollection
+# PageCollection Class
  Collection of Page objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

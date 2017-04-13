@@ -1,4 +1,4 @@
-# WebPartPostProcessorFactory
+# WebPartPostProcessorFactory Class
  Creates OfficeDevPnP.Core.Utilities.WebParts.IWebPartPostProcessor by parsing web part schema xml   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts](OfficeDevPnP.Core.Utilities.WebParts.md)  

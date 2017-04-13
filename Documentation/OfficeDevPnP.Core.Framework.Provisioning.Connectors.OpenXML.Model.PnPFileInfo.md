@@ -1,4 +1,4 @@
-# PnPFileInfo
+# PnPFileInfo Class
  File descriptor for every single file in the PnP OpenXML file   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)  

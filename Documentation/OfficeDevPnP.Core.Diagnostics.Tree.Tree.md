@@ -1,4 +1,4 @@
-# Tree
+# Tree Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  

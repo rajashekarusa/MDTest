@@ -1,4 +1,4 @@
-# SiteGroup
+# SiteGroup Class
  The base type for a Site Group   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class SiteGroup: BaseModel
+public class SiteGroup: BaseModel, IEquatable<SiteGroup>
 ```
 ## Constructors
 |**Name**|**Description**|

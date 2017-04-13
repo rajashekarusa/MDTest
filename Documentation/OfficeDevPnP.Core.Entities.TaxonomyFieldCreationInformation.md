@@ -1,4 +1,4 @@
-# TaxonomyFieldCreationInformation
+# TaxonomyFieldCreationInformation Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

@@ -1,4 +1,4 @@
-# WebPartEntity
+# WebPartEntity Class
  Class that describes information about a web part   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

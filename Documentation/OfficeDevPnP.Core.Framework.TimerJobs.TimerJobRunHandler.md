@@ -1,4 +1,4 @@
-# TimerJobRunHandler
+# TimerJobRunHandler Class
  TimerJobRun delegate   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  

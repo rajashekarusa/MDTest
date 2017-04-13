@@ -1,4 +1,4 @@
-# ObjectSecurity
+# ObjectSecurity Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class ObjectSecurity: BaseModel
+public class ObjectSecurity: BaseModel, IEquatable<ObjectSecurity>
 ```
 ## Constructors
 |**Name**|**Description**|

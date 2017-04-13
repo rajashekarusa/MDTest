@@ -1,4 +1,4 @@
-# PnPProperties
+# PnPProperties Class
  Properties of the PnP OpenXML container   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.md)  

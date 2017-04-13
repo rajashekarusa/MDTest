@@ -1,4 +1,4 @@
-# X509CertificateUtility
+# X509CertificateUtility Class
  Supporting class for certificate based operations   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

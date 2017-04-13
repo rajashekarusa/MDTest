@@ -1,4 +1,4 @@
-# EncryptionUtility
+# EncryptionUtility Class
  Utility class that support certificate based encryption/decryption   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

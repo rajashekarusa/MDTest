@@ -1,4 +1,4 @@
-# PnPPackageFileItem
+# PnPPackageFileItem Class
  Defines a single file in the PnP Open XML file package   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  

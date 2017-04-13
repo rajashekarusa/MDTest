@@ -1,4 +1,4 @@
-# Log
+# Log Class
  Logging class   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  

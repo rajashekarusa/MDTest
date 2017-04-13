@@ -1,4 +1,4 @@
-# FeatureExtensions
+# FeatureExtensions Class
  Class that holds deprecated feature activation and deactivation methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

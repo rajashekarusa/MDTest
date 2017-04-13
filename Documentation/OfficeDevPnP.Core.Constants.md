@@ -1,4 +1,4 @@
-# Constants
+# Constants Class
  Constants.   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  

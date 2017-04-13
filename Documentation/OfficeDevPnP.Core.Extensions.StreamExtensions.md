@@ -1,4 +1,4 @@
-# StreamExtensions
+# StreamExtensions Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)  

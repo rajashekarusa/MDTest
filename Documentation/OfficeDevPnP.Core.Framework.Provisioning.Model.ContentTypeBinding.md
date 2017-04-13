@@ -1,4 +1,4 @@
-# ContentTypeBinding
+# ContentTypeBinding Class
  Domain Object for Content Type Binding in the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class ContentTypeBinding: BaseModel
+public class ContentTypeBinding: BaseModel, IEquatable<ContentTypeBinding>
 ```
 ## Constructors
 |**Name**|**Description**|

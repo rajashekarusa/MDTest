@@ -1,4 +1,4 @@
-# RecordsManagementExtensions
+# RecordsManagementExtensions Class
  Class that deals with deprecated records management functionality   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

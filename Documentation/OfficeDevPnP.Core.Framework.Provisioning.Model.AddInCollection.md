@@ -1,4 +1,4 @@
-# AddInCollection
+# AddInCollection Class
  A collection of AddIn objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

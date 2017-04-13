@@ -1,4 +1,4 @@
-# JavaScriptExtensions
+# JavaScriptExtensions Class
  Deprecated JavaScript related methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

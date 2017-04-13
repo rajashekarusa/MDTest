@@ -1,4 +1,4 @@
-# TreeNode
+# TreeNode Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class TreeNode
+public class TreeNode:ITreeNode, ITreeNode
 ```
 ## Constructors
 |**Name**|**Description**|

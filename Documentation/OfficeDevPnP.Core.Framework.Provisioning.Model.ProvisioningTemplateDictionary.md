@@ -1,4 +1,4 @@
-# ProvisioningTemplateDictionary
+# ProvisioningTemplateDictionary Class
  Generic keyed collection of items stored in the ProvisioningTemplate graph   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;TKey,TItem  
 ## Syntax
 ```C#
-public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>
+public class ProvisioningTemplateDictionary: KeyedCollection<TKey, TItem>, IProvisioningTemplateDescendant
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# SitePolicyEntity
+# SitePolicyEntity Class
  Properties of a site policy object   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

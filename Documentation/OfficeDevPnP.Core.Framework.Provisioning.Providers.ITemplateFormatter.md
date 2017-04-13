@@ -1,4 +1,4 @@
-# ITemplateFormatter
+# ITemplateFormatter Interface  
  Interface for basic capabilites that any Template Formatter should provide/support   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  

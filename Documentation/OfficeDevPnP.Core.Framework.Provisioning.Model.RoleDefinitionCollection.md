@@ -1,4 +1,4 @@
-# RoleDefinitionCollection
+# RoleDefinitionCollection Class
  Collection of RoleDefinition objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

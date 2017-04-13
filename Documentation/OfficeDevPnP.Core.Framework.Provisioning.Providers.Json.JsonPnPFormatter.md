@@ -1,4 +1,4 @@
-# JsonPnPFormatter
+# JsonPnPFormatter Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Json](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class JsonPnPFormatter
+public class JsonPnPFormatter:ITemplateFormatter
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# WSTrustBinding
+# WSTrustBinding Class
   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  

@@ -1,4 +1,4 @@
-# TreeNodeList
+# TreeNodeList Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;OfficeDevPnP.Core.Diagnostics.Tree.ITreeNode  
 ## Syntax
 ```C#
-public class TreeNodeList: List<ITreeNode>
+public class TreeNodeList: List<ITreeNode>, ITreeNodeList, IList<ITreeNode>, ICollection<ITreeNode>, IEnumerable<ITreeNode>, IEnumerable, INotifyPropertyChanged
 ```
 ## Constructors
 |**Name**|**Description**|

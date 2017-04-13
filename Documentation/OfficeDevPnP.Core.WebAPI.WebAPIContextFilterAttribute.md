@@ -1,4 +1,4 @@
-# WebAPIContextFilterAttribute
+# WebAPIContextFilterAttribute Class
   
 
 **Namespace:** [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md)  

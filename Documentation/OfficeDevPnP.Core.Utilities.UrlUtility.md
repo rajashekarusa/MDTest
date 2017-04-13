@@ -1,4 +1,4 @@
-# UrlUtility
+# UrlUtility Class
  Static methods to modify URL paths.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

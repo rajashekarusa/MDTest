@@ -1,4 +1,4 @@
-# Directory
+# Directory Class
  Defines a Directory element, to describe a folder in the current repository that will be used to upload files into the target Site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class Directory: BaseModel
+public class Directory: BaseModel, IEquatable<Directory>
 ```
 ## Constructors
 |**Name**|**Description**|

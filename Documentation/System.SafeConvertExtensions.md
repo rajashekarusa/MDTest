@@ -1,4 +1,4 @@
-# SafeConvertExtensions
+# SafeConvertExtensions Class
  Safely convert strings to specified types.   
 
 **Namespace:** [System](System.md)  

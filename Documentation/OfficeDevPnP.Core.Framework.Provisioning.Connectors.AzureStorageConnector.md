@@ -1,4 +1,4 @@
-# AzureStorageConnector
+# AzureStorageConnector Class
  Connector for files in Azure blob storage   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  

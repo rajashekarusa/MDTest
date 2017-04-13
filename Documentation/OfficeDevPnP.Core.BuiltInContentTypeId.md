@@ -1,4 +1,4 @@
-# BuiltInContentTypeId
+# BuiltInContentTypeId Class
  A class that returns strings that represent identifiers (IDs) for built-in content types.   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  

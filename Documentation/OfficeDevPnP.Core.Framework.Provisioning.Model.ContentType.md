@@ -1,4 +1,4 @@
-# ContentType
+# ContentType Class
  Domain Object used in the Provisioning template that defines a Content Type ><cref>https://msdn.microsoft.com/en-us/library/office/ms463449.aspx</cref></see>  
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class ContentType: BaseModel
+public class ContentType: BaseModel, IEquatable<ContentType>
 ```
 ## Constructors
 |**Name**|**Description**|

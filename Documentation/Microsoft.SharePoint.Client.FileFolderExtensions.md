@@ -1,4 +1,4 @@
-# FileFolderExtensions
+# FileFolderExtensions Class
  Class that holds the deprecated file and folder methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

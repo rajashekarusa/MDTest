@@ -1,4 +1,4 @@
-# SearchExtensions
+# SearchExtensions Class
  Class for deprecated search extension methods   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  

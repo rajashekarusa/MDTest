@@ -1,4 +1,4 @@
-# VariationInformation
+# VariationInformation Class
  Class containing variation configuration information   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

@@ -1,4 +1,4 @@
-# PnPMonitoredScope
+# PnPMonitoredScope Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;OfficeDevPnP.Core.Diagnostics.PnPMonitoredScope  
 ## Syntax
 ```C#
-public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>
+public class PnPMonitoredScope: TreeNode<PnPMonitoredScope>, IDisposable
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# MultipleSymmetricKeySecurityToken
+# MultipleSymmetricKeySecurityToken Class
  Represents a security token which contains multiple security keys that are generated using symmetric algorithms.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  

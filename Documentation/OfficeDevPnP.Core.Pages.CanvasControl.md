@@ -1,4 +1,4 @@
-# CanvasControl
+# CanvasControl Class
  Base control   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  

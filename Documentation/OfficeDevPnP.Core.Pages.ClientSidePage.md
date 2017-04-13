@@ -1,4 +1,4 @@
-# ClientSidePage
+# ClientSidePage Class
  Represents a modern client side page with all it's contents   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  

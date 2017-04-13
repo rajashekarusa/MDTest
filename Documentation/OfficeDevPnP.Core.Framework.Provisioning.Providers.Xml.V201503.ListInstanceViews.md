@@ -1,4 +1,4 @@
-# ListInstanceViews
+# ListInstanceViews Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.md)  

@@ -1,4 +1,4 @@
-# Localization
+# Localization Class
  Domain Object used in the Provisioning template that defines a Localization item   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class Localization: BaseModel
+public class Localization: BaseModel, IEquatable<Localization>
 ```
 ## Constructors
 |**Name**|**Description**|

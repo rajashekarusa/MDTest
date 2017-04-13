@@ -1,4 +1,4 @@
-# TimerJobRunEventArgs
+# TimerJobRunEventArgs Class
  Event arguments for the TimerJobRun event   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  

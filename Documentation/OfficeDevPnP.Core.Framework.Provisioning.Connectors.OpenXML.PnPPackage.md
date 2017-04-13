@@ -1,4 +1,4 @@
-# PnPPackage
+# PnPPackage Class
  Defines a PnP OpenXML package file   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class PnPPackage
+public class PnPPackage:IDisposable
 ```
 ## Constructors
 |**Name**|**Description**|

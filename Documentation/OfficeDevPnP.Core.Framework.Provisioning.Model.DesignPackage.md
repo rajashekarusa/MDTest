@@ -1,4 +1,4 @@
-# DesignPackage
+# DesignPackage Class
  Defines a Design Package to import into the current Publishing site   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class DesignPackage: BaseModel
+public class DesignPackage: BaseModel, IEquatable<DesignPackage>
 ```
 ## Constructors
 |**Name**|**Description**|

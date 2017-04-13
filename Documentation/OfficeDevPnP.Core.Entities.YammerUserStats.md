@@ -1,4 +1,4 @@
-# YammerUserStats
+# YammerUserStats Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

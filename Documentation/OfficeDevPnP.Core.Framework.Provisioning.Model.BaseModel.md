@@ -1,4 +1,4 @@
-# BaseModel
+# BaseModel Class
  Base type for any Domain Model object (excluded the ProvisioningTemplate type)   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -58,7 +58,7 @@ System.Object
 &emsp;[OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscription.md)  
 ## Syntax
 ```C#
-public class BaseModel
+public class BaseModel:IProvisioningTemplateDescendant
 ```
 ## Properties
 |**Name**|**Description**|

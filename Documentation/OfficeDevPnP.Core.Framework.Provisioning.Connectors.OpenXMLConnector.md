@@ -1,4 +1,4 @@
-# OpenXMLConnector
+# OpenXMLConnector Class
  Connector that stores all the files into a unique .PNP OpenXML package   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)  
 ## Syntax
 ```C#
-public class OpenXMLConnector: FileConnectorBase
+public class OpenXMLConnector: FileConnectorBase, ICommitableFileConnector
 ```
 ## Constructors
 |**Name**|**Description**|

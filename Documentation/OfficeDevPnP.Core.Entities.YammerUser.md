@@ -1,4 +1,4 @@
-# YammerUser
+# YammerUser Class
  Represents YammerUser Generated based on Yammer response on 30th of June 2014 and using http://json2csharp.com/ service   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  

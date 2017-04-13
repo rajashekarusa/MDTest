@@ -1,4 +1,4 @@
-# WebPart
+# WebPart Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseModel.md)  
 ## Syntax
 ```C#
-public class WebPart: BaseModel
+public class WebPart: BaseModel, IEquatable<WebPart>
 ```
 ## Constructors
 |**Name**|**Description**|

@@ -1,4 +1,4 @@
-# WikiPageWebPart
+# WikiPageWebPart Class
   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)  
@@ -7,7 +7,7 @@
 System.Object  
 ## Syntax
 ```C#
-public class WikiPageWebPart
+public class WikiPageWebPart:IXmlSerializable
 ```
 ## Constructors
 |**Name**|**Description**|

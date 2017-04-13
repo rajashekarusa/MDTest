@@ -1,4 +1,4 @@
-# RoleAssignmentCollection
+# RoleAssignmentCollection Class
  Collection of RoleAssignment objects   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

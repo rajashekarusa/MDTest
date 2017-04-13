@@ -1,4 +1,4 @@
-# Workflows
+# Workflows Class
  Defines the Workflows to provision   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  

@@ -1,4 +1,4 @@
-# GlobalNavigation
+# GlobalNavigation Class
  The Global Navigation settings for the Provisioning Template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
@@ -8,7 +8,7 @@ System.Object
 &ensp;[OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind](OfficeDevPnP.Core.Framework.Provisioning.Model.BaseNavigationKind.md)  
 ## Syntax
 ```C#
-public class GlobalNavigation: BaseNavigationKind
+public class GlobalNavigation: BaseNavigationKind, IEquatable<GlobalNavigation>
 ```
 ## Constructors
 |**Name**|**Description**|
