@@ -61,7 +61,8 @@ public static class WebExtensions
 | [WebExistsFullUrl(ClientRuntimeContext, String)](Microsoft.SharePoint.Client.WebExtensions.5f46fd34.md) | Determines if a Web (site) exists at the specified full URL, either accessible or that returns an access error.
 ## Examples
 ```C#
-web.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
+
+ web.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
             
 ```
 

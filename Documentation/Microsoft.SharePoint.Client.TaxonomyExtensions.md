@@ -24,7 +24,7 @@ public static class TaxonomyExtensions
 | [ExportTermSet(Site, Guid, Boolean, TermStore, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.ecbde79a.md) | Exports the full list of terms from all termsets in all termstores.
 | [GetDefaultKeywordsTermStore(Site)](Microsoft.SharePoint.Client.TaxonomyExtensions.88b3540.md) | Returns the default keywords termstore for the current site
 | [GetDefaultSiteCollectionTermStore(Site)](Microsoft.SharePoint.Client.TaxonomyExtensions.dace4ac5.md) | Returns the default site collection termstore
-| [GetTaxonomyItemByPath(Site, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.c526145c.md) | Returns a taxonomy item by it's path, e.g. Group|Set|Term
+| [GetTaxonomyItemByPath(Site, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.c526145c.md) | Returns a taxonomy item by it's path, e.g. Group&brvbar;Set&brvbar;Term
 | [GetTaxonomySession(Site)](Microsoft.SharePoint.Client.TaxonomyExtensions.a8117943.md) | Returns a new taxonomy session for the current site
 | [GetTermByName(Site, Guid, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.950b00c9.md) | Gets a Taxonomy Term by Name
 | [GetTermGroupById(Site, Guid)](Microsoft.SharePoint.Client.TaxonomyExtensions.3cd146f5.md) | Finds a termgroup by its ID
@@ -32,8 +32,8 @@ public static class TaxonomyExtensions
 | [GetTermGroupByName(TermStore, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.f08e91ac.md) | Gets the named term group, if it exists in the term store.
 | [GetTermSetsByName(Site, String, Int32)](Microsoft.SharePoint.Client.TaxonomyExtensions.cb9a8e23.md) | Finds a termset by name
 | [GetWssIdForTerm(Web, Term)](Microsoft.SharePoint.Client.TaxonomyExtensions.32328193.md) | Returns the Id for a term if present in the TaxonomyHiddenList. Otherwise returns -1;
-| [ImportTerms(Site, String[], Int32, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.767ce9a0.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup|TermSet|Term E.g. "Locations|Nordics|Sweden"
-| [ImportTerms(Site, String[], Int32, TermStore, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.dcedec05.md) | Imports an array of | delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup|TermSet|Term E.g. "Locations|Nordics|Sweden"
+| [ImportTerms(Site, String[], Int32, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.767ce9a0.md) | Imports an array of &brvbar; delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup&brvbar;TermSet&brvbar;Term E.g. "Locations&brvbar;Nordics&brvbar;Sweden"
+| [ImportTerms(Site, String[], Int32, TermStore, String, Boolean)](Microsoft.SharePoint.Client.TaxonomyExtensions.dcedec05.md) | Imports an array of &brvbar; delimited strings into the deafult site collection termstore. Specify strings in this format: TermGroup&brvbar;TermSet&brvbar;Term E.g. "Locations&brvbar;Nordics&brvbar;Sweden"
 | [ImportTermSet(TermGroup, String, Guid, Boolean, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.3bb4401a.md) | Imports terms from a term set file, updating with any new terms, in the same format at that used by the web interface import ability.
 | [ImportTermSet(TermGroup, Stream, Guid, Boolean, Nullable<Boolean>, String, String)](Microsoft.SharePoint.Client.TaxonomyExtensions.dea02e42.md) | Imports terms from a term set stream, updating with any new terms, in the same format at that used by the web interface import ability.
 | [RemoveTaxonomyFieldById(Web, Guid)](Microsoft.SharePoint.Client.TaxonomyExtensions.20d5705f.md) | Removes a taxonomy field (site column) and its associated hidden field by id

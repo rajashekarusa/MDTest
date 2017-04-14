@@ -1,5 +1,5 @@
 # ClientObjectExtensions.ToUntypedPropertyExpression Method  
- Converts generic <![CDATA[ Expression<Func<TInput, TOutput>> ]]> to Expression with object return type - <![CDATA[ Expression<Func<TInput, object>> ]]>  
+ Converts generic  Expression&lt;Func&lt;TInput, TOutput&gt;&gt;  to Expression with object return type -  Expression&lt;Func&lt;TInput, object&gt;&gt;   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

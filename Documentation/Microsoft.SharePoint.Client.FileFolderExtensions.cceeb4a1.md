@@ -34,8 +34,9 @@ The created Folder representing the document set, so that additional operations 
 ## Remarks
 
 ```C#
-var setContentType = list.BestMatchContentTypeId(BuiltInContentTypeId.DocumentSet);
-var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
+
+ var setContentType = list.BestMatchContentTypeId(BuiltInContentTypeId.DocumentSet);
+ var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
             
 ```
   

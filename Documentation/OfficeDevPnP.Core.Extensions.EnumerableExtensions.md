@@ -12,6 +12,6 @@ public static class EnumerableExtensions
 ## Extension Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [DeepEquals(IEnumerable, IEnumerable)](OfficeDevPnP.Core.Extensions.EnumerableExtensions.daa2f0b7.md) | Compares to instances of IEnumerable<T>
+| [DeepEquals(IEnumerable, IEnumerable)](OfficeDevPnP.Core.Extensions.EnumerableExtensions.daa2f0b7.md) | Compares to instances of IEnumerable&lt;T&gt;
 ## See also
 - [OfficeDevPnP.Core.Extensions](OfficeDevPnP.Core.Extensions.md)

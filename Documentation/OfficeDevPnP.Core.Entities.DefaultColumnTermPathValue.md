@@ -18,6 +18,6 @@ public class DefaultColumnTermPathValue
 |:-----|:-----|
 | [FieldInternalName](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.FieldInternalName.md) | The internal name of the field
 | [FolderRelativePath](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.FolderRelativePath.md) | The Path of the folder, Rootfolder of the document library is "/"
-| [TermPaths](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.TermPaths.md) | Taxonomy paths in the shape of "TermGroup|TermSet|Term"
+| [TermPaths](OfficeDevPnP.Core.Entities.DefaultColumnTermPathValue.TermPaths.md) | Taxonomy paths in the shape of "TermGroup&brvbar;TermSet&brvbar;Term"
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

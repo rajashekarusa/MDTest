@@ -1,5 +1,5 @@
 # TaxonomyExtensions.GetTaxonomyItemByPath Method  
- Returns a taxonomy item by it's path, e.g. Group|Set|Term   
+ Returns a taxonomy item by it's path, e.g. Group&brvbar;Set&brvbar;Term   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

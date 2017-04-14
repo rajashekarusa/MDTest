@@ -39,7 +39,8 @@ Type: void
   
 ## Examples
 ```C#
-list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
+
+ list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
             
 ```
 

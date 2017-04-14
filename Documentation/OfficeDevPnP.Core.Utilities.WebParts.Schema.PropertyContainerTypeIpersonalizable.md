@@ -17,6 +17,6 @@ public class PropertyContainerTypeIpersonalizable
 |**Name**|**Description**|
 |:-----|:-----|
 | [Property](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerTypeIpersonalizable.Property.md) | 
-| [PropertySpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerTypeIpersonalizable.PropertySpecified.md) |  <para xml:lang="en">Gets a value indicating whether the Property collection is empty.</para> 
+| [PropertySpecified](OfficeDevPnP.Core.Utilities.WebParts.Schema.PropertyContainerTypeIpersonalizable.PropertySpecified.md) |  &lt;para xml:lang="en"&gt;Gets a value indicating whether the Property collection is empty.&lt;/para&gt; 
 ## See also
 - [OfficeDevPnP.Core.Utilities.WebParts.Schema](OfficeDevPnP.Core.Utilities.WebParts.Schema.md)

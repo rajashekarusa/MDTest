@@ -1,5 +1,5 @@
 # BrandingExtensions.DeployHtmlPageLayout Method  
- Can be used to deploy html page layouts to master page gallery. <remarks>Should be only used with root web of site collection where publishing features are enabled.</remarks>  
+ Can be used to deploy html page layouts to master page gallery. &lt;remarks&gt;Should be only used with root web of site collection where publishing features are enabled.&lt;/remarks&gt;  
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -48,6 +48,7 @@ public static void DeployHtmlPageLayout(Web web, String sourceFilePath, String t
 Type: void  
 
 ## Remarks
+Should be only used with root web of site collection where publishing features are enabled.
   
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 

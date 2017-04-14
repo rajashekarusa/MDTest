@@ -24,7 +24,7 @@ public static class ListExtensions
 | [CreateViewsFromXMLFile(List, String)](Microsoft.SharePoint.Client.ListExtensions.7dfceb65.md) | Create list views based on specific xml structure in external file
 | [CreateViewsFromXMLString(Web, String, String)](Microsoft.SharePoint.Client.ListExtensions.a682431e.md) | Creates views based on specific xml structure from string
 | [CreateViewsFromXMLString(List, String)](Microsoft.SharePoint.Client.ListExtensions.e6e048f7.md) | Create list views based on specific xml structure in string
-| [GetDefaultColumnValues(List)](Microsoft.SharePoint.Client.ListExtensions.b3d11314.md) |  <para>Gets default values for column values.</para> <para></para> <para>The returned list contains one dictionary per default setting per folder.</para> <para>Each dictionary has the following keys set: Path, Field, Value</para> <para></para> <para>Path: Relative path to the library/folder</para> <para>Field: Internal name of the field which has a default value</para> <para>Value: The default value for the field</para> 
+| [GetDefaultColumnValues(List)](Microsoft.SharePoint.Client.ListExtensions.b3d11314.md) |  &lt;para&gt;Gets default values for column values.&lt;/para&gt; &lt;para&gt;&lt;/para&gt; &lt;para&gt;The returned list contains one dictionary per default setting per folder.&lt;/para&gt; &lt;para&gt;Each dictionary has the following keys set: Path, Field, Value&lt;/para&gt; &lt;para&gt;&lt;/para&gt; &lt;para&gt;Path: Relative path to the library/folder&lt;/para&gt; &lt;para&gt;Field: Internal name of the field which has a default value&lt;/para&gt; &lt;para&gt;Value: The default value for the field&lt;/para&gt; 
 | [GetEventReceiverById(List, Guid)](Microsoft.SharePoint.Client.ListExtensions.63be7c1a.md) | Returns an event receiver definition
 | [GetEventReceiverByName(List, String)](Microsoft.SharePoint.Client.ListExtensions.fcdeff9f.md) | Returns an event receiver definition
 | [GetListByTitle(Web, String, Expression<Func<List, Object>>[])](Microsoft.SharePoint.Client.ListExtensions.8078cf54.md) | 
@@ -42,7 +42,7 @@ public static class ListExtensions
 | [PropertyBagContainsKey(List, String)](Microsoft.SharePoint.Client.ListExtensions.1fcb2c8b.md) | Checks if the given property bag entry exists
 | [ReIndexList(List)](Microsoft.SharePoint.Client.ListExtensions.9d2ca161.md) | Queues a list for a full crawl the next incremental crawl
 | [RemoveContentTypeByName(List, String)](Microsoft.SharePoint.Client.ListExtensions.8e0c93ca.md) | Removes a content type from a list/library by name
-| [SetDefaultColumnValues(List, IEnumerable<IDefaultColumnValue>)](Microsoft.SharePoint.Client.ListExtensions.4bb08d61.md) |  <para>Sets default values for column values.</para> <para>In order to for instance set the default Enterprise Metadata keyword field to a term, add the enterprise metadata keyword to a library (internal name "TaxKeyword")</para> <para></para> <para>Column values are defined by the DefaultColumnValue class that has 3 properties:</para> <para>RelativeFolderPath : / to set a default value for the root of the document library, or /foldername to specify a subfolder</para> <para>FieldInternalName : The name of the field to set. For instance "TaxKeyword" to set the Enterprise Metadata field</para> <para>Terms : A collection of Taxonomy terms to set</para> <para></para> <para>Supported column types: Metadata, Text, Choice, MultiChoice, People, Boolean, DateTime, Number, Currency</para> 
+| [SetDefaultColumnValues(List, IEnumerable<IDefaultColumnValue>)](Microsoft.SharePoint.Client.ListExtensions.4bb08d61.md) |  &lt;para&gt;Sets default values for column values.&lt;/para&gt; &lt;para&gt;In order to for instance set the default Enterprise Metadata keyword field to a term, add the enterprise metadata keyword to a library (internal name "TaxKeyword")&lt;/para&gt; &lt;para&gt;&lt;/para&gt; &lt;para&gt;Column values are defined by the DefaultColumnValue class that has 3 properties:&lt;/para&gt; &lt;para&gt;RelativeFolderPath : / to set a default value for the root of the document library, or /foldername to specify a subfolder&lt;/para&gt; &lt;para&gt;FieldInternalName : The name of the field to set. For instance "TaxKeyword" to set the Enterprise Metadata field&lt;/para&gt; &lt;para&gt;Terms : A collection of Taxonomy terms to set&lt;/para&gt; &lt;para&gt;&lt;/para&gt; &lt;para&gt;Supported column types: Metadata, Text, Choice, MultiChoice, People, Boolean, DateTime, Number, Currency&lt;/para&gt; 
 | [SetJSLinkCustomizations(List, PageType, String)](Microsoft.SharePoint.Client.ListExtensions.2f8c0ee3.md) | Sets JS link customization for a list form
 | [SetJSLinkCustomizations(List, String, String)](Microsoft.SharePoint.Client.ListExtensions.81a6f21d.md) | Sets JS link customization for a list view page
 | [SetListPermission(List, BuiltInIdentity, RoleType)](Microsoft.SharePoint.Client.ListExtensions.1f730c53.md) | Set custom permission to the list
@@ -56,7 +56,8 @@ public static class ListExtensions
 | [UpdateTaxonomyFieldDefaultValue(Web, String, String, String, Guid, Guid)](Microsoft.SharePoint.Client.ListExtensions.24c445b5.md) | Sets the default value for a managed metadata column in the specified list. This operation will not change existing items in the list
 ## Examples
 ```C#
-list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
+
+ list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
             
 ```
 

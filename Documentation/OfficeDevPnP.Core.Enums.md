@@ -11,4 +11,4 @@
 |[SharePointPlatform](OfficeDevPnP.Core.Enums.SharePointPlatform.md)||
 |[StructuralNavigationSortBy](OfficeDevPnP.Core.Enums.StructuralNavigationSortBy.md)||
 |[StructuralNavigationSorting](OfficeDevPnP.Core.Enums.StructuralNavigationSorting.md)||
-|[TimeZone](OfficeDevPnP.Core.Enums.TimeZone.md)|Timezones to use when creating sitecollections Format UTC[PLUS|MINUS][HH:MM]_[DESCRIPTION]|
+|[TimeZone](OfficeDevPnP.Core.Enums.TimeZone.md)|Timezones to use when creating sitecollections Format UTC[PLUS&brvbar;MINUS][HH:MM]_[DESCRIPTION]|

@@ -1,5 +1,5 @@
 # DefaultColumnTermValue.Properties Terms
- Taxonomy paths in the shape of "TermGroup|TermSet|Term"   
+ Taxonomy paths in the shape of "TermGroup&brvbar;TermSet&brvbar;Term"   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

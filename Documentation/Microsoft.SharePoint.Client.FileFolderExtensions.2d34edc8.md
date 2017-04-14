@@ -29,7 +29,8 @@ The newly created folder
  Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters. 
 
 ```C#
-var folder = list.RootFolder.CreateFolder("new-folder");
+
+ var folder = list.RootFolder.CreateFolder("new-folder");
             
 ```
   

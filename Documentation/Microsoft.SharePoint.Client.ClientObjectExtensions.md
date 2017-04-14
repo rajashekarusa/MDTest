@@ -17,8 +17,8 @@ public static class ClientObjectExtensions
 | [IsObjectPropertyInstantiated(T, Expression<Func<T, Object>>)](Microsoft.SharePoint.Client.ClientObjectExtensions.21ee3124.md) | Check if a property is instantiated on a object
 | [IsPropertyAvailable(T, Expression<Func<T, Object>>)](Microsoft.SharePoint.Client.ClientObjectExtensions.18c63636.md) | Check if a property is available on a object
 | [ServerObjectIsNull(T)](Microsoft.SharePoint.Client.ClientObjectExtensions.bd54c126.md) | Checks if the ClientObject is null
-| [ToUntypedPropertyExpression(Expression<Func<TInput, TOutput>>)](Microsoft.SharePoint.Client.ClientObjectExtensions.966602f3.md) | Converts generic Expression<Func<TInput, TOutput>> to Expression with object return type - Expression<Func<TInput, object>>
-| [ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>>)](Microsoft.SharePoint.Client.ClientObjectExtensions.57555fd4.md) | Converts generic Expression<Func<TInput, TOutput>> to Expression with object return type - Expression<Func<TInput, object>>
+| [ToUntypedPropertyExpression(Expression<Func<TInput, TOutput>>)](Microsoft.SharePoint.Client.ClientObjectExtensions.966602f3.md) | Converts generic Expression&lt;Func&lt;TInput, TOutput&gt;&gt; to Expression with object return type - Expression&lt;Func&lt;TInput, object&gt;&gt;
+| [ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>>)](Microsoft.SharePoint.Client.ClientObjectExtensions.57555fd4.md) | Converts generic Expression&lt;Func&lt;TInput, TOutput&gt;&gt; to Expression with object return type - Expression&lt;Func&lt;TInput, object&gt;&gt;
 ## See also
 - Microsoft.SharePoint.Client.ClientObject
 - System.Linq.Expressions.Expression

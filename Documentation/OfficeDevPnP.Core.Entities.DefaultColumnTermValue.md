@@ -17,6 +17,6 @@ public class DefaultColumnTermValue: DefaultColumnValue
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Terms](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.Terms.md) | Taxonomy paths in the shape of "TermGroup|TermSet|Term"
+| [Terms](OfficeDevPnP.Core.Entities.DefaultColumnTermValue.Terms.md) | Taxonomy paths in the shape of "TermGroup&brvbar;TermSet&brvbar;Term"
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)
