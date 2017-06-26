@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId, String appSecret, AzureEnvironment environment)
+public ClientContext GetAppOnlyAuthenticatedContext(String siteUrl, String appId, String appSecret, AzureEnvironment environment = 0)
 ```
 ### Parameters
 #### siteUrl  
@@ -37,8 +37,6 @@ Type: ClientContext
 ClientContext to be used by CSOM code  
 
 
-## Remarks
-  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

@@ -10,17 +10,15 @@ public string ToXML(ITemplateFormatter formatter)
 ### Parameters
 #### (optional) formatter  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md)  
-&emsp;&emsp; Serializes a template to XML   
+&emsp;&emsp;ITemplateFormatter object  
 
   
 
 ### Return Value
 Type: string  
-  
+Returns XML string for the given stream  
 
 
-## Remarks
-  
 ## See also
 - [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md) 

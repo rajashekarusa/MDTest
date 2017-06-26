@@ -1,5 +1,5 @@
 # ProvisioningTemplate.ProvisioningTemplate members 
-  
+ Constructor for ProvisioningTemplate class   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,7 +10,7 @@ public ProvisioningTemplate(FileConnectorBase connector)
 ### Parameters
 #### connector  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md)  
-&emsp;&emsp;  
+&emsp;&emsp;FileConnectorBase object  
 
 
 ## See also

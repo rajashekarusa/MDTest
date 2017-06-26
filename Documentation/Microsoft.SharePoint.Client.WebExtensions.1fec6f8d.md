@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DisableRequestAccess(Web web)
+public static void DisableRequestAccess(this Web web)
 ```
 ### Parameters
 #### web  
@@ -17,8 +17,6 @@ public static void DisableRequestAccess(Web web)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

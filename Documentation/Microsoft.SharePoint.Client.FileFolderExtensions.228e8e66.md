@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Folder ResolveSubFolder(Folder folder, String folderName)
+public static Folder ResolveSubFolder(this Folder folder, String folderName)
 ```
 ### Parameters
 #### folder  
@@ -25,8 +25,6 @@ Type: Folder
 The found Microsoft.SharePoint.Client.Folder if available, null otherwise  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - Microsoft.SharePoint.Client.Folder

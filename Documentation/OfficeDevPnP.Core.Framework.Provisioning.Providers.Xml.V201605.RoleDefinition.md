@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class RoleDefinition
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [RoleDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.RoleDefinition.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,5 +1,5 @@
 # ExternalUserEntity.Properties AcceptedAs
-  
+ External user accepted as with this value   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -1,5 +1,5 @@
 # CanvasControl.Properties Order
-  
+ Order of the control in the control collection   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

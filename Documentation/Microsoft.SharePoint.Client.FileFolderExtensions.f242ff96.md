@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool DoesFolderExists(Web web, String serverRelativeFolderUrl)
+public static bool DoesFolderExists(this Web web, String serverRelativeFolderUrl)
 ```
 ### Parameters
 #### web  
@@ -22,11 +22,9 @@ public static bool DoesFolderExists(Web web, String serverRelativeFolderUrl)
 
 ### Return Value
 Type: bool  
-  
+Returns true if folder exists  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

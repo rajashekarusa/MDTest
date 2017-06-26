@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties message_prompt
-  
+ Yammer user message promt   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

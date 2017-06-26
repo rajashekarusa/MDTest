@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List<SiteEntity> MySiteSearch(Web web)
+public static List<SiteEntity> MySiteSearch(this Web web)
 ```
 ### Parameters
 #### web  
@@ -19,8 +19,6 @@ Type: List<SiteEntity>
 All my site site collections  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

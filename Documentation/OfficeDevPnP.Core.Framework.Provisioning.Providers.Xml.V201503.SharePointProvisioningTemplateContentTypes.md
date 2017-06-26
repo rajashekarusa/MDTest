@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class SharePointProvisioningTemplateContentTypes
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SharePointProvisioningTemplateContentTypes()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateContentTypes.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

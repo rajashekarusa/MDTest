@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ProvisioningTemplate PreProcessSaveTemplate(ProvisioningTemplate template)
+public abstract ProvisioningTemplate PreProcessSaveTemplate(ProvisioningTemplate template)
 ```
 ### Parameters
 #### template  
@@ -15,12 +15,10 @@ public ProvisioningTemplate PreProcessSaveTemplate(ProvisioningTemplate template
   
 
 ### Return Value
-Type: ProvisioningTemplate  
+Type: [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 The resulting template, after pre-processing  
 
 
-## Remarks
-  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

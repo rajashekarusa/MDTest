@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreateFieldsFromXML(Web web, XDocument xDocument)
+public static void CreateFieldsFromXML(this Web web, XDocument xDocument)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void CreateFieldsFromXML(Web web, XDocument xDocument)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Stream ToFormattedTemplate(ProvisioningTemplate template)
+public abstract Stream ToFormattedTemplate(ProvisioningTemplate template)
 ```
 ### Parameters
 #### template  
@@ -19,8 +19,6 @@ Type: Stream
 The output formatted template as a Stream  
 
 
-## Remarks
-  
 ## See also
 - [ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

@@ -1,5 +1,5 @@
 # ClientSidePage.Properties PagesLibrary
-  
+ The site relative path to SitePages library   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

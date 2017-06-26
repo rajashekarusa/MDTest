@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class RoleAssignment
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [RoleAssignment()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.RoleAssignment.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

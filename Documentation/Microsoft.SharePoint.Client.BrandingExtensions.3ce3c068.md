@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void EnableResponsiveUI(Site site, String infrastructureUrl)
+public static void EnableResponsiveUI(this Site site, String infrastructureUrl)
 ```
 ### Parameters
 #### site  
@@ -23,8 +23,6 @@ public static void EnableResponsiveUI(Site site, String infrastructureUrl)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

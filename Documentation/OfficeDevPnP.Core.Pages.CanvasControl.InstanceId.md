@@ -1,5 +1,5 @@
 # CanvasControl.Properties InstanceId
-  
+ Instance ID of the control   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

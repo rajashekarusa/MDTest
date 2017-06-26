@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SharingResult ShareSite(Web web, String email, Group group, Boolean sendEmail, String emailBody)
+public static SharingResult ShareSite(this Web web, String email, Group group, Boolean sendEmail = True, String emailBody = "Site shared for you.")
 ```
 ### Parameters
 #### web  
@@ -41,8 +41,6 @@ public static SharingResult ShareSite(Web web, String email, Group group, Boolea
 ### Return Value
 Type: SharingResult  
 
-## Remarks
-  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

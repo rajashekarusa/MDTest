@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool IsInPlaceRecordsManagementActive(Site site)
+public static bool IsInPlaceRecordsManagementActive(this Site site)
 ```
 ### Parameters
 #### site  
@@ -19,8 +19,6 @@ Type: bool
 True if in place records management is enabled, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

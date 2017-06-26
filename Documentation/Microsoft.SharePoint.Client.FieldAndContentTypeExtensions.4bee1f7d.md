@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddContentTypeToListByName(Web web, String listTitle, String contentTypeName, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
+public static void AddContentTypeToListByName(this Web web, String listTitle, String contentTypeName, Boolean defaultContent = False, Boolean searchContentTypeInSiteHierarchy = False)
 ```
 ### Parameters
 #### web  
@@ -41,8 +41,6 @@ public static void AddContentTypeToListByName(Web web, String listTitle, String 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

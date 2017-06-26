@@ -1,5 +1,5 @@
 # YammerUser.Properties web_oauth_access_token
-  
+ Represents yammer user web auth access token   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

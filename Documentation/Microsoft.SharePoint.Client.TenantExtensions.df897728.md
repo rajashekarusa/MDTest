@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool IsSiteActive(Tenant tenant, String siteFullUrl)
+public static bool IsSiteActive(this Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
 #### tenant  
@@ -25,8 +25,6 @@ Type: bool
 True if active, false if not  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

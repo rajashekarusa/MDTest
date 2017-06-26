@@ -11,10 +11,6 @@ System.Object
 ```C#
 public class StringDictionaryItem
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [StringDictionaryItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.StringDictionaryItem.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

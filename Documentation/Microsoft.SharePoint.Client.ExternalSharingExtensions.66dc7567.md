@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SharingResult ShareDocument(Web web, String urlToDocument, String targetEmailToShare, ExternalSharingDocumentOption shareOption, Boolean sendEmail, String emailBody, Boolean useSimplifiedRoles)
+public static SharingResult ShareDocument(this Web web, String urlToDocument, String targetEmailToShare, ExternalSharingDocumentOption shareOption, Boolean sendEmail = True, String emailBody = "Document shared", Boolean useSimplifiedRoles = True)
 ```
 ### Parameters
 #### web  
@@ -53,8 +53,6 @@ public static SharingResult ShareDocument(Web web, String urlToDocument, String 
 ### Return Value
 Type: SharingResult  
 
-## Remarks
-  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client.ExternalSharingExtensions.ShareDocument(Microsoft.SharePoint.Client.Web,System.String,System.String,Microsoft.SharePoint.Client.ExternalSharingDocumentOption,System.Boolean,System.String,System.Boolean)](Microsoft.SharePoint.Client.ExternalSharingExtensions.66dc7567.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteWebPart(Web web, String folder, String title, String page)
+public static void DeleteWebPart(this Web web, String folder, String title, String page)
 ```
 ### Parameters
 #### web  
@@ -35,8 +35,6 @@ public static void DeleteWebPart(Web web, String folder, String title, String pa
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

@@ -15,7 +15,7 @@ public void Import(ClientSideComponent component, Func<String, String> clientSid
   
 
 #### (optional) clientSideWebPartPropertiesUpdater  
-&emsp;&emsp;Type: System.Func<System.String, System.String>  
+&emsp;&emsp;Type: System.Func&lt;System.String, System.String&gt;  
 &emsp;&emsp;Function callback that allows you to manipulate the client side web part properties after import  
 
   
@@ -23,8 +23,6 @@ public void Import(ClientSideComponent component, Func<String, String> clientSid
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages.ClientSideComponent](OfficeDevPnP.Core.Pages.ClientSideComponent.md)

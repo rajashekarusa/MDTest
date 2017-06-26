@@ -1,5 +1,5 @@
 # ExternalUserEntity.Properties WhenCreated
-  
+ Date Time of External user creation   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

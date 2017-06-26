@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveFieldById(Web web, String fieldId)
+public static void RemoveFieldById(this Web web, String fieldId)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Removes a field by specifying its ID   
+&emsp;&emsp;Web to process  
 
   
 
@@ -23,8 +23,6 @@ public static void RemoveFieldById(Web web, String fieldId)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

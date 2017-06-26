@@ -1,5 +1,5 @@
 # ClientSideWebPartData.Properties Title
-  
+ Gets or sets JsonProperty "title"   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

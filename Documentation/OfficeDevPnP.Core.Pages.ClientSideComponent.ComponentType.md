@@ -1,5 +1,5 @@
 # ClientSideComponent.Properties ComponentType
-  
+ Component type for client side webpart object   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

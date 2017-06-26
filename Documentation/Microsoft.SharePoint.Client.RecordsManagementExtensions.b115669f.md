@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static EcmListManualRecordDeclaration GetListManualRecordDeclaration(List list)
+public static EcmListManualRecordDeclaration GetListManualRecordDeclaration(this List list)
 ```
 ### Parameters
 #### list  
@@ -15,12 +15,10 @@ public static EcmListManualRecordDeclaration GetListManualRecordDeclaration(List
   
 
 ### Return Value
-Type: EcmListManualRecordDeclaration  
+Type: [EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)  
  OfficeDevPnP.Core.EcmListManualRecordDeclaration enum that defines the manual in place record declaration settings for this list  
 
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)

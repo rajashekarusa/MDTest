@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static IList<ImageRendition> GetPublishingImageRenditions(Web web)
+public static IList<ImageRendition> GetPublishingImageRenditions(this Web web)
 ```
 ### Parameters
 #### web  
@@ -17,8 +17,6 @@ public static IList<ImageRendition> GetPublishingImageRenditions(Web web)
 ### Return Value
 Type: IList<ImageRendition>  
 
-## Remarks
-  
 ## See also
 - [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

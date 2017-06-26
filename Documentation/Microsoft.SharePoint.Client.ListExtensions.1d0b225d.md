@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetWebRelativeUrl(List list)
+public static string GetWebRelativeUrl(this List list)
 ```
 ### Parameters
 #### list  
@@ -19,8 +19,6 @@ Type: string
 The web relative URL of the list.  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

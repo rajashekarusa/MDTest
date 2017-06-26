@@ -1,22 +1,22 @@
 # IWebPartPostProcessor.Process Method  
-  
+ Method for processing webpart   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts](OfficeDevPnP.Core.Utilities.WebParts.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Process(WebPartDefinition wpDefinition, File webPartPage)
+public abstract void Process(WebPartDefinition wpDefinition, File webPartPage)
 ```
 ### Parameters
 #### wpDefinition  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WebParts.WebPartDefinition  
-&emsp;&emsp;  
+&emsp;&emsp;WebPartDefinition object  
 
   
 
 #### webPartPage  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.File  
-&emsp;&emsp;  
+&emsp;&emsp;File object  
 
   
 

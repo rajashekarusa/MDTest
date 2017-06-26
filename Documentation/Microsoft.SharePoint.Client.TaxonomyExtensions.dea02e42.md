@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TermSet ImportTermSet(TermGroup termGroup, Stream termSetData, Guid termSetId, Boolean synchroniseDeletions, Nullable<Boolean> termSetIsOpen, String termSetContact, String termSetOwner)
+public static TermSet ImportTermSet(this TermGroup termGroup, Stream termSetData, Guid termSetId, Boolean synchroniseDeletions = False, Nullable<Boolean> termSetIsOpen, String termSetContact, String termSetOwner)
 ```
 ### Parameters
 #### termGroup  
@@ -33,7 +33,7 @@ public static TermSet ImportTermSet(TermGroup termGroup, Stream termSetData, Gui
   
 
 #### (optional) termSetIsOpen  
-&emsp;&emsp;Type: System.Nullable<System.Boolean>  
+&emsp;&emsp;Type: System.Nullable&lt;System.Boolean&gt;  
 &emsp;&emsp;(Optional) Whether the term set should be marked open; if not passed, then the existing setting is not changed  
 
   

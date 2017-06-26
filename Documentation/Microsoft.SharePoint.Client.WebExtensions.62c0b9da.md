@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetPropertyBagValue(Web web, String key, Int32 value)
+public static void SetPropertyBagValue(this Web web, String key, Int32 value)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void SetPropertyBagValue(Web web, String key, Int32 value)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

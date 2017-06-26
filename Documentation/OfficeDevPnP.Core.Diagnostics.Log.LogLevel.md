@@ -1,5 +1,5 @@
 # Log.Properties LogLevel
-  
+ Gets or sets Log Level   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties prescribed_my_feed
-  
+ Represents yammer user prescribed feed   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

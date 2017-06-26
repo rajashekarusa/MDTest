@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List CreateDocumentLibrary(Web web, String listName, Boolean enableVersioning, String urlPath)
+public static List CreateDocumentLibrary(this Web web, String listName, Boolean enableVersioning = False, String urlPath = "")
 ```
 ### Parameters
 #### web  
@@ -28,15 +28,13 @@ public static List CreateDocumentLibrary(Web web, String listName, Boolean enabl
 
 #### (optional) urlPath  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Adds a document library to a web. Execute Query is called during this implementation   
+&emsp;&emsp;Path of the url  
 
   
 
 ### Return Value
 Type: List  
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - System.ArgumentException

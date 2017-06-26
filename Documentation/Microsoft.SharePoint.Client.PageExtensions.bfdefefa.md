@@ -1,11 +1,11 @@
 # PageExtensions.GetWikiPageContent Method  
- Returns the HTML contents of a wiki page   
+ Gets the HTML contents of a wiki page   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetWikiPageContent(Web web, String serverRelativePageUrl)
+public static string GetWikiPageContent(this Web web, String serverRelativePageUrl)
 ```
 ### Parameters
 #### web  
@@ -22,11 +22,9 @@ public static string GetWikiPageContent(Web web, String serverRelativePageUrl)
 
 ### Return Value
 Type: string  
-  
+Returns the HTML contents of a wiki page  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

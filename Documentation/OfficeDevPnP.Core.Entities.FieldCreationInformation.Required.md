@@ -1,5 +1,5 @@
 # FieldCreationInformation.Properties Required
-  
+ Specifies filds is required to enter vlaue or not.   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

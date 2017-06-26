@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetPropertyBagValueString(List list, String key, String defaultValue)
+public static string GetPropertyBagValueString(this List list, String key, String defaultValue)
 ```
 ### Parameters
 #### list  
@@ -22,7 +22,7 @@ public static string GetPropertyBagValueString(List list, String key, String def
 
 #### defaultValue  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Get string typed property bag value. If does not contain, returns given default value.   
+&emsp;&emsp;Default value of the property bag  
 
   
 
@@ -31,8 +31,6 @@ Type: string
 Value of the property bag entry as string  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

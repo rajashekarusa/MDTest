@@ -1,5 +1,5 @@
 # YammerGroupStats.Properties updates
-  
+ Number of updates of the yammer group   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

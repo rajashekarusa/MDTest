@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class TermGroup: TaxonomyItem
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [TermGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.TermGroup.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

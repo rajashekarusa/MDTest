@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool ComposedLookExists(Web web, String composedLookName)
+public static bool ComposedLookExists(this Web web, String composedLookName)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 true if it exists; otherwise false  
 
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

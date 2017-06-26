@@ -1,5 +1,5 @@
 # YammerUser.Properties verified_admin
-  
+ Represents yammer user verified admin   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

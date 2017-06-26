@@ -1,5 +1,5 @@
 # XMLAzureStorageTemplateProvider.XMLAzureStorageTemplateProvider members 
-  
+ Constructor   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,12 @@ public XMLAzureStorageTemplateProvider(string connectionString, string container
 ### Parameters
 #### connectionString  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp; Constructor   
 
 
 #### container  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp; Constructor   
 
 
 ## See also

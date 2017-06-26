@@ -1,5 +1,5 @@
 # YammerUserHomeTab.Properties group_id
-  
+ Represents group id of user   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

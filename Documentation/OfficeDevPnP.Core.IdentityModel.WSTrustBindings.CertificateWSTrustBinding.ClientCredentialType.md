@@ -1,5 +1,5 @@
 # CertificateWSTrustBinding.Properties ClientCredentialType
-  
+ Gets or sets Http client credential type   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

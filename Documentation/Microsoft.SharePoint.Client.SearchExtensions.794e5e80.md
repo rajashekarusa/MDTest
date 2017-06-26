@@ -5,26 +5,24 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetSearchConfiguration(Web web, String searchConfiguration)
+public static void SetSearchConfiguration(this Web web, String searchConfiguration)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Sets the search configuration   
+&emsp;&emsp;A SharePoint site/subsite  
 
   
 
 #### searchConfiguration  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Sets the search configuration   
+&emsp;&emsp;search configuration  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SearchExtensions](Microsoft.SharePoint.Client.SearchExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

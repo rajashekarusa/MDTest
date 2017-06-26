@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid GetSiteGuidByUrl(Tenant tenant, Uri siteFullUrl)
+public static Guid GetSiteGuidByUrl(this Tenant tenant, Uri siteFullUrl)
 ```
 ### Parameters
 #### tenant  
@@ -25,8 +25,6 @@ Type: Guid
 The Guid of a site collection or an Guid.Empty if the Site does not exist  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

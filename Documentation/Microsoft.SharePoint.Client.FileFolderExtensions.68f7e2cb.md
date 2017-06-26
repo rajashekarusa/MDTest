@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static File GetFile(Folder folder, String fileName)
+public static File GetFile(this Folder folder, String fileName)
 ```
 ### Parameters
 #### folder  
@@ -25,8 +25,6 @@ Type: File
 The target file if found, null if no file is found.  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

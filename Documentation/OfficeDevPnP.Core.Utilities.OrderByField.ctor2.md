@@ -1,5 +1,5 @@
 # OrderByField.OrderByField members 
-  
+ Constructor for OrderByField class   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,12 @@ public OrderByField(string name, bool ascending)
 ### Parameters
 #### name  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;Name of the field  
 
 
 #### ascending  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp;  
+&emsp;&emsp;If we want to order in ascending order  
 
 
 ## See also

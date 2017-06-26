@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ContentType CreateContentType(Web web, String name, String id, String group)
+public static ContentType CreateContentType(this Web web, String name, String id, String group)
 ```
 ### Parameters
 #### web  
@@ -34,11 +34,9 @@ public static ContentType CreateContentType(Web web, String name, String id, Str
 
 ### Return Value
 Type: ContentType  
-  
+Returns newly created content type  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetLocalizationForField(Field field, String cultureName, String titleResource, String descriptionResource)
+public static void SetLocalizationForField(this Field field, String cultureName, String titleResource, String descriptionResource)
 ```
 ### Parameters
 #### field  
@@ -35,8 +35,6 @@ public static void SetLocalizationForField(Field field, String cultureName, Stri
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void InstallSolution(Site site, Guid packageGuid, String sourceFilePath, Int32 majorVersion, Int32 minorVersion)
+public static void InstallSolution(this Site site, Guid packageGuid, String sourceFilePath, Int32 majorVersion = 1, Int32 minorVersion = 0)
 ```
 ### Parameters
 #### site  
@@ -41,8 +41,6 @@ public static void InstallSolution(Site site, Guid packageGuid, String sourceFil
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

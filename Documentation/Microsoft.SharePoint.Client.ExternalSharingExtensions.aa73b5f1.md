@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SharingResult InviteExternalUser(Group group, String email, Boolean sendEmail, String emailBody)
+public static SharingResult InviteExternalUser(this Group group, String email, Boolean sendEmail = True, String emailBody = "Site shared with you.")
 ```
 ### Parameters
 #### group  
@@ -34,11 +34,9 @@ public static SharingResult InviteExternalUser(Group group, String email, Boolea
 
 ### Return Value
 Type: SharingResult  
-  
+A SharingResult object  
 
 
-## Remarks
-  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

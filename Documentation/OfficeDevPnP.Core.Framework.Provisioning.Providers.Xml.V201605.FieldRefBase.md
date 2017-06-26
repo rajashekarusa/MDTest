@@ -12,10 +12,6 @@ System.Object
 ```C#
 public class FieldRefBase
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [FieldRefBase()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.FieldRefBase.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

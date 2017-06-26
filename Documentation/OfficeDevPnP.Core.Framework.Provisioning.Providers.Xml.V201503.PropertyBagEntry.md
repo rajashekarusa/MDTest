@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PropertyBagEntry
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PropertyBagEntry()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.PropertyBagEntry.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

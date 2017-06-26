@@ -1,5 +1,5 @@
 # TermSet.TermSet members 
-  
+ Constructor for TermSet class   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

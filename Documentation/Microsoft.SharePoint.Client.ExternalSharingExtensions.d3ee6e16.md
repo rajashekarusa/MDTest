@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SharingResult ShareSiteWithPeoplePickerValue(Web web, String peoplePickerInput, Group group, Boolean sendEmail, String emailBody)
+public static SharingResult ShareSiteWithPeoplePickerValue(this Web web, String peoplePickerInput, Group group, Boolean sendEmail = True, String emailBody = "Site shared for you.")
 ```
 ### Parameters
 #### web  
@@ -40,11 +40,9 @@ public static SharingResult ShareSiteWithPeoplePickerValue(Web web, String peopl
 
 ### Return Value
 Type: SharingResult  
-  
+A SharingResult object  
 
 
-## Remarks
-  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

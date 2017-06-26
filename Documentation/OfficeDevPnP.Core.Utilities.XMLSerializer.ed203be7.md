@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string Serialize(T objectToSerialize)
+public static string Serialize<T>(T objectToSerialize)
 ```
 ### Parameters
 #### objectToSerialize  
 &emsp;&emsp;Type: T  
-&emsp;&emsp; Serializes an object instance to an XML represented string.   
+&emsp;&emsp;Object to serialize  
 
   
 
@@ -19,8 +19,6 @@ Type: string
 An string that represents the serialized object.  
 
 
-## Remarks
-  
 ## See also
 - [XMLSerializer](OfficeDevPnP.Core.Utilities.XMLSerializer.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

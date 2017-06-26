@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool RemoveIndexedPropertyBagKey(Web web, String key)
+public static bool RemoveIndexedPropertyBagKey(this Web web, String key)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 Returns True if succeeded  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

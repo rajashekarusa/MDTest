@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string AddNavigationFriendlyUrl(PublishingPage page, Web web, String navigationTitle, String friendlyUrlSegment, NavigationTermSetItem editableParent, Boolean showInGlobalNavigation, Boolean showInCurrentNavigation)
+public static string AddNavigationFriendlyUrl(this PublishingPage page, Web web, String navigationTitle, String friendlyUrlSegment, NavigationTermSetItem editableParent, Boolean showInGlobalNavigation = True, Boolean showInCurrentNavigation = True)
 ```
 ### Parameters
 #### page  
@@ -55,8 +55,6 @@ Type: string
 The simple link URL just created.  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

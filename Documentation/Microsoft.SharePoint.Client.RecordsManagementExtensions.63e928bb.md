@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool GetManualRecordDeclarationInAllLocations(Site site)
+public static bool GetManualRecordDeclarationInAllLocations(this Site site)
 ```
 ### Parameters
 #### site  
@@ -19,8 +19,6 @@ Type: bool
 True if records management is allowed in all places, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

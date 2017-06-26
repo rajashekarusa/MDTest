@@ -1,5 +1,5 @@
 # TemplateProviderBase.Properties Parameters
-  
+ Template parameters   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

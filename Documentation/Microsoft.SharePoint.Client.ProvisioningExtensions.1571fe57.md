@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ProvisionElementXml(Web web, String baseFolder, XElement elementsXml)
+public static void ProvisionElementXml(this Web web, String baseFolder, XElement elementsXml)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void ProvisionElementXml(Web web, String baseFolder, XElement elem
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ProvisioningExtensions](Microsoft.SharePoint.Client.ProvisioningExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static NavigationNode AddNavigationNode(Web web, String nodeTitle, Uri nodeUri, String parentNodeTitle, NavigationType navigationType, Boolean isExternal, Boolean asLastNode)
+public static NavigationNode AddNavigationNode(this Web web, String nodeTitle, Uri nodeUri, String parentNodeTitle, NavigationType navigationType, Boolean isExternal = False, Boolean asLastNode = True)
 ```
 ### Parameters
 #### web  
@@ -55,8 +55,6 @@ Type: NavigationNode
 Newly added NavigationNode  
 
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

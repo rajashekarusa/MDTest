@@ -13,6 +13,6 @@ public class FolderCollection: ProvisioningTemplateCollection<Folder>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [FolderCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection.ctor1.md) |  Collection of Folder objects 
+| [FolderCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.FolderCollection.ctor1.md) | Constructor for Folder class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class WikiPageWebPart: IXmlSerializable
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WikiPageWebPart.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -20,7 +16,7 @@ public class WikiPageWebPart: IXmlSerializable
 | [Contents](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WikiPageWebPart.Contents.md) | 
 | [Row](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WikiPageWebPart.Row.md) | 
 | [Title](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WikiPageWebPart.Title.md) | 
-## Extension Methods
+## Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WikiPageWebPart.b4f30151.md) | 

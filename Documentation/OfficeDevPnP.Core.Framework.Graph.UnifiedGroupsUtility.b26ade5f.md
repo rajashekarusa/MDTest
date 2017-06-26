@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteUnifiedGroup(String groupId, String accessToken, Int32 retryCount, Int32 delay)
+public static void DeleteUnifiedGroup(String groupId, String accessToken, Int32 retryCount = 10, Int32 delay = 500)
 ```
 ### Parameters
 #### groupId  
@@ -35,8 +35,6 @@ public static void DeleteUnifiedGroup(String groupId, String accessToken, Int32 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [UnifiedGroupsUtility](OfficeDevPnP.Core.Framework.Graph.UnifiedGroupsUtility.md) 
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md) 

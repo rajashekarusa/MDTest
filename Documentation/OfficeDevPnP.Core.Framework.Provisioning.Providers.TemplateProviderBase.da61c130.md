@@ -1,16 +1,16 @@
 # TemplateProviderBase.Save Method  
-  
+ Saves ProvisioningTemplate   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Save(ProvisioningTemplate template)
+public abstract void Save(ProvisioningTemplate template)
 ```
 ### Parameters
 #### template  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
-&emsp;&emsp;  
+&emsp;&emsp;Provisioning Template  
 
   
 

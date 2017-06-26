@@ -1,5 +1,5 @@
 # CanvasControl.Properties CanvasControlData
-  
+ Value of the control's "data-sp-canvascontrol" attribute   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

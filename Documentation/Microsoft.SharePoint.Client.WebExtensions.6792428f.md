@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Web CreateWeb(Web parentWeb, SiteEntity subsite, Boolean inheritPermissions, Boolean inheritNavigation)
+public static Web CreateWeb(this Web parentWeb, SiteEntity subsite, Boolean inheritPermissions = True, Boolean inheritNavigation = True)
 ```
 ### Parameters
 #### parentWeb  
@@ -37,8 +37,6 @@ Type: Web
   
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

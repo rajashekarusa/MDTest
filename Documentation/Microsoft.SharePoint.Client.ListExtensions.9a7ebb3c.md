@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void UpdateListVersioning(List list, Boolean enableVersioning, Boolean enableMinorVersioning, Boolean updateAndExecuteQuery)
+public static void UpdateListVersioning(this List list, Boolean enableVersioning, Boolean enableMinorVersioning = True, Boolean updateAndExecuteQuery = True)
 ```
 ### Parameters
 #### list  
@@ -35,8 +35,6 @@ public static void UpdateListVersioning(List list, Boolean enableVersioning, Boo
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

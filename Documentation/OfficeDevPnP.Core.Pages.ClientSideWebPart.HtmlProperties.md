@@ -1,5 +1,5 @@
 # ClientSideWebPart.Properties HtmlProperties
- Value of the data-sp-htmlproperties attribute   
+ Value of the "data-sp-htmlproperties" attribute   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -11,8 +11,6 @@ public string HtmlProperties { get; }
 ### Property Value
 Type: System.String  
 
-## Remarks
-  
 ## See also
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md) 

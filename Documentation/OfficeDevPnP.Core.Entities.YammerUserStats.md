@@ -1,5 +1,5 @@
 # YammerUserStats Class
-  
+ Holds yammer user statistics information   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -9,15 +9,11 @@ System.Object
 ```C#
 public class YammerUserStats
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [YammerUserStats()](OfficeDevPnP.Core.Entities.YammerUserStats.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [followers](OfficeDevPnP.Core.Entities.YammerUserStats.followers.md) | 
-| [following](OfficeDevPnP.Core.Entities.YammerUserStats.following.md) | 
-| [updates](OfficeDevPnP.Core.Entities.YammerUserStats.updates.md) | 
+| [followers](OfficeDevPnP.Core.Entities.YammerUserStats.followers.md) | Number of members following the user
+| [following](OfficeDevPnP.Core.Entities.YammerUserStats.following.md) | Number of memebrs the yammer user following
+| [updates](OfficeDevPnP.Core.Entities.YammerUserStats.updates.md) | Number of updates of the user
 ## See also
 - [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)

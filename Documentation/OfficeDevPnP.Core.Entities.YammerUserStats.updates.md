@@ -1,5 +1,5 @@
 # YammerUserStats.Properties updates
-  
+ Number of updates of the user   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

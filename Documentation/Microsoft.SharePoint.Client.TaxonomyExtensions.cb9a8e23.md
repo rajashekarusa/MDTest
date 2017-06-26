@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TermSetCollection GetTermSetsByName(Site site, String name, Int32 lcid)
+public static TermSetCollection GetTermSetsByName(this Site site, String name, Int32 lcid = 1033)
 ```
 ### Parameters
 #### site  
@@ -28,11 +28,9 @@ public static TermSetCollection GetTermSetsByName(Site site, String name, Int32 
 
 ### Return Value
 Type: TermSetCollection  
-  
+Returns collection of TermSet  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

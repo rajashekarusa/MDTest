@@ -1,5 +1,5 @@
 # UnifiedGroupEntity.Properties Mail
-  
+ Unified group mail   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

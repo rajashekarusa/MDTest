@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool AddIndexedPropertyBagKey(Web web, String key)
+public static bool AddIndexedPropertyBagKey(this Web web, String key)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 Returns True if succeeded  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

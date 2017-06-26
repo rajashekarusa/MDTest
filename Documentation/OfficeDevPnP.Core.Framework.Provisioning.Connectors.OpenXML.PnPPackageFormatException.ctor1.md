@@ -1,5 +1,5 @@
 # PnPPackageFormatException.PnPPackageFormatException members 
-  
+ Constructor for PnPPackageFormatException class with the specified error message.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,7 +10,7 @@ public PnPPackageFormatException(string message)
 ### Parameters
 #### message  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;A string that describes the exception  
 
 
 ## See also

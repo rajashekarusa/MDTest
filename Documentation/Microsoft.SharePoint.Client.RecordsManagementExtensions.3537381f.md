@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ActivateInPlaceRecordsManagementFeature(Site site)
+public static void ActivateInPlaceRecordsManagementFeature(this Site site)
 ```
 ### Parameters
 #### site  
@@ -17,8 +17,6 @@ public static void ActivateInPlaceRecordsManagementFeature(Site site)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

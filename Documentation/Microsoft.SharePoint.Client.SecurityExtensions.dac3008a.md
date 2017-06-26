@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List<ExternalUserEntity> GetExternalUsersTenant(Web web)
+public static List<ExternalUserEntity> GetExternalUsersTenant(this Web web)
 ```
 ### Parameters
 #### web  
@@ -19,8 +19,6 @@ Type: List<ExternalUserEntity>
 A list of  [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)  objects  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [OfficeDevPnP.Core.Entities.ExternalUserEntity](OfficeDevPnP.Core.Entities.ExternalUserEntity.md)

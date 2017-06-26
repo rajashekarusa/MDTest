@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class AuditSettings: BaseModel, IEquatable<AuditSettings>
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [AuditSettings()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.ctor1.md) |  The Audit Settings for the Provisioning Template 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +19,8 @@ public class AuditSettings: BaseModel, IEquatable<AuditSettings>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.3520ddbb.md) | 
-| [Equals(AuditSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.2f7e554c.md) | 
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.3520ddbb.md) | Compares object with AuditSettings
+| [Equals(AuditSettings)](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.2f7e554c.md) | Compares AuditSetting object based on AuditFlags, AuditLogTrimmingRetention and TrimAuditLog properties.
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AuditSettings.1c6872bd.md) | Gets the hash code.
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

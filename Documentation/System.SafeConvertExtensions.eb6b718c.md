@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool ToBoolean(String input)
+public static bool ToBoolean(this String input)
 ```
 ### Parameters
 #### input  
@@ -17,8 +17,6 @@ public static bool ToBoolean(String input)
 ### Return Value
 Type: bool  
 
-## Remarks
-  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

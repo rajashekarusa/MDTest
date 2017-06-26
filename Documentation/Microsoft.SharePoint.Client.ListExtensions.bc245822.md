@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List CreateList(Web web, Guid featureId, Int32 listType, String listName, Boolean enableVersioning, Boolean updateAndExecuteQuery, String urlPath, Boolean enableContentTypes)
+public static List CreateList(this Web web, Guid featureId, Int32 listType, String listName, Boolean enableVersioning, Boolean updateAndExecuteQuery = True, String urlPath = "", Boolean enableContentTypes = False)
 ```
 ### Parameters
 #### web  
@@ -61,8 +61,6 @@ Type: List
 The newly created list  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

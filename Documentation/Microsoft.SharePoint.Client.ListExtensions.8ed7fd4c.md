@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetLocalizationLabelsForList(List list, String cultureName, String titleResource, String descriptionResource)
+public static void SetLocalizationLabelsForList(this List list, String cultureName, String titleResource, String descriptionResource)
 ```
 ### Parameters
 #### list  
@@ -35,12 +35,9 @@ public static void SetLocalizationLabelsForList(List list, String cultureName, S
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## Examples
 ```C#
-
- list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
+list.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
             
 ```
 

@@ -1,5 +1,5 @@
 # PropertyBagEntry.Properties Value
-  
+ Gets or sets the Value for the property bag entry   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ListItem DeployApplicationPackageToAppCatalog(Tenant tenant, String appCatalogSiteUrl, String spPkgName, String spPkgPath, Boolean autoDeploy, Boolean overwrite)
+public static ListItem DeployApplicationPackageToAppCatalog(this Tenant tenant, String appCatalogSiteUrl, String spPkgName, String spPkgPath, Boolean autoDeploy = True, Boolean overwrite = True)
 ```
 ### Parameters
 #### tenant  
@@ -49,8 +49,6 @@ Type: ListItem
 The ListItem of the added package row  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

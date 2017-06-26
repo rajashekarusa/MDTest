@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class SharePointProvisioningTemplateCustomActions
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SharePointProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.SharePointProvisioningTemplateCustomActions.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

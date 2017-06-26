@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool WebExistsByTitle(Web parentWeb, String title)
+public static bool WebExistsByTitle(this Web parentWeb, String title)
 ```
 ### Parameters
 #### parentWeb  
@@ -25,8 +25,6 @@ Type: bool
 True if a web with the given title exists.  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

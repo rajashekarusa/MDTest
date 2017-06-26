@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void PublishFileToLevel(File file, FileLevel level)
+public static void PublishFileToLevel(this File file, FileLevel level)
 ```
 ### Parameters
 #### file  
@@ -23,8 +23,6 @@ public static void PublishFileToLevel(File file, FileLevel level)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

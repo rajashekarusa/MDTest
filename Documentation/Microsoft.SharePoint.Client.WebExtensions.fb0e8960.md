@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Nullable<Int32> GetPropertyBagValueInt(Web web, String key, Int32 defaultValue)
+public static Nullable<Int32> GetPropertyBagValueInt(this Web web, String key, Int32 defaultValue)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: Nullable<Int32>
 Value of the property bag entry as integer  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

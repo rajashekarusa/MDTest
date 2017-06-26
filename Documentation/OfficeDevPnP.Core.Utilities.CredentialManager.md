@@ -1,5 +1,5 @@
 # CredentialManager Class
-  
+ Class for getting and managing Credentials for SharePoint Online and SharePoint Onpremise   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -9,7 +9,7 @@ System.Object
 ```C#
 public static class CredentialManager
 ```
-## Extension Methods
+## Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [GetCredential(String)](OfficeDevPnP.Core.Utilities.CredentialManager.9be51d8d.md) | Returns a NetworkCredential given a certain name. Add the credential in the Windows Credential Manager and create a new Windows Credential. Then add a new GENERIC Credential. The name parameter in the method maps to the Internet or network address field.

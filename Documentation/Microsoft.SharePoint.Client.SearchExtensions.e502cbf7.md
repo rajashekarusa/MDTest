@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ImportSearchSettings(ClientContext context, String searchSchemaImportFilePath, SearchObjectLevel searchSettingsImportLevel)
+public static void ImportSearchSettings(this ClientContext context, String searchSchemaImportFilePath, SearchObjectLevel searchSettingsImportLevel)
 ```
 ### Parameters
 #### context  
@@ -29,8 +29,6 @@ public static void ImportSearchSettings(ClientContext context, String searchSche
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SearchExtensions](Microsoft.SharePoint.Client.SearchExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

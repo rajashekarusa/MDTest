@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ExportSearchSettings(ClientContext context, String exportFilePath, SearchObjectLevel searchSettingsExportLevel)
+public static void ExportSearchSettings(this ClientContext context, String exportFilePath, SearchObjectLevel searchSettingsExportLevel)
 ```
 ### Parameters
 #### context  
@@ -29,8 +29,6 @@ public static void ExportSearchSettings(ClientContext context, String exportFile
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SearchExtensions](Microsoft.SharePoint.Client.SearchExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

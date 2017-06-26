@@ -13,6 +13,6 @@ public class SupportedUILanguageCollection: ProvisioningTemplateCollection<Suppo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SupportedUILanguageCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollection.ctor1.md) |  Collection of SupportedUILanguage objects 
+| [SupportedUILanguageCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguageCollection.ctor1.md) | Constructor for SupportedUILangaugeCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

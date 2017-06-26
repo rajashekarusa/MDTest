@@ -1,5 +1,5 @@
 # RoleAssignmentEntity.Properties Role
-  
+ User role   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

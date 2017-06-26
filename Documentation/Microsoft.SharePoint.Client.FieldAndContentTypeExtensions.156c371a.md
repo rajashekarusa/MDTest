@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetDefaultContentTypeToList(Web web, List list, ContentType contentType)
+public static void SetDefaultContentTypeToList(this Web web, List list, ContentType contentType)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void SetDefaultContentTypeToList(Web web, List list, ContentType c
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

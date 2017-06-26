@@ -1,5 +1,5 @@
 # FieldCreationInformation.Properties AddToDefaultView
-  
+ Adds fields to default view if value is true.   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class DocumentSetTemplateAllowedContentType
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [DocumentSetTemplateAllowedContentType()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateAllowedContentType.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

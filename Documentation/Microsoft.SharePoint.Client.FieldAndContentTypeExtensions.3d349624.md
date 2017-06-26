@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddFieldToContentType(Web web, ContentType contentType, Field field, Boolean required, Boolean hidden)
+public static void AddFieldToContentType(this Web web, ContentType contentType, Field field, Boolean required = False, Boolean hidden = False)
 ```
 ### Parameters
 #### web  
@@ -41,8 +41,6 @@ public static void AddFieldToContentType(Web web, ContentType contentType, Field
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

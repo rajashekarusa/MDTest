@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class ListInstanceFieldRef: FieldRefBase
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ListInstanceFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ListInstanceFieldRef.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

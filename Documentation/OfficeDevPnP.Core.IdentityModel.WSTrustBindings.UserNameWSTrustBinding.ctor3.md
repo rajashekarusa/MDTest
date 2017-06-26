@@ -1,5 +1,5 @@
 # UserNameWSTrustBinding.UserNameWSTrustBinding members 
-  
+ Constructor   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,12 @@ public UserNameWSTrustBinding(SecurityMode mode, HttpClientCredentialType client
 ### Parameters
 #### mode  
 &emsp;&emsp;Type: System.ServiceModel.SecurityMode  
-&emsp;&emsp;  
+&emsp;&emsp; Constructor   
 
 
 #### clientCredentialType  
 &emsp;&emsp;Type: System.ServiceModel.HttpClientCredentialType  
-&emsp;&emsp;  
+&emsp;&emsp; Constructor   
 
 
 ## See also

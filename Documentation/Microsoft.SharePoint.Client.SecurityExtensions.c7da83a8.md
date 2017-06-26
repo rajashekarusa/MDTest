@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static User AddReaderAccess(Web web, BuiltInIdentity user)
+public static User AddReaderAccess(this Web web, BuiltInIdentity user)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static User AddReaderAccess(Web web, BuiltInIdentity user)
 ### Return Value
 Type: User  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

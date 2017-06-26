@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ApplyProvisioningTemplate(Web web, ProvisioningTemplate template, ProvisioningTemplateApplyingInformation applyingInformation)
+public static void ApplyProvisioningTemplate(this Web web, ProvisioningTemplate template, ProvisioningTemplateApplyingInformation applyingInformation)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Can be used to apply custom remote provisioning template on top of existing site.   
+&emsp;&emsp;web to apply remote template  
 
   
 
@@ -29,8 +29,6 @@ public static void ApplyProvisioningTemplate(Web web, ProvisioningTemplate templ
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

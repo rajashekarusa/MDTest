@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ObjectSharingSettings GetObjectSharingSettingsForSite(Web web, Boolean useSimplifiedPolicies)
+public static ObjectSharingSettings GetObjectSharingSettingsForSite(this Web web, Boolean useSimplifiedPolicies = True)
 ```
 ### Parameters
 #### web  
@@ -22,11 +22,9 @@ public static ObjectSharingSettings GetObjectSharingSettingsForSite(Web web, Boo
 
 ### Return Value
 Type: ObjectSharingSettings  
-  
+A ObjectSharingSettings object  
 
 
-## Remarks
-  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Field CreateTaxonomyField(Web web, TaxonomyFieldCreationInformation fieldCreationInformation)
+public static Field CreateTaxonomyField(this Web web, TaxonomyFieldCreationInformation fieldCreationInformation)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: Field
 New taxonomy field  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

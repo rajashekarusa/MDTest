@@ -1,5 +1,5 @@
 # LogConfigurationTracingLoggerElement Class
-  
+ Class dealing with LogConfigurationTracing element   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,13 +10,9 @@ System.Object
 ```C#
 public class LogConfigurationTracingLoggerElement: ConfigurationElement
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [LogConfigurationTracingLoggerElement()](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
-| [Type](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.Type.md) | 
+| [Type](OfficeDevPnP.Core.Diagnostics.LogConfigurationTracingLoggerElement.Type.md) | Gets or sets "type" config property
 ## See also
 - [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)

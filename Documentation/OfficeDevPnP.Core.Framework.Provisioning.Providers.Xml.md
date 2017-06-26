@@ -2,6 +2,7 @@
 ## Classes
 |**Class**|**Description**|
 |:-----|:-----|
+|[TemplateSchemaSerializerAttribute](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.TemplateSchemaSerializerAttribute.md)|Attribute for Template Schema Serializers|
 |[XMLAzureStorageTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLAzureStorageTemplateProvider.md)||
 |[XMLConstants](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLConstants.md)||
 |[XMLExtensions](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLExtensions.md)||
@@ -13,6 +14,9 @@
 ## Interfaces
 |**Interface**|**Description**|
 |:-----|:-----|
+|[IPnPSchemaSerializer](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IPnPSchemaSerializer.md)|Basic interface for every Schema Serializer type|
+|[IResolver](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IResolver.md)|Basic interface for all the resolver types|
+|[ITypeResolver](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.ITypeResolver.md)|Handles custom type resolving rules for PnPObjectsMapper|
 |[IXMLSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.IXMLSchemaFormatter.md)|Interface for template formatters that read and write XML documents|
 ## Enumerations
 |**Enumeration**|**Description**|

@@ -1,28 +1,28 @@
 # Log.Error Method  
-  
+ Logs error message and source   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void Error(String source, String message, Object[] args)
+public static void Error(String source, String message, params Object[] args)
 ```
 ### Parameters
 #### source  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;Error source  
 
   
 
 #### message  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;Error message  
 
   
 
 #### args  
 &emsp;&emsp;Type: System.Object[]  
-&emsp;&emsp;  
+&emsp;&emsp;Arguments object  
 
   
 

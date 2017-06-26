@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetFileAsString(Web web, String serverRelativeUrl)
+public static string GetFileAsString(this Web web, String serverRelativeUrl)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: string
 The file contents as a string  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

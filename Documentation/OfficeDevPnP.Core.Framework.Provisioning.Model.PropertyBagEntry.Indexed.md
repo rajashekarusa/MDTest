@@ -1,5 +1,5 @@
 # PropertyBagEntry.Properties Indexed
-  
+ Gets or sets the Indexed flag for property bag entry   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

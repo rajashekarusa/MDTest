@@ -1,5 +1,5 @@
 # YammerUser.Properties type
-  
+ Represents yammer user type   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class JsonPnPFormatter: ITemplateFormatter
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [JsonPnPFormatter()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Json.JsonPnPFormatter.ctor1.md) |  
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|

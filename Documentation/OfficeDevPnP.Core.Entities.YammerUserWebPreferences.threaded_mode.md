@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties threaded_mode
-  
+ Represents yammer user threaded mode   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

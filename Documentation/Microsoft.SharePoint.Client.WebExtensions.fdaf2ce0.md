@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List<SiteEntity> SiteSearch(Web web, String keywordQueryValue, Boolean trimDuplicates)
+public static List<SiteEntity> SiteSearch(this Web web, String keywordQueryValue, Boolean trimDuplicates = False)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: List<SiteEntity>
 All found site collections  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

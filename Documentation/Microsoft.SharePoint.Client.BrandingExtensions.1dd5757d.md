@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static File UploadThemeFile(Web web, String localFilePath, String themeFolderVersion)
+public static File UploadThemeFile(this Web web, String localFilePath, String themeFolderVersion = "15")
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: File
 The uploaded file, with at least the ServerRelativeUrl property available  
 
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

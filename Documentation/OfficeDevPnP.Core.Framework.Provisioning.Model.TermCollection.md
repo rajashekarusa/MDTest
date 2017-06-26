@@ -13,6 +13,6 @@ public class TermCollection: ProvisioningTemplateCollection<Term>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [TermCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.ctor1.md) |  Collection of Term objects 
+| [TermCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.TermCollection.ctor1.md) | Constructor for TermCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

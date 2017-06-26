@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool AddJsBlock(Web web, String key, String scriptBlock, Int32 sequence)
+public static bool AddJsBlock(this Web web, String key, String scriptBlock, Int32 sequence = 0)
 ```
 ### Parameters
 #### web  
@@ -28,7 +28,7 @@ public static bool AddJsBlock(Web web, String key, String scriptBlock, Int32 seq
 
 #### (optional) sequence  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp; Injects javascript via a adding a custom action to the site   
+&emsp;&emsp;Specifies the ordering priority for actions. A value is 0 indicates that the button will appear at the first position on the ribbon.  
 
   
 
@@ -37,8 +37,6 @@ Type: bool
 True if action was ok  
 
 
-## Remarks
-  
 ## See also
 - [JavaScriptExtensions](Microsoft.SharePoint.Client.JavaScriptExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

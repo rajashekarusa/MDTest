@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Field GetFieldByInternalName(Web web, String internalName, Boolean searchInSiteHierarchy)
+public static Field GetFieldByInternalName(this Web web, String internalName, Boolean searchInSiteHierarchy = False)
 ```
 ### Parameters
 #### web  
@@ -22,17 +22,15 @@ public static Field GetFieldByInternalName(Web web, String internalName, Boolean
 
 #### (optional) searchInSiteHierarchy  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp; Returns the field if it exists. Null if does not exist.   
+&emsp;&emsp;If true, search across all the available fields in the site hierarchy  
 
   
 
 ### Return Value
 Type: Field  
-  
+Field  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

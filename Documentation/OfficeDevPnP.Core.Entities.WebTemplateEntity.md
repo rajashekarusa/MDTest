@@ -1,5 +1,5 @@
 # WebTemplateEntity Class
-  
+ Holds definition for Web Template   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class WebTemplateEntity
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [WebTemplateEntity()](OfficeDevPnP.Core.Entities.WebTemplateEntity.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

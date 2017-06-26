@@ -1,5 +1,5 @@
 # YammerGroupStats.Properties last_message_at
-  
+ yammer group last message location   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

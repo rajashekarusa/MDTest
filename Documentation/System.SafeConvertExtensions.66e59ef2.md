@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static int ToInt32(String input)
+public static int ToInt32(this String input)
 ```
 ### Parameters
 #### input  
@@ -17,8 +17,6 @@ public static int ToInt32(String input)
 ### Return Value
 Type: int  
 
-## Remarks
-  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool ListExists(Web web, String listTitle)
+public static bool ListExists(this Web web, String listTitle)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 True if the list exists  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - System.ArgumentException

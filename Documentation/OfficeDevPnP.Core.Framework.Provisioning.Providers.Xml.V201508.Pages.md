@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Pages
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Pages()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.Pages.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

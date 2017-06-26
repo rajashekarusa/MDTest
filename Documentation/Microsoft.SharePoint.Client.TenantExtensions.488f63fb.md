@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool SubSiteExists(Tenant tenant, String siteFullUrl)
+public static bool SubSiteExists(this Tenant tenant, String siteFullUrl)
 ```
 ### Parameters
 #### tenant  
@@ -25,8 +25,6 @@ Type: bool
 True if existing, false if not  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,14 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public bool SupportsGetTemplatePostProcessing { get; }
+public abstract bool SupportsGetTemplatePostProcessing { get; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
-## Remarks
-  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

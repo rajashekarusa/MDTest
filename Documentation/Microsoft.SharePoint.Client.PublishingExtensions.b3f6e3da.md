@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static PublishingPage GetPublishingPage(Web web, String fileLeafRef, Folder folder)
+public static PublishingPage GetPublishingPage(this Web web, String fileLeafRef, Folder folder)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: PublishingPage
 The PublishingPage object, if any. Otherwise null.  
 
 
-## Remarks
-  
 ## See also
 - [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
 - System.ArgumentNullException

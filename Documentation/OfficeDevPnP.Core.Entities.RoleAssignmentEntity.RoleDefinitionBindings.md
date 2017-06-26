@@ -1,5 +1,5 @@
 # RoleAssignmentEntity.Properties RoleDefinitionBindings
-  
+ Gets the collection of role definition bindings for the role assignment   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

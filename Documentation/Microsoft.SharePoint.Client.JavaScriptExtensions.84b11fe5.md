@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool ExistsJsLink(Site site, String key)
+public static bool ExistsJsLink(this Site site, String key)
 ```
 ### Parameters
 #### site  
@@ -22,11 +22,9 @@ public static bool ExistsJsLink(Site site, String key)
 
 ### Return Value
 Type: bool  
-  
+True if custom JsLink exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [JavaScriptExtensions](Microsoft.SharePoint.Client.JavaScriptExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

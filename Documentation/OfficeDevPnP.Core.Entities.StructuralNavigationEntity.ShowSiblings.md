@@ -1,5 +1,5 @@
 # StructuralNavigationEntity.Properties ShowSiblings
-  
+ Display the current site, the nav items below the current site, and the site's siblings   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

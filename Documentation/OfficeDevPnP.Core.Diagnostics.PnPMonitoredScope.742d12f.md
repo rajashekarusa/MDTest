@@ -1,22 +1,22 @@
 # PnPMonitoredScope.LogError Method  
-  
+ Logs Error   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void LogError(String message, Object[] args)
+public void LogError(String message, params Object[] args)
 ```
 ### Parameters
 #### message  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;Message string  
 
   
 
 #### args  
 &emsp;&emsp;Type: System.Object[]  
-&emsp;&emsp;  
+&emsp;&emsp;Arguments object  
 
   
 

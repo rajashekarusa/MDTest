@@ -1,5 +1,5 @@
 # YammerUserHomeTab.Properties feed_description
-  
+ Represents description of user   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

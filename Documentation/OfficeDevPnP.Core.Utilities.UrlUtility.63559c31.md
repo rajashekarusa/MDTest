@@ -10,23 +10,21 @@ public static string Combine(String path, String relative)
 ### Parameters
 #### path  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Combines a path and a relative path.   
+&emsp;&emsp;A SharePoint url  
 
   
 
 #### relative  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Combines a path and a relative path.   
+&emsp;&emsp;SharePoint relative url  
 
   
 
 ### Return Value
 Type: string  
-  
+Returns comibed path with a relative path  
 
 
-## Remarks
-  
 ## See also
 - [UrlUtility](OfficeDevPnP.Core.Utilities.UrlUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

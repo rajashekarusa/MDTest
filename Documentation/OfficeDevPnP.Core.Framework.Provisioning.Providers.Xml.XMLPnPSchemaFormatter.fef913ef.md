@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ProvisioningTemplate ToProvisioningTemplate(Stream template, String identifier)
+public virtual ProvisioningTemplate ToProvisioningTemplate(Stream template, String identifier)
 ```
 ### Parameters
 #### template  
@@ -21,7 +21,7 @@ public ProvisioningTemplate ToProvisioningTemplate(Stream template, String ident
   
 
 ### Return Value
-Type: ProvisioningTemplate  
+Type: [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
 - [XMLPnPSchemaFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLPnPSchemaFormatter.md) 

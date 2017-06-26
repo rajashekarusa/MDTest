@@ -5,26 +5,26 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool Has(Enum value, T check)
+public static bool Has<T>(this Enum value, T check)
 ```
 ### Parameters
 #### value  
 &emsp;&emsp;Type: System.Enum  
-&emsp;&emsp; Checks if an enumerated type contains a value   
+&emsp;&emsp;Enum value  
 
   
 
 #### check  
 &emsp;&emsp;Type: T  
-&emsp;&emsp; Checks if an enumerated type contains a value   
+&emsp;&emsp;Generic type parameter  
 
   
 
 ### Return Value
 Type: bool  
+Returns true if condition matches and enumerated type contains value  
 
-## Remarks
-  
+
 ## See also
 - [EnumerationExtensions](System.EnumerationExtensions.md) 
 - [System](System.md) 

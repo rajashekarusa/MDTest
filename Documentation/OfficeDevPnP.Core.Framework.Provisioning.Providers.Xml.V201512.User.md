@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class User
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [User()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.User.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

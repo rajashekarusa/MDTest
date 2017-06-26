@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class MemberGroupData
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [MemberGroupData()](OfficeDevPnP.Core.UPAWebService.MemberGroupData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

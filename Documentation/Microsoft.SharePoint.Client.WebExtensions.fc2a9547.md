@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static IEnumerable<String> GetIndexedPropertyBagKeys(Web web)
+public static IEnumerable<String> GetIndexedPropertyBagKeys(this Web web)
 ```
 ### Parameters
 #### web  
@@ -16,11 +16,9 @@ public static IEnumerable<String> GetIndexedPropertyBagKeys(Web web)
 
 ### Return Value
 Type: IEnumerable<String>  
-  
+all indexed property bag keys  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

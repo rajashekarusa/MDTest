@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RegisterWebAPIService(Page page, String apiRequest, Uri serviceEndPoint)
+public static void RegisterWebAPIService(this Page page, String apiRequest, Uri serviceEndPoint)
 ```
 ### Parameters
 #### page  
@@ -29,8 +29,6 @@ public static void RegisterWebAPIService(Page page, String apiRequest, Uri servi
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebAPIHelper](OfficeDevPnP.Core.WebAPI.WebAPIHelper.md) 
 - [OfficeDevPnP.Core.WebAPI](OfficeDevPnP.Core.WebAPI.md) 

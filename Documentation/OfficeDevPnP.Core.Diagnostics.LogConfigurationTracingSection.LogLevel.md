@@ -1,5 +1,5 @@
 # LogConfigurationTracingSection.Properties LogLevel
-  
+ Gets or sets "loglevel" config property   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

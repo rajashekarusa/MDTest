@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool IsUserInGroup(Web web, String groupName, String userLoginName)
+public static bool IsUserInGroup(this Web web, String groupName, String userLoginName)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: bool
 True if the user is in the group, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

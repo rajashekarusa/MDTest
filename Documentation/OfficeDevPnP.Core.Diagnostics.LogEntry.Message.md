@@ -1,5 +1,5 @@
 # LogEntry.Properties Message
-  
+ Gets or sets Log message   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static DateTime GetSiteCloseDate(Web web)
+public static DateTime GetSiteCloseDate(this Web web)
 ```
 ### Parameters
 #### web  
@@ -19,8 +19,6 @@ Type: DateTime
 DateTime value holding the closure date, DateTime.MinValue in case there was no policy applied  
 
 
-## Remarks
-  
 ## See also
 - [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

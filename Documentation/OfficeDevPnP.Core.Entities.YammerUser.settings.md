@@ -1,5 +1,5 @@
 # YammerUser.Properties settings
-  
+ Represents yammer user settings information   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

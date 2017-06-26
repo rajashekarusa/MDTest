@@ -5,22 +5,20 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid GetAuthenticationRealm(Web web)
+public static Guid GetAuthenticationRealm(this Web web)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Returns the authentication realm for the current web   
+&emsp;&emsp;The Current site  
 
   
 
 ### Return Value
 Type: Guid  
-  
+Returns Realm in Guid  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

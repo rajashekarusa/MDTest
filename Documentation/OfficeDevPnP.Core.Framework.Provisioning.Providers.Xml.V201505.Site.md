@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Site
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Site()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Site.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

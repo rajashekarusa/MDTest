@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool WebExists(Web parentWeb, String leafUrl)
+public static bool WebExists(this Web parentWeb, String leafUrl)
 ```
 ### Parameters
 #### parentWeb  
@@ -25,8 +25,6 @@ Type: bool
 true if the Web (site) exists; otherwise false  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

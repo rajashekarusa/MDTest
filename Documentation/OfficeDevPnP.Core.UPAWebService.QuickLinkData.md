@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class QuickLinkData
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [QuickLinkData()](OfficeDevPnP.Core.UPAWebService.QuickLinkData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

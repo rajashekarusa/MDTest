@@ -5,40 +5,38 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string FieldValue(String fieldName, String fieldValueType, String value, String additionalFieldRefParams)
+public static string FieldValue(String fieldName, String fieldValueType, String value, String additionalFieldRefParams = "")
 ```
 ### Parameters
 #### fieldName  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates both a &lt;FieldRef&gt; and &lt;Value&gt; nodes combination for Where clauses.   
+&emsp;&emsp;Name of the field  
 
   
 
 #### fieldValueType  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates both a &lt;FieldRef&gt; and &lt;Value&gt; nodes combination for Where clauses.   
+&emsp;&emsp;Value type of the field  
 
   
 
 #### value  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates both a &lt;FieldRef&gt; and &lt;Value&gt; nodes combination for Where clauses.   
+&emsp;&emsp;Value of the field  
 
   
 
 #### (optional) additionalFieldRefParams  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates both a &lt;FieldRef&gt; and &lt;Value&gt; nodes combination for Where clauses.   
+&emsp;&emsp;Additional FieldRef Parameters  
 
   
 
 ### Return Value
 Type: string  
-  
+Returns FieldValue string to be used in CAML queries  
 
 
-## Remarks
-  
 ## See also
 - [CAML](OfficeDevPnP.Core.Utilities.CAML.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

@@ -1,5 +1,5 @@
 # YammerUser.Properties external_urls
-  
+ Represents yammer user list of external urls   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

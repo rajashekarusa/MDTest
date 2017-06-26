@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt32 lcid, Int32 compatibilityLevel)
+public static SPOTenantWebTemplateCollection GetWebTemplates(this Tenant tenant, UInt32 lcid, Int32 compatibilityLevel)
 ```
 ### Parameters
 #### tenant  
@@ -16,7 +16,7 @@ public static SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt
 
 #### lcid  
 &emsp;&emsp;Type: System.UInt32  
-&emsp;&emsp; Returns available webtemplates/site definitions   
+&emsp;&emsp;Locale identifier (LCID) for the language  
 
   
 
@@ -28,11 +28,9 @@ public static SPOTenantWebTemplateCollection GetWebTemplates(Tenant tenant, UInt
 
 ### Return Value
 Type: SPOTenantWebTemplateCollection  
-  
+Returns collection of SPTenantWebTemplate  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

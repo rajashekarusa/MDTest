@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string ViewQuery(String whereClause, String orderByClause, Int32 rowLimit)
+public static string ViewQuery(String whereClause = "", String orderByClause = "", Int32 rowLimit = 100)
 ```
 ### Parameters
 #### (optional) whereClause  
@@ -31,8 +31,6 @@ Type: string
 String to be used in CAML queries  
 
 
-## Remarks
-  
 ## See also
 - [CAML](OfficeDevPnP.Core.Utilities.CAML.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

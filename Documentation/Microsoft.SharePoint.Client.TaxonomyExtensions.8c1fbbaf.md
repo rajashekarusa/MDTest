@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Term AddTermToTermset(Site site, Guid termSetId, String term)
+public static Term AddTermToTermset(this Site site, Guid termSetId, String term)
 ```
 ### Parameters
 #### site  
@@ -28,11 +28,9 @@ public static Term AddTermToTermset(Site site, Guid termSetId, String term)
 
 ### Return Value
 Type: Term  
-  
+Returns Term object  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

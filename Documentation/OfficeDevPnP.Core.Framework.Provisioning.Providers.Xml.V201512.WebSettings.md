@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class WebSettings
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [WebSettings()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.WebSettings.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

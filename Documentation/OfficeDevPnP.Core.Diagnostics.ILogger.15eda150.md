@@ -1,16 +1,16 @@
 # ILogger.Error Method  
-  
+ Error Log   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Error(LogEntry entry)
+public abstract void Error(LogEntry entry)
 ```
 ### Parameters
 #### entry  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Diagnostics.LogEntry](OfficeDevPnP.Core.Diagnostics.LogEntry.md)  
-&emsp;&emsp;  
+&emsp;&emsp;LogEntry object  
 
   
 

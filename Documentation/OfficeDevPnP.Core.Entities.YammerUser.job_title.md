@@ -1,5 +1,5 @@
 # YammerUser.Properties job_title
-  
+ Represents yammer user job title   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

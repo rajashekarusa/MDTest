@@ -1,5 +1,5 @@
 # YammerUser.Properties network_id
-  
+ Represents yammer user network id   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

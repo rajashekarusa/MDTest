@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetHomePage(Web web, String rootFolderRelativePath)
+public static void SetHomePage(this Web web, String rootFolderRelativePath)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void SetHomePage(Web web, String rootFolderRelativePath)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

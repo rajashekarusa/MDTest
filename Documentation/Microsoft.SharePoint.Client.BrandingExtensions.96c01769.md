@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ListItem GetPageLayoutListItemByName(Web web, String pageLayoutName)
+public static ListItem GetPageLayoutListItemByName(this Web web, String pageLayoutName)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: ListItem
 ListItem holding the page layout, null if not found  
 
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

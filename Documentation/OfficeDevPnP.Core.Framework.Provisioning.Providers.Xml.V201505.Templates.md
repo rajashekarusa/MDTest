@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Templates
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Templates()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.Templates.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

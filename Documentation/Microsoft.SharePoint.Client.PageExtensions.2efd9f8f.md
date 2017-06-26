@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string EnsureWikiPage(Web web, String wikiPageLibraryName, String wikiPageName)
+public static string EnsureWikiPage(this Web web, String wikiPageLibraryName, String wikiPageName)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: string
 The relative URL of the added wiki page  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

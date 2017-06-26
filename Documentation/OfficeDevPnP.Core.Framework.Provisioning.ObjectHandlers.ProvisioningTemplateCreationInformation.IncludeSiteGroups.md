@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties IncludeSiteGroups
-  
+ if true, includes site groups in the template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

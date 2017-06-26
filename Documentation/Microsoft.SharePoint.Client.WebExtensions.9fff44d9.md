@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List<SiteEntity> SiteSearchScopedByTitle(Web web, String siteTitle)
+public static List<SiteEntity> SiteSearchScopedByTitle(this Web web, String siteTitle)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: List<SiteEntity>
 All found site collections  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

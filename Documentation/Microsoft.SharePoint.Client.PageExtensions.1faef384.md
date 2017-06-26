@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static WebPartDefinition AddWebPartToWebPartPage(Web web, WebPartEntity webPart, String page)
+public static WebPartDefinition AddWebPartToWebPartPage(this Web web, WebPartEntity webPart, String page)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: WebPartDefinition
 Returns the added Microsoft.SharePoint.Client.WebParts.WebPartDefinition object  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - Microsoft.SharePoint.Client.WebParts.WebPartDefinition

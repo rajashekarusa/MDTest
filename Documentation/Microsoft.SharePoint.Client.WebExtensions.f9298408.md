@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool IsNoScriptSite(Site site)
+public static bool IsNoScriptSite(this Site site)
 ```
 ### Parameters
 #### site  
@@ -19,8 +19,6 @@ Type: bool
 True if noscript, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

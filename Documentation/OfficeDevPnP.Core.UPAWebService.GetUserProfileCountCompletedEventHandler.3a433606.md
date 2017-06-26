@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Invoke(Object sender, GetUserProfileCountCompletedEventArgs e)
+public virtual void Invoke(Object sender, GetUserProfileCountCompletedEventArgs e)
 ```
 ### Parameters
 #### sender  

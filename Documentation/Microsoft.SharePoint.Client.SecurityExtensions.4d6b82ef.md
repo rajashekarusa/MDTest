@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemovePermissionLevelFromUser(SecurableObject securableObject, String userLoginName, String roleDefinitionName, Boolean removeAllPermissionLevels)
+public static void RemovePermissionLevelFromUser(this SecurableObject securableObject, String userLoginName, String roleDefinitionName, Boolean removeAllPermissionLevels = False)
 ```
 ### Parameters
 #### securableObject  
@@ -35,8 +35,6 @@ public static void RemovePermissionLevelFromUser(SecurableObject securableObject
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

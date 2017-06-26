@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Folder CreateFolder(Folder parentFolder, String folderName)
+public static Folder CreateFolder(this Folder parentFolder, String folderName)
 ```
 ### Parameters
 #### parentFolder  
@@ -29,8 +29,7 @@ The newly created folder
  Note that this only checks one level of folder (the Folders collection) and cannot accept a name with path characters. 
 
 ```C#
-
- var folder = list.RootFolder.CreateFolder("new-folder");
+var folder = list.RootFolder.CreateFolder("new-folder");
             
 ```
   

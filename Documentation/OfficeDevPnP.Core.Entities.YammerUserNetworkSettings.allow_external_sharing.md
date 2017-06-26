@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties allow_external_sharing
-  
+ Represents boolean value to allow external sharing   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

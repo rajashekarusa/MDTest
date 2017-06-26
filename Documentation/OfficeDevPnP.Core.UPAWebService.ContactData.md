@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ContactData
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ContactData()](OfficeDevPnP.Core.UPAWebService.ContactData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

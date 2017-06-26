@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Stream PostProcessSaveTemplate(Stream stream)
+public abstract Stream PostProcessSaveTemplate(Stream stream)
 ```
 ### Parameters
 #### stream  
@@ -19,8 +19,6 @@ Type: Stream
 The resulting stream, after pre-processing  
 
 
-## Remarks
-  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

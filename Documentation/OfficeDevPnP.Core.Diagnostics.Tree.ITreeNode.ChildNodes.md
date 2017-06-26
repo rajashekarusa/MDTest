@@ -1,11 +1,11 @@
 # ITreeNode.Properties ChildNodes
-  
+ Direct descendants   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public IEnumerable<ITreeNode> ChildNodes { get; }
+public abstract IEnumerable<ITreeNode> ChildNodes { get; }
 ```
 
 ### Property Value

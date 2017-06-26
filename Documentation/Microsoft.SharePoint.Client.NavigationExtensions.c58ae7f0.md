@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool AddCustomAction(Web web, CustomActionEntity customAction)
+public static bool AddCustomAction(this Web web, CustomActionEntity customAction)
 ```
 ### Parameters
 #### web  
@@ -25,25 +25,21 @@ Type: bool
 True if action was successfull  
 
 
-## Remarks
-  
 ## Examples
 ```C#
-
- var editAction = new CustomActionEntity()
- {
-    Title = "Edit Site Classification",
-    Description = "Manage business impact information for site collection or sub sites.",
-    Sequence = 1000,
-    Group = "SiteActions",
-    Location = "Microsoft.SharePoint.StandardMenu",
-    Url = EditFormUrl,
-    ImageUrl = EditFormImageUrl,
-    Rights = new BasePermissions(),
- };
- editAction.Rights.Set(PermissionKind.ManageWeb);
- web.AddCustomAction(editAction);
- 
+var editAction = new CustomActionEntity()
+{
+   Title = "Edit Site Classification",
+   Description = "Manage business impact information for site collection or sub sites.",
+   Sequence = 1000,
+   Group = "SiteActions",
+   Location = "Microsoft.SharePoint.StandardMenu",
+   Url = EditFormUrl,
+   ImageUrl = EditFormImageUrl,
+   Rights = new BasePermissions(),
+};
+editAction.Rights.Set(PermissionKind.ManageWeb);
+web.AddCustomAction(editAction);
 ```
 
 ## See also

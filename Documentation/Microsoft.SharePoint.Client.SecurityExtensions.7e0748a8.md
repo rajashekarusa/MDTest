@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool GroupExists(Web web, String groupName)
+public static bool GroupExists(this Web web, String groupName)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 True if the group exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

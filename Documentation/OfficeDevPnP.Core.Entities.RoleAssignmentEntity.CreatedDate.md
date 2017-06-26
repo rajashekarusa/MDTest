@@ -1,5 +1,5 @@
 # RoleAssignmentEntity.Properties CreatedDate
-  
+ DateTime value of RoleAssignment created   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

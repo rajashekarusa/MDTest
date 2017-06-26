@@ -1,5 +1,5 @@
 # YammerGroup.Properties created_at
-  
+ DateTime of yammer group created   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

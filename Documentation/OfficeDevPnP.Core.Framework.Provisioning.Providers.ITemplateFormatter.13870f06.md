@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public bool IsValid(Stream template)
+public abstract bool IsValid(Stream template)
 ```
 ### Parameters
 #### template  
@@ -19,8 +19,6 @@ Type: bool
 Boolean result of the validation  
 
 
-## Remarks
-  
 ## See also
 - [ITemplateFormatter](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateFormatter.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

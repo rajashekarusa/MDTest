@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool DeleteSiteCollectionFromRecycleBin(Tenant tenant, String siteFullUrl, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static bool DeleteSiteCollectionFromRecycleBin(this Tenant tenant, String siteFullUrl, Boolean wait = True, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 #### tenant  
@@ -27,7 +27,7 @@ public static bool DeleteSiteCollectionFromRecycleBin(Tenant tenant, String site
   
 
 #### (optional) timeoutFunction  
-&emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
+&emsp;&emsp;Type: System.Func&lt;OfficeDevPnP.Core.TenantOperationMessage, System.Boolean&gt;  
 &emsp;&emsp;An optional function that will be called while waiting for the site to be created. If set will override the wait variable. Return true to cancel the wait loop.  
 
   
@@ -35,8 +35,6 @@ public static bool DeleteSiteCollectionFromRecycleBin(Tenant tenant, String site
 ### Return Value
 Type: bool  
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

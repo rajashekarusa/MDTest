@@ -13,6 +13,6 @@ public class AddInCollection: ProvisioningTemplateCollection<AddIn>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddInCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection.ctor1.md) |  A collection of AddIn objects 
+| [AddInCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AddInCollection.ctor1.md) | Constructor for AddInCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

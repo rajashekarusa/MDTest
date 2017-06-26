@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static long ToInt64(String input, Int32 defaultValue)
+public static long ToInt64(this String input, Int32 defaultValue)
 ```
 ### Parameters
 #### input  
@@ -23,8 +23,6 @@ public static long ToInt64(String input, Int32 defaultValue)
 ### Return Value
 Type: long  
 
-## Remarks
-  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemoveUserFromGroup(Web web, Group group, User user)
+public static void RemoveUserFromGroup(this Web web, Group group, User user)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void RemoveUserFromGroup(Web web, Group group, User user)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

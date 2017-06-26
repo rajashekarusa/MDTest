@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class DesignPackage: BaseModel, IEquatable<DesignPackage>
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [DesignPackage()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.ctor1.md) |  Defines a Design Package to import into the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,8 +21,8 @@ public class DesignPackage: BaseModel, IEquatable<DesignPackage>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.3520ddbb.md) | 
-| [Equals(DesignPackage)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.7760e741.md) | 
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.3520ddbb.md) | Compares object with DesignPackage
+| [Equals(DesignPackage)](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.7760e741.md) | Compares DesignPackage object based on DesignPackagePath, MajorVersion, MinorVersion, PackageGuid and PackageName.
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DesignPackage.1c6872bd.md) | Gets the hash code
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

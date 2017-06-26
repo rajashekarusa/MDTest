@@ -9,13 +9,11 @@ System.Object
 ```C#
 public class CustomActionEntity
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [CustomActionEntity()](OfficeDevPnP.Core.Entities.CustomActionEntity.ctor1.md) |  CustomActionEntity class describes the information for a Custom Action 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
+| [ClientSideComponentId](OfficeDevPnP.Core.Entities.CustomActionEntity.ClientSideComponentId.md) | Gets or sets the client side component id. Only applies to custom actions which are added to SharePoint Online
+| [ClientSideComponentProperties](OfficeDevPnP.Core.Entities.CustomActionEntity.ClientSideComponentProperties.md) | Gets or sets the client side component properties. Only applies to custom actions which are added to SharePoint Online
 | [CommandUIExtension](OfficeDevPnP.Core.Entities.CustomActionEntity.CommandUIExtension.md) | Gets or sets a value that specifies an implementation specific XML fragment that determines user interface properties of the custom action
 | [Description](OfficeDevPnP.Core.Entities.CustomActionEntity.Description.md) | Description of the custom action
 | [Group](OfficeDevPnP.Core.Entities.CustomActionEntity.Group.md) | The group of this custom action

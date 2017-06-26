@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ComposedLook
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ComposedLook()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ComposedLook.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

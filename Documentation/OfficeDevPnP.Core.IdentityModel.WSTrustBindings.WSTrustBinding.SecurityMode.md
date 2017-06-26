@@ -1,5 +1,5 @@
 # WSTrustBinding.Properties SecurityMode
-  
+ Gets or sets Security mode   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

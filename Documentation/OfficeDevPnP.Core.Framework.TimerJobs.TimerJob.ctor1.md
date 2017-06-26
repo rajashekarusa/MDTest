@@ -1,5 +1,5 @@
 # TimerJob.TimerJob members 
-  
+ Simpliefied constructor for timer job, version is always set to "1.0"   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.TimerJobs](OfficeDevPnP.Core.Framework.TimerJobs.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,7 +10,7 @@ public TimerJob(string name)
 ### Parameters
 #### name  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;Name of the timer job  
 
 
 ## See also

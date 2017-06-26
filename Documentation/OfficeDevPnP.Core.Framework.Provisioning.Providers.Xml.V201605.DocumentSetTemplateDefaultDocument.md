@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class DocumentSetTemplateDefaultDocument
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [DocumentSetTemplateDefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetTemplateDefaultDocument.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

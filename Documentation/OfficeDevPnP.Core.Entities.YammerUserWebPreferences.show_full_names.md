@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties show_full_names
-  
+ Represents yammer user full names display   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

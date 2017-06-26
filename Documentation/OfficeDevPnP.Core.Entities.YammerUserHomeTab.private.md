@@ -1,5 +1,5 @@
 # YammerUserHomeTab.Properties private
-  
+ Represents boolean value to make user information as private   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

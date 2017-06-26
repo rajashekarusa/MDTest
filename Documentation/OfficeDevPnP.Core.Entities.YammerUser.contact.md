@@ -1,5 +1,5 @@
 # YammerUser.Properties contact
-  
+ Represents yammer user contact details   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

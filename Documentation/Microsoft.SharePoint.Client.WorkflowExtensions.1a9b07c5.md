@@ -5,28 +5,26 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static WorkflowDefinition GetWorkflowDefinition(Web web, Guid id)
+public static WorkflowDefinition GetWorkflowDefinition(this Web web, Guid id)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Returns a workflow definition   
+&emsp;&emsp;the target web  
 
   
 
 #### id  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp; Returns a workflow definition   
+&emsp;&emsp;the id of workflow definition  
 
   
 
 ### Return Value
 Type: WorkflowDefinition  
-  
+Returns a WorkflowDefinition object  
 
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

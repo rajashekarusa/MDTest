@@ -1,5 +1,5 @@
 # ExceptionOptions.Properties OmitNullProperties
-  
+ Gets or sets the OmitNullProperties flag   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

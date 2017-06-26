@@ -1,5 +1,5 @@
 # PnPClientContext Class
-  
+ Class that deals with PnPClientContext methods   
 
 **Namespace:** [OfficeDevPnP.Core](OfficeDevPnP.Core.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -13,8 +13,8 @@ public class PnPClientContext: ClientContext
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [PnPClientContext(String, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ctor1.md) |  
-| [PnPClientContext(Uri, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ctor2.md) |  
+| [PnPClientContext(String, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ctor1.md) | Creates a ClientContext allowing you to override the default retry and delay values of ExecuteQueryRetry 
+| [PnPClientContext(Uri, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.ctor2.md) | Creates a ClientContext allowing you to override the default retry and delay values of ExecuteQueryRetry 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -25,9 +25,6 @@ public class PnPClientContext: ClientContext
 |:-----|:-----|
 | [Clone(String)](OfficeDevPnP.Core.PnPClientContext.4c031e75.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
 | [Clone(Uri)](OfficeDevPnP.Core.PnPClientContext.d4f8ecbb.md) | Clones a PnPClientContext object while "taking over" the security context of the existing PnPClientContext instance
-## Extension Methods
-|**Name**|**Description**|
-|:-----|:-----|
-| [ConvertFrom(ClientContext, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.dfe6b5b7.md) | 
+| [ConvertFrom(ClientContext, Int32, Int32)](OfficeDevPnP.Core.PnPClientContext.dfe6b5b7.md) | Converts ClientContext into PnPClientContext
 ## See also
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md)

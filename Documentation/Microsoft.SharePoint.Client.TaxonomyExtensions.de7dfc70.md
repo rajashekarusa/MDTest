@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, Guid termSetId, Nullable<Int32> lcid, String description, Nullable<Boolean> isOpen, String termSetContact, String termSetOwner)
+public static TermSet EnsureTermSet(this TermGroup parentGroup, String termSetName, Guid termSetId, Nullable<Int32> lcid, String description, Nullable<Boolean> isOpen, String termSetContact, String termSetOwner)
 ```
 ### Parameters
 #### parentGroup  
@@ -27,7 +27,7 @@ public static TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, G
   
 
 #### (optional) lcid  
-&emsp;&emsp;Type: System.Nullable<System.Int32>  
+&emsp;&emsp;Type: System.Nullable&lt;System.Int32&gt;  
 &emsp;&emsp;(Optional) Default language of the term set; if not provided the default of the associate term store is used  
 
   
@@ -39,20 +39,20 @@ public static TermSet EnsureTermSet(TermGroup parentGroup, String termSetName, G
   
 
 #### (optional) isOpen  
-&emsp;&emsp;Type: System.Nullable<System.Boolean>  
+&emsp;&emsp;Type: System.Nullable&lt;System.Boolean&gt;  
 &emsp;&emsp;(Optional) Whether the term store is open for new term creation or not  
 
   
 
 #### (optional) termSetContact  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Ensures the named term set exists, returning a reference to the set, and creating or updating as necessary.   
+&emsp;&emsp;(Optional) E-mail address for term suggestions and feedback  
 
   
 
 #### (optional) termSetOwner  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Ensures the named term set exists, returning a reference to the set, and creating or updating as necessary.   
+&emsp;&emsp;Owner of termset  
 
   
 
@@ -61,8 +61,6 @@ Type: TermSet
 The required term set  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

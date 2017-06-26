@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties locale
-  
+ Represents yammer user locale   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

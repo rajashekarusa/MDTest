@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetPropertyBagValue(List list, String key, String value)
+public static void SetPropertyBagValue(this List list, String key, String value)
 ```
 ### Parameters
 #### list  
@@ -29,8 +29,6 @@ public static void SetPropertyBagValue(List list, String key, String value)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

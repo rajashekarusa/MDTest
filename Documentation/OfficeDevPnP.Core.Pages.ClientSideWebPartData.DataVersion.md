@@ -1,5 +1,5 @@
 # ClientSideWebPartData.Properties DataVersion
-  
+ Gets or sets JsonProperty "dataVersion"   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

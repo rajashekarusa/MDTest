@@ -1,5 +1,5 @@
 # WSTrustBinding.Properties TrustVersion
-  
+ Gets or sets the version   
 
 **Namespace:** [OfficeDevPnP.Core.IdentityModel.WSTrustBindings](OfficeDevPnP.Core.IdentityModel.WSTrustBindings.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

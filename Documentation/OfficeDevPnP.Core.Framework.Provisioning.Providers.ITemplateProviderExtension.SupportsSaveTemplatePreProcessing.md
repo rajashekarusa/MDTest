@@ -5,14 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public bool SupportsSaveTemplatePreProcessing { get; }
+public abstract bool SupportsSaveTemplatePreProcessing { get; }
 ```
 
 ### Property Value
 Type: System.Boolean  
 
-## Remarks
-  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

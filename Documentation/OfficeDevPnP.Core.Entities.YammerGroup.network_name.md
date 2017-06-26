@@ -1,5 +1,5 @@
 # YammerGroup.Properties network_name
-  
+ yammer group network name   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

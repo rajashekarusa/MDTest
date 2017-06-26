@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddAdministrators(Web web, List<UserEntity> adminLogins, Boolean addToOwnersGroup)
+public static void AddAdministrators(this Web web, List<UserEntity> adminLogins, Boolean addToOwnersGroup = False)
 ```
 ### Parameters
 #### web  
@@ -15,7 +15,7 @@ public static void AddAdministrators(Web web, List<UserEntity> adminLogins, Bool
   
 
 #### adminLogins  
-&emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.UserEntity>  
+&emsp;&emsp;Type: System.Collections.Generic.List&lt;OfficeDevPnP.Core.Entities.UserEntity&gt;  
 &emsp;&emsp;Array of admins loginnames to add  
 
   
@@ -29,8 +29,6 @@ public static void AddAdministrators(Web web, List<UserEntity> adminLogins, Bool
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

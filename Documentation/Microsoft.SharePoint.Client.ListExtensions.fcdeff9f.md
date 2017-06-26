@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static EventReceiverDefinition GetEventReceiverByName(List list, String name)
+public static EventReceiverDefinition GetEventReceiverByName(this List list, String name)
 ```
 ### Parameters
 #### list  
@@ -16,7 +16,7 @@ public static EventReceiverDefinition GetEventReceiverByName(List list, String n
 
 #### name  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Returns an event receiver definition   
+&emsp;&emsp;Name of the event receiver  
 
   
 
@@ -25,8 +25,6 @@ Type: EventReceiverDefinition
   
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

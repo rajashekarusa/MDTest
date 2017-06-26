@@ -10,9 +10,5 @@ System.Object
 ```C#
 public class DocumentSetFieldRef: FieldRefBase
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [DocumentSetFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.DocumentSetFieldRef.ctor1.md) |  
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.md)

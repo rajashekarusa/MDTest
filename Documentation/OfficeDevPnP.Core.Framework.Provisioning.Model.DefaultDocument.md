@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class DefaultDocument: BaseModel, IEquatable<DefaultDocument>
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [DefaultDocument()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.ctor1.md) |  A default document for a Document Set 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -23,8 +19,8 @@ public class DefaultDocument: BaseModel, IEquatable<DefaultDocument>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.3520ddbb.md) | 
-| [Equals(DefaultDocument)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.449ea3b3.md) | 
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.3520ddbb.md) | Compares object with DefaultDocument
+| [Equals(DefaultDocument)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.449ea3b3.md) | Compares DefaultDocument object based on Name, ContentTypeID and FileSourcePath.
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocument.1c6872bd.md) | Gets the hash code
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void WireUpTaxonomyField(List list, Field field, Term anchorTerm, Boolean multiValue)
+public static void WireUpTaxonomyField(this List list, Field field, Term anchorTerm, Boolean multiValue = False)
 ```
 ### Parameters
 #### list  
@@ -35,8 +35,6 @@ public static void WireUpTaxonomyField(List list, Field field, Term anchorTerm, 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

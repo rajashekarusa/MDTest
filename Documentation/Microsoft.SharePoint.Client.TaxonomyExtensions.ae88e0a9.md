@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TermGroup CreateTermGroup(TermStore termStore, String groupName, Guid groupId, String groupDescription)
+public static TermGroup CreateTermGroup(this TermStore termStore, String groupName, Guid groupId, String groupDescription)
 ```
 ### Parameters
 #### termStore  
@@ -37,8 +37,6 @@ Type: TermGroup
 The created term group  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteAllNavigationNodes(Web web, NavigationType navigationType)
+public static void DeleteAllNavigationNodes(this Web web, NavigationType navigationType)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void DeleteAllNavigationNodes(Web web, NavigationType navigationTy
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public string GetFile(String fileName)
+public abstract string GetFile(String fileName)
 ```
 ### Parameters
 #### fileName  
@@ -19,8 +19,6 @@ Type: string
 String containing the file contents  
 
 
-## Remarks
-  
 ## See also
 - [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

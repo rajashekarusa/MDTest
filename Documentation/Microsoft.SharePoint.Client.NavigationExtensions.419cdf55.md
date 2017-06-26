@@ -5,26 +5,24 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void UpdateNavigationSettings(Web web, AreaNavigationEntity navigationSettings)
+public static void UpdateNavigationSettings(this Web web, AreaNavigationEntity navigationSettings)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Updates navigation settings for the current web   
+&emsp;&emsp;Web to process  
 
   
 
 #### navigationSettings  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Entities.AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md)  
-&emsp;&emsp; Updates navigation settings for the current web   
+&emsp;&emsp;Navigation settings to update  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Publishing
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Publishing()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Publishing.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

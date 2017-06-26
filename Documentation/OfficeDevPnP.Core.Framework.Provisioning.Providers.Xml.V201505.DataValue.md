@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class DataValue
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [DataValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.DataValue.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

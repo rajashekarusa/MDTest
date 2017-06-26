@@ -1,5 +1,5 @@
 # ListInstance.Properties FieldRefs
-  
+ Gets or sets the FieldRefs associated to the list   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

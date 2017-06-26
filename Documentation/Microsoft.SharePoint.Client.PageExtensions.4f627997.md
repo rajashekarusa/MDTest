@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static PropertyValues GetWebPartProperties(Web web, Guid id, String serverRelativePageUrl)
+public static PropertyValues GetWebPartProperties(this Web web, Guid id, String serverRelativePageUrl)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static PropertyValues GetWebPartProperties(Web web, Guid id, String serve
 ### Return Value
 Type: PropertyValues  
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

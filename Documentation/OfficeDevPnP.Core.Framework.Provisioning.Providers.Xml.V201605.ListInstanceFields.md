@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ListInstanceFields
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ListInstanceFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ListInstanceFields.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

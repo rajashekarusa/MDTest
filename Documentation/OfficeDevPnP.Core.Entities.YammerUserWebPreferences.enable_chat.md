@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties enable_chat
-  
+ Represents yammer user chat enable information   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

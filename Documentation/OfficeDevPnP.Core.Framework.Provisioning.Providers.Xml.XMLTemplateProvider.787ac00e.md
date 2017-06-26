@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ProvisioningTemplate GetTemplate(String uri, String identifier)
+public override ProvisioningTemplate GetTemplate(String uri, String identifier)
 ```
 ### Parameters
 #### uri  
@@ -21,7 +21,7 @@ public ProvisioningTemplate GetTemplate(String uri, String identifier)
   
 
 ### Return Value
-Type: ProvisioningTemplate  
+Type: [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 
 ## See also
 - [XMLTemplateProvider](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.XMLTemplateProvider.md) 

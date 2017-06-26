@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ContentType GetContentTypeById(Web web, String contentTypeId, Boolean searchInSiteHierarchy)
+public static ContentType GetContentTypeById(this Web web, String contentTypeId, Boolean searchInSiteHierarchy = False)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: ContentType
 Content type object or null if was not found  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

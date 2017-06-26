@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ThemeEntity GetCurrentComposedLook(Web web)
+public static ThemeEntity GetCurrentComposedLook(this Web web)
 ```
 ### Parameters
 #### web  
@@ -15,12 +15,10 @@ public static ThemeEntity GetCurrentComposedLook(Web web)
   
 
 ### Return Value
-Type: ThemeEntity  
+Type: [ThemeEntity](OfficeDevPnP.Core.Entities.ThemeEntity.md)  
 Entity with attributes of current composed look, or null if none  
 
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool FieldExistsByNameInContentType(Web web, String contentTypeName, String fieldName)
+public static bool FieldExistsByNameInContentType(this Web web, String contentTypeName, String fieldName)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: bool
 True if exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

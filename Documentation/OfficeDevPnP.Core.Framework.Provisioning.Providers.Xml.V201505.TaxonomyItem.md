@@ -12,10 +12,6 @@ System.Object
 ```C#
 public class TaxonomyItem
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [TaxonomyItem()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.TaxonomyItem.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

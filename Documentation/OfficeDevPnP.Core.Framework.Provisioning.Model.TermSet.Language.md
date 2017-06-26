@@ -1,5 +1,5 @@
 # TermSet.Properties Language
-  
+ Gets or sets the termset language   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

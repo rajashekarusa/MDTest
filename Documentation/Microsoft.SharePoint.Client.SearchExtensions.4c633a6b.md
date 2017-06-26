@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetSiteCollectionSearchCenterUrl(Web web)
+public static string GetSiteCollectionSearchCenterUrl(this Web web)
 ```
 ### Parameters
 #### web  
@@ -19,8 +19,6 @@ Type: string
 Search center url for web  
 
 
-## Remarks
-  
 ## See also
 - [SearchExtensions](Microsoft.SharePoint.Client.SearchExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

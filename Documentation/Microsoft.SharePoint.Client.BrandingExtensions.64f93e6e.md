@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DisableResponsiveUI(Site site)
+public static void DisableResponsiveUI(this Site site)
 ```
 ### Parameters
 #### site  
@@ -17,8 +17,6 @@ public static void DisableResponsiveUI(Site site)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

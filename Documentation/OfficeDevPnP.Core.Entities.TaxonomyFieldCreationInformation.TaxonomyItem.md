@@ -1,5 +1,5 @@
 # TaxonomyFieldCreationInformation.Properties TaxonomyItem
-  
+ Represents an item in the TermStore   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

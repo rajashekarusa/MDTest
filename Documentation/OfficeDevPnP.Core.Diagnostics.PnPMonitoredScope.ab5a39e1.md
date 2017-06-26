@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Dispose()
+public virtual void Dispose()
 ```
 ### Return Value
 Type: void  

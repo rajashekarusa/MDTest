@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetThemeByUrl(Web web, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, Boolean resetSubsitesToInherit, Boolean updateRootOnly)
+public static void SetThemeByUrl(this Web web, String paletteServerRelativeUrl, String fontServerRelativeUrl, String backgroundServerRelativeUrl, Boolean resetSubsitesToInherit = False, Boolean updateRootOnly = False)
 ```
 ### Parameters
 #### web  
@@ -47,8 +47,6 @@ public static void SetThemeByUrl(Web web, String paletteServerRelativeUrl, Strin
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class SecurityPermissions
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SecurityPermissions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SecurityPermissions.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

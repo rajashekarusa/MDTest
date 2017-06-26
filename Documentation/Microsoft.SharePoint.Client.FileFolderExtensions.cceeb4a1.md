@@ -5,18 +5,18 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Folder CreateDocumentSet(Folder folder, String documentSetName, ContentTypeId contentTypeId)
+public static Folder CreateDocumentSet(this Folder folder, String documentSetName, ContentTypeId contentTypeId)
 ```
 ### Parameters
 #### folder  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Folder  
-&emsp;&emsp; Creates a new document set as a child of an existing folder, with the specified content type ID.   
+&emsp;&emsp;Folder of the document set  
 
   
 
 #### documentSetName  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates a new document set as a child of an existing folder, with the specified content type ID.   
+&emsp;&emsp;Name of the document set  
 
   
 
@@ -34,9 +34,8 @@ The created Folder representing the document set, so that additional operations 
 ## Remarks
 
 ```C#
-
- var setContentType = list.BestMatchContentTypeId(BuiltInContentTypeId.DocumentSet);
- var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
+var setContentType = list.BestMatchContentTypeId(BuiltInContentTypeId.DocumentSet);
+var set1 = list.RootFolder.CreateDocumentSet("Set 1", setContentType);
             
 ```
   

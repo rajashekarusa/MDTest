@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ContentType CreateContentTypeFromXMLFile(Web web, String absolutePathToFile)
+public static ContentType CreateContentTypeFromXMLFile(this Web web, String absolutePathToFile)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static ContentType CreateContentTypeFromXMLFile(Web web, String absoluteP
 ### Return Value
 Type: ContentType  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

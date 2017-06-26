@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static EventReceiverDefinition AddRemoteEventReceiver(List list, String name, String url, EventReceiverType eventReceiverType, EventReceiverSynchronization synchronization, Int32 sequenceNumber, Boolean force)
+public static EventReceiverDefinition AddRemoteEventReceiver(this List list, String name, String url, EventReceiverType eventReceiverType, EventReceiverSynchronization synchronization, Int32 sequenceNumber, Boolean force)
 ```
 ### Parameters
 #### list  
@@ -55,8 +55,6 @@ Type: EventReceiverDefinition
 Returns an EventReceiverDefinition if succeeded. Returns null if failed.  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

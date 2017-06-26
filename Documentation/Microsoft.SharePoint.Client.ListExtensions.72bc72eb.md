@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List GetPagesLibrary(Web web)
+public static List GetPagesLibrary(this Web web)
 ```
 ### Parameters
 #### web  
@@ -19,8 +19,6 @@ Type: List
 The publishing pages library. Returns null if library was not found.  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - System.InvalidOperationException

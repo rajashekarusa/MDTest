@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties yammer_now_app_id
-  
+ Represents yammer user current app id   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

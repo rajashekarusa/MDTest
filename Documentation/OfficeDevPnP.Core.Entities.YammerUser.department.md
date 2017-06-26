@@ -1,5 +1,5 @@
 # YammerUser.Properties department
-  
+ Represents yammer user department   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

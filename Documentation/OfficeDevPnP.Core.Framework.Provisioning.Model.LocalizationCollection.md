@@ -13,6 +13,6 @@ public class LocalizationCollection: ProvisioningTemplateCollection<Localization
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [LocalizationCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection.ctor1.md) |  Collection of Localization objects 
+| [LocalizationCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.LocalizationCollection.ctor1.md) | Constructor for LocalizationCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

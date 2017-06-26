@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties MessagesDelegate
-  
+ Provisioning Messages Delegate   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

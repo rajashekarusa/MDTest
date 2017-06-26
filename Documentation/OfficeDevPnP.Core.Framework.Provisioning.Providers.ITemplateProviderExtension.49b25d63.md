@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ProvisioningTemplate PostProcessGetTemplate(ProvisioningTemplate template)
+public abstract ProvisioningTemplate PostProcessGetTemplate(ProvisioningTemplate template)
 ```
 ### Parameters
 #### template  
@@ -15,12 +15,10 @@ public ProvisioningTemplate PostProcessGetTemplate(ProvisioningTemplate template
   
 
 ### Return Value
-Type: ProvisioningTemplate  
+Type: [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 The resulting template, after post-processing  
 
 
-## Remarks
-  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

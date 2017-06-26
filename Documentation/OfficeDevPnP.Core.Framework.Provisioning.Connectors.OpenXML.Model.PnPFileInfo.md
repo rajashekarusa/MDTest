@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PnPFileInfo
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PnPFileInfo()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.Model.PnPFileInfo.ctor1.md) |  File descriptor for every single file in the PnP OpenXML file 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

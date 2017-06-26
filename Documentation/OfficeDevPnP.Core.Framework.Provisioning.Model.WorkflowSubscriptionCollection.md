@@ -13,6 +13,6 @@ public class WorkflowSubscriptionCollection: ProvisioningTemplateCollection<Work
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [WorkflowSubscriptionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.ctor1.md) |  Defines a collection of objects of type WorkflowSubscription 
+| [WorkflowSubscriptionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.WorkflowSubscriptionCollection.ctor1.md) | Constructor for WorkflowSubscriptionCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

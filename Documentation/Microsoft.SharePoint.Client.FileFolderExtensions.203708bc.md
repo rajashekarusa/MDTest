@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static File UploadFile(Folder folder, String fileName, Stream stream, Boolean overwriteIfExists)
+public static File UploadFile(this Folder folder, String fileName, Stream stream, Boolean overwriteIfExists)
 ```
 ### Parameters
 #### folder  
@@ -22,7 +22,7 @@ public static File UploadFile(Folder folder, String fileName, Stream stream, Boo
 
 #### stream  
 &emsp;&emsp;Type: System.IO.Stream  
-&emsp;&emsp; Uploads a file to the specified folder.   
+&emsp;&emsp;A stream object that represents the file.  
 
   
 
@@ -37,8 +37,6 @@ Type: File
 The uploaded File, so that additional operations (such as setting properties) can be done.  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

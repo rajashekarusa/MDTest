@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool PropertyBagContainsKey(List list, String key)
+public static bool PropertyBagContainsKey(this List list, String key)
 ```
 ### Parameters
 #### list  
@@ -25,8 +25,6 @@ Type: bool
 True if the entry exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

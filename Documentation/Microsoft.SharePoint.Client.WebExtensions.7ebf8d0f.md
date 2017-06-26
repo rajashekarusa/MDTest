@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void RemovePropertyBagValue(Web web, String key)
+public static void RemovePropertyBagValue(this Web web, String key)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void RemovePropertyBagValue(Web web, String key)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

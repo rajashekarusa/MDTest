@@ -1,5 +1,5 @@
 # ClientSidePage.Properties Zones
-  
+ Collection of Zones that exist on this client side page   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

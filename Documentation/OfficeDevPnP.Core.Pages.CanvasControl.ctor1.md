@@ -1,5 +1,5 @@
 # CanvasControl.CanvasControl members 
-  
+ Constructs the canvas control   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

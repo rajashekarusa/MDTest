@@ -13,6 +13,6 @@ public class RoleDefinitionCollection: ProvisioningTemplateCollection<RoleDefini
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [RoleDefinitionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection.ctor1.md) |  Collection of RoleDefinition objects 
+| [RoleDefinitionCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.RoleDefinitionCollection.ctor1.md) | Constructor for RoleDefibitionCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Provisioning
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Provisioning()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Provisioning.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

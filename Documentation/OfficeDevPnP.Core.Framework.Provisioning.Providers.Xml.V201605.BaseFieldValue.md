@@ -12,16 +12,12 @@ System.Object
 ```C#
 public class BaseFieldValue: IXmlSerializable
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [BaseFieldValue()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
 | [FieldName](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.FieldName.md) | 
 | [Value](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.Value.md) | 
-## Extension Methods
+## Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [GetSchema(XmlSchemaSet)](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.BaseFieldValue.b4f30151.md) | 

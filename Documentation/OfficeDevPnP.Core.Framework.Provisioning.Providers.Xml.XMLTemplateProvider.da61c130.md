@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Save(ProvisioningTemplate template)
+public override void Save(ProvisioningTemplate template)
 ```
 ### Parameters
 #### template  

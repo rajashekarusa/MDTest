@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool CheckIfSiteExists(Tenant tenant, String siteFullUrl, String status)
+public static bool CheckIfSiteExists(this Tenant tenant, String siteFullUrl, String status)
 ```
 ### Parameters
 #### tenant  
@@ -31,8 +31,6 @@ Type: bool
 True if in status, false if not in status  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

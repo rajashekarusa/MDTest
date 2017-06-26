@@ -1,5 +1,5 @@
 # CustomAction.Properties Enabled
-  
+ Gets or sets the Enabled property value.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

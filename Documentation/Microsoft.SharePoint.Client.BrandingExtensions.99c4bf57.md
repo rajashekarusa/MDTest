@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetAvailableWebTemplates(Web web, List<WebTemplateEntity> availableTemplates)
+public static void SetAvailableWebTemplates(this Web web, List<WebTemplateEntity> availableTemplates)
 ```
 ### Parameters
 #### web  
@@ -15,7 +15,7 @@ public static void SetAvailableWebTemplates(Web web, List<WebTemplateEntity> ava
   
 
 #### availableTemplates  
-&emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.WebTemplateEntity>  
+&emsp;&emsp;Type: System.Collections.Generic.List&lt;OfficeDevPnP.Core.Entities.WebTemplateEntity&gt;  
 &emsp;&emsp;List of objects that define the templates that are allowed  
 
   
@@ -23,8 +23,6 @@ public static void SetAvailableWebTemplates(Web web, List<WebTemplateEntity> ava
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [OfficeDevPnP.Core.Entities.WebTemplateEntity](OfficeDevPnP.Core.Entities.WebTemplateEntity.md)

@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties show_communities_directory
-  
+ Represents boolean value to dispay communities directory   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

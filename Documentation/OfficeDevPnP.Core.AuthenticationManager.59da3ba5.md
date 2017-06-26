@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ClientContext GetADFSCertificateMixedAuthenticationContext(String siteUrl, String serialNumber, String sts, String idpId, Int32 logonTokenCacheExpirationWindow)
+public ClientContext GetADFSCertificateMixedAuthenticationContext(String siteUrl, String serialNumber, String sts, String idpId, Int32 logonTokenCacheExpirationWindow = 10)
 ```
 ### Parameters
 #### siteUrl  
@@ -43,8 +43,6 @@ Type: ClientContext
 ClientContext to be used by CSOM code  
 
 
-## Remarks
-  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

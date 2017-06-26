@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties home_tabs
-  
+ Represents yammer user list of home tabs   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

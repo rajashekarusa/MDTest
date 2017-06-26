@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool IsFeatureActive(Web web, Guid featureID)
+public static bool IsFeatureActive(this Web web, Guid featureID)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 True if active, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [FeatureExtensions](Microsoft.SharePoint.Client.FeatureExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

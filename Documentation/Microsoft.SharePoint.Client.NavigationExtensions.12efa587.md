@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static NavigationTermSet GetEditableNavigationTermSet(Web web, ManagedNavigationKind navigationKind)
+public static NavigationTermSet GetEditableNavigationTermSet(this Web web, ManagedNavigationKind navigationKind)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: NavigationTermSet
 The editable Global Navigation TermSet  
 
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class SPTimeZone
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SPTimeZone()](OfficeDevPnP.Core.UPAWebService.SPTimeZone.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

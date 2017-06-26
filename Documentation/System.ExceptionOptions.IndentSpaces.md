@@ -1,5 +1,5 @@
 # ExceptionOptions.Properties IndentSpaces
-  
+ Gets or sets the integer value for space indentation   
 
 **Namespace:** [System](System.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -10,9 +10,5 @@ System.Object
 ```C#
 public class Provider: ExtensibilityHandler
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Provider()](OfficeDevPnP.Core.Framework.Provisioning.Model.Provider.ctor1.md) |  Domain Object for Extensiblity Call out 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

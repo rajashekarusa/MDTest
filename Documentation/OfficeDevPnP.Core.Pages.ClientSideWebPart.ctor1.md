@@ -1,5 +1,5 @@
 # ClientSideWebPart.ClientSideWebPart members 
-  
+ Instantiates client side web part from scratch.   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

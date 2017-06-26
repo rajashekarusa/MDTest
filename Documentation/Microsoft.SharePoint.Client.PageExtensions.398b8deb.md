@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ClientSidePage LoadClientSidePage(Web web, String pageName)
+public static ClientSidePage LoadClientSidePage(this Web web, String pageName)
 ```
 ### Parameters
 #### web  
@@ -21,12 +21,10 @@ public static ClientSidePage LoadClientSidePage(Web web, String pageName)
   
 
 ### Return Value
-Type: ClientSidePage  
+Type: [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  
 A  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  instance  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)

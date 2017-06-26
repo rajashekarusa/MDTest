@@ -5,20 +5,18 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void Delete(WorkflowDefinition definition)
+public static void Delete(this WorkflowDefinition definition)
 ```
 ### Parameters
 #### definition  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowDefinition  
-&emsp;&emsp; Deletes a workflow definition   
+&emsp;&emsp;the workflow defition to delete  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

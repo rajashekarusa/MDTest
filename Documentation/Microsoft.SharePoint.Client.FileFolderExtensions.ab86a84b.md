@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ApproveFile(Web web, String serverRelativeUrl, String comment)
+public static void ApproveFile(this Web web, String serverRelativeUrl, String comment)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void ApproveFile(Web web, String serverRelativeUrl, String comment
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

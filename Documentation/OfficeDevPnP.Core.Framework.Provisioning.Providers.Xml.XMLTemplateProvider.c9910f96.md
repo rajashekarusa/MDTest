@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void SaveAs(ProvisioningTemplate template, String uri, ITemplateFormatter formatter, ITemplateProviderExtension[] extensions)
+public override void SaveAs(ProvisioningTemplate template, String uri, ITemplateFormatter formatter, ITemplateProviderExtension[] extensions)
 ```
 ### Parameters
 #### template  
@@ -27,7 +27,7 @@ public void SaveAs(ProvisioningTemplate template, String uri, ITemplateFormatter
   
 
 #### extensions  
-&emsp;&emsp;Type: OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]  
+&emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension[]](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md)  
 &emsp;&emsp;  
 
   

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void EnableRequestAccess(Web web, IEnumerable<String> emails)
+public static void EnableRequestAccess(this Web web, IEnumerable<String> emails)
 ```
 ### Parameters
 #### web  
@@ -15,7 +15,7 @@ public static void EnableRequestAccess(Web web, IEnumerable<String> emails)
   
 
 #### emails  
-&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable&lt;System.String&gt;  
 &emsp;&emsp;The e-mail addresses to send access requests to.  
 
   
@@ -23,8 +23,6 @@ public static void EnableRequestAccess(Web web, IEnumerable<String> emails)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

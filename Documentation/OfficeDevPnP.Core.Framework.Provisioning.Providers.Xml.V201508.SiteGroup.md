@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class SiteGroup
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SiteGroup()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.SiteGroup.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

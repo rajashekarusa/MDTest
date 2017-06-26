@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static IEnumerable<Field> GetFields(List list, String[] fieldInternalNames)
+public static IEnumerable<Field> GetFields(this List list, params String[] fieldInternalNames)
 ```
 ### Parameters
 #### list  
@@ -25,8 +25,6 @@ Type: IEnumerable<Field>
 List of fields requested.  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

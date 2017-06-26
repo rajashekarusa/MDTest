@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ProvisioningTemplateSiteFields
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ProvisioningTemplateSiteFields()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.ProvisioningTemplateSiteFields.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

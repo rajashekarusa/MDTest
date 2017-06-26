@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean alreadyPersist)
+public static ClientSidePage AddClientSidePage(this Web web, String pageName = "", Boolean alreadyPersist = False)
 ```
 ### Parameters
 #### web  
@@ -14,7 +14,7 @@ public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean
 
   
 
-#### pageName  
+#### (optional) pageName  
 &emsp;&emsp;Type: System.String  
 &emsp;&emsp;Name (e.g. demo.aspx) of the page to be added  
 
@@ -27,12 +27,10 @@ public static ClientSidePage AddClientSidePage(Web web, String pageName, Boolean
   
 
 ### Return Value
-Type: ClientSidePage  
+Type: [ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  
 A  [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)  instance  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - [OfficeDevPnP.Core.Pages.ClientSidePage](OfficeDevPnP.Core.Pages.ClientSidePage.md)

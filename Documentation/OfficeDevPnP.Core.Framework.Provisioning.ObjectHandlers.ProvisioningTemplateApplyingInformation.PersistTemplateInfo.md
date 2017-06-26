@@ -1,5 +1,5 @@
 # ProvisioningTemplateApplyingInformation.Properties PersistTemplateInfo
-  
+ If true then persists template information   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

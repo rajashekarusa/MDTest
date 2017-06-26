@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Nullable<Int32> GetPropertyBagValueInt(List list, String key, Int32 defaultValue)
+public static Nullable<Int32> GetPropertyBagValueInt(this List list, String key, Int32 defaultValue)
 ```
 ### Parameters
 #### list  
@@ -22,7 +22,7 @@ public static Nullable<Int32> GetPropertyBagValueInt(List list, String key, Int3
 
 #### defaultValue  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp; Get int typed property bag value. If does not contain, returns default value.   
+&emsp;&emsp;Default value of the property bag  
 
   
 
@@ -31,8 +31,6 @@ Type: Nullable<Int32>
 Value of the property bag entry as integer  
 
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

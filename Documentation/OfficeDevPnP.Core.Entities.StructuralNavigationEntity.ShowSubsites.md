@@ -1,5 +1,5 @@
 # StructuralNavigationEntity.Properties ShowSubsites
-  
+ Subsites will be displayed in navigation   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

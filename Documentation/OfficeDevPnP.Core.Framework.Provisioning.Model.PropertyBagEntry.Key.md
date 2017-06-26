@@ -1,5 +1,5 @@
 # PropertyBagEntry.Properties Key
-  
+ Gets or sets the Key for property bag entry   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -1,5 +1,5 @@
 # FileConnectorBase.Properties Parameters
-  
+ Parameters required for the file.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

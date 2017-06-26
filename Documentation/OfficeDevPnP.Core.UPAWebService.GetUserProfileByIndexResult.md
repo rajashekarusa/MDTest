@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class GetUserProfileByIndexResult
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [GetUserProfileByIndexResult()](OfficeDevPnP.Core.UPAWebService.GetUserProfileByIndexResult.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

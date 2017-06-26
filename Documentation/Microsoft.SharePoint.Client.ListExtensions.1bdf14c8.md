@@ -5,32 +5,30 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreateViewsFromXMLFile(Web web, String listUrl, String filePath)
+public static void CreateViewsFromXMLFile(this Web web, String listUrl, String filePath)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Creates list views based on specific xml structure from file   
+&emsp;&emsp;Web to process  
 
   
 
 #### listUrl  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates list views based on specific xml structure from file   
+&emsp;&emsp;List Url  
 
   
 
 #### filePath  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Creates list views based on specific xml structure from file   
+&emsp;&emsp;Path of the file  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

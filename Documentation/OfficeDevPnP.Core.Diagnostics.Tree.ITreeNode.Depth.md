@@ -1,11 +1,11 @@
 # ITreeNode.Properties Depth
-  
+ Distance from Root   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public int Depth { get; }
+public abstract int Depth { get; }
 ```
 
 ### Property Value

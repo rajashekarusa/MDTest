@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void WireUpTaxonomyField(Web web, Field field, String mmsGroupName, String mmsTermSetName, Boolean multiValue)
+public static void WireUpTaxonomyField(this Web web, Field field, String mmsGroupName, String mmsTermSetName, Boolean multiValue = False)
 ```
 ### Parameters
 #### web  
@@ -41,8 +41,6 @@ public static void WireUpTaxonomyField(Web web, Field field, String mmsGroupName
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

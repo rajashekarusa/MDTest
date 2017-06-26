@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties HandlersToProcess
-  
+ List of of handlers to process   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

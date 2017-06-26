@@ -1,5 +1,5 @@
 # PnPPackageFileItem.Properties Name
-  
+ Name of the package file item   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML](OfficeDevPnP.Core.Framework.Provisioning.Connectors.OpenXML.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

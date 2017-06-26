@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SitePolicyEntity GetSitePolicyByName(Web web, String sitePolicy)
+public static SitePolicyEntity GetSitePolicyByName(this Web web, String sitePolicy)
 ```
 ### Parameters
 #### web  
@@ -21,12 +21,10 @@ public static SitePolicyEntity GetSitePolicyByName(Web web, String sitePolicy)
   
 
 ### Return Value
-Type: SitePolicyEntity  
+Type: [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  
 A  [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  object holding the fetched policy  
 
 
-## Remarks
-  
 ## See also
 - [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
 - [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)

@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties allow_inline_video
-  
+ Represents boolean value to allow inline video   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

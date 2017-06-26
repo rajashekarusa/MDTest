@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static SitePolicyEntity GetAppliedSitePolicy(Web web)
+public static SitePolicyEntity GetAppliedSitePolicy(this Web web)
 ```
 ### Parameters
 #### web  
@@ -15,12 +15,10 @@ public static SitePolicyEntity GetAppliedSitePolicy(Web web)
   
 
 ### Return Value
-Type: SitePolicyEntity  
+Type: [SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  
 A  [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)  object holding the applied policy  
 
 
-## Remarks
-  
 ## See also
 - [InformationManagementExtensions](Microsoft.SharePoint.Client.InformationManagementExtensions.md) 
 - [OfficeDevPnP.Core.Entities.SitePolicyEntity](OfficeDevPnP.Core.Entities.SitePolicyEntity.md)

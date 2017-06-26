@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool DeleteWeb(Web parentWeb, String leafUrl)
+public static bool DeleteWeb(this Web parentWeb, String leafUrl)
 ```
 ### Parameters
 #### parentWeb  
@@ -25,8 +25,6 @@ Type: bool
 true if the web was deleted; otherwise false if nothing was done  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

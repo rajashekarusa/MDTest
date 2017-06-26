@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddPermissionLevelToGroup(SecurableObject securableObject, String groupName, String roleDefinitionName, Boolean removeExistingPermissionLevels)
+public static void AddPermissionLevelToGroup(this SecurableObject securableObject, String groupName, String roleDefinitionName, Boolean removeExistingPermissionLevels = False)
 ```
 ### Parameters
 #### securableObject  
@@ -35,8 +35,6 @@ public static void AddPermissionLevelToGroup(SecurableObject securableObject, St
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

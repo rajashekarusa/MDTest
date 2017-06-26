@@ -1,5 +1,5 @@
 # YammerGroup.Properties creator_type
-  
+ yammer group creator type   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

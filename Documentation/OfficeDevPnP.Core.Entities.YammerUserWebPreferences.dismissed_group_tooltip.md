@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties dismissed_group_tooltip
-  
+ Represents yammer user dismissed group tooltip or not   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static IList<SiteEntity> GetOneDriveSiteCollections(Tenant tenant)
+public static IList<SiteEntity> GetOneDriveSiteCollections(this Tenant tenant)
 ```
 ### Parameters
 #### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
-&emsp;&emsp; Get OneDrive site collections by iterating through all user profiles.   
+&emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site   
 
   
 
@@ -19,8 +19,6 @@ Type: IList<SiteEntity>
 List of  [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)  objects containing site collection info  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [OfficeDevPnP.Core.Entities.SiteEntity](OfficeDevPnP.Core.Entities.SiteEntity.md)

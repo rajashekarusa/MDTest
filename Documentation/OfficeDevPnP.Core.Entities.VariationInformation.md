@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class VariationInformation
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [VariationInformation()](OfficeDevPnP.Core.Entities.VariationInformation.ctor1.md) |  Class containing variation configuration information 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

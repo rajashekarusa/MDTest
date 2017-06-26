@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CheckOutFile(Web web, String serverRelativeUrl)
+public static void CheckOutFile(this Web web, String serverRelativeUrl)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void CheckOutFile(Web web, String serverRelativeUrl)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddAdministrators(Tenant tenant, IEnumerable<UserEntity> adminLogins, Uri siteUrl, Boolean addToOwnersGroup)
+public static void AddAdministrators(this Tenant tenant, IEnumerable<UserEntity> adminLogins, Uri siteUrl, Boolean addToOwnersGroup = False)
 ```
 ### Parameters
 #### tenant  
@@ -15,7 +15,7 @@ public static void AddAdministrators(Tenant tenant, IEnumerable<UserEntity> admi
   
 
 #### adminLogins  
-&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<OfficeDevPnP.Core.Entities.UserEntity>  
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable&lt;OfficeDevPnP.Core.Entities.UserEntity&gt;  
 &emsp;&emsp;Array of admins loginnames to add  
 
   
@@ -35,8 +35,6 @@ public static void AddAdministrators(Tenant tenant, IEnumerable<UserEntity> admi
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

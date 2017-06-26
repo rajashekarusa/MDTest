@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class SupportedUILanguage: BaseModel, IEquatable<SupportedUILanguage>
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.ctor1.md) |  Defines a single Supported UI Language for a site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -21,8 +17,8 @@ public class SupportedUILanguage: BaseModel, IEquatable<SupportedUILanguage>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.3520ddbb.md) | 
-| [Equals(SupportedUILanguage)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.d3e6feee.md) | 
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.3520ddbb.md) | Compares object with SupportedUILanguage
+| [Equals(SupportedUILanguage)](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.d3e6feee.md) | Compares SupportedUILanguage object based on LCID.
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.SupportedUILanguage.1c6872bd.md) | Gets the hash code
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

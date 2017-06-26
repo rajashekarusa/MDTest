@@ -1,5 +1,5 @@
 # YammerUser.Properties mugshot_url_template
-  
+ Represents yammer user mugshot url template   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class CustomActions
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [CustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.CustomActions.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Field CreateField(List list, String fieldAsXml, Boolean executeQuery)
+public static Field CreateField(this List list, String fieldAsXml, Boolean executeQuery = True)
 ```
 ### Parameters
 #### list  
@@ -31,8 +31,6 @@ Type: Field
 The newly created field or existing field.  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

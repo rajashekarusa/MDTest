@@ -1,5 +1,5 @@
 # ClientSidePage.Properties PageListItem
-  
+ The SharePoint list item of the saved/loaded page   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

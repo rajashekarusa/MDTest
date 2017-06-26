@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static int GetWssIdForTerm(Web web, Term term)
+public static int GetWssIdForTerm(this Web web, Term term)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: int
   
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

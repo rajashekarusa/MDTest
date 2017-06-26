@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool AddCustomAction(Site site, CustomActionEntity customAction)
+public static bool AddCustomAction(this Site site, CustomActionEntity customAction)
 ```
 ### Parameters
 #### site  
@@ -25,8 +25,6 @@ Type: bool
 True if action was successfull  
 
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,22 +5,20 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static AreaNavigationEntity GetNavigationSettings(Web web)
+public static AreaNavigationEntity GetNavigationSettings(this Web web)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Returns the navigation settings for the selected web   
+&emsp;&emsp;Web to process  
 
   
 
 ### Return Value
-Type: AreaNavigationEntity  
-  
+Type: [AreaNavigationEntity](OfficeDevPnP.Core.Entities.AreaNavigationEntity.md)  
+Returns AreaNavigationEntity settings  
 
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

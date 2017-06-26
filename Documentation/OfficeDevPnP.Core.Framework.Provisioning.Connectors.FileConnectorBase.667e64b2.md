@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Stream GetFileStream(String fileName)
+public abstract Stream GetFileStream(String fileName)
 ```
 ### Parameters
 #### fileName  
@@ -19,8 +19,6 @@ Type: Stream
 String containing the file contents  
 
 
-## Remarks
-  
 ## See also
 - [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

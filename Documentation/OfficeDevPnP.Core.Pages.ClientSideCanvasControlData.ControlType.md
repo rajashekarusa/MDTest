@@ -1,5 +1,5 @@
 # ClientSideCanvasControlData.Properties ControlType
-  
+ Gets or sets JsonProperty "controlType"   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

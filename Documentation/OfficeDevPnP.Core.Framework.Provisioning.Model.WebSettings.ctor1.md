@@ -1,5 +1,5 @@
 # WebSettings.WebSettings members 
-  
+ Default Constructor   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

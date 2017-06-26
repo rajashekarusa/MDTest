@@ -1,5 +1,5 @@
 # Term.Properties SourceTermId
-  
+ Gets or sets the term source id   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

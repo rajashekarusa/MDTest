@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties admin_can_delete_messages
-  
+ Represents admin delegate messages   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

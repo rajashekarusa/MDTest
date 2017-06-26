@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string CreateYammerDiscussionPartXml(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter, Boolean useSSO)
+public static string CreateYammerDiscussionPartXml(String yammerNetworkName, Int32 yammerGroupId, Boolean showHeader, Boolean showFooter, Boolean useSSO = True)
 ```
 ### Parameters
 #### yammerNetworkName  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;Name of the network  
+&emsp;&emsp;Yammer network name  
 
   
 
@@ -22,19 +22,19 @@ public static string CreateYammerDiscussionPartXml(String yammerNetworkName, Int
 
 #### showHeader  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp; Constructs the webpart XML for yammer group needed to inject as Yammer web part to SharePoint page   
+&emsp;&emsp;Shows header based on value  
 
   
 
 #### showFooter  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp; Constructs the webpart XML for yammer group needed to inject as Yammer web part to SharePoint page   
+&emsp;&emsp;Shows footer based on value  
 
   
 
 #### (optional) useSSO  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp; Constructs the webpart XML for yammer group needed to inject as Yammer web part to SharePoint page   
+&emsp;&emsp;uses given Single Sign-on information to create webpart  
 
   
 
@@ -43,8 +43,6 @@ Type: string
 The constructed web part XML  
 
 
-## Remarks
-  
 ## See also
 - [YammerUtility](OfficeDevPnP.Core.Utilities.YammerUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

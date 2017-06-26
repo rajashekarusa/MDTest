@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class WikiPageWebPart
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [WikiPageWebPart()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WikiPageWebPart.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

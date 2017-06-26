@@ -1,11 +1,11 @@
 # ITreeNode.Properties Ancestors
-  
+ All nodes along path toward root: Parent, Parent.Parent, Parent.Parent.Parent, ...   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public IEnumerable<ITreeNode> Ancestors { get; }
+public abstract IEnumerable<ITreeNode> Ancestors { get; }
 ```
 
 ### Property Value

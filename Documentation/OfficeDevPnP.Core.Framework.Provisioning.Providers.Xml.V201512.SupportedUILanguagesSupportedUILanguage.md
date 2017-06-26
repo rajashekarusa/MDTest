@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class SupportedUILanguagesSupportedUILanguage
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [SupportedUILanguagesSupportedUILanguage()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.SupportedUILanguagesSupportedUILanguage.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties dismissed_invite_tooltip_at
-  
+ Represents yammer user dismissed tooltip invitation location   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

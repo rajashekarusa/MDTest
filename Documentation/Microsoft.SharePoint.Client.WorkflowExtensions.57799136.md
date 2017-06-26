@@ -5,22 +5,20 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static WorkflowInstanceCollection GetWorkflowInstances(Web web)
+public static WorkflowInstanceCollection GetWorkflowInstances(this Web web)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Returns alls workflow instances for a site   
+&emsp;&emsp;the target web  
 
   
 
 ### Return Value
 Type: WorkflowInstanceCollection  
-  
+Returns a WorkflowInstanceCollection object  
 
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

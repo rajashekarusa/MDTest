@@ -1,11 +1,11 @@
 # ITreeNode.Properties ParentNode
-  
+ Parent node   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics.Tree](OfficeDevPnP.Core.Diagnostics.Tree.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ITreeNode ParentNode { get; }
+public abstract ITreeNode ParentNode { get; }
 ```
 
 ### Property Value

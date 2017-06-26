@@ -1,5 +1,5 @@
 # UnifiedGroupsUtility Class
-  
+ Class that deals with Unified group CRUD operations.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -9,7 +9,7 @@ System.Object
 ```C#
 public static class UnifiedGroupsUtility
 ```
-## Extension Methods
+## Methods
 |**Name**|**Description**|
 |:-----|:-----|
 | [CreateUnifiedGroup(String, String, String, String, String[], String[], Stream, Boolean, Int32, Int32)](OfficeDevPnP.Core.Framework.Graph.UnifiedGroupsUtility.b7d1c0ab.md) | Creates a new Office 365 Group (i.e. Unified Group) with its backing Modern SharePoint Site

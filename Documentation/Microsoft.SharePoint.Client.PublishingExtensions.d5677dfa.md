@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddPublishingPage(Web web, String pageName, String pageTemplateName, String title, Boolean publish, Folder folder, Nullable<DateTime> startDate, Nullable<DateTime> endDate, Boolean schedule)
+public static void AddPublishingPage(this Web web, String pageName, String pageTemplateName, String title, Boolean publish = False, Folder folder, Nullable<DateTime> startDate, Nullable<DateTime> endDate, Boolean schedule = False)
 ```
 ### Parameters
 #### web  
@@ -45,13 +45,13 @@ public static void AddPublishingPage(Web web, String pageName, String pageTempla
   
 
 #### (optional) startDate  
-&emsp;&emsp;Type: System.Nullable<System.DateTime>  
+&emsp;&emsp;Type: System.Nullable&lt;System.DateTime&gt;  
 &emsp;&emsp;Start date for scheduled publishing.  
 
   
 
 #### (optional) endDate  
-&emsp;&emsp;Type: System.Nullable<System.DateTime>  
+&emsp;&emsp;Type: System.Nullable&lt;System.DateTime&gt;  
 &emsp;&emsp;End date for scheduled publishing.  
 
   
@@ -65,8 +65,6 @@ public static void AddPublishingPage(Web web, String pageName, String pageTempla
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
 - System.ArgumentNullException

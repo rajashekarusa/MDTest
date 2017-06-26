@@ -5,22 +5,20 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetSearchConfiguration(Site site)
+public static string GetSearchConfiguration(this Site site)
 ```
 ### Parameters
 #### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
-&emsp;&emsp; Returns the current search configuration as as string   
+&emsp;&emsp;A SharePoint site  
 
   
 
 ### Return Value
 Type: string  
-  
+Returns search configuration  
 
 
-## Remarks
-  
 ## See also
 - [SearchExtensions](Microsoft.SharePoint.Client.SearchExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

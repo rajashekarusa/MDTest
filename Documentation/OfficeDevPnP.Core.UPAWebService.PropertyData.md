@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PropertyData
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PropertyData()](OfficeDevPnP.Core.UPAWebService.PropertyData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

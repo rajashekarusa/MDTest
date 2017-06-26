@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PropertyInfo
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PropertyInfo()](OfficeDevPnP.Core.UPAWebService.PropertyInfo.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ClientContext Clone(ClientRuntimeContext clientContext, String siteUrl)
+public static ClientContext Clone(this ClientRuntimeContext clientContext, String siteUrl)
 ```
 ### Parameters
 #### clientContext  
@@ -25,8 +25,6 @@ Type: ClientContext
 A ClientContext object created for the passed site url  
 
 
-## Remarks
-  
 ## See also
 - [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

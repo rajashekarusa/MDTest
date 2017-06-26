@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool VerifyIfUploadRequired(File serverFile, Stream localStream)
+public static bool VerifyIfUploadRequired(this File serverFile, Stream localStream)
 ```
 ### Parameters
 #### serverFile  
@@ -25,8 +25,6 @@ Type: bool
   
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -13,6 +13,6 @@ public class DefaultDocumentCollection: ProvisioningTemplateCollection<DefaultDo
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DefaultDocumentCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection.ctor1.md) |  
+| [DefaultDocumentCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DefaultDocumentCollection.ctor1.md) | Constructor for DefaultDocumentCollection class. 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

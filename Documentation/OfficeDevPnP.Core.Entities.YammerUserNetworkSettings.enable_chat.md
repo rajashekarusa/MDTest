@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties enable_chat
-  
+ Represents boolean value enable chat   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

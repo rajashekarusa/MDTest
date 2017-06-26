@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetPropertyBagValueString(Web web, String key, String defaultValue)
+public static string GetPropertyBagValueString(this Web web, String key, String defaultValue)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: string
 Value of the property bag entry as string  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

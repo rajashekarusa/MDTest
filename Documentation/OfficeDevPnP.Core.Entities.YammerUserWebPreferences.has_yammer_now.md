@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties has_yammer_now
-  
+ Represents yammer user has yammer now or not   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

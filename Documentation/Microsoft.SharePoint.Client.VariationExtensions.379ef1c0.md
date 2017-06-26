@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ProvisionTargetVariationLabels(ClientContext context, List<VariationLabelEntity> variationLabels)
+public static void ProvisionTargetVariationLabels(this ClientContext context, List<VariationLabelEntity> variationLabels)
 ```
 ### Parameters
 #### context  
@@ -15,7 +15,7 @@ public static void ProvisionTargetVariationLabels(ClientContext context, List<Va
   
 
 #### variationLabels  
-&emsp;&emsp;Type: System.Collections.Generic.List<OfficeDevPnP.Core.Entities.VariationLabelEntity>  
+&emsp;&emsp;Type: System.Collections.Generic.List&lt;OfficeDevPnP.Core.Entities.VariationLabelEntity&gt;  
 &emsp;&emsp;Variation labels  
 
   
@@ -23,8 +23,6 @@ public static void ProvisionTargetVariationLabels(ClientContext context, List<Va
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [VariationExtensions](Microsoft.SharePoint.Client.VariationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,5 +1,5 @@
 # MultipleSymmetricKeySecurityToken.MultipleSymmetricKeySecurityToken members 
-  
+ Initializes a new instance of the MultipleSymmetricKeySecurityToken class.   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,7 +10,7 @@ public MultipleSymmetricKeySecurityToken(IEnumerable<Byte[]> keys)
 ### Parameters
 #### keys  
 &emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.Byte[]>  
-&emsp;&emsp;  
+&emsp;&emsp;An enumeration of Byte arrays that contain the symmetric keys.  
 
 
 ## See also

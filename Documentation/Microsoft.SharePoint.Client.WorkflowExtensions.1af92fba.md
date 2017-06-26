@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid StartWorkflowInstance(Web web, String subscriptionName, IDictionary<String, Object> payload)
+public static Guid StartWorkflowInstance(this Web web, String subscriptionName, IDictionary<String, Object> payload)
 ```
 ### Parameters
 #### web  
@@ -21,7 +21,7 @@ public static Guid StartWorkflowInstance(Web web, String subscriptionName, IDict
   
 
 #### payload  
-&emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String, System.Object>  
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary&lt;System.String, System.Object&gt;  
 &emsp;&emsp;Any input argument for the workflow instance  
 
   
@@ -31,8 +31,6 @@ Type: Guid
 The ID of the just started workflow instance  
 
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

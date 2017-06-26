@@ -1,5 +1,5 @@
 # LogEntry.Properties CorrelationId
-  
+ Gets or sets CorrelationId of type Guid   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

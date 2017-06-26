@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Invoke(Object sender, GetPropertyChoiceListCompletedEventArgs e)
+public virtual void Invoke(Object sender, GetPropertyChoiceListCompletedEventArgs e)
 ```
 ### Parameters
 #### sender  

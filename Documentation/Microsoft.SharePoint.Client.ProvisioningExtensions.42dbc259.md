@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ProvisionElementFile(Web web, String path)
+public static void ProvisionElementFile(this Web web, String path)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void ProvisionElementFile(Web web, String path)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ProvisioningExtensions](Microsoft.SharePoint.Client.ProvisioningExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,28 +5,26 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static WorkflowSubscription GetWorkflowSubscription(Web web, Guid id)
+public static WorkflowSubscription GetWorkflowSubscription(this Web web, Guid id)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Returns a workflow subscription   
+&emsp;&emsp;The web to get workflow subscription  
 
   
 
 #### id  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp; Returns a workflow subscription   
+&emsp;&emsp;The id of the workflow subscription  
 
   
 
 ### Return Value
 Type: WorkflowSubscription  
-  
+Returns a WorkflowSubscription object  
 
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

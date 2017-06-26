@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetRelativeUrlForMasterByName(Web web, String masterPageName)
+public static string GetRelativeUrlForMasterByName(this Web web, String masterPageName)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Returns the relative URL for a masterpage   
+&emsp;&emsp;Web to process  
 
   
 
@@ -25,8 +25,6 @@ Type: string
   
 
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

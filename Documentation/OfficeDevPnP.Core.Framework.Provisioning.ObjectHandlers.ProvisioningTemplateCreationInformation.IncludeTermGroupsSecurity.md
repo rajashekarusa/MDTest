@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties IncludeTermGroupsSecurity
-  
+ if true, includes term group security in the template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

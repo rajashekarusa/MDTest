@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetSharingCapabilitiesTenant(Web web, Uri siteUrl)
+public static string GetSharingCapabilitiesTenant(this Web web, Uri siteUrl)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: string
 Sharing capabilities of the site collection  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

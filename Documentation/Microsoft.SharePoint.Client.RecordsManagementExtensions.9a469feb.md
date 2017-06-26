@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetListManualRecordDeclaration(List list, EcmListManualRecordDeclaration settings)
+public static void SetListManualRecordDeclaration(this List list, EcmListManualRecordDeclaration settings)
 ```
 ### Parameters
 #### list  
@@ -23,8 +23,6 @@ public static void SetListManualRecordDeclaration(List list, EcmListManualRecord
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmListManualRecordDeclaration](OfficeDevPnP.Core.EcmListManualRecordDeclaration.md)

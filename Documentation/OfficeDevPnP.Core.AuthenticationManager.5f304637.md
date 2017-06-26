@@ -15,7 +15,7 @@ public ClientContext GetAzureADWebApplicationAuthenticatedContext(String siteUrl
   
 
 #### accessTokenGetter  
-&emsp;&emsp;Type: System.Func<System.String, System.String>  
+&emsp;&emsp;Type: System.Func&lt;System.String, System.String&gt;  
 &emsp;&emsp;The AccessToken getter method to use  
 
   
@@ -25,8 +25,6 @@ Type: ClientContext
 Client context object  
 
 
-## Remarks
-  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

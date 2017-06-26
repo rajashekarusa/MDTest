@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetTaxonomyFieldValue(ListItem item, Guid fieldId, String label, Guid termGuid)
+public static void SetTaxonomyFieldValue(this ListItem item, Guid fieldId, String label, Guid termGuid)
 ```
 ### Parameters
 #### item  
@@ -35,8 +35,6 @@ public static void SetTaxonomyFieldValue(ListItem item, Guid fieldId, String lab
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

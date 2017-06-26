@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid AddWorkflowSubscription(List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
+public static Guid AddWorkflowSubscription(this List list, WorkflowDefinition workflowDefinition, String subscriptionName, Boolean startManually, Boolean startOnCreate, Boolean startOnChange, String historyListName, String taskListName, Dictionary<String, String> associationValues)
 ```
 ### Parameters
 #### list  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.List  
-&emsp;&emsp; Adds a workflow subscription to a list   
+&emsp;&emsp;The target list  
 
   
 
@@ -57,8 +57,8 @@ public static Guid AddWorkflowSubscription(List list, WorkflowDefinition workflo
   
 
 #### (optional) associationValues  
-&emsp;&emsp;Type: System.Collections.Generic.Dictionary<System.String, System.String>  
-&emsp;&emsp; Adds a workflow subscription to a list   
+&emsp;&emsp;Type: System.Collections.Generic.Dictionary&lt;System.String, System.String&gt;  
+&emsp;&emsp;the name-value pairs for workflow definition  
 
   
 
@@ -67,8 +67,6 @@ Type: Guid
 Guid of the workflow subscription  
 
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [GetWorkflowDefinition](Microsoft.SharePoint.Client.WorkflowExtensions.89d3977b.md)

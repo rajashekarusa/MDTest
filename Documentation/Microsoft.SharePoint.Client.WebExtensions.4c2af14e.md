@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static EventReceiverDefinition AddRemoteEventReceiver(Web web, String name, String url, EventReceiverType eventReceiverType, EventReceiverSynchronization synchronization, Int32 sequenceNumber, Boolean force)
+public static EventReceiverDefinition AddRemoteEventReceiver(this Web web, String name, String url, EventReceiverType eventReceiverType, EventReceiverSynchronization synchronization, Int32 sequenceNumber, Boolean force)
 ```
 ### Parameters
 #### web  
@@ -28,19 +28,19 @@ public static EventReceiverDefinition AddRemoteEventReceiver(Web web, String nam
 
 #### eventReceiverType  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.EventReceiverType  
-&emsp;&emsp; Registers a remote event receiver   
+&emsp;&emsp;The type of event for the event receiver.  
 
   
 
 #### synchronization  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.EventReceiverSynchronization  
-&emsp;&emsp; Registers a remote event receiver   
+&emsp;&emsp;An enumeration that specifies the synchronization state for the event receiver.  
 
   
 
 #### sequenceNumber  
 &emsp;&emsp;Type: System.Int32  
-&emsp;&emsp; Registers a remote event receiver   
+&emsp;&emsp;An integer that represents the relative sequence of the event.  
 
   
 
@@ -55,8 +55,6 @@ Type: EventReceiverDefinition
 Returns an EventReceiverDefinition if succeeded. Returns null if failed.  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

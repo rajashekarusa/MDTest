@@ -1,5 +1,5 @@
 # Navigation.Navigation members 
-  
+ Constructor for Navigation class   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,12 +10,12 @@ public Navigation(GlobalNavigation globalNavigation, CurrentNavigation currentNa
 ### Parameters
 #### (optional) globalNavigation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.GlobalNavigation.md)  
-&emsp;&emsp;  
+&emsp;&emsp;GlobalNavigation object  
 
 
 #### (optional) currentNavigation  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation](OfficeDevPnP.Core.Framework.Provisioning.Model.CurrentNavigation.md)  
-&emsp;&emsp;  
+&emsp;&emsp;CurrentNavigation object  
 
 
 ## See also

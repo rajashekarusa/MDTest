@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ListInstanceViews
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ListInstanceViews()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201503.ListInstanceViews.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

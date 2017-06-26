@@ -1,5 +1,5 @@
 # YammerUser.Properties web_url
-  
+ Represents yammer user web url   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

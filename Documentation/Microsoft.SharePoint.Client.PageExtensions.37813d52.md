@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static IEnumerable<WebPartDefinition> GetWebParts(Web web, String serverRelativePageUrl)
+public static IEnumerable<WebPartDefinition> GetWebParts(this Web web, String serverRelativePageUrl)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static IEnumerable<WebPartDefinition> GetWebParts(Web web, String serverR
 ### Return Value
 Type: IEnumerable<WebPartDefinition>  
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

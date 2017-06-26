@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddPermissionLevelToUser(SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeExistingPermissionLevels)
+public static void AddPermissionLevelToUser(this SecurableObject securableObject, String userLoginName, RoleType permissionLevel, Boolean removeExistingPermissionLevels = False)
 ```
 ### Parameters
 #### securableObject  
@@ -35,8 +35,6 @@ public static void AddPermissionLevelToUser(SecurableObject securableObject, Str
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

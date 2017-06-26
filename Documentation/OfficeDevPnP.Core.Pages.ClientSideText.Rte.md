@@ -1,5 +1,5 @@
 # ClientSideText.Properties Rte
-  
+ Value of the "data-sp-rte" attribute   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

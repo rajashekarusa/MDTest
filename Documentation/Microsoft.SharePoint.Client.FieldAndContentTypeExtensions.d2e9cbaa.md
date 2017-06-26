@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool AddContentTypeToListById(List list, String contentTypeID, Boolean defaultContent, Boolean searchContentTypeInSiteHierarchy)
+public static bool AddContentTypeToListById(this List list, String contentTypeID, Boolean defaultContent = False, Boolean searchContentTypeInSiteHierarchy = False)
 ```
 ### Parameters
 #### list  
@@ -35,8 +35,6 @@ public static bool AddContentTypeToListById(List list, String contentTypeID, Boo
 ### Return Value
 Type: bool  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

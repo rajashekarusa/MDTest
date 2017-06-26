@@ -1,5 +1,7 @@
 # WebExtensions Class
- Class that holds deprecated methods for site (both site collection and web site) creation, status, retrieval and settings   
+ Class that holds deprecated methods for site (both site collection and web site) creation, status, retrieval and settings 
+
+ Class that deals with site (both site collection and web site) creation, status, retrieval and settings   
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -21,9 +23,9 @@ public static class WebExtensions
 | [DeleteWeb(Web, String)](Microsoft.SharePoint.Client.WebExtensions.34d305de.md) | Deletes the child website with the specified leaf URL, from a parent Web, if it exists.
 | [DisableRequestAccess(Web)](Microsoft.SharePoint.Client.WebExtensions.1fec6f8d.md) | Disables the request access on the web.
 | [EnableRequestAccess(Web, String[])](Microsoft.SharePoint.Client.WebExtensions.a6aeb360.md) | Enables request access for the specified e-mail addresses.
-| [EnableRequestAccess(Web, IEnumerable<String>)](Microsoft.SharePoint.Client.WebExtensions.efaf0293.md) | Enables request access for the specified e-mail addresses.
+| [EnableRequestAccess(Web, IEnumerable&lt;String&gt;)](Microsoft.SharePoint.Client.WebExtensions.efaf0293.md) | Enables request access for the specified e-mail addresses.
 | [GetAllWebUrls(Site)](Microsoft.SharePoint.Client.WebExtensions.3201f18f.md) | Gets the collection of the URLs of all Web sites that are contained within the site collection, including the top-level site and its subsites.
-| [GetAppInstances(Web, Expression<Func<AppInstance, Object>>[])](Microsoft.SharePoint.Client.WebExtensions.b057f688.md) | 
+| [GetAppInstances(Web, Expression&lt;Func&lt;AppInstance, Object&gt;&gt;[])](Microsoft.SharePoint.Client.WebExtensions.b057f688.md) | Returns all app instances
 | [GetBaseTemplateId(Web)](Microsoft.SharePoint.Client.WebExtensions.f90c56f2.md) | Returns the Base Template ID for the current web
 | [GetEventReceiverById(Web, Guid)](Microsoft.SharePoint.Client.WebExtensions.a2bbb95b.md) | Returns an event receiver definition
 | [GetEventReceiverByName(Web, String)](Microsoft.SharePoint.Client.WebExtensions.f3860fda.md) | Returns an event receiver definition
@@ -38,7 +40,7 @@ public static class WebExtensions
 | [InstallSolution(Site, Guid, String, Int32, Int32)](Microsoft.SharePoint.Client.WebExtensions.8e60cd11.md) | Uploads and installs a sandbox solution package (.WSP) file, replacing existing solution if necessary.
 | [IsNoScriptSite(Site)](Microsoft.SharePoint.Client.WebExtensions.f9298408.md) | Detects if the site in question has no script enabled or not. Detection is done by verifying if the AddAndCustomizePages permission is missing. See https://support.office.com/en-us/article/Turn-scripting-capabilities-on-or-off-1f2c515f-5d7e-448a-9fd7-835da935584f for the effects of NoScript
 | [IsNoScriptSite(Web)](Microsoft.SharePoint.Client.WebExtensions.e5b2b186.md) | Detects if the site in question has no script enabled or not. Detection is done by verifying if the AddAndCustomizePages permission is missing. See https://support.office.com/en-us/article/Turn-scripting-capabilities-on-or-off-1f2c515f-5d7e-448a-9fd7-835da935584f for the effects of NoScript
-| [IsPublishingWeb(Web)](Microsoft.SharePoint.Client.WebExtensions.471e4515.md) | 
+| [IsPublishingWeb(Web)](Microsoft.SharePoint.Client.WebExtensions.471e4515.md) | Checks if the current web is a publishing site or not
 | [IsSubSite(Web)](Microsoft.SharePoint.Client.WebExtensions.3f4614d5.md) | Checks if the current web is a sub site or not
 | [MySiteSearch(Web)](Microsoft.SharePoint.Client.WebExtensions.cd9358ce.md) | Returns all my site site collections
 | [PropertyBagContainsKey(Web, String)](Microsoft.SharePoint.Client.WebExtensions.7a7ae50c.md) | Checks if the given property bag entry exists
@@ -61,8 +63,7 @@ public static class WebExtensions
 | [WebExistsFullUrl(ClientRuntimeContext, String)](Microsoft.SharePoint.Client.WebExtensions.5f46fd34.md) | Determines if a Web (site) exists at the specified full URL, either accessible or that returns an access error.
 ## Examples
 ```C#
-
- web.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
+web.SetLocalizationForSiteLabels("fi-fi", "Name of the site in Finnish", "Description in Finnish");
             
 ```
 

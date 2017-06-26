@@ -5,26 +5,26 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static T Remove(Enum value, T remove)
+public static T Remove<T>(this Enum value, T remove)
 ```
 ### Parameters
 #### value  
 &emsp;&emsp;Type: System.Enum  
-&emsp;&emsp; Removes an enumerated type and returns the new value   
+&emsp;&emsp;Enum value  
 
   
 
 #### remove  
 &emsp;&emsp;Type: T  
-&emsp;&emsp; Removes an enumerated type and returns the new value   
+&emsp;&emsp;Generic type parameter  
 
   
 
 ### Return Value
 Type: T  
+Returns new value  
 
-## Remarks
-  
+
 ## See also
 - [EnumerationExtensions](System.EnumerationExtensions.md) 
 - [System](System.md) 

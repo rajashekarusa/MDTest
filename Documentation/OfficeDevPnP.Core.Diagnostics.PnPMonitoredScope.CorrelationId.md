@@ -1,5 +1,5 @@
 # PnPMonitoredScope.Properties CorrelationId
-  
+ Gets Correlation Guid   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void UpdateListVersioning(Web web, String listName, Boolean enableVersioning, Boolean enableMinorVersioning, Boolean updateAndExecuteQuery)
+public static void UpdateListVersioning(this Web web, String listName, Boolean enableVersioning, Boolean enableMinorVersioning = True, Boolean updateAndExecuteQuery = True)
 ```
 ### Parameters
 #### web  
@@ -41,8 +41,6 @@ public static void UpdateListVersioning(Web web, String listName, Boolean enable
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - System.ArgumentException

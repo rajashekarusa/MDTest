@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class WorkflowsWorkflowDefinition
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [WorkflowsWorkflowDefinition()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.WorkflowsWorkflowDefinition.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

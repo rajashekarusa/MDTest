@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class TermStore
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [TermStore()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.TermStore.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

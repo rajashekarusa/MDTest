@@ -1,5 +1,5 @@
 # OrderByField.Properties Name
-  
+ Gets or sets the name of the field   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

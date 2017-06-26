@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreateFieldsFromXMLString(Web web, String xmlStructure)
+public static void CreateFieldsFromXMLString(this Web web, String xmlStructure)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void CreateFieldsFromXMLString(Web web, String xmlStructure)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

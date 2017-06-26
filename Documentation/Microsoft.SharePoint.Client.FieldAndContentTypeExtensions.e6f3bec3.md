@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool FieldExistsById(List list, Guid fieldId)
+public static bool FieldExistsById(this List list, Guid fieldId)
 ```
 ### Parameters
 #### list  
@@ -25,8 +25,6 @@ Type: bool
 True if the fields exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

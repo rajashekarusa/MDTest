@@ -1,5 +1,5 @@
 # TermLabel.Properties Language
-  
+ Gets or sets the Language for the term label   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

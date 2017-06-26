@@ -5,26 +5,26 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool Missing(Enum obj, T value)
+public static bool Missing<T>(this Enum obj, T value)
 ```
 ### Parameters
 #### obj  
 &emsp;&emsp;Type: System.Enum  
-&emsp;&emsp; Checks if an enumerated type is missing a value   
+&emsp;&emsp;Enum object  
 
   
 
 #### value  
 &emsp;&emsp;Type: T  
-&emsp;&emsp; Checks if an enumerated type is missing a value   
+&emsp;&emsp;Generic type parameter  
 
   
 
 ### Return Value
 Type: bool  
+Returns true if enumerated type is missing a value  
 
-## Remarks
-  
+
 ## See also
 - [EnumerationExtensions](System.EnumerationExtensions.md) 
 - [System](System.md) 

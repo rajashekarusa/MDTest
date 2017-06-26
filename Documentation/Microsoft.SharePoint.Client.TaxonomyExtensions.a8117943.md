@@ -5,22 +5,20 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TaxonomySession GetTaxonomySession(Site site)
+public static TaxonomySession GetTaxonomySession(this Site site)
 ```
 ### Parameters
 #### site  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Site  
-&emsp;&emsp; Returns a new taxonomy session for the current site   
+&emsp;&emsp;Site to be processed  
 
   
 
 ### Return Value
 Type: TaxonomySession  
-  
+Returns TaxonomySession object  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

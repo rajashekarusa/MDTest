@@ -1,5 +1,5 @@
 # Term.Properties Labels
-  
+ Gets or sets term labels   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

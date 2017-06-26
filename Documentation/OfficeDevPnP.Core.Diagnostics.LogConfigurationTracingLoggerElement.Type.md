@@ -1,5 +1,5 @@
 # LogConfigurationTracingLoggerElement.Properties Type
-  
+ Gets or sets "type" config property   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

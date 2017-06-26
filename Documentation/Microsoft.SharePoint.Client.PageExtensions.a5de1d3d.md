@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddWikiPageByUrl(Web web, String serverRelativePageUrl, String html)
+public static void AddWikiPageByUrl(this Web web, String serverRelativePageUrl, String html)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void AddWikiPageByUrl(Web web, String serverRelativePageUrl, Strin
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

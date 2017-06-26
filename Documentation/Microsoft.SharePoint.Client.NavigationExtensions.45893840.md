@@ -5,12 +5,12 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool CustomActionExists(Web web, String name)
+public static bool CustomActionExists(this Web web, String name)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Utility method to check particular custom action already exists on the web   
+&emsp;&emsp;Web to process  
 
   
 
@@ -25,8 +25,6 @@ Type: bool
   
 
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

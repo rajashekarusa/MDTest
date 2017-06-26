@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public ClientContext GetAzureADAppOnlyAuthenticatedContext(String siteUrl, String clientId, String tenant, String certificatePath, String certificatePassword, AzureEnvironment environment)
+public ClientContext GetAzureADAppOnlyAuthenticatedContext(String siteUrl, String clientId, String tenant, String certificatePath, String certificatePassword, AzureEnvironment environment = 0)
 ```
 ### Parameters
 #### siteUrl  
@@ -49,8 +49,6 @@ Type: ClientContext
 Client context object  
 
 
-## Remarks
-  
 ## See also
 - [AuthenticationManager](OfficeDevPnP.Core.AuthenticationManager.md) 
 - [OfficeDevPnP.Core](OfficeDevPnP.Core.md) 

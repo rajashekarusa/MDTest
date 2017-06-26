@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetAvailablePageLayouts(Web web, Web rootWeb, IEnumerable<String> pageLayouts)
+public static void SetAvailablePageLayouts(this Web web, Web rootWeb, IEnumerable<String> pageLayouts)
 ```
 ### Parameters
 #### web  
@@ -21,7 +21,7 @@ public static void SetAvailablePageLayouts(Web web, Web rootWeb, IEnumerable<Str
   
 
 #### pageLayouts  
-&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable&lt;System.String&gt;  
 &emsp;&emsp;The page layouts to make available  
 
   
@@ -29,8 +29,6 @@ public static void SetAvailablePageLayouts(Web web, Web rootWeb, IEnumerable<Str
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

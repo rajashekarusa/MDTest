@@ -1,21 +1,23 @@
 # DocumentSetTemplate.Equals Method  
-  
+ Compares DocumentSetTemplate object based on AllowedContentTypes, DefaultDocuments, SharedFields and WelcomePageFields properties.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public bool Equals(DocumentSetTemplate other)
+public virtual bool Equals(DocumentSetTemplate other)
 ```
 ### Parameters
 #### other  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md)  
-&emsp;&emsp;  
+&emsp;&emsp;DocumentSetTemplate object  
 
   
 
 ### Return Value
 Type: bool  
+true if the DocumentSetTemplate object is equal to the current object; otherwise, false.  
+
 
 ## See also
 - [DocumentSetTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.DocumentSetTemplate.md) 

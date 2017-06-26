@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static WorkflowDefinition[] GetWorkflowDefinitions(Web web, Boolean publishedOnly)
+public static WorkflowDefinition[] GetWorkflowDefinitions(this Web web, Boolean publishedOnly)
 ```
 ### Parameters
 #### web  
@@ -22,11 +22,9 @@ public static WorkflowDefinition[] GetWorkflowDefinitions(Web web, Boolean publi
 
 ### Return Value
 Type: WorkflowDefinition[]  
-  
+Returns all WorkflowDefinitions  
 
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

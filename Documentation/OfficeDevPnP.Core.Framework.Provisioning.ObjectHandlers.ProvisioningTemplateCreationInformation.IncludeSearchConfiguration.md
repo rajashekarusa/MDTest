@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties IncludeSearchConfiguration
-  
+ if true includes search configuration in the template   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

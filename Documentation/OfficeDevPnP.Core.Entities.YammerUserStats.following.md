@@ -1,5 +1,5 @@
 # YammerUserStats.Properties following
-  
+ Number of memebrs the yammer user following   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

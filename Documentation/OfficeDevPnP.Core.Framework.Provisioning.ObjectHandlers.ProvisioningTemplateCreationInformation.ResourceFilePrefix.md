@@ -1,5 +1,5 @@
 # ProvisioningTemplateCreationInformation.Properties ResourceFilePrefix
-  
+ Prefix for resource file   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers](OfficeDevPnP.Core.Framework.Provisioning.ObjectHandlers.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

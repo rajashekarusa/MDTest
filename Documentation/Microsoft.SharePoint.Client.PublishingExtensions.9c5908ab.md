@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CreatePublishingImageRendition(Web web, String imageRenditionName, Int32 imageRenditionWidth, Int32 imageRenditionHeight)
+public static void CreatePublishingImageRendition(this Web web, String imageRenditionName, Int32 imageRenditionWidth, Int32 imageRenditionHeight)
 ```
 ### Parameters
 #### web  
@@ -35,8 +35,6 @@ public static void CreatePublishingImageRendition(Web web, String imageRendition
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [PublishingExtensions](Microsoft.SharePoint.Client.PublishingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

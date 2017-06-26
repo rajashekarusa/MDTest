@@ -1,5 +1,5 @@
 # YammerGroup.Properties show_in_directory
-  
+ string value to be displayed in the directory of yammer value   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

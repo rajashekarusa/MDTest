@@ -1,5 +1,5 @@
 # YammerUser.Properties timezone
-  
+ Represents yammer user time zone   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

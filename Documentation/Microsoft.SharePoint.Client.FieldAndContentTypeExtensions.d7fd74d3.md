@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool FieldExistsById(Web web, String fieldId, Boolean searchInSiteHierarchy)
+public static bool FieldExistsById(this Web web, String fieldId, Boolean searchInSiteHierarchy = False)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: bool
 True if exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

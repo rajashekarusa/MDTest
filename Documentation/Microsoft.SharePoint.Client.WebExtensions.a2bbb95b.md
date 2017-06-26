@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static EventReceiverDefinition GetEventReceiverById(Web web, Guid id)
+public static EventReceiverDefinition GetEventReceiverById(this Web web, Guid id)
 ```
 ### Parameters
 #### web  
@@ -16,17 +16,15 @@ public static EventReceiverDefinition GetEventReceiverById(Web web, Guid id)
 
 #### id  
 &emsp;&emsp;Type: System.Guid  
-&emsp;&emsp; Returns an event receiver definition   
+&emsp;&emsp;The id of event receiver  
 
   
 
 ### Return Value
 Type: EventReceiverDefinition  
-  
+Returns an EventReceiverDefinition if succeeded. Returns null if failed.  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

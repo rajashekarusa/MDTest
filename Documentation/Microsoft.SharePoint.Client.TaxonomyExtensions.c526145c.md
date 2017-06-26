@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TaxonomyItem GetTaxonomyItemByPath(Site site, String path, String delimiter)
+public static TaxonomyItem GetTaxonomyItemByPath(this Site site, String path, String delimiter = "|")
 ```
 ### Parameters
 #### site  
@@ -28,11 +28,9 @@ public static TaxonomyItem GetTaxonomyItemByPath(Site site, String path, String 
 
 ### Return Value
 Type: TaxonomyItem  
-  
+Returns TaxonomyItem object  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

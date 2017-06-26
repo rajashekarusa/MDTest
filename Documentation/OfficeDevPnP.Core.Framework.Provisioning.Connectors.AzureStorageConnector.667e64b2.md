@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Stream GetFileStream(String fileName)
+public override Stream GetFileStream(String fileName)
 ```
 ### Parameters
 #### fileName  
@@ -19,8 +19,6 @@ Type: Stream
 String containing the file contents  
 
 
-## Remarks
-  
 ## See also
 - [AzureStorageConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

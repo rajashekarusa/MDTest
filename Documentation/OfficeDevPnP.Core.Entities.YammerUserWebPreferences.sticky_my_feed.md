@@ -1,5 +1,5 @@
 # YammerUserWebPreferences.Properties sticky_my_feed
-  
+ Represents yammer user sticky feed   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

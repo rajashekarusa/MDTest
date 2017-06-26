@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static IEnumerable<RoleAssignmentEntity> GetAllUniqueRoleAssignments(Web web, Int32 leafBreadthLimit)
+public static IEnumerable<RoleAssignmentEntity> GetAllUniqueRoleAssignments(this Web web, Int32 leafBreadthLimit = 2147483647)
 ```
 ### Parameters
 #### web  
@@ -22,11 +22,9 @@ public static IEnumerable<RoleAssignmentEntity> GetAllUniqueRoleAssignments(Web 
 
 ### Return Value
 Type: IEnumerable<RoleAssignmentEntity>  
-  
+Returns all role assignments  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

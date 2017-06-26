@@ -1,5 +1,5 @@
 # LogEntry.Properties Source
-  
+ Gets or sets Log source   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

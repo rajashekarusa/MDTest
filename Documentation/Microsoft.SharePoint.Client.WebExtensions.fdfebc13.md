@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Nullable<DateTime> GetPropertyBagValueDateTime(Web web, String key, DateTime defaultValue)
+public static Nullable<DateTime> GetPropertyBagValueDateTime(this Web web, String key, DateTime defaultValue)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: Nullable<DateTime>
 Value of the property bag entry as integer  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

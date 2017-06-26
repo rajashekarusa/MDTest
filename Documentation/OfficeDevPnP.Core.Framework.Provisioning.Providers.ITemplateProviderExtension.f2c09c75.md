@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void Initialize(Object settings)
+public abstract void Initialize(Object settings)
 ```
 ### Parameters
 #### settings  
@@ -17,8 +17,6 @@ public void Initialize(Object settings)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [ITemplateProviderExtension](OfficeDevPnP.Core.Framework.Provisioning.Providers.ITemplateProviderExtension.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers](OfficeDevPnP.Core.Framework.Provisioning.Providers.md) 

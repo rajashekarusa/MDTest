@@ -1,5 +1,5 @@
 # ClientSideText.Properties Text
-  
+ Text value of the client side text control   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

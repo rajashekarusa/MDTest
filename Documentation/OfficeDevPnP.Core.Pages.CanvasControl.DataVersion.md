@@ -1,5 +1,5 @@
 # CanvasControl.Properties DataVersion
-  
+ The internal storage version used for this control   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

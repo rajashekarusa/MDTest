@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List<File> FindFiles(Folder folder, String match)
+public static List<File> FindFiles(this Folder folder, String match)
 ```
 ### Parameters
 #### folder  
@@ -25,8 +25,6 @@ Type: List<File>
 A list with the found Microsoft.SharePoint.Client.File objects  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - Microsoft.SharePoint.Client.File

@@ -1,5 +1,5 @@
 # Term.Properties IsAvailableForTagging
-  
+ Gets or sets the IsAvailableForTagging flag for the term   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool IsListRecordSettingDefined(List list)
+public static bool IsListRecordSettingDefined(this List list)
 ```
 ### Parameters
 #### list  
@@ -19,8 +19,6 @@ Type: bool
 True if in place records management settings are active for this list  
 
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

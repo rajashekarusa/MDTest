@@ -1,5 +1,5 @@
 # YammerUser.Properties previous_companies
-  
+ Represents yammer user list of previous companies   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

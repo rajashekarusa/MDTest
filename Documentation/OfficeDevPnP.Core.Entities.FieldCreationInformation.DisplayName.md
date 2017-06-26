@@ -1,5 +1,5 @@
 # FieldCreationInformation.Properties DisplayName
-  
+ Field display name   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ProvisioningTemplateCustomActions
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ProvisioningTemplateCustomActions()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ProvisioningTemplateCustomActions.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -16,17 +16,15 @@ public static YammerGroup GetYammerGroupById(Int32 groupId, String accessToken)
 
 #### accessToken  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Returns Yammer Group if group exists. If the group does not exist, returns null.   
+&emsp;&emsp;accessToken will have all the required permissions to update or retrieve data to Yammer on behalf of the user  
 
   
 
 ### Return Value
-Type: YammerGroup  
+Type: [YammerGroup](OfficeDevPnP.Core.Entities.YammerGroup.md)  
 Returns Yammer Group is group exists. If group does not exists, returns null.  
 
 
-## Remarks
-  
 ## See also
 - [YammerUtility](OfficeDevPnP.Core.Utilities.YammerUtility.md) 
 - [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md) 

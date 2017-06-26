@@ -1,5 +1,5 @@
 # YammerUserStats.Properties followers
-  
+ Number of members following the user   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

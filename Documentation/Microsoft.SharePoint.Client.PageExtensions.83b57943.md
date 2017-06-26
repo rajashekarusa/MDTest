@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static WebPartDefinition AddWebPartToWikiPage(Web web, String serverRelativePageUrl, WebPartEntity webPart, Int32 row, Int32 col, Boolean addSpace)
+public static WebPartDefinition AddWebPartToWikiPage(this Web web, String serverRelativePageUrl, WebPartEntity webPart, Int32 row, Int32 col, Boolean addSpace)
 ```
 ### Parameters
 #### web  
@@ -49,8 +49,6 @@ Type: WebPartDefinition
 Returns the added Microsoft.SharePoint.Client.WebParts.WebPartDefinition object  
 
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - Microsoft.SharePoint.Client.WebParts.WebPartDefinition

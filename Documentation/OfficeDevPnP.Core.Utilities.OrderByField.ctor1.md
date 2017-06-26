@@ -1,5 +1,5 @@
 # OrderByField.OrderByField members 
-  
+ Constructor for OrderByField class   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,7 +10,7 @@ public OrderByField(string name)
 ### Parameters
 #### name  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp;  
+&emsp;&emsp;Name of the field  
 
 
 ## See also

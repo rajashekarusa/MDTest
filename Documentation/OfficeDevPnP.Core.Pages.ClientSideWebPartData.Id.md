@@ -1,5 +1,5 @@
 # ClientSideWebPartData.Properties Id
-  
+ Gets or sets JsonProperty "id"   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

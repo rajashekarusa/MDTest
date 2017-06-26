@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PublishingPageLayoutsPageLayout
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PublishingPageLayoutsPageLayout()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.PublishingPageLayoutsPageLayout.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

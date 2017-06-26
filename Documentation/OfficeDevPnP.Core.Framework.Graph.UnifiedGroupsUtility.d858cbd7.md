@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetUnifiedGroupSiteUrl(String groupId, String accessToken, Int32 retryCount, Int32 delay)
+public static string GetUnifiedGroupSiteUrl(String groupId, String accessToken, Int32 retryCount = 10, Int32 delay = 500)
 ```
 ### Parameters
 #### groupId  
@@ -37,8 +37,6 @@ Type: string
 The URL of the modern site backing the Office 365 Group  
 
 
-## Remarks
-  
 ## See also
 - [UnifiedGroupsUtility](OfficeDevPnP.Core.Framework.Graph.UnifiedGroupsUtility.md) 
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md) 

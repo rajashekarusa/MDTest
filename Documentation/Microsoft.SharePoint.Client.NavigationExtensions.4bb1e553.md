@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static NavigationNodeCollection LoadSearchNavigation(Web web)
+public static NavigationNodeCollection LoadSearchNavigation(this Web web)
 ```
 ### Parameters
 #### web  
@@ -19,8 +19,6 @@ Type: NavigationNodeCollection
 Collection of NavigationNode instances  
 
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

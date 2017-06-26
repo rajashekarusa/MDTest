@@ -1,5 +1,5 @@
 # YammerUser.Properties full_name
-  
+ Represents yammer user full name   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

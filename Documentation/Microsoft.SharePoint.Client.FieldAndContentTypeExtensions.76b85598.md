@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteContentTypeByName(Web web, String contentTypeName)
+public static void DeleteContentTypeByName(this Web web, String contentTypeName)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void DeleteContentTypeByName(Web web, String contentTypeName)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

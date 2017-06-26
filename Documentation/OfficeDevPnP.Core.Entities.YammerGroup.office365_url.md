@@ -1,5 +1,5 @@
 # YammerGroup.Properties office365_url
-  
+ yammer group office 365 url   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

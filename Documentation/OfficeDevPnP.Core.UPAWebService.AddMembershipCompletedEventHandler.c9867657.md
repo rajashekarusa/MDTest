@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void EndInvoke(IAsyncResult result)
+public virtual void EndInvoke(IAsyncResult result)
 ```
 ### Parameters
 #### result  

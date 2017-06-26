@@ -1,5 +1,5 @@
 # YammerUser.Properties web_preferences
-  
+ Represents yammer user web preference information   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

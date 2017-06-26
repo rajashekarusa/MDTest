@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void UpdateNavigationInheritance(Web web, Boolean inheritNavigation)
+public static void UpdateNavigationInheritance(this Web web, Boolean inheritNavigation)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void UpdateNavigationInheritance(Web web, Boolean inheritNavigatio
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

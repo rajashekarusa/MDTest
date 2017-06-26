@@ -5,32 +5,30 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetMasterPagesByName(Web web, String masterPageName, String customMasterPageName)
+public static void SetMasterPagesByName(this Web web, String masterPageName, String customMasterPageName)
 ```
 ### Parameters
 #### web  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.Web  
-&emsp;&emsp; Can be used to set master page and custom master page in single command   
+&emsp;&emsp;Current web  
 
   
 
 #### masterPageName  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Can be used to set master page and custom master page in single command   
+&emsp;&emsp;Name of the master page  
 
   
 
 #### customMasterPageName  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Can be used to set master page and custom master page in single command   
+&emsp;&emsp;Name of the custom master page  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - System.ArgumentException

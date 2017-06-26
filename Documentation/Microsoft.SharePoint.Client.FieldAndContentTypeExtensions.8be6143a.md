@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Field CreateField(Web web, String fieldAsXml, Boolean executeQuery)
+public static Field CreateField(this Web web, String fieldAsXml, Boolean executeQuery = True)
 ```
 ### Parameters
 #### web  
@@ -22,7 +22,7 @@ public static Field CreateField(Web web, String fieldAsXml, Boolean executeQuery
 
 #### (optional) executeQuery  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp; Create field to web remotely   
+&emsp;&emsp;Executes query if true  
 
   
 
@@ -31,8 +31,6 @@ Type: Field
 The newly created field or existing field.  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

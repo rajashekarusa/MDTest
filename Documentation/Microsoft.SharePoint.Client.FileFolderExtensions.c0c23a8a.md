@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CheckInFile(Web web, String serverRelativeUrl, CheckinType checkinType, String comment)
+public static void CheckInFile(this Web web, String serverRelativeUrl, CheckinType checkinType, String comment)
 ```
 ### Parameters
 #### web  
@@ -35,8 +35,6 @@ public static void CheckInFile(Web web, String serverRelativeUrl, CheckinType ch
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

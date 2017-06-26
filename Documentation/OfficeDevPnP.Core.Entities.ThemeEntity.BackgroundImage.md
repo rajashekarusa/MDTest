@@ -1,5 +1,5 @@
 # ThemeEntity.Properties BackgroundImage
-  
+ Background image url   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

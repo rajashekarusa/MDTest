@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddUserToGroup(Web web, Group group, String userLoginName)
+public static void AddUserToGroup(this Web web, Group group, String userLoginName)
 ```
 ### Parameters
 #### web  
@@ -29,8 +29,6 @@ public static void AddUserToGroup(Web web, Group group, String userLoginName)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

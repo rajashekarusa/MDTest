@@ -1,5 +1,5 @@
 # SharePointContextToken.Properties NameId
-  
+ The context token's "nameid" claim   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities](OfficeDevPnP.Core.Utilities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

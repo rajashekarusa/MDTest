@@ -10,10 +10,6 @@ System.Object
 ```C#
 public class AvailableWebTemplate: BaseModel, IEquatable<AvailableWebTemplate>
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [AvailableWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.ctor1.md) |  Defines an available Web Template for the current Publishing site 
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,8 +18,8 @@ public class AvailableWebTemplate: BaseModel, IEquatable<AvailableWebTemplate>
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
-| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.3520ddbb.md) | 
-| [Equals(AvailableWebTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.b6a22b29.md) | 
-| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.1c6872bd.md) | 
+| [Equals(Object)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.3520ddbb.md) | Compares object with AvailableWebTemplate
+| [Equals(AvailableWebTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.b6a22b29.md) | Compares AvailableWebTemplate object based on LanguageCode and TemplateName
+| [GetHashCode()](OfficeDevPnP.Core.Framework.Provisioning.Model.AvailableWebTemplate.1c6872bd.md) | Gets the hash code.
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

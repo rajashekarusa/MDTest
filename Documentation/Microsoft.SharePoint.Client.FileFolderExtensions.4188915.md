@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static File UploadFile(Folder folder, String fileName, String localFilePath, Boolean overwriteIfExists)
+public static File UploadFile(this Folder folder, String fileName, String localFilePath, Boolean overwriteIfExists)
 ```
 ### Parameters
 #### folder  
@@ -16,7 +16,7 @@ public static File UploadFile(Folder folder, String fileName, String localFilePa
 
 #### fileName  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Uploads a file to the specified folder.   
+&emsp;&emsp;Name of the file  
 
   
 
@@ -37,8 +37,6 @@ Type: File
 The uploaded File, so that additional operations (such as setting properties) can be done.  
 
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

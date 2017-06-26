@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static UnifiedGroupEntity CreateUnifiedGroup(String displayName, String description, String mailNickname, String accessToken, String[] owners, String[] members, String groupLogoPath, Boolean isPrivate, Int32 retryCount, Int32 delay)
+public static UnifiedGroupEntity CreateUnifiedGroup(String displayName, String description, String mailNickname, String accessToken, String[] owners, String[] members, String groupLogoPath, Boolean isPrivate = False, Int32 retryCount = 10, Int32 delay = 500)
 ```
 ### Parameters
 #### displayName  
@@ -69,12 +69,10 @@ public static UnifiedGroupEntity CreateUnifiedGroup(String displayName, String d
   
 
 ### Return Value
-Type: UnifiedGroupEntity  
+Type: [UnifiedGroupEntity](OfficeDevPnP.Core.Entities.UnifiedGroupEntity.md)  
 The just created Office 365 Group  
 
 
-## Remarks
-  
 ## See also
 - [UnifiedGroupsUtility](OfficeDevPnP.Core.Framework.Graph.UnifiedGroupsUtility.md) 
 - [OfficeDevPnP.Core.Framework.Graph](OfficeDevPnP.Core.Framework.Graph.md) 

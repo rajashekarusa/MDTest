@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ContentTypeDocumentTemplate
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ContentTypeDocumentTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201505.ContentTypeDocumentTemplate.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

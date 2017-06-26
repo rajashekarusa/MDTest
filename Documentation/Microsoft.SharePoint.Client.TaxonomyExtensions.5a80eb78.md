@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetTaxonomyFieldValueByTermPath(ListItem item, String TermPath, Guid fieldId)
+public static void SetTaxonomyFieldValueByTermPath(this ListItem item, String TermPath, Guid fieldId)
 ```
 ### Parameters
 #### item  
@@ -29,8 +29,6 @@ public static void SetTaxonomyFieldValueByTermPath(ListItem item, String TermPat
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - System.Collections.Generic.KeyNotFoundException

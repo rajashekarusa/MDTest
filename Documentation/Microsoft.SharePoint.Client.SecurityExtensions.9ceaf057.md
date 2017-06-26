@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AssociateDefaultGroups(Web web, Group owners, Group members, Group visitors)
+public static void AssociateDefaultGroups(this Web web, Group owners, Group members, Group visitors)
 ```
 ### Parameters
 #### web  
@@ -35,8 +35,6 @@ public static void AssociateDefaultGroups(Web web, Group owners, Group members, 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

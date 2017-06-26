@@ -3,9 +3,13 @@
 
 **Namespace:** [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
+
+>**This method is obsolete**
+>:Use DisableResponsiveUI(site)
+
 ## Syntax
 ```C#
-public static void DisableReponsiveUI(Site site)
+public static void DisableReponsiveUI(this Site site)
 ```
 ### Parameters
 #### site  
@@ -17,8 +21,6 @@ public static void DisableReponsiveUI(Site site)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

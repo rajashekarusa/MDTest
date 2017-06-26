@@ -1,5 +1,5 @@
 # Localization.Localization members 
-  
+ Constructor for Localization class   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

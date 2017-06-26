@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ObjectSecurity
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ObjectSecurity()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ObjectSecurity.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetFileProperties(File file, IDictionary<String, String> properties, Boolean checkoutIfRequired)
+public static void SetFileProperties(this File file, IDictionary<String, String> properties, Boolean checkoutIfRequired = True)
 ```
 ### Parameters
 #### file  
@@ -15,7 +15,7 @@ public static void SetFileProperties(File file, IDictionary<String, String> prop
   
 
 #### properties  
-&emsp;&emsp;Type: System.Collections.Generic.IDictionary<System.String, System.String>  
+&emsp;&emsp;Type: System.Collections.Generic.IDictionary&lt;System.String, System.String&gt;  
 &emsp;&emsp;Dictionary of properties to set.  
 
   
@@ -29,8 +29,6 @@ public static void SetFileProperties(File file, IDictionary<String, String> prop
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FileFolderExtensions](Microsoft.SharePoint.Client.FileFolderExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

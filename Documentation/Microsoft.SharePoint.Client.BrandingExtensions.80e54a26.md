@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static File DeployMasterPage(Web web, String sourceFilePath, String title, String description, String uiVersion, String defaultCSSFile, String folderPath)
+public static File DeployMasterPage(this Web web, String sourceFilePath, String title, String description, String uiVersion = "15", String defaultCSSFile = "", String folderPath = "")
 ```
 ### Parameters
 #### web  
@@ -34,27 +34,25 @@ public static File DeployMasterPage(Web web, String sourceFilePath, String title
 
 #### (optional) uiVersion  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Deploys a new masterpage   
+&emsp;&emsp;UIVersion of the masterpage  
 
   
 
 #### (optional) defaultCSSFile  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Deploys a new masterpage   
+&emsp;&emsp;DefaultCSSFile of the masterpage  
 
   
 
 #### (optional) folderPath  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Deploys a new masterpage   
+&emsp;&emsp;FolderPath of the masterpage  
 
   
 
 ### Return Value
 Type: File  
 
-## Remarks
-  
 ## See also
 - [BrandingExtensions](Microsoft.SharePoint.Client.BrandingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

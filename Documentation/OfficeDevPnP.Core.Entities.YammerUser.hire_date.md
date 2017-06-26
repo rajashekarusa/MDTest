@@ -1,5 +1,5 @@
 # YammerUser.Properties hire_date
-  
+ Represents yammer user hire date   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

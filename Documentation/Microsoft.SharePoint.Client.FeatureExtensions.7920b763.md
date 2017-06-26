@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeactivateFeature(Site site, Guid featureID, Int32 pollingIntervalSeconds)
+public static void DeactivateFeature(this Site site, Guid featureID, Int32 pollingIntervalSeconds = 30)
 ```
 ### Parameters
 #### site  
@@ -29,8 +29,6 @@ public static void DeactivateFeature(Site site, Guid featureID, Int32 pollingInt
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FeatureExtensions](Microsoft.SharePoint.Client.FeatureExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

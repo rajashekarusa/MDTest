@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool PropertyBagContainsKey(Web web, String key)
+public static bool PropertyBagContainsKey(this Web web, String key)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: bool
 True if the entry exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

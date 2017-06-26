@@ -13,6 +13,6 @@ public class DataRowCollection: ProvisioningTemplateCollection<DataRow>
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [DataRowCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.ctor1.md) |  Collection of DataRow objects 
+| [DataRowCollection(ProvisioningTemplate)](OfficeDevPnP.Core.Framework.Provisioning.Model.DataRowCollection.ctor1.md) | Constructor for DataRowCollection class 
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)

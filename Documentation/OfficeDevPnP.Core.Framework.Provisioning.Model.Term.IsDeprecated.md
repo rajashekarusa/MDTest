@@ -1,5 +1,5 @@
 # Term.Properties IsDeprecated
-  
+ Gets or sets the IsDeprecated flag for the term   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

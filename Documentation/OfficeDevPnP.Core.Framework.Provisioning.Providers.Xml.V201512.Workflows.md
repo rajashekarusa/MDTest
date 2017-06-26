@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Workflows
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Workflows()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.Workflows.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

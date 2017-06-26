@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddLayoutToWikiPage(Web web, WikiPageLayout layout, String serverRelativePageUrl)
+public static void AddLayoutToWikiPage(this Web web, WikiPageLayout layout, String serverRelativePageUrl)
 ```
 ### Parameters
 #### web  
@@ -22,15 +22,13 @@ public static void AddLayoutToWikiPage(Web web, WikiPageLayout layout, String se
 
 #### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Applies a layout to a wiki page   
+&emsp;&emsp;Server relative url of the page to add the layout to  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

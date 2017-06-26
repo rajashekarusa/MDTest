@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ClientContext GetSiteCollectionContext(ClientRuntimeContext clientContext)
+public static ClientContext GetSiteCollectionContext(this ClientRuntimeContext clientContext)
 ```
 ### Parameters
 #### clientContext  
@@ -19,8 +19,6 @@ Type: ClientContext
 A site collection client context object for the site collection  
 
 
-## Remarks
-  
 ## See also
 - [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

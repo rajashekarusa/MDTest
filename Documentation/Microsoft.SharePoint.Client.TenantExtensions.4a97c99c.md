@@ -5,22 +5,20 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static UserProfileService GetUserProfileServiceClient(Tenant tenant)
+public static UserProfileService GetUserProfileServiceClient(this Tenant tenant)
 ```
 ### Parameters
 #### tenant  
 &emsp;&emsp;Type: Microsoft.Online.SharePoint.TenantAdministration.Tenant  
-&emsp;&emsp; Gets the UserProfileService proxy to enable calls to the UPA web service.   
+&emsp;&emsp;A tenant object pointing to the context of a Tenant Administration site   
 
   
 
 ### Return Value
-Type: UserProfileService  
+Type: [UserProfileService](OfficeDevPnP.Core.UPAWebService.UserProfileService.md)  
 UserProfileService web service client  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

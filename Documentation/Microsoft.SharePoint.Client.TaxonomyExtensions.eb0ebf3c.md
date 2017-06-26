@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static List<String> ExportAllTerms(Site site, Boolean includeId, String delimiter)
+public static List<String> ExportAllTerms(this Site site, Boolean includeId, String delimiter = "|")
 ```
 ### Parameters
 #### site  
@@ -28,11 +28,9 @@ public static List<String> ExportAllTerms(Site site, Boolean includeId, String d
 
 ### Return Value
 Type: List<String>  
-  
+Returns list of Term strings  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

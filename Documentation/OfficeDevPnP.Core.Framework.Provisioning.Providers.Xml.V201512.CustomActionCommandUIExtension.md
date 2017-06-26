@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class CustomActionCommandUIExtension
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [CustomActionCommandUIExtension()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.CustomActionCommandUIExtension.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

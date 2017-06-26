@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static string GetBaseTemplateId(Web parentWeb)
+public static string GetBaseTemplateId(this Web parentWeb)
 ```
 ### Parameters
 #### parentWeb  
@@ -19,8 +19,6 @@ Type: string
 The Base Template ID for the current web  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

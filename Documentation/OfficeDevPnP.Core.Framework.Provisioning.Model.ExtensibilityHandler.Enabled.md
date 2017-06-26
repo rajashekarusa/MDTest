@@ -1,5 +1,5 @@
 # ExtensibilityHandler.Properties Enabled
-  
+ Gets or sets Enabled property for Extensibility handling.   
 
 **Namespace:** [OfficeDevPnP.Core.Framework.Provisioning.Model](OfficeDevPnP.Core.Framework.Provisioning.Model.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

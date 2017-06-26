@@ -5,20 +5,18 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void CancelWorkFlow(WorkflowInstance instance)
+public static void CancelWorkFlow(this WorkflowInstance instance)
 ```
 ### Parameters
 #### instance  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.WorkflowServices.WorkflowInstance  
-&emsp;&emsp; Cancels a workflow instance   
+&emsp;&emsp;the workflow instance to cancel  
 
   
 
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WorkflowExtensions](Microsoft.SharePoint.Client.WorkflowExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

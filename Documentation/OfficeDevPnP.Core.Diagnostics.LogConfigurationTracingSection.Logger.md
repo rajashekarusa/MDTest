@@ -1,5 +1,5 @@
 # LogConfigurationTracingSection.Properties Logger
-  
+ Gets or sets "logger" config property   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

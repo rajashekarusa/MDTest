@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid ToGuid(String input, Guid defaultValue)
+public static Guid ToGuid(this String input, Guid defaultValue)
 ```
 ### Parameters
 #### input  
@@ -23,8 +23,6 @@ public static Guid ToGuid(String input, Guid defaultValue)
 ### Return Value
 Type: Guid  
 
-## Remarks
-  
 ## See also
 - [SafeConvertExtensions](System.SafeConvertExtensions.md) 
 - [System](System.md) 

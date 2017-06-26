@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PublishingWebTemplate
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PublishingWebTemplate()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.PublishingWebTemplate.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

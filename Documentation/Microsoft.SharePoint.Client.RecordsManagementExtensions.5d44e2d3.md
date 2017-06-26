@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
+public static EcmSiteRecordRestrictions GetRecordRestrictions(this Site site)
 ```
 ### Parameters
 #### site  
@@ -15,12 +15,10 @@ public static EcmSiteRecordRestrictions GetRecordRestrictions(Site site)
   
 
 ### Return Value
-Type: EcmSiteRecordRestrictions  
+Type: [EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)  
  OfficeDevPnP.Core.EcmSiteRecordRestrictions enum that defines the current restrictions  
 
 
-## Remarks
-  
 ## See also
 - [RecordsManagementExtensions](Microsoft.SharePoint.Client.RecordsManagementExtensions.md) 
 - [OfficeDevPnP.Core.EcmSiteRecordRestrictions](OfficeDevPnP.Core.EcmSiteRecordRestrictions.md)

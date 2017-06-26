@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void DeleteFile(String fileName)
+public override void DeleteFile(String fileName)
 ```
 ### Parameters
 #### fileName  
@@ -17,8 +17,6 @@ public void DeleteFile(String fileName)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [AzureStorageConnector](OfficeDevPnP.Core.Framework.Provisioning.Connectors.AzureStorageConnector.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

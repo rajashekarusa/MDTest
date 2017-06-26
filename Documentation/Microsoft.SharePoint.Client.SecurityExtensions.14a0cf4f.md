@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static int GetGroupID(Web web, String groupName)
+public static int GetGroupID(this Web web, String groupName)
 ```
 ### Parameters
 #### web  
@@ -25,8 +25,6 @@ Type: int
 Integer group ID  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

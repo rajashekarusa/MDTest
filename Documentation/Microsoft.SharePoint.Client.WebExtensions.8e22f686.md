@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ProvisioningTemplate GetProvisioningTemplate(Web web, ProvisioningTemplateCreationInformation creationInfo)
+public static ProvisioningTemplate GetProvisioningTemplate(this Web web, ProvisioningTemplateCreationInformation creationInfo)
 ```
 ### Parameters
 #### web  
@@ -21,12 +21,10 @@ public static ProvisioningTemplate GetProvisioningTemplate(Web web, Provisioning
   
 
 ### Return Value
-Type: ProvisioningTemplate  
+Type: [ProvisioningTemplate](OfficeDevPnP.Core.Framework.Provisioning.Model.ProvisioningTemplate.md)  
 ProvisioningTemplate object with generated values from existing site  
 
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

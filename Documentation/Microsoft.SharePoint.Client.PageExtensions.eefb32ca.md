@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, String html)
+public static void AddHtmlToWikiPage(this Web web, String serverRelativePageUrl, String html)
 ```
 ### Parameters
 #### web  
@@ -16,7 +16,7 @@ public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, Stri
 
 #### serverRelativePageUrl  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Add HTML to a wiki page   
+&emsp;&emsp;Server relative url of the page to add html to  
 
   
 
@@ -29,8 +29,6 @@ public static void AddHtmlToWikiPage(Web web, String serverRelativePageUrl, Stri
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [PageExtensions](Microsoft.SharePoint.Client.PageExtensions.md) 
 - System.ArgumentException

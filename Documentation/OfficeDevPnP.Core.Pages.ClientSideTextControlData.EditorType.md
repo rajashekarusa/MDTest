@@ -1,5 +1,5 @@
 # ClientSideTextControlData.Properties EditorType
-  
+ Gets or sets JsonProperty "editorType"   
 
 **Namespace:** [OfficeDevPnP.Core.Pages](OfficeDevPnP.Core.Pages.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

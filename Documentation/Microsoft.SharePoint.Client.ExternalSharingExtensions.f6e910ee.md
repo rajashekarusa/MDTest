@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ObjectSharingSettings GetObjectSharingSettingsForDocument(Web web, String urlToDocument, Boolean useSimplifiedPolicies)
+public static ObjectSharingSettings GetObjectSharingSettingsForDocument(this Web web, String urlToDocument, Boolean useSimplifiedPolicies = True)
 ```
 ### Parameters
 #### web  
@@ -16,23 +16,21 @@ public static ObjectSharingSettings GetObjectSharingSettingsForDocument(Web web,
 
 #### urlToDocument  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Get current sharing settings for document and load list of users it has been shared automatically.   
+&emsp;&emsp;Full URL to the file which is shared  
 
   
 
 #### (optional) useSimplifiedPolicies  
 &emsp;&emsp;Type: System.Boolean  
-&emsp;&emsp; Get current sharing settings for document and load list of users it has been shared automatically.   
+&emsp;&emsp;Boolean value indicating whether to use the SharePoint simplified roles (Edit, View).  
 
   
 
 ### Return Value
 Type: ObjectSharingSettings  
-  
+A ObjectSharingSettings object  
 
 
-## Remarks
-  
 ## See also
 - [ExternalSharingExtensions](Microsoft.SharePoint.Client.ExternalSharingExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

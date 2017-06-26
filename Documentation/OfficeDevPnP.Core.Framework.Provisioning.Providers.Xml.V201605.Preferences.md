@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class Preferences
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [Preferences()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.Preferences.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

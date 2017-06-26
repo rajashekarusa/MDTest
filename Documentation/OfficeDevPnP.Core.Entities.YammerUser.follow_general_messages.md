@@ -1,5 +1,5 @@
 # YammerUser.Properties follow_general_messages
-  
+ Represents yammer user follows general messages or not   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

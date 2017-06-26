@@ -1,5 +1,5 @@
 # YammerUserContact.Properties has_fake_email
-  
+ Specifies whether yammer user has fake email or not   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

@@ -13,8 +13,8 @@ public class SharePointConnector: FileConnectorBase
 ## Constructors
 |**Name**|**Description**|
 |:-----|:-----|
-| [SharePointConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor1.md) |  Connector for files in SharePoint 
-| [SharePointConnector(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor2.md) |  Connector for files in SharePoint 
+| [SharePointConnector()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor1.md) | Base constructor 
+| [SharePointConnector(ClientRuntimeContext, String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.ctor2.md) | SharePointConnector constructor. Allows to directly set root folder and sub folder 
 ## Methods
 |**Name**|**Description**|
 |:-----|:-----|
@@ -22,7 +22,7 @@ public class SharePointConnector: FileConnectorBase
 | [DeleteFile(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.476dd1f3.md) | Deletes a file from the specified container
 | [GetFile(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.df261957.md) | Gets a file as string from the default container
 | [GetFile(String, String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.7ad54aac.md) | Gets a file as string from the specified container
-| [GetFilenamePart(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.9e3b826.md) | 
+| [GetFilenamePart(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.9e3b826.md) | Returns a filename without a path
 | [GetFiles()](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.1ef203bb.md) | Get the files available in the default container
 | [GetFiles(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.349a20d0.md) | Get the files available in the specified container
 | [GetFileStream(String)](OfficeDevPnP.Core.Framework.Provisioning.Connectors.SharePointConnector.667e64b2.md) | Gets a file as stream from the default container

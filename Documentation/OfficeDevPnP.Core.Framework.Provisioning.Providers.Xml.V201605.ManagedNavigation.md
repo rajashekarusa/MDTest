@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ManagedNavigation
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ManagedNavigation()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.ManagedNavigation.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

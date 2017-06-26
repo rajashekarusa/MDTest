@@ -1,5 +1,5 @@
 # LogEntry.Properties ThreadId
-  
+ Gets or sets Log ThreadId   
 
 **Namespace:** [OfficeDevPnP.Core.Diagnostics](OfficeDevPnP.Core.Diagnostics.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

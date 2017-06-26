@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool ContentTypeExistsById(Web web, String listTitle, String contentTypeId)
+public static bool ContentTypeExistsById(this Web web, String listTitle, String contentTypeId)
 ```
 ### Parameters
 #### web  
@@ -31,8 +31,6 @@ Type: bool
 True if the content type exists, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,14 +5,12 @@ Return  [OfficeDevPnP.Core.Pages.ClientSideWebPart.Type](OfficeDevPnP.Core.Pages
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public Type Type { get; }
+public override Type Type { get; }
 ```
 
 ### Property Value
 Type: System.Type  
 
-## Remarks
-  
 ## See also
 - [ClientSideWebPart](OfficeDevPnP.Core.Pages.ClientSideWebPart.md) 
 - Newtonsoft.Json.Linq.JObject

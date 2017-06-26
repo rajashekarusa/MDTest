@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ActivateFeature(Site site, Guid featureID, Boolean sandboxed, Int32 pollingIntervalSeconds)
+public static void ActivateFeature(this Site site, Guid featureID, Boolean sandboxed = False, Int32 pollingIntervalSeconds = 30)
 ```
 ### Parameters
 #### site  
@@ -35,8 +35,6 @@ public static void ActivateFeature(Site site, Guid featureID, Boolean sandboxed,
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FeatureExtensions](Microsoft.SharePoint.Client.FeatureExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

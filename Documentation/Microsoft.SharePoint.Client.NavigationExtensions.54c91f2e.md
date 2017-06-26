@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteNavigationNode(Web web, String nodeTitle, String parentNodeTitle, NavigationType navigationType)
+public static void DeleteNavigationNode(this Web web, String nodeTitle, String parentNodeTitle, NavigationType navigationType)
 ```
 ### Parameters
 #### web  
@@ -35,8 +35,6 @@ public static void DeleteNavigationNode(Web web, String nodeTitle, String parent
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

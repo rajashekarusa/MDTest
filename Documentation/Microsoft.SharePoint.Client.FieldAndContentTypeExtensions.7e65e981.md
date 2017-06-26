@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ContentType GetContentTypeByName(List list, String contentTypeName)
+public static ContentType GetContentTypeByName(this List list, String contentTypeName)
 ```
 ### Parameters
 #### list  
@@ -25,8 +25,6 @@ Type: ContentType
 Content type object or null if was not found  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

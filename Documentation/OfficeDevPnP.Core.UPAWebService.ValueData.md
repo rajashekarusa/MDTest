@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ValueData
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ValueData()](OfficeDevPnP.Core.UPAWebService.ValueData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

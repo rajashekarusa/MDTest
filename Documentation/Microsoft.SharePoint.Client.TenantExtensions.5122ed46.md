@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid CreateSiteCollection(Tenant tenant, String siteFullUrl, String title, String siteOwnerLogin, String template, Int32 storageMaximumLevel, Int32 storageWarningLevel, Int32 timeZoneId, Int32 userCodeMaximumLevel, Int32 userCodeWarningLevel, UInt32 lcid, Boolean removeFromRecycleBin, Boolean wait, Func<TenantOperationMessage, Boolean> timeoutFunction)
+public static Guid CreateSiteCollection(this Tenant tenant, String siteFullUrl, String title, String siteOwnerLogin, String template, Int32 storageMaximumLevel, Int32 storageWarningLevel, Int32 timeZoneId, Int32 userCodeMaximumLevel, Int32 userCodeWarningLevel, UInt32 lcid, Boolean removeFromRecycleBin = False, Boolean wait = True, Func<TenantOperationMessage, Boolean> timeoutFunction)
 ```
 ### Parameters
 #### tenant  
@@ -87,18 +87,16 @@ public static Guid CreateSiteCollection(Tenant tenant, String siteFullUrl, Strin
   
 
 #### (optional) timeoutFunction  
-&emsp;&emsp;Type: System.Func<OfficeDevPnP.Core.TenantOperationMessage, System.Boolean>  
+&emsp;&emsp;Type: System.Func&lt;OfficeDevPnP.Core.TenantOperationMessage, System.Boolean&gt;  
 &emsp;&emsp;An optional function that will be called while waiting for the site to be created. If set will override the wait variable. Return true to cancel the wait loop.  
 
   
 
 ### Return Value
 Type: Guid  
-  
+Guid of the created site collection and Guid.Empty is the wait parameter is specified as false. Returns Guid.Empty if the wait is cancelled.  
 
 
-## Remarks
-  
 ## See also
 - [TenantExtensions](Microsoft.SharePoint.Client.TenantExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

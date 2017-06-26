@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void EnableRequestAccess(Web web, String[] emails)
+public static void EnableRequestAccess(this Web web, params String[] emails)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void EnableRequestAccess(Web web, String[] emails)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [WebExtensions](Microsoft.SharePoint.Client.WebExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

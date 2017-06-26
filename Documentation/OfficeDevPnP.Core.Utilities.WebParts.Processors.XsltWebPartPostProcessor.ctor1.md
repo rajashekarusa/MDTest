@@ -1,5 +1,5 @@
 # XsltWebPartPostProcessor.XsltWebPartPostProcessor members 
-  
+ Constructor for XsltWebPartPostProcessor class   
 
 **Namespace:** [OfficeDevPnP.Core.Utilities.WebParts.Processors](OfficeDevPnP.Core.Utilities.WebParts.Processors.md)  
 **Assembly:** OfficeDevPnP.Core.dll  
@@ -10,7 +10,7 @@ public XsltWebPartPostProcessor(WebPart schema)
 ### Parameters
 #### schema  
 &emsp;&emsp;Type: [OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart](OfficeDevPnP.Core.Utilities.WebParts.Schema.WebPart.md)  
-&emsp;&emsp;  
+&emsp;&emsp;Webpart object  
 
 
 ## See also

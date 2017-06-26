@@ -1,5 +1,5 @@
 # YammerUserNetworkSettings.Properties allow_yammer_apps
-  
+ Represents boolean value to allow yammer application   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

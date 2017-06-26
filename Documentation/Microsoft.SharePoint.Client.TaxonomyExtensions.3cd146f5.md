@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static TermGroup GetTermGroupById(Site site, Guid termGroupId)
+public static TermGroup GetTermGroupById(this Site site, Guid termGroupId)
 ```
 ### Parameters
 #### site  
@@ -22,11 +22,9 @@ public static TermGroup GetTermGroupById(Site site, Guid termGroupId)
 
 ### Return Value
 Type: TermGroup  
-  
+Returns TermGroup object  
 
 
-## Remarks
-  
 ## See also
 - [TaxonomyExtensions](Microsoft.SharePoint.Client.TaxonomyExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

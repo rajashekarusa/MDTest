@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Guid GetListID(Web web, String listName)
+public static Guid GetListID(this Web web, String listName)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static Guid GetListID(Web web, String listName)
 ### Return Value
 Type: Guid  
 
-## Remarks
-  
 ## See also
 - [ListExtensions](Microsoft.SharePoint.Client.ListExtensions.md) 
 - System.ArgumentException

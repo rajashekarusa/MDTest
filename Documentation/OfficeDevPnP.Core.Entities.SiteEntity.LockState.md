@@ -1,5 +1,5 @@
 # SiteEntity.Properties LockState
-  
+ Site lock status   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

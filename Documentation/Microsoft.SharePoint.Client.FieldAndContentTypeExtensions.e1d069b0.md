@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static ContentTypeId BestMatch(ContentTypeCollection contentTypes, String contentTypeId)
+public static ContentTypeId BestMatch(this ContentTypeCollection contentTypes, String contentTypeId)
 ```
 ### Parameters
 #### contentTypes  
@@ -25,8 +25,6 @@ Type: ContentTypeId
 Content type Id object or null if was not found  
 
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

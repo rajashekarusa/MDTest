@@ -10,9 +10,5 @@ System.Object
 ```C#
 public class ContentTypeFieldRef: FieldRefFull
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ContentTypeFieldRef()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ContentTypeFieldRef.ctor1.md) |  
 ## See also
 - [OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.md)

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public void DeleteFile(String fileName, String container)
+public abstract void DeleteFile(String fileName, String container)
 ```
 ### Parameters
 #### fileName  
@@ -23,8 +23,6 @@ public void DeleteFile(String fileName, String container)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FileConnectorBase](OfficeDevPnP.Core.Framework.Provisioning.Connectors.FileConnectorBase.md) 
 - [OfficeDevPnP.Core.Framework.Provisioning.Connectors](OfficeDevPnP.Core.Framework.Provisioning.Connectors.md) 

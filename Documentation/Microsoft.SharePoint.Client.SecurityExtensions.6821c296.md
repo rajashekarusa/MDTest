@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Group AddGroup(Web web, String groupName, String groupDescription, Boolean groupIsOwner, Boolean updateAndExecuteQuery, Boolean onlyAllowMembersViewMembership)
+public static Group AddGroup(this Web web, String groupName, String groupDescription, Boolean groupIsOwner, Boolean updateAndExecuteQuery = True, Boolean onlyAllowMembersViewMembership = False)
 ```
 ### Parameters
 #### web  
@@ -49,8 +49,6 @@ Type: Group
 The created group  
 
 
-## Remarks
-  
 ## See also
 - [SecurityExtensions](Microsoft.SharePoint.Client.SecurityExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -1,5 +1,5 @@
 # ExternalUserEntity.Properties InvitedAs
-  
+ External user invited as with this value   
 
 **Namespace:** [OfficeDevPnP.Core.Entities](OfficeDevPnP.Core.Entities.md)  
 **Assembly:** OfficeDevPnP.Core.dll  

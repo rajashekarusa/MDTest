@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class WorkflowsWorkflowSubscription
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [WorkflowsWorkflowSubscription()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201508.WorkflowsWorkflowSubscription.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

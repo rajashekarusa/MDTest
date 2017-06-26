@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class PinnedLinkData
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [PinnedLinkData()](OfficeDevPnP.Core.UPAWebService.PinnedLinkData.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class ProvisioningTemplateFile
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [ProvisioningTemplateFile()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201512.ProvisioningTemplateFile.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

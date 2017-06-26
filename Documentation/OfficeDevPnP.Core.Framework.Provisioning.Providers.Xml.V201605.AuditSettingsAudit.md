@@ -9,10 +9,6 @@ System.Object
 ```C#
 public class AuditSettingsAudit
 ```
-## Constructors
-|**Name**|**Description**|
-|:-----|:-----|
-| [AuditSettingsAudit()](OfficeDevPnP.Core.Framework.Provisioning.Providers.Xml.V201605.AuditSettingsAudit.ctor1.md) |  
 ## Properties
 |**Name**|**Description**|
 |:-----|:-----|

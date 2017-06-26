@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ReorderContentTypes(List list, IEnumerable<String> contentTypeNamesOrIds)
+public static void ReorderContentTypes(this List list, IEnumerable<String> contentTypeNamesOrIds)
 ```
 ### Parameters
 #### list  
@@ -15,7 +15,7 @@ public static void ReorderContentTypes(List list, IEnumerable<String> contentTyp
   
 
 #### contentTypeNamesOrIds  
-&emsp;&emsp;Type: System.Collections.Generic.IEnumerable<System.String>  
+&emsp;&emsp;Type: System.Collections.Generic.IEnumerable&lt;System.String&gt;  
 &emsp;&emsp;Content type names or ids to sort.  
 
   
@@ -23,8 +23,6 @@ public static void ReorderContentTypes(List list, IEnumerable<String> contentTyp
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void ProvisionSourceVariationLabel(ClientContext context, VariationLabelEntity sourceVariationLabel)
+public static void ProvisionSourceVariationLabel(this ClientContext context, VariationLabelEntity sourceVariationLabel)
 ```
 ### Parameters
 #### context  
@@ -23,8 +23,6 @@ public static void ProvisionSourceVariationLabel(ClientContext context, Variatio
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [VariationExtensions](Microsoft.SharePoint.Client.VariationExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

@@ -5,28 +5,26 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static bool HasMinimalServerLibraryVersion(ClientRuntimeContext clientContext, String minimallyRequiredVersion)
+public static bool HasMinimalServerLibraryVersion(this ClientRuntimeContext clientContext, String minimallyRequiredVersion)
 ```
 ### Parameters
 #### clientContext  
 &emsp;&emsp;Type: Microsoft.SharePoint.Client.ClientRuntimeContext  
-&emsp;&emsp; Checks the server library version of the context for a minimally required version   
+&emsp;&emsp;clientContext to operate on  
 
   
 
 #### minimallyRequiredVersion  
 &emsp;&emsp;Type: System.String  
-&emsp;&emsp; Checks the server library version of the context for a minimally required version   
+&emsp;&emsp;provide version to validate  
 
   
 
 ### Return Value
 Type: bool  
-  
+True if it has minimal required version, false otherwise  
 
 
-## Remarks
-  
 ## See also
 - [ClientContextExtensions](Microsoft.SharePoint.Client.ClientContextExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

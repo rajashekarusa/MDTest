@@ -5,11 +5,11 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static Expression<Func<TInput, Object>> ToUntypedStaticMethodCallExpression(Expression<Func<TInput, TOutput>> expression)
+public static Expression<Func<TInput, Object>> ToUntypedStaticMethodCallExpression<TInput, TOutput>(this Expression<Func<TInput, TOutput>> expression)
 ```
 ### Parameters
 #### expression  
-&emsp;&emsp;Type: System.Linq.Expressions.Expression<System.Func<TInput, TOutput>>  
+&emsp;&emsp;Type: System.Linq.Expressions.Expression&lt;System.Func&lt;TInput, TOutput&gt;&gt;  
 &emsp;&emsp; to convert   
 
   
@@ -19,8 +19,6 @@ Type: Expression<Func<TInput,  Object>>
 New Expression where return type is object and not generic  
 
 
-## Remarks
-  
 ## See also
 - [ClientObjectExtensions](Microsoft.SharePoint.Client.ClientObjectExtensions.md) 
 - System.Linq.Expressions.Expression

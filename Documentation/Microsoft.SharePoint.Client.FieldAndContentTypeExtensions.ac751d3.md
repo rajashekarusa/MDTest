@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void SetJsLinkCustomizations(List list, String fieldName, String jsLink)
+public static void SetJsLinkCustomizations(this List list, String fieldName, String jsLink)
 ```
 ### Parameters
 #### list  
@@ -29,8 +29,6 @@ public static void SetJsLinkCustomizations(List list, String fieldName, String j
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [FieldAndContentTypeExtensions](Microsoft.SharePoint.Client.FieldAndContentTypeExtensions.md) 
 - [Microsoft.SharePoint.Client](Microsoft.SharePoint.Client.md) 

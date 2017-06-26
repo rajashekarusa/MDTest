@@ -5,7 +5,7 @@
 **Assembly:** OfficeDevPnP.Core.dll  
 ## Syntax
 ```C#
-public static void DeleteCustomAction(Web web, Guid id)
+public static void DeleteCustomAction(this Web web, Guid id)
 ```
 ### Parameters
 #### web  
@@ -23,8 +23,6 @@ public static void DeleteCustomAction(Web web, Guid id)
 ### Return Value
 Type: void  
 
-## Remarks
-  
 ## See also
 - [NavigationExtensions](Microsoft.SharePoint.Client.NavigationExtensions.md) 
 - [GetCustomActions](Microsoft.SharePoint.Client.NavigationExtensions.eac0e89b.md)
